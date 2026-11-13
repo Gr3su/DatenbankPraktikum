@@ -1,0 +1,37 @@
+{
+    "url": "https://www.spiegel.de/netzwelt/apps/whatsapp-ausgekluegelter-angriff-warum-apple-user-jetzt-die-chatsoftware-updaten-sollten-a-7069b975-b92a-4a22-9de9-6308c746589d",
+    "id": "7069b975-b92a-4a22-9de9-6308c746589d",
+    "channel": "Netzwelt",
+    "subchannel": "Apps",
+    "headline": {
+        "main": "Schwachstelle in Chatsoftware: Darum sollten Apple-User WhatsApp updaten",
+        "social": "Schwachstelle in Software: Darum sollten Apple-User WhatsApp updaten"
+    },
+    "intro": "Die Software auf den eigenen Ger\u00e4ten aktuell zu halten, lohnt sich. Erst recht dann, wenn sowohl Apple als auch WhatsApp Updates ausliefern, die Nutzer vor einem \u00bbausgekl\u00fcgelten Angriff\u00ab sch\u00fctzen.",
+    "text": "WhatsApp hat eine Schwachstelle in den Varianten seines Messengers f\u00fcr Apple-Ger\u00e4te behoben. Nutzerinnen und Nutzer, die die App auf iPhones, iPads oder auch Mac-Computern nutzen, sollten diese deshalb zeitnah auf die neueste Version bringen, sofern es bei ihnen noch kein automatisches Update gab. Von der Schwachstelle betroffen ist Unternehmensangaben zufolge\u00a0 WhatsApp f\u00fcr iOS vor Version 2.25.21.73, WhatsApp Business f\u00fcr iOS vor Version 2.25.21.78 und WhatsApp f\u00fcr Macs vor Version 2.25.21.78.\nWhatsApp geht davon aus, dass die Messenger-Schwachstelle (CVE-2025-55177) in Kombination mit einer iOS-Schwachstelle (CVE-2025-43300) bereits ausgenutzt worden sein k\u00f6nnte, f\u00fcr einen \u00bbausgekl\u00fcgelten Angriff auf bestimmte, gezielt ausgew\u00e4hlte User\u00ab. Zum Ziel geworden sein k\u00f6nnten dabei etwa politische Aktivisten, wie ein X-Post von Donncha \u00d3 Cearbhaill nahelegt\u00a0, dem Chef des sogenannten Security Lab von Amnesty International.\nApple hat die iOS-Sicherheitsl\u00fccke zwar bereits gestopft und am 20. August die iOS-Version 18.6.2 ver\u00f6ffentlicht. Wer sich aber unsicher ist, ob er diese sichere iOS-Version bereits installiert hat, sollte dies einmal unter \u00bbEinstellungen/Allgemein/Softwareupdate\u00ab pr\u00fcfen. An dieser Stelle l\u00e4sst sich gegebenenfalls auch eine Aktualisierung ansto\u00dfen.\nWelche WhatsApp-Version auf dem eigenen iPhone oder iPad installiert ist, findet man heraus, indem man direkt im Messenger auf \u00bbEinstellungen/Hilfe\u00ab geht.\nSollte noch eine unsichere WhatsApp-Version installiert sein, \u00f6ffnet man den App Store, tippt oben auf \u00bbMein Account\u00ab oder das eigene Foto und scrollt dann nach unten, um ausstehende Updates und Versionshinweise anzuzeigen. Neben WhatsApp kann man dann auf \u00bbAktualisieren\u00ab tippen. Alternativ kann man \u00bbAlle aktualisieren\u00ab ausw\u00e4hlen. Grunds\u00e4tzlich ist es f\u00fcr die meisten Nutzerinnen und Nutzer empfehlenswert, Apps nicht manuell zu aktualisieren, sondern auf iPhone oder iPad unter \u00bbEinstellungen/App Store\u00ab automatische App-Updates zu aktivieren\u00a0.\n\u00bbHeise Online\u00ab schreibt\u00a0 zu dem Sicherheitsproblem, Angreifer h\u00e4tten dadurch die M\u00f6glichkeit, ohne Zutun der Nutzerinnen und Nutzer Code einzuschleusen. \u00bbDie Sicherheitsl\u00fccke im Messenger nutzt einen Fehler bei der Autorisierung bestimmter iPhones, iPads und macOS-Computer aus, wenn Nachrichten automatisch mit den Ger\u00e4ten synchronisiert werden sollen\u00ab, erkl\u00e4rt das Techportal. In Verbindung mit L\u00fccken in den Betriebssystemen der Ger\u00e4te k\u00f6nne der Fehler ausgenutzt werden, um \u00fcber eine URL eine Sp\u00e4hsoftware zu installieren: \u00bbPer Klick oder Tipp best\u00e4tigen m\u00fcssen die Nutzer der Apple-Ger\u00e4te dies nicht.\u00ab",
+    "topics": [
+        "WhatsApp",
+        "Meta",
+        "Apps",
+        "Apple iOS",
+        "iOS-Apps",
+        "Apple"
+    ],
+    "author": {
+        "abbreviation": "mb\u00f6/dpa",
+        "departments": [
+            "Netzwelt"
+        ],
+        "names": []
+    },
+    "date_created": "2025-09-02T15:01:00+02:00",
+    "date_modified": "2025-09-02T17:32:00+02:00",
+    "date_published": "2025-09-02T15:01:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Netzwelt",
+        "Apps",
+        "WhatsApp: \u00bbAusgekl\u00fcgelter Angriff\u00ab - warum Apple-User jetzt die Chatsoftware updaten sollten"
+    ]
+}
+

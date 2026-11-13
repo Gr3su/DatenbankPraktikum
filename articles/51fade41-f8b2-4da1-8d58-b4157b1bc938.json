@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-einzigartige-brueche-gesucht-a-51fade41-f8b2-4da1-8d58-b4157b1bc938",
+    "id": "51fade41-f8b2-4da1-8d58-b4157b1bc938",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Einzigartige Br\u00fcche gesucht",
+        "social": "R\u00e4tsel der Woche: Einzigartige Br\u00fcche gesucht"
+    },
+    "intro": "Bei der Mathematikolympiade in G\u00f6ttingen mussten Deutschlands Toptalente unter anderem nach gebrochenen Zahlen mit ganz besonderen Eigenschaften fahnden. K\u00f6nnen Sie die Aufgabe aus der Klassenstufe 10 l\u00f6sen?",
+    "text": "Vor einer Woche trafen sich rund 200 Sch\u00fclerinnen und Sch\u00fcler aus ganz Deutschland zur Endrunde der Mathematikolympiade in G\u00f6ttingen\u00a0. Die Aufgaben waren anspruchsvoll. Das folgende Problem aus der Klassenstufe 10 eignet sich aber auch f\u00fcr das \u00bbR\u00e4tsel der Woche\u00ab. Vielen Dank an den Aufgabenausschuss der Mathematik-Olympiade, der die Aufgabe und zwei L\u00f6sungswege zur Verf\u00fcgung gestellt hat.\nIch habe das Problem etwas vereinfacht. Sie k\u00f6nnen sich aber auch an der Version versuchen, die den Teilnehmerinnen und Teilnehmern in G\u00f6ttingen gestellt wurde.\nEs geht um eine gebrochene Zahl a/b und ihren Kehrbruch b/a, auch Reziprok genannt. Diese beiden Br\u00fcche haben in der Dezimaldarstellung h\u00f6chstens drei Nachkommastellen.\nWie viele solche Br\u00fcche gibt es?\nHinweis: a/b soll nicht weiter k\u00fcrzbar sein!\nDie schwierigere Frage: Die gebrochene Zahl und ihr Kehrbruch haben in der Dezimaldarstellung h\u00f6chstens n Stellen nach dem Komma. Wie viele solche Zahlen existieren? \nEs gibt 49 verschiedene Br\u00fcche, welche die Bedingung der Aufgabe erf\u00fcllen.\nDie gebrochene Zahl z (= a/b) hat genau dann die geforderten Eigenschaften, dass z und 1/z maximal drei Nachkommastellen haben, wenn gilt:\ng = 103*z ist ganzzahlig und\n103*(1/z) ist ebenfalls ganzzahlig.\nWir formen den unteren Bruch um und setzen g = 103*z darin ein:\n103*(1/z) = 106/(103*z) = 106/g\nFassen wir zusammen: Sowohl g als auch 106/g m\u00fcssen ganzzahlig sein. Wir suchen also alle ganzzahligen g, die Teiler von 106 sind. Haben wir diese gefunden, k\u00f6nnen wir \u00fcber die (noch nach z umzustellende) Formel g = 103*z den zugeh\u00f6rigen Bruch z ausrechnen.\nDie Anzahl der positiven Teiler g von 106 = 26*56 entspricht deshalb der gesuchten Anzahl der Br\u00fcche mit h\u00f6chstens drei Nachkommastellen.\nWir k\u00f6nnen g darstellen mit der Formel\ng = 2k*5m,\nwobei gilt 0 \u2264 k \u2264 6 und 0 \u2264 m \u2264 6 und z = g/103. F\u00fcr die Exponenten von 2 (k) und 5 (m) in der Primfaktorzerlegung von g gibt es dabei unabh\u00e4ngig voneinander jeweils die sieben M\u00f6glichkeiten von 0 bis 6. Weitere Primfaktoren wie 3 oder 7 d\u00fcrfen in g nicht vorkommen, weil sie in 106 = 26*56 nicht enthalten sind. Also gibt es genau 7*7 = 49 verschiedene M\u00f6glichkeiten f\u00fcr g \u2013 und damit auch f\u00fcr z.\n\u00dcber g = 103*z kommen wir zur Formel f\u00fcr z:\nz = 2k*5m/103\nWir k\u00f6nnen damit alle 49 L\u00f6sungen berechnen, indem wir jeweils f\u00fcr k und m die Werte von 0 bis 6 einsetzen. Zwei konkrete L\u00f6sungsbeispiele:\nk = 0 und m = 2\nDann gilt z = 25/1000 = 1/40 = 0,025 und 1/z = 1000/25 = 40. Beide Zahlen haben maximal drei Nachkommastellen.\nk = 2 und m = 4\nWir erhalten z = 2500/1000 = 5/2 = 2,5 und 1/z = 1000/2500 = 2/5 = 0,4. Beide Br\u00fcche haben maximal drei Nachkommastellen.\nDie allgemeine L\u00f6sung nutzt dasselbe Prinzip. Die gebrochene Zahl z (= a/b) hat genau dann die geforderten Eigenschaften, dass z und 1/z maximal n Nachkommastellen haben, wenn gilt:\ng = 10n*z ist ganzzahlig und\n10n*(1/z) ist ebenfalls ganzzahlig.\nWir formen den unteren Bruch um und setzen g = 10n*z darin ein:\n10n*(1/z) = 102n/(10n*z) = 102n/g\nSowohl g als auch 102n/g m\u00fcssen ganzzahlig sein.\nDie Anzahl der positiven Teiler g von 102n = 22n*52n ist damit gleich der Anzahl der gesuchten Br\u00fcche mit h\u00f6chstens n Nachkommastellen. F\u00fcr die Exponenten von 2 und 5 in der Primfaktorzerlegung von g gibt es dabei unabh\u00e4ngig voneinander jeweils 2n + 1 M\u00f6glichkeiten von 0 bis 2n. Weitere Primfaktoren kommen in g nicht vor. Also gibt es als L\u00f6sung (2n + 1)2 verschiedene Dezimalbr\u00fcche der L\u00e4nge n.\nVielen Dank f\u00fcr diese nicht ganz einfache Aufgabe an Patrick Bauermann und das Team um Michael Dreher vom Aufgabenausschuss der Mathematik-Olympiade!\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nWie gro\u00df ist das graue Quadrat?\nWie lautet der T\u00fcrcode?\nWie gro\u00df ist das Trapez?\nGrillen f\u00fcr Profis\nWie gro\u00df ist der spitze Winkel?\nEin Geburtstag, viele Kinder\nWie viele verschiedene Ketten sind m\u00f6glich?\nWie quert man eine Marathonstrecke?\nWie gro\u00df ist die rote Fl\u00e4che?\nSechsstellige Zahl gesucht\nAnmerkung der Redaktion: In einer fr\u00fcheren Version dieses Artikels fehlte der Hinweis, dass die gesuchten gebrochenen Zahlen a/b nicht weiter k\u00fcrzbar sein d\u00fcrfen. Dieser Hinweis wurde erg\u00e4nzt.",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-06-01T20:57:00+02:00",
+    "date_modified": "2025-06-01T20:57:00+02:00",
+    "date_published": "2025-06-01T20:57:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Einzigartige Br\u00fcche gesucht"
+    ]
+}
+

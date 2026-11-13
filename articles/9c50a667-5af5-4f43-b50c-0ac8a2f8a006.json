@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-die-flaeche-des-gleichschenkligen-trapezes-a-9c50a667-5af5-4f43-b50c-0ac8a2f8a006",
+    "id": "9c50a667-5af5-4f43-b50c-0ac8a2f8a006",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Wie gro\u00df ist das Trapez?",
+        "social": "R\u00e4tsel der Woche: Wie gro\u00df ist die Fl\u00e4che des gleichschenkligen Trapezes?"
+    },
+    "intro": "Die beiden Schenkel eines Trapezes sind gleich lang. Bekannt sind au\u00dferdem drei Streckenl\u00e4ngen auf einer Diagonalen. Reichen diese Angaben, um die Fl\u00e4che des Trapezes zu berechnen?",
+    "text": "Drei Zahlen sind gegeben, zwei rechte Winkel sowie der Hinweis, dass zwei Seiten des Trapezes gleich lang sind \u2013 die beiden Schenkel rechts und links. Die Zeichnung oben zeigt die Positionen der zwei rechten Winkel und der drei Strecken mit den L\u00e4ngen 1, 3 und 4.\nBerechnen Sie die Fl\u00e4che des Trapezes!\nHinweis: Ein Trapez ist ein Viereck, bei dem zwei gegen\u00fcberliegende Seiten zueinander parallel sind.\nDas Trapez hat eine Fl\u00e4che von 20*Wurzel(11/5), was rund 29,7 entspricht.\nWir bezeichnen die Eckpunkte des Trapezes mit A, B, C, D und die beiden Punkte auf der Diagonalen mit E und F. Schauen wir zun\u00e4chst auf die beiden pink hervorgehobenen Dreiecke EDC und ABF. Die Diagonale BD schneidet die zueinander parallelen Seiten CD und AB. Deshalb sind die Winkel EDC und ABF gleich gro\u00df.\nDaraus folgt, dass auch die Winkel DCE und BAF gleich gro\u00df sind, denn die pink markierten Dreiecke sind beide rechtwinklig. Die Dreiecke ABF und EDC sind deshalb einander \u00e4hnlich. Weil ihre kurzen Katheten die L\u00e4nge 1 und 4 haben, sind die langen Katheten t und 4t lang (wobei wir t noch nicht kennen).\nDas gelb markierte rechtwinklige Dreieck ADF ist eine Spiegelung des rechtwinkligen Dreiecks ABF an der Strecke AF, die Innenwinkel beider Dreiecke sind gleich gro\u00df. Warum? Weil die Katheten der zwei Dreiecke gleich lang sind (4 = 1 + 3 und 4t) und der Winkel zwischen den Katheten 90 Grad betr\u00e4gt. Daraus folgt, dass die Seite AB genauso lang ist wie die Seite AD und die Seite BC.\nJetzt kommt der Satz des Pythagoras ins Spiel. Die Hypotenusen der Dreiecke EBC und ABF sind gleich lang. Deshalb gilt:\n(4t)2 + 42 = (3+4)2 + t215t2 = 33t2 = 11/5t = Wurzel(11/5)\nDie Fl\u00e4che des Trapezes k\u00f6nnen wir mit folgender Formel berechnen:\nA = 8*(4t + t)/2A = 20tA = 20*Wurzel(11/5)\nEntdeckt habe ich dieses R\u00e4tsel in der Facebookgruppe \u00bbGeometria Super Top\u00ab.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nGrillen f\u00fcr Profis\nWie gro\u00df ist der spitze Winkel?\nEin Geburtstag, viele Kinder\nWie viele verschiedene Ketten sind m\u00f6glich?\nWie quert man eine Marathonstrecke?\nWie gro\u00df ist die rote Fl\u00e4che?\nSechsstellige Zahl gesucht\nWelche Ziffer fehlt?\nWelche Fl\u00e4che hat der Kreis?\nVier auf einen Streich",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-05-11T15:15:00+02:00",
+    "date_modified": "2025-05-11T15:15:00+02:00",
+    "date_published": "2025-05-11T15:15:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Wie gro\u00df ist die Fl\u00e4che des gleichschenkligen Trapezes?"
+    ]
+}
+

@@ -1,0 +1,36 @@
+{
+    "url": "https://www.spiegel.de/netzwelt/apps/telemessage-messenger-wurde-doppelt-gehackt-und-wird-abgeschaltet-a-8c975f24-ce97-48ef-9d01-94ffb81af019",
+    "id": "8c975f24-ce97-48ef-9d01-94ffb81af019",
+    "channel": "Netzwelt",
+    "subchannel": "Apps",
+    "headline": {
+        "main": "Unsichere App TeleMessage: Von der US-Regierung genutzter Messenger wurde doppelt gehackt und wird abgeschaltet",
+        "social": "TeleMessage: Messenger wurde doppelt gehackt und wird abgeschaltet"
+    },
+    "intro": "Trumps mittlerweile entlassener Sicherheitsberater Mike Waltz, aber auch die US-Grenzschutzbeh\u00f6rde nutzten eine von TeleMessage angepasste Version der App Signal. Der Dienstleister r\u00e4umte nun Sicherheitsprobleme ein.",
+    "text": "Nicht einmal, sondern gleich zweifach gehackt: Die Softwarefirma TeleMessage, in Israel gegr\u00fcndet und 2024 vom US-Unternehmen Smarsh \u00fcbernommen, hat ein paar bittere Tage hinter sich. Brisant daran ist, dass zu den Kunden von TeleMessage unter anderem die US-Grenzschutzbeh\u00f6rde CBP (Customs and Border Protection), das US-Gesundheitsministerium, das US-Finanzministerium und auch Mike Waltz geh\u00f6rten, der nach der sogenannten Signalgate-Aff\u00e4re\u00a0 entlassene Sicherheitsberater von US-Pr\u00e4sident Donald Trump.\nTeleMessage bietet modifizierte Versionen von Messenger-Apps wie Signal, WhatsApp, Telegram und WeChat an. Der wichtigste Unterschied: Chats lassen sich auf einem Server archivieren, was zum Beispiel f\u00fcr die offizielle Kommunikation der US-Regierung vorgeschrieben ist. Mit dieser Funktion wirbt die Mutterfirma Smarsh f\u00fcr ihre Dienste. Damit wird allerdings auch die Ende-zu-Ende-Verschl\u00fcsselung ausgehebelt, die das Mitlesen von Chats durch Dritte unterbindet. Und die Signal-Variante von TeleMessage beinhaltet ersten Analysen zufolge\u00a0 weitere Schw\u00e4chen, darunter fest codierte und damit auslesbare Zugangsdaten.\nDer erste Hack von TeleMessage wurde am Wochenende bekannt. Demnach verschaffte sich jemand mit geringem Aufwand Zugang zum Cloudspeicher des App-Herstellers und stie\u00df dabei auch auf Daten von Regierungsoffiziellen sowie CBP-Accounts.\nLaut \u00bbNBC News\u00ab\u00a0 gab es danach einen zweiten Sicherheitsvorfall. Am Sonntag habe sich ein Hacker beim Sender gemeldet und glaubw\u00fcrdige Beweise daf\u00fcr vorgelegt, dass er in einen zentralen Server von TeleMessage eingedrungen sei. Nach eigenen Angaben habe er eine gro\u00dfe Menge Dateien heruntergeladen, berichtet NBC News. Was alles darin steckt, wisse er aber selbst noch nicht.\n\u00bbAlle TeleMessage-Dienste vor\u00fcbergehend ausgesetzt\u00ab\nSmarsh r\u00e4umte demnach ein, dass es \u00bbeinen m\u00f6glichen Sicherheitsvorfall\u00ab untersucht. \u00bbNach der Entdeckung haben wir schnell reagiert, um den Vorfall einzud\u00e4mmen, und eine externe Cybersicherheitsfirma engagiert, um unsere Untersuchung zu unterst\u00fctzen\u00ab, hie\u00df es in einer Stellungnahme der Firma. Und weiter: \u00bbAls Vorsichtsma\u00dfnahme wurden alle TeleMessage-Dienste vor\u00fcbergehend ausgesetzt.\u00ab\nAuch die Grenzschutzbeh\u00f6rde reagierte und beendete die Verwendung der App f\u00fcrs Erste.\nEin Signal-Sprecher teilte mit: \u00bbWir k\u00f6nnen die Datenschutz- und Sicherheitseigenschaften von inoffiziellen Versionen von Signal nicht garantieren.\u00ab",
+    "topics": [
+        "Donald Trump",
+        "Messenger",
+        "Israel",
+        "IT-Sicherheit",
+        "WhatsApp"
+    ],
+    "author": {
+        "abbreviation": "pbe",
+        "departments": [
+            "Netzwelt"
+        ],
+        "names": []
+    },
+    "date_created": "2025-05-06T10:43:00+02:00",
+    "date_modified": "2025-05-06T10:43:00+02:00",
+    "date_published": "2025-05-06T10:43:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Netzwelt",
+        "Apps",
+        "TeleMessage: Messenger wurde doppelt gehackt und wird abgeschaltet"
+    ]
+}
+

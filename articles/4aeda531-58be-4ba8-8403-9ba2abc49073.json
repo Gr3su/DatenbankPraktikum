@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-kleine-gruene-dreieck-a-4aeda531-58be-4ba8-8403-9ba2abc49073",
+    "id": "4aeda531-58be-4ba8-8403-9ba2abc49073",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Wie gro\u00df ist das kleine gr\u00fcne Dreieck?",
+        "social": "R\u00e4tsel der Woche: Wie gro\u00df ist das kleine gr\u00fcne Dreieck?"
+    },
+    "intro": "Zwei gleich gro\u00dfe Quadrate liegen verdreht und verschoben \u00fcbereinander. Welche Fl\u00e4che hat das gr\u00fcn gef\u00e4rbte Dreieck, das \u00fcber den Rand des Quadrats darunter hinausragt?",
+    "text": "Ein frohes 452! Damit Sie zu Jahresbeginn nicht noch mehr rechnen m\u00fcssen, geht es im ersten R\u00e4tsel 2025 um ein geometrisches Problem \u2013 und nur ein wenig um Rechnerei.\nZwei identisch gro\u00dfe Quadrate liegen \u00fcbereinander. Allerdings nicht genau \u00fcbereinander. Das obere Quadrat ist leicht gedreht. Zudem befindet sich sein Mittelpunkt nicht exakt \u00fcber dem Mittelpunkt des Quadrats darunter.\nDie Ecken des oben liegenden Quadrats ragen deshalb \u00fcber die Seiten des unteren Quadrats hinaus. Dabei entstehen vier rechtwinklige Dreiecke, die in der Zeichnung oben farbig hervorgehoben sind. Die Fl\u00e4chen von drei dieser Dreiecke sind vorgegeben: 1, 2 und 4.\nWie gro\u00df ist dann das vierte Dreieck, das in der Zeichnung gr\u00fcn gef\u00e4rbt ist?\nDas gr\u00fcne Dreieck hat eine Fl\u00e4che von 3 - 2*Wurzel(2).\nAlle vier rechtwinkligen Dreiecke sind \u00e4hnlich zueinander. Wir nehmen an, dass das gelbe Dreieck (mit der Fl\u00e4che 1) eine Hypotenuse der L\u00e4nge g hat und eine H\u00f6he der L\u00e4nge h.\nDas blaue Dreieck rechts ist viermal so gro\u00df wie das gelbe. Wegen der \u00c4hnlichkeit der Dreiecke m\u00fcssen Hypotenuse und H\u00f6he des blauen Dreiecks doppelt so lang wie beim gelben Dreieck sein. Denn die Fl\u00e4che wird mit der Formel Hypotenuse (= Grundlinie) mal H\u00f6he durch 2 berechnet. Also hat das blaue Dreieck eine Hypotenuse der L\u00e4nge 2g und eine H\u00f6he von 2h.\nDas rote Dreieck hat eine doppelt so gro\u00dfe Fl\u00e4che wie das gelbe. Hypotenuse und H\u00f6he m\u00fcssen deshalb im Vergleich zum gelben Dreieck den Faktor Wurzel(2) haben. Dann gilt f\u00fcr die Hypotenusenl\u00e4nge Wurzel(2)*g und f\u00fcr die H\u00f6he Wurzel(2)*h.\nDas gr\u00fcne Dreieck hat die Fl\u00e4che x, wobei wir x noch nicht kennen. Hypotenuse und H\u00f6he m\u00fcssen daher die L\u00e4ngen Wurzel(x)*g und Wurzel(x)*h haben.\nNun kommt der entscheidende Schritt: Die Summe der H\u00f6hen von blauem und gr\u00fcnem Dreieck muss genauso gro\u00df sein wie die Summe der H\u00f6hen von gelbem und rotem Dreieck. Denn es handelt sich dabei um die H\u00f6he beziehungsweise Breite des gedrehten Quadrats abz\u00fcglich der Seitenl\u00e4nge des Quadrats. Und Breite und H\u00f6he sind gleich gro\u00df. Also gilt:\n2*h + Wurzel(x)*h = h + Wurzel(2)*h\nWir dividieren beide Seiten durch h, ziehen auf beiden Seiten 2 ab und quadrieren:\nx = (Wurzel(2) - 1)2\nx = 3 - 2*Wurzel(2)\nEntdeckt habe ich dieses R\u00e4tsel in der Facebook-Gruppe \u00bbGeometria Super Top\u00ab.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nGedr\u00e4nge auf der Ameisenstra\u00dfe\nBikesharing f\u00fcr Fortgeschrittene\nWer die letzte M\u00fcnze erwischt, gewinnt\nZahlenquintett gesucht\nScheibe um Scheibe\nSeltsame Addition\nIn welche Richtung fuhr das Fahrrad?\nPerfekt halbiert\nDas Tor zur Freiheit\nDreiecksfl\u00e4che gesucht",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-01-05T06:50:00+01:00",
+    "date_modified": "2025-01-05T06:50:00+01:00",
+    "date_published": "2025-01-05T06:50:00+01:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Wie gro\u00df ist das kleine gr\u00fcne Dreieck?"
+    ]
+}
+

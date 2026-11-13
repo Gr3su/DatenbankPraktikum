@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-welche-flaeche-hat-der-kreis-a-c3f68771-bb6f-4d59-9816-6c7ae5645d32",
+    "id": "c3f68771-bb6f-4d59-9816-6c7ae5645d32",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Welche Fl\u00e4che hat der Kreis?",
+        "social": "R\u00e4tsel der Woche: Welche Fl\u00e4che hat der Kreis"
+    },
+    "intro": "Ein Kreis ber\u00fchrt zwei Seiten eines Rechtecks. Bekannt ist nur der Abstand zweier Ecken zu den Ber\u00fchrungspunkten. Wie gro\u00df ist der Kreis?",
+    "text": "Auf das gr\u00fcndliche Zerlegen eines Briefmarkenbogens in der vergangenen Woche folgt ein klassisches, nicht allzu schweres geometrisches Problem: Ein Kreis trifft auf ein Rechteck \u2013 siehe Zeichnung oben.\nDer Kreis ber\u00fchrt die linke und die untere Seite des Rechtecks. Der Abstand dieser beiden Ber\u00fchrungspunkte zu den Eckpunkten links oben und rechts unten ist gegeben: 2 und 3.\nK\u00f6nnen Sie allein mit diesen Angaben die Fl\u00e4che des Kreises berechnen?\nDie Kreisfl\u00e4che betr\u00e4gt 13*Pi.\nDie L\u00f6sung findet sich schnell mithilfe des Satzes des Pythagoras.\nWir zeichnen den Mittelpunkt M des Kreises ein und zus\u00e4tzlich Senkrechten zu den Seiten des Rechtecks, die durch diesen Mittelpunkt f\u00fchren \u2013 siehe Skizze unten.\nDabei entsteht ein Rechteck mit den Seitenl\u00e4ngen 2 und 3, dessen Diagonale dem Kreisradius r entspricht.\nNach dem Satz des Pythagoras gilt:\nr2 = 22 + 32r2 = 13r = Wurzel(13)\nDie gesuchte Kreisfl\u00e4che wird mit der Formel Pi*r2 berechnet und ist deshalb 13*Pi.\nEntdeckt habe ich diese Knobelei auf der Facebook-Seite Geometria Super Top\u00a0.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nVier auf einen Streich\nGl\u00fcckliche F\u00fcgung\nWie gro\u00df ist das blaue Quadrat?\nWie voll ist die Flasche?\nGleiche Winkel auf dem Ziffernblatt\nVier Schwestern, vier B\u00e4ume\nSechs Nullen wachsen \u00fcber sich hinaus\nWie viele Gefangene kommen frei?\nWie gro\u00df ist das kleine gr\u00fcne Dreieck?\nGedr\u00e4nge auf der Ameisenstra\u00dfe",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-03-09T15:49:00+01:00",
+    "date_modified": "2025-03-09T15:49:00+01:00",
+    "date_published": "2025-03-09T15:49:00+01:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Welche Fl\u00e4che hat der Kreis"
+    ]
+}
+

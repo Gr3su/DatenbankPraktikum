@@ -1,0 +1,34 @@
+{
+    "url": "https://www.spiegel.de/netzwelt/bairisch-kuenstliche-intelligenz-versteht-keine-bayerischen-dialekte-a-1ceb03af-c24d-445d-96ad-8e68e91f9a7b",
+    "id": "1ceb03af-c24d-445d-96ad-8e68e91f9a7b",
+    "channel": "Netzwelt",
+    "subchannel": "default",
+    "headline": {
+        "main": "Bairisch f\u00fcr Anf\u00e4nger: KI versteht keine bayerischen Dialekte",
+        "social": "Bairisch: K\u00fcnstliche Intelligenz versteht keine bayerischen Dialekte"
+    },
+    "intro": "Wissenschaftlich belegt: Bairisch ist schwer verst\u00e4ndlich \u2013 zumindest f\u00fcr k\u00fcnstliche Intelligenz. Eine neue Studie zeigt, dass die Spracherkennung Schwierigkeiten hat, Gesprochenes ins Hochdeutsche zu verschriftlichen.",
+    "text": "Einer neuen Studie\u00a0 zufolge hat k\u00fcnstliche Intelligenz (KI) Probleme, bayerische Dialekte zu verstehen. Ein gemeinsames Forschungsprojekt des Bayerischen Rundfunks (BR) mit der M\u00fcnchner Ludwig-Maximilians-Universit\u00e4t (LMU) hat demnach ergeben, dass Spracherkennungssysteme nach wie vor gro\u00dfe Schwierigkeiten damit haben, Dialektsendungen ins Hochdeutsche zu transkribieren.\nF\u00fcr ihre Versuche nutzten die Wissenschaftler laut einer Mitteilung\u00a0 die \u00bbBetthupferl\u00ab-Radiosendungen des BR. Die beliebten Gute-Nacht-Geschichten werden am Wochenende in den im Sendegebiet verbreiteten Mundarten ausgestrahlt.\nDas Zentrum f\u00fcr Informations- und Sprachverarbeitung der Uni f\u00fctterte drei verschiedene Spracherkennungsmodellfamilien mit Dialektdaten. Dazu z\u00e4hlten Whisper von OpenAI, XLS-R von Meta und MMS, ebenfalls von Meta.\nGetestet wurden drei Dialektgruppen: Fr\u00e4nkisch (Unterfr\u00e4nkisch, Mittelfr\u00e4nkisch, Oberfr\u00e4nkisch), Bairisch (Oberbairisch, Niederbairisch, Oberpf\u00e4lzisch) und Schw\u00e4bisch. Diese wurden mit Audioaufnahmen auf Hochdeutsch verglichen. Der Auftrag an die KI lautete, ein Transkript in Hochdeutsch zu erstellen.\nSinn des im Dialekt gesprochenen Satzes ging h\u00e4ufig verloren\nIm Ergebnis machten die Spracherkennungssoftwares bei den Radioaufnahmen in den Dialekten deutlich mehr Fehler als bei der Transkription von Audios auf Hochdeutsch. H\u00e4ufig ging dabei laut der Studie der Sinn des im Dialekt gesprochenen Satzes verloren. Demnach betrafen die Unterschiede zwischen Dialekt und Standarddeutsch auch Wortschatz, Morphologie und Syntax. Damit die Spracherkennungsmodelle ihre Aufgaben k\u00fcnftig besser meisterten, m\u00fcssten sie entsprechend trainiert werden.\nNun pr\u00fcften die Forscher des Zentrums f\u00fcr Informations- und Sprachverarbeitung der LMU, ob die \u00bbBetthupferl\u00ab-Daten daf\u00fcr ausreichten. Wenn es gelingen sollte, Modelle f\u00fcr die einzelnen Dialekte Bayerns zu trainieren, w\u00fcrde dies dem BR beispielsweise bei der Untertitelung von in Dialekt gesprochenen Sendungen helfen.",
+    "topics": [
+        "K\u00fcnstliche Intelligenz",
+        "Die KI-Revolution",
+        "Sprache",
+        "Bayern"
+    ],
+    "author": {
+        "abbreviation": "kim/AFP/KNA",
+        "departments": [
+            "Netzwelt"
+        ],
+        "names": []
+    },
+    "date_created": "2025-08-21T16:46:00+02:00",
+    "date_modified": "2025-08-22T10:02:00+02:00",
+    "date_published": "2025-08-21T16:46:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Netzwelt",
+        "Bairisch: K\u00fcnstliche Intelligenz versteht keine bayerischen Dialekte"
+    ]
+}
+

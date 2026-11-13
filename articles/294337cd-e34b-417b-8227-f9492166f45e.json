@@ -1,0 +1,38 @@
+{
+    "url": "https://www.spiegel.de/netzwelt/games/schach-chatgpt-verliert-gegen-atari-2600-a-294337cd-e34b-417b-8227-f9492166f45e",
+    "id": "294337cd-e34b-417b-8227-f9492166f45e",
+    "channel": "Netzwelt",
+    "subchannel": "Games",
+    "headline": {
+        "main": "KI gegen Brute Force: ChatGPT verliert im Schach gegen Atari 2600",
+        "social": "Schach: ChatGPT verliert gegen Atari 2600"
+    },
+    "intro": "Der gute alte Atari, er kann es noch: In einem Experiment hat das alte Computersystem eine neue KI besiegt. ChatGPT suchte derweil wohl nach Ausreden.",
+    "text": "Bobby Fischer, Garri Kasparow oder Magnus Carlsen: Schach ist \u00fcber 1500 Jahre lang ein Spiel der Menschen gewesen. Doch mittlerweile sind Computerprogramme viel st\u00e4rker als menschliche Spieler. Die Stars der Top Chess Engine Championship, der Meisterschaft im Computerschach, hei\u00dfen LCZero oder Stockfish. Was aber passiert, wenn man eine neue k\u00fcnstliche Intelligenz wie ChatGPT gegen ein altes Computersystem antreten l\u00e4sst? Das hat nun Robert Caruso ausprobiert, ein Mitarbeiter des IT-Konzerns Citrix.\nAuf der einen Seite des Bretts also ChatGPT, ein Large-Language-Modell, trainiert mit enormen Datenmengen. Und auf der anderen Seite: ein Atari 2600 von 1977, der mit einer 1,19-MHz-CPU nur ein bis zwei Z\u00fcge im Voraus denkt. \u00dcber einen Emulator habe er ChatGPT gegen den Atari Schach spielen lassen, schreibt Caruso bei LinkedIn\u00a0.\nDas Ergebnis: \u00bbChatGPT wurde auf Anf\u00e4ngerniveau regelrecht vernichtet\u00ab, berichtet Caruso. ChatGPT habe T\u00fcrme mit L\u00e4ufern verwechselt, Bauernangriffe \u00fcbersehen und immer wieder den \u00dcberblick \u00fcber die Stellung auf dem virtuellen Brett verloren. ChatGPT habe das damit begr\u00fcndet, dass es die Symbole der Schachfiguren nicht genau erkennen k\u00f6nne, schreibt Caruso. Doch auch als er auf die \u00fcbliche Notation der Schachz\u00fcge umgestiegen sei, habe ChatGPT sich nicht verbessert.\n\u00bb90 Minuten lang musste ich es davon abhalten, schreckliche Z\u00fcge zu machen, und seine Brettwahrnehmung mehrmals pro Zug korrigieren\u00ab, so Caruso: ChatGPT habe immer wieder versprochen, dass es sich verbessern w\u00fcrde, wenn man nur neu anfangen w\u00fcrde. \u00bbSchlie\u00dflich wusste sogar ChatGPT, dass es geschlagen war \u2013 und gab mit gesenktem Kopf auf\u00ab, schreibt Caruso. \u00bbUnterdessen machte Ataris bescheidene 8-Bit-Engine einfach ihr Ding. Kein Sprachmodell. Kein Schnickschnack. Nur Brute Force und die Hartn\u00e4ckigkeit von 1977.\u00ab\nWas ist Brute Force?\nDie besten Schachprogramme folgten fr\u00fcher der sogenannten Brute-Force-Methode, die auf roher Rechengewalt beruhte. Alle m\u00f6glichen Zugfolgen wurden im Rahmen von cleveren Algorithmen ausgerechnet. Eine k\u00fcnstliche Intelligenz stellte das Computerschach dann 2014 auf den Kopf: Alpha Zero von DeepMind, das 2014 von Google \u00fcbernommen worden war. Die Engine kannte die Regeln und brachte sich Schach bei, indem es 44 Millionen schnelle Partien gegen sich selbst spielte. Solche Schach-KIs k\u00f6nnen Stellungen heutzutage deutlich besser bewerten als menschliche Spieler.\nWas wir vom Schach \u00fcber k\u00fcnstliche Intelligenz lernen k\u00f6nnen, erkl\u00e4rt ein Schachgro\u00dfmeister hier.\u00a0\nLarge-Language-Modelle wie ChatGPT k\u00f6nnen das aber nicht. Die einfache Erkl\u00e4rung: Diese LLMs sind Generalisten, die anhand von Wahrscheinlichkeiten W\u00f6rter zu sinnvollen S\u00e4tzen zusammenbauen. Diese Sprachmodelle kennen zwar Schachregeln, beherrschen die Schachlogik aber nicht, weil sie kein internes Ged\u00e4chtnis f\u00fcr Schachbretter und Spielstellungen haben.\nDennoch meint Caruso: \u00bbUnabh\u00e4ngig davon, ob wir spezialisierte oder allgemeine KI vergleichen, war seine Unf\u00e4higkeit, eine grundlegende Stellung auf dem Brett von Zug zu Zug beizubehalten, sehr entt\u00e4uschend.\u00ab\nAnmerkung der Redaktion: In einer urspr\u00fcnglichen Version haben wir Robert Caruso bei einem falschen Vornamen genannt. Wir haben den Fehler korrigiert.",
+    "topics": [
+        "Schach",
+        "Atari",
+        "Garri Kasparow",
+        "Magnus Carlsen",
+        "Bobby Fischer",
+        "K\u00fcnstliche Intelligenz",
+        "ChatGPT"
+    ],
+    "author": {
+        "abbreviation": "ptz",
+        "departments": [
+            "Newsdesk"
+        ],
+        "names": []
+    },
+    "date_created": "2025-06-12T17:31:00+02:00",
+    "date_modified": "2025-06-12T17:31:00+02:00",
+    "date_published": "2025-06-12T17:31:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Netzwelt",
+        "Games",
+        "Schach: ChatGPT verliert gegen Atari 2600"
+    ]
+}
+

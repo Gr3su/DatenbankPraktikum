@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-aus-wie-vielen-wuerfel-wurde-das-denkmal-gebaut-a-ead754a5-3c41-49f0-99b4-80e1130ad6f3",
+    "id": "ead754a5-3c41-49f0-99b4-80e1130ad6f3",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Aus wie vielen W\u00fcrfeln besteht das Denkmal?",
+        "social": "R\u00e4tsel der Woche: Aus wie vielen W\u00fcrfel wurde das Denkmal gebaut?"
+    },
+    "intro": "Bei der diesj\u00e4hrigen Matheolympiade ging es unter anderem um ein aus vielen kleinen W\u00fcrfeln errichtetes quaderf\u00f6rmiges Denkmal. Alle 673 von au\u00dfen sichtbaren W\u00fcrfel wurden getauscht. Aus wie vielen Bl\u00f6cken wurde das Denkmal gebaut?",
+    "text": "Leicht l\u00f6sbare Aufgaben gab es bei der Endrunde der Mathematikolympiade in G\u00f6ttingen\u00a0 kaum. Ein Beispiel daf\u00fcr war das R\u00e4tsel der Vorwoche \u00bbEinzigartige Br\u00fcche gesucht\u00ab. Und auch das R\u00e4tsel dieser Woche stammt vom Wettstreit der besten deutschen Mathetalente. Es wurde ebenfalls den Zehntkl\u00e4sslern gestellt. Vielen Dank an den Aufgabenausschuss der Mathematik-Olympiade, der die Aufgabe und den L\u00f6sungsweg zur Verf\u00fcgung gestellt hat.\nEin massives quaderf\u00f6rmiges Denkmal mit quadratischer Grundfl\u00e4che wurde aus einer Vielzahl gleich gro\u00dfer, w\u00fcrfelf\u00f6rmiger Bl\u00f6cke errichtet. Nach vielen Jahren m\u00fcssen die 673 Bl\u00f6cke, die von au\u00dfen sichtbar sind \u2013 das sind nicht alle Bl\u00f6cke des Denkmals \u2013 ausgetauscht werden.\nAus wie vielen Bl\u00f6cken besteht das Denkmal, wenn bekannt ist, dass diese Anzahl nicht durch 7 teilbar ist?\nHinweise: Massiv bedeutet, dass das Denkmal keine L\u00f6cher und keine Hohlr\u00e4ume hat. Von au\u00dfen sichtbar sind alle vier Seitenfl\u00e4chen und die Deckfl\u00e4che, nicht aber die Grundfl\u00e4che. Die Abbildung oben zeigt den prinzipiellen Aufbau und nicht das beschriebene Denkmal. \nDas Denkmal wurde aus 15 mal 15 mal 9 = 2025 W\u00fcrfeln gebaut.\nZun\u00e4chst einige Festlegungen: Die Grundfl\u00e4che besteht aus a mal a W\u00fcrfeln, die H\u00f6he des Quaders betr\u00e4gt h W\u00fcrfel. Das Denkmal ist daher aus A= a2*h W\u00fcrfeln zusammengesetzt. a muss gr\u00f6\u00dfer sein als 2, weil sonst alle W\u00fcrfel von au\u00dfen sichtbar w\u00e4ren.\nSchauen wir auf die nicht sichtbaren Bl\u00f6cke. Diese bilden einen Quader mit der H\u00f6he h \u2212 1 und mit der quadratischen Grundfl\u00e4che der Seitenl\u00e4nge a \u2212 2. Es gibt deshalb (a \u2212 2)2*(h \u2212 1) nicht sichtbare W\u00fcrfel. Damit k\u00f6nnen wir die Zahl Z der sichtbaren W\u00fcrfel berechnen:\nZ = a2*h \u2212 (a \u2212 2)2*(h \u2212 1) Z = a2*h \u2212 (a \u2212 2)2*h + (a \u2212 2)2 Z = a2*h \u2212 a2*h + 4*a*h \u2013 4*h + (a \u2212 2)2 Z = 4*(a \u2212 1)*h + (a \u2212 2)2\nF\u00fcr die H\u00f6he h des Denkmals gilt dann\nh = (Z \u2212 (a \u2212 2)2) / (4*(a \u2212 1))\nDa Z = 673 gegeben ist, suchen wir zun\u00e4chst alle positiven ganzzahligen Werte a, f\u00fcr die h ebenfalls positiv und ganzzahlig ist. Weil Z \u2212 (a \u2212 2)2 daf\u00fcr zwingend gr\u00f6\u00dfer als Null sein muss, gilt wegen\nZ = 673 < 676 = 262\n2 < a < 28\nDamit der Z\u00e4hler in der Gleichung\nh = (Z \u2212 (a \u2212 2)2)/ 4*(a \u2212 1)\nein Vielfaches von 4 ist, muss a ungerade sein (Z ist ungerade!), also die Form\na = 2t + 1\nmit einer ganzen Zahl t > 0 haben. Aus 2 < a < 28 ergibt sich 1 \u2264 t \u2264 13.\nWenn wir 2t + 1 f\u00fcr a in die Gleichung oben einsetzen, erhalten wir\n2h = (168 \u2212 t2 + t)/t 2h = 168/t \u2013 (t \u2013 1)\nDamit h ganzzahlig wird, muss t also ein Teiler von 168 sein. Im Bereich 1 \u2264 t \u2264 13 sind dies genau die Zahlen\n1, 2, 3, 4, 6, 7, 8, 12\nund wir erhalten die folgenden L\u00f6sungskandidaten:\nBei Ber\u00fccksichtigung der Vorgabe, dass die Gesamtzahl der W\u00fcrfel a2*h nicht durch 7 teilbar sein darf, bleibt genau ein L\u00f6sungskandidat \u00fcbrig, der alle Bedingungen erf\u00fcllt: t = 7. Das Denkmal hat deshalb eine quadratische Grundfl\u00e4che aus a mal a = 15 mal 15 Bl\u00f6cken und eine H\u00f6he von h = 9 Bl\u00f6cken und besteht aus insgesamt 15*15*9 = 2025 Bl\u00f6cken.\nVielen Dank f\u00fcr diese Aufgabe an Michael Dreher und Philipp Lampe vom Aufgabenausschuss der Mathematik-Olympiade!\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nEinzigartige Br\u00fcche gesucht\nWie gro\u00df ist das graue Quadrat?\nWie lautet der T\u00fcrcode?\nWie gro\u00df ist das Trapez?\nGrillen f\u00fcr Profis\nWie gro\u00df ist der spitze Winkel?\nEin Geburtstag, viele Kinder\nWie viele verschiedene Ketten sind m\u00f6glich?\nWie quert man eine Marathonstrecke?\nWie gro\u00df ist die rote Fl\u00e4che?",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-06-08T16:14:00+02:00",
+    "date_modified": "2025-06-08T16:14:00+02:00",
+    "date_published": "2025-06-08T16:14:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Aus wie vielen W\u00fcrfel wurde das Denkmal gebaut?"
+    ]
+}
+

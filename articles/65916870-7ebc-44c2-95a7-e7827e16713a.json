@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/wie-gross-ist-die-rote-flaeche-raetsel-der-woche-a-65916870-7ebc-44c2-95a7-e7827e16713a",
+    "id": "65916870-7ebc-44c2-95a7-e7827e16713a",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Wie gro\u00df ist die rote Fl\u00e4che?",
+        "social": "Wie gro\u00df ist die rote Fl\u00e4che? - R\u00e4tsel der Woche"
+    },
+    "intro": "Ein leicht nach links gekippter Viertelkreis ber\u00fchrt eine Linie. Nur die Abst\u00e4nde zweier Eckpunkte zu dieser Linie sind bekannt. L\u00e4sst sich daraus die Gr\u00f6\u00dfe des Kreissektors berechnen?",
+    "text": "Vielen Dank an die Leserinnen und Leser, die mir diverse weitere L\u00f6sungswege zur Aufgabe der vergangenen Woche geschickt haben. Zwei davon habe ich im Text erg\u00e4nzt.\nIm neuen R\u00e4tsel geht es um einen Kreissektor. Dieser entspricht dem Viertel eines Kreises, wir nennen ihn daher Viertelkreis. Der Viertelkreis ber\u00fchrt mit seiner runden Seite eine Linie. Zudem ist er leicht nach links gekippt \u2013 siehe Bild oben.\nGegeben sind die senkrechten Abst\u00e4nde der linken und rechten Ecken des Viertelkreises zur Tangente unten. Diese betragen 3 und 6.\nWie gro\u00df ist die Fl\u00e4che des Viertelkreises?\nDer Viertelkreis hat eine Fl\u00e4che von Pi*225/4, was rund 176,7 entspricht.\nBei der L\u00f6sung hilft uns ein alter Bekannter: der Satz des Pythagoras.\nWir verbinden die obere Ecke des Viertelkreises (entspricht dem Kreismittelpunkt) senkrecht mit der Tangente unten. Danach verbinden wir die anderen beiden Ecken des Viertelkreises mit der soeben eingezeichneten Strecke, wobei diese zwei Verbindungen senkrecht dazu sind.\nDabei entstehen zwei rechtwinklige Dreiecke, in der Skizze unten rot gezeichnet. Die Hypotenusen der zwei Dreiecke entsprechen dem Radius r \u2013 sind also gleich lang. Und auch s\u00e4mtliche Winkel der beiden Dreiecke sind gleich gro\u00df.\nSchauen wir auf die Seitenl\u00e4ngen: Beim linken Dreieck hat die l\u00e4ngere Kathete die L\u00e4nge r \u2013 3, beim rechten Dreieck hat die k\u00fcrzere die L\u00e4nge r \u2013 6.\nWir wissen bereits, dass beide Dreiecke kongruent sind. Also haben beide rechtwinkligen Dreiecke die Seitenl\u00e4ngen r, r \u2013 3 und r \u2013 6. Nach dem Satz des Pythagoras gilt:\nr2 = (r \u2013 3)2 + (r \u2013 6)2 r2 = r2 \u2013 6r + 9 + r2 \u2013 12r + 36 r2 \u2013 18r + 45 = 0\nDiese quadratische Gleichung hat zwei L\u00f6sungen: r = 3 und r = 15. Die erste L\u00f6sung entf\u00e4llt jedoch, weil ein Viertelkreis mit dem Radius 3 nicht einen Abstand von 6 zur Tangente haben kann. Also hat der Radius r eine L\u00e4nge von 15.\nDie gesuchte Fl\u00e4che des Viertelkreises berechnen wir mit der Fl\u00e4chenformel des Kreises Pi*r2, wobei wir das Ergebnis noch durch 4 teilen m\u00fcssen. Das Ergebnis lautet:\nPi*152/4 = Pi*225/4\nEntdeckt habe ich diese Aufgabe in der Facebook-Gruppe \u00bbGeometria Super Top\u00ab.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nSechsstellige Zahl gesucht\nWelche Ziffer fehlt?\nWelche Fl\u00e4che hat der Kreis?\nVier auf einen Streich\nGl\u00fcckliche F\u00fcgung\nWie gro\u00df ist das blaue Quadrat?\nWie voll ist die Flasche?\nGleiche Winkel auf dem Ziffernblatt\nVier Schwestern, vier B\u00e4ume\nSechs Nullen wachsen \u00fcber sich hinaus",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-03-30T06:47:00+02:00",
+    "date_modified": "2025-03-30T06:47:00+02:00",
+    "date_published": "2025-03-30T06:47:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "Wie gro\u00df ist die rote Fl\u00e4che? - R\u00e4tsel der Woche"
+    ]
+}
+

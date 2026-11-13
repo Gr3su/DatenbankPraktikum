@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/sechsstellige-zahl-gesucht-raetsel-der-woche-a-ee1fdb5b-4890-4fd5-b1b2-c661bc087311",
+    "id": "ee1fdb5b-4890-4fd5-b1b2-c661bc087311",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Sechsstellige Zahl gesucht",
+        "social": "Sechsstellige Zahl gesucht - R\u00e4tsel der Woche"
+    },
+    "intro": "A, B, C, D, E und F sind die sechs Ziffern der Zahl ABCDEF. Multipliziert man diese Zahl mit den Faktoren von 2 bis 6, verschieben sich die Positionen der Ziffern. Wie lautet die sechsstellige Zahl?",
+    "text": "Systematisches Probieren kann eine L\u00f6sungsstrategie sein \u2013 auch f\u00fcr folgendes Problem. Aber es gibt auch andere Wege, um das Zahlenr\u00e4tsel zu l\u00f6sen.\nGegeben ist die sechsstellige Zahl ABCDEF, wobei die sechs Buchstaben A, B, C, D, E, F f\u00fcr die sechs Ziffern der Zahl stehen, die alle gr\u00f6\u00dfer als 0 sind. Mit dieser Zahl werden verschiedene Multiplikationen ausgef\u00fchrt, deren Ergebnis wiederum s\u00e4mtlich sechsstellige Zahlen sind und die alle nur aus den sechs Ziffern A, B, C, D, E und F bestehen. Allerdings nicht zwingend in dieser Reihenfolge.\nHier ist die Liste der sechs Multiplikationen:\nABCDEF * 1 = ABCDEF ABCDEF * 3 = BCDEFA ABCDEF * 2 = CDEFAB ABCDEF * 6 = DEFABC ABCDEF * 4 = EFABCD ABCDEF * 5 = FABCDE\nWelche Ziffern A, B, C, D, E, F erf\u00fcllen diese Gleichungen?\nEs gibt nur eine L\u00f6sung. Sie lautet 142.857.\nABCDEF * 1 = ABCDEF ABCDEF * 3 = BCDEFA ABCDEF * 2 = CDEFAB ABCDEF * 6 = DEFABC ABCDEF * 4 = EFABCD ABCDEF * 5 = FABCDE\nEine nahe liegende L\u00f6sung ist, die sechs Ziffern einzeln nacheinander aus den Gleichungen herzuleiten. Beginnen wir mit A. Es gilt:\nABCDEF * 6 = DEFABC\nWeil das Sechsfache von ABCDEF wieder eine sechsstellige Zahl ist, muss A = 1 sein. W\u00e4re A gr\u00f6\u00dfer als 1, w\u00e4re ABCDEF * 6 eine siebenstellige Zahl.\nWeiter geht es mit der Gleichung\nABCDEF * 3 = BCDEFA\nWegen A = 1 muss das Dreifache der Ziffer F auf 1 enden. Die einzig m\u00f6gliche L\u00f6sung daf\u00fcr lautet F = 7.\nAus der Gleichung\nABCDEF * 6 = DEFABC\nfolgt wegen F = 7 sofort C = 2.\nWenn wir dieses Verfahren fortsetzen, kommen wir schlie\u00dflich zum gesuchten Ergebnis 142.857.\nIch schlage einen anderen Weg vor, der allein die Gleichung\nABCDEF * 6 = DEFABC\nnutzt. Wir addieren auf beiden Seiten ABCDEF und erhalten:\nABCDEF * 7 = DEFABC + ABCDEF\nNun ersetzen die dreistelligen Zahlen ABC mit x und DEF mit y. Dann gilt:\nABCDEF = 1000x + yDEFABC = 1000y + x\nAus der Gleichung oben mit dem Faktor 7 wird:\n(1000x + y)*7 = 1000x + y + 1000y + x(1000x + y)*7 = 1001*(x + y)\nWir dividieren beide Seiten durch 7\n1000x + y = 143x + 143y\nund erhalten schlie\u00dflich:\n857x = 142y\n857 ist eine Primzahl, x und y sind dreistellige ganze Zahlen. Der Primfaktor 857 muss zwingend auch auf der rechten Seite der Gleichung auftauchen, sonst w\u00e4re die Gleichung falsch. Also muss gelten: y = 857. y kann kein Vielfaches von 857 sein, weil y dann mindestens vierstellig w\u00e4re, was wegen y = DEF nicht erlaubt ist.\nAus y = 857 folgt sofort x = 142 und damit die L\u00f6sung\nABCDEF = 142.857\nDass diese L\u00f6sung A, B, C, D, E, F alle gegebenen Gleichungen erf\u00fcllt, k\u00f6nnen wir leicht nachrechnen.\nUpdate 1 zur L\u00f6sung: Der Leser Konrad Joos hat eine elegante L\u00f6sung gefunden, die folgende zwei Gleichungen nutzt: \nABCDEF * 3 = BCDEFAABCDEF * 6 = DEFABC \nAus der zweiten Gleichung folgt wie gehabt A = 1, weil ABCDEF * 6 sonst siebenstellig w\u00e4re. Mit BCDEF = x und A = 1 wird aus der ersten Gleichung: \n(100.000 + x) * 3 = 10x + 1299.999 = 7xx = 42.857Das f\u00fchrt zur bekannten L\u00f6sung ABCDEF = 142.857. \nUpdate 2 zur L\u00f6sung: Eine noch k\u00fcrzere L\u00f6sung schl\u00e4gt der Leser Dimitrios Sophokles vor. Er setzt ABCDEF mit der Zahl x gleich. Dann gilt:\nx = ABCDEF3x = BCDEFA\nWir k\u00f6nnen nun schreiben: \n(3x \u2013 A)/10 + 100.000 * A = x3x \u2013 A + 1.000.000 * A = 10x999.999 * A = 7x\nWir wissen, dass A = 1 sein muss, damit ABCDEF * 6 sechstellig ist. Daraus folgt: \nx = 142.857\nVielen Dank an die beiden Leser!\nEntdeckt habe ich diese Aufgabe auf der Seite janko.at\u00a0.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nWelche Ziffer fehlt?\nWelche Fl\u00e4che hat der Kreis?\nVier auf einen Streich\nGl\u00fcckliche F\u00fcgung\nWie gro\u00df ist das blaue Quadrat?\nWie voll ist die Flasche?\nGleiche Winkel auf dem Ziffernblatt\nVier Schwestern, vier B\u00e4ume\nSechs Nullen wachsen \u00fcber sich hinaus\nWie viele Gefangene kommen frei?",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-03-23T15:29:00+01:00",
+    "date_modified": "2025-03-23T15:29:00+01:00",
+    "date_published": "2025-03-23T15:29:00+01:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "Sechsstellige Zahl gesucht - R\u00e4tsel der Woche"
+    ]
+}
+

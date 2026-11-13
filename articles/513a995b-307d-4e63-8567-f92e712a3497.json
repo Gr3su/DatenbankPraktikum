@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-gelbe-dreieck-a-513a995b-307d-4e63-8567-f92e712a3497",
+    "id": "513a995b-307d-4e63-8567-f92e712a3497",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Wie gro\u00df ist das gelbe Dreieck?",
+        "social": "Wie gro\u00df ist das gelbe Dreieck? Das R\u00e4tsel der Woche"
+    },
+    "intro": "Ein gleichseitiges Dreieck wird in drei Teile zerlegt. Bei zwei Fl\u00e4chen ist die Gr\u00f6\u00dfe bekannt, hinzu kommt ein Winkel. Welche Gr\u00f6\u00dfe hat die dritte Fl\u00e4che?",
+    "text": "Bevor es um das gleichseitige Dreieck oben geht, eine Entschuldigung von mir: Das Code-R\u00e4tsel der vergangenen Woche enthielt leider einen Zahlendreher, sodass Grafik und L\u00f6sung nicht zueinanderpassten. Vielen Dank f\u00fcr die vielen Hinweise per Mail, wir haben den Fehler korrigiert. Hoffentlich ohne Zahlendreher ist die Knobelei dieser Woche. Es geht um ein gleichseitiges Dreieck, das in drei Dreiecke aufgeteilt ist.\nWir kennen mit 5 und 16 die Fl\u00e4chen von zwei der drei Dreiecke. Beim mittleren, gelb gef\u00e4rbten Dreieck wissen wir zudem, dass sein oberer Winkel 30 Grad betr\u00e4gt.\nWelche Fl\u00e4che hat das gelbe Dreieck?\nDie Fl\u00e4che des gelben Dreieck ist 19.\nVerschiedene L\u00f6sungswege sind m\u00f6glich. Beim folgenden Vorschlag klappen wir die beiden Dreiecke links und rechts vom gelben Dreieck Richtung Mitte. Ihre Winkel an der Spitze oben m\u00fcssen zusammen 30 Grad gro\u00df sein, weil die oberen Winkel der drei Dreiecke zusammen 60 Grad gro\u00df sind und der des gelben Dreiecks 30 Grad gro\u00df ist. Da zudem die jeweils l\u00e4ngste Seite der beiden geklappten Dreiecke der Seitenl\u00e4nge des gleichseitigen Dreiecks entspricht, sto\u00dfen die beiden geklappten Dreiecke exakt aneinander, ein Viereck entsteht \u2013 siehe Skizze unten.\nDie Basen der beiden geklappten Dreiecke haben die L\u00e4ngen 5a und 16a, weil beide Dreiecke dieselbe H\u00f6he haben und eine Fl\u00e4che von 5 beziehungsweise 16 besitzen. Die Basis des gelben Dreiecks bezeichnen wir mit x. Wie gro\u00df ist x?\nUnterhalb der Basis des gelben Dreiecks ist durch das Umklappen ein Dreieck entstanden mit den Seitenl\u00e4ngen 5a, 16a und x. Weil die Innenwinkel im gleichseitigen Dreieck 60 Grad gro\u00df sind, hat der untere, grau hervorgehobene Innenwinkel eine Gr\u00f6\u00dfe von 2 mal 60 gleich 120 Grad.\nWir f\u00fcgen ein kleines Dreieck mit den Innenwinkeln 30, 60 und 90 Grad hinzu \u2013\u00a0seine Fl\u00e4che ist in der Skizze oben rot hervorgehoben. Seine Seiten haben die L\u00e4ngen h, 5a und \u2013\u00a0weil es sich um ein halbes gleichseitiges Dreieck handelt \u2013 5a/2. Jetzt k\u00f6nnen wir x mit dem Satz des Pythagoras berechnen:\nx2 = h2 + (16a + 5a/2)2\nF\u00fcr h2 gilt:\nh2 = (5a)2 - (5a/2)2h2 = 75a2/4\nDas ergibt:\nx2 = 75a2/4 + (37a)2/4x2 = 361a2x = 19a\nWeil die anderen beiden Dreiecke mit den Basen 5a und 16a die Fl\u00e4chen 5 und 16 haben und das gelbe Dreieck mit der Basis 19a dieselbe H\u00f6he besitzt, muss seine Fl\u00e4che 19 betragen.\nEntdeckt habe ich dieses Geometrier\u00e4tsel in der Facebook-Gruppe \u00bbGeometria Super Top\u00ab\u00a0.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nWelcher Code \u00f6ffnet das Schloss?\nWie gro\u00df ist die rote Fl\u00e4che?\nWelche Zahl ist gr\u00f6\u00dfer?\nWie gro\u00df ist das Quadrat?\nWo sollte man auf dem Flughafen rennen?\nWie gro\u00df ist das blaue Dreieck?\nZwei Nichtteiler gesucht\nWie gro\u00df ist die Summe?\nWie gro\u00df sind die farbigen Fl\u00e4chen?\nHat diese Gleichung eine L\u00f6sung?",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-09-21T07:16:00+02:00",
+    "date_modified": "2025-09-21T07:16:00+02:00",
+    "date_published": "2025-09-21T07:16:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Wie gro\u00df ist das gelbe Dreieck?"
+    ]
+}
+

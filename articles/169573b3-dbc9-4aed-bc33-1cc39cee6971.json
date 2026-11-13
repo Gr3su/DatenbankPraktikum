@@ -1,0 +1,36 @@
+{
+    "url": "https://www.spiegel.de/netzwelt/hackerkonferenz-39c3-warum-eine-multiple-sklerose-erkrankte-ihren-rollstuhl-hackte-a-169573b3-dbc9-4aed-bc33-1cc39cee6971",
+    "id": "169573b3-dbc9-4aed-bc33-1cc39cee6971",
+    "channel": "Netzwelt",
+    "subchannel": "default",
+    "headline": {
+        "main": "Hackerkonferenz 39C3: Warum eine Multiple-Sklerose-Erkrankte ihren Rollstuhl hackte",
+        "social": "39C3: Warum eine Multiple-Sklerose-Erkrankte ihren Rollstuhl hackte"
+    },
+    "intro": "Elektroantriebe f\u00fcr Rollst\u00fchle erleichtern vielen Betroffenen das Leben. Doch der Grad der Hilfe h\u00e4ngt vom Geldbeutel ab. Eine Hackerin hebelte die Paywall ihres Rollstuhls aus. Das war erstaunlich einfach.",
+    "text": "Elfy geh\u00f6rt zu den vielen Hundert \u00bbEngeln\u00ab, die als Helfer den Kongress 39C3 des Chaos Computer Clubs in Hamburg am Laufen halten. Um in dem ausladenden Congress Center Hamburg voranzukommen, nutzt die an Multipler Sklerose erkrankte IT-Security-Spezialistin einen Rollstuhl mit Elektroantrieb.\n\u00bbAn sich bin ich mit dem Antrieb sehr zufrieden, er hilft mir im Alltag\u00ab, sagt Elfy, die ihren b\u00fcrgerlichen Namen nicht ver\u00f6ffentlichen will. Denn nachdem sie und ihre Krankenversicherung f\u00fcr die Mobilit\u00e4tshilfe jeweils mehrere Tausend Euro gezahlt hatten, stellte sich heraus, dass der Hersteller danach immer noch die Hand aufhielt.\nExtraschub im Alltag\nDie Firma Alber nennt das Gesch\u00e4ftsmodell \u00bbAusstattung zum Aussuchen\u00ab. Wie bei einem E-Bike nimmt der Motor im Normalmodus der Fahrerin nicht die gesamte Arbeit ab, sondern verst\u00e4rkt ihre eigenen Bewegungen. F\u00fcr 99 Euro kann man sich in der App des Herstellers etwa eine h\u00f6here Maximalgeschwindigkeit erkaufen: Der Rollstuhl f\u00e4hrt dann maximal 8,5 statt nur 6 Kilometer pro Stunde. Was auf dem Papier nicht dramatisch erscheint, kann im Alltag viel ausmachen, wie Elfy vorrechnet: Etwa der 400 Meter lange Weg zum Bus dauert in der schnellen Einstellung vier Minuten, mit der h\u00f6heren Geschwindigkeit hingegen 2 Minuten und 50 Sekunden.\n\u00bbDer Bus f\u00e4hrt ab, wenn er abf\u00e4hrt\u00ab, sagt die Hackerin aus Frankfurt am Main. Obwohl das Ger\u00e4t sie also ohne Probleme schneller zum Bus bringen k\u00f6nnte, habe der Hersteller eine k\u00fcnstliche Schranke errichtet. Zwar ben\u00f6tigen Rollst\u00fchle mit der h\u00f6heren Geschwindigkeit eine eigene Zulassung und Versicherung, r\u00e4umt Elfy ein, es g\u00e4be also einen legitimen Grund, die Geschwindigkeit zu begrenzen. Doch das halte den Hersteller nicht ab, den Turbomodus \u00fcber seine App zu verkaufen. Auch weitere im Alltag n\u00fctzliche Features wie der Cruise Mode, bei dem der Motor auch ohne st\u00e4ndiges manuelles Anschieben auskommt, sind gegen Zusatzzahlung erh\u00e4ltlich.\nNachdem ihre Neugier und der Gerechtigkeitssinn geweckt waren, nahm die Frankfurterin ihren Kauf genauer unter die Lupe. Es stellte sich heraus: Zwar hat der Hersteller im Prinzip vieles richtig gemacht und erprobte Verschl\u00fcsselungsalgorithmen genutzt. \u00bbAb einem gewissen Punkt scheint er sich aber keine Gedanken mehr gemacht zu haben.\u00ab\nGeheime Schl\u00fcssel einfach auslesbar\nDas zeigte sich etwa bei den zur Kommunikation notwendigen geheimen Schl\u00fcsseln. Diese hat der Hersteller in Form zweier QR-Codes auf den Radnaben angebracht, sodass man die App des Herstellers einfach mit dem Antrieb verbinden kann\u00a0. Der Nachteil: \u00bbWenn jemand den QR-Code von meiner Radnabe scannt, k\u00f6nnte er die volle Kontrolle \u00fcbernehmen\u00ab, warnt die Frankfurterin. In kritischen Momenten k\u00f6nnte ein solcher Angreifer etwa die R\u00e4der sperren. Bei ihrem Rollstuhl hat sie die QR-Codes deshalb \u00fcberklebt.\nAus Sicht der IT-Security-Spezialistin redet der Hersteller das Problem klein. So habe der Hersteller bei einer Eingabe bei der amerikanischen Regulierungsbeh\u00f6rde FDA einger\u00e4umt, dass die Bluetooth-Verbindung erfolgreich angegriffen werden k\u00f6nne. Doch da ein solcher Angreifer dazu in der N\u00e4he eines potenziellen Opfers sein m\u00fcsse, erachte die Firma aus Baden-W\u00fcrttemberg eine Warnung in der Bedienungsanleitung offenbar als ausreichende Gegenma\u00dfnahme.\nDie Analyse der Bluetooth-Kommunikation zwischen Antrieb und App offenbarte weitere \u00dcberraschungen. So stellte die Hackerin fest, dass der Kauf einer kostenpflichtigen Funktion allein \u00fcber die App abgewickelt werde, der Antrieb selbst hat keinerlei Sicherheitsma\u00dfnahmen. Zum Beispiel kann man sich die Sonderfunktionen f\u00fcr einen Testzeitraum kostenlos freischalten. Wenn der Zeitraum abl\u00e4uft, verschwinden die Optionen zwar aus der App, sie sind jedoch weiterhin verf\u00fcgbar.\nDie IT-Security-Spezialistin stellte deshalb nach vielen N\u00e4chten Flei\u00dfarbeit die Kommunikation mit ihren eigenen Programmen nach und war erfolgreich. Sie konnte die Kontrolle \u00fcber ihren Rollstuhl \u00fcbernehmen, ohne auf die App des Herstellers und dessen kostenpflichtige Sonderfunktionen angewiesen zu sein. Dies demonstrierte sie in Hamburg auf dem #39C3 auf offener B\u00fchne, indem sie den Rollstuhl mit einigen Befehlen von ihrem Laptop herumwirbeln lie\u00df.\nMit den Erkenntnissen der Flei\u00dfarbeit k\u00f6nnte es f\u00fcr andere Kunden m\u00f6glich sein, viel Geld zu sparen. So k\u00f6nnten sie die Bluetooth-Fernbedienung \u2013 selbst das Sparmodell kostet im Handel ann\u00e4hernd 600 Euro \u2013 durch eine Selbstbastel-Hardware ersetzen. Die notwendigen Programme, mit denen Besitzer eines solchen Antriebs ihren Schl\u00fcssel auslesen und anwenden k\u00f6nnen, hat Elfy ins Internet gestellt \u2013 \u00bbdamit die Leute ihre Rollst\u00fchle nutzen k\u00f6nnen, wie sie wollen\u00ab.",
+    "topics": [
+        "Multiple Sklerose",
+        "Barrierefreies Leben",
+        "Chaos Computer Club",
+        "IT-Sicherheit"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Netzwelt"
+        ],
+        "names": [
+            "Torsten Kleinz"
+        ]
+    },
+    "date_created": "2025-12-28T09:05:00+01:00",
+    "date_modified": "2025-12-28T11:22:00+01:00",
+    "date_published": "2025-12-28T09:05:00+01:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Netzwelt",
+        "39C3: Warum eine Multiple-Sklerose-Erkrankte ihren Rollstuhl hackte"
+    ]
+}
+

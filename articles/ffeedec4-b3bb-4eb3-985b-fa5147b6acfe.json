@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-welche-ziffer-fehlt-a-ffeedec4-b3bb-4eb3-985b-fa5147b6acfe",
+    "id": "ffeedec4-b3bb-4eb3-985b-fa5147b6acfe",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Welche Ziffer fehlt?",
+        "social": "R\u00e4tsel der Woche: Welche Ziffer fehlt?"
+    },
+    "intro": "Im Dezimalsystem gibt es zehn Ziffern von 0 bis 9. Die Potenz 2 hoch 29 besteht aus neun verschiedenen Ziffern. Welche fehlt?",
+    "text": "Es gibt einfache R\u00e4tsel, deren Beschreibung etwas l\u00e4nger ausf\u00e4llt. Und es gibt schwierige R\u00e4tsel, deren Text auf einen Bierdeckel passt. In diese Kategorie f\u00e4llt die folgende Knobelei.\nDie Potenz 229 ist im Zehnersystem neunstellig und besteht aus neun unterschiedlichen Ziffern. Wie Sie wissen, gibt es im Dezimalsystem zehn verschiedene Ziffern \u2013 von 0 bis 9.\nWelche Ziffer fehlt in der Potenz 229?\nHinweis: Nutzen Sie bitte keinen Taschenrechner! \nEs ist die Ziffer 4, die in der Potenz 229 fehlt. Das best\u00e4tigt auch der Taschenrechner, der 536.870.912 anzeigt.\nDie elegante L\u00f6sung nutzt einen altbekannten Trick: die Quersumme. Diese verr\u00e4t, welchen Rest diese beim Teilen durch 9 hat. Und das hilft uns beim Finden der fehlenden Ziffer.\nEine zehnstellige Zahl, die jede der zehn Ziffern von 0 bis 9 genau einmal enth\u00e4lt, hat die Quersumme\n1 + 2 + .. + 9 = 45\n45 ist durch 9 teilbar. Der Neuner-Rest von 45 ist deshalb 0, weil wir bei der Berechnung des Neuner-Rests der Zahl 45 Vielfache von 9 davon abziehen m\u00fcssen, sodass der Rest einen Wert zwischen 0 und 8 hat. Mathematiker nutzen f\u00fcr diese Resteermittlung die Funktion modulo\u00a0.\nJede beliebige zehnstellige Zahl bestehend aus allen Ziffern von 0 bis 9 hat die Quersumme 45 und daher den Neuner-Rest 0. Die Reihenfolge der Ziffern spielt dabei keine Rolle.\nWir wissen, dass bei der neunstelligen Zahl 229 eine Ziffer fehlt. Ihre Quersumme entspricht deshalb 45 minus der fehlenden Ziffer.\nGl\u00fccklicherweise k\u00f6nnen wir ganz ohne Taschenrechner herausfinden, welchen Rest 229 beim Teilen durch 9 l\u00e4sst. Das f\u00fchrt uns, wie wir gleich sehen werden, direkt zur fehlenden Ziffer.\nSchauen wir auf die Neuner-Reste der Zweierpotenzen, beginnend bei 20 \u2013 siehe folgende Tabelle. 20 = 1 hat den Neuner-Rest 1, 21 = 2 den Neuner-Rest 2 und so weiter. Die Tabelle listet die Reste beim Teilen durch 9 bis zur Potenz 211 auf.\nBei der Berechnung der Reste nutzen wir aus, dass wir den Rest von 2n+1 direkt aus dem Rest von 2n erhalten, indem wir den Rest von 2n mit 2 multiplizieren und eventuell vorhandene Vielfache von 9 abziehen.\nEin Beispiel: 25 hat den Neuner-Rest 5. Deshalb hat 26 den Neuner-Rest 2*5 = 10, was wiederum 1 entspricht, weil wir beim Neuner-Rest Vielfache von 9 abziehen (10 \u2013 9 = 1).\nWir sehen in der Tabelle oben, dass sich die Neuner-Reste wiederholen, wenn sich der Exponent um 6 erh\u00f6ht.\nDeshalb k\u00f6nnen wir den Rest von 229 direkt aus der Tabelle ablesen. Er entspricht dem Rest von 25, weil die Differenz aus 29 und 5 (=24) ein Vielfaches von 6 ist (24=6*4).\nDer gesuchte Rest ist deshalb 5. Dieser Rest von 229 ist nur m\u00f6glich, wenn von den zehn Ziffern von 0 bis 9 die Ziffer 4 fehlt. Dann betr\u00e4gt die Quersumme 45 \u2013 4 = 41, was dem Neuner-Rest 5 entspricht (5 = 41 \u2013 4*9).\nEntdeckt habe ich dieses R\u00e4tsel im Buch \u00bbMehr mathematische R\u00e4tsel f\u00fcr Liebhaber\u00ab von Peter Winkler.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nWelche Fl\u00e4che hat der Kreis?\nVier auf einen Streich\nGl\u00fcckliche F\u00fcgung\nWie gro\u00df ist das blaue Quadrat?\nWie voll ist die Flasche?\nGleiche Winkel auf dem Ziffernblatt\nVier Schwestern, vier B\u00e4ume\nSechs Nullen wachsen \u00fcber sich hinaus\nWie viele Gefangene kommen frei?\nWie gro\u00df ist das kleine gr\u00fcne Dreieck?",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-03-16T17:15:00+01:00",
+    "date_modified": "2025-03-16T17:15:00+01:00",
+    "date_published": "2025-03-16T17:15:00+01:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Welche Ziffer fehlt?"
+    ]
+}
+

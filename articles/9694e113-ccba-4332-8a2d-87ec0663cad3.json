@@ -1,0 +1,42 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-gelingt-das-versteckspiel-auf-den-tuermen-a-9694e113-ccba-4332-8a2d-87ec0663cad3",
+    "id": "9694e113-ccba-4332-8a2d-87ec0663cad3",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Gelingt das Versteckspiel auf den T\u00fcrmen?",
+        "social": "R\u00e4tsel der Woche: Gelingt das Versteckspiel auf den T\u00fcrmen?"
+    },
+    "intro": "13 Kinder m\u00f6chten sich voreinander verstecken. Jedes sucht sich einen von 35 T\u00fcrmen, die jeweils nur den Blick auf zw\u00f6lf andere T\u00fcrme erlauben. Kann das funktionieren?",
+    "text": "Ein gutes Versteck ist ein Segen. Im folgenden R\u00e4tsel wollen 13 Kinder 35 gro\u00dfe T\u00fcrme dazu benutzen, von niemandem mehr gesehen zu werden. Jedes Kind sucht sich einen Turm und stellt sich direkt ans Fenster, um andere Kinder zu ersp\u00e4hen. Es darf h\u00f6chstens ein Kind in einen Turm!\nDie 35 T\u00fcrme stehen gleichm\u00e4\u00dfig verteilt im Kreis, also auf den Eckpunkten eines regelm\u00e4\u00dfigen 35-Ecks. Wegen der dicken Mauern ist der Ausblick aus dem Fenster eingeschr\u00e4nkt. Jedes Kind kann von seinem Turm aus nur die zw\u00f6lf am weitesten entfernten T\u00fcrme sehen.\nDie 13 Kinder wollen sich so \u00fcber die T\u00fcrme verteilen, dass kein Kind ein anderes Kind sehen kann.\nZeigen Sie, dass dies unm\u00f6glich ist!\nWir w\u00e4hlen ein beliebiges Kind und nennen es K. Es befindet sich in einem Turm, den wir mit T0 bezeichnen. Neben T0 gibt es 34 weitere T\u00fcrme. 17 T\u00fcrme stehen links von T0 und 17 T\u00fcrme rechts davon.\nWir bezeichnen die T\u00fcrme links von T0 mit T-1, T-2, ... bis T-17 und die T\u00fcrme rechts von T0 mit T1, T2, ... bis T17. Siehe folgende Skizze:\nDer Beweis ist indirekt: Wir nehmen an, es gibt eine Verteilung, bei der kein Kind ein anderes Kind sehen kann. Doch dies f\u00fchrt zu einem Widerspruch, wie wir gleich sehen werden, weshalb die Annahme falsch sein muss.\nWeil Kind K nur die zw\u00f6lf T\u00fcrme auf der gegen\u00fcberliegenden Seite sehen kann, sind die (35 \u2013 12 \u2013 1)/2 = elf T\u00fcrme links und rechts von T0 f\u00fcr K nicht sichtbar. In diesen insgesamt 22 T\u00fcrmen m\u00fcssen sich alle \u00fcbrigen Kinder befinden, damit K keines von ihnen sehen kann. Weil links und rechts je nur elf T\u00fcrme f\u00fcr die zw\u00f6lf Kinder zur Verf\u00fcgung stehen, muss es auf beiden Seiten von T0 mindestens einen Turm mit einem Kind darin geben.\nWir bezeichnen mit T-L den am weitesten von T0 entferntesten und mit einem Kind besetzten Turm auf der linken Seite. TR ist der am weitesten von T0 entfernte und besetzte Turm auf der rechten Seite. Es muss dann gelten:\nL \u2264 11R \u2264 11\nAu\u00dferdem muss gelten: L + R \u2265 12, weil sich links und rechts von T0 zusammen zw\u00f6lf Kinder befinden, und zwar jedes in einem anderen Turm.\nWir schauen nun auf die beiden Kinder in den T\u00fcrmen T-L und TR. K\u00f6nnen sie sich sehen oder nicht? Damit sie einander nicht sehen k\u00f6nnen, d\u00fcrfen zwischen ihnen h\u00f6chstens zehn T\u00fcrme stehen. Warum? Ein Kind kann jeweils die n\u00e4chsten elf T\u00fcrme links und rechts nicht sehen. Der Zwischenraum kann daher maximal zehn sein.\nAber wie gro\u00df ist der Abstand tats\u00e4chlich? Wir m\u00fcssen in beide Richtungen schauen:\nT\u00fcrme zwischen T-L und TR auf der T0 zugewandten Seite: Zwischen T-L und T0 stehen L \u2013\u00a01 T\u00fcrme, zwischen TR auf der T0 sind es R \u2013 1 T\u00fcrme. Inklusive T0 befinden sich zwischen T-L und TR L \u2013 1 + R \u2013 1 + 1 = L + R \u2013 1 T\u00fcrme. Wegen L + R \u2265 12 ist diese Zahl \u2265 11.\nT\u00fcrme zwischen T-L und TR auf der T0 abgewandten Seite: Die Anzahl betr\u00e4gt 17 \u2013 L + 17 \u2013 R = 34 \u2013 (L + R) T\u00fcrme. Wegen L \u2264 11 und R \u2264 11 ist diese Zahl \u2265 12.\nAus all dem folgt, dass sich die Kinder in den T\u00fcrmen T-L und TR auf jeden Fall sehen k\u00f6nnen. Damit ist die Annahme, dass es eine Aufteilung der 13 Kinder g\u00e4be, falsch.\nEntdeckt habe ich dieses R\u00e4tsel im Archiv der Mathematik-Olympiaden\u00a0.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nWie viele Stifte m\u00fcssen verschoben werden?\nL\u00fcge und Wahrheit\nMagische Jahreszahlen\nEin Pferd, drei K\u00e4ufer\nBlo\u00df keinen Streit\nNur Nullen und Einsen erlaubt\nEine Unbekannte, zwei Potenzen\nWie gro\u00df ist das gelbe Dreieck?\nWelcher Code \u00f6ffnet das Schloss?\nWie gro\u00df ist die rote Fl\u00e4che?",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben",
+            "Daten & Visualisierungen"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-11-30T15:49:00+01:00",
+    "date_modified": "2025-11-30T15:49:00+01:00",
+    "date_published": "2025-11-30T15:49:00+01:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Gelingt das Versteckspiel auf den T\u00fcrmen?"
+    ]
+}
+

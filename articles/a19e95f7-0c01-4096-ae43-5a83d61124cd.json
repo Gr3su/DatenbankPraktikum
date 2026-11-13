@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-verloren-im-waggonkreisel-a-a19e95f7-0c01-4096-ae43-5a83d61124cd",
+    "id": "a19e95f7-0c01-4096-ae43-5a83d61124cd",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Verloren im Waggonkreisel",
+        "social": "Verloren im Waggonkreisel \u2013 Das R\u00e4tsel der Woche"
+    },
+    "intro": "Sie befinden sich in einem Zug, dessen Wagen zusammengekoppelt einen gro\u00dfen Kreis bilden. Wie k\u00f6nnen Sie herausfinden, aus wie vielen Waggons der Zug besteht? Einziges Hilfsmittel: die Lichtschalter in den Wagen.",
+    "text": "Ein Zug hat \u00fcblicherweise einen ersten und einen letzten Wagen. Doch es ist auch eine andere Konstellation denkbar: Die Waggons sind so aneinandergekoppelt, dass sie einen gro\u00dfen Kreis bilden \u2013 siehe Bild oben.\nSie befinden sich in einem der Waggons und sollen herausfinden, aus wie vielen Wagen der Zug besteht. Sie wissen, dass die Anzahl endlich ist. Leider sind die Scheiben der Wagen so beschichtet, dass Sie von innen nicht nach drau\u00dfen schauen k\u00f6nnen.\nIn einigen der Wagen brennt Licht, in anderen ist es dunkel. Alle Wagen sehen innen exakt gleich aus, es gibt keine Wagennummern oder \u00c4hnliches. Sie k\u00f6nnen sich im Zug frei bewegen. Und Sie d\u00fcrfen, wenn Ihnen das hilft, in von Ihnen ausgew\u00e4hlten oder auch allen Wagen den Lichtschalter bet\u00e4tigen, sodass das Licht darin entweder an- oder ausgeht. Hilfsmittel wie Stifte, Papierzettel, Winkelmesser oder Klebeband gibt es nicht und sind im \u00dcbrigen auch verboten.\nWie ermitteln Sie die Zahl der Wagen?\nEin nahe liegendes Vorgehen ist: Sie gehen durch den Zug und schalten \u00fcberall das Licht aus, wo es eingeschaltet ist. Anschlie\u00dfend schalten Sie in einem Wagen das Licht ein und laufen nochmals durch den Zug, wobei Sie die Wagen z\u00e4hlen, bis Sie wieder im Wagen angekommen sind, der erleuchtet ist. Dieses Prozedere funktioniert jedoch leider nicht, denn Sie kennen die Anzahl der Wagen nicht. Sie k\u00f6nnen daher nicht mit Sicherheit wissen, dass Sie in allen anfangs erleuchteten Wagen das Licht ausgeschaltet haben \u2013 au\u00dfer Ihnen ist eine Obergrenze f\u00fcr die Anzahl der Wagen bekannt.\nFolgendes Vorgehen funktioniert immer, solange die Zahl der Wagen nicht unendlich ist und Sie gen\u00fcgend Zeit haben. In dem Wagen, in dem Sie sich anfangs befinden, schalten Sie das Licht an, falls es nicht schon brennt. Dann entscheiden Sie sich f\u00fcr eine Richtung und gehen in diese Richtung von Wagen zu Wagen. Sie z\u00e4hlen dabei genau mit, wie viele Wagen Sie seit Verlassen des ersten Waggons, Ihrer anf\u00e4nglichen Position, betreten haben.\nSobald Sie in einen Wagen kommen, in dem Licht brennt, gehen Sie nicht mehr weiter. Stattdessen schalten Sie in diesem Wagen das Licht aus und gehen genauso viele Wagen zur\u00fcck, wie Sie beginnend vom urspr\u00fcnglichen Wagen zuvor betreten haben. So kommen Sie genau in dem Wagen an, in dem Sie zu Beginn standen.\nNun gibt es zwei M\u00f6glichkeiten:\n1) In dem Wagen brennt kein Licht \nDann muss der Wagen, in dem Sie das Licht ausgeschaltet haben, auch Ihr Startpunkt sein. Damit kennen Sie die Zahl der Wagen. Es ist die Anzahl der neu betretenen Wagen, bis Sie kehrtgemacht haben.\n2) In dem Wagen brennt Licht\nSie wiederholen das Prozedere. Sie stehen im erleuchteten Startwaggon und laufen wieder in der anfangs gew\u00e4hlten Richtung von Wagen zu Wagen. Dabei z\u00e4hlen Sie mit. Sobald Sie in einen Wagen kommen, in dem Licht brennt, gehen Sie nicht mehr weiter. Stattdessen schalten Sie in diesem Wagen das Licht aus und gehen genauso viele Wagen zur\u00fcck, wie Sie beginnend vom urspr\u00fcnglichen Wagen zuvor neu betreten haben.\nDann gibt es wieder zwei M\u00f6glichkeiten: das Licht brennt oder es brennt nicht. Dieses Prozedere wiederholen Sie so lange, bis im Ursprungswagen kein Licht mehr brennt. Dann kennen Sie die Anzahl der Wagen.\nEntdeckt habe ich dieses R\u00e4tsel auf dem Instagram-Kanal\u00a0 des US-Mathematikers Marc Ordower\u00a0.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nNur Nullen und Einsen erlaubt\nEine Unbekannte, zwei Potenzen\nWie gro\u00df ist das gelbe Dreieck?\nWelcher Code \u00f6ffnet das Schloss?\nWie gro\u00df ist die rote Fl\u00e4che?\nWelche Zahl ist gr\u00f6\u00dfer?\nWie gro\u00df ist das Quadrat?\nWo sollte man auf dem Flughafen rennen?\nWie gro\u00df ist das blaue Dreieck?\nZwei Nichtteiler gesucht",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-10-12T16:05:00+02:00",
+    "date_modified": "2025-10-12T16:05:00+02:00",
+    "date_published": "2025-10-12T16:05:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Verloren im Waggonkreisel"
+    ]
+}
+

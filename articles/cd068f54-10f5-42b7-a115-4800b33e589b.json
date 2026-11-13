@@ -1,0 +1,42 @@
+{
+    "url": "https://www.spiegel.de/karriere/wie-viele-verschiedene-dreiecke-sind-moeglich-raetsel-der-woche-a-cd068f54-10f5-42b7-a115-4800b33e589b",
+    "id": "cd068f54-10f5-42b7-a115-4800b33e589b",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Wie viele verschiedene Dreiecke sind m\u00f6glich?",
+        "social": "Wie viele verschiedene Dreiecke sind m\u00f6glich? - R\u00e4tsel der Woche"
+    },
+    "intro": "16 Punkte bilden ein quadratisches Raster der Gr\u00f6\u00dfe 4 mal 4. Wie viele verschiedene Kombinationen von drei Punkten existieren, bei denen die drei Punkte ein Dreieck bilden?",
+    "text": "Die neue Knobelei sieht auf den ersten Blick aus wie ein geometrisches Problem. Sie hat aber auch sehr viel mit einem anderen Gebiet der Mathematik zu tun \u2013 der Kombinatorik.\nGegeben sind 16 Punkte, die ein regelm\u00e4\u00dfiges, quadratisches Raster der Gr\u00f6\u00dfe 4 mal 4 bilden. Sie w\u00e4hlen drei Punkte aus, sodass diese die Eckpunkte eines Dreiecks bilden (dessen Fl\u00e4che gr\u00f6\u00dfer als null ist).\nWie viele verschiedene Dreiecke sind m\u00f6glich?\nHinweis: Zwei Dreiecke gelten als verschieden, wenn sie sich bei mindestens einem ihrer Eckpunkte unterscheiden. \nEs gibt 516 verschiedene Dreiecke.\nDie Schwierigkeit der Aufgabe besteht darin, dass drei zuf\u00e4llig ausgew\u00e4hlte Punkte nicht zwingend ein Dreieck bilden. Sie k\u00f6nnen auch auf einer Linie liegen.\nZuerst schauen wir zuerst, wie viele verschiedene Kombinationen es gibt, aus den 16 Punkten 3 auszuw\u00e4hlen \u2013 unabh\u00e4ngig davon, ob die drei Punkte ein Dreieck bilden oder eine Linie. Dies sind 16 \u00fcber 3, der sogenannte Binomialkoeffizient\u00a0.\nWie wird der berechnet? F\u00fcr den ersten Punkt k\u00f6nnen wir einen aus 16 w\u00e4hlen, f\u00fcr den zweiten einen aus den dann noch verbliebenen 15 Punkten, und f\u00fcr den dritten einen aus 14. Dies sind\n16*15*14\nverschiedene Kombinationen. Bei dieser Berechnung gelten zwei Kombinationen auch dann als unterschiedlich, wenn sie dieselben drei Punkte in unterschiedlicher Reihenfolge enthalten. Ein Beispiel: Wir nummerieren die 16 Punkte von 1 bis 16. Hinter den zwei Kombinationen (1 3 7) und (7 3 1) steht dann dasselbe Dreieck. Deshalb m\u00fcssen wir die Zahl der Kombinationen (16*15*14) noch durch\n3*2*1\nteilen.\nInsgesamt sind daher\n16*15*14/(3*2*1) = 8*5*14 = 560 \nverschiedene Kombinationen bestehend aus drei Punkten m\u00f6glich.\nDavon m\u00fcssen wir allerdings noch alle Kombinationen abziehen, bei denen die drei Punkte auf einer Linie liegen, also kein Dreieck vorliegt. M\u00f6glich sind horizontale, vertikale und diagonale Linien, bestehend aus je drei Punkten.\nHorizontale Linien:\nEs gibt 4 Zeilen mit je 4 Punkten. Pro Zeile sind (4 \u00fcber 3) = 4 verschiedene Kombinationen m\u00f6glich. Das sind insgesamt 4*4 = 16.\nVertikale Linien:\nEs gibt 4 Spalten mit je 4 Punkten. Pro Spalte sind (4 \u00fcber 3) = 4 verschiedene Kombinationen m\u00f6glich. Das sind insgesamt 4*4 = 16.\nDiagonale Linien:\nDie beiden Hauptdiagonalen bestehen aus je 4 Punkten. Dort existieren zusammen (4 \u00fcber 3) mal 2 = 8 Kombinationen.\nHinzu kommen die insgesamt vier schr\u00e4gen Linien, bestehend aus je drei Punkten. Dies sind 4 Kombinationen.\nAlle Linien zusammen:\nEs existieren 16 waagerechte, 16 senkrechte und 12 diagonale Punktekonstellationen auf einer Linie. Deshalb lautet die L\u00f6sung:\n560 \u2013 44 = 516\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nAuf welche Zahl endet 777 hoch 333?\nGelingt das Versteckspiel auf den T\u00fcrmen?\nWie viele Stifte m\u00fcssen verschoben werden?\nL\u00fcge und Wahrheit\nMagische Jahreszahlen\nEin Pferd, drei K\u00e4ufer\nBlo\u00df keinen Streit\nNur Nullen und Einsen erlaubt\nEine Unbekannte, zwei Potenzen\nWie gro\u00df ist das gelbe Dreieck?",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben",
+            "Daten & Visualisierungen"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-12-14T13:06:00+01:00",
+    "date_modified": "2025-12-14T21:26:00+01:00",
+    "date_published": "2025-12-14T13:06:00+01:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "Wie viele verschiedene Dreiecke sind m\u00f6glich? - R\u00e4tsel der Woche"
+    ]
+}
+

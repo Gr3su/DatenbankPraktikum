@@ -1,0 +1,42 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-ein-pferd-drei-kaeufer-a-af289692-9a91-415d-aa06-80c3cf36e034",
+    "id": "af289692-9a91-415d-aa06-80c3cf36e034",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Ein Pferd, drei K\u00e4ufer",
+        "social": "R\u00e4tsel der Woche: Ein Pferd, drei K\u00e4ufer"
+    },
+    "intro": "Hundert Goldtaler kostet das Pferd. Es gibt drei M\u00e4nner, die es gern kaufen w\u00fcrden. Das klappt allerdings nur, wenn sie sich zusammentun.",
+    "text": "Es ist ein stolzer Preis: Hundert Goldtaler soll das Pferd kosten, f\u00fcr das sich gleich drei M\u00e4nner interessieren. Aber keiner von ihnen hat genug Geld, um es allein kaufen zu k\u00f6nnen. Nur wenn sich die drei M\u00e4nner zusammentun, reicht das Geld.\nNachdem sie verglichen haben, wie viele Goldtaler jeder von ihnen besitzt, stellen sie Folgendes fest:\nDer erste Mann kann das Pferd kaufen, wenn die anderen beiden ihm ein Drittel ihres Geldes dazu geben.\nDer zweite Mann kann das Pferd kaufen, wenn die anderen beiden ihm ein Viertel ihres Geldes dazu geben.\nDer dritte Mann kann das Pferd kaufen, wenn die anderen beiden ihm ein F\u00fcnftel ihres Geldes dazu geben.\nWie viele Goldtaler hat jeder der drei M\u00e4nner?\nDie drei M\u00e4nner haben 52, 68 und 76 Goldtaler.\nDie L\u00f6sung erfordert keinen besonderen Trick, wir l\u00f6sen vielmehr ein lineares Gleichungssystem mit drei Unbekannten auf \u00fcbliche Weise. Zun\u00e4chst stellen wir die drei Gleichungen auf. Die Anzahl der Goldtaler der drei M\u00e4nner bezeichnen wir mit a, b und c. Dann gilt:\na + (b + c)/3 = 100b + (a + c)/4 = 100c + (a + b)/5 = 100\nWir multiplizieren die Gleichungen mit 3, 4 oder 5:\n3a + b + c = 3004b + a + c = 4005c + a + b = 500\nAls N\u00e4chstes bringen wir in der ersten und dritten Gleichung b auf eine Seite\u00a0\u2026\nb = 300 \u2013 3a \u2013 cb = 500 \u2013 5c \u2013 a\n...\u00a0und setzen die beiden Ausdr\u00fccke f\u00fcr b einander gleich:\n300 \u2013 3a \u2013 c = b = 500 \u2013 5c \u2013 a300 + 4c = 500 + 2a a = 2c \u2013 100\nDas Ergebnis setzen wir ein in die erste Gleichung:\nb = 300 \u2013 3a \u2013 cb = 300 \u2013 3(2c \u2013 100) \u2013 cb = 600 \u2013 7c\nDie beiden gefetteten Ausdr\u00fccke a = 2c \u2013 100 und b = 600 \u2013 7c setzen wir schlie\u00dflich in die mittlere der drei Ausgangsgleichungen ein:\n4b + a + c = 4004(600 \u2013 7c) + 2c \u2013 100 + c = 40025c = 1900c = 76\nDen Wert c = 76 setzten wir schlie\u00dflich in die beiden Gleichungen a = 2c \u2013 100 und b = 600 \u2013 7c ein und erhalten\na = 52b = 68\nEntdeckt habe ich dieses R\u00e4tsel in \u00bbDas gro\u00dfe Buch der mathematischen R\u00e4tsel\u00ab von Heinrich Hemme.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nBlo\u00df keinen Streit\nNur Nullen und Einsen erlaubt\nEine Unbekannte, zwei Potenzen\nWie gro\u00df ist das gelbe Dreieck?\nWelcher Code \u00f6ffnet das Schloss?\nWie gro\u00df ist die rote Fl\u00e4che?\nWelche Zahl ist gr\u00f6\u00dfer?\nWie gro\u00df ist das Quadrat?\nWo sollte man auf dem Flughafen rennen?\nWie gro\u00df ist das blaue Dreieck?",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben",
+            "Daten & Visualisierungen"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-11-02T11:54:00+01:00",
+    "date_modified": "2025-11-02T11:54:00+01:00",
+    "date_published": "2025-11-02T11:54:00+01:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Ein Pferd, drei K\u00e4ufer"
+    ]
+}
+

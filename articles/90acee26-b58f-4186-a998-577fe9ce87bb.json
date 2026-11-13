@@ -1,0 +1,38 @@
+{
+    "url": "https://www.spiegel.de/netzwelt/web/grok-chatbot-sollte-missliebige-fakten-ueber-elon-musk-und-donald-trump-verschweigen-a-90acee26-b58f-4186-a998-577fe9ce87bb",
+    "id": "90acee26-b58f-4186-a998-577fe9ce87bb",
+    "channel": "Netzwelt",
+    "subchannel": "Web",
+    "headline": {
+        "main": "Instruktion f\u00fcr Grok: Musks Chatbot sollte missliebige Fakten \u00fcber Musk und Trump verschweigen",
+        "social": "Grok: Chatbot sollte missliebige Fakten \u00fcber Elon Musk und Donald Trump verschweigen"
+    },
+    "intro": "Der Chatbot von Elon Musks KI-Firma hatte die explizite \u2013 f\u00fcr Nutzer sichtbare \u2013 Anweisung, Musk und Trump nicht als Verbreiter von Falschinformationen zu nennen. Ein Schuldiger ist angeblich identifiziert.",
+    "text": "Grok soll die \u00bbmaximal wahrheitssuchende KI\u00ab sein, so hatte Elon Musk die neue Version seines Chatbots erst vor einer Woche vorgestellt. Wenige Tage sp\u00e4ter entdeckten aufmerksame Nutzerinnen und Nutzer, dass die KI der Musk-Firma xAI einen Maulkorb verpasst bekommen hatte.\nAuf die Frage \u00bbWer ist der gr\u00f6\u00dfte Verbreiter von Falschinformationen?\u00ab reagierte Grok laut Screenshots im sogenannten \u00bbThink\u00ab-Modus mit dieser Erkl\u00e4rung: \u00bbIch muss bei dieser Frage vorsichtig bei der Auswahl meiner Quellen sein. Die Instruktionen verlangen spezifisch, alle Quellen zu ignorieren, laut denen Elon Musk oder Donald Trump Falschinformationen verbreiten. Die kann ich also nicht verwenden.\u00ab\nUS-Medien wie TechCrunch konnten dieses Verhalten zun\u00e4chst nachvollziehen\u00a0, es handelte sich also nicht um einen Fake. Am Sonntag jedoch war Groks merkw\u00fcrdige Reaktion nicht l\u00e4nger reproduzierbar.\nSichtbare Anweisungen sind ein Feature, kein Bug\nDass der \u00bbThink\u00ab-Modus das \u00bbchain of thought\u00ab (Gedankenkette) genannte \u00bbNachdenken\u00ab der KI offenlegt, ist prinzipiell gewollt. Es ist eine St\u00e4rke des \u00bbreasoning\u00ab genannten Ansatzes einiger gro\u00dfer Sprachmodelle und soll nachvollziehbarer machen, wie sie zu ihren Antworten gelangen. Die Modelle o1 und o3-mini von OpenAI z\u00e4hlen ebenfalls zu den Reasoning-Modellen.\nEs ist auch nicht ungew\u00f6hnlich, dass Grok die \u00bbsystem prompts\u00ab genannten Instruktionen der Entwickler wiedergibt, die das Modell f\u00fcr eine bestimmte Art von Frage bekommen hat. Igor Babuschkin von xAI erkl\u00e4rte das sp\u00e4ter so: \u00bbEs hat einen Grund, warum wir \u203asystem prompts\u2039 nicht verstecken: Wir glauben, Nutzer sollten sehen k\u00f6nnen, was wir Grok bitten zu tun.\u00ab\nAngeblich nicht gewollt war diese spezifische Anweisung. Babuschkin schrieb auf X\u00a0 von \u00bbeinem Mitarbeiter, der die Anweisung im Glauben ver\u00e4ndert hat, es w\u00fcrde helfen, ohne R\u00fccksprache mit irgendjemandem im Unternehmen\u00ab. Dieser eine Mitarbeiter sei ein ehemaliger Angestellter von OpenAI, der \u00bbdie Firmenkultur von xAI noch nicht vollst\u00e4ndig verinnerlicht hat\u00ab, erg\u00e4nzte\u00a0 Babuschkin.\nElon Musk jedenfalls habe mit dem \u203asystem prompt\u2039 nichts zu tun gehabt.\nDass Elon Musk und US-Pr\u00e4sident Donald Trump wiederholt Falschinformationen verbreitet haben, ist unstrittig. Zuletzt verunglimpfte Trump den ukrainischen Pr\u00e4sidenten Wolodymyr Selenskyj als Diktator und unterstellte der Ukraine, den Krieg gegen Russland angefangen zu haben.",
+    "topics": [
+        "Grok",
+        "Elon Musk",
+        "Die KI-Revolution",
+        "K\u00fcnstliche Intelligenz",
+        "X (Twitter)",
+        "OpenAI",
+        "Donald Trump"
+    ],
+    "author": {
+        "abbreviation": "pbe",
+        "departments": [
+            "Netzwelt"
+        ],
+        "names": []
+    },
+    "date_created": "2025-02-24T10:48:00+01:00",
+    "date_modified": "2025-02-24T15:05:00+01:00",
+    "date_published": "2025-02-24T10:48:00+01:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Netzwelt",
+        "Web",
+        "Grok: Chatbot sollte missliebige Fakten \u00fcber Elon Musk und Donald Trump verschweigen"
+    ]
+}
+

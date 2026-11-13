@@ -1,0 +1,34 @@
+{
+    "url": "https://www.spiegel.de/netzwelt/toolshell-chinesische-angreifer-laut-forschern-an-microsoft-attacken-beteiligt-a-e5ab140e-7338-41b8-ad99-06ffa7749867",
+    "id": "e5ab140e-7338-41b8-ad99-06ffa7749867",
+    "channel": "Netzwelt",
+    "subchannel": "default",
+    "headline": {
+        "main": "Laut Sicherheitsforschern: Chinesische Angreifer sollen an Attacken auf Microsoft beteiligt gewesen sein",
+        "social": "Microsoft-Systeme attackiert: Chinesische Hacker laut Forschern beteiligt"
+    },
+    "intro": "Mehr als 100 Firmennetzwerke sollen gehackt worden sein, auch staatliche Stellen sind betroffen. Deutschland geh\u00f6rt zu den bevorzugten Zielen.",
+    "text": "Aktuellen Analysen zufolge waren auch chinesische Angreifer an den Hackerattacken auf Firmennetzwerke mit Microsoft-Software beteiligt. Charles Carmakal, technischer Leiter von Googles Sicherheitstochter Mandiant, erkl\u00e4rte gegen\u00fcber der \u00bbWashington Post\u00ab\u00a0, dass zumindest einige der fr\u00fchesten Attacken einem \u00bbBedrohungsakteur mit chinesischem Hintergrund\u00ab zugeordnet werden k\u00f6nnten.\nDie Angriffe waren am Wochenende bekannt geworden. Laut der IT-Sicherheitsfirma Eye Security und der Shadowserver Foundation sollen mehr als 100 Organisationen erfolgreich gehackt worden sein, darunter auch Regierungsstellen. Neben den USA geh\u00f6rte auch Deutschland zu den bevorzugten Zielen der Angreifer. Eye Security hat bisher sechs verschiedene Angriffswellen identifiziert. Es gibt \u00c4hnlichkeiten mit Attacken, die zuvor staatlich unterst\u00fctzten chinesischen Hackergruppen zugeordnet wurden. Die chinesische Botschaft in Washington reagierte bisher auf Medienanfragen nicht. In der Vergangenheit hatte die Regierung in Peking die Beteiligung an Hackerattacken kategorisch dementiert.\nOb die Attacken am Wochenende von einer einzigen Gruppe ausgegangen sein k\u00f6nnten, ist bisher noch unklar. Mittlerweile nutzen aber verschiedene Angreifer die Schwachstellen aus, so Carmakal. \u00bbWir gehen fest davon aus, dass sich dieser Trend fortsetzen wird, da verschiedene andere Bedrohungsakteure aus unterschiedlichen Motiven diese Schwachstelle ebenfalls ausnutzen werden.\u00ab\nMehr als 8000 verwundbare Server\nMicrosoft hat am Montag Sicherheitsupdates f\u00fcr die betroffenen Sharepoint-Server ver\u00f6ffentlicht. Sie werden in Firmennetzwerken eingesetzt, um Dokumente zu verwalten und Gesch\u00e4ftsanwendungen auszuf\u00fchren. Von den Attacken ist Microsofts eigenes Cloudangebot nicht betroffen, nur Firmen, die die Software auf eigenen Servern installiert haben. Laut ersten Scans waren mindestens 8000 solche Server aus dem Internet erreichbar und damit verwundbar. Namen von betroffenen Organisationen wurden bisher nicht ver\u00f6ffentlicht.\nUnklar ist noch, welchen Zwecken die Attacken dienten. Es gibt bisher noch keine Berichte \u00fcber Datendiebst\u00e4hle. Angreifer konnten die L\u00fccke aber auch nutzen, um Schadsoftware zu installieren, um auch dann Zugriff zu haben, wenn die betroffenen Firmen und Beh\u00f6rden die urspr\u00fcnglichen Sicherheitsl\u00fccken geschlossen haben. Microsoft und auch das Bundesamt f\u00fcr Sicherheit in der Informationstechnik (BSI) empfehlen daher, betroffene Server auch nach dem Einspielen der Updates auf verd\u00e4chtige \u00c4nderungen zu untersuchen und kryptografische Schl\u00fcssel auszutauschen.\nIT-Sicherheitsexperten haben die Angriffsmethode auf den Namen \u00bbToolshell\u00ab getauft, eine erste Variante war im Mai auf einer Konferenz in Berlin demonstriert worden. Inzwischen erreicht das Bedrohungspotenzial mit 9,8 fast den H\u00f6chstwert von 10 auf der international anerkannten Bewertungsskala f\u00fcr Schwachstellen (CVSS). Betroffene Firmen und Beh\u00f6rden werden zum sofortigen Handeln aufgefordert.\nIn der Vergangenheit reichten allerdings selbst dringende Warnungen von Softwareherstellern und Sicherheitsbeh\u00f6rden nicht aus, um alle Betroffenen rechtzeitig zu sch\u00fctzen. Im vergangenen Jahr entdeckte etwa die CDU erst nach 14 Tagen\u00a0, dass Angreifer ihr internes Netz kompromittiert hatten.",
+    "topics": [
+        "Cyber Security",
+        "Hacker",
+        "Cyber Threats",
+        "Microsoft"
+    ],
+    "author": {
+        "abbreviation": "tmk/Reuters",
+        "departments": [
+            "Netzwelt"
+        ],
+        "names": []
+    },
+    "date_created": "2025-07-22T12:58:00+02:00",
+    "date_modified": "2025-07-22T15:10:00+02:00",
+    "date_published": "2025-07-22T12:58:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Netzwelt",
+        "Toolshell: Angreifer aus China laut Forschern an Microsoft-Attacken beteiligt"
+    ]
+}
+

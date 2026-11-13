@@ -1,0 +1,29 @@
+{
+    "url": "https://www.spiegel.de/wirtschaft/china-verdaechtige-funkmodule-in-us-solaranlagen-entdeckt-a-f28a1117-33af-451a-9d09-6f878fcc5c27",
+    "id": "f28a1117-33af-451a-9d09-6f878fcc5c27",
+    "channel": "Wirtschaft",
+    "subchannel": "default",
+    "headline": {
+        "main": "Sabotage-Angst: US-Ermittler finden offenbar verd\u00e4chtige Funkmodule aus China in Solaranlagen",
+        "social": "China: Verd\u00e4chtige Funkmodule in US-Solaranlagen entdeckt"
+    },
+    "intro": "Chinesische Produzenten von elektronischen Steuerungen stehen schon l\u00e4nger im Verdacht, ihre Produkte mit Hintert\u00fcrchen f\u00fcr Spione oder Saboteure auszustatten. Jetzt wollen Ermittler in den Wechselrichtern von Solarpanels verd\u00e4chtige Funkmodule aufgesp\u00fcrt haben.",
+    "text": "In den USA untersuchen Ingenieure Solaranlagen aus China, in denen Funkmodule gefunden worden sein sollen. Es besteht der Verdacht, dass sie die M\u00f6glichkeit bieten, die Infrastruktur f\u00fcr erneuerbare Energien zu sabotieren.\nDie in den Solarmodulen installierten Wechselrichter werden \u00fcberwiegend in China hergestellt und weltweit eingesetzt, um Kollektoren und Windturbinen an die Stromnetze anzuschlie\u00dfen. Sie sind auch in Batterien, W\u00e4rmepumpen und Ladeger\u00e4ten f\u00fcr Elektrofahrzeuge zu finden.\nDas Einfallstor f\u00fcr m\u00f6gliche Angriffe k\u00f6nnten Schnittstellen in der Software der Wechselrichter bieten, die einen Fernzugriff auf Updates und Wartungsarbeiten erm\u00f6glichen. Deshalb installieren Versorgungsunternehmen, die sie einsetzen, in der Regel Firewalls, um eine direkte Kommunikation nach China zu verhindern.\nGefahr f\u00fcr die Stromnetze\nDer Regel nach sind solche Schnittstellen in den technischen Beschreibungen dokumentiert. US-Experten haben jedoch in einigen chinesischen Solarwechselrichtern unzul\u00e4ssige, in den Produktunterlagen nicht aufgef\u00fchrte Kommunikationsger\u00e4te gefunden, erkl\u00e4rten zwei Insider der Nachrichtenagentur Reuters. In den vergangenen neun Monaten seien auch in einigen Batterien mehrerer chinesischer Lieferanten nicht dokumentierte Kommunikationsger\u00e4te, darunter Mobilfunkger\u00e4te, gefunden worden.\nDie technischen Einrichtungen k\u00f6nnten dazu genutzt werden, um Firewalls zu umgehen und Wechselrichter aus der Ferne auszuschalten oder ihre Einstellungen zu \u00e4ndern. Dies k\u00f6nnte nach Ansicht von Experten die Stromnetze destabilisieren, die Energieinfrastruktur besch\u00e4digen und weitverbreitete Stromausf\u00e4lle ausl\u00f6sen.\nLaut dem Beratungsunternehmen Wood Mackenzie war der chinesische Tech-Multi Huawei 2022 mit einem Marktanteil in H\u00f6he von 29 Prozent der weltweit gr\u00f6\u00dfte Anbieter von Wechselrichtern, gefolgt von den chinesischen Unternehmen Sungrow und Ginlong Solis.\n\u00bbWenn man vor zehn Jahren die chinesischen Wechselrichter abgeschaltet h\u00e4tte, h\u00e4tte das keine dramatischen Auswirkungen auf die europ\u00e4ischen Netze gehabt, aber jetzt ist die kritische Masse viel gr\u00f6\u00dfer\u00ab, sagte der Gesch\u00e4ftsf\u00fchrer des deutschen Solarentwicklers 1Komma5, Philipp Schroeder. \u00bbChinas Dominanz wird zu einem gr\u00f6\u00dferen Problem, weil die Kapazit\u00e4t der erneuerbaren Energien in den westlichen Netzen w\u00e4chst und die Wahrscheinlichkeit einer l\u00e4ngeren und ernsthaften Konfrontation zwischen China und dem Westen steigt.\u00ab\nEnde 2024 waren nach Angaben des Branchenverbands SolarPower Europe in Europa 338 Gigawatt an Solarenergie installiert. Solar- oder Batteriespeichersysteme f\u00fcr Privathaushalte liegen unterhalb der Schwellenwerte, bei denen die Sicherheitsanforderungen in der Regel zum Tragen kommen, obwohl sie in vielen westlichen Stromnetzen inzwischen einen erheblichen Anteil an der Stromversorgung haben.\nDabei k\u00f6nnte die Kontrolle \u00fcber nur 3 bis 4 Gigawatt Energie eine weitreichende Unterbrechung der Stromversorgung zur Folge haben, so Experten. \u00bbWenn man eine ausreichend gro\u00dfe Anzahl von Heim-Solarwechselrichtern fernsteuert und sabotiert, k\u00f6nnte das f\u00fcr das Netz \u00fcber einen l\u00e4ngeren Zeitraum katastrophale Auswirkungen haben\u00ab, so Uri Sadot, Leiter des Cybersicherheitsprogramms beim israelischen Wechselrichterhersteller SolarEdge.",
+    "topics": [],
+    "author": {
+        "abbreviation": "mik/Reuters",
+        "departments": [
+            "Wirtschaft"
+        ],
+        "names": []
+    },
+    "date_created": "2025-05-14T13:42:00+02:00",
+    "date_modified": "2025-05-15T07:55:00+02:00",
+    "date_published": "2025-05-14T13:42:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Wirtschaft",
+        "China: Verd\u00e4chtige Funkmodule in US-Solaranlagen entdeckt"
+    ]
+}
+

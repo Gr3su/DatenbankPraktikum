@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-die-rote-flaeche-a-e6710e08-bf7e-4603-b28a-b999ec53ab73",
+    "id": "e6710e08-bf7e-4603-b28a-b999ec53ab73",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Wie gro\u00df ist die rote Fl\u00e4che?",
+        "social": "R\u00e4tsel der Woche: Wie gro\u00df ist die rote Fl\u00e4che?"
+    },
+    "intro": "Von einem Kreis werden zwei St\u00fccke senkrecht zueinander abgeschnitten. Die Schnittkanten haben eine L\u00e4nge von 6 und 8. Welche Gr\u00f6\u00dfe hat die verbliebene Fl\u00e4che?",
+    "text": "Berechnungen am Kreis sind mitunter etwas fummelig. Beim neuen R\u00e4tsel haben wir es mit zwei Kreisst\u00fccken zu tun. Diese werden von einem Kreis abgeschnitten, wobei die beiden Schnittkanten senkrecht aufeinander stehen.\nDas Ergebnis ist eine Fl\u00e4che, die von einem Kreisbogen und zwei Strecken begrenzt wird. Wir wissen, dass diese Strecken die L\u00e4ngen 6 und 8 haben.\nReichen diese Angaben aus, um die Gr\u00f6\u00dfe der verbliebenen Fl\u00e4che zu berechnen? Wie gro\u00df ist diese?\nDie Angaben reichen nicht aus, um die Gr\u00f6\u00dfe der roten Fl\u00e4che zu berechnen.\nIch gebe zu, die Aufgabe ist etwas gemein. Die Skizze legt nahe, dass der verbliebene Kreisbogen einem Halbkreis entspricht. Und dass die Ecke, welche die beiden Strecken 6 und 8 bilden, deshalb auf dem Rand des urspr\u00fcnglichen Kreises liegt. Dies muss wegen des Satzes des Thales\u00a0 der Fall sein.\nMit dem Satz des Pythagoras k\u00f6nnen wir dann den Durchmesser von 10 berechnen. Denn es gilt: 102 = 62 + 82 \u2013 siehe folgende Zeichnung links. Die gesuchte Fl\u00e4che w\u00e4re dann die des Halbkreises mit dem Durchmesser 10 plus die Fl\u00e4che des rechtwinkligen Dreiecks.\nDoch diese Rechnung stimmt nur unter der Annahme, dass der verbliebene Kreisbogen einem Halbkreis entspricht und der Eckpunkt tats\u00e4chlich auf dem Rand des Kreises liegt, von dem wir die zwei Kreisst\u00fccke abgeschnitten haben.\nWir k\u00f6nnen die St\u00fccke aber auch von einem gr\u00f6\u00dferen Kreis abschneiden. Die Schnittkanten haben ebenfalls die L\u00e4ngen 6 und 8. Aber die rote Fl\u00e4che ist dann kleiner als im ersten Fall \u2013 siehe Zeichnung oben rechts. Sie setzt sich wie im ersten Fall aus dem rechtwinkligen Dreieck und einem Kreissegment zusammen, dessen Fl\u00e4che jedoch kleiner ist als die des Halbkreises.\nDeshalb k\u00f6nnen wir die Frage nach der Gr\u00f6\u00dfe der roten Fl\u00e4che nicht beantworten.\nEntdeckt habe ich dieses Geometrier\u00e4tsel auf Facebook. Viele User haben angenommen, die Ecke liege auf dem Kreis, und ein Ergebnis berechnet.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nWelche Zahl ist gr\u00f6\u00dfer?\nWie gro\u00df ist das Quadrat?\nWo sollte man auf dem Flughafen rennen?\nWie gro\u00df ist das blaue Dreieck?\nZwei Nichtteiler gesucht\nWie gro\u00df ist die Summe?\nWie gro\u00df sind die farbigen Fl\u00e4chen?\nHat diese Gleichung eine L\u00f6sung?\nWelchen Durchmesser hat der Kreis?\nTeiler und Kehrwerte\nAnmerkung der Redaktion: In einer fr\u00fcheren Version dieses R\u00e4tsels wurden die vom Kreis abgeschnittenen St\u00fccke als Kreissegmente bezeichnet. Eines der beiden St\u00fccke kann jedoch auch ein Kreissegment sein, bei dem ein Teil fehlt. Wir haben die Bezeichnung deshalb korrigiert.",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-09-07T07:33:00+02:00",
+    "date_modified": "2025-09-07T07:33:00+02:00",
+    "date_published": "2025-09-07T07:33:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Wie gro\u00df ist die rote Fl\u00e4che?"
+    ]
+}
+

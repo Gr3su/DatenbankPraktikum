@@ -1,0 +1,36 @@
+{
+    "url": "https://www.spiegel.de/politik/deutschland/afd-wie-wir-das-gutachten-des-verfassungsschutzes-durchsuchbar-machten-a-4d872db2-e64e-4f4a-92fc-8548117654d5",
+    "id": "4d872db2-e64e-4f4a-92fc-8548117654d5",
+    "channel": "Politik",
+    "subchannel": "Deutschland",
+    "headline": {
+        "main": "Die Geschichte hinter der Geschichte: Wie wir mehr als 1100 AfD-Zitate digitalisierten",
+        "social": "AfD: Wie wir das Gutachten des Verfassungsschutzes durchsuchbar machten"
+    },
+    "intro": "In einem interaktiven Tool machten wir das AfD-Gutachten des Verfassungsschutzes durchsuchbar. Auf dem Weg dorthin stie\u00dfen wir auf technische H\u00fcrden, die sich nur mit beispielloser Handarbeit \u00fcberwinden lie\u00dfen.",
+    "text": "Wenn Sie einem Datenjournalisten mal den Tag verderben wollen, geben Sie ihm ein schlecht eingescanntes PDF. Texte und Daten lassen sich daraus nicht sauber herauskopieren und weiterverwenden. Ein Kollege sagte mal: \u00bbPDFs sind der Ort, an den Daten zum Sterben gehen.\u00ab\nEine uns\u00e4gliche PDF-Datei\nIm Mai bekamen wir einen Scan des AfD-Gutachtens in die H\u00e4nde \u2013 jenes Papiers, in dem das Bundesamt f\u00fcr Verfassungsschutz (BfV) Belege f\u00fcr die Verfassungsfeindlichkeit der Partei\u00a0 zusammengetragen hat. 1108 Seiten, im Original offenbar links gebunden, sodass das Papier beim Scannen nicht richtig aufliegen konnte. Das Resultat: schiefe Zeilen, dunkle Schatten, datenjournalistische Verzweiflung.\nTrotzdem war klar, dass wir mit diesem PDF arbeiten mussten. Zu gro\u00df waren die Relevanz und das Interesse der \u00d6ffentlichkeit, sich selbst ein Bild vom Inhalt zu machen. Die Verfassungssch\u00fctzer hatten zusammengetragen, wie tief extreme Denkmuster in der AfD verwurzelt sind. Daf\u00fcr hatten sie mehr als 1100 Zitate aus Reden, Posts und Publikationen von Parteifunktion\u00e4ren gesammelt.\nWir entschieden, eine interaktive Anwendung zu programmieren, in der unsere Leserinnen und Leser die Zitate selbst durchsuchen k\u00f6nnen \u2013 nach Begriffen, Personen, Landesverb\u00e4nden. Doch daf\u00fcr mussten wir den Inhalt zun\u00e4chst aus dieser uns\u00e4glichen PDF-Datei befreien. Wir nennen das: \u00bbmaschinenlesbar\u00ab machen. Nur mit maschinenlesbaren Daten l\u00e4sst sich eine interaktive, durchsuchbare Anwendung bauen.\nAn den Grenzen der Technik\nGl\u00fccklicherweise gibt es Texterkennungssoftware: Man gibt ein gescanntes Dokument hinein und bekommt den Text zur\u00fcck. In der Theorie ist das zumindest so.\nIn der Praxis st\u00f6\u00dft man immer wieder auf Probleme: Folgen die Buchstaben \u00bbrn\u00ab aufeinander, erkennt die Software gelegentlich \u00bbm\u00ab. Waren beim Scannen Flecken oder Kr\u00fcmel auf dem Blatt, k\u00f6nnen daraus pl\u00f6tzlich Satzzeichen werden. Und ist der gescannte Text zu verzogen, kommt manchmal nur noch Kauderwelsch raus.\nWir konnten nat\u00fcrlich nur Zitate ver\u00f6ffentlichen, bei denen wir sicher waren, sie korrekt wiederzugeben. Doch irgendwann waren die technischen M\u00f6glichkeiten ersch\u00f6pft und wir fanden in Stichproben noch immer Fehler in mehreren Zitaten. Uns wurde klar: Wir m\u00fcssen die Sache h\u00e4ndisch angehen. Zwei Dutzend Kolleginnen und Kollegen erkl\u00e4rten sich sofort bereit mitzuhelfen.\nMan muss das noch einmal wiederholen, weil es in einer f\u00fcr Medienh\u00e4user wirtschaftlich herausfordernden Zeit wirklich nicht selbstverst\u00e4ndlich ist, dass f\u00fcr ein Projekt derart viele Mitarbeiter ihre Arbeit beiseitelegen: Vierundzwanzig Kolleginnen und Kollegen lasen und pr\u00fcften \u00fcber viele Stunden rechtsextreme Zitate.\nBelege als offene Daten\nWir arbeiteten in einem riesigen, miteinander geteilten Tabellendokument. Eine Zeile f\u00fcr jedes Zitat. In den einzelnen Spalten erfassten wir die Originalformulierung, den Urheber des Zitats, Datum, Quelle und die Seite im Gutachten, auf der sich das Zitat findet. Nach acht Stunden hatten wir das Ende der Liste erreicht \u2013 und waren ersch\u00f6pft. Am n\u00e4chsten Tag gingen wir noch einmal alle Zitate durch. Sicher ist sicher.\nNicht nur die schiere Menge der Zitate war herausfordernd. Auch ihr Inhalt war verst\u00f6rend: menschenverachtende Spr\u00fcche von AfD-Granden, gewaltverherrlichender Ton und eine demokratiefeindliche Weltsicht. In einem gemeinsamen Chat besprachen wir Grenzf\u00e4lle, in denen Details uneindeutig waren, und motivierten uns gegenseitig, trotz der Zumutungen dieses Materials weiterzumachen.\nParallel zur Datenarbeit gestalteten wir den Look der interaktiven Anwendung. Und ebenso zur selben Zeit programmierten wir das technische Fundament des Artikels.\nNach insgesamt neun Tagen waren wir fertig. Die extrahierten und gepr\u00fcften Zitate sind heute nicht nur Grundlage der interaktiven Anwendung und des Artikels. Wir stellen sie auch als Open Data zum Download bereit, damit Wissenschaft und Zivilgesellschaft sie weiterverwenden k\u00f6nnen (Google Spreadsheet\u00a0, Excel-Download\u00a0, CSV-Download\u00a0).\nSo verhinderten wir diesmal, dass Daten den PDF-Tod sterben.",
+    "topics": [
+        "Die Geschichte hinter der Geschichte 2025",
+        "Daten und Visualisierungen"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Datenjournalismus",
+            "Daten & Visualisierungen"
+        ],
+        "names": [
+            "Marcel Pauly"
+        ]
+    },
+    "date_created": "2025-12-30T15:54:00+01:00",
+    "date_modified": "2025-12-30T15:54:00+01:00",
+    "date_published": "2025-12-30T15:54:00+01:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Politik",
+        "Deutschland",
+        "AfD: Wie wir das Gutachten des Verfassungsschutzes durchsuchbar machten"
+    ]
+}
+

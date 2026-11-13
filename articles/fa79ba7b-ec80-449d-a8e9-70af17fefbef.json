@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-addierte-teiler-a-fa79ba7b-ec80-449d-a8e9-70af17fefbef",
+    "id": "fa79ba7b-ec80-449d-a8e9-70af17fefbef",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Teiler und Kehrwerte",
+        "social": "R\u00e4tsel der Woche: Addierte Teiler"
+    },
+    "intro": "Eine nat\u00fcrliche Zahl n hat mehrere Teiler. Addiert man diese, erh\u00e4lt man die Summe T. Was kommt heraus, wenn die Kehrwerte der Teiler summiert werden?",
+    "text": "Die folgende Knobelei ist eine typische Aufgabe bei Mathewettbewerben: auf den ersten Blick abstrakt, aber mit einer verbl\u00fcffend simplen L\u00f6sung. Gegeben sind alle Teiler x1, x2, ... xk der nat\u00fcrlichen Zahl n. Die Zahlen 1 und n geh\u00f6ren zu den Teilern von n nat\u00fcrlich dazu.\nAddiert man die k Teiler der Zahl n, erh\u00e4lt man die Summe T:\nx1 + x2 + ... + xk = T\nWenn n und T bekannt sind, die gro\u00df ist denn die Summe der Kehrwerte (auch Reziproke genannt) der Teiler?\n1/x1 + 1/x2 + ... + 1/xk = ?\nDie Summe der Kehrwerte der Teiler betr\u00e4gt T/n.\nWir analysieren das Problem zun\u00e4chst an einem konkreten Beispiel. Die Zahl n = 10 hat genau vier Teiler:\n1, 2, 5, 10\nDie Summe der vier Teiler betr\u00e4gt:\n1+ 2+ 5 + 10 = 18\nF\u00fcr die Summe S der Kehrwerte ergibt sich:\n1/1 + 1/2 + 1/5 + 1/10 = S\nWir bringen die Br\u00fcche auf den gemeinsamen Nenner n = 10:\n10/10 + 5/10 + 2/10 + 1/10 = S\nWenn wir uns die Z\u00e4hler anschauen, dann sehen wir, dass dort genau die vier Teiler der Zahl 10 auftauchen. Die Summe S entspricht also der Summe der Teiler (=18) geteilt durch die Zahl n = 10.\nS = 18/10\nDiese Beziehung gilt auch allgemein. Zu jedem Teiler xi von n gibt es einen Teiler xj, sodass gilt: xi \u00b7 xj = n. Wir nennen xj den Partner von xi.\nJeder Teiler xi aus der Menge x1, x2, ... xk hat genau einen Partner in dieser Menge mit der Eigenschaft\nxi \u00b7 xj = n.\nIst n eine Quadratzahl und xi ihre Wurzel, ist xi sein eigener Partner. F\u00fcr alle xi gilt:\nxi = n/xj\n1/xi = xj/n\nNun bilden wir links und rechts die Summe \u00fcber alle i:\nS = Summe( 1/xi ) = Summe( xj/n )\nS = 1/n \u00b7 Summe( xj )\nDie Summe \u00fcber alle xj ist nat\u00fcrlich identisch mit der Summe \u00fcber alle xi \u2013 und damit sind wir fertig:\nS = 1/n \u00b7 T = T/n\nEntdeckt habe ich diese Knobelei im Youtube-Kanal \u00bbPrime Newtons\u00ab\u00a0.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nDie perfekte Eiswaffel\nDie unm\u00f6gliche Faltung\nAus wie vielen W\u00fcrfeln besteht das Denkmal?\nEinzigartige Br\u00fcche gesucht\nWie gro\u00df ist das graue Quadrat?\nWie lautet der T\u00fcrcode?\nWie gro\u00df ist das Trapez?\nGrillen f\u00fcr Profis\nWie gro\u00df ist der spitze Winkel?\nEin Geburtstag, viele Kinder\nAnmerkung der Redaktion: In einer fr\u00fcheren Version dieses Textes hie\u00df es, eine Eiskugel stecke zur H\u00e4lfte in der Waffel und die andere H\u00e4lfte rage als Halbkugel aus der Waffel heraus. Wir haben diese Beschreibung angepasst, weil bei der beschriebenen gleichseitigen Form das Innenvolumen der Waffel nicht reichen w\u00fcrde, um eine halbe Kugel Eis aufzunehmen.",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-06-29T09:30:00+02:00",
+    "date_modified": "2025-06-29T09:30:00+02:00",
+    "date_published": "2025-06-29T09:30:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Addierte Teiler"
+    ]
+}
+

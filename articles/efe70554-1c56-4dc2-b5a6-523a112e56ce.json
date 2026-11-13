@@ -1,0 +1,35 @@
+{
+    "url": "https://www.spiegel.de/netzwelt/web/bedrohungsbericht-von-anthropic-wie-ki-von-cyber-kriminellen-missbraucht-wird-a-efe70554-1c56-4dc2-b5a6-523a112e56ce",
+    "id": "efe70554-1c56-4dc2-b5a6-523a112e56ce",
+    "channel": "Netzwelt",
+    "subchannel": "Web",
+    "headline": {
+        "main": "Bedrohungsbericht von Anthropic: Wie KI von Cyberkriminellen missbraucht wird",
+        "social": "Bedrohungsbericht von Anthropic: Wie KI von Cyberkriminellen missbraucht wird"
+    },
+    "intro": "Ein Bericht der KI-Firma Anthropic zeigt, wie deren Chatbot Claude von Kriminellen f\u00fcr Hackerangriffe und Betrugsmaschen eingesetzt wurde. Diese vereinfacht k\u00fcnstliche Intelligenz n\u00e4mlich erheblich.",
+    "text": "Internetkriminelle nutzen k\u00fcnstliche Intelligenz als willigen Helfer. Ein Bedrohungsbericht der KI-Firma Anthropic\u00a0 zeigt, wie KI die H\u00fcrden f\u00fcr Cyberangriffe senkt. Demnach k\u00f6nnen auch Kriminelle mit geringen technischen Kenntnissen mithilfe von KI-Chatbots wie Anthropics Claude komplexe Operationen durchf\u00fchren.\nAllein im vergangenen Monat sind laut Anthropic 17 Unternehmen und Organisationen aus Bereichen wie Gesundheitswesen, Regierung und Religion Ziel automatisierter Attacken gewesen. Claude habe dabei etwa nach Schwachstellen gesucht sowie bei der Entscheidung geholfen, wie ein Netzwerk am besten angegriffen werden kann und welche Daten von dort kopiert werden sollten.\n\u00dcblicherweise h\u00e4tte man f\u00fcr eine solche Aktion ein Team aus Experten gebraucht, sagte Jacob Klein, Leiter des Threat Intelligence Teams von Anthropic, dem Techmagazin \u00bbThe Verge\u00ab\u00a0. Nun k\u00f6nne eine einzige Person das mithilfe k\u00fcnstlicher Intelligenz bewerkstelligen. Neue KI-Systeme k\u00f6nnen zudem als \u00bbAgenten\u00ab im Auftrag von Nutzerinnen und Nutzern agieren und weitgehend eigenst\u00e4ndig Aufgaben f\u00fcr sie erledigen.\nEinsatz bei Ransomware-Angriffen\nKI-Chatbots wie Claude werden dem Bericht zufolge auch gezielt f\u00fcr Datenerpressung verwendet. Wie Anthropic berichtet, wurde Claude demnach bereits eingesetzt, um in Netzwerke einzudringen, Daten zu erbeuten und diese auszuwerten. Zudem h\u00e4tten die Angreifer die Software verwendet, um \u00bbpsychologisch zielgerichtete\u00ab Erpressungsnachrichten zu formulieren, berichtet Anthropic. Die Angreifer h\u00e4tten ihren Opfern gedroht, die gestohlenen Informationen zu ver\u00f6ffentlichen, und teilweise L\u00f6segeldzahlungen von mehr als 500.000 Dollar verlangt.\nKlein erkl\u00e4rte \u00bbThe Verge\u00ab dazu: \u00bbDas ist die raffinierteste Verwendung von Agenten, die ich f\u00fcr Cyberangriffe je gesehen habe.\u00ab\nAnthropic listete in dem Bericht auch weitere F\u00e4lle auf, in denen Claude f\u00fcr Onlinekriminalit\u00e4t missbraucht wurde. So sei der Chatbot zum Einsatz gekommen, als sich Nordkoreaner Homeoffice-Jobs als Programmierer in US-Unternehmen erschlichen, um Geld f\u00fcr die Regierung reinzuholen. Sie h\u00e4tten sich dabei auf die KI-Software verlassen, um mit ihren Arbeitgebern zu kommunizieren und ihre Aufgaben zu erledigen.\nDabei h\u00e4tten sie augenscheinlich nicht genug Ahnung von Softwareentwicklung gehabt, um den Job ohne Hilfe von Claude auszu\u00fcben, stellt Anthropic in dem Bericht fest. Fr\u00fcher habe Nordkorea f\u00fcr derartige Aktionen jahrelang Experten ausgebildet, \u00bbaber durch KI fiel diese Einschr\u00e4nkung weg\u00ab.\nAu\u00dferdem entwickelten Cyberkriminelle mithilfe von Claude Betrugsmaschen, die sie im Netz zum Kauf anboten. Dazu geh\u00f6rte laut Anthropic ein Bot f\u00fcr Beziehungsbetrug auf der Plattform Telegram. Er sollte Opfern etwa eine romantische Verbindung vorgaukeln, um Geld von ihnen zu erbeuten. Mit Claude k\u00f6nne man Chats \u00bbmit hoher emotionaler Intelligenz\u00ab in verschiedenen Sprachen f\u00fchren, hei\u00dft es von Anthropic\nDas Unternehmen betont, dass es zwar ausgekl\u00fcgelte Ma\u00dfnahmen gegen den Missbrauch seiner KI-Software einsetzt, Onlinekriminelle aber immer wieder versuchen, diese zu umgehen. Die Erfahrungen aus den bekannten F\u00e4llen wolle man nun nutzen, um die Schutzfunktionen der Claude-KI zu verbessern.",
+    "topics": [
+        "Cybercrime",
+        "Die KI-Revolution",
+        "K\u00fcnstliche Intelligenz",
+        "Internetkriminalit\u00e4t"
+    ],
+    "author": {
+        "abbreviation": "kim/dpa",
+        "departments": [
+            "Netzwelt"
+        ],
+        "names": []
+    },
+    "date_created": "2025-08-28T12:02:00+02:00",
+    "date_modified": "2025-08-28T12:02:00+02:00",
+    "date_published": "2025-08-28T12:02:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Netzwelt",
+        "Web",
+        "Bedrohungsbericht von Anthropic: Wie KI von Cyber-Kriminellen missbraucht wird"
+    ]
+}
+

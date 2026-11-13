@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/ein-geburtstag-viele-kinder-raetsel-der-woche-a-f639e425-f2e7-4c76-8907-f06825656a8a",
+    "id": "f639e425-f2e7-4c76-8907-f06825656a8a",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Ein Geburtstag, viele Kinder",
+        "social": "Ein Geburtstag, viele Kinder \u2013 R\u00e4tsel der Woche"
+    },
+    "intro": "Eine Seniorin feiert Geburtstag. Ihre Nachbarin fragt sie nach der Anzahl ihrer Kinder und bekommt eine Antwort, die einige Rechenk\u00fcnste erfordert.",
+    "text": "Erika ist eingeladen zum Geburtstag ihrer Nachbarin Brunhilde. Es ist \u2013 so viel darf hier verraten werden \u2013 noch nicht der 100. Geburtstag.\nDie beiden Seniorinnen kennen sich schon lange. Aber bei den zahlreichen Kindern und Enkeln von Brunhilde verliert Erika immer wieder den \u00dcberblick.\n\u00bbSag mal, wie viele Kinder hast du eigentlich?\u00ab, fragt Erika.\n\u00bbDu kennst ja mein Alter\u00ab, antwortet Brunhilde. \u00bbDie Zahl meiner Enkel entspricht genau meinem Alter. Jeder meiner S\u00f6hne hat genauso viele Kinder wie Br\u00fcder. Und jede meiner T\u00f6chter hat genauso viele Kinder wie Schwestern.\u00ab\nErika beginnt zu rechnen, kommt aber zu keinem Ergebnis. \u00bbIch glaube, deine Angaben reichen nicht aus, um die Anzahl deiner Kinder zu berechnen.\u00ab\n\u00bbStimmt\u00ab, sagt Brunhilde. \u00bbIch habe vergessen zu erw\u00e4hnen, dass ich mehr S\u00f6hne als T\u00f6chter habe.\u00ab\nWelchen Geburtstag feiert Brunhilde gerade? Und wie viele Kinder hat sie?\nBrunhilde feiert ihren 84. Geburtstag. Sie hat 13 Kinder (vier T\u00f6chter und neun S\u00f6hne).\nZun\u00e4chst legen wir einige Variablen fest: a ist das Alter von Brunhilde und zugleich die Zahl ihrer Enkel. b ist die Zahl ihrer T\u00f6chter, c die Zahl ihrer S\u00f6hne. Jede Tochter hat b \u2013 1 Schwestern und b \u2013 1 Kinder (= Enkel von Brunhilde). Zusammen haben die b T\u00f6chter b(b \u2013 1) Kinder. Analog gilt: Jeder Sohn hat c \u2013 1 Br\u00fcder und c \u2013 1 Kinder (= Enkel). Zusammen haben die c S\u00f6hne c(c \u2013 1) Kinder. Die Summe aller Kinder entspricht dem Alter von Brunhilde:\na = b(b \u2013 1) + c(c \u2013 1)\nNehmen wir an, es g\u00e4be nur eine Kombination (b, c) = b T\u00f6chter und c S\u00f6hne gleich b + c Kinder, welche zum Alter von Brunhilde passt. Dann w\u00e4re aus Symmetriegr\u00fcnden auch b S\u00f6hne und c T\u00f6chter eine L\u00f6sung. Denn diese L\u00f6sung w\u00fcrde ebenfalls b + c Kindern entsprechen. Erika w\u00fcsste also auf jeden Fall allein anhand des Alters, dass Brunhilde b + c Kinder hat, und w\u00fcrde nicht sagen: \u00bbIch glaube, deine Angaben reichen nicht, um die Anzahl deiner Kinder zu berechnen.\u00ab\nAlso muss es mindestens zwei unterschiedliche Zahlenpaare (b, c) und (d, e) geben, die zur Gesamtzahl der Enkel passen und damit zum Alter von Brunhilde.\nDie erg\u00e4nzende Antwort von Brunhilde (\u00bbIch habe mehr S\u00f6hne als T\u00f6chter\u00ab) hilft Erika, unter den mindestens zwei L\u00f6sungspaaren (b, c) und (d, e) das Richtige zu finden.\nDas ist nur m\u00f6glich, wenn bei genau einem der Paare die Anzahl der S\u00f6hne und T\u00f6chter unterschiedlich ist \u2013 und bei allen anderen Paaren gilt: T\u00f6chterzahl gleich Br\u00fcderzahl. Nur in dieser Konstellation bleibt ein einziges Paar als L\u00f6sung \u00fcbrig. Ist bei mehr als einem Paar die Zahl der T\u00f6chter und S\u00f6hne unterschiedlich, k\u00e4me jedes dieser Paare als L\u00f6sung infrage, wobei dann nat\u00fcrlich die gr\u00f6\u00dfere der zwei Zahlen f\u00fcr die Zahl der S\u00f6hne stehen w\u00fcrde.\nAlso gilt bei mindestens einem Paar, wir nennen es (b, c), b gleich c. Brunhilde h\u00e4tte dann b T\u00f6chter und b S\u00f6hne. Jeder Sohn hat b \u2013 1 Br\u00fcder und b \u2013 1 Kinder, jede Tochter hat b \u2013 1 Schwestern und b \u2013 1 Kinder. Insgesamt kommen wir daher auf 2b(b \u2013 1) Kinder. Und diese Zahl entspricht dem Alter von Brunhilde a. Das schreiben wir als Gleichung auf:\na = 2b2 \u2013 2b0 = b2 \u2013 b \u2013 a/2\nWir suchen nun alle ganzzahligen L\u00f6sungen b dieser Gleichung, wobei a ebenfalls ganzzahlig ist und kleiner als 100 und gr\u00f6\u00dfer als 40 (eher 60, aber wir rechnen hier mal mit einem Mindestalter von 40). Die positive L\u00f6sung der Gleichung lautet:\nb = 1/2 + 1/2*Wurzel(1 + 2a)\nDamit b ganzzahlig wird, muss 1 + 2a eine Quadratzahl sein. Wegen 40 < a und 100 > a liegt 2a + 1 im Intervall zwischen 81 und 201 und ist wegen 2a + 1 eine ungerade Zahl. Als Wert f\u00fcr 2a + 1 kommen nur 81, 121 und 169 infrage. Dies entspricht f\u00fcr das Alter a den Zahlen 40, 60 oder 84. F\u00fcr diese drei Alterszahlen existiert eine L\u00f6sung, bei der die Zahl der Br\u00fcder der Zahl der Schwestern entspricht.\nLaut Aufgabe muss es aber noch eine zweite L\u00f6sung (d, e) f\u00fcr dieselbe Alterszahl a geben, bei der d > e ist.\nNun schauen wir, ob es f\u00fcr 40, 60 oder 84 eine solche L\u00f6sung gibt. Wenn t die Anzahl der Br\u00fcder oder Schwestern ist, haben diese Br\u00fcder oder Schwestern jeweils t \u2013 1 Br\u00fcder beziehungsweise Schwestern und jeweils t Kinder. Die Gesamtzahl der Kinder bei t Br\u00fcdern oder Schwestern betr\u00e4gt daher t2 \u2013 t. Folgende Tabelle listet die Werte auf:\nWir m\u00fcssen in dieser Tabelle nun zwei verschiedene Zeilen mit t = d und t = e finden, sodass die Gesamtzahl der Kinder, also die Summe d2 \u2013 d + e2 \u2013 e, genau einer der Alterszahlen 40, 60 oder 84 entspricht.\nNur bei a = 84 existiert eine L\u00f6sung. Diese lautet d = 9 und e = 4. Brunhilde ist also 84 Jahre alt, hat 9 S\u00f6hne, 4 T\u00f6chter und 84 Enkel.\nEntdeckt habe ich diese Aufgabe auf dem Portal mathematik.ch\u00a0.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nWie viele verschiedene Ketten sind m\u00f6glich?\nWie quert man eine Marathonstrecke?\nWie gro\u00df ist die rote Fl\u00e4che?\nSechsstellige Zahl gesucht\nWelche Ziffer fehlt?\nWelche Fl\u00e4che hat der Kreis?\nVier auf einen Streich\nGl\u00fcckliche F\u00fcgung\nWie gro\u00df ist das blaue Quadrat?\nWie voll ist die Flasche?\nGleiche Winkel auf dem Ziffernblatt",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-04-20T08:06:00+02:00",
+    "date_modified": "2025-04-20T08:06:00+02:00",
+    "date_published": "2025-04-20T08:06:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "Ein Geburtstag, viele Kinder - R\u00e4tsel der Woche"
+    ]
+}
+

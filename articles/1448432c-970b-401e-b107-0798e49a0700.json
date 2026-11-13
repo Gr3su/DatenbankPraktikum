@@ -1,0 +1,42 @@
+{
+    "url": "https://www.spiegel.de/karriere/bloss-keinen-streit-raetsel-der-woche-a-1448432c-970b-401e-b107-0798e49a0700",
+    "id": "1448432c-970b-401e-b107-0798e49a0700",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Blo\u00df keinen Streit",
+        "social": "R\u00e4tsel der Woche: Blo\u00df keinen Streit"
+    },
+    "intro": "Acht Ritter treffen sich zu einem Fest. Einige sind untereinander verfeindet. Da Einzelzimmer fehlen, m\u00fcssen drei gemeinsam im Saal \u00fcbernachten. Kann das gut gehen?",
+    "text": "Wenn ich spannende Aufgaben suche, schaue ich auch immer wieder ins Archiv der Mathematikolympiaden\u00a0. Der Wettbewerb hat ab der 8. Klasse vier Stufen von der Schul- bis zur Bundesrunde. Sp\u00e4testens ab der Landesrunde wird es oft zu knifflig f\u00fcrs \u00bbR\u00e4tsel der Woche\u00ab. Doch auch Aufgaben aus der Schulrunde k\u00f6nnen anspruchsvoll sein, wie die folgende f\u00fcr die Klassenstufen 11 und 12 aus dem aktuellen Schuljahr.\nDer K\u00f6nig hat die acht Ritter seines Reichs zu einem Fest auf seine Burg eingeladen. Dort gibt es nur f\u00fcnf Einzelzimmer, daher m\u00fcssen drei Ritter gemeinsam im Saal \u00fcbernachten. Einige der Ritter haben paarweise Fehden miteinander; insgesamt gibt es n solche Paare. Damit es keinen Streit gibt, darf von zwei miteinander verfeindeten Rittern h\u00f6chstens einer im Saal schlafen.\nZeigen Sie: Eine Einquartierung ohne Streit ist immer m\u00f6glich, solange n \u2264 11 gilt.\nZweiter Teil: Beweisen Sie, dass f\u00fcr n \u2265 12 eine konfliktfreie Unterbringung nicht in jedem Fall gelingt.\nZun\u00e4chst der Fall n \u2264 11. Bei weniger als zw\u00f6lf Fehden gibt es mindestens einen Ritter mit h\u00f6chstens zwei Fehden.\nWarum? H\u00e4tten alle acht Ritter mindestens drei Fehden, erg\u00e4be das 8\u22c53 = 24 Teilnahmen an Fehden. Jede Fehde hat zwei Beteiligte, also w\u00e4ren das 24/2 = 12 Fehden \u2013 ein Widerspruch zu n \u2264 11. Deshalb gibt es mindestens einen Ritter, der an h\u00f6chstens zwei Fehden beteiligt ist.\nDiesen nennen wir Ritter A. Dann ist A mit mindestens 7 \u2212 2 = 5 Rittern nicht verfeindet.\nW\u00e4ren unter diesen mindestens f\u00fcnf Rittern alle paarweise verfeindet, g\u00e4be es unter ihnen mindestens 5\u22c54/2 = 10 Fehden. Zusammen mit den zwei Fehden von Ritter A im Fall von f\u00fcnf Rittern ohne Feindschaft erg\u00e4ben sich mindestens zw\u00f6lf Fehden \u2013 ein Widerspruch zu n \u2264 11.\nBei sechs oder sieben Rittern ohne Feindschaft mit Ritter A w\u00e4ren es 6\u22c55/2 + 1 = 16 oder 7\u22c56/2 = 21 Fehden \u2013 auch dies widerspricht n \u2264 11.\nDeshalb muss es unter den mindestens f\u00fcnf Rittern mindestens zwei geben, die nicht miteinander verfeindet sind. Mit Ritter A bilden sie ein konfliktfreies Saal-Trio.\nWas passiert bei mehr als elf Fehden? \nF\u00fcr n \u2265 12 gelingt eine konfliktfreie Unterbringung nicht immer \u2013 das zeigt ein Beispiel f\u00fcr n = 12. Wir teilen die acht Ritter in zwei Gruppen zu je vier Rittern. Jeder der acht Ritter soll mit den drei anderen Rittern seiner Gruppe verfeindet sein. Das sind insgesamt 4\u22c53/2 + 4\u22c53/2 = 12 Fehden. Wenn wir drei Ritter f\u00fcr den Saal ausw\u00e4hlen, stammen stets zwei aus derselben 4er-Gruppe und sind miteinander verfeindet. Also gibt es f\u00fcr n = 12 eine Konstellation, bei der Streit im Saal unvermeidbar ist.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nNur Nullen und Einsen erlaubt\nEine Unbekannte, zwei Potenzen\nWie gro\u00df ist das gelbe Dreieck?\nWelcher Code \u00f6ffnet das Schloss?\nWie gro\u00df ist die rote Fl\u00e4che?\nWelche Zahl ist gr\u00f6\u00dfer?\nWie gro\u00df ist das Quadrat?\nWo sollte man auf dem Flughafen rennen?\nWie gro\u00df ist das blaue Dreieck?\nZwei Nichtteiler gesucht\nAnmerkung der Redaktion: In der L\u00f6sung wurde ein Satz zu den beiden F\u00e4llen erg\u00e4nzt, dass A mit sechs oder sieben Rittern nicht verfeindet ist.",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben",
+            "Daten & Visualisierungen"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-10-26T07:10:00+01:00",
+    "date_modified": "2025-10-26T07:10:00+01:00",
+    "date_published": "2025-10-26T07:10:00+01:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "Blo\u00df keinen Streit \u2013 R\u00e4tsel der Woche"
+    ]
+}
+

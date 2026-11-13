@@ -1,0 +1,42 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-magische-jahreszahlen-a-bc934093-8cba-47a9-b928-dac5b6d8390b",
+    "id": "bc934093-8cba-47a9-b928-dac5b6d8390b",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Magische Jahreszahlen",
+        "social": "R\u00e4tsel der Woche: Magische Jahreszahlen"
+    },
+    "intro": "Jede der drei Zahlen 2023, 2024 und 2025 ist durch eine Quadratzahl teilbar. Steckt dahinter der Zufall? Oder gibt es unendlich viele solche Konstellationen?",
+    "text": "Es gibt unendlich viele Quadratzahlen \u2013 insgesamt gesehen sind sie allerdings eher selten. Von 1 und 100 finden sich zwar noch zehn, von 1001 bis 1100 sind es jedoch nur noch zwei. Umso erstaunlicher ist, dass die drei aufeinanderfolgenden Zahlen 2023, 2024 und 2025 s\u00e4mtlich durch eine Quadratzahl gr\u00f6\u00dfer als 1 teilen lassen:\n2023 = 172 * 72024 = 22 * 5062025 = 52 * 81\nF\u00fcr Mathematikerinnen und Mathematiker stellt sich sofort die Frage: Ist das einfach nur ein seltener Zufall oder tritt dieses Ph\u00e4nomen \u00f6fter auf? Die erste Frage an Sie: Gibt es wom\u00f6glich unendlich viele Trios aufeinanderfolgender Zahlen, von denen alle drei durch eine Quadratzahl (> 1) teilbar sind?\nFrage Nummer zwei: Existieren auch vier aufeinanderfolgende Zahlen mit dieser Eigenschaft? Ein konkretes Beispiel reicht. Und gibt es vielleicht sogar unendlich viele solcher Quartette?\nEs gibt unendlich viele Beispiele \u2013 sowohl f\u00fcr drei als auch f\u00fcr vier aufeinanderfolgende Zahlen \u2013, bei denen jede das Vielfache einer Quadratzahl gr\u00f6\u00dfer als 1 ist.\nBeginnen wir mit drei aufeinanderfolgenden Zahlen. Der einfachste Ansatz nutzt direkt die drei Zahlen 2023, 2024 und 2025. F\u00fcr sie gilt:\n2023 = 172 * 72024 = 22 * 5062025 = 52 * 81\nWenn wir zu allen drei Zahlen dieselbe Zahl n addieren, erhalten wir wieder drei aufeinanderfolgende nat\u00fcrliche Zahlen:\n2023 + n2024 + n2025 + n\n2023 ist durch 172 teilbar. Damit auch 2023 + n durch 172 teilbar ist, muss n durch 172 teilbar sein.\n2024 ist durch 22 teilbar. Damit auch 2024 + n durch 22 teilbar ist, muss n durch 22 teilbar sein.\n2025 ist durch 52 teilbar. Damit auch 2025 + n durch 52 teilbar ist, muss n durch 52 teilbar sein.\nn sollte also durch 172, 22 und 52 teilbar sein. Mit der Formel\nn = 172 * 22 * 52 * m\nk\u00f6nnen wir unendlich viele der Zahlen n erzeugen, wobei m eine beliebige positive nat\u00fcrliche Zahl ist. Damit haben wir unendlich viele Zahlentrios mit der geforderten Eigenschaft gefunden.\nEtwas schwieriger ist die Situation bei vier aufeinanderfolgenden Zahlen. Ich habe mir dabei die Quadrate einstelliger Zahlen angeschaut und bin bei 72 = 49 h\u00e4ngen geblieben. Wom\u00f6glich finde ich ja vier aufeinanderfolgende Zahlen, die auf 47, 48, 49 und 50 enden.\nZahlen die auf 48 enden, sind ein Vielfaches von 4 = 22 (siehe Teilbarkeitsregeln\u00a0 f\u00fcr 4).\nZahlen die auf 50 enden, sind durch 25 = 52 teilbar.\nZahlen, die auf 49 enden, haben die Form 100*p + 49, wobei p hier mindestens 1 sein soll. Damit 100*p + 49 durch 49 teilbar ist, muss p durch 49 teilbar sein. Also gilt p = 49*q und\n100*p + 49 = 4900*q + 49 (q > 0)\nJetzt fehlt nur noch eine auf 47 endende Zahl, die ebenfalls durch eine Quadratzahl teilbar ist. Diese muss die Form haben\n4900*q + 47 (q > 0)\nAm einfachsten w\u00e4re dabei als Teiler die Quadratzahl 9 = 32, denn sie ist klein und die Teilbarkeit durch 9 l\u00e4sst sich \u00fcber die Quersumme leicht pr\u00fcfen. Ist die Quersumme einer Zahl durch 9 teilbar, gilt das auch f\u00fcr die Zahl selbst. Die Quersumme, gek\u00fcrzt um Vielfache von 9, entspricht dem Rest beim Dividieren durch 9.\nWann ist die Zahl 4900*q + 47 durch 9 teilbar? Die letzten beiden Ziffern 47 haben die Quersumme 4 + 7 = 11, also den Rest 2 beim Teilen durch 9. 4900*q sollte daher den Rest 7 beim Teilen durch 9 besitzen, dann w\u00e4re 4900*q + 47 durch 9 teilbar.\n4900 hat die Quersumme 13, was einem Rest von 4 beim Teilen durch 9 entspricht. Auf den gesuchten Rest von 7 kommen wir, wenn wir 4900 mit 4 multiplizieren. Das Ergebnis 19.600 hat die Quersumme 16. Nach dem Abziehen von 9 erhalten wir als Neunerrest 7. Also gilt q = 4. Damit haben vier aufeinander folgende Zahlen mit der gesuchten Eigenschaft gefunden:\n19.647 = 32 * 218319.648 = 22 * 491219.649 = 72 * 40119.650 = 52 * 786\nWenn wir zu jeder dieser Zahlen ein ganzzahliges Vielfaches von\n22 * 32 * 52 * 72\naddieren, erhalten wir vier aufeinanderfolgende nat\u00fcrliche Zahlen, die durch 9, 4, 49 beziehungsweise 25 teilbar sind \u2013 also jeweils durch Quadratzahlen > 1. Damit haben wir unendlich viele Beispiele f\u00fcr vier aufeinander folgende Zahlen gefunden, die alle durch eine Quadratzahl > 1 teilbar sind.\nEntdeckt habe ich dieses R\u00e4tsel im Archiv des Vereins Mathematik-Olympiaden e.V.\u00a0 Sie wurde 2023 in der Schulrunde den Klassenstufen 9 und 10\u00a0 gestellt \u2013 ohne den allgemeinen Beweis f\u00fcr vier Zahlen.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nEin Pferd, drei K\u00e4ufer\nBlo\u00df keinen Streit\nNur Nullen und Einsen erlaubt\nEine Unbekannte, zwei Potenzen\nWie gro\u00df ist das gelbe Dreieck?\nWelcher Code \u00f6ffnet das Schloss?\nWie gro\u00df ist die rote Fl\u00e4che?\nWelche Zahl ist gr\u00f6\u00dfer?\nWie gro\u00df ist das Quadrat?\nWo sollte man auf dem Flughafen rennen?",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben",
+            "Daten & Visualisierungen"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-11-09T07:02:00+01:00",
+    "date_modified": "2025-11-09T07:02:00+01:00",
+    "date_published": "2025-11-09T07:02:00+01:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Magische Jahreszahlen"
+    ]
+}
+

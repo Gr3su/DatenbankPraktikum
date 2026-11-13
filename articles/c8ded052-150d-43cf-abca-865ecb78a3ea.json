@@ -1,0 +1,37 @@
+{
+    "url": "https://www.spiegel.de/wirtschaft/aws-wie-eine-stoerung-bei-amazons-clouddienst-das-internet-lahmlegte-a-c8ded052-150d-43cf-abca-865ecb78a3ea",
+    "id": "c8ded052-150d-43cf-abca-865ecb78a3ea",
+    "channel": "Wirtschaft",
+    "subchannel": "default",
+    "headline": {
+        "main": "St\u00f6rung beim Clouddienst AWS: Wie Amazon das Internet lahmlegte",
+        "social": "Wie eine St\u00f6rung bei Amazons Clouddienst AWS das Internet lahmlegte"
+    },
+    "intro": "Ein Amazon-Rechenzentrum zerst\u00f6rte f\u00fcr drei Stunden Teile des Internets. Der Schaden ist enorm. Und wirft die Frage neu auf, ob Europa eigene Technik braucht.",
+    "text": "Die Achillesferse des Internets befindet sich in drei Geb\u00e4uden im US-Bundesstaat Virginia. Graue Fassaden, ein schwarzer Zaun drumherum, keine Fenster. Im Rechenzentrum namens US-EAST-1 h\u00e4lt die Amazon-Tochter AWS die Technik bereit, mit der Tausende Internetanwendungen laufen. Darunter Banking-Apps, Buchungswebsites von Fluggesellschaften, die Gaming-Plattformen Fortnite und Roblox, die Messengerdienste Signal und Slack und der britische Regierungsdienst HM Revenue & Customs, der Steuern einzieht.\nAm vergangenen Montag hat die Achillesferse einen Tritt abbekommen, f\u00fcr mehrere Stunden lagen weite Teile des Internets still. Laut Amazon war das sogenannte Domain-Name-System (DNS) besch\u00e4digt, das f\u00fcr Menschen verst\u00e4ndliche Internetadressen wie SPIEGEL.de in Zahlen umwandelt, die Computer verstehen k\u00f6nnen.\n\u00bbDer Ausfall verdeutlicht einmal mehr, wie abh\u00e4ngig wir von relativ anf\u00e4lligen Infrastrukturen sind\u00ab, sagt der Brite Jake Moore, Berater bei der europ\u00e4ischen Cybersecurity-Firma ESET. Der Schaden unter anderem durch Produktivit\u00e4tsausf\u00e4lle von Millionen Arbeitskr\u00e4ften bel\u00e4uft sich seiner Sch\u00e4tzung zufolge auf Hunderte Millionen, potenziell sogar Milliarden Euro. \u00bbWeite Teile des Internets sind auf altmodischer Technik aufgebaut, die aus einer Zeit stammt, in der niemand an die heutigen Datenmengen und Sicherheitsrisiken dachte\u00ab, sagt Moore. Alternativen aufzubauen, dauere Jahre und koste enorme Summen, sei aber wichtig.\nMit AWS, Microsoft Azure und Google Cloud beherrschen drei Unternehmen den Cloud-Markt, alle aus den USA. Allein die Amazon-Tochter kommt auf rund 30 Prozent Marktanteil.\nEuropas Unabh\u00e4ngigkeit sei dadurch bedroht, beklagt Alexandra Geese, Digitalexpertin im Europ\u00e4ischen Parlament. \u00bbWir brauchen eine starke europ\u00e4ische Cloud- und KI-Infrastruktur, die unsere demokratischen Werte widerspiegelt, kritische Daten sch\u00fctzt und politischer wie kommerzieller Erpressung standh\u00e4lt\u00ab, sagte die Gr\u00fcnenpolitikerin laut Pressestatement. Gerade arbeiten Geese und ihre Mitstreiterinnen und Mitstreiter an zwei EU-Regelwerken, die definieren, welche Daten unter europ\u00e4ischer Kontrolle bleiben m\u00fcssen, und die \u00f6ffentliche Verwaltungen verpflichten, europ\u00e4ische Digitaltechnik zu bevorzugen.\nDas graue Amazon-Rechenzentrum in Virginia war bereits in der Vergangenheit Schauplatz gr\u00f6\u00dferer Ausf\u00e4lle. Die Gr\u00fcnde daf\u00fcr sind unklar. AWS verwies nur auf das \u00bbHealth Dashbord\u00ab, wo es Updates zu Pannen gibt. J\u00fcngster Eintrag: \u00bbAWS-Dienste funktionieren normal.\u00ab Die Achillessehne ist geflickt. Vorerst.",
+    "topics": [
+        "Amazon",
+        "Europa",
+        "Internet",
+        "Internetnutzung",
+        "Internethandel"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Wirtschaft"
+        ],
+        "names": [
+            "Kathrin Werner"
+        ]
+    },
+    "date_created": "2025-10-23T11:56:00+02:00",
+    "date_modified": "2025-10-23T11:56:00+02:00",
+    "date_published": "2025-10-23T11:56:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Wirtschaft",
+        "AWS: Wie eine St\u00f6rung bei Amazons Clouddienst das Internet lahmlegte"
+    ]
+}
+

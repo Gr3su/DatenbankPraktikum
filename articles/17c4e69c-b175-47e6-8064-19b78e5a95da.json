@@ -1,0 +1,34 @@
+{
+    "url": "https://www.spiegel.de/wissenschaft/technik/gedankenlesen-mit-ki-implantat-ermoeglicht-begrenztes-mithoeren-innerer-gespraeche-a-17c4e69c-b175-47e6-8064-19b78e5a95da",
+    "id": "17c4e69c-b175-47e6-8064-19b78e5a95da",
+    "channel": "Wissenschaft",
+    "subchannel": "Technik",
+    "headline": {
+        "main": "Hirn-Computer-Schnittstelle: Forschenden gelingt dank KI begrenztes Gedankenlesen",
+        "social": "Gedankenlesen mit KI: Implantat erm\u00f6glicht begrenztes Mith\u00f6ren innerer Gespr\u00e4che"
+    },
+    "intro": "\u00dcber ein spezielles Implantat konnten US-Wissenschaftler das innere Gespr\u00e4ch von Versuchspersonen teilweise mith\u00f6ren \u2013 wenn die zuvor \u00bbchitty chitty bang bang\u00ab dachten. Noch ist die Fehlerrate allerdings hoch.",
+    "text": "Mit speziellen Hirnimplantaten ist es Forschenden gelungen, den inneren Monolog von Versuchspersonen teilweise auszulesen. Bis zu 74 Prozent der imaginierten S\u00e4tze habe die Technik korrekt erkannt, schreibt das Team um die Elektroingenieurin Erin Kunz von der amerikanischen Stanford University in der Fachzeitschrift \u00bbCell\u00ab\u00a0. \u00bbZum ersten Mal konnten wir verstehen, wie Gehirnaktivit\u00e4t aussieht, wenn man nur ans Sprechen denkt\u00ab, sagt Kunz in einer Mitteilung des Journals.\nBei der Technik handelt es sich um Hirn-Computer-Schnittstellen, auf Englisch Brain-Computer-Interfaces, kurz BCI. Dabei werden spezielle Sensoren ins Gehirn eingepflanzt. Diese Elektroden nehmen neuronale Aktivit\u00e4t auf. Die BCI entschl\u00fcsseln diese Signale und wandeln sie in Aktionen um. Sie erm\u00f6glichen Patienten mit L\u00e4hmungen so beispielsweise, allein mithilfe ihrer Gedanken eine Handprothese oder einen Computercursor zu bewegen.\nWeniger erm\u00fcdend\nF\u00fcr die aktuelle Studie untersuchte die Forschungsgruppe Probanden, die aufgrund einer amyotrophen Lateralsklerose, ALS, einer Erkrankung des motorischen Nervensystems, oder eines Schlaganfalls stark gel\u00e4hmt sind und nicht mehr sprechen k\u00f6nnen. Ihnen waren zuvor Elektroden in den Motorkortex implantiert worden. Diese Gehirnregion ist f\u00fcr das Sprechen mitverantwortlich.\nBisherige Versuche der Sprach\u00fcbertragung mittels BCI beruhten oft darauf, dass Probanden die Muskeln f\u00fcr die Lautbildung bewusst aktivieren sollten. Das jedoch kann auf Dauer erm\u00fcdend sein. \u00bbWenn man nur ans Sprechen denken muss, anstatt tats\u00e4chlich zu versuchen zu sprechen, ist das f\u00fcr Menschen potenziell einfacher und schneller\u00ab, sagt Benyamin Meschede-Krasa, ein Mitautor der Studie, in der Mitteilung.\nKI hilft bei der \u00dcbersetzung\nZwei der Versuchspersonen sollten sich S\u00e4tze aus einem Kanon von insgesamt 125.000 englischen W\u00f6rtern vorstellen. Eine zuvor trainierte k\u00fcnstliche Intelligenz (KI) in der Hirn-Computer-Schnittstelle \u00fcbersetzte die Messdaten der Elektroden daraufhin in Text. Nicht immer funktionierte das Mitlesen jedoch gleich gut. Maximal 74 Prozent aller W\u00f6rter \u00fcbersetzte die KI fehlerfrei, in anderen Testl\u00e4ufen jedoch nur etwa 50 Prozent.\nDie Studie enth\u00e4lt einige Beispiele f\u00fcr falsche \u00dcbersetzungen. Als eine Versuchsperson sich den Satz \u00bbIch denke, es hat den besten Geschmack\u00ab auf Englisch vorstellen sollte, erkannte das System stattdessen: \u00bbIch glaube, es hat den besten Spieler\u00ab. Statt \u00bbJene Person dr\u00e4ngt dich\u00ab \u00fcbersetzte die KI den unverst\u00e4ndlichen Satz: \u00bbW\u00e4hrend rot du\u00ab.\nPassphrase erforderlich\nUm die Privatsph\u00e4re der Probanden zu sch\u00fctzen, bauten die Forschenden zus\u00e4tzlich einen Schutzmechanismus in die Technik ein. Nur wenn die Nutzer zuvor an die Passphrase \u00bbchitty chitty bang bang\u00ab dachten, begann die KI mit der Entschl\u00fcsselung der Messdaten. So sollte verhindert werden, dass Teile des inneren Gespr\u00e4chs nach au\u00dfen drangen, welche die Personen f\u00fcr sich behalten wollten.\nDie Neuroingenieurin Sarah Wandelt von den amerikanischen Feinstein Institutes for Medical Research, die selbst nicht an der Studie beteiligt war, lobte das Ergebnis trotz der Fehlerrate. Es stelle einen \u00bbtechnisch beeindruckenden und bedeutenden Schritt\u00ab in der Entwicklung von BCI-Ger\u00e4ten dar, die inneres Sprechen pr\u00e4zise entschl\u00fcsseln k\u00f6nnten, sagte sie dem Wissenschaftsportal \u00bbNature\u00ab\u00a0.\nAndere Fachleute weisen darauf hin, dass die Technik weit davon entfernt ist, jede Art Gedanken lesen zu k\u00f6nnen. Es sei umstritten, inwieweit Gedanken \u00fcberhaupt als innerer Monolog gefasst w\u00fcrden, sagte Evelina Fedorenko, Kognitionsneurowissenschaftlerin am Massachusetts Institute of Technology, der \u00bbNew York Times\u00ab\u00a0: \u00bbIch denke, viele spontane Gedanken sind einfach keine gut formulierten linguistischen S\u00e4tze.\u00ab",
+    "topics": [
+        "Hirnforschung",
+        "Sprache",
+        "K\u00fcnstliche Intelligenz"
+    ],
+    "author": {
+        "abbreviation": "msk",
+        "departments": [
+            "Wissenschaft"
+        ],
+        "names": []
+    },
+    "date_created": "2025-08-15T16:20:00+02:00",
+    "date_modified": "2025-08-16T12:34:00+02:00",
+    "date_published": "2025-08-15T16:20:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Wissenschaft",
+        "Technik",
+        "Gedankenlesen mit KI: Implantat erm\u00f6glicht begrenztes Mith\u00f6ren innerer Gespr\u00e4che"
+    ]
+}
+

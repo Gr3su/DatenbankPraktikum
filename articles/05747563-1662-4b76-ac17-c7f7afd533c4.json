@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-blaue-dreieck-a-05747563-1662-4b76-ac17-c7f7afd533c4",
+    "id": "05747563-1662-4b76-ac17-c7f7afd533c4",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Wie gro\u00df ist das blaue Dreieck?",
+        "social": "Wie gro\u00df ist das blaue Dreieck \u2013 das R\u00e4tsel der Woche"
+    },
+    "intro": "Von einem rechtwinkligen Dreieck wird ein Streifen abgeschnitten. Wir kennen die Fl\u00e4che und zwei Seitenl\u00e4ngen des Streifens. Welche Gr\u00f6\u00dfe hat das verbleibende Dreieck?",
+    "text": "Auf die letzten beiden anspruchsvollen Zahlenr\u00e4tsel der Vorwochen folgt nun ein eher einfaches geometrisches Problem. Gegeben ist ein rechtwinkliges Dreieck mit einem rot markierten Streifen parallel zur Hypotenuse \u2013 siehe Abbildung oben. Der Streifen hat eine Fl\u00e4che von 42, seine beiden kurzen Seiten haben die L\u00e4ngen 3 und 4.\nReichen diese Angaben aus, um die Gr\u00f6\u00dfe des verbleibenden blauen Dreiecks zu berechnen?\nWie gro\u00df ist seine Fl\u00e4che?\nDas blaue Dreieck hat eine Fl\u00e4che von 54.\nEs gibt, wie zum Gl\u00fcck oft in der Mathematik, unterschiedliche L\u00f6sungswege. Eher klassisch, aber daf\u00fcr nicht so elegant wegen der etwas l\u00e4ngeren Rechnerei, ist der folgende:\nWir bezeichnen die Katheten des blauen Dreiecks mit den L\u00e4ngen a und b. Wir wissen zudem, dass gilt a/b = 3/4, woraus folgt a = 3/4 \u00b7 b.\nDie Fl\u00e4che von 42 des schmalen Streifens k\u00f6nnen wir mit folgender Formel aus a und b berechnen:\n42 = (a + 3) \u00b7 (b + 4)/2 \u2013 ab/284 = ab + 4a + 3b + 12 \u2013 ab72 = 3b + 4a\nNun setzten wir f\u00fcr a den Term 3/4 \u00b7 b ein und erhalten:\n72 = 6bb = 12\nDaraus folgt sofort a = 9 und somit f\u00fcr die gesuchte Fl\u00e4che 9 \u00b7 12/2 = 54.\nEtwas eleganter ist der folgende Weg, der zwar nicht in allen Zahlenkonstellationen funktioniert, im konkreten Fall aber schon. Wir zeichnen in den schmalen Streifen (mit der Fl\u00e4che 42) eine Treppe ein. Dabei entstehen kleine rechtwinklige Dreiecke mit den Seitenl\u00e4ngen 3 und 4 und der Fl\u00e4che 6 \u2013 siehe folgende Zeichnung.\nEs ist keineswegs sicher, dass die kleinen Dreiecke den Streifen ohne L\u00fccken ausf\u00fcllen. Das klappt nur, wenn die Gesamth\u00f6he ein Vielfaches von 3 und die Gesamtbreite ein Vielfaches von 4 sind. Sollten die kleinen Dreiecke den Streifen genau ausf\u00fcllen, wie in der Skizze oben zu sehen, muss dessen Fl\u00e4che 42 ein ungeradzahliges Vielfaches von 6 sein, der Fl\u00e4che der kleinen Dreiecke. Und tats\u00e4chlich gilt: 42 = 7 \u00b7 6.\nDamit wissen wir, dass das blaue Dreieck eine H\u00f6he von 3 \u00b7 3 = 9 hat und eine Breite von 3 \u00b7 4 = 12. Die Fl\u00e4che ist daher 9 \u00b7 12/2 = 54.\nEntdeckt habe ich dieses R\u00e4tsel in der Facebook-Gruppe \u00bbGeometria Super Top\u00ab.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nZwei Nichtteiler gesucht\nWie gro\u00df ist die Summe?\nWie gro\u00df sind die farbigen Fl\u00e4chen?\nHat diese Gleichung eine L\u00f6sung?\nWelchen Durchmesser hat der Kreis?\nTeiler und Kehrwerte\nDie perfekte Eiswaffel\nDie unm\u00f6gliche Faltung\nAus wie vielen W\u00fcrfeln besteht das Denkmal?\nEinzigartige Br\u00fcche gesucht",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-08-10T13:32:00+02:00",
+    "date_modified": "2025-08-10T13:32:00+02:00",
+    "date_published": "2025-08-10T13:32:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Wie gro\u00df ist das blaue Dreieck?"
+    ]
+}
+

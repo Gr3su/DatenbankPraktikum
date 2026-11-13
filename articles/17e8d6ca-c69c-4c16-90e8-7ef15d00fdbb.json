@@ -1,0 +1,35 @@
+{
+    "url": "https://www.spiegel.de/netzwelt/gadgets/smartphones-und-kinder-forscher-warnen-vor-unsicherer-kinder-smartwatch-a-17e8d6ca-c69c-4c16-90e8-7ef15d00fdbb",
+    "id": "17e8d6ca-c69c-4c16-90e8-7ef15d00fdbb",
+    "channel": "Netzwelt",
+    "subchannel": "Gadgets",
+    "headline": {
+        "main": "Von wegen sicher: So einfach konnten Hacker auf Kinder-Smartwatches zugreifen",
+        "social": "Smartphones und Kinder: Forscher warnen vor unsicherer Kinder-Smartwatch"
+    },
+    "intro": "Eigentlich sollen Spezial-Smartwatches die Sicherheit von Kindern verbessern. Doch Forscher aus Darmstadt konnten sich problemlos in deren Kommunikation einklinken. Der Hersteller reagiert nur z\u00f6gerlich.",
+    "text": "Smartwatches f\u00fcr Kinder scheinen vielen Eltern ein vern\u00fcnftiger Kompromiss zu sein: Dank GPS-Funktion kann man immer sehen, wo sich der Nachwuchs befindet, dank Mobilfunkanbindung kurze Nachrichten austauschen. Anders als bei einem Smartphone muss man sich keine Gedanken machen, ob sich das Kind haufenweise TikTok-Videos oder Schlimmeres ansieht. Doch Forscher der TU Darmstadt demonstrieren auf der 39C3-Konferenz des Chaos Computer Clubs in Hamburg, dass das Sicherheitsgef\u00fchl nicht immer gerechtfertigt ist.\nW\u00e4hrend der Markt f\u00fcr Smartwatches f\u00fcr Erwachsene fest in der Hand der gro\u00dfen IT-Konzerne wie Apple, Xiaomi und Samsung ist, konnte sich ein norwegisches Unternehmen im Nischenmarkt f\u00fcr Kinder etablieren. \u00bbXplora vermarktet sich als europ\u00e4isches Start-up, das eine Alternative zu den gro\u00dfen Konzernen darstellt\u00ab, sagt Nils Rollshausen, der an der TU Darmstadt zu IT-Sicherheit forscht.\nDas Marketing der Norweger klappt auch in Deutschland mit einigem Erfolg. So vermarktet etwa die Deutsche Telekom die Uhren offensiv mit seinen Datentarifen. Fu\u00dfballbegeisterte Familien k\u00f6nnen sich eine BVB-Edition\u00a0 besorgen, die jedes Tor der Mannschaft live an das Handgelenk der Kinder schickt. Grund genug f\u00fcr die Sicherheitsforscher, die Sicherheit der Ger\u00e4te zu \u00fcberpr\u00fcfen. Ihre Wahl fiel auf die Xplora X6Play, die f\u00fcr regul\u00e4r knapp 200 Euro im Handel ist.\nKleiner Computer f\u00fcrs Handgelenk\nAls die Uhr schlie\u00dflich bei den Forschern in Darmstadt ankam, zeigte sich schnell, dass sich das Ger\u00e4t stark von den High-End-Ger\u00e4ten unterscheidet, die etwa bei Apple erh\u00e4ltlich sind. \u00bbTechnisch gesehen ist die Uhr ein sehr kleines Smartphone mit einem angepassten Android\u00ab, schildert Rollshausen den ersten Eindruck. Ein Student \u00fcbernahm im Rahmen seiner Masterarbeit die genaue Analyse.\nDie erste H\u00fcrde: Wie soll man Zugang zu einer Uhr bekommen, die eigentlich nur mit einer App auf dem Handy der Eltern gesteuert werden soll? Die Einreichungen der Firma bei amerikanischen Regulatoren lieferten erste Hinweise: Dort erinnerten die Anschl\u00fcsse f\u00fcr das Ladeger\u00e4t stark an einen USB-Anschluss. Und in der Tat: \u00bbWir haben ein kleines Board mit einer W\u00e4scheklammer an die Kontakte geklemmt und schon bekamen wir eine USB-Verbindung\u00ab, schildert Rollshausen den ersten Erfolg.\nUm jedoch Zugang zu den installierten Programmen zu bekommen, mussten die Forscher erst einmal den gesicherten Entwicklermodus aktivieren. Auch diese H\u00fcrde erwies sich als erstaunlich niedrig: Es wurde ein Eingabefeld f\u00fcr vier Ziffern angezeigt, ein Angreifer konnte unbeschr\u00e4nkt viele Versuche unternehmen. \u00bbWer sich zwei Stunden Zeit nimmt, schafft das ohne Probleme\u00ab, sagt Rollshausen.\nNachdem die Apps der Uhr einmal ausgelesen waren, konnten die Forscher in Ruhe nach Schwachstellen schauen. Sie fanden nicht nur heraus, auf welche Weise die Software die Chats zwischen Eltern und Kindern verschl\u00fcsselt. Sie konnten auch die verwendeten Schl\u00fcssel und Zertifikate nachbilden, sodass sie schlie\u00dflich direkten Zugang zu der Kommunikation bekamen. Damit war es ihnen etwa m\u00f6glich, Chats einzusehen, die zwischen der Uhr und der Eltern-App gef\u00fchrt wurden. Und nicht nur das: Sie konnten auch Nachrichten in das System einspeisen.\nFake-Nachrichten im gesicherten Chat\nWie das in der Praxis aussehen k\u00f6nnte, demonstrieren die Forscher in einem fiktiven Chat. Ein Elternteil fragt darin: \u00bbBist Du zum Essen zu Hause?\u00ab und erh\u00e4lt die Antwort: \u00bbIch lebe jetzt mit den Elfen am Nordpol.\u00ab Als die fiktive Mutter den Standort ihres Kinds abruft, zeigt die Karte an, es w\u00fcrde sich auf Spitzbergen befinden, einem n\u00f6rdlich von Norwegen gelegenen Archipel.\nWie war das m\u00f6glich? Dank der Zertifikate konnten sich die Forscher gegen\u00fcber den Servern der Firma als Smartwatch ausgeben und beliebige Nachrichten einspeisen. Das betraf auch die GPS-Funktion. \u00bbWir konnten zwar nicht den Standort der Smartwatch direkt auslesen, aber wir konnten falsche Koordinaten an die Eltern-App senden\u00ab, schildert Rollshausen. Diesen Hack testeten die Forscher nur mit der Uhr, die sie selbst gekauft hatten, aber prinzipiell w\u00e4re es Angreifern m\u00f6glich gewesen, auch fremde Uhren anzuzapfen.\nEine erstaunlich hohe H\u00fcrde ergab sich nach der Analyse: Die Experten der TU Darmstadt versuchten, ihre Ergebnisse an den Hersteller zu \u00fcbermitteln, damit dieser die Sicherheitsl\u00fccken abdichten kann. Eine zufriedenstellende Antwort erhielten sie zun\u00e4chst nicht. \u00bbLetztlich mussten wir das Bundesamt f\u00fcr Sicherheit in der Informationstechnik einschalten, das dann mit Xplora Kontakt aufnahm.\u00ab Das dauerte jedoch Monate: Bereits im Mai wurde die Analyse durchgef\u00fchrt, erst im August und im Oktober stellten die Forscher erste substanzielle Verbesserungen in Form eines Firmware-Updates fest. Zumindest einige der festgestellten Probleme sind damit beseitigt worden.\nAuf Anfrage des SPIEGEL betont der Hersteller, dass man keine Datenabfl\u00fcsse festgestellt habe und f\u00fcr den Hack ein direkter Zugang zur Uhr ben\u00f6tigt worden sei. Doch Rollshausen erkl\u00e4rt, dass die Analyse deutlich gr\u00f6\u00dfere Probleme offenbart habe. \u00bbMit dem Auslesen des Schl\u00fcssels aus einer einzigen Uhr konnte man den vollen Zugriff auf s\u00e4mtliche Uhren des gleichen Typs erlangen.\u00ab\nNun soll im Januar ein weiteres umfassendes Sicherheitsupdate ver\u00f6ffentlicht werden, das die Chats zwischen Eltern und Kindern grundlegend sicherer machen soll.",
+    "topics": [
+        "Smartwatches",
+        "Hacker"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Netzwelt"
+        ],
+        "names": [
+            "Torsten Kleinz"
+        ]
+    },
+    "date_created": "2025-12-29T15:12:00+01:00",
+    "date_modified": "2025-12-29T15:12:00+01:00",
+    "date_published": "2025-12-29T15:12:00+01:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Netzwelt",
+        "Gadgets",
+        "Smartphones und Kinder: Forscher warnen vor unsicherer Kinder-Smartwatch"
+    ]
+}
+

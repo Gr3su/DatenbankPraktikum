@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/zwei-nichtteiler-gesucht-raetsel-der-woche-a-53af4847-c30e-44ca-b2c5-70dc74cfedf7",
+    "id": "53af4847-c30e-44ca-b2c5-70dc74cfedf7",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Zwei Nichtteiler gesucht",
+        "social": "Zwei Nichtteiler gesucht \u2013 Das R\u00e4tsel der Woche"
+    },
+    "intro": "Eine riesengro\u00dfe nat\u00fcrliche Zahl hat 28 verschiedene Teiler im Bereich von 1 bis 30. Die zwei Nichtteiler sind aufeinanderfolgende Zahlen. Wie lauten sie?",
+    "text": "Aufgaben k\u00f6nnen l\u00f6sbar sein, auch wenn auf den ersten Blick wichtige Informationen zu fehlen scheinen. Die folgende Zahlenknobelei ist ein anschauliches Beispiel daf\u00fcr. Es geht um eine sehr gro\u00dfe nat\u00fcrliche Zahl, die durch 28 Zahlen von 1 bis 30 teilbar ist. Zwei Zahlen von 1 bis 30 sind keine Teiler.\nIhre Aufgabe ist es, diese zwei Nichtteiler zu finden. Wir kennen die gro\u00dfe nat\u00fcrliche Zahl nicht. Die einzige Information, die es noch gibt, ist die folgende: Die beiden Nichtteiler sind aufeinanderfolgende nat\u00fcrliche Zahlen.\nUm welche zwei Zahlen handelt es sich?\nDie beiden Nichtteiler sind die 16 und die 17.\nMein allererster L\u00f6sungsansatz waren Primzahlen. Falls es zwei aufeinanderfolgende Primzahlen im Bereich von 1 bis 30 gibt, k\u00f6nnten dies die gesuchten Nichtteiler sein. Diese Idee funktioniert jedoch nicht, wie man schnell feststellt. Denn es gibt unter den unendlich vielen Primzahlen genau zwei aufeinanderfolgende, und zwar 2 und 3.\n2 und 3 k\u00f6nnen nicht die beiden gesuchten einzigen Nichtteiler von 1 bis 30 sein, weil dann zum Beispiel auch 6 ein Nichtteiler w\u00e4re. Denn 6 ist das Produkt von 2 und 3. Was weder durch 2 noch durch 3 teilbar ist, kann nicht durch 2 mal 3 = 6 teilbar sein. Somit g\u00e4be es mit 2, 3 und 6 schon mindestens drei Nichtteiler, laut Aufgabe d\u00fcrfen es jedoch nur zwei sein.\nTrotzdem lernen wir etwas Wichtiges aus dieser \u00dcberlegung: Eine Zahl kann nicht Nichtteiler der gro\u00dfen unbekannten Zahl sein, wenn es Vielfache dieser Zahl zwischen 1 und 30 gibt, die zugleich Teiler sind. Nehmen wir als Beispiel die Zahl 5: Wenn 5 kein Teiler ist, k\u00f6nnen nicht zugleich 2 mal 5 = 10 und 3 mal 5 = 15 Teiler sein. Dies hilft uns dabei, den L\u00f6sungsraum einzugrenzen.\nNehmen wir an, der kleinere der zwei gesuchten, aufeinanderfolgenden Nichtteiler liegt im Bereich von 1 bis 15. Der zweite Nichtteiler ist laut Aufgabe dann auf keinen Fall gr\u00f6\u00dfer als 16. Es gibt in jedem Fall ein ganzzahliges Vielfaches des kleineren Nichtteilers, das im Intervall 18 bis 30 liegt. Diese Zahl ist laut Aufgabe zwingend ein Teiler der gro\u00dfen unbekannten Zahl.\nEs ist jedoch unm\u00f6glich, dass eine Zahl kein Teiler der gro\u00dfen unbekannten Zahl ist und zugleich ein ganzzahliges Vielfaches dieser Zahl die gro\u00dfe unbekannte Zahl ohne Rest teilt. Deshalb ist unsere Annahme \u2013 der kleinere der beiden Nichtteiler liegt im Bereich 1 bis 15 \u2013 falsch. Der kleinere Nichtteiler \u2013 und damit auch der gr\u00f6\u00dfere \u2013 sind zwingend gr\u00f6\u00dfer als 15.\nKandidaten f\u00fcr die Nichtteiler sind auf jeden Fall alle Primzahlen zwischen 16 und 30, also 17, 19, 23 und 29. Weil die beiden Nichtteiler aufeinanderfolgen, ist mindestens einer der Nichtteiler keine Primzahl. Wir suchen nun L\u00f6sungskandidaten unter den Zahlen, die keine Primzahlen sind.\nWir wissen, dass alle Zahlen von 1 bis 15 Teiler der gro\u00dfen unbekannten Zahl sind. Wenn eine Nichtprimzahl ab 16 das Produkt zweier unterschiedlicher teilerfremder Zahlen von 1 und 15 ist, kann sie kein Nichtteiler sein. Beispiel 18: Diese Zahl ist (unter anderem) das Produkt von 2 und 9. 2 und 9 sind zwingend Teiler der gro\u00dfen unbekannten Zahl, weil alle Zahlen kleiner als 16 Teiler sein m\u00fcssen (siehe oben). Zudem sind 2 und 9 = 32 teilerfremd. Also ist auch 2 mal 9 = 18 zwingend ein Teiler der unbekannten gro\u00dfen Zahl, denn 2 und 32 m\u00fcssen in der Primzahlzerlegung der gro\u00dfen Zahl auftauchen.\nFolgende Tabelle zeigt Zerlegungen aller Zahlen zwischen 16 und 30 in Produkte inklusive Angaben zur Teilerfremdheit der Faktoren:\nAls Nichtteiler der gro\u00dfen unbekannten Zahl kommen also neben den Primzahlen 17, 19, 23, 29 alle sonstigen Zahlen zwischen 16 und 30 infrage, f\u00fcr die keine Zerlegung in zwei teilerfremde Faktoren kleiner 16 existiert. Dies sind 16, 25 und 27. Alle als Nichtteiler infrage kommenden Zahlen sind rosa hinterlegt. Weil die beiden Nichtteiler aufeinanderfolgen sollen, bleiben als L\u00f6sung nur 16 und 17 \u00fcbrig.\nUpdate: Zwei Leser haben mir einen deutlich eleganteren zweiten Teil des L\u00f6sungswegs geschickt. Wir wissen, dass die beiden gesuchten Zahlen gr\u00f6\u00dfer als 15 sein m\u00fcssen. Weil sie aufeinanderfolgen, muss eine der Zahlen gerade sein. Wir k\u00f6nnen diese Zahl a dann als Produkt einer Zweierpotenz und einer anderen Zahl schreiben: \na = 2n * k, wobei n mindestens 1 ist und k eine nicht durch 2 teilbare nat\u00fcrliche Zahl. \nNun zeigen wir, dass k nur 1 sein kann \u2013 mit einem indirekten Beweis. Angenommen, k w\u00e4re gleich oder gr\u00f6\u00dfer 3. 2n und k w\u00e4ren gr\u00f6\u00dfer als 1 und um mindestens 2 kleiner als die beiden Nichtteiler und damit laut Aufgabe Teiler. Also muss zwingend auch 2n * k Teiler sein, was unserer Annahme widerspricht. Deshalb ist a eine Zweierpotenz. Zwischen 16 und 30 gibt es nur eine Zweierpotenz: 24 = 16. Der gesuchte zweite Teiler ist entweder 15 oder 17. Die Primzahl 17 ist wegen 15 = 3 * 5 die L\u00f6sung. \nEntdeckt habe ich dieses h\u00fcbsche Zahlenr\u00e4tsel auf dem Instagram-Kanal\u00a0 des US-Mathematikers Marc Ordower\u00a0.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nWie gro\u00df ist die Summe?\nWie gro\u00df sind die farbigen Fl\u00e4chen?\nHat diese Gleichung eine L\u00f6sung?\nWelchen Durchmesser hat der Kreis?\nTeiler und Kehrwerte\nDie perfekte Eiswaffel\nDie unm\u00f6gliche Faltung\nAus wie vielen W\u00fcrfeln besteht das Denkmal?\nEinzigartige Br\u00fcche gesucht\nWie gro\u00df ist das graue Quadrat?\nHinweis der Redaktion: Ein zweiter L\u00f6sungsweg wurde nachtr\u00e4glich erg\u00e4nzt.",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-08-03T15:35:00+02:00",
+    "date_modified": "2025-08-03T15:35:00+02:00",
+    "date_published": "2025-08-03T15:35:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "Zwei Nichtteiler gesucht - R\u00e4tsel der Woche"
+    ]
+}
+

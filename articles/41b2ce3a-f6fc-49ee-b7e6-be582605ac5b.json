@@ -1,0 +1,34 @@
+{
+    "url": "https://www.spiegel.de/netzwelt/web/microsoft-eine-million-computer-durch-illegale-streaming-werbung-infiziert-a-41b2ce3a-f6fc-49ee-b7e6-be582605ac5b",
+    "id": "41b2ce3a-f6fc-49ee-b7e6-be582605ac5b",
+    "channel": "Netzwelt",
+    "subchannel": "Web",
+    "headline": {
+        "main": "Angriff \u00fcber Werbung: Illegale Streaming-Sites verbreiteten Viren",
+        "social": "Microsoft: Eine Million Computer durch illegale Streamingwerbung infiziert"
+    },
+    "intro": "IT-Sicherheitsforscher haben eine ausgefeilte Attacke entdeckt, eine Million Computer sollen betroffen sein. Die Angreifer klinkten sich in die Werbung illegaler Streamingseiten ein.",
+    "text": "Wer jede neue angesagte Serie legal sehen will, muss bei einem halben Dutzend Streamingdiensten kostenpflichtige Abos abschlie\u00dfen. Angesichts dessen florieren illegale Angebote, die Streams kostenfrei anbieten. Wie Sicherheitsforscher bei Microsoft herausgefunden haben, haben sich Angreifer die Vorliebe mancher Nutzerinnen und Nutzer f\u00fcr Gratisstreams zunutze gemacht und die PCs der Zuschauer mit Schadsoftware infiltriert.\nIn einem Blogartikel\u00a0 beschreibt Microsoft die verschiedenen Stufen der Attacke. Die Experten waren Anfang Dezember auf die Kampagne aufmerksam geworden und konnten nur schrittweise nachvollziehen, auf welchem Weg die Schadsoftware auf die Rechner der Microsoft-Kunden gelangt war. Die Spurensuche endete schlie\u00dflich bei illegalen Streaming-Websites.\nWerbung als Einfallstor\nWelche der zahlreichen Piraten-Portale betroffen waren, sagt Microsoft nicht. Allerdings mussten die Angreifer nach Erkenntnissen der Microsoft-Forscher nicht jede Streamingquelle einzeln infiltrieren, sondern machten sich offenbar die Werbung auf solchen Websites zunutze. Da Markenartikler auf solchen Portalen keine Waren wie Waschmittel oder Autos bewerben wollen, m\u00fcssen diese zur Finanzierung auf Werbekunden zugreifen, die keinen Ruf zu verlieren haben.\nDie Kriminellen, denen Microsoft die Bezeichnung \u00bbStorm-0408\u00ab zugewiesen hat, machten sich diesen Fakt zunutze und spielten auf den Websites verseuchte Werbung aus, die die Nutzerinnen und Nutzer auf andere Websites umleiteten und ihnen zun\u00e4chst Programme unterschoben, die die Computer f\u00fcr weitere Infektionen anf\u00e4llig machen sollten. Dabei gingen die Angreifer sehr bedacht vor: Zun\u00e4chst wurde ausgekundschaftet, auf was f\u00fcr einem Rechner die Schadsoftware gelandet war, um dann zu entscheiden, welche weiteren Schritte den meisten Gewinn bringen k\u00f6nnten.\nEin weiterer Trick, den die Angreifer nutzten: Sie parkten ihre Schadsoftware auf der Entwickler-Website Github, die zum Microsoft-Konzern geh\u00f6rt. Dadurch erschienen die Downloads zun\u00e4chst nicht verd\u00e4chtig, was erschwerte, die Attacke zu erkennen. Der Nachteil f\u00fcr die Angreifer: Nachdem Microsoft die Quelle ausfindig gemacht hatte, konnte die Schadsoftware dort einfach gel\u00f6scht werden. Bis dahin waren nach Erkenntnissen der Sicherheitsforscher aber bereits eine Million PCs infiziert.\nWas genau die Angreifer bezwecken, ist nicht bekannt. Bei erfolgreicher Infektion k\u00f6nnen sie die betroffenen Computer f\u00fcr eine Reihe von Angriffen nutzen: vom Daten- und Passwort-Diebstahl von Privatcomputern \u00fcber den Aufbau von Botnetzen bis zu fortgesetzter Spionage in Firmennetzwerken.",
+    "topics": [
+        "Streaming",
+        "Internetkriminalit\u00e4t",
+        "Cyber Threats"
+    ],
+    "author": {
+        "abbreviation": "tmk",
+        "departments": [
+            "Netzwelt"
+        ],
+        "names": []
+    },
+    "date_created": "2025-03-07T11:28:00+01:00",
+    "date_modified": "2025-03-07T12:45:00+01:00",
+    "date_published": "2025-03-07T11:28:00+01:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Netzwelt",
+        "Web",
+        "Microsoft: Illegale Streaming-Sites verbreiteten Viren"
+    ]
+}
+

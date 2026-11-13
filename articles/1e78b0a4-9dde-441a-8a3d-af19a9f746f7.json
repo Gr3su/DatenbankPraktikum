@@ -1,0 +1,35 @@
+{
+    "url": "https://www.spiegel.de/netzwelt/apps/signalgate-von-der-us-regierung-genutzte-messenger-app-wurde-gehackt-a-1e78b0a4-9dde-441a-8a3d-af19a9f746f7",
+    "id": "1e78b0a4-9dde-441a-8a3d-af19a9f746f7",
+    "channel": "Netzwelt",
+    "subchannel": "Apps",
+    "headline": {
+        "main": "Erneuter Sicherheitsvorfall: Von der US-Regierung genutzte Messenger-App wurde gehackt",
+        "social": "Signalgate: Von der US-Regierung genutzte Messenger-App wurde gehackt"
+    },
+    "intro": "Der Skandal um den Umgang mit sensiblen Informationen in der Trump-Regierung ist trotz der Entlassung von Sicherheitsberater Mike Waltz nicht beendet. Im Mittelpunkt steht nun die App TeleMessage.",
+    "text": "Die Peinlichkeiten um die sogenannte Signalgate-Aff\u00e4re nehmen kein Ende: Wie nun bekannt wurde, hat Donald Trumps k\u00fcrzlich entlassener Sicherheitsberater Mike Waltz nicht nur Milit\u00e4rgeheimnisse in einer inoffiziellen Chatgruppe auf Signal geteilt, sondern zudem eine App genutzt, die die Ende-zu-Ende-Verschl\u00fcsselung des Messengers aushebelt. Wie \u00bb404 Media\u00ab jetzt berichtet\u00a0, wurde diese App gehackt, vertrauliche Nachrichten wurden dadurch offengelegt.\nDie Aff\u00e4re war ins Rollen gekommen, als Waltz offenbar versehentlich den \u00bbAtlantic\u00ab-Chefredakteur Jeffrey Goldberg in eine Chatgruppe eingeladen hatte, in der neben Verteidigungsminister Pete Hegseth auch Au\u00dfenminister Marco Rubio, Vizepr\u00e4sident JD Vance und Trumps Stabschefin Susie Wiles oder deren Vertreter Neuigkeiten zu einem Angriff auf den Jemen austauschten. Mit der Entlassung von Waltz\u00a0 als Sicherheitsberater schien das Kapitel politisch zun\u00e4chst beendet.\nHandy in die Kameras gehalten\nNun zeigen weitere Enth\u00fcllungen, wie fahrl\u00e4ssig Trumps Regierung mit Staatsgeheimnissen umgeht. So z\u00fcckte Waltz in einer Kabinettssitzung vor anwesenden Fotojournalisten nicht nur sein Handy, um heimlich unter dem Tisch Nachrichten auszutauschen. Er hielt das Smartphone auch so, dass auf einem Pressefoto der Nachrichtenagentur Reuters Details sichtbar waren. Die \u00dcberraschung: Waltz verwendete eine App, die zwar so \u00e4hnlich wie Signal aussieht. Es handelte sich aber offenbar um eine modifizierte Version, um Nachrichten archivieren zu k\u00f6nnen, wie es die Regeln f\u00fcr die US-Regierung verlangen.\nDiese Neuigkeit rief unter anderem den Journalisten und Aktivisten Micah Lee auf den Plan, der die bisher unbekannte App namens TeleMessage analysierte. Bei seinen Recherchen stie\u00df er nicht nur auf den Quellcode der App, sondern ver\u00f6ffentlichte ihn auch auf Github \u2013 die Entwickler hatten den Code unter eine Lizenz gestellt, die dies ausdr\u00fccklich erlaubt.\nKaum waren die technischen Details bekannt, zeigte sich schnell, dass die von Waltz verwendete App deutlich unsicherer ist als das Original, die Ende-zu-Ende-Verschl\u00fcsselung von Signal gilt seit Jahren als vorbildlich. TeleMessage hingegen lieferte Angreifern offenbar viele M\u00f6glichkeiten, in die vertrauliche Kommunikation einzubrechen. Laut dem aktuellen Bericht meldete sich ein Hacker, der mit geringem Aufwand auf den Cloudspeicher des App-Hersteller zugreifen konnte und dabei auch Daten von Regierungsoffiziellen entdeckte. Laut den Recherchen hat das Unternehmen Vertr\u00e4ge mit mehreren Regierungsstellen.\nChats und Telefonnummern geleakt\nZwar hat der Angreifer dem Bericht zufolge keine Nachrichten von Waltz und anderen Mitgliedern des US-Kabinetts heruntergeladen, aber er stie\u00df aber unter anderem auf Accounts der Grenzschutzbeh\u00f6rde CBP (Customs and Border Protection). Er konnte \u00fcber die App ausgetauschte Nachrichten einsehen, zudem lagen die Telefonnummern von Teilnehmern eines Gruppenchats offen. Au\u00dferdem gab der unbekannte Hacker an, Nachrichten eingesehen zu haben, die zeigen, wie eine Kryptofirma Einfluss auf die Gesetzgebung f\u00fcr sogenannte Stablecoins nehmen will. Ein Teil der Daten konnte von 404 Media best\u00e4tigt werden.\nAnfragen der Nachrichtenagentur Reuters an TeleMessage und die Mutterfirma Smarsh wurden nicht sofort beantwortet. Auch Waltz und das Wei\u00dfe Haus gaben keine Stellungnahme ab. Ein Sprecher der Signal Foundation verwies darauf, dass man \u00bbdie Sicherheitseigenschaften von inoffiziellen Versionen von Signal nicht garantieren\u00ab k\u00f6nne.",
+    "topics": [
+        "Donald Trump",
+        "IT-Sicherheit",
+        "Messenger",
+        "Cyber Threats"
+    ],
+    "author": {
+        "abbreviation": "tmk/Reuters",
+        "departments": [
+            "Netzwelt"
+        ],
+        "names": []
+    },
+    "date_created": "2025-05-05T11:25:00+02:00",
+    "date_modified": "2025-05-05T11:25:00+02:00",
+    "date_published": "2025-05-05T11:25:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Netzwelt",
+        "Apps",
+        "Signalgate: Von der US-Regierung genutzte Messenger-App wurde gehackt"
+    ]
+}
+

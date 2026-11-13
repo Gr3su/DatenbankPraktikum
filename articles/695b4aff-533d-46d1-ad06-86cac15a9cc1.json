@@ -1,0 +1,42 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-wie-lautet-die-letzte-ziffer-von-777-hoch-333-a-695b4aff-533d-46d1-ad06-86cac15a9cc1",
+    "id": "695b4aff-533d-46d1-ad06-86cac15a9cc1",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Auf welche Zahl endet 777 hoch 333?",
+        "social": "R\u00e4tsel der Woche: Wie lautet die letzte Ziffer von 777 hoch 333?"
+    },
+    "intro": "Die Zahl 777 hoch 333 ist gigantisch gro\u00df. All ihre Ziffern ohne Computerhilfe zu berechnen, w\u00e4re eine Sisyphusarbeit. Wissen Sie, wie die letzte Ziffer der riesigen Potenz lautet?",
+    "text": "Hoffentlich geh\u00f6rt das Rechnen mit Potenzen zu Ihren St\u00e4rken. Das k\u00f6nnte Ihnen bei der L\u00f6sung des folgenden Problems helfen. Wir bilden ein Produkt aus 333 Zahlen. Diese 333 Zahlen sind alle gleich: Es handelt sich um 777.\nWir k\u00f6nnen dieses Produkt \u00fcbersichtlicher als Potenz schreiben:\n777333\nDie Frage ist, wie die letzte Ziffer dieses Zahlenmonsters lautet. Wissen Sie\u2019s?\nAn der Einerstelle der Zahl 777333 steht die Ziffer 7.\nWir schauen uns an, auf welche Ziffern die erste, zweite, dritte und vierte Potenz von 777 enden. Daf\u00fcr nutzen wir den Modulo-Operator, kurz mod\u00a0. Er gibt an, welchen Rest eine Zahl beim Teilen durch eine andere Zahl l\u00e4sst. In unserem Fall beim Teilen durch 10, weil wir uns f\u00fcr die letzte Ziffer interessieren. 777 l\u00e4sst bei der Division durch 10 den Rest 7, was Mathematiker wie folgt aufschreiben:\n7771 \u2261 7 mod 10\nWenn wir die Zehnerreste eines Produkts berechnen wollen, m\u00fcssen wir nur die Einerstellen der beiden Zahlen (also ihre Zehnerreste) miteinander multiplizieren und dann den Zehnerrest dieses Produkts ermitteln. Warum?\nDie erste Zahl schreiben wir in der Form (10a + b), wobei a und b nat\u00fcrliche Zahlen sind und die Einerstelle b zugleich der Zehnerrest von (10a + b). Analog ist d der Zehnerrest der zweiten Zahl (10c + d).\nDie Einerstelle des Produkts (10a + b)*(10c + d) = 100ac + 10ad + 10bc + bd entspricht der Einerstelle von bd, weil die Zahlen 100ac, 10ad und 10bc s\u00e4mtlich durch 10 teilbar sind.\nWenn ich den Zehnerrest von 7772 berechnen will, brauche ich nur den Zehnerrest von 777, also 7, ins Quadrat zu nehmen: 7*7 = 49. Der Zehnerrest von 49 ist 9. Der Zehnerrest von 7773 entspricht dem Zehnerrest des Produkts 7772 und 777, also dem Rest von 9*7 = 63 und betr\u00e4gt daher 3. Der Zehnerrest von 7774 ist dann der Zehnerrest von 3*7 = 21, also 1. Der Zehnerrest von 7775 ist 1*7 = 7 und entspricht dem Zehnerrest von 7771. Das Ganze noch mal in Modulo-Schreibweise:\n7771 \u2261 7 mod 10 7772 \u2261 9 mod 10 7773 \u2261 3 mod 10 7774 \u2261 1 mod 107775 \u2261 7 mod 10\nWir sehen, dass der Zehnerrrest periodisch ist. Ist der Exponent durch 4 teilbar, ist der Rest 1. Hat der Exponent beim Teilen durch 4 den Rest 1 (zum Beispiel 7771 oder 7775), betr\u00e4gt der Zehnerrest 7.\nWir suchen den Zehnerrest von 777333. Weil 333 beim Teilen durch 4 den Rest 1 hat (333 \u2261 1 mod 4), entspricht der gesuchte Rest dem Zehnerrest von 7771 und ist deshalb 7.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nGelingt das Versteckspiel auf den T\u00fcrmen?\nWie viele Stifte m\u00fcssen verschoben werden?\nL\u00fcge und Wahrheit\nMagische Jahreszahlen\nEin Pferd, drei K\u00e4ufer\nBlo\u00df keinen Streit\nNur Nullen und Einsen erlaubt\nEine Unbekannte, zwei Potenzen\nWie gro\u00df ist das gelbe Dreieck?\nWelcher Code \u00f6ffnet das Schloss?",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben",
+            "Daten & Visualisierungen"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-12-07T12:32:00+01:00",
+    "date_modified": "2025-12-07T12:32:00+01:00",
+    "date_published": "2025-12-07T12:32:00+01:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Wie lautet die letzte Ziffer von 777 hoch 333?"
+    ]
+}
+

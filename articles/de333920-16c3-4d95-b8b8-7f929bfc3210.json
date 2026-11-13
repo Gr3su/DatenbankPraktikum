@@ -1,0 +1,35 @@
+{
+    "url": "https://www.spiegel.de/netzwelt/ukraine-krieg-russische-hacker-zielen-auf-ruestungslieferanten-der-ukraine-a-de333920-16c3-4d95-b8b8-7f929bfc3210",
+    "id": "de333920-16c3-4d95-b8b8-7f929bfc3210",
+    "channel": "Netzwelt",
+    "subchannel": "default",
+    "headline": {
+        "main": "Hybride Kriegsf\u00fchrung: Hacker nehmen R\u00fcstungslieferanten der Ukraine ins Visier",
+        "social": "Ukrainekrieg: Russische Hacker zielen auf R\u00fcstungslieferanten der Ukraine"
+    },
+    "intro": "Die russische Regierung greift im Krieg gegen die Ukraine auch Ziele in Europa an. Nicht mit Raketen oder Bomben, sondern in Form von Hackerattacken. Jetzt haben Experten eine neue Kampagne aufgedeckt.",
+    "text": "Die ber\u00fcchtigte russische Hackergruppe Fancy Bear hat gezielt R\u00fcstungsfirmen angegriffen, die Waffen an die Ukraine liefern. Das geht aus einer aktuellen Studie des deutschen Sicherheitsunternehmens Eset aus Jena hervor. Danach richteten sich die Angriffe vorwiegend gegen Hersteller sowjetischer Waffentechnik in Bulgarien, Rum\u00e4nien und der Ukraine, die eine Schl\u00fcsselrolle beim Abwehrkampf gegen den \u00dcberfall Russlands spielen. Betroffen waren aber auch R\u00fcstungsbetriebe in Afrika und S\u00fcdamerika.\nFancy Bear ist auch unter dem Namen Sednit oder APT28 bekannt. Sie soll auch f\u00fcr die Angriffe auf den Deutschen Bundestag (2015), die US-Politikerin Hillary Clinton (2016) und die Parteizentrale der SPD (2023) verantwortlich gewesen sein. Die Gruppe ist nach Ansicht von Experten Teil einer gr\u00f6\u00dferen Strategie russischer Geheimdienste, Cyberangriffe als Mittel der politischen Einflussnahme und Destabilisierung einzusetzen. Neben Spionage stehen dabei auch gezielte Desinformationskampagnen im Fokus, die sich gegen westliche Demokratien richten.\nBei der aktuellen Spionagekampagne mit dem Namen \u00bbOperation RoundPress\u00ab nutzten die Hacker Schwachstellen in verbreiteter Webmail-Software aus, darunter die Programme Roundcube, Zimbra, Horde und MDaemon. Etliche Schwachstellen h\u00e4tten durch eine gute Softwarewartung beseitigt werden k\u00f6nnen. In einem Fall waren die betroffenen Firmen aber quasi machtlos, weil die Angreifer eine bis dahin unbekannte Sicherheitsl\u00fccke in MDaemon ausnutzen konnten, die zun\u00e4chst nicht geschlossen werden konnte.\nNach den Erkenntnissen der Eset-Forscher wurden die Angriffe in der Regel mit manipulierten E-Mails gestartet, die sich als Nachrichtenmeldungen tarnen. Als Absender dienen scheinbar seri\u00f6se Quellen wie die \u00bbKyiv Post\u00ab oder das bulgarische Nachrichtenportal \u00bbNews.bg\u00ab. Sobald die E-Mail im Browser ge\u00f6ffnet wird, startet ein verstecktes Schadprogramm. Spamfilter werden dabei umgangen.\nDie Experten aus Jena konnten bei der Analyse der Angriffe die Schadsoftware \u00bbSpyPress.MDAEMON\u00ab identifizieren. Das Hackerprogramm sei nicht nur in der Lage, Zugangsdaten auszulesen und E-Mails mitzuverfolgen. Es k\u00f6nne sogar die Zwei-Faktor-Authentifizierung aushebeln. Die Zwei-Faktor-Authentifizierung (2FA) ist eine zus\u00e4tzliche Sicherheitsma\u00dfnahme beim Einloggen in Onlinekonten oder beim Zugriff auf sensible Daten. Sie sorgt daf\u00fcr, dass nicht nur ein Passwort ausreicht, um Zugang zu bekommen, sondern noch ein zweiter Nachweis verlangt wird. Den Hackern von Fancy Bear sei es jedoch in mehreren F\u00e4llen gelungen, den 2FA-Schutz zu umgehen und mit sogenannten Anwendungspassw\u00f6rtern dauerhaft auf Postf\u00e4cher zuzugreifen.\n\u00bbViele Firmen betreiben veraltete Webmail-Server\u00ab, sagte Eset-Forscher Matthieu Faou. \u00bbSchon das blo\u00dfe Anzeigen einer E-Mail im Browser kann ausreichen, um Schadcode auszuf\u00fchren, ohne dass der Empf\u00e4nger aktiv etwas anklickt.\u00ab",
+    "topics": [
+        "Ukraine",
+        "Hacker",
+        "Europa",
+        "Hillary Clinton",
+        "SPD"
+    ],
+    "author": {
+        "abbreviation": "mik/dpa",
+        "departments": [
+            "Wirtschaft"
+        ],
+        "names": []
+    },
+    "date_created": "2025-05-15T07:35:00+02:00",
+    "date_modified": "2025-05-15T09:22:00+02:00",
+    "date_published": "2025-05-15T07:35:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Netzwelt",
+        "Ukraine: Russische Hacker zielen auf R\u00fcstungslieferanten der Ukraine"
+    ]
+}
+

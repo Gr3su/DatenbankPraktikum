@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-nur-nullen-und-einsen-erlaubt-a-19483c27-a2d8-434f-bee0-1ab8d4ab9b55",
+    "id": "19483c27-a2d8-434f-bee0-1ab8d4ab9b55",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Nur Nullen und Einsen erlaubt",
+        "social": "Eine Unbekannte, zwei Potenzen \u2013 Das R\u00e4tsel der Woche (Kopie)"
+    },
+    "intro": "Eine nat\u00fcrliche Zahl ist durch 36 teilbar und hat als Ziffern ausschlie\u00dflich Nullen und Einsen. Welche ist die kleinstm\u00f6gliche derartige Zahl?",
+    "text": "Bin\u00e4r- oder Dualzahlen kennen Sie sicher. Sie bilden ein Zahlensystem, in dem es nur zwei verschiedene Ziffern gibt, die meist als 0 und 1 dargestellt werden. In diesem R\u00e4tsel wird eine Zahl gesucht, die ebenfalls nur die Ziffern 0 und 1 enth\u00e4lt. Allerdings handelt es sich dabei nicht um eine Bin\u00e4rzahl, sondern um eine Zahl im Dezimalsystem, das wir aus unserem Alltag bestens kennen und zehn verschiedene Ziffern nutzt.\nDiese nur aus Einsen und Nullen bestehende nat\u00fcrliche Zahl ist durch 36 teilbar.\nWie lautet die kleinstm\u00f6gliche derartige Zahl?\nHinweis: Die gesuchte Zahl soll gr\u00f6\u00dfer als Null sein. \nDie kleinstm\u00f6gliche Zahl hat elf Stellen. Die ersten neun sind Einsen, die letzten beiden Nullen: 11.111.111.100\nMeine allererste Idee war, nach den Resten beim Teilen durch 36 zu schauen. 1 hat den Rest 1, 10 den Rest 10, bei 100 ist der Rest 28 und so weiter. Die Zahl 111 hat dann den Rest 1 + 10 + 28 = 39, was dem Rest 3 entspricht. Die Zahl 101 den Rest 1 + 28 = 29. Doch dieses Vorgehen erwies sich schnell als komplizierte Rechnerei.\nDeutlich schneller zum Ziel kommt man, wenn man sich \u00fcberlegt, welche Eigenschaften eine durch 36 teilbare Zahl hat. Die Primfaktorzerlegung von 36 lautet: 2 * 2 * 3 * 3.\nDie gesuchte Zahl muss also sowohl durch 2 * 2 = 4 als auch durch 3 * 3 = 9 teilbar sein. Eine nat\u00fcrliche Zahl ist durch 4 teilbar, wenn ihre letzten beiden Ziffern durch 4 teilbar sind. Warum? Weil 100 durch 4 teilbar ist und alles, was vor den letzten beiden Ziffern einer nat\u00fcrlichen Zahl steht, ein Vielfaches von 100 ist.\nWeil wir nur Nullen und Einsen zur Verf\u00fcgung haben, kommen f\u00fcr die beiden letzten Ziffern nur 00 infrage. Damit ist das R\u00e4tsel zur H\u00e4lfte gel\u00f6st.\nWeiter geht es mit dem Teiler 9. Eine Zahl ist durch 9 teilbar, wenn das auch f\u00fcr ihre Quersumme gilt. Nullen ver\u00e4ndern als Ziffern die Quersumme einer Zahl nicht. Damit die Zahl so klein wie m\u00f6glich wird, sollte sie so wenige Stellen wie m\u00f6glich enthalten. Nullen w\u00fcrden die Stellenzahl unn\u00f6tig vergr\u00f6\u00dfern, da sie bei der Teilbarkeit durch 9 keine Rolle spielen. Also m\u00fcssen alle Ziffern au\u00dfer den letzten beiden (wegen der Teilbarkeit durch 4!) Einsen sein.\nWeil wir eine positive L\u00f6sung > 0 suchen, ist die kleinstm\u00f6gliche, durch 9 teilbare Quersumme die 9. Daf\u00fcr ben\u00f6tigen wir neun Einsen \u2013 und das ist auch die L\u00f6sung:\n11.111.111.100\nEin kurzer Check mit dem Taschenrechner:\n11.111.111.100 : 36 = 308.641.975 \u2013 passt!\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nEine Unbekannte, zwei Potenzen\nWie gro\u00df ist das gelbe Dreieck?\nWelcher Code \u00f6ffnet das Schloss?\nWie gro\u00df ist die rote Fl\u00e4che?\nWelche Zahl ist gr\u00f6\u00dfer?\nWie gro\u00df ist das Quadrat?\nWo sollte man auf dem Flughafen rennen?\nWie gro\u00df ist das blaue Dreieck?\nZwei Nichtteiler gesucht\nWie gro\u00df ist die Summe?",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-10-05T06:50:00+02:00",
+    "date_modified": "2025-10-05T06:50:00+02:00",
+    "date_published": "2025-10-05T06:50:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Nur Nullen und Einsen erlaubt"
+    ]
+}
+

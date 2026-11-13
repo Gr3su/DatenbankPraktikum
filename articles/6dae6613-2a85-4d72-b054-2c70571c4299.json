@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-wo-sollte-man-auf-dem-flughafen-rennen-a-6dae6613-2a85-4d72-b054-2c70571c4299",
+    "id": "6dae6613-2a85-4d72-b054-2c70571c4299",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Wo sollte man auf dem Flughafen rennen?",
+        "social": "Wo man auf dem Flughafen rennen sollte \u2013 das R\u00e4tsel der Woche"
+    },
+    "intro": "Sie m\u00fcssen schnell zum Gate, Ihre Puste reicht aber nur f\u00fcr einen Sprint von einer Minute. Kommen Sie schneller an, wenn Sie vor dem Fahrsteig spurten oder darauf?",
+    "text": "Lieber schnell laufen oder besser langsam \u2013 diese Frage stellt sich immer wieder. Etwa, wenn es stark regnet. Wird man beim Rennen mehr nass als beim Gehen oder umgekehrt? Die Antwort ist nicht ganz einfach.\nBeim heutigen R\u00e4tsel ist die Fragestellung etwas anders: Sie sind auf einem Airport und m\u00fcssen auf jeden Fall rennen, weil das Einsteigen f\u00fcr Ihren Flug bereits begonnen hat. Ihre Kondition ist allerdings nicht die beste, sodass Sie nach einer Minute Spurt wieder in den normalen Gang wechseln m\u00fcssen.\nDer Weg zum Gate ist noch weit. Sie k\u00f6nnen entweder gleich lossprinten, m\u00fcssen dann allerdings bereits vor dem Fahrsteig wieder normal laufen \u2013 und nat\u00fcrlich auch darauf. Oder Sie gehen im normalen Tempo bis zum Laufband und beginnen Ihren Sprint darauf. Der Fahrsteig ist so lang, dass Sie auch nach dem einmin\u00fctigen schnellen Lauf noch nicht an seinem Ende angekommen sind.\nWie kommen Sie am schnellsten zum Gate?\nSie sollten vor dem Fahrsteig rennen, wenn Sie so schnell wie m\u00f6glich zum Gate wollen. Denn dann sind Sie l\u00e4nger auf dem Fahrsteig und profitieren st\u00e4rker von dessen Bewegung.\nDas Problem erscheint auf den ersten Blick ziemlich un\u00fcbersichtlich. Wir kennen weder die eigene Geschwindigkeit beim normalen Gehen und beim Rennen noch die Geschwindigkeit, mit der der Fahrsteig f\u00e4hrt.\nWir vereinfachen das Problem, um es besser zu verstehen. Wir lassen alle Wegabschnitte weg, auf denen wir in beiden F\u00e4llen \u2013 erst rennen, dann gehen und umgekehrt \u2013 normal gehen. Diese Abschnitte haben keinen Einfluss darauf, welche Option die schnellere ist.\nDie Strecke vor dem Fahrsteig soll also genauso lang sein, dass man sie mit einem einmin\u00fctigen Sprint genau schafft. Und auch die Strecke auf dem Fahrsteig soll exakt mit einem einmin\u00fctigen Spurt zu schaffen sein.\nDie Strecke auf dem Fahrsteig ist l\u00e4nger als die davor. Denn sie setzt sich aus zwei Komponenten zusammen:\nder Strecke, die man in einem einmin\u00fctigen Sprint schafft (in der Zeichnung unten blau gekennzeichnet)\nder Strecke, die der Fahrsteig in einer Minute zur\u00fccklegt (in der Zeichnung unten rot gekennzeichnet)\nH\u00e4tten wir die Puste f\u00fcr zwei Minuten Sprint, w\u00fcrden wir die Gesamtstrecke exakt in dieser Zeit schaffen. Wir schaffen aber nur eine Minute und vergleichen nun die beiden Optionen: erst gehen, dann auf den Fahrsteig rennen und umgekehrt.\nWenn wir zuerst gehen, brauchen wir f\u00fcr die Strecke bis zum Beginn des Fahrsteigs l\u00e4nger als eine Minute \u2013 eine Minute ist ja die Zeit, um sie rennend zur\u00fcckzulegen. Die zum Gehen ben\u00f6tigte Zeit nennen wir t und es gilt t > 1. F\u00fcr die Strecke auf dem Laufband brauchen wir rennend genau eine Minute \u2013 das macht eine Gesamtzeit von t + 1 \u2013 siehe folgende Zeichnung.\nWie ist die Situation, wenn wir zuerst rennen? Dann brauchen wir f\u00fcr das St\u00fcck bis zum Fahrsteig eine Minute. Wenn wir auf dem Fahrsteig dann t Minuten gehen (t > 1!), haben wir dieselbe Strecke auf dem Fahrsteig (relativ dazu!) zur\u00fcckgelegt wie im ersten Fall in einem einmin\u00fctigen Sprint. In den t Minuten bewegt sich aber auch der Fahrsteig selbst vorw\u00e4rts. Weil t > 1 ist, ist dieses St\u00fcck gr\u00f6\u00dfer als im Fall erst gehen, dann rennen. Der Fahrsteig w\u00e4re dann weiter gefahren als m\u00f6glich, denn nach genau einer Minute h\u00e4tten wir sein Ende erreicht.\nWir m\u00fcssen also nicht t Minuten gehen, um das Ende des Fahrsteigs zu erreichen, sondern eine Zeit kleiner als t. Deshalb sind wir schneller am Gate, wenn wir erst rennen und auf dem Fahrsteig gehen.\nEntdeckt habe ich dieses h\u00fcbsche Zahlenr\u00e4tsel auf dem Instagram-Kanal \u00a0des US-Mathematikers Marc Ordower\u00a0.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nWie gro\u00df ist das blaue Dreieck?\nZwei Nichtteiler gesucht\nWie gro\u00df ist die Summe?\nWie gro\u00df sind die farbigen Fl\u00e4chen?\nHat diese Gleichung eine L\u00f6sung?\nWelchen Durchmesser hat der Kreis?\nTeiler und Kehrwerte\nDie perfekte Eiswaffel\nDie unm\u00f6gliche Faltung\nAus wie vielen W\u00fcrfeln besteht das Denkmal?",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-08-17T14:22:00+02:00",
+    "date_modified": "2025-08-17T14:22:00+02:00",
+    "date_published": "2025-08-17T14:22:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Wo sollte man auf dem Flughafen rennen?"
+    ]
+}
+

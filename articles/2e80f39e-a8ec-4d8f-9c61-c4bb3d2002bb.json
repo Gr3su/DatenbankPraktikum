@@ -1,0 +1,37 @@
+{
+    "url": "https://www.spiegel.de/netzwelt/web/paypal-hacker-bietet-angebliche-zugangsdaten-von-millionen-konten-als-billigware-an-a-2e80f39e-a8ec-4d8f-9c61-c4bb3d2002bb",
+    "id": "2e80f39e-a8ec-4d8f-9c61-c4bb3d2002bb",
+    "channel": "Netzwelt",
+    "subchannel": "Web",
+    "headline": {
+        "main": "Onlineofferte: Hacker bietet angebliche Zugangsdaten von Millionen PayPal-Konten als Billigware an",
+        "social": "Hacker bietet angebliche Zugangsdaten von Millionen PayPal-Konten als Billigware an"
+    },
+    "intro": "Zu einem Preis wie beim Discounter will ein Krimineller Zugangsdaten zu 15,8 Millionen PayPal-Konten verkaufen. Ob die Daten echt sind, ist unklar. Dennoch sollten sich PayPal-User sch\u00fctzen. Wir sagen, wie.",
+    "text": "Zum Schn\u00e4ppchenpreis von 750 Dollar, umgerechnet rund 640 Euro, bietet ein krimineller Akteur online einen Datensatz an, der angeblich Zugangsdaten zu Millionen PayPal-Konten enth\u00e4lt. Der IT-Security-Website \u00bbHackread\u00a0\u00ab zufolge tauchte das Angebot in einem Cybercrime-Forum auf. In dem entsprechenden Beitrag, von dem die IT-Sicherheitsfirma Hackmanac auf der Plattform X einen Screenshot ver\u00f6ffentlicht hat, ist von 15,8 Millionen Kombinationen aus E-Mail-Adressen und Passw\u00f6rtern die Rede, die im Klartext gespeichert seien.\nDer Anbieter, der unter dem Handle Chucky_BF auftritt, bezeichnet das Paket als \u00bbGlobal PayPal Credential Dump 2025\u00ab, womit er offensichtlich darauf hinweisen will, dass Daten aus aller Welt enthalten sein sollen. Laut den Angaben des Hackers soll die Datei mit den Daten 1,1 Gigabyte gro\u00df sein.\nEchtheit der Daten unklar\nUnklar ist allerdings, ob die angebotenen Daten tats\u00e4chlich valide sind. Die Experten von \u00bbHackread\u00ab haben von dem Anbieter bereitgestellte Daten analysiert und dabei neben offenbar funktionierenden Kombinationen auch gef\u00e4lschte gefunden und solche, die offenbar nur zu Testzwecken dienten.\nIn Cybercrime-Foren kommt es immer wieder vor, dass Kriminelle mit Daten von vermeintlich gehackten Zugangsdaten versuchen, Geld zu verdienen. Tats\u00e4chlich sind die Zugangsdaten in entsprechenden Datens\u00e4tzen aber oft nicht korrekt oder veraltet.\nDer IT-Experte Troy Hunt wies auf X\u00a0 im aktuellen Fall darauf hin, dass die angebotenen Daten \u00bbdefinitiv nicht im Klartext von PayPal\u00ab gekommen sein k\u00f6nnen. Hunt ist Gr\u00fcnder der Website HaveIBeenPwned\u00a0 und gilt als Experte f\u00fcr Datenlecks. Nach seiner Ansicht d\u00fcrften die angeblichen Zugangsdaten aus anderen Quellen stammen und k\u00f6nnten etwa mit automatisierten Methoden oder sogenannten Info-Stealern gesammelt worden sein, das sind Schadprogramme, die Zugangsdaten von befallenen Rechnern abgreifen.\nDas sollten Sie jetzt tun\nAuch wenn unklar ist, ob die angebotenen Daten echt sind und auch wenn unklar ist, ob Ihre PayPal-Daten in dem Datenleck enthalten sind, sollten Sie \u00fcberpr\u00fcfen, ob die folgenden Ma\u00dfnahmen in Ihrem Fall angebracht sind:\n\u00c4ndern Sie Ihr PayPal-Passwort. Im Zweifel ist es jetzt eine gute Gelegenheit, den Bezahldienst mit einem neuen Passwort zu sichern, das aus zuf\u00e4lligen Kombinationen von Gro\u00df- und Kleinbuchstaben, Zahlen und Sonderzeichen bestehen sollte.\nPr\u00fcfen Sie, ob Sie Ihr PayPal-Passwort auch auf anderen Websites oder Diensten verwendet haben. Wenn ja: \u00e4ndern Sie auch dort die Passw\u00f6rter. Denken Sie dabei daran, dass jede Seite ein einmaliges Passwort ben\u00f6tigt, damit Methoden wie Credential Stuffing sich an Ihnen die Z\u00e4hne ausbei\u00dfen.\nAktivieren Sie die Zweifaktor-Authentifizierung. Mindestens bei PayPal, aber wenn Sie gerade dabei sind, gern auch noch bei anderen Anbietern. Zweifaktor bedeutet einfach, dass Ihr Passwort allein nichts mehr n\u00fctzt. Um den Zugang, etwa zu PayPal, freizuschalten, wird zus\u00e4tzlich ein zweiter Faktor ben\u00f6tigt. Das kann eine Zahlenkombination sein, die einem per SMS aufs Handy gesendet wird, oder ein Zahlencode, den eine sogenannte Authenticator-App, etwa von Microsoft oder Google, erzeugt. Zugegeben, das macht Log-ins etwas umst\u00e4ndlicher, aber der Gewinn an Sicherheit ist enorm, weil es im Internet kursierende Passw\u00f6rter nutzlos macht.\nBenutzen Sie einen Passwortmanager. Solche Apps k\u00f6nnen f\u00fcr jeden Dienst und jede Website, die Sie nutzen, einmalige und sichere Passw\u00f6rter erzeugen, speichern diese sicher ab und k\u00f6nnen sie, durch Ihren Fingerabdruck oder einen Gesichts-Scan gesch\u00fctzt, bei Bedarf auch automatisch einsetzen. Das ist nicht nur komfortabel, sondern auch sicher und in der Regel kostenlos. Sowohl Google als auch Apple haben solche Apps in ihre Smartphone-Betriebssysteme integriert. Ganz nebenbei informieren diese Sie auch, wenn eines Ihrer Passw\u00f6rter kompromittiert worden sein sollte.",
+    "topics": [
+        "PayPal",
+        "Internet",
+        "Internetkriminalit\u00e4t",
+        "Darknet",
+        "Hacker"
+    ],
+    "author": {
+        "abbreviation": "mak",
+        "departments": [
+            "Netzwelt",
+            "Andere"
+        ],
+        "names": []
+    },
+    "date_created": "2025-08-19T17:16:00+02:00",
+    "date_modified": "2025-08-19T17:16:00+02:00",
+    "date_published": "2025-08-19T17:16:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Netzwelt",
+        "Web",
+        "Paypal: Hacker bietet angebliche Zugangsdaten von Millionen Konten als Billigware an"
+    ]
+}
+

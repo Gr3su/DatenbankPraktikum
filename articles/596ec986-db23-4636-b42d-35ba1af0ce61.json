@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-gleiche-winkel-auf-dem-ziffernblatt-a-596ec986-db23-4636-b42d-35ba1af0ce61",
+    "id": "596ec986-db23-4636-b42d-35ba1af0ce61",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Gleiche Winkel auf dem Ziffernblatt",
+        "social": "R\u00e4tsel der Woche: Gleiche Winkel auf dem Ziffernblatt"
+    },
+    "intro": "Zwischen 3 und 4 Uhr befinden sich der kleine und der gro\u00dfe Zeiger einer Uhr in einer besonderen Konstellation. Wie lautet die exakte Zeit in diesem Moment?",
+    "text": "Der Minuten- und der Stundenzeiger einer Uhr drehen sich unterschiedlich schnell. Dabei entstehen immer wieder besondere Konstellationen auf dem Ziffernblatt. Mal stehen beide Zeiger genau \u00fcbereinander, mal bilden sie einen Winkel von 90 Grad.\nEs ist zwischen 3 und 4 Uhr, als der Winkel zwischen dem kleinen Zeiger und der 12 exakt so gro\u00df ist wie der Winkel zwischen dem gro\u00dfen Zeiger und der 8.\nWie lautet die exakte Uhrzeit in diesem Moment?\nHinweis: Mit \u00bbzwischen 3 und 4 Uhr\u00ab ist eine Zeit nach 3 Uhr und vor 4 Uhr gemeint. Die Winkel werden so gemessen, dass der Wert immer positiv ist und h\u00f6chstens 180 Grad betr\u00e4gt. \nEs ist 23 plus 1/13 Minuten nach 3 Uhr. Die Uhrzeit lautet: 03:23:05 Uhr, wobei die Sekundenangabe gerundet ist. Der genaue Sekundenwert betr\u00e4gt 4,615 Sekunden.\nDie Berechnung ist nicht besonders schwierig, wenn wir die Winkel allein mit der Minutenzahl m berechnen. Der gro\u00dfe Zeiger dreht sich in 60 Minuten um 360 Grad. Das sind 6 Grad pro Minute. Wir lassen die Einheit Grad im Folgenden in den Gleichungen der Einfachheit halber weg.\nDer Winkel zwischen der 12 und dem gro\u00dfen Zeiger (gemessen von der 12 bis zum Zeiger) betr\u00e4gt daher 6m, wenn m die Minutenzahl ist.\nDer Winkel zwischen der 8 und dem gro\u00dfen Zeiger (gemessen vom Zeiger bis zur 8) betr\u00e4gt 240 - 6m.\nWeiter geht's mit dem kleinen Zeiger. Sein Winkel zur 12 setzt sich zusammen aus 90 Grad (Winkel zwischen der 12 und der 3) und dem Winkel, den sich der kleine Zeiger in m Minuten von der 3 entfernt hat.\nDer kleine Zeiger legt pro Stunde 30 Grad zur\u00fcck. Pro Minute sind das m/2 Grad. Der gesuchte Winkel zwischen der 12 und dem kleinen Zeiger m Minuten nach 3 betr\u00e4gt daher 90 + m/2.\nDie beiden Winkel 240 - 6m und 90 + m/2 sollen laut Aufgabe gleich gro\u00df sein. Dann gilt:\n240 - 6m = 90 + m/2150 = 6m + m/2300 = 12m + m = 13mm = 300/13m = 23 + 1/13\nEntdeckt habe ich dieses R\u00e4tsel im Buch \u00bb536 Puzzles and Curious Problems\u00ab von Ernest Dudeney\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nSechs Nullen wachsen \u00fcber sich hinaus\nWie viele Gefangene kommen frei?\nWie gro\u00df ist das kleine gr\u00fcne Dreieck?\nGedr\u00e4nge auf der Ameisenstra\u00dfe\nBikesharing f\u00fcr Fortgeschrittene\nWer die letzte M\u00fcnze erwischt, gewinnt\nZahlenquintett gesucht\nScheibe um Scheibe\nSeltsame Addition\nIn welche Richtung fuhr das Fahrrad?\nAnmerkung der Redaktion: Es wurden zwei Hinweise zur Messung der Winkel und zur Interpretation der Formulierung \u00bbzwischen 3 und 4 Uhr\u00ab erg\u00e4nzt.",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-02-02T13:27:00+01:00",
+    "date_modified": "2025-02-02T13:27:00+01:00",
+    "date_published": "2025-02-02T13:27:00+01:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Gleiche Winkel auf dem Ziffernblatt"
+    ]
+}
+

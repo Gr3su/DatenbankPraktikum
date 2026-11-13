@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/das-magische-sechseck-raetsel-der-woche-a-ba0b9459-17d6-4ad5-a21c-15d716bdb099",
+    "id": "ba0b9459-17d6-4ad5-a21c-15d716bdb099",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Das magische Sechseck",
+        "social": "R\u00e4tsel der Woche: Das magische Sechseck"
+    },
+    "intro": "Ein regelm\u00e4\u00dfiges Sechseck wird in ein Dreieck und zwei Vierecke aufgeteilt. Wie gro\u00df ist das gr\u00f6\u00dfere Viereck A, wenn wir nur die Fl\u00e4chen der beiden anderen Teilst\u00fccke B und C kennen?",
+    "text": "Gegeben ist ein regelm\u00e4\u00dfiges Sechseck. Auf der unteren Seite suchen wir uns einen Punkt ein St\u00fcck rechts von deren Mittelpunkt. Diesen Punkt verbinden wir mit den Eckpunkten rechts oben und links. Dabei entstehen ein Dreieck und zwei Vierecke \u2013 siehe Skizze oben.\nDas gro\u00dfe, rot gef\u00e4rbte Viereck hat die Fl\u00e4che A, das blaue Dreieck die Fl\u00e4che B und das zweite Viereck die Fl\u00e4che C. Wir kennen nur B und C.\nWie gro\u00df ist dann die Fl\u00e4che A des roten Dreiecks?\nF\u00fcr die Fl\u00e4che A gilt: A = 3B + C.\nDas Problem l\u00e4sst sich mit verbl\u00fcffend einfachen Mitteln, ohne komplizierte Rechnerei l\u00f6sen. Zuerst verbinden wir den Eckpunkt unten links mit dem gegen\u00fcberliegenden Eckpunkt rechts oben. An dieser Diagonale spiegeln wir das Viereck mit der Fl\u00e4che C.\nDas Ergebnis ist ein symmetrisch aufgeteiltes Sechseck. Links und rechts der eingezeichneten Diagonalen befinden sich je ein in der Zeichnung unten blau gef\u00e4rbtes Dreieck und je ein Viereck mit der Fl\u00e4che C.\nWir stellen fest, dass die Fl\u00e4che eines blauen Dreiecks genau doppelt so gro\u00df ist wie B \u2013 die Fl\u00e4che des leicht grau gef\u00e4rbten Dreiecks aus der urspr\u00fcnglichen Aufteilung des Sechsecks. Warum? Das rechte blaue und das grau hervorgehobene Dreieck haben dieselbe Grundlinie g. Ihre H\u00f6hen betragen jedoch h und 2h. Deshalb sind die beiden blauen Dreiecke doppelt so gro\u00df und haben die Fl\u00e4che 2B.\nWir wollen die Fl\u00e4che A berechnen, die Kanten dieses Vierecks sind in der Zeichnung oben rot hervorgehoben. F\u00fcr A k\u00f6nnen wir folgende Formel aufstellen:\nA = C + 2B + 2B \u2013 BA = 3B + C\nDamit haben wir das gesuchte Ergebnis! Entdeckt habe ich dieses Geometrier\u00e4tsel in der Facebook-Gruppe \u00bbGeometria Super Top\u00ab.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nNur Nullen und Einsen erlaubt\nEine Unbekannte, zwei Potenzen\nWie gro\u00df ist das gelbe Dreieck?\nWelcher Code \u00f6ffnet das Schloss?\nWie gro\u00df ist die rote Fl\u00e4che?\nWelche Zahl ist gr\u00f6\u00dfer?\nWie gro\u00df ist das Quadrat?\nWo sollte man auf dem Flughafen rennen?\nWie gro\u00df ist das blaue Dreieck?\nZwei Nichtteiler gesucht",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-10-19T13:15:00+02:00",
+    "date_modified": "2025-10-19T13:15:00+02:00",
+    "date_published": "2025-10-19T13:15:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "Das magische Sechseck \u2013 R\u00e4tsel der Woche"
+    ]
+}
+

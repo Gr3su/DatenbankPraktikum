@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-wie-gross-ist-das-quadrat-raetsel-der-woche-a-7e942b8a-9978-4adb-83fd-74a8394dbd37",
+    "id": "7e942b8a-9978-4adb-83fd-74a8394dbd37",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Wie gro\u00df ist das Quadrat?",
+        "social": "Wie gro\u00df ist das Quadrat \u2013 das R\u00e4tsel der Woche"
+    },
+    "intro": "Die Verl\u00e4ngerungen der Seiten eines Quadrats schneiden die Achse eines Koordinatensystems an den vier Punkten 3, 5, 8, 14. Welche Fl\u00e4che hat das Quadrat?",
+    "text": "Ein Quadrat liegt auf einem Blatt Papier, auf dem ein Koordinatensystem gezeichnet ist. Es ist im Vergleich zu den Achsen des Koordinatensystems leicht gekippt. Durch die vier Seiten des Quadrats f\u00fchren Geraden. Sie schneiden die x-Achse des Koordinatensystems \u2013 siehe Zeichnung oben.\nDie vier Schnittpunkte haben die x-Koordinaten 3, 5, 8 und 14.\nBerechnen Sie die Fl\u00e4che des Quadrats!\nDie Fl\u00e4che des Quadrats betr\u00e4gt 18/5.\nWir vereinfachen das Problem, indem wir das Quadrat senkrecht nach unten verschieben, bis seine untere Ecke auf der x-Achse liegt. Das Ergebnis ist ein rechtwinkliges Dreieck, das sich aus dem Quadrat und einem kleinen und einem gr\u00f6\u00dferen rechtwinkligen Dreieck zusammensetzt \u2013 siehe folgende Skizze.\nDas kleinere und das gr\u00f6\u00dfere Dreieck sind zueinander \u00e4hnlich, weil ihre Innenwinkel gleich gro\u00df sind. Wir wissen zudem, dass die Hypotenusen der beiden Dreiecke die L\u00e4nge 2 und 6 haben \u2013 dies ist die Differenz zwischen den x-Koordinaten 3 und 5 sowie 8 und 14. Au\u00dferdem bilden die Quadratseiten der L\u00e4nge a jeweils eine Kathete der beiden rechtwinkligen Dreiecke.\nBeim kleinen Dreieck ist das Verh\u00e4ltnis von langer Kathete zu Hypotenuse a/2. Wegen der \u00c4hnlichkeit muss dieses Verh\u00e4ltnis beim gr\u00f6\u00dferen Dreieck daneben ebenfalls a/2 sein. Weil die Hypotenuse aber mit 6 dreimal so lang ist, ist die Kathete ebenfalls dreimal so lang \u2013 also 3a.\nAuf die gleiche Weise k\u00f6nnen wir die L\u00e4nge der k\u00fcrzeren Kathete des kleinen Dreiecks berechnen: a/3.\nZur\u00fcck zum gr\u00f6\u00dferen Dreieck mit den Seitenl\u00e4ngen a, 3a und 6. Nach dem Satz des Pythagoras gilt:\na2 + (3a)2 = 62a2 + 9a2 = 3610a2 = 36a2 = 18/5\nDamit haben wir die L\u00f6sung 18/5 gefunden, denn a2 entspricht genau der gesuchten Fl\u00e4che des Quadrats.\nEntdeckt habe ich dieses Geometrier\u00e4tsel in der \u00fcberwiegend russischsprachigen Facebookgruppe \u00bb\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0437\u0430\u0434\u0430\u0447\u0438, \u0437\u0430\u0434\u0430\u0447\u043a\u0438 \u0438 \u0433\u043e\u043b\u043e\u0432\u043e\u043b\u043e\u043c\u043a\u0438\u00ab\u00a0.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nWo sollte man auf dem Flughafen rennen?\nWie gro\u00df ist das blaue Dreieck?\nZwei Nichtteiler gesucht\nWie gro\u00df ist die Summe?\nWie gro\u00df sind die farbigen Fl\u00e4chen?\nHat diese Gleichung eine L\u00f6sung?\nWelchen Durchmesser hat der Kreis?\nTeiler und Kehrwerte\nDie perfekte Eiswaffel\nDie unm\u00f6gliche Faltung\nHinweis der Redaktion: Wir haben in der Skizze die Angaben zu den zwei Schnittpunkten rechts um 1 auf 8 und 14 erh\u00f6ht, damit Skizze und Angaben zur Lage Schnittpunkte besser zueinanderpassen. Der L\u00f6sungsweg ist unver\u00e4ndert.",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-08-24T19:14:00+02:00",
+    "date_modified": "2025-08-24T19:14:00+02:00",
+    "date_published": "2025-08-24T19:14:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel: Wie gro\u00df ist das Quadrat? - R\u00e4tsel der Woche"
+    ]
+}
+

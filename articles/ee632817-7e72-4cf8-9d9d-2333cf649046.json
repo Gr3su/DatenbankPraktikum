@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/welchen-durchmesser-hat-der-kreis-raetsel-der-woche-a-ee632817-7e72-4cf8-9d9d-2333cf649046",
+    "id": "ee632817-7e72-4cf8-9d9d-2333cf649046",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Welchen Durchmesser hat der Kreis?",
+        "social": "Welchen Durchmesser hat der Kreis? - R\u00e4tsel der Woche"
+    },
+    "intro": "Drei Strecken mit den L\u00e4ngen 12, 15 und 8 verbinden drei Punkte auf einem Kreis miteinander. Die Strecken stehen teils senkrecht aufeinander. Wie gro\u00df ist der Durchmesser des Kreises?",
+    "text": "Wenn rechte Winkel und Kreise zusammenkommen, ahnen Sie wom\u00f6glich schon, welche geometrischen S\u00e4tze gefragt sind. Gegeben ist eine Strecke der L\u00e4nge 15, auf der zwei weitere Strecken mit den L\u00e4ngen 8 und 12 senkrecht stehen. Die Strecken liegen in einem Kreis und ber\u00fchren seinen Rand \u2013 siehe Abbildung oben.\nWie gro\u00df ist der Durchmesser des Kreises?\nDer Durchmesser betr\u00e4gt 85/3, also rund 28,33.\nWir verl\u00e4ngern die Strecken mit den L\u00e4ngen 8 und 15 bis zum gegen\u00fcberliegenden Kreisrand. Aus Symmetriegr\u00fcnden hat die Verl\u00e4ngerung der roten Strecke (L\u00e4nge 8) eine L\u00e4nge von 12 + 8 = 20 \u2013 siehe Skizze unten. Die Verl\u00e4ngerung der blauen Strecke (L\u00e4nge 15) hat eine L\u00e4nge x.\nWir kennen x noch nicht, wissen aber, dass wir den Kreisdurchmesser d mit dem Satz des Pythagoras berechnen k\u00f6nnen:\nd2 = 122 + (15 + x)2\nWenn Sie den Sehnensatz\u00a0 kennen, wissen Sie, dass gilt:\n15 \u00b7 x = 8 \u00b7 20\nund somit x = 32/3.\nDiese Beziehung k\u00f6nnen wir jedoch auch mit dem etwas bekannteren Peripheriewinkelsatz\u00a0 herleiten. Dieser besagt, dass alle Umfangswinkel, auch Peripheriewinkel genannt, \u00fcber einem Kreisbogen gleich gro\u00df sind.\nIn der Skizze oben sind zwei rechtwinklige Dreiecke farbig hervorgehoben. In beiden Dreiecken ist je ein Winkel rot markiert. Diese beiden Winkel sind gleich gro\u00df, weil es sich um Peripheriewinkel oberhalb der Sehne handelt, die in der Skizze gestrichelt dargestellt ist. Deshalb sind alle drei Winkel der beiden Dreiecke gleich gro\u00df und die Dreiecke zueinander \u00e4hnlich. Daher gilt:\n15/8 = 20/x\nL\u00f6sen wir diese Gleichung nach x auf, erhalten wir \u2013 wie oben direkt aus dem Sehnensatz \u2013 das Ergebnis x = 32/3. Nun k\u00f6nnen wir den Kreisdurchmesser d berechnen:\nd2 = 122 + (15 + x)2 d2 = 144 + (15 + 32/3)2 d2 = 144 + ((45 + 32)/3)2 d2 = 144 + (77/3)2d2 = 7225/9d = 85/3 = 28,33...\nEntdeckt habe ich diese Knobelei in der Facebook-Gruppe \u00bbGeometria Super Top\u00ab.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nTeiler und Kehrwerte\nDie perfekte Eiswaffel\nDie unm\u00f6gliche Faltung\nAus wie vielen W\u00fcrfeln besteht das Denkmal?\nEinzigartige Br\u00fcche gesucht\nWie gro\u00df ist das graue Quadrat?\nWie lautet der T\u00fcrcode?\nWie gro\u00df ist das Trapez?\nGrillen f\u00fcr Profis\nWie gro\u00df ist der spitze Winkel?",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-07-06T15:40:00+02:00",
+    "date_modified": "2025-07-06T15:40:00+02:00",
+    "date_published": "2025-07-06T15:40:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "Welchen Durchmesser hat der Kreis? - R\u00e4tsel der Woche"
+    ]
+}
+

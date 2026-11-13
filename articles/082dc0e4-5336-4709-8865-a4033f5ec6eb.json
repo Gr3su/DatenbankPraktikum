@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/hat-diese-gleichung-eine-loesung-raetsel-der-woche-a-082dc0e4-5336-4709-8865-a4033f5ec6eb",
+    "id": "082dc0e4-5336-4709-8865-a4033f5ec6eb",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Hat diese Gleichung eine L\u00f6sung?",
+        "social": "Hat diese Gleichung eine L\u00f6sung? \u2013 R\u00e4tsel der Woche"
+    },
+    "intro": "Eine Gleichung enth\u00e4lt die dritte, vierte, f\u00fcnfte, sechste und siebente Potenz einer Zahl x. Gibt es reelle Zahlen, die als L\u00f6sung infrage kommen?",
+    "text": "Zun\u00e4chst vielen Dank an die Leserinnen und Leser, die mir Ihre Ans\u00e4tze zum Geometrieproblem der Vorwoche geschickt haben. Es ist immer wieder verbl\u00fcffend, wie viele unterschiedliche L\u00f6sungswege es mitunter gibt. Das d\u00fcrfte auch bei der neuen Aufgabe der Fall sein, die auf den ersten Blick kaum l\u00f6sbar zu sein scheint.\nFinden Sie alle L\u00f6sungen der Gleichung:\n(x7 + x5 + x3) / (x6 + x5 + x4) = 3\nx ist dabei eine reelle Zahl.\nEs gibt genau zwei L\u00f6sungen:\nx = 2 \u00b1 Wurzel(3)\nMit einem Trick entledigen wir uns der hohen Potenzen von x. Wir dividieren Z\u00e4hler und Nenner durch x5 \u2013 unter der Voraussetzung x \u2260 0.\n(1/x2 + 1 + x2) / (1/x + 1 + x) = 3\nAls N\u00e4chstes ersetzen wir 1/x + x mit a. Also gilt:\na = x + 1/xa2 = x2 + 1/x2 + 2\nAus der zweiten Gleichung folgt:\n1/x2 + 1 + x2 = a2 \u2013 1\nWir erhalten somit die Gleichung:\n(a2 \u2013 1) / (a + 1) = 3\nWegen a2 \u2013 1 = (a + 1) \u00b7  (a \u2013 1) k\u00f6nnen wir Z\u00e4hler und Nenner durch (a + 1) dividieren, sofern gilt a + 1 \u2260 0:\na \u2013 1 = 3a = 4\nNun setzen wir f\u00fcr a wieder x + 1/x ein:\nx + 1/x = 4x2 - 4x + 1 = 0\nDiese Gleichung hat die zwei L\u00f6sungen x = 2 \u00b1 Wurzel(3). \nWeil x = 0 und auch a + 1 = 0 zu keinen weiteren L\u00f6sungen f\u00fchrt, sind dies die beiden einzigen L\u00f6sungen, die existieren.\nEntdeckt habe ich diese Knobelei beim Facebook-Account \u00bbMathematics Hub\u00ab.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nWelchen Durchmesser hat der Kreis?\nTeiler und Kehrwerte\nDie perfekte Eiswaffel\nDie unm\u00f6gliche Faltung\nAus wie vielen W\u00fcrfeln besteht das Denkmal?\nEinzigartige Br\u00fcche gesucht\nWie gro\u00df ist das graue Quadrat?\nWie lautet der T\u00fcrcode?\nWie gro\u00df ist das Trapez?\nGrillen f\u00fcr Profis",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-07-13T13:20:00+02:00",
+    "date_modified": "2025-07-13T13:20:00+02:00",
+    "date_published": "2025-07-13T13:20:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "Hat diese Gleichung eine L\u00f6sung? - R\u00e4tsel der Woche"
+    ]
+}
+

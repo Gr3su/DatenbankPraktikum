@@ -1,0 +1,35 @@
+{
+    "url": "https://www.spiegel.de/netzwelt/microsoft-software-hacker-nutzen-sicherheitsluecke-zum-angriff-auf-behoerden-und-firmen-a-a57ab385-861f-4c4b-8be3-5df4b834a0d0",
+    "id": "a57ab385-861f-4c4b-8be3-5df4b834a0d0",
+    "channel": "Netzwelt",
+    "subchannel": "default",
+    "headline": {
+        "main": "Microsoft-Software: Hacker nutzen Sicherheitsl\u00fccke zum Angriff auf Beh\u00f6rden und Firmen",
+        "social": "Microsoft-Software: Hacker nutzen Sicherheitsl\u00fccke zum Angriff auf Beh\u00f6rden und Firmen"
+    },
+    "intro": "Viele Unternehmen und Beh\u00f6rden betreiben selbst Server zum Teilen von Dateien \u00fcber Microsofts Software SharePoint. Jetzt nutzen Hacker eine Schwachstelle f\u00fcr neue Attacken. Das FBI ermittelt.",
+    "text": "IT-Sicherheitsexperten schlagen Alarm, weil Beh\u00f6rden und Unternehmen \u00fcber eine neu entdeckte Schwachstelle in der Software von Microsoft angegriffen werden. Betroffen sind demnach lokale Server f\u00fcr das Programm SharePoint zum Teilen von Dateien. \u00dcber die Schwachstelle seien Angreifer bereits in Systeme \u00bbDutzender\u00ab Organisationen eingedrungen, sowohl in der Wirtschaft als auch im Regierungsbereich, sagte ein Manager der IT-Sicherheitsfirma Palo Alto Networks der \u00bbWashington Post\u00ab.\nDer Zugang zu den Servern er\u00f6ffne potenziell die M\u00f6glichkeit, Daten zu stehlen und Passw\u00f6rter abzugreifen, warnte das niederl\u00e4ndische Unternehmen Eye Security. Schlimmer noch: Nach Erkenntnissen seiner Experten k\u00f6nnen Angreifer auch digitale Schl\u00fcssel stehlen, mit denen sie sich sp\u00e4ter auch wieder Zugang zu Computersystemen mit geschlossener Sicherheitsl\u00fccke verschaffen k\u00f6nnten.\nJeder, der einen SharePoint-Server betreibe, habe ein Problem, sagte ein Manager der Sicherheitsfirma Crowdstrike. \u00bbEs ist eine bedeutende Schwachstelle.\u00ab Eye Security empfiehlt angesichts der Attacken auf \u00bbTausende\u00ab Server, diese zu isolieren oder abzuschalten.\nMicrosoft best\u00e4tigte das Problem in einem Blogeintrag und ver\u00f6ffentlichte Updates, die die Sicherheitsl\u00fccke beheben sollen. Inzwischen hat sich auch das FBI eingeschaltet und nahm Ermittlungen auf. Man arbeite wegen der Attacken eng mit verschiedenen Beh\u00f6rden und Unternehmen zusammen, teilte ein Sprecher mit. Einzelheiten nannte er zun\u00e4chst nicht.\nWer hinter den Attacken steckt, blieb zun\u00e4chst unklar. In den USA seien Server von zwei Bundesbeh\u00f6rden erfolgreich angegriffen worden, schrieb die \u00bbWashington Post\u00ab unter Berufung auf Experten. Angaben dazu, um welche Beh\u00f6rden es geht, wurden nicht gemacht.\nUmgehendes Update empfohlen\nMicrosoft hatte k\u00fcrzlich mit einem Update mehrere Schwachstellen geschlossen. Die Angreifer fanden danach eine \u00e4hnliche Sicherheitsl\u00fccke an anderer Stelle. Die amerikanische IT-Sicherheitsbeh\u00f6rde CISA rief betroffene staatliche Stellen und Unternehmen zu schnellem Handeln auf. Erste Hinweise auf die Attacken gab es am Freitag.\nZuletzt hatten sich im Jahr 2023 mutma\u00dflich chinesische Hacker Zugang zu E-Mails in einigen US-Beh\u00f6rden \u00fcber eine Schwachstelle in Microsoft-Software verschafft.",
+    "topics": [
+        "Microsoft",
+        "Hacker",
+        "FBI",
+        "Software",
+        "Computer"
+    ],
+    "author": {
+        "abbreviation": "mik/dpa",
+        "departments": [
+            "Wirtschaft"
+        ],
+        "names": []
+    },
+    "date_created": "2025-07-21T07:46:00+02:00",
+    "date_modified": "2025-07-21T07:46:00+02:00",
+    "date_published": "2025-07-21T07:46:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Netzwelt",
+        "Microsoft-Software: Hacker nutzen Sicherheitsl\u00fccke zum Angriff auf Beh\u00f6rden und Firmen"
+    ]
+}
+

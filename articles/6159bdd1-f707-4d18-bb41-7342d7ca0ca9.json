@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-das-graue-quadrat-a-6159bdd1-f707-4d18-bb41-7342d7ca0ca9",
+    "id": "6159bdd1-f707-4d18-bb41-7342d7ca0ca9",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Wie gro\u00df ist das graue Quadrat?",
+        "social": "R\u00e4tsel der Woche: Wie gro\u00df ist das graue Quadrat?"
+    },
+    "intro": "Vier Dreiecke bilden den Rahmen f\u00fcr ein Quadrat. Bei zwei Dreiecken ist jeweils eine Seitenl\u00e4nge bekannt. Welche Fl\u00e4che hat das Quadrat?",
+    "text": "In der Geometrie gen\u00fcgen manchmal nur wenige Details, um sich ein pr\u00e4zises Gesamtbild machen zu k\u00f6nnen. So wie bei den vier Dreiecken und dem Quadrat in der Abbildung oben. Die Dreiecke teilen sich je eine Seite mit dem Quadrat. Hinzu kommen Angaben zu rechten Winkeln zwischen den Seiten benachbarter Dreiecke und zu Seitenl\u00e4ngen.\nZwei Seitenl\u00e4ngen a und b sind vorgegeben. Bei den anderen Dreiecksseiten wissen wir, dass diese teils gleich lang sind \u2013 in der Abbildung oben gekennzeichnet durch kurze Striche auf den Seiten.\nWelche Fl\u00e4che hat das graue Quadrat?\nDas graue Quadrat hat eine Fl\u00e4che von (a2 + b2)/16.\nDer hier vorgestellte L\u00f6sungsweg nutzt die Tatsache, dass sich die vier bunten Dreiecke zu einem gro\u00dfen rechtwinkligen Dreieck zusammenklappen lassen.\nSchauen wir zun\u00e4chst auf die Winkel rund um die drei oberen Eckpunkte des Quadrats. Diese sind in der folgenden Zeichnung mit einem roten Kreis hervorgehoben. An jedem dieser Eckpunkte sto\u00dfen vier Winkel aufeinander, deren Summe 360 Grad betr\u00e4gt. Zwei der Winkel haben eine Gr\u00f6\u00dfe von 90 Grad \u2013 das macht zusammen 180 Grad.\nDaraus folgt, dass die anderen beiden Winkel, bei denen es sich um Innenwinkel benachbarter farbiger Dreiecke handelt, in Summe ebenfalls 180 Grad gro\u00df sind. Weil zudem je zwei Seiten benachbarter Dreiecke gleich lang sind, k\u00f6nnen wir die Dreiecke Schritt f\u00fcr Schritt zusammenklappen.\nIm ersten Schritt drehen wir das rote Dreieck um 90 Grad \u2013 siehe folgende Skizze oben. Das rote und das gelbe Dreieck bilden danach ein neues gr\u00f6\u00dferes Dreieck, weil die aneinandersto\u00dfenden Seiten gleich lang sind und die aneinandersto\u00dfenden Winkel zusammen 180 Grad gro\u00df sind.\nAls N\u00e4chstes werden das rote und das gelbe Dreieck zusammen an das blaue Dreieck geklappt, danach das rote, gelbe und blaue Dreieck an das gr\u00fcne. Beide Drehungen haben ebenfalls einen Winkel von 90 Grad.\nSo entsteht aus den vier bunten Dreiecken ein gro\u00dfes Dreieck, das rechtwinklig ist. Warum? Vor den drei Drehungen der Dreiecke liegen die Seiten mit den L\u00e4ngen a und b auf einer Geraden. Anschlie\u00dfend wird das rote Dreieck, und damit auch die Seite der L\u00e4nge a, dreimal um 90 Grad gedreht und steht danach senkrecht auf der Seite mit der L\u00e4nge b.\nDas gro\u00dfe rechtwinklige Dreieck hat Katheten der L\u00e4nge a und b. Das Quadrat hat eine Seitenl\u00e4nge, die einem Viertel der Hypotenuse dieses Dreiecks entspricht. Seine Fl\u00e4che betr\u00e4gt daher c2/16. Mit dem Satz des Pythagoras k\u00f6nnen wir c2 durch a und b ausdr\u00fccken und erhalten als Ergebnis f\u00fcr die Fl\u00e4che (a2 + b2)/16.\nEntdeckt habe ich dieses R\u00e4tsel in der Facebook-Gruppe \u00bbGeometria Super Top\u00ab.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nWie lautet der T\u00fcrcode?\nWie gro\u00df ist das Trapez?\nGrillen f\u00fcr Profis\nWie gro\u00df ist der spitze Winkel?\nEin Geburtstag, viele Kinder\nWie viele verschiedene Ketten sind m\u00f6glich?\nWie quert man eine Marathonstrecke?\nWie gro\u00df ist die rote Fl\u00e4che?\nSechsstellige Zahl gesucht\nWelche Ziffer fehlt?",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-05-25T12:36:00+02:00",
+    "date_modified": "2025-05-25T12:36:00+02:00",
+    "date_published": "2025-05-25T12:36:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Wie gro\u00df ist das graue Quadrat?"
+    ]
+}
+

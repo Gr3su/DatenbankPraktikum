@@ -1,0 +1,41 @@
+{
+    "url": "https://www.spiegel.de/karriere/raetsel-der-woche-wie-gross-ist-die-summe-a-3e30f507-522c-4b3b-b17c-8f453cc563fc",
+    "id": "3e30f507-522c-4b3b-b17c-8f453cc563fc",
+    "channel": "Job & Karriere",
+    "subchannel": "default",
+    "headline": {
+        "main": "R\u00e4tsel der Woche: Wie gro\u00df ist die Summe?",
+        "social": "Wie gro\u00df ist die Summe? Das R\u00e4tsel der Woche"
+    },
+    "intro": "Es ist m\u00fchsam genug, 99 Zahlen zu addieren. Noch schwieriger wird das Ganze, wenn es sich dabei um Br\u00fcche von Wurzeln handelt. K\u00f6nnen Sie die Summe ohne Taschenrechner berechnen?",
+    "text": "Zun\u00e4chst vielen Dank an die Leserinnen und Leser, die mir ihre eleganten L\u00f6sungswege f\u00fcr das Geometrier\u00e4tsel der Vorwoche geschickt haben. Oft wurde dabei der H\u00f6hensatz genutzt, mein L\u00f6sungsvorschlag beruhte allein auf dem Satz des Pythagoras.\nDie neue Aufgabe ist wom\u00f6glich eine gr\u00f6\u00dfere Herausforderung: Sie sollen die Summe aus 99 Br\u00fcchen berechnen, wobei bei jedem Bruch im Z\u00e4hler eine 1 steht und im Nenner die Summe aus den Wurzeln zweier aufeinanderfolgender nat\u00fcrlicher Zahlen \u2013 beginnend bei 1 und 2 bis zu 99 und 100. Siehe Abbildung oben!\nIhre Aufgabe ist es, die Summe der 99 Br\u00fcche zu berechnen. Und zwar ohne Taschenrechner und auch ohne Hilfe von Computerprogrammen wie Excel.\nWie lautet das Ergebnis?\nDie Summe betr\u00e4gt 9.\nZur L\u00f6sung nutzen wir zwei Tricks:\ndie binomische Formel (a + b)(a \u2013 b) = a2 \u2013 b2\ndas Prinzip der Teleskopsumme\nZun\u00e4chst vereinfachen wir jeden der 99 Br\u00fcche mit der binomischen Formel f\u00fcr a2 \u2013 b2. Wir schauen uns den allgemeinen Fall mit den aufeinanderfolgenden Zahlen n und n + 1 an. Im Nenner steht die Summe Wurzel(n) + Wurzel(n + 1).\nWir erweitern nun Z\u00e4hler und Nenner um den Ausdruck (Wurzel(n + 1) \u2013 Wurzel(n)). Der Nenner wird wegen (a + b)(a \u2013 b) = a2 \u2013 b2 zu n + 1 \u2013 n, also zu 1 \u2013\u00a0siehe folgende Abbildung.\nIm Z\u00e4hler steht Wurzel(n + 1) \u2013 Wurzel(n), den Nenner 1 k\u00f6nnen wir weglassen.\nNun kommt die sogenannte Teleskopsumme\u00a0 ins Spiel. Dabei handelt es sich um eine endliche Summe von Differenzen, bei der sich benachbarte Glieder gegenseitig aufheben bis auf zwei Ausnahmen: eine Zahl aus der ersten Differenz ganz vorn und eine Zahl aus der letzten Differenz ganz hinten. Das klingt komplizierter als es ist, wie wir gleich sehen werden.\nWir haben die 99 Br\u00fcche der Ausgangssumme mit der binomischen Formel in 99 Differenzen von Wurzeln umgeformt. Die gesuchte Summe lautet daher:\nWurzel(2) \u2013 Wurzel(1) + Wurzel(3) \u2013 Wurzel(2) + Wurzel(4) \u2013 Wurzel(3) + ... +Wurzel(99) \u2013 Wurzel(98)Wurzel(100) \u2013 Wurzel(99)\nWir sehen sofort, dass sich aufeinanderfolgende Wurzelausdr\u00fccke gegenseitig aufheben. Oben sind Wurzel(2) und Wurzel(99) exemplarisch hervorgehoben.\n\u00dcbrig bleiben schlie\u00dflich Wurzel(100) aus der Zeile ganz unten und \u2013 Wurzel(1) von ganz oben. Das Ergebnis lautet daher Wurzel(100) \u2013 Wurzel(1), was exakt 9 entspricht.\nSollten Sie ein R\u00e4tsel aus den vergangenen Wochen verpasst haben \u2013 hier sind die j\u00fcngsten Folgen: \nWie gro\u00df sind die farbigen Fl\u00e4chen?\nHat diese Gleichung eine L\u00f6sung?\nWelchen Durchmesser hat der Kreis?\nTeiler und Kehrwerte\nDie perfekte Eiswaffel\nDie unm\u00f6gliche Faltung\nAus wie vielen W\u00fcrfeln besteht das Denkmal?\nEinzigartige Br\u00fcche gesucht\nWie gro\u00df ist das graue Quadrat?\nWie lautet der T\u00fcrcode?",
+    "topics": [
+        "R\u00e4tsel der Woche",
+        "R\u00e4tsel",
+        "Mathematik",
+        "Spiele f\u00fcr zwischendurch",
+        "Spiele",
+        "Spiele f\u00fcr unterwegs"
+    ],
+    "author": {
+        "abbreviation": "",
+        "departments": [
+            "Job & Karriere",
+            "Datenjournalismus",
+            "Grafik/Interactive",
+            "Leben"
+        ],
+        "names": [
+            "Holger Dambeck"
+        ]
+    },
+    "date_created": "2025-07-27T07:24:00+02:00",
+    "date_modified": "2025-07-27T07:24:00+02:00",
+    "date_published": "2025-07-27T07:24:00+02:00",
+    "breadcrumbs": [
+        "Startseite",
+        "Job & Karriere",
+        "R\u00e4tsel der Woche: Wie gro\u00df ist die Summe?"
+    ]
+}
+
