@@ -1,5 +1,6 @@
 import psycopg
 import spiegel_importer
+import english_importer
 
 def create_table():
     with psycopg.connect("user=postgres password=postgres host=localhost") as conn:
@@ -10,6 +11,9 @@ def create_table():
 
 def import_spiegel_articles():
     spiegel_importer.import_articles()
+
+def import_english_articles():
+    english_importer.import_articles()
 
 while True:
     print("Folgende Optionen stehen zur Verfügung:")
@@ -30,5 +34,5 @@ while True:
         import_spiegel_articles()
         print("Spiegel-Artikel wurden importiert.")
     elif choice == "4":
-        # TODO: Import von Englischen Artikeln
+        import_english_articles()
         print("Englische-Artikel wurden importiert.")
