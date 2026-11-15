@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "15e5efd331e09aea84ea9f28650069810d95e381",
+        "url": "https://www.newsbreak.com/news/4499597975225-south-florida-automotive-group-sells-audi-gainesville",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/gainesville-fl",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Gainesville, FL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "South Florida automotive group sells Audi Gainesville - NewsBreak",
+        "title_full": "South Florida automotive group sells Audi Gainesville - NewsBreak",
+        "published": "2026-02-18T23:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2umM58_18yu3qsx00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "15e5efd331e09aea84ea9f28650069810d95e381",
+    "url": "https://www.newsbreak.com/news/4499597975225-south-florida-automotive-group-sells-audi-gainesville",
+    "ord_in_thread": 0,
+    "author": "Staff Reports",
+    "published": "2026-02-18T23:15:00.000+02:00",
+    "title": "South Florida automotive group sells Audi Gainesville - NewsBreak",
+    "text": "By Staff Reports ,\n7 hours ago Audi Gainesville has been sold to E1T1 Automotive Group out of Texas, according to a Wednesday press release from Haig Partners LLC. Haig Partners served as an advisor to E1T1 Automotive Group, led by Jarryd Carver. Audi Gainesville (1920 North Main St.) will be Carver’s first Florida dealership, the press release said. It’ll also be the company’s first entrance into the luxury market. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->sales channel",
+        "Economy, Business and Finance->automotive"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jarryd Carver",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Texas",
+                "sentiment": "none"
+            },
+            {
+                "name": "South Florida",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "E1T1 Automotive Group",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Audi Gainesville",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Haig Partners LLC",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Carver",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:17:56.665+02:00",
+    "updated": "2026-02-19T07:18:53.000+02:00"
+}

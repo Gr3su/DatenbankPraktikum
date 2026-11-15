@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "15a326b53fe304484c0b6befb7652124b08c7e4a",
+        "url": "https://baytobaynews.com/stories/ap-sports-summarybrief-at-1206-am-edt,248684",
+        "site_full": "baytobaynews.com",
+        "site": "baytobaynews.com",
+        "site_section": "https://baytobaynews.com/crisfield/stories",
+        "site_categories": [],
+        "section_title": "Stories | Bay to Bay News",
+        "site_title": "Home | Bay to Bay News",
+        "title": "Rashee Rice Suspended for Six Games by NFL",
+        "title_full": "Rashee Rice Suspended for Six Games by NFL",
+        "published": "2025-08-28T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 149519,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "15a326b53fe304484c0b6befb7652124b08c7e4a",
+    "url": "https://baytobaynews.com/stories/ap-sports-summarybrief-at-1206-am-edt,248684",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-08-28T03:00:00.000+03:00",
+    "title": "Rashee Rice Suspended for Six Games by NFL",
+    "text": "• Kansas City Chiefs wide receiver Rashee Rice has been suspended for six games.\n• The suspension is due to a violation of the NFL’s personal conduct policy.\n• Rice pleaded guilty to two third-degree felony charges related to a March 2024 crash in Dallas.\n• The NFL's decision follows an internal investigation and voids a scheduled hearing.\n• Rice will miss several high-profile games, including the season opener against the Chargers in Brazil.\n• He will also miss a Super Bowl rematch with the Eagles.\n• Rice is eligible to return on October 19 when the Chiefs face the Raiders.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Sport",
+        "Human Interest",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Sport->american football",
+        "Human Interest->human mishap",
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->court"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": true,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rashee Rice",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Kansas City Chiefs",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NFL",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Chargers",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Georgetown",
+                "Riverview",
+                "Woodside East",
+                "Cheswold",
+                "Woodside",
+                "Camden",
+                "Kenton",
+                "Dover",
+                "Kent Acres"
+            ],
+            "state": [
+                "Delaware"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-28T07:26:19.832+03:00",
+    "updated": "2025-08-28T07:30:57.000+03:00"
+}

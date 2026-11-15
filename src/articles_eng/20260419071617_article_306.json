@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "0714343c097cdfff0259902ed8845cc83344b999",
+        "url": "https://www.newsbreak.com/news/4593669558186-emporia-main-street-third-in-10best-contest",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/elmdale-ks",
+        "site_categories": [
+            "sport",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "politics",
+            "human interest",
+            "under_construction",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Elmdale, KS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Emporia Main Street third in 10Best contest - NewsBreak",
+        "title_full": "Emporia Main Street third in 10Best contest - NewsBreak",
+        "published": "2026-04-15T20:02:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2lEwlj_1ATgkRtU00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0714343c097cdfff0259902ed8845cc83344b999",
+    "url": "https://www.newsbreak.com/news/4593669558186-emporia-main-street-third-in-10best-contest",
+    "ord_in_thread": 0,
+    "author": "Chuck Samples",
+    "published": "2026-04-15T20:02:00.000+03:00",
+    "title": "Emporia Main Street third in 10Best contest - NewsBreak",
+    "text": "By Chuck Samples ,\n11 hours ago It’s a top-3 finish for Emporia Main Street in the USA Today 10Best contest. Emporia finished third this year after finishing second the last two years. Director Casey Woods says that’s nothing to sneeze at. Bethlehem, Pennsylvania, finished first, followed by Waynesville, North Carolina. Woods says Emporia Main... Read full article\nRead in NewsBreak 2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->leisure"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Chuck Samples",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Casey Woods",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "North Carolina",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bethlehem",
+                "sentiment": "none"
+            },
+            {
+                "name": "Waynesville",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pennsylvania",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Emporia Main Street",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Elmdale"
+            ],
+            "state": [
+                "Kansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:24:18.390+03:00",
+    "updated": "2026-04-16T07:38:33.000+03:00"
+}

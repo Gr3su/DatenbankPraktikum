@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "264d95dd1183cfa3900f39b24aece652e473ba14",
+        "url": "https://tass.com/sports/2148073",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/rss/v2.xml",
+        "site_categories": [
+            "science and technology",
+            "war, conflict and unrest",
+            "economy, business and finance",
+            "politics",
+            "media"
+        ],
+        "section_title": "TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Ghana defeats Panama in FIFA World Cup match",
+        "title_full": "Ghana defeats Panama in FIFA World Cup match",
+        "published": "2026-06-18T04:35:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 14053,
+        "domain_rank_updated": "2026-06-15T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "264d95dd1183cfa3900f39b24aece652e473ba14",
+    "url": "https://tass.com/sports/2148073",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-06-18T04:35:00.000+03:00",
+    "title": "Ghana defeats Panama in FIFA World Cup match",
+    "text": "NEW YORK, June 18. /TASS/. Ghana defeated Panama 1-0 in a Group L encounter at the FIFA World Cup in Toronto, Canada.\nCaleb Yirenkyi scored the only goal of the game in the fifth minute of stoppage time.\nGhana and Panama are in Group L, where England earlier beat Croatia 4-2. In their next matches, England will face Ghana, while Croatia will take on Panama.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->soccer"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-18T07:18:41.027+03:00",
+    "updated": "2026-06-18T07:23:30.000+03:00"
+}

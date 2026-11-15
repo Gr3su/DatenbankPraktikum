@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "2f3caf82cb7f3ba62aeb9af8d8c5f990b9ec6002",
+        "url": "https://www.newsbreak.com/masslive-com-513123/4743783843960-an-adorable-dolphin-was-spotted-in-trouble-at-chelsea-marina",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/wilmington-ma",
+        "site_categories": [
+            "disaster and accident",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "under_construction",
+            "politics",
+            "human interest",
+            "social issue",
+            "crime, law and justice",
+            "sport",
+            "economy, business and finance"
+        ],
+        "section_title": "Wilmington, MA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "An 'adorable' dolphin was spotted in trouble at Chelsea marina - NewsBreak",
+        "title_full": "An 'adorable' dolphin was spotted in trouble at Chelsea marina - NewsBreak",
+        "published": "2026-07-01T17:05:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2OtyYo_1Csx0jQL00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2f3caf82cb7f3ba62aeb9af8d8c5f990b9ec6002",
+    "url": "https://www.newsbreak.com/masslive-com-513123/4743783843960-an-adorable-dolphin-was-spotted-in-trouble-at-chelsea-marina",
+    "ord_in_thread": 0,
+    "author": "Alexis Crochiere",
+    "published": "2026-07-01T17:05:00.000+03:00",
+    "title": "An 'adorable' dolphin was spotted in trouble at Chelsea marina - NewsBreak",
+    "text": "By Alexis Crochiere ,\n14 hours ago A dolphin was spotted in the Marina at Admiral’s Hill on Tuesday, according to a Facebook post by the City of Chelsea. “An adorable harbor porpoise was spotted in Admirals Hill Marina and was circling the docks,” the post read. The National Oceanic and Atmospheric Administration was notified... Read full article\n5",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Human Interest"
+    ],
+    "topics": [
+        "Environment->nature",
+        "Environment->animal",
+        "Environment->climate change",
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.masslive.com/news/2026/07/an-adorable-dolphin-was-spotted-in-trouble-at-chelsea-marina.html",
+        "https://masslive.com/news/2026/07/an-adorable-dolphin-was-spotted-in-trouble-at-chelsea-marina.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alexis Crochiere",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Chelsea",
+                "sentiment": "none"
+            },
+            {
+                "name": "Admiral ’ s Hill",
+                "sentiment": "none"
+            },
+            {
+                "name": "Admirals Hill Marina",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "National Oceanic and Atmospheric Administration",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:36:53.295+03:00",
+    "updated": "2026-07-02T07:41:45.000+03:00"
+}

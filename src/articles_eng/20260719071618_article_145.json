@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "a7201d9f8db4d0557aa093c577a91e34d1293da6",
+        "url": "https://rochesterreporter.com/researchers-develop-crispr-tool-to-improve-immune-therapy-in-prostate-cancer",
+        "site_full": "rochesterreporter.com",
+        "site": "rochesterreporter.com",
+        "site_section": "https://rochesterreporter.com/category/business",
+        "site_categories": [],
+        "section_title": "Business Archives - Rochester Reporter",
+        "site_title": "Home - Rochester Reporter",
+        "title": "Researchers develop CRISPR tool to improve immune therapy in prostate cancer",
+        "title_full": "Researchers develop CRISPR tool to improve immune therapy in prostate cancer",
+        "published": "2026-07-15T17:50:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://d33ioocfz0fzi4.cloudfront.net/jns-media/8a/9f/27821846/webp_7q979zid75cyaa6ebx2qqy0d3n6x.webp",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a7201d9f8db4d0557aa093c577a91e34d1293da6",
+    "url": "https://rochesterreporter.com/researchers-develop-crispr-tool-to-improve-immune-therapy-in-prostate-cancer",
+    "ord_in_thread": 0,
+    "author": "M. G. Ayers",
+    "published": "2026-07-15T17:50:00.000+03:00",
+    "title": "Researchers develop CRISPR tool to improve immune therapy in prostate cancer",
+    "text": "Researchers develop CRISPR tool to improve immune therapy in prostate cancer\nM. G. Ayers\nA new CRISPR-based technology has been developed to enhance the effectiveness of immunotherapy in prostate cancer, researchers announced on July 15. The study, published in Nature Biomedical Engineering, demonstrates that altering RNA in prostate cancer cells can make them more responsive to immune checkpoint therapy, at least in laboratory mice.\nProstate cancer is often resistant to immunotherapy because it does not attract T cells, earning it the label \"immune cold.\" Using a CRISPR-based tool, scientists changed how these tumor cells produce a specific protein, making them more visible and susceptible to attack by the immune system. The tool restores a key 'flag'—the MHC-1 complex—on cancer cells that draws immune cells toward the tumor.\nEric J. Wagner, PhD, co-author of the study from University of Rochester Medicine, said, “Immune therapy is a monumentally different way to treat cancer, and a great way because you don’t have to give patients terrible drugs that kill the cancer but harm healthy cells in the process. The problem is that some cancers respond well to immune therapy, but others develop resistance or don’t respond at all. Our tool strengthens the immune system’s ability to make the cancer go away and could be used in conjunction with existing immunotherapies in prostate and potentially other immune-cold tumor types.”\nThe research began when Wagner's team discovered that many messenger RNAs (mRNAs) were shorter than normal in certain cancers. Shortened mRNAs are more stable and can lead to overproduction of proteins like SPSB1—which destroys MHC-1 complexes on cell surfaces—allowing tumors to evade detection by T cells. In this new approach led by scientists from Duke University School of Medicine and University of Rochester Medicine, an RNA-based CRISPR Cas13 system was used not for cutting but for binding mRNA tails so they could maintain their normal length.\nThis intervention resulted in less SPSB1 protein production and restoration of MHC-1 complexes on cell surfaces. With these complexes restored, mice treated with immunotherapy showed increased infiltration of anti-tumor T cells into their tumors.\n“No one has ever done this before. It’s an excellent preclinical model showing that mRNAs can be forced to re-lengthen and when they do, there’s therapeutic benefit,” said Wagner. He added, “Cancer is super smart at evolving, but it's not a magician. If we can hit it with immunotherapy and another synergistic drug that pumps up the immune response, we could potentially cure it.”",
+    "summary": "The study, published in Nature Biomedical Engineering, demonstrates that altering RNA in prostate cancer cells can make them more responsive to immune checkpoint therapy, at least in laboratory mice. Using a CRISPR-based tool, scientists changed how these tumor cells produce a specific protein, making them more visible and susceptible to attack by the immune system.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "M. G. Ayers",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Nature Biomedical Engineering",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:20:10.781+03:00",
+    "updated": "2026-07-16T07:20:10.781+03:00"
+}

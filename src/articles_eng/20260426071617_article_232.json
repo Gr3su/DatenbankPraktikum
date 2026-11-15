@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "aadf8f1d6be7cecc76fdc1b7880ea4d45dede852",
+        "url": "https://www.newsbreak.com/news/4607048797299-moval-students-hospitalized-after-health-complications",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/highland-ca",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "politics",
+            "economy, business and finance",
+            "under_construction",
+            "lifestyle and leisure",
+            "human interest",
+            "sport"
+        ],
+        "section_title": "Highland, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "MoVal Students Hospitalized After Health Complications - NewsBreak",
+        "title_full": "MoVal Students Hospitalized After Health Complications - NewsBreak",
+        "published": "2026-04-22T21:42:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/36yLv0_1AhA3LPI00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aadf8f1d6be7cecc76fdc1b7880ea4d45dede852",
+    "url": "https://www.newsbreak.com/news/4607048797299-moval-students-hospitalized-after-health-complications",
+    "ord_in_thread": 0,
+    "author": "Contributing Editor",
+    "published": "2026-04-22T21:42:00.000+03:00",
+    "title": "MoVal Students Hospitalized After Health Complications - NewsBreak",
+    "text": "By Contributing Editor ,\n9 hours ago Two students suffering from undisclosed illnesses at a Moreno Valley high school Wednesday were taken to a hospital for further evaluation. The medical aid call was received shortly after 10 a.m. Wednesday at Canyon Springs High School on Cougar Canyon Road, according to the Riverside County Fire Department. The agency... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->medical condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Cougar Canyon Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "MoVal",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Canyon Springs High School",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Riverside County Fire Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Highland",
+                "Highlands"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-23T07:23:07.320+03:00",
+    "updated": "2026-04-23T07:59:51.000+03:00"
+}

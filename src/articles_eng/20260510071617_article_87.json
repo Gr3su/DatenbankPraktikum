@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "211874e95c5cac5a1754ef66c62d976b623d0a63",
+        "url": "https://www.newsbreak.com/nbc-news-510074/4636084823196-ai-political-ad-stirs-controversy-ahead-of-california-debates",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/nbc-news-510074",
+        "site_categories": [
+            "sport",
+            "politics",
+            "human interest",
+            "arts, culture and entertainment",
+            "under_construction",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice"
+        ],
+        "section_title": "NBC News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "AI political ad stirs controversy ahead of California debates - NewsBreak",
+        "title_full": "AI political ad stirs controversy ahead of California debates - NewsBreak",
+        "published": "2026-05-07T04:17:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3RmOZN_1B9QGcaF00",
+        "performance_score": 0,
+        "domain_rank": 2952,
+        "domain_rank_updated": "2026-05-04T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "211874e95c5cac5a1754ef66c62d976b623d0a63",
+    "url": "https://www.newsbreak.com/nbc-news-510074/4636084823196-ai-political-ad-stirs-controversy-ahead-of-california-debates",
+    "ord_in_thread": 0,
+    "author": "NBC News",
+    "published": "2026-05-07T04:17:00.000+03:00",
+    "title": "AI political ad stirs controversy ahead of California debates - NewsBreak",
+    "text": "4 hours ago An AI-generated political ad depicting reality star and L.A. mayoral candidate Spencer Pratt is being celebrated by some, but also raises ethical questions. All of it as candidates prepare for key California debates just weeks before the primary. NBC News' Dana Griffin reports. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Politics->political campaigns",
+        "Politics->political candidates",
+        "Science and Technology->information technology and computer science",
+        "Science and Technology->political science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Spencer",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Dana Griffin",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "California",
+                "sentiment": "none"
+            },
+            {
+                "name": "L. A.",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NBC News",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "NBC",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-07T07:18:32.787+03:00",
+    "updated": "2026-05-07T08:24:13.745+03:00"
+}

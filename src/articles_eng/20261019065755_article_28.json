@@ -1,0 +1,119 @@
+{
+    "thread": {
+        "uuid": "737c252f8bb4096cdc3eb493080fc25f5f523cf8",
+        "url": "https://tass.com/world/2202785",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/world/1874479",
+        "site_categories": [
+            "economy, business and finance",
+            "politics",
+            "war, conflict and unrest",
+            "media",
+            "science and technology"
+        ],
+        "section_title": "Georgian ruling party's secretary general calls country's president foreign agent -  World - TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Ursula von der Leyen suggests creating EU strategic gas reserves - Politico",
+        "title_full": "Ursula von der Leyen suggests creating EU strategic gas reserves - Politico",
+        "published": "2026-10-16T06:12:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 14822,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T06:58:19.165+03:00"
+        }
+    },
+    "uuid": "737c252f8bb4096cdc3eb493080fc25f5f523cf8",
+    "url": "https://tass.com/world/2202785",
+    "ord_in_thread": 0,
+    "author": "TASS",
+    "published": "2026-10-16T06:12:00.000+03:00",
+    "title": "Ursula von der Leyen suggests creating EU strategic gas reserves - Politico",
+    "text": "BRUSSELS, October 16. /TASS/. European Commission President Ursula von der Leyen has invited European leaders to consider creating the bloc-wide strategic gas reserves, three diplomats and two EU officials have told Politico.\nThe initiative was put forward amid concerns that the EU may face fuel shortages this winter.\nThe report says that the existing European gas storage facilities, normally refilled throughout the year by commercial actors, are running at record lows amid high summer prices, linked to the conflict in the Middle East.\nThe report says that the bloc was left \"unprepared for winter.\"\nIt wasn't immediately clear to diplomatic officials what form the reserve idea would take, Politico wrote.\nEarlier TASS reported that Europe risks starting the heating season with record-low gas stocks. By the traditional start of the autumn-winter period, EU countries may fill their storage facilities to only 70-75% capacity, marking an all-time low for the beginning of the heating season.\nUnder European Commission requirements, EU nations must ensure their gas storage facilities are 90% full between October 1 and December 1 each year. A 10% margin of flexibility is permitted in the event of challenging filling conditions. Consequently, net injections into European storage facilities must total at least 68 bcm by the start of the 2026-2027 autumn-winter season to meet the filling target. However, anticipating a very mild winter, the European Commission is prepared to lower this threshold to 80% for the current year.",
+    "summary": "The report says that the existing European gas storage facilities, normally refilled throughout the year by commercial actors, are running at record lows amid high summer prices, linked to the conflict in the Middle East. Earlier TASS reported that Europe risks starting the heating season with record-low gas stocks. By the traditional start of the autumn-winter period, EU countries may fill their storage facilities to only 70-75% capacity, marking an all-time low for the beginning of the heating season.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->international relations",
+        "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ursula von der Leyen",
+                "sentiment": "positive"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Middle East",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "European Commission",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "Politico",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T06:58:19.165+03:00",
+    "updated": "2026-10-16T06:59:36.000+03:00",
+    "related_articles": null
+}

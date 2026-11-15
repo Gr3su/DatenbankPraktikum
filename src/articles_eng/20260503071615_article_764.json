@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "f214be82f6515366a9e1be11de95d0b64126c506",
+        "url": "https://www.newsbreak.com/news/4621177351038-dea-sweeps-multiple-orange-county-locations",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/westminster-ca",
+        "site_categories": [
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "politics",
+            "under_construction",
+            "arts, culture and entertainment",
+            "sport",
+            "human interest"
+        ],
+        "section_title": "Westminster, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "DEA Sweeps Multiple Orange County Locations - NewsBreak",
+        "title_full": "DEA Sweeps Multiple Orange County Locations - NewsBreak",
+        "published": "2026-04-30T02:03:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1xKm9J_1AvOwwj300",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f214be82f6515366a9e1be11de95d0b64126c506",
+    "url": "https://www.newsbreak.com/news/4621177351038-dea-sweeps-multiple-orange-county-locations",
+    "ord_in_thread": 0,
+    "author": "Ben Levine",
+    "published": "2026-04-30T02:03:00.000+03:00",
+    "title": "DEA Sweeps Multiple Orange County Locations - NewsBreak",
+    "text": "By Ben Levine ,\n5 hours ago Federal Drug Enforcement Administration agents carried out coordinated actions at several spots across Orange County on Wednesday morning, with aerial footage capturing a heavy law enforcement presence at a home in Tustin while other crews moved through additional communities. DEA confirms investigation but stays mum on details. The DEA Los... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->drug related crimes"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ben Levine",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Orange County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tustin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Federal Drug Enforcement Administration",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "DEA",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Westminster"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:38:36.368+03:00",
+    "updated": "2026-04-30T07:41:07.000+03:00"
+}

@@ -1,0 +1,120 @@
+{
+    "thread": {
+        "uuid": "cbc54d04060e52e1b6ba99efe1a7be1a3fc57a00",
+        "url": "https://www.world-today-news.com/microsoft-backtracks-after-threatening-researcher-over-windows-security-flaw",
+        "site_full": "www.world-today-news.com",
+        "site": "world-today-news.com",
+        "site_section": "https://www.world-today-news.com/",
+        "site_categories": [
+            "science and technology",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "health",
+            "media",
+            "economy, business and finance",
+            "politics",
+            "sport"
+        ],
+        "section_title": "World Today News - Your Global News Source Directory",
+        "site_title": "World Today News - Your Global News Source Directory",
+        "title": "Microsoft Backtracks After Threatening Researcher Over Windows Security Flaw",
+        "title_full": "Microsoft Backtracks After Threatening Researcher Over Windows Security Flaw",
+        "published": "2026-08-13T05:16:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 134209,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cbc54d04060e52e1b6ba99efe1a7be1a3fc57a00",
+    "url": "https://www.world-today-news.com/microsoft-backtracks-after-threatening-researcher-over-windows-security-flaw",
+    "ord_in_thread": 0,
+    "author": "Rachel Kim - Technology Editor",
+    "published": "2026-08-13T05:16:00.000+03:00",
+    "title": "Microsoft Backtracks After Threatening Researcher Over Windows Security Flaw",
+    "text": "Microsoft faces intensified global security scrutiny over Windows following a critical shift in corporate policy regarding vulnerability disclosures, according to reports by Infobae. The technology giant recently reversed its stance on publicly identifying a security researcher who uncovered a significant flaw affecting the operating system, opting instead against filing formal legal complaints.\nPolicy Shifts and Vulnerability Reporting According to Infobae, the controversy centers on how Microsoft handles external researchers who discover and report foundational security weaknesses in Windows. Rather than pursuing legal action against the expert who brought the global flaw to light, the corporation retracted its initial threats. The about-face places renewed focus on the delicate balance between corporate software protection and independent cybersecurity research.\nGlobal Security Implications The incident highlights ongoing tensions within the cybersecurity community regarding the disclosure of zero-day exploits and structural bugs in widely used operating systems. Security analysts and institutional watchdogs closely monitor how major software vendors treat independent researchers who bypass traditional reporting channels or make technical details public. Microsoft has not yet detailed what internal protocol changes might follow the retracted complaint, leaving the schedule for upcoming security patches as the next confirmed step in the process.",
+    "summary": "Microsoft faces intensified global security scrutiny over Windows following a critical shift in corporate policy regarding vulnerability disclosures, according to reports by Infobae. The technology giant recently reversed its stance on publicly identifying a security researcher who uncovered a significant flaw affecting the operating system, opting instead against filing formal legal complaints. Global Security Implications The incident highlights ongoing tensions within the cybersecurity community regarding the disclosure of zero-day exploits and structural bugs in widely used operating systems.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->business information"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Microsoft",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "MSFT",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Infobae",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:32:27.063+03:00",
+    "updated": "2026-08-13T07:35:21.000+03:00"
+}

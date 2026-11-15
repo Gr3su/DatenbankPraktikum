@@ -1,0 +1,156 @@
+{
+    "thread": {
+        "uuid": "8e0c7ed8c84824d599c08fb493a72b3f296e75ff",
+        "url": "https://www.newsbreak.com/news/4649013488304-applicants-needed-for-perry-county-memorial-hospital-board",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/evansville-il",
+        "site_categories": [
+            "human interest",
+            "economy, business and finance",
+            "politics",
+            "under_construction",
+            "lifestyle and leisure",
+            "sport",
+            "arts, culture and entertainment",
+            "crime, law and justice"
+        ],
+        "section_title": "Evansville, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Applicants needed for Perry County Memorial Hospital board - NewsBreak",
+        "title_full": "Applicants needed for Perry County Memorial Hospital board - NewsBreak",
+        "published": "2026-05-13T21:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0FzNlC_1BMRzYnj00",
+        "performance_score": 0,
+        "domain_rank": 2965,
+        "domain_rank_updated": "2026-05-11T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8e0c7ed8c84824d599c08fb493a72b3f296e75ff",
+    "url": "https://www.newsbreak.com/news/4649013488304-applicants-needed-for-perry-county-memorial-hospital-board",
+    "ord_in_thread": 0,
+    "author": "Brian Heisserer",
+    "published": "2026-05-13T21:59:00.000+03:00",
+    "title": "Applicants needed for Perry County Memorial Hospital board - NewsBreak",
+    "text": "By Brian Heisserer ,\n16 hours ago PERRYVILLE, Mo. (KFVS) - The Perry County Commission needs to fill an empty Board of Trustees position and is currently accepting applications for the position. Interested individuals must submit their application by May 31, 2026. Applications are available online at Perry County, Missouri’s, official website or in person at the... Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Human Interest",
+        "Politics"
+    ],
+    "topics": [
+        "Human Interest->ceremony",
+        "Politics->government",
+        "Politics->healthcare policy",
+        "Politics->local government and authority"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brian Heisserer",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "PERRYVILLE",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mo.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Perry County Memorial Hospital",
+                "sentiment": "none"
+            },
+            {
+                "name": "Missouri",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Perry County Commission",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Board of Trustees",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Evansville"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-14T07:41:51.884+03:00",
+    "updated": "2026-05-14T14:17:27.456+03:00"
+}

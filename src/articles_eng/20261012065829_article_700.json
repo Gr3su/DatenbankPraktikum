@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "d3a4a30603e3572c2b0ac7cf92015e323a06f866",
+        "url": "https://tass.com/politics/2199631",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/politics/1874603",
+        "site_categories": [
+            "politics",
+            "science and technology",
+            "war, conflict and unrest",
+            "economy, business and finance",
+            "media"
+        ],
+        "section_title": "Russian troops liberate Novoselidovka community in Donbass region over past day -  Russian Politics &amp; Diplomacy - TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Putin to take part in CIS summit on second day of visit to Turkmenistan",
+        "title_full": "Putin to take part in CIS summit on second day of visit to Turkmenistan",
+        "published": "2026-10-09T06:35:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261009/1489231.jpg",
+        "performance_score": 0,
+        "domain_rank": 14819,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:22:35.959+03:00"
+        }
+    },
+    "uuid": "d3a4a30603e3572c2b0ac7cf92015e323a06f866",
+    "url": "https://tass.com/politics/2199631",
+    "ord_in_thread": 0,
+    "author": "TASS",
+    "published": "2026-10-09T06:35:00.000+03:00",
+    "title": "Putin to take part in CIS summit on second day of visit to Turkmenistan",
+    "text": "TURKMENBASHI /Turkmenistan/, October 9. /TASS/. Russian President Vladimir Putin, who is currently paying a working visit to Turkmenistan, is scheduled to participate in two summits on Friday - in the summit of the Commonwealth of Independent States (CIS) and in the Caspian Environmental Summit.\nCurrently, the Russian president and his counterparts from the two organizations are staying in the Avaza resort on the Caspian Sea coast.\nThe CIS summit, to be chaired by Turkmen President Serdar Berdymukhammedov, will be held with restricted attendance first, and then with a broader range of participants. For the first time, the event will be attended by Iranian President Masoud Pezeshkian, who will later join the Caspitan Environmental Summit, too.\nAs Russian Presidential Aide Yury Ushakov said earlier, a broad range of topics will be discussed during the summit’s session behind closed doors. It is possible that Putin will inform his CIS colleagues about the current state of affairs in the Ukrainian conflict.\nThe participants of the summit will formally hand over the CIS presidency to Uzbekistan and will adopt a joint statement on the 35th anniversary of the Commonwealth. Besides, they will visit an exhibition of goods produced by the CIS member countries and Iran.\nProtecting the Caspian Sea\nDuring the Caspian Environmental Summit, the leaders of the Caspian Five countries will deliver their speeches. During the summit, Putin, Berdymukhammedov, and Pezeshkian will be joined by Azerbaijiani President Ilkham Aliyev and Kazakh President Kassym-Jomart Tokayev, who will also address the event.\nThe leaders are expected to discuss preserving the Caspian Sea’s natural environment, and are expected to adopt a declaration on resolving the Caspian Sea’s problems and on ways of dealing with its shrinking water levels.\nAlthough Putin traditionally meets with the press after multi-day foreign visits, no media availability is planned this time, Ushakov said.\nPutin’s previous visit to Turkmenistan took place slightly less than a year ago, when he attended a high-profile international forum, headlined ‘Peace and Trust: Unity of Goals for a Sustainable Future,’ timed to coincide with the 30th anniversary of Turkmenistan’s permanent neutrality.",
+    "summary": "Currently, the Russian president and his counterparts from the two organizations are staying in the Avaza resort on the Caspian Sea coast. The CIS summit, to be chaired by Turkmen President Serdar Berdymukhammedov, will be held with restricted attendance first, and then with a broader range of participants. As Russian Presidential Aide Yury Ushakov said earlier, a broad range of topics will be discussed during the summit’s session behind closed doors. The participants of the summit will formally hand over the CIS presidency to Uzbekistan and will adopt a joint statement on the 35th anniversary of the Commonwealth.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government",
+        "Politics->diplomacy",
+        "Politics->international relations"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Serdar Berdymukhammedov",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Vladimir Putin",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Avaza",
+                "sentiment": "none"
+            },
+            {
+                "name": "Caspian Sea",
+                "sentiment": "none"
+            },
+            {
+                "name": "Turkmenistan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Commonwealth of Independent States",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "CIS",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "CIS",
+                        "exchange": "FRA"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:22:35.959+03:00",
+    "updated": "2026-10-09T07:24:38.000+03:00",
+    "related_articles": null
+}

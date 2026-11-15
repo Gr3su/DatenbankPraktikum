@@ -1,0 +1,152 @@
+{
+    "thread": {
+        "uuid": "4741a2f2a4cc97dc6669bcc36881c1a6845324d8",
+        "url": "https://www.newsbreak.com/news/4811053869896-boil-water-advisory-issued-for-princeton-customers-in-several-neighborhoods",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/winslow-in",
+        "site_categories": [
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "human interest",
+            "social issue",
+            "under_construction",
+            "politics",
+            "arts, culture and entertainment",
+            "sport",
+            "health",
+            "economy, business and finance"
+        ],
+        "section_title": "Winslow, IN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Boil water advisory issued for Princeton customers in several neighborhoods - NewsBreak",
+        "title_full": "Boil water advisory issued for Princeton customers in several neighborhoods - NewsBreak",
+        "published": "2026-08-05T18:50:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/47apfO_1DxjKFZo00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4741a2f2a4cc97dc6669bcc36881c1a6845324d8",
+    "url": "https://www.newsbreak.com/news/4811053869896-boil-water-advisory-issued-for-princeton-customers-in-several-neighborhoods",
+    "ord_in_thread": 0,
+    "author": "Aaron Weeks",
+    "published": "2026-08-05T18:50:00.000+03:00",
+    "title": "Boil water advisory issued for Princeton customers in several neighborhoods - NewsBreak",
+    "text": "By Aaron Weeks ,\n12 hours ago PRINCETON, Ind. (WFIE) - The City of Princeton is issuing a precautionary boil advisory for all customers from east of Ford Street, including Dike Addition, Wilson Avenue, Lake Road and East on Highway 64. According to a press release, while the potential of contamination of the drinking water is unlikely,... Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Health"
+    ],
+    "topics": [
+        "Disaster and Accident->natural disaster",
+        "Disaster and Accident->industrial accident and incident",
+        "Health->health facility",
+        "Health->health care approach"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.14news.com/2026/08/05/boil-water-advisory-issued-princeton-customers-several-neighborhoods/",
+        "https://www.14news.com/2026/08/05/boil-water-advisory-issued-princeton-customers-several-neighborhoods",
+        "https://14news.com/2026/08/05/boil-water-advisory-issued-princeton-customers-several-neighborhoods/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Aaron Weeks",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "City of Princeton",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lake Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ford Street",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wilson Avenue",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Dike Addition",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Winslow"
+            ],
+            "state": [
+                "Indiana"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:10:34.282+03:00",
+    "updated": "2026-08-06T07:14:38.000+03:00"
+}

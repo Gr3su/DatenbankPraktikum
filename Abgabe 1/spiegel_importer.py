@@ -8,7 +8,7 @@ from psycopg.types.json import Jsonb
 def import_articles():
     with psycopg.connect("host=localhost dbname=postgres user=postgres password=postgres") as conn:
         with conn.cursor() as cur:
-            for path in Path("../articles").glob("*.json"):
+            for path in Path("../src/articles").glob("*.json"):
                 with open(path, encoding="utf-8") as f:
                     d = json.load(f)
                 print("Inserting Article with id: " + d["id"])

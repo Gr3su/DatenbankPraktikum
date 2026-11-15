@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "45cf1ffe2f422104e097b3a8837ee6c2e00e75a1",
+        "url": "https://www.newsbreak.com/news/4908168342170-netanyahu-compares-oct-7-attacks-to-sixteen-9-11s",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sitemap-news-34.xml",
+        "site_categories": [
+            "under_construction",
+            "sport",
+            "human interest",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "politics"
+        ],
+        "section_title": "",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Netanyahu compares Oct. 7 attacks to 'sixteen 9/11s' - NewsBreak",
+        "title_full": "Netanyahu compares Oct. 7 attacks to 'sixteen 9/11s' - NewsBreak",
+        "published": "2026-09-25T20:19:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1IvLf4_1FVaA7Yi00",
+        "performance_score": 0,
+        "domain_rank": 3126,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-09-27T12:48:07.579+03:00"
+        }
+    },
+    "uuid": "45cf1ffe2f422104e097b3a8837ee6c2e00e75a1",
+    "url": "https://www.newsbreak.com/news/4908168342170-netanyahu-compares-oct-7-attacks-to-sixteen-9-11s",
+    "ord_in_thread": 0,
+    "author": "WBAY Green Bay",
+    "published": "2026-09-25T20:19:00.000+03:00",
+    "title": "Netanyahu compares Oct. 7 attacks to 'sixteen 9/11s' - NewsBreak",
+    "text": "1 days ago In his speech at the U.N. General Assembly in New York, Netanyahu said the Oct. 7 attacks were equivalent to “16 9/11s.” (Source: UNTV via CNN Newsource) Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->foreign aid",
+        "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wbay.com/video/2026/09/25/netanyahu-compares-oct-7-attacks-sixteen-911s/?outputType=amp",
+        "https://wbay.com/video/2026/09/25/netanyahu-compares-oct-7-attacks-sixteen-911s/?outputType=amp",
+        "https://www.wbay.com/video/2026/09/25/netanyahu-compares-oct-7-attacks-sixteen-911s/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Netanyahu",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "New York",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CNN Newsource",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "UNTV",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "U. N. General Assembly",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-27T12:48:07.579+03:00",
+    "updated": "2026-09-27T12:53:36.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "39689d993d8f9f835992c0cb165f885003d89a38",
+        "url": "https://www.newsbreak.com/news/4759274799293-first-alert-weather-day-thursday-more-severe-storms-likely",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/black-hawk-sd",
+        "site_categories": [
+            "politics",
+            "lifestyle and leisure",
+            "disaster and accident",
+            "social issue",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "human interest",
+            "sport",
+            "under_construction",
+            "economy, business and finance"
+        ],
+        "section_title": "Black Hawk, SD Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "First Alert Weather Day Thursday: More Severe Storms Likely - NewsBreak",
+        "title_full": "First Alert Weather Day Thursday: More Severe Storms Likely - NewsBreak",
+        "published": "2026-07-09T00:56:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1uWGyL_1D7YNuPE00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "39689d993d8f9f835992c0cb165f885003d89a38",
+    "url": "https://www.newsbreak.com/news/4759274799293-first-alert-weather-day-thursday-more-severe-storms-likely",
+    "ord_in_thread": 0,
+    "author": "Ryan Larmeu",
+    "published": "2026-07-09T00:56:00.000+03:00",
+    "title": "First Alert Weather Day Thursday: More Severe Storms Likely - NewsBreak",
+    "text": "By Ryan Larmeu ,\n6 hours ago RAPID CITY, S.D. (KOTA) - A first alert weather day has been declared for Thursday for the threat of severe thunderstorms. A level 2 out of 5 slight risk is in place for areas of KOTA Territory including the Black Hills and Rapid City. Storms likely fire up into the... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kotatv.com/2026/07/08/first-alert-weather-day-thursday-more-severe-storms-likely/?outputType=amp",
+        "https://www.kotatv.com/2026/07/08/first-alert-weather-day-thursday-more-severe-storms-likely/",
+        "https://kotatv.com/2026/07/08/first-alert-weather-day-thursday-more-severe-storms-likely/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ryan Larmeu",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "KOTA Territory",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rapid City",
+                "sentiment": "none"
+            },
+            {
+                "name": "Black Hills",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Blackhawk"
+            ],
+            "state": [
+                "South Dakota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:40:54.889+03:00",
+    "updated": "2026-07-09T07:42:56.000+03:00"
+}

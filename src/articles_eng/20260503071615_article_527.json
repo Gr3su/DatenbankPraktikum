@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "7343824e94549f75547df57b320d8f7d6107f0c9",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4621531454862-special-weather-statement-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/nws-alerts-1671083",
+        "site_categories": [
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "under_construction",
+            "human interest",
+            "sport",
+            "crime, law and justice",
+            "politics",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Special Weather Statement by NWS - NewsBreak",
+        "title_full": "Special Weather Statement by NWS - NewsBreak",
+        "published": "2026-04-30T06:34:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1Dx5HM_1AvlQ56g00",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7343824e94549f75547df57b320d8f7d6107f0c9",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4621531454862-special-weather-statement-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2026-04-30T06:34:00.000+03:00",
+    "title": "Special Weather Statement by NWS - NewsBreak",
+    "text": "55 minutes ago Check NWS updates here\nEffective: 2026-04-29 22:32:00 CDT Expires: 2026-04-29 23:00:00 CDT Urgency: Expected Severity: Moderate Certainty: Observed Instruction: Torrential rainfall is also occurring with this storm and may lead to localized flooding. Do not drive your vehicle through flooded roadways. Frequent cloud to ground lightning is occurring with this storm. Lightning can strike 10 miles away from a thunderstorm. Seek a safe shelter inside a building or vehicle. Target Area: Beauregard; Northern Newton At 1032 PM CDT, Doppler radar was tracking a strong thunderstorm over Newton, moving east at 30 mph.\nHAZARD...Nickel size hail.\nSOURCE...Radar indicated.\nIMPACT...Minor damage to vegetation and outdoor objects is possible.\nLocations impacted include... Newton, Merryville, Bon Weir, and Junction.",
+    "summary": "55 minutes ago Check NWS updates here Effective: 2026-04-29 22:32:00 CDT Expires: 2026-04-29 23:00:00 CDT Urgency: Expected Severity: Moderate Certainty: Observed Instruction: Torrential rainfall is also occurring with this storm and may lead to localized flooding. Frequent cloud to ground lightning is occurring with this storm. Seek a safe shelter inside a building or vehicle. Target Area: Beauregard; Northern Newton At 1032 PM CDT, Doppler radar was tracking a strong thunderstorm over Newton, moving east at 30 mph. Locations impacted include... Newton, Merryville, Bon Weir, and Junction.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1Dx5HM_1AvlQ56g00",
+        "https://img.particlenews.com/image.php?url=1Dx5HM_1AvlQ56g00",
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.c0b58da886c53a85d5aa82dc664eb7300dbb9ae1.001.1",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1Dx5HM_1AvlQ56g00",
+        "https://alerts.weather.gov/search",
+        "https://www.img.particlenews.com/image.php?url=1Dx5HM_1AvlQ56g00",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.c0b58da886c53a85d5aa82dc664eb7300dbb9ae1.001.1"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Beauregard",
+                "sentiment": "none"
+            },
+            {
+                "name": "Northern Newton",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Doppler",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:31:07.344+03:00",
+    "updated": "2026-04-30T07:34:07.000+03:00"
+}

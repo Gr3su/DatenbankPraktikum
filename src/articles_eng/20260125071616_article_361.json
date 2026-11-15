@@ -1,0 +1,158 @@
+{
+    "thread": {
+        "uuid": "feccb3042eabc32f45a64931c889d46bf79067d4",
+        "url": "https://www.newsbreak.com/news/4453534349225-emergency-i-80-lane-closure-heavy-congestion-in-joliet-january-21-22",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/plainfield-il",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Plainfield, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Emergency I-80 Lane Closure, Heavy Congestion in Joliet January 21-22 - NewsBreak",
+        "title_full": "Emergency I-80 Lane Closure, Heavy Congestion in Joliet January 21-22 - NewsBreak",
+        "published": "2026-01-21T21:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3edDuF_18ETwz1H00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-18T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "feccb3042eabc32f45a64931c889d46bf79067d4",
+    "url": "https://www.newsbreak.com/news/4453534349225-emergency-i-80-lane-closure-heavy-congestion-in-joliet-january-21-22",
+    "ord_in_thread": 0,
+    "author": "I-80 Exit Guide",
+    "published": "2026-01-21T21:37:00.000+02:00",
+    "title": "Emergency I-80 Lane Closure, Heavy Congestion in Joliet January 21-22 - NewsBreak",
+    "text": "By I-80 Exit Guide ,\n9 hours ago The Illinois Department of Transportation (IDOT) announced today that the right lane on westbound I-80 between Richards (exit 133) and Chicago (exit 132) streets (U.S. 52/Illinois 53) in Joliet is closed for emergency repairs. The repairs are anticipated to be completed and the lane reopened by the morning rush, Thursday,... Read full article\nRead in NewsBreak 1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Environment"
+    ],
+    "topics": [
+        "Disaster and Accident->emergency response",
+        "Disaster and Accident->transportation accident and incident",
+        "Environment->environmental pollution"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Joliet",
+                "sentiment": "none"
+            },
+            {
+                "name": "U. S.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chicago",
+                "sentiment": "none"
+            },
+            {
+                "name": "Illinois",
+                "sentiment": "none"
+            },
+            {
+                "name": "Richards",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "IDOT",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Illinois Department of Transportation",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Plainfield"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-22T07:21:47.816+02:00",
+    "updated": "2026-01-22T07:28:23.000+02:00"
+}

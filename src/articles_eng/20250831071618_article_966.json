@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "4caec6958d9a2d13395ae3b944910cbea4a18369",
+        "url": "https://www.newsbreak.com/reuters-555486/4200941285216-bank-of-korea-expects-significant-economic-shock-even-after-us-trade-deal",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/reuters-555486",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "Reuters&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Bank of Korea expects 'significant' economic shock even after US trade deal - NewsBreak",
+        "title_full": "Bank of Korea expects 'significant' economic shock even after US trade deal - NewsBreak",
+        "published": "2025-08-28T07:34:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1mHyW1_14ByIdUr00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4caec6958d9a2d13395ae3b944910cbea4a18369",
+    "url": "https://www.newsbreak.com/reuters-555486/4200941285216-bank-of-korea-expects-significant-economic-shock-even-after-us-trade-deal",
+    "ord_in_thread": 0,
+    "author": "Reuters",
+    "published": "2025-08-28T07:34:00.000+03:00",
+    "title": "Bank of Korea expects 'significant' economic shock even after US trade deal - NewsBreak",
+    "text": "By Reuters ,\n6 minutes ago\nSEOUL (Reuters) -South Korea's central bank expects a \"significant\" economic shock from higher U.S. tariffs even after a trade deal, it said on Thursday, citing comparably steeper tariff hikes versus rival exporters and high exposure to product-specific duties.\n\"Despite a comparably successful negotiation, the average tariff rate the U.S. imposes on our country rose greatly to around 15%, from zero tariffs under the previous Korea-U.S. Free Trade Agreement,\" the Bank of Korea (BOK) said in a report.\n\"Therefore, a significant shock is expected for the domestic economy highly dependent on U.S.-bound exports,\" it said.\nThe BOK estimated the impact of U.S. tariff policies on economic growth at a negative 0.45 percentage point and 0.60 percentage point for this year and next year, respectively, reflected in its annual growth projections of 0.9% for 2025 and 1.6% for 2026.\nIn late July, Seoul reached a trade deal with President Donald Trump that set U.S. tariffs on imports from the Asian ally at 15%, lower than the previous threat of 25% but higher than the baseline 10% that had been in place.\nCompared with Trump's earlier tariff threats in April, South Korea was granted a tariff cut that was the ninth-biggest among 50 major exporters to the U.S., the BOK said, based on its estimates of changes in average tariff rates.\nStill, compared with the situation before Trump's sweeping tariff policies, South Korea faced higher tariff increases than more than half of the 50 exporters, including Japan and the European Union, the BOK said.\nSouth Korea's previous free trade agreement with the U.S. and its high exposure to hefty U.S. tariffs on imports of automobiles and steel products contributed to the steeper increase, according to the BOK.\n(Reporting by Jihoon Lee; Editing by Jamie Freed)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->economy",
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->international relations",
+        "Politics->government",
+        "Politics->economic policy",
+        "Social Issue->population and census",
+        "Social Issue->social condition",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1mHyW1_14ByIdUr00",
+        "https://img.particlenews.com/image.php?url=1mHyW1_14ByIdUr00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1mHyW1_14ByIdUr00",
+        "https://www.img.particlenews.com/image.php?url=1mHyW1_14ByIdUr00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Bank of Korea",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "TRI",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "4caec6958d9a2d13395ae3b944910cbea4a18369",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-28T07:40:55.476+03:00",
+    "updated": "2025-08-28T07:44:35.000+03:00"
+}

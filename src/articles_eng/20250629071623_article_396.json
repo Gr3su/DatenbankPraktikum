@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "2ef70e7965d00a6747318688bef2fc8bd839bc6c",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4074387134115-severe-thunderstorm-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "published": "2025-06-26T03:13:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/423Kfr_12ARdAvd00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2ef70e7965d00a6747318688bef2fc8bd839bc6c",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4074387134115-severe-thunderstorm-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-06-26T03:13:00.000+03:00",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here SVRFFC The National Weather Service in Peachtree City has issued a * Severe Thunderstorm Warning for... Southeastern Wilkinson County in central Georgia... Northwestern Laurens County in central Georgia... Southwestern Washington County in east central Georgia... * Until 1245 AM EDT. * At 1213 AM EDT, a severe thunderstorm was located near Toomsboro, or 9 miles east of Irwinton, moving southwest at 25 mph. HAZARD...60 mph wind gusts and quarter size hail. SOURCE...Radar indicated. IMPACT...Hail damage to vehicles is expected. Expect wind damage to roofs, siding, and trees. * Locations impacted include... Dudley, Oconee, Danville, Montrose, Allentown, Chappells Mill, and Nicklesville.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.c8398a5c29a1fc469b43c299f12b40ed484930e0.001.1",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.c8398a5c29a1fc469b43c299f12b40ed484930e0.001.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Toomsboro",
+                "sentiment": "none"
+            },
+            {
+                "name": "Irwinton",
+                "sentiment": "none"
+            },
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-26T07:25:46.999+03:00",
+    "updated": "2025-06-26T04:36:07.000+00:00"
+}

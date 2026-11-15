@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "f41b6595c79d54ad5989c808920d458e7d5c6c96",
+        "url": "https://local.newsbreak.com/newsweek-500152/4380172969396-pete-carroll-gives-clear-response-to-lane-kiffin-s-lsu-decision",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/newsweek-500152",
+        "site_categories": [],
+        "section_title": "Newsweek&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Pete Carroll Gives Clear Response to Lane Kiffin's LSU Decision - NewsBreak",
+        "title_full": "Pete Carroll Gives Clear Response to Lane Kiffin's LSU Decision - NewsBreak",
+        "published": "2025-12-04T01:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3t5EQR_173YxcDn00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-11-30T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f41b6595c79d54ad5989c808920d458e7d5c6c96",
+    "url": "https://local.newsbreak.com/newsweek-500152/4380172969396-pete-carroll-gives-clear-response-to-lane-kiffin-s-lsu-decision",
+    "ord_in_thread": 0,
+    "author": "Cole Sullivan",
+    "published": "2025-12-04T01:51:00.000+02:00",
+    "title": "Pete Carroll Gives Clear Response to Lane Kiffin's LSU Decision - NewsBreak",
+    "text": "By Cole Sullivan ,\n5 hours ago Las Vegas Raiders head coach Pete Carroll shuts down a reporter’s question about Lane Kiffin’s LSU decision with a clear response. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sports coaching"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Pete Carroll",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Lane Kiffin",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Las Vegas Raiders",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-04T07:23:51.269+02:00",
+    "updated": "2025-12-04T07:27:04.000+02:00"
+}

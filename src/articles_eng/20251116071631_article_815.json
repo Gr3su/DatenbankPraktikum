@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "a501d6bc5fbadb078afb996fdd78d1a763415365",
+        "url": "https://www.presstv.ir/Detail/2025/11/13/758728/Press-TV-s-news-headlines-",
+        "site_full": "www.presstv.ir",
+        "site": "presstv.ir",
+        "site_section": "https://presstv.ir",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "PressTV",
+        "site_title": "PressTV",
+        "title": "Press TVs news headlines",
+        "title_full": "Press TVs news headlines",
+        "published": "2025-11-12T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IR",
+        "main_image": "https://cdn.presstv.ir/Photo/2025/11/12/5059bd38-2237-4649-b436-8ff25a234d3a.jpg",
+        "performance_score": 0,
+        "domain_rank": 23003,
+        "domain_rank_updated": "2025-10-26T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a501d6bc5fbadb078afb996fdd78d1a763415365",
+    "url": "https://www.presstv.ir/Detail/2025/11/13/758728/Press-TV-s-news-headlines-",
+    "ord_in_thread": 0,
+    "author": "Presstv",
+    "published": "2025-11-12T02:00:00.000+02:00",
+    "title": "Press TVs news headlines",
+    "text": "Slamming US-Israeli aggression\nIran has once again urged the United Nations and Security Council to hold the United States and Israel accountable for their unlawful acts of aggression against the Islamic Republic. Foreign minister, Abbas Araghchi, made the call in a letter to the UN chief and the president of the Security Council. Araghchi’s letter came after US president, Donald Trump, admitted that he was in charge of Israel’s last June attacks on Iran's civilians and peaceful nuclear facilities. The attacks left over a thousand people dead and many others injured. He stressed that based on international law and the UN Charter, the US is under an obligation to make full reparation for the injury caused by those violations against Iran and its citizens, including material and moral damage. He added that Trump's confession entails individual criminal responsibility him and any other US officials involved in those violations. Araghchi emphasized that Iran reserves its full right to pursue accountability for the responsible states and individuals, and also to secure compensation for the damages sustained.\nGaza humanitarian crisis\nAn international charity organization has warned that the humanitarian situation in Gaza remains dire a month after the war-torn territory’s fragile ceasefire. Doctors Without Borders said daily casualties caused by Israeli forces’ live fire continue to rise, particularly near the so-called Yellow Line, amidst severe MSF affirmed that many Palestinians are risking their lives as they return to check on their homes, while major hospitals are located in areas controlled by Israel, making access to medical care risky. The charity added that Israel is obstructing the entry of essential aid, such as medicine and shelter supplies, emphasizing that the current suffering of Gazans is \"entirely avoidable.\" According to MSF, thousands of displaced people are living in tents lacking water and electricity, amid accumulating garbage and outbreaks of skin and respiratory diseases. The warning came after UNICEF raised the alarm about Israel’s continued ban on the entry of life-saving supplies for the Palestinian children in Gaza. It warned that the delayed entry of formula threatens the lives of thousands of infants, who are suffering from acute malnutrition across the besieged territory.\nIraq parliamentary elections\nIraqi Prime Minister Mohammed Shia al-Sudani has announced his coalition’s victory in the country’s sixth parliamentary elections. According to preliminary results, the Reconstruction and Change coalition has won the highest number of seats in eight out of 18 provinces, including Baghdad, Najaf, Qadisiyah and Karbala. While al-Sudani's bloc made a strong showing, no single bloc achieved a comfortable victory that would allow it to form a government independently. As a result, the formation of the next government will require deal making among the strongest blocs to secure a majority. The final turnout in the elections was 56-percent of registered voters. Supporters of al-Sudani held celebrations in Baghdad just after the announcement of the preliminary results.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "Politics->international relations",
+        "Politics->political crisis",
+        "War, Conflict and Unrest->armed conflict"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Abbas Araghchi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Security Council",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "United Nations",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-11-13T07:34:38.007+02:00",
+    "updated": "2025-11-13T07:37:41.000+02:00"
+}

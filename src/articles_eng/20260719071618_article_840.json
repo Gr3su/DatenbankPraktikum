@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "a444884a10c33fa92d191705d29069986a483d16",
+        "url": "https://www.newsbreak.com/news/4773020681957-boy-dies-after-being-found-in-car-by-parent-in-phoenix",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/scottsdale-az",
+        "site_categories": [
+            "lifestyle and leisure",
+            "politics",
+            "arts, culture and entertainment",
+            "disaster and accident",
+            "crime, law and justice",
+            "economy, business and finance",
+            "social issue",
+            "human interest",
+            "sport",
+            "under_construction"
+        ],
+        "section_title": "Scottsdale, AZ Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Boy dies after being found in car by parent in Phoenix - NewsBreak",
+        "title_full": "Boy dies after being found in car by parent in Phoenix - NewsBreak",
+        "published": "2026-07-16T06:11:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1gWlLr_1DLOz5jx00",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a444884a10c33fa92d191705d29069986a483d16",
+    "url": "https://www.newsbreak.com/news/4773020681957-boy-dies-after-being-found-in-car-by-parent-in-phoenix",
+    "ord_in_thread": 0,
+    "author": "Haley Williams",
+    "published": "2026-07-16T06:11:00.000+03:00",
+    "title": "Boy dies after being found in car by parent in Phoenix - NewsBreak",
+    "text": "By Haley Williams ,\n1 hours ago PHOENIX (AZFamily) — A boy died Wednesday after his parent found him inside a vehicle, Phoenix police said. First responders and Phoenix police officers were called to a home near Baseline Road and 24th Street in south Phoenix at 6:32 p.m. for reports of an injured person. Officers located... Read full article\n6",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.azfamily.com/2026/07/16/boy-dies-after-being-found-car-by-parent-phoenix/?outputType=amp",
+        "https://www.azfamily.com/2026/07/16/boy-dies-after-being-found-car-by-parent-phoenix/",
+        "https://azfamily.com/2026/07/16/boy-dies-after-being-found-car-by-parent-phoenix/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Haley Williams",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Baseline Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Phoenix",
+                "sentiment": "none"
+            },
+            {
+                "name": "24th Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Scottsdale"
+            ],
+            "state": [
+                "Arizona"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:41:47.049+03:00",
+    "updated": "2026-07-16T07:43:37.000+03:00"
+}

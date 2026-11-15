@@ -1,0 +1,132 @@
+{
+    "thread": {
+        "uuid": "cee8f8dacc0c0de32a4d186c4365695881d852bf",
+        "url": "https://guardian.ng/news/nigeria/metro/police-arrest-five-suspected-cultists-recover-weapons-hard-drugs/",
+        "site_full": "guardian.ng",
+        "site": "guardian.ng",
+        "site_section": "https://guardian.ng/",
+        "site_categories": [
+            "social issue",
+            "crime, law and justice",
+            "politics",
+            "media",
+            "economy, business and finance"
+        ],
+        "section_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+        "site_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+        "title": "Police arrest five suspected cultists, recover weapons, hard drugs",
+        "title_full": "Police arrest five suspected cultists, recover weapons, hard drugs",
+        "published": "2026-07-02T07:03:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "https://cdn.guardian.ng/wp-content/uploads/2026/07/fast3474.webp",
+        "performance_score": 0,
+        "domain_rank": 16373,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cee8f8dacc0c0de32a4d186c4365695881d852bf",
+    "url": "https://guardian.ng/news/nigeria/metro/police-arrest-five-suspected-cultists-recover-weapons-hard-drugs/",
+    "ord_in_thread": 0,
+    "author": "Eniola Daniel",
+    "published": "2026-07-02T07:03:00.000+03:00",
+    "title": "Police arrest five suspected cultists, recover weapons, hard drugs",
+    "text": "Operatives of the Lagos State Police Command have arrested five suspected members of the Aye Confraternity during a routine stop-and-search operation along the Ago/Festac Bridge axis of Lagos State.\nThe command said the intelligence-led operation led to the interception of a Toyota Camry XLE saloon car occupied by two suspects, 24-year-old Emmanuel John and 28-year-old David Godwin.\nIt disclosed that substances suspected to be hard drugs were recovered during a search on the suspects, adding that during preliminary interrogation, both suspects confessed to being members of the Aye Confraternity.\nThe command added that further investigation led to the arrest of three other suspected cult members identified as Samuel Owubokiri, 25, Adetona Seyi, 20, and David Chigozie, 25, who also confessed to being members of the Aye Confraternity.\nAccording to the police, the exhibits recovered from the suspects include military camouflage, two machetes, one battle axe, one knife, 500 SIM cards, five mobile phones, five laptops, charms, and various substances suspected to be hard drugs.",
+    "summary": "Operatives of the Lagos State Police Command have arrested five suspected members of the Aye Confraternity during a routine stop-and-search operation along the Ago/Festac Bridge axis of Lagos State. The command said the intelligence-led operation led to the interception of a Toyota Camry XLE saloon car occupied by two suspects, 24-year-old Emmanuel John and 28-year-old David Godwin. It disclosed that substances suspected to be hard drugs were recovered during a search on the suspects, adding that during preliminary interrogation, both suspects confessed to being members of the Aye Confraternity.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->police"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Emmanuel John",
+                "sentiment": "none"
+            },
+            {
+                "name": "David Godwin",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Lagos State",
+                "sentiment": "none"
+            },
+            {
+                "name": "Festac Bridge",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Lagos State Police Command",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Aye Confraternit",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:36:53.376+03:00",
+    "updated": "2026-07-02T07:39:03.000+03:00"
+}

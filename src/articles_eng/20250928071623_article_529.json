@@ -1,0 +1,112 @@
+{
+    "thread": {
+        "uuid": "cd2c1d66ff6b66ba9c784a5fcdf5dfb9521f9965",
+        "url": "https://www.newsbreak.com/news/4255107532800-minnesota-state-unveils-details-for-new-complex",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/delavan-mn",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Delavan, MN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Minnesota State unveils details for new complex - NewsBreak",
+        "title_full": "Minnesota State unveils details for new complex - NewsBreak",
+        "published": "2025-09-25T03:35:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4dtMwL_153XmuBX00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-09-22T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cd2c1d66ff6b66ba9c784a5fcdf5dfb9521f9965",
+    "url": "https://www.newsbreak.com/news/4255107532800-minnesota-state-unveils-details-for-new-complex",
+    "ord_in_thread": 0,
+    "author": "KEYC News Now Staff",
+    "published": "2025-09-25T03:35:00.000+03:00",
+    "title": "Minnesota State unveils details for new complex - NewsBreak",
+    "text": "KEYC\nwebsite\nMankato\nMinnesota State unveils details for new complex\nBy KEYC News Now Staff,\n3 hours agoMANKATO, Minn. (KEYC) - The campus of Minnesota State University will evolve in the next few years. The University plans to build a new stadium which will seat 6,500 for football games and seating will nearly double for concerts or other events. The plans for ‘Future State’ also include a...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->construction and property"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "KEYC News Now Staff",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Minnesota State University",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Delavan"
+            ],
+            "state": [
+                "Minnesota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-25T07:32:49.206+03:00",
+    "updated": "2025-09-25T07:35:30.000+03:00"
+}

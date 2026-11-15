@@ -1,0 +1,117 @@
+{
+    "thread": {
+        "uuid": "f32c0bbfee9d6891bb915cf3b2ad4bb22f5e7f90",
+        "url": "https://www.thesouthafrican.com/news/weather/weather-today-sunshine-fog-and-storms-all-in-one-day/",
+        "site_full": "www.thesouthafrican.com",
+        "site": "thesouthafrican.com",
+        "site_section": "https://www.thesouthafrican.com/feed",
+        "site_categories": [
+            "rugby",
+            "media",
+            "lifestyle and leisure",
+            "sports",
+            "economy, business and finance",
+            "sport"
+        ],
+        "section_title": "The South African",
+        "site_title": "The South African",
+        "title": "WEATHER: Sunshine, fog and storms all in one day",
+        "title_full": "WEATHER: Sunshine, fog and storms all in one day",
+        "published": "2026-04-02T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "ZA",
+        "main_image": "https://www.thesouthafrican.com/wp-content/uploads/2026/04/Rainy-conditions.jpg.optimal.jpg",
+        "performance_score": 0,
+        "domain_rank": 24497,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f32c0bbfee9d6891bb915cf3b2ad4bb22f5e7f90",
+    "url": "https://www.thesouthafrican.com/news/weather/weather-today-sunshine-fog-and-storms-all-in-one-day/",
+    "ord_in_thread": 0,
+    "author": "Bianca Lalbahadur",
+    "published": "2026-04-02T07:00:00.000+03:00",
+    "title": "WEATHER: Sunshine, fog and storms all in one day",
+    "text": "WEATHER: Sunshine, fog and storms all in one day\nThis is what the weather has in store for you in these parts of the country for Thursday, 2 April. Be sure to dress accordingly.\nThundershowers are on the cards for KwaZulu-Natal and North West. Here’s what you can expect for Thursday, 2 April, in the Free State and these two provinces.\nKWAZULU-NATAL\nIf you’re in KwaZulu-Natal, expect morning fog over the interior. The rest of the day will be partly cloudy and warm, with isolated afternoon showers and thundershowers in the western and northern parts. Despite the rain, the UVB sunburn index is expected to remain very high.\nDURBAN\nSlightly cooler conditions are forecast for Durban. Thursday is shaping up to be partly cloudy, with a minimum of 23°C and a maximum of 26°C.\nFREE STATE\nThe Free State will see morning fog patches in the extreme east. No rain is expected, and the rest of the day will be partly cloudy.\nBLOEMFONTEIN\nIn Bloemfontein, which is the country’s judicial capital, expect partly cloudy conditions, with a low of 18°C and a high of 28°C.\nNORTH WEST\nNorth West will experience partly cloudy and warm conditions, with isolated showers and thundershowers over the western parts.\nMAHIKENG\nPartly cloudy conditions are expected in the North West capital city, Mahikeng, with a minimum of 17°C and a maximum of 28°C.\nWeather forecast data provided by the South African Weather Service.",
+    "summary": "Here’s what you can expect for Thursday, 2 April, in the Free State and these two provinces. Despite the rain, the UVB sunburn index is expected to remain very high. The Free State will see morning fog patches in the extreme east. In Bloemfontein, which is the country’s judicial capital, expect partly cloudy conditions, with a low of 18°C and a high of 28°C. Partly cloudy conditions are expected in the North West capital city, Mahikeng, with a minimum of 17°C and a maximum of 28°C.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather forecast",
+        "Weather->weather phenomena"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.weathersa.co.za/",
+        "https://www.weathersa.co.za",
+        "https://weathersa.co.za/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Free State",
+                "sentiment": "none"
+            },
+            {
+                "name": "North West",
+                "sentiment": "none"
+            },
+            {
+                "name": "KwaZulu - Natal",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_za",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-02T07:28:33.820+03:00",
+    "updated": "2026-04-02T07:31:13.000+03:00"
+}

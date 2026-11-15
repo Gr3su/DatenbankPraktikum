@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "a2c60274e817736f6c28c7dc3beae2df95f88f65",
+        "url": "https://www.emporiagazette.com/news/state/article_fa6c91e4-14b1-584e-ad82-5d002e5f24bb.html",
+        "site_full": "www.emporiagazette.com",
+        "site": "emporiagazette.com",
+        "site_section": "https://www.emporiagazette.com/search/?q=&t=article&l=100&d=&d1=&d2=&s=start_time&sd=desc&nsa=eedition&c%5B%5D=news/state,news/state/*&f=rss",
+        "site_categories": [
+            "media",
+            "education",
+            "lifestyle and leisure",
+            "human interest",
+            "health",
+            "sport",
+            "economy, business and finance",
+            "politics",
+            "social issue"
+        ],
+        "section_title": "www.emporiagazette.com - RSS Results in news/state,news/state/* of type article",
+        "site_title": "emporiagazette.com | To practice excellence in community journalism",
+        "title": "Kansas Board of Regents names Jennifer Bonds-Raacke as new president, CEO",
+        "title_full": "Kansas Board of Regents names Jennifer Bonds-Raacke as new president, CEO",
+        "published": "2026-07-29T23:40:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/emporiagazette.com/content/tncms/custom/image/931cafec-1d0e-11e6-80bf-b78b86c1ea06.jpg?resize=600%2C315",
+        "performance_score": 0,
+        "domain_rank": 229880,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a2c60274e817736f6c28c7dc3beae2df95f88f65",
+    "url": "https://www.emporiagazette.com/news/state/article_fa6c91e4-14b1-584e-ad82-5d002e5f24bb.html",
+    "ord_in_thread": 0,
+    "author": "Morgan Chilson",
+    "published": "2026-07-29T23:40:00.000+03:00",
+    "title": "Kansas Board of Regents names Jennifer Bonds-Raacke as new president, CEO",
+    "text": "TOPEKA — The Kansas Board of Regents on Tuesday selected Jennifer Bonds-Raacke to lead the state’s top public higher education organization as president and CEO.\nBonds-Raacke had served as the vice president for academic affairs at KBOR. She fulfills the Regents’ goal to bring an “experienced, credible and inclusive leader” to the leadership role, chairwoman Alysia Johnston said.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Education"
+    ],
+    "topics": [
+        "Education->college and university"
+    ],
+    "ai_allow": false,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jennifer Bonds - Raacke",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alysia Johnston",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "TOPEKA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Kansas Board of Regents",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "KBOR",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Ionia",
+                "Emporia"
+            ],
+            "state": [
+                "Virginia",
+                "Kansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:22:20.548+03:00",
+    "updated": "2026-07-30T07:30:27.000+03:00"
+}

@@ -1,0 +1,156 @@
+{
+    "thread": {
+        "uuid": "5464a79d8adc52edfbbdba8f90c48a175f839d2a",
+        "url": "https://www.newsbreak.com/rolling-out-522933/4744997395302-exxon-changes-its-name-for-the-first-time-in-decades",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/rolling-out-522933",
+        "site_categories": [
+            "sport",
+            "disaster and accident",
+            "under_construction",
+            "human interest",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "social issue",
+            "politics",
+            "crime, law and justice",
+            "lifestyle and leisure"
+        ],
+        "section_title": "rolling out&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Exxon changes its name for the first time in decades - NewsBreak",
+        "title_full": "Exxon changes its name for the first time in decades - NewsBreak",
+        "published": "2026-07-02T03:06:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/42DE3y_1CuA30t300",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5464a79d8adc52edfbbdba8f90c48a175f839d2a",
+    "url": "https://www.newsbreak.com/rolling-out-522933/4744997395302-exxon-changes-its-name-for-the-first-time-in-decades",
+    "ord_in_thread": 0,
+    "author": "Gesi Lloyd",
+    "published": "2026-07-02T03:06:00.000+03:00",
+    "title": "Exxon changes its name for the first time in decades - NewsBreak",
+    "text": "By Gesi Lloyd ,\n7 hours ago Exxon Mobil Corp is getting a new name for the first time in more than 25 years, following the completion of a corporate reorganization that shifts the company’s legal home from New Jersey to Texas. The oil giant will now operate as ExxonMobil Holdings Corporation, the result of a... Read full article\n15",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->products and services",
+        "Economy, Business and Finance->energy and resource",
+        "Economy, Business and Finance->financial service",
+        "Economy, Business and Finance->business information"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://rollingout.com/2026/07/01/exxon-changes-its-name-for-the-first/",
+        "https://rollingout.com/2026/07/01/exxon-changes-its-name-for-the-first",
+        "https://www.rollingout.com/2026/07/01/exxon-changes-its-name-for-the-first/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "G",
+                "sentiment": "negative"
+            },
+            {
+                "name": "##esi Lloyd",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Texas",
+                "sentiment": "none"
+            },
+            {
+                "name": "New Jersey",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Exxon Mobil Corp",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "XOM",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "ExxonMobil Holdings Corporation",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:35:46.817+03:00",
+    "updated": "2026-07-02T10:57:01.009+03:00"
+}

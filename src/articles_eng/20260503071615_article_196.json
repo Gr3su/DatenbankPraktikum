@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "cfe7461bd067a7dce204e16314e0befe085bef47",
+        "url": "https://www.newsbreak.com/news/4621275929921-suspected-lightning-strike-damages-home-south-of-de-soto",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/caledonia-mo",
+        "site_categories": [
+            "economy, business and finance",
+            "sport",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "under_construction",
+            "human interest",
+            "politics"
+        ],
+        "section_title": "Caledonia, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Suspected lightning strike damages home south of De Soto - NewsBreak",
+        "title_full": "Suspected lightning strike damages home south of De Soto - NewsBreak",
+        "published": "2026-04-30T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1ZJtcj_1AvVCAwE00",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cfe7461bd067a7dce204e16314e0befe085bef47",
+    "url": "https://www.newsbreak.com/news/4621275929921-suspected-lightning-strike-damages-home-south-of-de-soto",
+    "ord_in_thread": 0,
+    "author": "Leader staff",
+    "published": "2026-04-30T03:00:00.000+03:00",
+    "title": "Suspected lightning strike damages home south of De Soto - NewsBreak",
+    "text": "By Leader staff ,\n7 hours ago A suspected lightning strike heavily damaged a garage at a home south of De Soto on Monday morning, April 27, De Soto Rural Fire Chief Tom Fitzgerald said. He said firefighters were dispatched to a fire at 1:35 a.m. in the 2800 block of Harmon Lane off Hwy. JJ. The garage was attached to the residence, and residents were able to get out of the home without being injured. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->fire"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tom Fitzgerald",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "De Soto",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hwy. JJ",
+                "sentiment": "none"
+            },
+            {
+                "name": "Harmon Lane",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Caledonia"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:22:10.137+03:00",
+    "updated": "2026-04-30T10:03:53.843+03:00"
+}

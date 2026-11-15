@@ -1,0 +1,162 @@
+{
+    "thread": {
+        "uuid": "69477ea9b012db6db0ad7b9327b83566a54edd3d",
+        "url": "https://www.newsbreak.com/wjbf-1589988/4420682935491-5-year-old-girl-dead-after-being-struck-by-vehicle-in-aiken-county",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/augusta-ga",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Augusta, GA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "5-year-old girl dead after being struck by vehicle in Aiken County - NewsBreak",
+        "title_full": "5-year-old girl dead after being struck by vehicle in Aiken County - NewsBreak",
+        "published": "2026-01-01T00:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0imICm_17iNX0qd00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-12-28T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "69477ea9b012db6db0ad7b9327b83566a54edd3d",
+    "url": "https://www.newsbreak.com/wjbf-1589988/4420682935491-5-year-old-girl-dead-after-being-struck-by-vehicle-in-aiken-county",
+    "ord_in_thread": 0,
+    "author": "Mike Lepp",
+    "published": "2026-01-01T00:27:00.000+02:00",
+    "title": "5-year-old girl dead after being struck by vehicle in Aiken County - NewsBreak",
+    "text": "By Mike Lepp No media credit provided. ,\n6 hours ago\nAIKEN COUNTY, S.C. (WJBF) – A 5-year-old girl is dead after being hit by a vehicle in Aiken County.\nThe incident happened around 4 p.m. on New Years Eve on Raborn Road. That’s just off Edisto Road, near Columbia Hwy N.\nThe Aiken County Sheriff’s Office tells NewsChannel 6 that the incident happened on private property.\nAiken County Chief Deputy Coroner Eric Ramey has identified the victim as 5-year-old Merinn Purcell.\nPurcell was reportedly in the front yard of the home when she was struck by a vehicle entering the yard. She was pronounced dead at 4:36 p.m. An autopsy has been scheduled.\nThe Aiken County Coroner’s Office and SLED are continuing to investigate.\nCopyright 2026 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. For the latest news, weather, sports, and streaming video, head to WJBF.\n7",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=0imICm_17iNX0qd00",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0imICm_17iNX0qd00",
+        "https://www.wjbf.com",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0imICm_17iNX0qd00",
+        "https://www.img.particlenews.com/image.php?url=0imICm_17iNX0qd00",
+        "https://wjbf.com"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mike Lepp",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Eric Ramey",
+                "sentiment": "none"
+            },
+            {
+                "name": "Purcell",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "none"
+            },
+            {
+                "name": "County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Raborn Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Edisto Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Aiken County Sheriff’s Office",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Nexstar Media, Inc",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "NXST",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Augusta"
+            ],
+            "state": [
+                "Georgia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-01T07:25:11.899+02:00",
+    "updated": "2026-01-01T07:27:31.000+02:00"
+}

@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "d4e960c8e338cf8433c7746b2eb722211362da5c",
+        "url": "https://www.newsbreak.com/news/4759594729564-parasite-linked-stomach-illness-reported-in-massachusetts",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/providence-ri",
+        "site_categories": [
+            "politics",
+            "sport",
+            "human interest",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "under_construction",
+            "social issue",
+            "lifestyle and leisure",
+            "disaster and accident",
+            "crime, law and justice"
+        ],
+        "section_title": "Providence, RI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Parasite-linked stomach illness reported in Massachusetts - NewsBreak",
+        "title_full": "Parasite-linked stomach illness reported in Massachusetts - NewsBreak",
+        "published": "2026-07-09T04:51:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3PN8C5_1D7shNgV00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d4e960c8e338cf8433c7746b2eb722211362da5c",
+    "url": "https://www.newsbreak.com/news/4759594729564-parasite-linked-stomach-illness-reported-in-massachusetts",
+    "ord_in_thread": 0,
+    "author": "LEANNA FAULK, NBC 10 NEWS",
+    "published": "2026-07-09T04:51:00.000+03:00",
+    "title": "Parasite-linked stomach illness reported in Massachusetts - NewsBreak",
+    "text": "By LEANNA FAULK, NBC 10 NEWS ,\n2 hours ago A parasite that can cause weeks of gastrointestinal illness has sickened people in Massachusetts this summer, but health officials say the number of cases is not unusual for this time of year. Massachusetts is one of 17 states reporting cases of illness caused by the parasite Cyclospora, according to the... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Health->communicable disease",
+        "Health->disease and condition",
+        "Health->cancer",
+        "Science and Technology->biology",
+        "Science and Technology->medical research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://turnto10.com/news/local/parasite-linked-stomach-illness-reported-massachusetts-health-officials-sick-cyclospora-doctors-nurse-diarrhea-july-8-2026",
+        "https://www.turnto10.com/news/local/parasite-linked-stomach-illness-reported-massachusetts-health-officials-sick-cyclospora-doctors-nurse-diarrhea-july-8-2026"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "LEANNA FAULK",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Massachusetts",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NBC",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "NBC",
+                        "exchange": "FRA"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Providence"
+            ],
+            "state": [
+                "Rhode Island"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:35:33.538+03:00",
+    "updated": "2026-07-09T07:40:09.000+03:00"
+}

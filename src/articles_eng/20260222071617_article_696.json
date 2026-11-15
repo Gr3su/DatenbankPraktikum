@@ -1,0 +1,150 @@
+{
+    "thread": {
+        "uuid": "0dcd5ffc117f295988acccb156a88210eee6f447",
+        "url": "https://www.hindustantimes.com/brand-stories/amrita-kapoor-the-woman-rewriting-financial-freedom-for-millions-mission-to-empower-india-s-women-101771477829422.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "politics",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "media"
+        ],
+        "section_title": "Latest News: Today’s News Headlines, Breaking News India, World News and Cricket News | Latest News Today | Hindustan Times",
+        "site_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+        "title": "Amrita Kapoor: The Woman Rewriting Financial Freedom for Millions - Mission to Empower India's Women | Hindustan Times",
+        "title_full": "Amrita Kapoor: The Woman Rewriting Financial Freedom for Millions - Mission to Empower India's Women | Hindustan Times",
+        "published": "2026-02-19T07:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/02/19/550x309/Swadhaar_FinAccesss_1771478111617_1771478121194.jpg",
+        "performance_score": 0,
+        "domain_rank": 825,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0dcd5ffc117f295988acccb156a88210eee6f447",
+    "url": "https://www.hindustantimes.com/brand-stories/amrita-kapoor-the-woman-rewriting-financial-freedom-for-millions-mission-to-empower-india-s-women-101771477829422.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-02-19T07:16:00.000+02:00",
+    "title": "Amrita Kapoor: The Woman Rewriting Financial Freedom for Millions - Mission to Empower India's Women | Hindustan Times",
+    "text": "Making Finance Work for Women\nWith more than 25 years of experience spanning industry, academia, training, and innovation, Amrita brings both strategic sharpness and grassroots sensitivity to her role. Under her proactive leadership, Swadhaar FinAccess became a key force in India’s National Strategy for Financial Inclusion, currently operating 211 RBI Centres for Financial Literacy (CFLs).",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->human resources",
+        "Social Issue->women",
+        "Social Issue->values"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Amrita Kapoor",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "India",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hindustan Times",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Amrita",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Swadhaar FinAccess",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:34:43.215+02:00",
+    "updated": "2026-02-19T07:37:51.000+02:00"
+}

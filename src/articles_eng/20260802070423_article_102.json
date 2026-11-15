@@ -1,0 +1,164 @@
+{
+    "thread": {
+        "uuid": "89ff6deb8b1211c757fbc56dc1e6866c744b779f",
+        "url": "https://www.newsbreak.com/news/4798038365363-video-of-durham-nc-firefighters-sliding-down-pole-goes-viral",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/roxboro-nc",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "social issue",
+            "sport",
+            "human interest",
+            "under_construction",
+            "disaster and accident",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "Roxboro, NC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Video of Durham, NC, Firefighters Sliding Down Pole Goes Viral - NewsBreak",
+        "title_full": "Video of Durham, NC, Firefighters Sliding Down Pole Goes Viral - NewsBreak",
+        "published": "2026-07-29T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1jLApG_1Dkc60wl00",
+        "performance_score": 0,
+        "domain_rank": 3090,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "89ff6deb8b1211c757fbc56dc1e6866c744b779f",
+    "url": "https://www.newsbreak.com/news/4798038365363-video-of-durham-nc-firefighters-sliding-down-pole-goes-viral",
+    "ord_in_thread": 0,
+    "author": "Kristen Johnson Source The News",
+    "published": "2026-07-29T07:00:00.000+03:00",
+    "title": "Video of Durham, NC, Firefighters Sliding Down Pole Goes Viral - NewsBreak",
+    "text": "By Kristen Johnson Source The News Observer (Raleigh) (TNS) ,\n23 hours ago When a handful of Durham firefighters slid down a firehouse pole for a social media video, they had no idea they be doing so to pop and Disney tunes — or that they’d become viral sensations. The Durham Fire Department recently posted a slow-motion video of its Ninth... Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Human Interest"
+    ],
+    "topics": [
+        "Human Interest->high society",
+        "Human Interest->celebrity"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.firehouse.com/careers-education/news/55394276/video-of-durham-nc-firefighters-sliding-down-pole-goes-viral",
+        "https://firehouse.com/careers-education/news/55394276/video-of-durham-nc-firefighters-sliding-down-pole-goes-viral"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kristen Johnson",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Raleigh",
+                "sentiment": "none"
+            },
+            {
+                "name": "NC",
+                "sentiment": "none"
+            },
+            {
+                "name": "Durham",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "TNS",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "The News Observer",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Disney",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "DIS",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Durham Fire Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Roxboro"
+            ],
+            "state": [
+                "North Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:07:35.195+03:00",
+    "updated": "2026-07-30T07:11:20.000+03:00"
+}

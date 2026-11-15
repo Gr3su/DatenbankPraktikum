@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "4329789e3e5701655590007dda69a0321991dfbc",
+        "url": "https://www.newsbreak.com/news/4465585287356-mpd-shooting-leaves-woman-critically-injured-in-westwood-area-2-men-wanted",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/west-memphis-ar",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "West Memphis, AR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "MPD: Shooting leaves woman critically injured in Westwood area; 2 men wanted - NewsBreak",
+        "title_full": "MPD: Shooting leaves woman critically injured in Westwood area; 2 men wanted - NewsBreak",
+        "published": "2026-01-29T02:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3XDHem_18QcwfcW00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-25T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4329789e3e5701655590007dda69a0321991dfbc",
+    "url": "https://www.newsbreak.com/news/4465585287356-mpd-shooting-leaves-woman-critically-injured-in-westwood-area-2-men-wanted",
+    "ord_in_thread": 0,
+    "author": "Lydian Coombs",
+    "published": "2026-01-29T02:03:00.000+02:00",
+    "title": "MPD: Shooting leaves woman critically injured in Westwood area; 2 men wanted - NewsBreak",
+    "text": "By Lydian Coombs ,\n5 hours ago MEMPHIS, Tenn. (WMC) - Two suspects last seen wearing all-black clothing are at large after a shooting in the Westwood area left a woman fighting for her life Wednesday evening, according to the Memphis Police Department. At 4:07 p.m., officers were dispatched to a shooting call on Ashford Road, located... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->shootings",
+        "Crime, Law and Justice->police"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lydian Coombs",
+                "sentiment": "negative"
+            },
+            {
+                "name": "WMC",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Westwood",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ashford Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Memphis Police Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "West Memphis"
+            ],
+            "state": [
+                "Arkansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-29T07:24:11.479+02:00",
+    "updated": "2026-01-29T07:28:58.000+02:00"
+}

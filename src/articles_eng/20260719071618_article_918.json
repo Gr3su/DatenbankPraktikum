@@ -1,0 +1,148 @@
+{
+    "thread": {
+        "uuid": "464165b2224ed6d13180704d49114b448d4181fd",
+        "url": "https://www.newsbreak.com/news/4772598352498-ann-stocker-to-receive-governor-s-volunteer-award",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/floris-ia",
+        "site_categories": [
+            "politics",
+            "human interest",
+            "sport",
+            "economy, business and finance",
+            "disaster and accident",
+            "under_construction",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "social issue",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Floris, IA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Ann Stocker to receive Governor's Volunteer Award - NewsBreak",
+        "title_full": "Ann Stocker to receive Governor's Volunteer Award - NewsBreak",
+        "published": "2026-07-16T00:45:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3B7KnB_1DKzA5ik00",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "464165b2224ed6d13180704d49114b448d4181fd",
+    "url": "https://www.newsbreak.com/news/4772598352498-ann-stocker-to-receive-governor-s-volunteer-award",
+    "ord_in_thread": 0,
+    "author": "Albia Newspapers",
+    "published": "2026-07-16T00:45:00.000+03:00",
+    "title": "Ann Stocker to receive Governor's Volunteer Award - NewsBreak",
+    "text": "6 hours ago Ann Stocker, SHIIP/SMP Counselor with Monroe County Hospital & Clinics will receive a Governor’s Volunteer Award. Governor Kim Reynolds will personally announce 2026 awardees during a special recognition ceremony held on July 14 at 1 p.m. at the Urbandale High School Performing Arts Center (7111 Aurora Ave, Urbandale, IA 50322). Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.albianews.com/news/article_e340cfb4-c4f6-48af-a951-6a24d55ed392.html",
+        "https://albianews.com/news/article_e340cfb4-c4f6-48af-a951-6a24d55ed392.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ann Stocker",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Kim Reynolds",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Aurora Ave",
+                "sentiment": "none"
+            },
+            {
+                "name": "IA",
+                "sentiment": "none"
+            },
+            {
+                "name": "Urbandale High School Performing Arts Center",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Monroe County Hospital & Clinics",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "SMP",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "SHIIP",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Floris"
+            ],
+            "state": [
+                "Iowa"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:44:14.490+03:00",
+    "updated": "2026-07-16T07:44:46.000+03:00"
+}

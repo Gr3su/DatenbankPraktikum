@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "2414c7d1d4a157deab01987a7f166161f3f9d41c",
+        "url": "https://www.newsbreak.com/news/4547163234652-city-council-passes-expanded-plastics-ban-on-first-reading",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/beaufort-sc",
+        "site_categories": [
+            "human interest",
+            "under_construction",
+            "sport",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "politics",
+            "crime, law and justice"
+        ],
+        "section_title": "Beaufort, SC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "City Council passes expanded plastics ban on first reading - NewsBreak",
+        "title_full": "City Council passes expanded plastics ban on first reading - NewsBreak",
+        "published": "2026-03-19T00:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1hlWoE_19jpW7Dq00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2414c7d1d4a157deab01987a7f166161f3f9d41c",
+    "url": "https://www.newsbreak.com/news/4547163234652-city-council-passes-expanded-plastics-ban-on-first-reading",
+    "ord_in_thread": 0,
+    "author": "yourislandnews.com",
+    "published": "2026-03-19T00:56:00.000+02:00",
+    "title": "City Council passes expanded plastics ban on first reading - NewsBreak",
+    "text": "6 hours ago The City of Beaufort’s City Council voted March 10 to pass amendments to the city’s single-use plastics ordinance on a first reading, making Beaufort the first municipality in Beaufort County to advance the measures. A second and final vote will be required before the rules take effect. The... Read full article\nRead in NewsBreak 2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Environment",
+        "Politics"
+    ],
+    "topics": [
+        "Environment->sustainability",
+        "Environment->waste materials",
+        "Politics->local government policy",
+        "Politics->environmental policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "City of Beaufort",
+                "sentiment": "none"
+            },
+            {
+                "name": "Beaufort County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "City Council",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Beaufort",
+                "Buford"
+            ],
+            "state": [
+                "South Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:25:17.452+02:00",
+    "updated": "2026-03-19T07:30:12.000+02:00"
+}

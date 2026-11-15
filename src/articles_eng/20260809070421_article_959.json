@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "853bea36d5e2a06c0d34846f5b1f95c195b65723",
+        "url": "https://www.newsbreak.com/news/4811396679818-cedric-the-entertainer-joins-wgn-morning-news",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/geneva-il",
+        "site_categories": [
+            "crime, law and justice",
+            "politics",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "human interest",
+            "arts, culture and entertainment",
+            "social issue",
+            "health",
+            "sport",
+            "under_construction"
+        ],
+        "section_title": "Geneva, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Cedric the Entertainer joins WGN Morning News - NewsBreak",
+        "title_full": "Cedric the Entertainer joins WGN Morning News - NewsBreak",
+        "published": "2026-08-05T22:05:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2lFRZk_1Dy45ER800",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "853bea36d5e2a06c0d34846f5b1f95c195b65723",
+    "url": "https://www.newsbreak.com/news/4811396679818-cedric-the-entertainer-joins-wgn-morning-news",
+    "ord_in_thread": 0,
+    "author": "Dan Ponce",
+    "published": "2026-08-05T22:05:00.000+03:00",
+    "title": "Cedric the Entertainer joins WGN Morning News - NewsBreak",
+    "text": "By Dan Ponce Robin Baumgarten ,\n9 hours ago You know Cedric the Entertainer from “The Neighborhood,” “The Last O.G.,” “The Proud Family”, “Barbershop” and so much more. He’s doing a one-night-only show, Saturday, August 8 at 8 p.m. at Paramount Theatre, in downtown Aurora. Cedric the Entertainer. August 8... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Education"
+    ],
+    "topics": [
+        "Education->educational grading"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://wgntv.com/morning-news/morning-news-guests/cedric-the-entertainer/amp/",
+        "https://www.wgntv.com/morning-news/morning-news-guests/cedric-the-entertainer/amp/",
+        "https://wgntv.com/morning-news/morning-news-guests/cedric-the-entertainer/amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dan Ponce Robin Baumgarten",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Cedric",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Aurora",
+                "sentiment": "none"
+            },
+            {
+                "name": "Paramount Theatre",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "The Neighborhood",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Barbershop",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Geneva"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:42:08.734+03:00",
+    "updated": "2026-08-06T07:44:33.000+03:00"
+}

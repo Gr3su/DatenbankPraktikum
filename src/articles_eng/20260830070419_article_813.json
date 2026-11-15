@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "c7aca619e8d39bf0b8b1f8925fab9efe83bbbc73",
+        "url": "https://local.newsbreak.com/news/4850933145396-santa-clara-co-regular-vta-light-rail-service-resumes-after-daylong-outage",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/alviso-ca",
+        "site_categories": [
+            "social issue",
+            "politics",
+            "disaster and accident",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "sport",
+            "economy, business and finance",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Alviso, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Santa Clara Co.: Regular Vta Light-Rail Service Resumes After Daylong Outage - NewsBreak",
+        "title_full": "Santa Clara Co.: Regular Vta Light-Rail Service Resumes After Daylong Outage - NewsBreak",
+        "published": "2026-08-26T14:11:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4EFya4_1EausN1p00",
+        "performance_score": 0,
+        "domain_rank": 3157,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c7aca619e8d39bf0b8b1f8925fab9efe83bbbc73",
+    "url": "https://local.newsbreak.com/news/4850933145396-santa-clara-co-regular-vta-light-rail-service-resumes-after-daylong-outage",
+    "ord_in_thread": 0,
+    "author": "SFGate",
+    "published": "2026-08-26T14:11:00.000+03:00",
+    "title": "Santa Clara Co.: Regular Vta Light-Rail Service Resumes After Daylong Outage - NewsBreak",
+    "text": "17 hours ago An electrical line issue cut power to four Santa Clara Valley Transportation Authority light-rail stations all day Tuesday, but power has since been restored and regular service has resumed, VTA officials said Wednesday morning. Article continues below this ad. The problem began affecting service at about 6 a.m. Tuesday on... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.sfgate.com/news/bayarea/article/santa-clara-co-regular-vta-light-rail-service-22404790.php",
+        "https://sfgate.com/news/bayarea/article/santa-clara-co-regular-vta-light-rail-service-22404790.php"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Santa Clara Valley Transportation Authority",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Santa Clara Co.",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "VTA",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:34:44.819+03:00",
+    "updated": "2026-08-27T07:39:24.000+03:00"
+}

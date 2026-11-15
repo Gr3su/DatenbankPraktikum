@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "a543cac7921aedb9ce453a1af3df93a59847ed22",
+        "url": "https://www.newsbreak.com/news/4862063006161-suspect-in-gilchrist-county-manhunt-faces-new-charges",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/steinhatchee-fl",
+        "site_categories": [
+            "sport",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "social issue",
+            "under_construction",
+            "crime, law and justice",
+            "human interest",
+            "politics",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Steinhatchee, FL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Suspect in Gilchrist County manhunt faces new charges - NewsBreak",
+        "title_full": "Suspect in Gilchrist County manhunt faces new charges - NewsBreak",
+        "published": "2026-09-02T06:01:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2Yl2eH_1Em7ORlP00",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a543cac7921aedb9ce453a1af3df93a59847ed22",
+    "url": "https://www.newsbreak.com/news/4862063006161-suspect-in-gilchrist-county-manhunt-faces-new-charges",
+    "ord_in_thread": 0,
+    "author": "WCJB Staff",
+    "published": "2026-09-02T06:01:00.000+03:00",
+    "title": "Suspect in Gilchrist County manhunt faces new charges - NewsBreak",
+    "text": "By WCJB Staff ,\n1 days ago TRENTON, Fla. (WCJB) - A suspect arrested after a monthlong manhunt in Gilchrist and Dixie counties faces new charges. Gilchrist County Sheriff’s deputies said they connected Terence Bartges Junior to four separate cases, including burglary, drug trafficking and vehicle theft. Bartges was arrested in Dixie County last month, the... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->investigation (criminal)",
+        "Crime, Law and Justice->kidnapping",
+        "Crime, Law and Justice->police"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wcjb.com/2026/09/02/suspect-gilchrist-county-manhunt-faces-new-charges/?outputType=amp",
+        "https://wcjb.com/2026/09/02/suspect-gilchrist-county-manhunt-faces-new-charges/?outputType=amp",
+        "https://www.wcjb.com/2026/09/02/suspect-gilchrist-county-manhunt-faces-new-charges/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Terence Bartges",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Gilchrist County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dixie County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WCJB",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Steinhatchee"
+            ],
+            "state": [
+                "Florida"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:07:21.014+03:00",
+    "updated": "2026-09-03T07:12:15.000+03:00"
+}

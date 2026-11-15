@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "a0cc24b938b77150cd0d6e94f5e2616b19ee6520",
+        "url": "https://www.newsbreak.com/news/4477344656652-people-are-losing-hope-niagara-falls-resident-concerned-about-section-8-waitlist",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/buffalo-ny",
+        "site_categories": [
+            "politics",
+            "under_construction",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "sport",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "human interest"
+        ],
+        "section_title": "Buffalo, NY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "'People are losing hope': Niagara Falls resident concerned about Section 8 waitlist - NewsBreak",
+        "title_full": "'People are losing hope': Niagara Falls resident concerned about Section 8 waitlist - NewsBreak",
+        "published": "2026-02-05T01:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1QuTID_18cTQIg000",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a0cc24b938b77150cd0d6e94f5e2616b19ee6520",
+    "url": "https://www.newsbreak.com/news/4477344656652-people-are-losing-hope-niagara-falls-resident-concerned-about-section-8-waitlist",
+    "ord_in_thread": 0,
+    "author": "Taylor Anthony",
+    "published": "2026-02-05T01:04:00.000+02:00",
+    "title": "'People are losing hope': Niagara Falls resident concerned about Section 8 waitlist - NewsBreak",
+    "text": "By Taylor Anthony ,\n6 hours ago NIAGARA FALLS, N.Y. (WKBW) — When Dorothy West learned the City of Niagara Falls’ Section 8 housing waitlist was closed, she said she immediately thought of the families she sees struggling every day, including herself. \"I’ve lived here my whole life,\" West said. \"I love the people here,... Read full article\nRead in NewsBreak 4",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue"
+    ],
+    "topics": [
+        "Social Issue->public housing",
+        "Social Issue->social services",
+        "Social Issue->homelessness"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dorothy West",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Taylor Anthony",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "N. Y.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Niagara Falls",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Buffalo"
+            ],
+            "state": [
+                "New York"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-05T07:16:23.953+02:00",
+    "updated": "2026-02-05T07:19:40.000+02:00"
+}

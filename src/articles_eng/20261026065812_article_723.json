@@ -1,0 +1,140 @@
+{
+    "thread": {
+        "uuid": "84cd0789f10cc124780a0fc091d7df8da86f416d",
+        "url": "https://www.hindustantimes.com/world-news/donald-trump-sidesteps-question-on-calling-elon-musk-as-zelenskyy-says-ukraine-starlink-speed-remains-unrestored-101792724292409.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://news.google.com/search?q=it%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "media",
+            "social issue",
+            "politics"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Hindustan Times: Breaking News, Latest News, India News, World News & Cricket Today's Headlines | Hindustan Times",
+        "title": "'He put it back': Trump sidesteps question on calling Musk as Zelenskyy says Ukraine's Starlink speed not fully restored | World News",
+        "title_full": "'He put it back': Trump sidesteps question on calling Musk as Zelenskyy says Ukraine's Starlink speed not fully restored | World News",
+        "published": "2026-10-23T07:11:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/10/23/1600x900/logo/donaldtrump_1792724469839_bA7f_1792724470065_X15J_dea7ab71-5299-4472-b914-3b6d9b13da41_Cr4b.jpg",
+        "performance_score": 0,
+        "domain_rank": 2738,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T04:40:00.000+00:00"
+        }
+    },
+    "uuid": "84cd0789f10cc124780a0fc091d7df8da86f416d",
+    "url": "https://www.hindustantimes.com/world-news/donald-trump-sidesteps-question-on-calling-elon-musk-as-zelenskyy-says-ukraine-starlink-speed-remains-unrestored-101792724292409.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-10-23T07:11:00.000+03:00",
+    "title": "'He put it back': Trump sidesteps question on calling Musk as Zelenskyy says Ukraine's Starlink speed not fully restored | World News",
+    "text": "Ukraine relies on Starlink to maintain satellite connectivity for drones\nA slowdown in SpaceX’s Starlink satellite network that disrupted Ukraine’s drone operations was triggered by an order from company's CEO Elon Musk, The Wall Street Journal reported on Tuesday, citing unnamed US officials and other sources. The move reportedly restricted Ukraine’s access to the satellite service, affecting the country’s ability to conduct both defensive and offensive drone missions against Russian forces.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->freedom of the press"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Zelenskyy",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Elon Musk",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Ukraine",
+                "sentiment": "none"
+            },
+            {
+                "name": "US",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "SpaceX",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "The Wall Street Journal",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "World News",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:23:19.246+03:00",
+    "updated": "2026-10-23T07:40:00.000+03:00",
+    "related_articles": null
+}

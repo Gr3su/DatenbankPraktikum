@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "cf10e228f5c0c8d14cd425c96c285b8fb441b7b3",
+        "url": "https://www.newsbreak.com/news/4773020826386-man-reported-missing-from-mesa",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/scottsdale-az",
+        "site_categories": [
+            "politics",
+            "economy, business and finance",
+            "human interest",
+            "disaster and accident",
+            "under_construction",
+            "sport",
+            "crime, law and justice",
+            "social issue",
+            "arts, culture and entertainment",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Scottsdale, AZ Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Man reported missing from Mesa - NewsBreak",
+        "title_full": "Man reported missing from Mesa - NewsBreak",
+        "published": "2026-07-16T06:19:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4Qib7T_1DLOzg7T00",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cf10e228f5c0c8d14cd425c96c285b8fb441b7b3",
+    "url": "https://www.newsbreak.com/news/4773020826386-man-reported-missing-from-mesa",
+    "ord_in_thread": 0,
+    "author": "AZFamily",
+    "published": "2026-07-16T06:19:00.000+03:00",
+    "title": "Man reported missing from Mesa - NewsBreak",
+    "text": "1 hours ago Robert Cathey, 66, was last seen on foot around 8 p.m. on July 14 near Banner Baywood Medical Center, according to Mesa Police. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->investigation (criminal)",
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.azfamily.com/video/2026/07/16/man-reported-missing-mesa/?outputType=amp",
+        "https://www.azfamily.com/video/2026/07/16/man-reported-missing-mesa/",
+        "https://azfamily.com/video/2026/07/16/man-reported-missing-mesa/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Robert Cathey",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Mesa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Banner Baywood",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Mesa Police",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Scottsdale"
+            ],
+            "state": [
+                "Arizona"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:41:17.022+03:00",
+    "updated": "2026-07-16T07:47:43.000+03:00"
+}

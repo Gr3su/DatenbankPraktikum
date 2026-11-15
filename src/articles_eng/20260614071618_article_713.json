@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "ac1bf2e2968fc5b42a785ef12613527cacb02532",
+        "url": "https://www.newsbreak.com/the-ann-arbor-news-512973/4703729495558-5-with-um-ties-arrested-in-fbi-raid-appear-in-federal-court-hours-later",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/the-ann-arbor-news-512973",
+        "site_categories": [
+            "politics",
+            "sport",
+            "disaster and accident",
+            "under_construction",
+            "economy, business and finance",
+            "human interest",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "The Ann Arbor News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "5 with UM ties arrested in FBI raid appear in federal court hours later - NewsBreak",
+        "title_full": "5 with UM ties arrested in FBI raid appear in federal court hours later - NewsBreak",
+        "published": "2026-06-11T03:25:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4V35Ik_1CEaMRtN00",
+        "performance_score": 0,
+        "domain_rank": 2951,
+        "domain_rank_updated": "2026-06-08T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ac1bf2e2968fc5b42a785ef12613527cacb02532",
+    "url": "https://www.newsbreak.com/the-ann-arbor-news-512973/4703729495558-5-with-um-ties-arrested-in-fbi-raid-appear-in-federal-court-hours-later",
+    "ord_in_thread": 0,
+    "author": "Sam Jane",
+    "published": "2026-06-11T03:25:00.000+03:00",
+    "title": "5 with UM ties arrested in FBI raid appear in federal court hours later - NewsBreak",
+    "text": "By Sam Jane ,\n10 hours ago DETROIT, MI — Five of the eight people arrested Wednesday, June 10 in connection with pro-Palestinian advocacy at the University of Michigan made their initial appearances in federal court later Wednesday. Four of them will remain in custody until at least 1 p.m. on Friday, June 10, at which... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Social Issue->abusive behaviour",
+        "Social Issue->immigration",
+        "Social Issue->diversity, equity and inclusion",
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->investigation (criminal)",
+        "Crime, Law and Justice->law enforcement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.mlive.com/news/ann-arbor/2026/06/5-appear-in-federal-court-after-arrests-tied-to-propalestinian-advocacy-at-um.html?outputType=amp",
+        "https://mlive.com/news/ann-arbor/2026/06/5-appear-in-federal-court-after-arrests-tied-to-propalestinian-advocacy-at-um.html?outputType=amp",
+        "https://www.mlive.com/news/ann-arbor/2026/06/5-appear-in-federal-court-after-arrests-tied-to-propalestinian-advocacy-at-um.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sam Jane",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "UM",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "FBI",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "University of Michigan",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-11T07:40:23.705+03:00",
+    "updated": "2026-06-11T16:44:26.000+03:00"
+}

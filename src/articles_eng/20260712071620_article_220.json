@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "950362ec48a204009468bc348ead5e53da1d7653",
+        "url": "https://www.newsbreak.com/news/4759571252341-driver-crashes-into-north-side-usps-post-office-prompting-temporary-shutdown",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/san-antonio-tx",
+        "site_categories": [
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "under_construction",
+            "sport",
+            "disaster and accident",
+            "human interest",
+            "social issue"
+        ],
+        "section_title": "San Antonio, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Driver crashes into North Side USPS post office, prompting temporary shutdown - NewsBreak",
+        "title_full": "Driver crashes into North Side USPS post office, prompting temporary shutdown - NewsBreak",
+        "published": "2026-07-09T04:35:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2pBiKn_1D7rCUXA00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "950362ec48a204009468bc348ead5e53da1d7653",
+    "url": "https://www.newsbreak.com/news/4759571252341-driver-crashes-into-north-side-usps-post-office-prompting-temporary-shutdown",
+    "ord_in_thread": 0,
+    "author": "Natali Castillo",
+    "published": "2026-07-09T04:35:00.000+03:00",
+    "title": "Driver crashes into North Side USPS post office, prompting temporary shutdown - NewsBreak",
+    "text": "By Natali Castillo ,\n2 hours ago SAN ANTONIO — A United States Post Office on the North Side is temporarily closed after a driver accidentally crashed their car into the building on Wednesday. A spokesperson with the United States Postal Service said the front lobby area was damaged at the Lockhill Post Office along Huebner road. Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->police",
+        "Crime, Law and Justice->assault",
+        "Crime, Law and Justice->fraud"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://news4sanantonio.com/news/local/driver-crashes-into-north-side-usps-post-office-prompting-temporary-shutdown",
+        "https://www.news4sanantonio.com/news/local/driver-crashes-into-north-side-usps-post-office-prompting-temporary-shutdown"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Natali Castillo",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "North Side",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "United States Post Office",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Lockhill Post Office",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "United States Postal Service",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:22:32.864+03:00",
+    "updated": "2026-07-09T07:30:20.000+03:00"
+}

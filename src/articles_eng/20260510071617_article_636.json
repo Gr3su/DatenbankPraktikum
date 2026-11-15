@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "b00da5cec7c8e689d64ec1240953e3fc6a4962fd",
+        "url": "https://www.redlakenationnews.com/story/2026/05/07/news/shakopee-amphitheater-announces-all-minnesotan-opening-show/140077.html",
+        "site_full": "www.redlakenationnews.com",
+        "site": "redlakenationnews.com",
+        "site_section": "https://news.google.com/search?q=all%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "crime, law and justice",
+            "politics",
+            "media",
+            "social issue"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": null,
+        "title": "Shakopee amphitheater announces all-Minnesotan opening show - Red Lake Nation News",
+        "title_full": "Shakopee amphitheater announces all-Minnesotan opening show - Red Lake Nation News",
+        "published": "2026-05-07T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.redlakenationnews.com/home/cms_data/dfault/photos/stories/id/7/7/140077/s_top",
+        "performance_score": 0,
+        "domain_rank": 530734,
+        "domain_rank_updated": "2026-05-04T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b00da5cec7c8e689d64ec1240953e3fc6a4962fd",
+    "url": "https://www.redlakenationnews.com/story/2026/05/07/news/shakopee-amphitheater-announces-all-minnesotan-opening-show/140077.html",
+    "ord_in_thread": 0,
+    "author": "Red Lake Nation News",
+    "published": "2026-05-07T03:00:00.000+03:00",
+    "title": "Shakopee amphitheater announces all-Minnesotan opening show - Red Lake Nation News",
+    "text": "Shakopee amphitheater announces all-Minnesotan opening show\nMotion City Soundtrack, Ber and more will play a $20 concert on June 20 at the Live Nation-run Mystic Lake Amphitheater.\nGlobal concert giant Live Nation is turning to some homegrown Minnesota acts to officially open its first amphitheater in Minnesota.\nMotion City Soundtrack, Ber, Rocket Club and one headliner yet to be announced are lined up to play an all-local opening-night celebration at Mystic Lake Amphitheater on June 20, two days before the new Shakopee venue's first official tour booking with rap-rocker MGK (fka Machine Gun Kelly).\nNew \"SNL\" cast member Tommy Brennan, a St. Paul native, will serve as an emcee for the event.",
+    "summary": "Shakopee amphitheater announces all-Minnesotan opening show Motion City Soundtrack, Ber and more will play a $20 concert on June 20 at the Live Nation-run Mystic Lake Amphitheater. Global concert giant Live Nation is turning to some homegrown Minnesota acts to officially open its first amphitheater in Minnesota. Motion City Soundtrack, Ber, Rocket Club and one headliner yet to be announced are lined up to play an all-local opening-night celebration at Mystic Lake Amphitheater on June 20, two days before the new Shakopee venue's first official tour booking with rap-rocker MGK (fka Machine Gun Kelly).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+        "Arts, Culture and Entertainment->news media",
+        "Arts, Culture and Entertainment->music"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Mystic Lake Amphitheater",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shakopee",
+                "sentiment": "none"
+            },
+            {
+                "name": "Minnesota",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Red Lake Nation News",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Live Nation",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "LYV",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Red Lake"
+            ],
+            "state": [
+                "Minnesota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-07T07:33:58.887+03:00",
+    "updated": "2026-05-07T07:41:00.000+03:00"
+}

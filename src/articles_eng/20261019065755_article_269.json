@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "e1774937a7d04066f50e44b16b99202871f25fe2",
+        "url": "https://www.newsbreak.com/news/4948419838003-update-searcy-not-eligible-to-apply-for-grant-for-high-tech-crime-unit",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/rose-bud-ar",
+        "site_categories": [
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "under_construction",
+            "sport",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "Rose Bud, AR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "UPDATE: Searcy not eligible to apply for grant for High Tech Crime Unit - NewsBreak",
+        "title_full": "UPDATE: Searcy not eligible to apply for grant for High Tech Crime Unit - NewsBreak",
+        "published": "2026-10-16T01:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/021IRu_1G98Kquz00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:10:14.688+03:00"
+        }
+    },
+    "uuid": "e1774937a7d04066f50e44b16b99202871f25fe2",
+    "url": "https://www.newsbreak.com/news/4948419838003-update-searcy-not-eligible-to-apply-for-grant-for-high-tech-crime-unit",
+    "ord_in_thread": 0,
+    "author": "Greg Geary ggeary@whitecountycitizen.com",
+    "published": "2026-10-16T01:00:00.000+03:00",
+    "title": "UPDATE: Searcy not eligible to apply for grant for High Tech Crime Unit - NewsBreak",
+    "text": "By Greg Geary ggeary@whitecountycitizen.com ,\n6 hours ago UPDATE: The city of Searcy found out before Tuesday's Searcy City Council meeting that it was not eligible for the $4.5 million grant. Police Chief Steve Hernandez said Thursday night that \"I hate that the city wasn't eligible. [Detective Jon] Stone found the grant last minute and put it all together at deadline.\" He said Searcy Grants Coordinator Debbie Smith \"was able to do her magic and see that we couldn't apply.\" Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.whitecountycitizen.com/news/high-tech-crime-unit-eyed-by-searcy-if-city-receives-4-5-million-federal-grant/article_5c48fe0c-ed51-5623-9b02-7e99ac585a4e.html",
+        "https://whitecountycitizen.com/news/high-tech-crime-unit-eyed-by-searcy-if-city-receives-4-5-million-federal-grant/article_5c48fe0c-ed51-5623-9b02-7e99ac585a4e.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Steve Hernandez",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Greg Geary",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Jon",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Stone",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Debbie Smith",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Searcy",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Searcy City Council",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Rose Bud"
+            ],
+            "state": [
+                "Arkansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:10:14.688+03:00",
+    "updated": "2026-10-16T07:13:00.000+03:00",
+    "related_articles": null
+}

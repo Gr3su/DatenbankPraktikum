@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "8ae2c8125147c41d5299f2cdd0a954d02246a446",
+        "url": "https://beaverstatenews.com/google-files-lawsuit-against-alleged-ai-scam-ring-targeting-hundreds-of-thousands/",
+        "site_full": "beaverstatenews.com",
+        "site": "beaverstatenews.com",
+        "site_section": "https://beaverstatenews.com/",
+        "site_categories": [
+            "science and technology",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "politics",
+            "environment",
+            "crime, law and justice",
+            "sport"
+        ],
+        "section_title": "Home - Beaver State News",
+        "site_title": "Home - Beaver State News",
+        "title": "Google files lawsuit against alleged AI scam ring targeting hundreds of thousands",
+        "title_full": "Google files lawsuit against alleged AI scam ring targeting hundreds of thousands",
+        "published": "2026-06-17T23:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://d33ioocfz0fzi4.cloudfront.net/jns-media/d8/5f/27685046/webp_12doeyp6q0le6ekgbh9bbxmcg3ai.webp",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8ae2c8125147c41d5299f2cdd0a954d02246a446",
+    "url": "https://beaverstatenews.com/google-files-lawsuit-against-alleged-ai-scam-ring-targeting-hundreds-of-thousands/",
+    "ord_in_thread": 0,
+    "author": "beaver state news",
+    "published": "2026-06-17T23:00:00.000+03:00",
+    "title": "Google files lawsuit against alleged AI scam ring targeting hundreds of thousands",
+    "text": "Google has filed a lawsuit over what it described as a large-scale scam operation that used artificial intelligence to send deceptive text messages and direct people to lookalike websites designed to harvest passwords and payment details, according to a June 17 announcement.\nThe company said the scheme operated on a significant scale, affecting hundreds of thousands of people. In its suit, Google accuses Outsider Enterprise of conducting phishing campaigns while impersonating Google and other well-known companies. The operation was reportedly linked to 9,000 spoofed websites, approximately 1 million sham domains, and about 2.5 million scam texts sent to Android users within roughly two weeks.\nGoogle stated that the scheme resulted in losses estimated in the millions and characterized Outsider as an online software suite enabling criminals with varying technical skills to quickly create phishing pages. The software package allegedly costs as little as $88 per week and includes more than 290 templates mimicking financial institutions, retailers, telecom providers, and government agencies. Google further alleged that participants organized openly on Telegram and used AI tools—including Google’s own Gemini—to produce fake pages more efficiently.\nThe company said that because these messages can appear to come from familiar companies, recipients may unknowingly provide login credentials or credit card information before realizing it is a scam. According to Google, “55,000 spam texts were flagged by Android users in just two weeks this past May — that’s more than two text spam complaints a minute.” An FBI spokesperson told TechCrunch that Outsider Enterprise’s platform enabled cybercriminals since July 2023 to steal “at least an estimated 3,870,000 stolen credit cards and a corresponding estimated $1.9B in losses.”\nTo combat such scams, Google said it is deploying “AI-powered tools to fight AI-powered scams,” including systems designed to detect suspicious calls and texts before they reach users. The company reported that these defenses now intercept over 10 billion scam messages each month. Additionally, Google has been working with AT&T, T-Mobile, Verizon, and the FBI on efforts such as blocking malicious text campaigns.\nAn FBI spokesperson said the bureau worked with Google and Lumen’s Black Lotus Labs to seize multiple domains tied to the cybercriminals, along with Shopify storefronts used for testing phishing services.",
+    "summary": "Google has filed a lawsuit over what it described as a large-scale scam operation that used artificial intelligence to send deceptive text messages and direct people to lookalike websites designed to harvest passwords and payment details, according to a June 17 announcement. Google stated that the scheme resulted in losses estimated in the millions and characterized Outsider as an online software suite enabling criminals with varying technical skills to quickly create phishing pages. The software package allegedly costs as little as $88 per week and includes more than 290 templates mimicking financial institutions, retailers, telecom providers, and government agencies.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Beaver"
+            ],
+            "state": [
+                "Oregon"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-18T07:51:01.570+03:00",
+    "updated": "2026-06-18T07:51:16.000+03:00"
+}

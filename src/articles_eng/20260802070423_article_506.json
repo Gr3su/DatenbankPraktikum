@@ -1,0 +1,156 @@
+{
+    "thread": {
+        "uuid": "c988398234acd43c2b4170d803d43cf91dc0ef25",
+        "url": "https://www.newsbreak.com/news/4798444430773-barnes-noble-renovation-underway-at-chapel-hill-s-university-place",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/chapel-hill-nc",
+        "site_categories": [
+            "social issue",
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "disaster and accident",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "sport",
+            "politics",
+            "crime, law and justice"
+        ],
+        "section_title": "Chapel Hill, NC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Barnes & Noble Renovation Underway at Chapel Hill's University Place - NewsBreak",
+        "title_full": "Barnes & Noble Renovation Underway at Chapel Hill's University Place - NewsBreak",
+        "published": "2026-07-29T21:20:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2bT1Iz_1Dl0szBS00",
+        "performance_score": 0,
+        "domain_rank": 3090,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c988398234acd43c2b4170d803d43cf91dc0ef25",
+    "url": "https://www.newsbreak.com/news/4798444430773-barnes-noble-renovation-underway-at-chapel-hill-s-university-place",
+    "ord_in_thread": 0,
+    "author": "Charmain Pieterse",
+    "published": "2026-07-29T21:20:00.000+03:00",
+    "title": "Barnes & Noble Renovation Underway at Chapel Hill's University Place - NewsBreak",
+    "text": "By Charmain Pieterse ,\n9 hours ago Barnes & Noble is moving forward with its new Chapel Hill location at University Place, 201 S. Estes Dr. #200A, according to an Instagram post by local creator LifeStylewithLouis’a. Renovations are currently underway inside the former Planet Fitness space. According to the Raleigh News & Observer, the new bookstore... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Arts, Culture and Entertainment"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://whatnow.com/charlotte/retail/barnes-noble-renovation-underway-at-chapel-hills-university-place/",
+        "https://www.whatnow.com/charlotte/retail/barnes-noble-renovation-underway-at-chapel-hills-university-place/",
+        "https://whatnow.com/charlotte/retail/barnes-noble-renovation-underway-at-chapel-hills-university-place"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Charmain Pieterse",
+                "sentiment": "positive"
+            }
+        ],
+        "locations": [
+            {
+                "name": "University Place",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chapel Hill",
+                "sentiment": "none"
+            },
+            {
+                "name": "S. Estes",
+                "sentiment": "none"
+            },
+            {
+                "name": "Planet Fitness",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Barnes & Noble",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Raleigh News & Observer",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "LifeStylewithLouis",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Chapel Hill"
+            ],
+            "state": [
+                "North Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:20:18.839+03:00",
+    "updated": "2026-07-30T07:21:55.000+03:00"
+}

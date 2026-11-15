@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "e0e923b79921294ec17d653c55e6d4391ed8a295",
+        "url": "https://www.newsbreak.com/news/4933188743009-report-of-person-missing-from-personal-watercraft-near-rickenbacker-causeway-unfounded",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/pembroke-pines-fl",
+        "site_categories": [
+            "economy, business and finance",
+            "under_construction",
+            "science and technology",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Pembroke Pines, FL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Report of person missing from personal watercraft near Rickenbacker Causeway unfounded - NewsBreak",
+        "title_full": "Report of person missing from personal watercraft near Rickenbacker Causeway unfounded - NewsBreak",
+        "published": "2026-10-08T17:44:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/24G2I9_1FunSvQN00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:07:11.300+03:00"
+        }
+    },
+    "uuid": "e0e923b79921294ec17d653c55e6d4391ed8a295",
+    "url": "https://www.newsbreak.com/news/4933188743009-report-of-person-missing-from-personal-watercraft-near-rickenbacker-causeway-unfounded",
+    "ord_in_thread": 0,
+    "author": "NBC6",
+    "published": "2026-10-08T17:44:00.000+03:00",
+    "title": "Report of person missing from personal watercraft near Rickenbacker Causeway unfounded - NewsBreak",
+    "text": "By NBC6 ,\n13 hours ago A search near the Rickenbacker Causeway after a person reportedly went missing from a personal watercraft Thursday ended after the call was unfounded, authorities said. Miami-Dade Fire Rescue officials said crews to the area for reports of a person missing from a personal watercraft. Aerial footage from Chopper 6 showed... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Human Interest"
+    ],
+    "topics": [
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nbcmiami.com/news/local/person-reportedly-missing-from-personal-watercraft-near-rickenbacker-causeway/3870317/?amp=1",
+        "https://www.nbcmiami.com/news/local/person-reportedly-missing-from-personal-watercraft-near-rickenbacker-causeway/3870317/",
+        "https://nbcmiami.com/news/local/person-reportedly-missing-from-personal-watercraft-near-rickenbacker-causeway/3870317/?amp=1"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Rickenbacker Causeway",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Miami - Dade Fire Rescue",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Pembroke Pines"
+            ],
+            "state": [
+                "Florida"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:07:11.300+03:00",
+    "updated": "2026-10-09T07:08:53.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,115 @@
+{
+    "thread": {
+        "uuid": "ab3dfbbae9aee83effe6b4e42af4f68ddb77ab88",
+        "url": "https://www.newsbreak.com/news/4307622405340-authorities-investigate-male-death-at-east-st-louis-park",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/maryland-matters",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Maryland Heights, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Authorities Investigate Male Death at East St. Louis Park - NewsBreak",
+        "title_full": "Authorities Investigate Male Death at East St. Louis Park - NewsBreak",
+        "published": "2025-10-22T23:17:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/33iUeT_15uSQuaw00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-10-20T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ab3dfbbae9aee83effe6b4e42af4f68ddb77ab88",
+    "url": "https://www.newsbreak.com/news/4307622405340-authorities-investigate-male-death-at-east-st-louis-park",
+    "ord_in_thread": 0,
+    "author": "Dan Brannan",
+    "published": "2025-10-22T23:17:00.000+03:00",
+    "title": "Authorities Investigate Male Death at East St. Louis Park - NewsBreak",
+    "text": "By Dan Brannan ,\n8 hours ago EAST ST. LOUIS — Authorities are investigating the death of a male found in Frank Holten State Park in East Saint Louis, officials said Wednesday, Oct. 22, 2025. The Illinois State Police Division of Criminal Investigation Zone 6 Public Safety Enforcement Group responded to the scene at approximately 10:21 a.m. Wednesday, after being requested by the Cahokia Heights Police Department to conduct a death investigation. Read full article\nRead in NewsBreak 1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->investigation (criminal)"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dan Brannan",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "East St. Louis Park - NewsBreak",
+                "sentiment": "none"
+            },
+            {
+                "name": "Frank Holten State Park",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Cahokia Heights Police Department",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Public Safety Enforcement Group",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "ab3dfbbae9aee83effe6b4e42af4f68ddb77ab88",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-23T07:40:28.002+03:00",
+    "updated": "2025-10-23T07:45:03.000+03:00"
+}

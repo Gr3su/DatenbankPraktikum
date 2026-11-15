@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "0f6b72ea8267db2ecb73231bd1c1ed665851ba46",
+        "url": "https://www.foxnews.com/video/6406516484112",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://news.google.com/search?q=by%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+        "site_categories": [
+            "sport",
+            "media",
+            "social issue",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "NASA plans to land astronauts on the Moon by 2028 | Fox News Video",
+        "title_full": "NASA plans to land astronauts on the Moon by 2028 | Fox News Video",
+        "published": "2026-10-09T06:55:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b743b7e7-dcba-4520-ace4-93b999b98a3f/fd8884eb-b31f-4439-86ac-6e4ca30bbd5a/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+        "performance_score": 0,
+        "domain_rank": 531,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:05:12.885+03:00"
+        }
+    },
+    "uuid": "0f6b72ea8267db2ecb73231bd1c1ed665851ba46",
+    "url": "https://www.foxnews.com/video/6406516484112",
+    "ord_in_thread": 0,
+    "author": "@foxnews",
+    "published": "2026-10-09T06:55:00.000+03:00",
+    "title": "NASA plans to land astronauts on the Moon by 2028 | Fox News Video",
+    "text": "Log in to comment on videos and join in on the fun.\nWatch the live stream of Fox News and full episodes.\nReduce eye strain and focus on the content that matters.\nFormer NASA astronauts Butch Wilmore and Clayton Anderson break down what the Dragon SpaceX Crew-12 learned during its monthslong journey on ‘Fox News @ Night.’",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->aerospace engineering",
+        "Science and Technology->scientific research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Clayton Anderson",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Butch Wilmore",
+                "sentiment": "positive"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Moon",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NASA",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Fox News",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "FOX",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_us",
+            "top_news"
+        ],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:05:12.885+03:00",
+    "updated": "2026-10-09T07:20:47.000+03:00",
+    "related_articles": null
+}

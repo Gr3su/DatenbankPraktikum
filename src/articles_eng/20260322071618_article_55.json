@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "fed080716d1c04948484ccaecf2fd3c710c38f13",
+        "url": "https://time.news/tennis-robot-ai-powered-bot-plays-with-impressive-accuracy/",
+        "site_full": "time.news",
+        "site": "time.news",
+        "site_section": "https://time.news/feed/",
+        "site_categories": [],
+        "section_title": "Time News",
+        "site_title": "TIme News - time.news",
+        "title": "Tennis Robot: AI-Powered Bot Plays with Impressive Accuracy",
+        "title_full": "Tennis Robot: AI-Powered Bot Plays with Impressive Accuracy",
+        "published": "2026-03-19T07:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "http://q4.itc.cn/q_70/images03/20260319/7c8ec54651944b3899a9e241672aef2a.jpeg",
+        "performance_score": 0,
+        "domain_rank": 416973,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fed080716d1c04948484ccaecf2fd3c710c38f13",
+    "url": "https://time.news/tennis-robot-ai-powered-bot-plays-with-impressive-accuracy/",
+    "ord_in_thread": 0,
+    "author": "Liam O'Connor",
+    "published": "2026-03-19T07:08:00.000+02:00",
+    "title": "Tennis Robot: AI-Powered Bot Plays with Impressive Accuracy",
+    "text": "A video circulating online showing a humanoid robot playing tennis has captured the attention of the tech world – and even Elon Musk. The robot, developed by Chinese AI company Galbot, demonstrates a surprising level of athleticism and precision, raising questions about the future of sports and the increasing capabilities of artificial intelligence. This demonstration of a humanoid robot playing tennis marks a significant step forward in robotics and AI development.\nThe robot, a Unitree G1 model, can sustain “high-dynamic, long-horizon tennis rallies with millisecond-level reactions, precise ball striking, and natural whole-body motion,” according to Galbot’s post on X (formerly Twitter). The company describes this as a “leap from mechanical motion imitation to intelligent, decision-driven athletic interaction.” The video, which quickly went viral, shows the white robot returning serves and engaging in rallies with a human engineer.\nThe software powering this athletic feat is called LATENT (Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data). Galbot claims it’s the world’s first real-time whole-body planning and control algorithm specifically designed for athletic humanoids playing tennis. What sets LATENT apart is its ability to learn from “imperfect human motion data” – essentially, fragments of movements like forehand swings, backhand strokes, and footwork – rather than relying on pristine motion capture data from professional matches. The system then stitches these fragments together and figures out how to combine them in real time to react to the unpredictable nature of a tennis game.\nHow the Robot Learns to Play\nThe challenge in teaching a robot to play tennis lies in the dynamic and unpredictable nature of the sport. Unlike pre-programmed robotic movements, a tennis player must react to a constantly changing ball trajectory and adjust their position accordingly. LATENT addresses this by breaking down the complex task into smaller, manageable components. The robot doesn’t attempt to mimic a perfect tennis player from the start; instead, it learns a library of basic movements and then combines them strategically based on the incoming ball’s trajectory. This approach allows for adaptability and real-time decision-making.\nResearchers found that relying on “imperfect human motion data” was key to the robot’s success. According to a paper by Galbot, using fragments of human movement – forehand swings, backhand strokes, and basic footwork – allowed the robot to build a foundation of skills without the need for extensive, perfectly captured data from professional tennis matches. This is a significant advancement, as obtaining such data can be costly and time-consuming.\nThe Rise of Athletic Humanoid Robots\nThis isn’t the first instance of robots demonstrating athletic capabilities, but it’s a notable step forward in humanoid robotics. Previously, robots have excelled at tasks requiring precision and repetition, like factory function or surgery. However, achieving fluid, dynamic movement in a complex, real-world environment like a tennis court is a much greater challenge. The New York Post reported on the video, highlighting the robot’s ability to “hold its own” against a human opponent.\nThe Unitree G1 robot’s tennis skills have sparked debate about the future of sports and the potential for AI to enhance human athletic performance. The Times of India notes that the robot’s precision has sparked a wider conversation about the future of sports.\nUnitree and Galbot: The Companies Behind the Technology\nUnitree Robotics is a Chinese company specializing in the development of quadruped robots, like the G1. Galbot, the company responsible for the LATENT software, focuses on AI-powered robotics and athletic applications. The collaboration between these two companies has resulted in a groundbreaking demonstration of what’s possible when AI and robotics are combined.\nA video breakdown of the robot’s capabilities is available on YouTube, further illustrating its movements and the technology behind them.\nWhat’s Next for Robotic Athletes?\nGalbot has not announced specific plans for commercializing the LATENT software or the tennis-playing robot. However, the successful demonstration suggests potential applications beyond sports, such as physical therapy, rehabilitation, and even search and rescue operations. The company is expected to publish a peer-reviewed paper detailing the LATENT system, which will provide further insights into its capabilities, and limitations.\nThe development of athletic humanoid robots like the Unitree G1 represents a significant milestone in the field of robotics. As AI and robotics technologies continue to advance, we can expect to see even more sophisticated and capable robots emerge, blurring the lines between human and machine athleticism. The next step for Galbot is the publication of their peer-reviewed paper detailing the LATENT system.\nWhat do you think about the rise of robotic athletes? Share your thoughts in the comments below.",
+    "summary": "The robot, developed by Chinese AI company Galbot, demonstrates a surprising level of athleticism and precision, raising questions about the future of sports and the increasing capabilities of artificial intelligence. The robot, a Unitree G1 model, can sustain “high-dynamic, long-horizon tennis rallies with millisecond-level reactions, precise ball striking, and natural whole-body motion,” according to Galbot’s post on X (formerly Twitter). The company describes this as a “leap from mechanical motion imitation to intelligent, decision-driven athletic interaction.” The video, which quickly went viral, shows the white robot returning serves and engaging in rallies with a human engineer.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeHgtVUZzeHV1RDduYjg0VE82YjhhTnRFVmNEMklMRXZkaU8yUV9KbTZBWlRtNDdqTEx0V1hha29WajdORURnUkFPcS0xM3Fha1duZE5oeFBUbTFFWXJjTUF2QW9FSFU0SE9UUG1scW9VM09IejFwOHJrUjAyME5zYi1VN3QwVHVuSTZyWWxmWVNiQXFMcWxGb0RKUHlFOWdHV29OeFBiMmZyMVlnYkFMNUdTVXYwendCN0tIbWt0cnVTZ3dkSm9rMDRKV3k5TVlVRG9idU43cXJpZVUzN2tSbWJBeTQxQ1F2ZUhER2VvNGg0UdIB9wFBVV95cUxQRFI5emQxTGIwUFZ2Y3FMRERxSGVUNERnOUg2TXFIUEhWajNUcF9UdGhZUzBMMUhZcVUyTVBrdl9JOXlSU1lBc1RyenA5alRpMHZiN2dWMGg3OHZVamRta0g1d2w4SlU5LXhibjBMMExqaXVxcGF5clRyemtTclhSV1ZUS2RsdWJtMFN6TVN4N0JNVjRvTDMyUTFCbzZZSGZaUDliRjY3TGo3cVFsVnlmTnpsVC1UM0RKNVRjTHFRdjQxNFUzUVlhcW1PQUpsYPA8",
+        "https://nypost.com/2026/03/17/tech/humanoid-robot-seen-playing-tennis-with-humans-in-video/",
+        "https://www.nypost.com/2026/03/17/tech/humanoid-robot-seen-playing-tennis-with-humans-in-video/",
+        "https://www.news.google.com/rss/articles/CBMi8gFBVV95cUxQeHgtVUZzeHV1RDduYjg0VE82YjhhTnRFVmNEMklMRXZkaU8yUV9KbTZBWlRtNDdqTEx0V1hha29WajdORURnUkFPcS0xM3Fha1duZE5oeFBUbTFFWXJjTUF2QW9FSFU0SE9UUG1scW9VM09IejFwOHJrUjAyME5zYi1VN3QwVHVuSTZyWWxmWVNiQXFMcWxGb0RKUHlFOWdHV29OeFBiMmZyMVlnYkFMNUdTVXYwendCN0tIbWt0cnVTZ3dkSm9rMDRKV3k5TVlVRG9idU43cXJpZVUzN2tSbWJBeTQxQ1F2ZUhER2VvNGg0UdIB9wFBVV95cUxQRFI5emQxTGIwUFZ2Y3FMRERxSGVUNERnOUg2TXFIUEhWajNUcF9UdGhZUzBMMUhZcVUyTVBrdl9JOXlSU1lBc1RyenA5alRpMHZiN2dWMGg3OHZVamRta0g1d2w4SlU5LXhibjBMMExqaXVxcGF5clRyemtTclhSV1ZUS2RsdWJtMFN6TVN4N0JNVjRvTDMyUTFCbzZZSGZaUDliRjY3TGo3cVFsVnlmTnpsVC1UM0RKNVRjTHFRdjQxNFUzUVlhcW1PQUpsYPA8",
+        "https://nypost.com/2026/03/17/tech/humanoid-robot-seen-playing-tennis-with-humans-in-video"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Elon Musk",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Galbot",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:17:55.316+02:00",
+    "updated": "2026-03-19T07:17:55.316+02:00"
+}

@@ -1,0 +1,153 @@
+{
+    "thread": {
+        "uuid": "4a7cfc7a98be0abf5bb67c8f2e564eac00b43f02",
+        "url": "https://www.newsbreak.com/news/4811830606987-missouri-state-football-commit-charged-in-houston-attempted-armored-truck-robbery",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/pasadena-tx",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "social issue",
+            "sport",
+            "crime, law and justice",
+            "human interest",
+            "politics",
+            "under_construction",
+            "health"
+        ],
+        "section_title": "Pasadena, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Missouri State football commit charged in Houston attempted armored truck robbery - NewsBreak",
+        "title_full": "Missouri State football commit charged in Houston attempted armored truck robbery - NewsBreak",
+        "published": "2026-08-06T02:45:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/26bOxE_1DyVdcWz00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4a7cfc7a98be0abf5bb67c8f2e564eac00b43f02",
+    "url": "https://www.newsbreak.com/news/4811830606987-missouri-state-football-commit-charged-in-houston-attempted-armored-truck-robbery",
+    "ord_in_thread": 0,
+    "author": "Click2Houston.com",
+    "published": "2026-08-06T02:45:00.000+03:00",
+    "title": "Missouri State football commit charged in Houston attempted armored truck robbery - NewsBreak",
+    "text": "4 hours ago HOUSTON – Two teenagers and a 20-year-old woman have been charged in an attempted armored truck robbery on Bellaire Boulevard on Tuesday afternoon, according to the Houston Police Department. Ayden Bazy, 17, and Danaya Pope, 20, are both facing felony charges in connection with the robbery, police said. A... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.click2houston.com/news/local/2026/08/05/missouri-state-football-commit-charged-in-houston-attempted-armored-truck-robbery/",
+        "https://click2houston.com/news/local/2026/08/05/missouri-state-football-commit-charged-in-houston-attempted-armored-truck-robbery/",
+        "https://www.click2houston.com/news/local/2026/08/05/missouri-state-football-commit-charged-in-houston-attempted-armored-truck-robbery"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Danaya Pope",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ayden Bazy",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Missouri State",
+                "sentiment": "none"
+            },
+            {
+                "name": "Houston",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bellaire Boulevard",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Houston Police Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Pasadena"
+            ],
+            "state": [
+                "Texas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:35:03.005+03:00",
+    "updated": "2026-08-06T07:51:37.000+03:00"
+}

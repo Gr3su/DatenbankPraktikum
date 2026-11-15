@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "43faecb78b90c0d99352beabc715dd0ee319cdb8",
+        "url": "https://www.newsbreak.com/news/4850979403738-man-arrested-on-fraud-charges-in-providence",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/providence-ri",
+        "site_categories": [
+            "economy, business and finance",
+            "social issue",
+            "politics",
+            "human interest",
+            "sport",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "science and technology",
+            "under_construction",
+            "crime, law and justice"
+        ],
+        "section_title": "Providence, RI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Man arrested on fraud charges in Providence - NewsBreak",
+        "title_full": "Man arrested on fraud charges in Providence - NewsBreak",
+        "published": "2026-08-26T21:53:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1denNl_1EaxoMxD00",
+        "performance_score": 0,
+        "domain_rank": 3157,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "43faecb78b90c0d99352beabc715dd0ee319cdb8",
+    "url": "https://www.newsbreak.com/news/4850979403738-man-arrested-on-fraud-charges-in-providence",
+    "ord_in_thread": 0,
+    "author": "Daniel Duric",
+    "published": "2026-08-26T21:53:00.000+03:00",
+    "title": "Man arrested on fraud charges in Providence - NewsBreak",
+    "text": "By Daniel Duric ,\n9 hours ago PROVIDENCE, RI — Members of the Auto Theft Task Force and ACI Investigations Unit arrested a man on multiple fraud charges at 6 a.m. Tuesday. Chadwick Rodriguez, 48, of Providence, was arrested following an investigation by members of the Auto Theft Task Force. Rodriguez was charged with obtaining money... Read full article\n6",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->fraud"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.newportdispatch.com/2026/08/26/man-arrested-on-fraud-charges-in-providence/",
+        "https://newportdispatch.com/2026/08/26/man-arrested-on-fraud-charges-in-providence/",
+        "https://www.newportdispatch.com/2026/08/26/man-arrested-on-fraud-charges-in-providence"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Daniel Duric",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Chadwick Rodriguez",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Providence",
+                "sentiment": "none"
+            },
+            {
+                "name": "RI",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Auto Theft Task Force",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "ACI",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Providence"
+            ],
+            "state": [
+                "Rhode Island"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:04:55.460+03:00",
+    "updated": "2026-08-27T07:15:32.000+03:00"
+}

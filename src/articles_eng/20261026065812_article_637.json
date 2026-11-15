@@ -1,0 +1,159 @@
+{
+    "thread": {
+        "uuid": "b4b8e080079054720d1766181edb75cd0223d00f",
+        "url": "https://www.newsbreak.com/news/4961519171616-another-arrest-made-after-teen-dies-in-robeson-county-atv-crash",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/lumberton-nc",
+        "site_categories": [
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "sport",
+            "under_construction",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "politics"
+        ],
+        "section_title": "Lumberton, NC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Another arrest made after teen dies in Robeson County ATV crash - NewsBreak",
+        "title_full": "Another arrest made after teen dies in Robeson County ATV crash - NewsBreak",
+        "published": "2026-10-22T23:35:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0cuDJH_1GMKtKVL00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T07:19:33.881+03:00"
+        }
+    },
+    "uuid": "b4b8e080079054720d1766181edb75cd0223d00f",
+    "url": "https://www.newsbreak.com/news/4961519171616-another-arrest-made-after-teen-dies-in-robeson-county-atv-crash",
+    "ord_in_thread": 0,
+    "author": "Gianna Cognetti",
+    "published": "2026-10-22T23:35:00.000+03:00",
+    "title": "Another arrest made after teen dies in Robeson County ATV crash - NewsBreak",
+    "text": "By Gianna Cognetti ,\n7 hours ago LUMBERTON, NC (WMBF) - License plate readers alerted police to another suspect in a recent Robeson County homicide investigation. On Tuesday, Oct. 20, the Lumberton Police Department charged a 17-year-old with second-degree murder and accessory after the fact to a felony. The charges follow after LPD responded to an ATV... Read full article\n9",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->investigation (criminal)",
+        "Crime, Law and Justice->police"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wmbfnews.com/2026/10/22/another-arrest-made-after-teen-dies-robeson-county-atv-crash/?outputType=amp",
+        "https://www.wmbfnews.com/2026/10/22/another-arrest-made-after-teen-dies-robeson-county-atv-crash/",
+        "https://wmbfnews.com/2026/10/22/another-arrest-made-after-teen-dies-robeson-county-atv-crash/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwow.fc40898b.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsad.38f2c935.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gianna Cognetti",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Robeson County",
+                "sentiment": "none"
+            },
+            {
+                "name": "LUMBERTON",
+                "sentiment": "none"
+            },
+            {
+                "name": "NC",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ATV",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "ATV",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Lumberton Police Department",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "LPD",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "LPD",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Lumberton"
+            ],
+            "state": [
+                "North Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:19:33.881+03:00",
+    "updated": "2026-10-23T07:20:44.000+03:00",
+    "related_articles": null
+}

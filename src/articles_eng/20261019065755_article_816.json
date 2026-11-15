@@ -1,0 +1,140 @@
+{
+    "thread": {
+        "uuid": "059c0f49d5eee829fe45a7116fe6b2395730c788",
+        "url": "https://tass.com/world/2202793",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/world/1873961",
+        "site_categories": [
+            "media",
+            "war, conflict and unrest",
+            "politics",
+            "science and technology",
+            "economy, business and finance"
+        ],
+        "section_title": "Trump likely to revoke Biden's authorization to attack deep into Russia — magazine -  World - TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "US mulls easing sanctions on Russian tankers - FT",
+        "title_full": "US mulls easing sanctions on Russian tankers - FT",
+        "published": "2026-10-16T07:17:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 14822,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:26:11.429+03:00"
+        }
+    },
+    "uuid": "059c0f49d5eee829fe45a7116fe6b2395730c788",
+    "url": "https://tass.com/world/2202793",
+    "ord_in_thread": 0,
+    "author": "TASS",
+    "published": "2026-10-16T07:17:00.000+03:00",
+    "title": "US mulls easing sanctions on Russian tankers - FT",
+    "text": "LONDON, October 16. /TASS/. The US administration is considering the possibility of easing restrictions on blacklisted Russian and Iranian ships, the Financial Times (FT) newspaper wrote citing sources.\nThe sources said the proposed measures under consideration involve the potential sale of sanctioned vessels to bona fide operators, and the removal of restrictions. This will allow these vessels to operation without any limitations.\nThe article says US Energy Secretary Chris Wright raised the issue during the World Petroleum Congress (WPC Energy), held in Saudi Arabia’s capital Riyadh earlier this week.\nThe newspaper quotes a spokesperson for the US Department of the Treasury, who said that if bona fide buyers are interested in buying the blacklisted vessels, the US Office of Foreign Assets Control is prepares to evaluate license requests and lift sanctions on a case-by-case basis.\nWith reference to the Energy Aspects consulting firm, Financial Times estimates that from 13 to 19% of the global tanker fleet are currently under US sanctions.\nAt the same time, the article suggests that such measures is not capable of bringing diesel fuel prices down, because they are driven upwards primarily by the difficult situation in the Middle East, rather than by a lack of vessels for fuel transportation.\nReuters reported on October 15, citing a US official, that the United States is looking at easing sanctions against vessels that have been used to ship oil from Russia, Iran, and Venezuela.",
+    "summary": "The US administration is considering the possibility of easing restrictions on blacklisted Russian and Iranian ships, the Financial Times (FT) newspaper wrote citing sources. The sources said the proposed measures under consideration involve the potential sale of sanctioned vessels to bona fide operators, and the removal of restrictions. The newspaper quotes a spokesperson for the US Department of the Treasury, who said that if bona fide buyers are interested in buying the blacklisted vessels, the US Office of Foreign Assets Control is prepares to evaluate license requests and lift sanctions on a case-by-case basis.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->foreign exchange market",
+        "Economy, Business and Finance->macro economics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.ft.com/",
+        "https://ft.com/",
+        "https://www.ft.com"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Chris Wright",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "US",
+                "sentiment": "none"
+            },
+            {
+                "name": "LONDON",
+                "sentiment": "none"
+            },
+            {
+                "name": "Saudi Arabia",
+                "sentiment": "none"
+            },
+            {
+                "name": "Riyadh",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Financial Times",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "FT",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "US",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:26:11.429+03:00",
+    "updated": "2026-10-16T07:29:15.000+03:00",
+    "related_articles": null
+}

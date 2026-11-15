@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "1c99cbf9828094c5a7bf29198038f27d0049b169",
+        "url": "https://www.newsbreak.com/news/4594411531073-man-arrested-in-connection-to-birmingham-robbery-investigation",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/birmingham-al",
+        "site_categories": [
+            "sport",
+            "human interest",
+            "crime, law and justice",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "under_construction",
+            "lifestyle and leisure",
+            "politics"
+        ],
+        "section_title": "Birmingham, AL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Man arrested in connection to Birmingham robbery investigation - NewsBreak",
+        "title_full": "Man arrested in connection to Birmingham robbery investigation - NewsBreak",
+        "published": "2026-04-16T03:56:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2ZN7Yq_1AUQqmuu00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1c99cbf9828094c5a7bf29198038f27d0049b169",
+    "url": "https://www.newsbreak.com/news/4594411531073-man-arrested-in-connection-to-birmingham-robbery-investigation",
+    "ord_in_thread": 0,
+    "author": "WBRC Digital Staff",
+    "published": "2026-04-16T03:56:00.000+03:00",
+    "title": "Man arrested in connection to Birmingham robbery investigation - NewsBreak",
+    "text": "By WBRC Digital Staff ,\n3 hours ago BIRMINGHAM, Ala. (WBRC) - One person has been arrested in connection to a robbery investigation in Birmingham. According to Birmingham Police, 53-year-old Samuel Bolton was arrested after a robbery in the 1600 block of 14th Avenue South Sunday, April 12. Authorities say the victim in the robbery was not injured... Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->robbery and theft"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Samuel Bolton",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Birmingham",
+                "sentiment": "none"
+            },
+            {
+                "name": "14th Avenue South",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WBRC Digital Staff",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Birmingham Police",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:20:38.869+03:00",
+    "updated": "2026-04-16T07:23:58.000+03:00"
+}

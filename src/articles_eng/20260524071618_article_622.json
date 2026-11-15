@@ -1,0 +1,169 @@
+{
+    "thread": {
+        "uuid": "01f1aa1992dd144e1eb23564b218dc20267d6554",
+        "url": "https://guardian.ng/news/fg-urges-calm-assures-nigerians-of-enhanced-ebola-preparedness/",
+        "site_full": "guardian.ng",
+        "site": "guardian.ng",
+        "site_section": "https://guardian.ng/",
+        "site_categories": [
+            "economy, business and finance",
+            "crime, law and justice",
+            "media",
+            "politics",
+            "social issue"
+        ],
+        "section_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+        "site_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+        "title": "FG urges calm, assures Nigerians of enhanced Ebola preparedness",
+        "title_full": "FG urges calm, assures Nigerians of enhanced Ebola preparedness",
+        "published": "2026-05-21T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "https://cdn.guardian.ng/wp-content/uploads/2026/03/fast736.webp",
+        "performance_score": 0,
+        "domain_rank": 17892,
+        "domain_rank_updated": "2026-05-18T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "01f1aa1992dd144e1eb23564b218dc20267d6554",
+    "url": "https://guardian.ng/news/fg-urges-calm-assures-nigerians-of-enhanced-ebola-preparedness/",
+    "ord_in_thread": 0,
+    "author": "Olusegun Koiki",
+    "published": "2026-05-21T06:59:00.000+03:00",
+    "title": "FG urges calm, assures Nigerians of enhanced Ebola preparedness",
+    "text": "• FAAN enhances surveillance at airports over disease outbreak\n• New Ebola has no approved vaccine, WHO warns\nThe Federal Government has reassured Nigerians that there is currently no confirmed case of Ebola Virus Disease (EVD) in Nigeria, affirming that all necessary precautionary measures have been activated to strengthen preparedness and response systems nationwide.\nThis follows recent reports of an Ebola outbreak in parts of the Democratic Republic of the Congo (DRC) and Uganda.\nMinister of Health and Social Welfare, Prof. Muhammad Ali Pate, who gave the assurance yesterday, in Abuja, stated that the ministry, through the Nigeria Centre for Disease Control and Prevention (NCDC), Port Health Services, and other relevant agencies, is closely monitoring the situation in collaboration with the World Health Organisation (WHO) and regional health authorities.\nPate noted that Nigeria remains vigilant and has activated enhanced preparedness measures to safeguard public health and strengthen the country’s capacity for early detection and rapid response.\nHe noted that the ongoing response and preparedness measures include enhanced surveillance and monitoring nationwide, strengthened screening and health declaration protocols at points of entry in collaboration with Port Health Services, increased coordination with state ministries of health and relevant stakeholders, strengthened laboratory preparedness and diagnostic capacity, reinforcement of infection prevention and control measures across health facilities, intensified public awareness, risk communication, and community engagement activities.\nPate, therefore, urged Nigerians to remain calm, avoid spreading misinformation, and continue observing preventive measures, including regular hand hygiene and avoiding contact with bodily fluids of persons showing symptoms of illness.\nHe also advised the public to promptly report any unusual illness to the nearest health facility.\nAlso, the Federal Airports Authority of Nigeria (FAAN) said it is collaborating with Port Health Services, the NCDC and other relevant agencies to intensify surveillance and monitoring of passengers, particularly those arriving from high-risk regions over the recent outbreak of Ebola virus in the East and Central African region.\nA statement yesterday by the Director, Public Affairs & Consumer Protection, FAAN, Henry Agbebire, said that the agency had put in place preventive measures across all international airports to curb the spread of the disease.\nFAAN said it had strengthened coordination with relevant stakeholders, enhanced staff sensitisation and reinforced emergency response procedures to ensure swift action where necessary.\nHowever, the WHO, yesterday, raised fresh fears over the rapid spread of the disease, warning that the deadly virus strain behind the epidemic currently has no approved vaccine or treatment.\nWHO Director-General, Tedros Adhanom Ghebreyesus, who spoke during the ongoing emergency media briefing, said the outbreak had become a major regional threat, forcing the organisation to declare a Public Health Emergency of International Concern (PHEIC).",
+    "summary": "• FAAN enhances surveillance at airports over disease outbreak • New Ebola has no approved vaccine, WHO warns The Federal Government has reassured Nigerians that there is currently no confirmed case of Ebola Virus Disease (EVD) in Nigeria, affirming that all necessary precautionary measures have been activated to strengthen preparedness and response systems nationwide. Pate noted that Nigeria remains vigilant and has activated enhanced preparedness measures to safeguard public health and strengthen the country’s capacity for early detection and rapid response.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->vaccine",
+        "Health->emergency care",
+        "Health->communicable disease"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Muhammad Ali Pate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "DRC",
+                "sentiment": "none"
+            },
+            {
+                "name": "Uganda",
+                "sentiment": "none"
+            },
+            {
+                "name": "Abuja",
+                "sentiment": "none"
+            },
+            {
+                "name": "Democratic Republic of the Congo",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nigeria",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FG",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "FAAN",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Federal Government",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "WHO",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Health and Social Welfare",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-21T07:33:20.970+03:00",
+    "updated": "2026-05-21T07:35:43.000+03:00"
+}

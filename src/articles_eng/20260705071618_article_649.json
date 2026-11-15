@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "b9731c5a67a4f06b49fe372cb05b51fcf5f2046e",
+        "url": "https://www.newsbreak.com/news/4744538820962-police-investigate-hit-and-run-at-nonprofit-serving-people-with-developmental-disabilities",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/west-chester-township-oh",
+        "site_categories": [
+            "human interest",
+            "social issue",
+            "disaster and accident",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "sport",
+            "politics",
+            "under_construction",
+            "economy, business and finance"
+        ],
+        "section_title": "West Chester Township, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Police investigate hit-and-run at nonprofit serving people with developmental disabilities - NewsBreak",
+        "title_full": "Police investigate hit-and-run at nonprofit serving people with developmental disabilities - NewsBreak",
+        "published": "2026-07-01T23:29:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/42I1CO_1Cthx3sH00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b9731c5a67a4f06b49fe372cb05b51fcf5f2046e",
+    "url": "https://www.newsbreak.com/news/4744538820962-police-investigate-hit-and-run-at-nonprofit-serving-people-with-developmental-disabilities",
+    "ord_in_thread": 0,
+    "author": "Brady Williams",
+    "published": "2026-07-01T23:29:00.000+03:00",
+    "title": "Police investigate hit-and-run at nonprofit serving people with developmental disabilities - NewsBreak",
+    "text": "By Brady Williams ,\n8 hours ago FAIRFIELD, Ohio (WXIX) - Fairfield police are investigating a hit-and-run involving a van owned by Ability to Thrive, a nonprofit that serves people with developmental disabilities. Shanda Johnson, who is affiliated with the organization, said a staff member called Monday to report the damage. “Monday morning, we got a phone... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident",
+        "Crime, Law and Justice->reckless driving",
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox19.com/2026/07/01/police-investigate-hit-and-run-nonprofit-serving-people-with-developmental-disabilities/?outputType=amp",
+        "https://fox19.com/2026/07/01/police-investigate-hit-and-run-nonprofit-serving-people-with-developmental-disabilities/?outputType=amp",
+        "https://www.fox19.com/2026/07/01/police-investigate-hit-and-run-nonprofit-serving-people-with-developmental-disabilities/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brady Williams",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Shanda Johnson",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Ohio",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fairfield",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Ability to Thrive",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:39:01.618+03:00",
+    "updated": "2026-07-02T07:43:13.000+03:00"
+}

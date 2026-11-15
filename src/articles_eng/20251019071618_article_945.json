@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "2c8413a6320ae07747ca8b12a8a8df887e6a5e58",
+        "url": "https://www.news18.com/tech/windows-10-users-are-getting-one-last-update-to-fix-new-security-issues-time-to-upgrade-ws-l-9638874.html",
+        "site_full": "www.news18.com",
+        "site": "news18.com",
+        "site_section": "https://www.news18.com/commonfeeds/v1/eng/rss/latest.xml",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Latest News in news18.com, Latest Latest News, Latest News",
+        "site_title": "News: Get Latest News Today, Breaking News, Top News Headlines, India and World News | News18",
+        "title": "Windows 10 Users Are Getting One Last Update To Fix New Security Issues: Time To Upgrade | Tech News - News18",
+        "title_full": "Windows 10 Users Are Getting One Last Update To Fix New Security Issues: Time To Upgrade | Tech News - News18",
+        "published": "2025-10-16T06:35:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.news18.com/ibnlive/uploads/2025/02/Windows-11-iPhone-support-2025-02-4094c2308866339c8bf1b39600e8ea20-16x9.jpg",
+        "performance_score": 0,
+        "domain_rank": 3556,
+        "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 1,
+                "comments": 1,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2c8413a6320ae07747ca8b12a8a8df887e6a5e58",
+    "url": "https://www.news18.com/tech/windows-10-users-are-getting-one-last-update-to-fix-new-security-issues-time-to-upgrade-ws-l-9638874.html",
+    "ord_in_thread": 0,
+    "author": "@cnnnews18",
+    "published": "2025-10-16T06:35:00.000+03:00",
+    "title": "Windows 10 Users Are Getting One Last Update To Fix New Security Issues: Time To Upgrade | Tech News - News18",
+    "text": "Windows 10 updates have officially ended this week but Microsoft is giving them one last hurrah with an important patch that fixes ongoing vulnerabilities. This will be the only update that Windows 10 users will be getting from the company, and after this, they will either have to pay for the extended Windows 10 support or upgrade to a Windows 11 machine. The company is doing the right thing by giving them one more update so that at least for the next few months the security issues are taken care of. Windows 10 Update: The Last One For Users Windows 10 users getting this update does sound all too dramatic and honestly, we could have got another way to make it work. Microsoft insisted on having Windows 11 supported on PCs that have a special security standard which millions of machines did not have. Security experts have even cited the concerns around the possible cyberattacks that will be targeted at the vulnerable systems. That’s not all, consumer bodies even reached out to Satya Nadella at Microsoft asking for a way to stop the Windows 10 update support deadline but those pleas have clearly not made a difference. How To Install The Last Windows 10 Update For Your PC Most Windows 10 users know how the update process works but here are the steps for one last time: Microsoft has something big planned that will be announced on Thursday and apparently going to give our hands some time to rest. This mostly hints at agentic AI features coming to Edge browser with Copilot at the centre of its setup.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Satya Nadella",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Microsoft",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "MSFT",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-16T07:40:08.671+03:00",
+    "updated": "2025-10-17T08:12:18.000+03:00"
+}

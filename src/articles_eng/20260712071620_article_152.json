@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "7180f5dad90a7f10b7cbdd0f98ce5ebd248ed5b6",
+        "url": "https://www.ntd.com/ntdplus/trump-orders-halt-to-us-trade-with-spain_1158064.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://api.ntd.com/feed",
+        "site_categories": [
+            "crime, law and justice",
+            "disaster and accident",
+            "economy, business and finance",
+            "media",
+            "architects",
+            "war, conflict and unrest",
+            "politics",
+            "real_estate"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "Trump Orders Halt to US Trade With Spain",
+        "title_full": "Trump Orders Halt to US Trade With Spain",
+        "published": "2026-07-09T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2026/07/id1158040-GettyImages-2284656307.jpg-600x400.webp",
+        "performance_score": 0,
+        "domain_rank": 62868,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7180f5dad90a7f10b7cbdd0f98ce5ebd248ed5b6",
+    "url": "https://www.ntd.com/ntdplus/trump-orders-halt-to-us-trade-with-spain_1158064.html",
+    "ord_in_thread": 0,
+    "author": "NTD Newsroom",
+    "published": "2026-07-09T06:59:00.000+03:00",
+    "title": "Trump Orders Halt to US Trade With Spain",
+    "text": "Trump Orders Halt to US Trade With Spain\nOn the sidelines of the NATO summit, President Donald Trump ordered an immediate halt to all U.S. trade with Spain. He has expressed frustration with Spain, a member of the European Union. The country ...\nRead More\nViews expressed in this video are opinions of the host and the guest(s), and do not necessarily reflect the views of NTD.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->international relations",
+        "Politics->government policy",
+        "Politics->national government",
+        "Politics->government",
+        "Politics->economic policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Spain",
+                "sentiment": "none"
+            },
+            {
+                "name": "U. S.",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NATO",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "European Union",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NTD",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:21:07.072+03:00",
+    "updated": "2026-07-09T07:24:36.000+03:00"
+}

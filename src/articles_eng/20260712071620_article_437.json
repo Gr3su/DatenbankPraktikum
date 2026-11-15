@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "6d6518465dded5f82ad500ccc4efe749c0c1eb59",
+        "url": "https://local.newsbreak.com/abc-7-chicago-560941/4759599130040-dea-agents-investigate-animal-hospital-in-lowell-indiana",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/abc-7-chicago-560941",
+        "site_categories": [
+            "disaster and accident",
+            "social issue",
+            "sport",
+            "politics",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "crime, law and justice"
+        ],
+        "section_title": "ABC 7 Chicago&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "DEA agents investigate animal hospital in Lowell, Indiana - NewsBreak",
+        "title_full": "DEA agents investigate animal hospital in Lowell, Indiana - NewsBreak",
+        "published": "2026-07-09T04:56:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2VhNef_1D7syzOK00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6d6518465dded5f82ad500ccc4efe749c0c1eb59",
+    "url": "https://local.newsbreak.com/abc-7-chicago-560941/4759599130040-dea-agents-investigate-animal-hospital-in-lowell-indiana",
+    "ord_in_thread": 0,
+    "author": "ABC7 Chicago Digital Team",
+    "published": "2026-07-09T04:56:00.000+03:00",
+    "title": "DEA agents investigate animal hospital in Lowell, Indiana - NewsBreak",
+    "text": "By ABC7 Chicago Digital Team ,\n2 hours ago\nFederal agents with the U.S. Drug Enforcement Administration spent hours Wednesday investigating an animal hospital in northwest Indiana.\nThe DEA executed a search warrant at Lowell Animal Hospital, 17615 Morse St., taking a close look at a cough prescription for dogs.\nABC7 Chicago is now streaming 24/7. Click here to watch The animal hospital was shut down for a few hours.\nLowell Animal Hospital says agents thought a cough medicine was being prescribed too frequently.\nHospital officials said a review of their records showed the prescription fell in line with dosage instructions and gave agents the information they needed.\nThe DEA says it was investigating alleged diversion of controlled substances and will release more information later.\nThe animal hospital has since reopened.",
+    "summary": "By ABC7 Chicago Digital Team , Federal agents with the U.S. Drug Enforcement Administration spent hours Wednesday investigating an animal hospital in northwest Indiana. The DEA executed a search warrant at Lowell Animal Hospital, 17615 Morse St., taking a close look at a cough prescription for dogs. Lowell Animal Hospital says agents thought a cough medicine was being prescribed too frequently. Hospital officials said a review of their records showed the prescription fell in line with dosage instructions and gave agents the information they needed.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->animal abuse",
+        "Crime, Law and Justice->drug related crimes"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=2VhNef_1D7syzOK00",
+        "https://abc7chicago.com/watch/live/11064984/",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2VhNef_1D7syzOK00",
+        "https://abc7chicago.com/video/embed/?pid=19472929",
+        "https://abc7chicago.com/video/embed/",
+        "https://www.abc7chicago.com/video/embed/?pid=19472929",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2VhNef_1D7syzOK00",
+        "https://abc7chicago.com/watch/live/11064984",
+        "https://img.particlenews.com/image.php",
+        "https://www.abc7chicago.com/watch/live/11064984/",
+        "https://www.img.particlenews.com/image.php?url=2VhNef_1D7syzOK00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Indiana",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lowell Animal Hospital",
+                "sentiment": "none"
+            },
+            {
+                "name": "Morse St",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "DEA",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "ABC7 Chicago Digital Team",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "U. S. Drug Enforcement Administrat",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:27:07.720+03:00",
+    "updated": "2026-07-09T07:29:17.000+03:00"
+}

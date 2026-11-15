@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "221ba17e185bfdb18a5516cf54a8e10fdc5091f6",
+        "url": "https://www.newsbreak.com/reuters-555486/4294639374336-morning-bid-news-overload-splits-markets",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/reuters-555486",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Reuters&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Morning Bid: News overload splits markets - NewsBreak",
+        "title_full": "Morning Bid: News overload splits markets - NewsBreak",
+        "published": "2025-10-16T07:32:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3z0tXE_15hNGXkj00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "221ba17e185bfdb18a5516cf54a8e10fdc5091f6",
+    "url": "https://www.newsbreak.com/reuters-555486/4294639374336-morning-bid-news-overload-splits-markets",
+    "ord_in_thread": 0,
+    "author": "Reuters",
+    "published": "2025-10-16T07:32:00.000+03:00",
+    "title": "Morning Bid: News overload splits markets - NewsBreak",
+    "text": "By Reuters ,\n5 minutes ago\nA look at the day ahead in European and global markets from Kevin Buckland\nWith this much newsflow, it's hard for investors to know where to look.\nAs a result, investors are gazing in several directions at once - and it's creating a quite clean split between asset classes.\nStock markets are rallying around Asia on Thursday, with bourses from Taipei to Seoul and Sydney climbing to fresh all-time peaks. In tech-heavy North Asian markets, that's due in large part to the persistent AI euphoria that also drove the Philadelphia SE semiconductor index - or SOX - up 3% overnight.\nThe latest bullish signal came from Dutch semiconductor equipment maker ASML, with third-quarter bookings beating market forecasts on Wednesday. That's stoked expectations for strong results from Taiwan's TSMC, a major ASML customer, later today.\nMoreover, the big banks have kicked off U.S. earnings season with robust results that paint a broader picture of a resilient U.S. economy. And those figures are garnering more attention than usual in the absence of official macro data due to the government shutdown.\nAt the same time, however, gold has been soaring to ever-greater record heights, and the dollar is spiralling lower, particularly against traditional safe havens the yen and Swiss franc.\nThat's because, outside of equities, traders are antsy about a flare-up in trade tensions between Washington and Beijing. President Donald Trump declared they are \"in a trade war\" late on Wednesday, even as his Treasury and trade chiefs offered some hopes for de-escalation.\nTreasury Secretary Scott Bessent, for example, hinted at an extension to tariff reprieves, and said Trump still expects to meet Chinese leader Xi Jinping in South Korea this month, although without offering a date.\nMarket tug-of-wars like this create an intrinsic tension, and raise the risk of something - or several things - snapping back.\nEuropean stock futures are currently pointing lower, so a rebalancing could already be under way.\nKey developments that could influence markets on Thursday:\n-UK GDP estimate, services, industrial output, manufacturing output (all August)\n-Italy CPI (September)\n-Euro area trade balance (August)\n(By Kevin Buckland; Editing by Jamie Freed)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3z0tXE_15hNGXkj00",
+        "https://img.particlenews.com/image.php?url=3z0tXE_15hNGXkj00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?url=3z0tXE_15hNGXkj00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3z0tXE_15hNGXkj00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kevin Bucklan",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "TRI",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "TSMC",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TSM",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "ASML",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "ASML",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "221ba17e185bfdb18a5516cf54a8e10fdc5091f6",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-16T07:38:53.705+03:00",
+    "updated": "2025-10-16T07:38:53.705+03:00"
+}

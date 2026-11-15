@@ -1,0 +1,160 @@
+{
+    "thread": {
+        "uuid": "6484d522d72b2151ef502702e8e253f359a29a0c",
+        "url": "https://www.newsbreak.com/news/4772240244818-large-number-of-humpback-whales-recently-spotted-near-maine-shores-state-officials-say",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/machias-me",
+        "site_categories": [
+            "human interest",
+            "under_construction",
+            "social issue",
+            "politics",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "economy, business and finance",
+            "disaster and accident",
+            "sport",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Machias, ME Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Large number of humpback whales recently spotted near Maine shores, state officials say - NewsBreak",
+        "title_full": "Large number of humpback whales recently spotted near Maine shores, state officials say - NewsBreak",
+        "published": "2026-07-15T20:43:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.newsbreak.com/api/share-og-image/1cbccu_1DKcQwXr00.jpg",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6484d522d72b2151ef502702e8e253f359a29a0c",
+    "url": "https://www.newsbreak.com/news/4772240244818-large-number-of-humpback-whales-recently-spotted-near-maine-shores-state-officials-say",
+    "ord_in_thread": 0,
+    "author": "Maine Public",
+    "published": "2026-07-15T20:43:00.000+03:00",
+    "title": "Large number of humpback whales recently spotted near Maine shores, state officials say - NewsBreak",
+    "text": "By Maine Public ,\n10 hours ago The Maine Department of Marine Resources is urging boaters to take precautions around humpback whales that have recently been spotted close to shore. Spokesperson Jeff Nichols said the department has received an unusually large number of reports in the last week or so. The humpbacks have been seen between Port Clyde and Jonesport. Read full article\n17",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Environment",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->marine science",
+        "Science and Technology->biology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.mainepublic.org/environment-and-outdoors/2026-07-15/large-number-of-humpback-whales-recently-spotted-near-maine-shores-state-officials-say",
+        "https://mainepublic.org/environment-and-outdoors/2026-07-15/large-number-of-humpback-whales-recently-spotted-near-maine-shores-state-officials-say"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jeff Nichols",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maine",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jonesport",
+                "sentiment": "none"
+            },
+            {
+                "name": "Port Clyde",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Maine Department of Marine Resources",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Maine Public",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Machias"
+            ],
+            "state": [
+                "Washington"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:35:19.111+03:00",
+    "updated": "2026-07-16T07:42:29.000+03:00"
+}

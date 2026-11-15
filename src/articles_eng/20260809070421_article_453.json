@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "161247a6e6a753aae54510403aefb90403557860",
+        "url": "https://www.newsbreak.com/news/4811596314077-camp-ellis-harborfest-set-for-sunday",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/portland-me",
+        "site_categories": [
+            "human interest",
+            "politics",
+            "sport",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "health",
+            "crime, law and justice",
+            "economy, business and finance",
+            "social issue",
+            "under_construction"
+        ],
+        "section_title": "Portland, ME Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Camp Ellis HarborFest set for Sunday - NewsBreak",
+        "title_full": "Camp Ellis HarborFest set for Sunday - NewsBreak",
+        "published": "2026-08-05T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0Mu426_1DyGlcou00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "161247a6e6a753aae54510403aefb90403557860",
+    "url": "https://www.newsbreak.com/news/4811596314077-camp-ellis-harborfest-set-for-sunday",
+    "ord_in_thread": 0,
+    "author": "City",
+    "published": "2026-08-05T07:00:00.000+03:00",
+    "title": "Camp Ellis HarborFest set for Sunday - NewsBreak",
+    "text": "By City staff reports ,\n1 days ago It’s a historic summer in the Camp Ellis community as the U.S. Army Corps of Engineers long-awaited spur jetty project is underway. Locals and visitors will celebrate this weekend at Camp Ellis HarborFest. HarborFest will bring the community together as the jetty project continues, honoring Saco’s working waterfront and... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Education"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Education->educational grading",
+        "Education->curriculum",
+        "Education->school"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://sacobaynews.com/camp-ellis-harborfest-set-for-sunday.htm",
+        "https://www.sacobaynews.com/camp-ellis-harborfest-set-for-sunday.htm"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Camp Ellis HarborFest",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Corps of Engineers",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Saco",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:22:26.195+03:00",
+    "updated": "2026-08-06T07:25:44.000+03:00"
+}

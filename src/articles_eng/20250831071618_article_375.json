@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "5d913b988c9f240701804657cc69ff45cb21d469",
+        "url": "http://www.chinadaily.com.cn/a/202508/20/WS68a5cbf9a310b236346f2a69.html",
+        "site_full": "www.chinadaily.com.cn",
+        "site": "chinadaily.com.cn",
+        "site_section": "http://www.chinadaily.com.cn/video",
+        "site_categories": [
+            "media",
+            "travel",
+            "japan"
+        ],
+        "section_title": "Video - Chinadaily.com.cn",
+        "site_title": "China Daily Website - Connecting China Connecting the World",
+        "title": "Doctor by day, UFC fighter by night - Chinadaily.com.cn",
+        "title_full": "Doctor by day, UFC fighter by night - Chinadaily.com.cn",
+        "published": "2025-08-20T16:21:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "http://img2.chinadaily.com.cn/images/202508/20/68a5cbf9a310b236b652118a.jpeg",
+        "performance_score": 0,
+        "domain_rank": 657,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5d913b988c9f240701804657cc69ff45cb21d469",
+    "url": "http://www.chinadaily.com.cn/a/202508/20/WS68a5cbf9a310b236346f2a69.html",
+    "ord_in_thread": 0,
+    "author": "global.chinadaily.com.cn",
+    "published": "2025-08-20T16:21:00.000+03:00",
+    "title": "Doctor by day, UFC fighter by night - Chinadaily.com.cn",
+    "text": "Shi Ming, a Chinese doctor and UFC fighter, is set to make her Ultimate Fighting Championship (UFC) debut on Friday in Shanghai. By day, she is a physician practicing acupuncture at a hospital in Kunming, Yunnan province; by night, she transforms into a fearless fighter stepping into the octagon. The 30-year-old will appear in the special main event of the Road to UFC Season 4 semi-finals before the UFC Fight Night.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Human Interest"
+    ],
+    "topics": [
+        "Sport->martial arts",
+        "Human Interest->celebrity"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Shi Ming",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "UFC",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "UFC",
+                        "exchange": "CVE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-28T07:26:14.135+03:00",
+    "updated": "2025-08-28T07:28:39.000+03:00"
+}

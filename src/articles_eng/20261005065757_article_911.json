@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "52f29728f93313fd1673aec0ac3cdfd604e11876",
+        "url": "https://www.newsbreak.com/news/4919967084722-minneapolis-man-charged-with-felony-assault-following-hotel-room-attack",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/apple-valley-mn",
+        "site_categories": [
+            "science and technology",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "sport",
+            "politics",
+            "under_construction",
+            "crime, law and justice",
+            "economy, business and finance",
+            "human interest"
+        ],
+        "section_title": "Apple Valley, MN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Minneapolis Man Charged With Felony Assault Following Hotel Room Attack - NewsBreak",
+        "title_full": "Minneapolis Man Charged With Felony Assault Following Hotel Room Attack - NewsBreak",
+        "published": "2026-10-01T23:18:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0ltnUL_1FhT9DoW00",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:35:58.861+03:00"
+        }
+    },
+    "uuid": "52f29728f93313fd1673aec0ac3cdfd604e11876",
+    "url": "https://www.newsbreak.com/news/4919967084722-minneapolis-man-charged-with-felony-assault-following-hotel-room-attack",
+    "ord_in_thread": 0,
+    "author": "Lee Voss",
+    "published": "2026-10-01T23:18:00.000+03:00",
+    "title": "Minneapolis Man Charged With Felony Assault Following Hotel Room Attack - NewsBreak",
+    "text": "By Lee Voss ,\n8 hours ago ST. CLOUD (WJON News) -- A Minneapolis man faces several charges after an assault involving a knife. St. Cloud Police were called to the Days Inn Hotel at around 1:40 p.m. Friday on a report of a stabbing. Officers arrived and met with a child who had red marks on his neck and a fresh cut on his arm that was bleeding. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->assault"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://power96radio.com/ixp/67/p/st-cloud-hotel-assault-arrest/",
+        "https://power96radio.com/ixp/67/p/st-cloud-hotel-assault-arrest",
+        "https://www.power96radio.com/ixp/67/p/st-cloud-hotel-assault-arrest/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lee Voss",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Minneapolis",
+                "sentiment": "none"
+            },
+            {
+                "name": "St. Cloud",
+                "sentiment": "none"
+            },
+            {
+                "name": "Days Inn Hotel",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WJON News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Apple Valley"
+            ],
+            "state": [
+                "North Dakota",
+                "Minnesota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:35:58.861+03:00",
+    "updated": "2026-10-02T07:39:06.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "6b81ec13ac238f7c249c7112b964906511114d3c",
+        "url": "https://www.newsbreak.com/the-oregonian-512966/4948355520997-3-children-and-1-teacher-dead-in-bend-elementary-school-shooting-bystander-kills-16-year-old-shooter",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/trending/top/shooter",
+        "site_categories": [
+            "sport",
+            "politics",
+            "under_construction",
+            "crime, law and justice",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "lifestyle and leisure"
+        ],
+        "section_title": "The latest shooter news, videos &amp; comments | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "3 children and 1 teacher dead in Bend elementary school shooting; bystander kills 16-year-old shooter - NewsBreak",
+        "title_full": "3 children and 1 teacher dead in Bend elementary school shooting; bystander kills 16-year-old shooter - NewsBreak",
+        "published": "2026-10-16T00:25:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2Dwequ_1G94Fd4700",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T06:59:35.732+03:00"
+        }
+    },
+    "uuid": "6b81ec13ac238f7c249c7112b964906511114d3c",
+    "url": "https://www.newsbreak.com/the-oregonian-512966/4948355520997-3-children-and-1-teacher-dead-in-bend-elementary-school-shooting-bystander-kills-16-year-old-shooter",
+    "ord_in_thread": 0,
+    "author": "Aimee Green",
+    "published": "2026-10-16T00:25:00.000+03:00",
+    "title": "3 children and 1 teacher dead in Bend elementary school shooting; bystander kills 16-year-old shooter - NewsBreak",
+    "text": "By Aimee Green Mary Mooney Julia Silverman Sophia Cossette ,\n6 hours ago The suspect has not been identified; police have not confirmed who shot the suspect but said it might have been a bystander. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "topics": [
+        "Disaster and Accident->accident and emergency incident",
+        "Disaster and Accident->transportation accident and incident",
+        "Crime, Law and Justice->homicide",
+        "Social Issue->social services",
+        "Social Issue->death and dying",
+        "Social Issue->abusive behaviour"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.oregonlive.com/crime/2026/10/multiple-victims-in-shooting-near-bend-elementary-school-shooter-dead.html",
+        "https://oregonlive.com/crime/2026/10/multiple-victims-in-shooting-near-bend-elementary-school-shooter-dead.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Aimee Green",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Mary Mooney",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Julia Silverman",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Sophia Cossette",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Bend",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T06:59:35.732+03:00",
+    "updated": "2026-10-16T07:03:35.000+03:00",
+    "related_articles": null
+}

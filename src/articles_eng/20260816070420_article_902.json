@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "49f3f909418ca4eea6ec298da3cc651e798f523b",
+        "url": "https://www.newsbreak.com/news/4825074251837-campanella-family-to-reopen-cranston-restaurant",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/providence-ri",
+        "site_categories": [
+            "human interest",
+            "science and technology",
+            "economy, business and finance",
+            "under_construction",
+            "politics",
+            "sport",
+            "health",
+            "crime, law and justice",
+            "social issue",
+            "arts, culture and entertainment",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Providence, RI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Campanella family to reopen Cranston restaurant - NewsBreak",
+        "title_full": "Campanella family to reopen Cranston restaurant - NewsBreak",
+        "published": "2026-08-12T19:10:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3BZhEZ_1EArLEiu00",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "49f3f909418ca4eea6ec298da3cc651e798f523b",
+    "url": "https://www.newsbreak.com/news/4825074251837-campanella-family-to-reopen-cranston-restaurant",
+    "ord_in_thread": 0,
+    "author": "AMANDA BANG, NBC 10 NEWS",
+    "published": "2026-08-12T19:10:00.000+03:00",
+    "title": "Campanella family to reopen Cranston restaurant - NewsBreak",
+    "text": "By AMANDA BANG, NBC 10 NEWS ,\n12 hours ago CRANSTON, R.I. (WJAR) — Campanella’s previous owners have purchased the restaurant assets and plan to reopen the restaurant. According to court-appointed receiver Richard Land, Campanella's assets were sold for $20,000 to the former landlord. The Campanella family said in a social media post that they plan to reopen... Read full article\n13",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->leisure"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://turnto10.com/news/local/campanella-family-to-reopen-cranston-restaurant-campanellas-property-landlord-receivership-court-appointed-august-12-2026",
+        "https://www.turnto10.com/news/local/campanella-family-to-reopen-cranston-restaurant-campanellas-property-landlord-receivership-court-appointed-august-12-2026"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "CRANSTON",
+                "sentiment": "negative"
+            },
+            {
+                "name": "AM",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Richard Land",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NBC",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "NBC",
+                        "exchange": "FRA"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Campanella",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Providence"
+            ],
+            "state": [
+                "Rhode Island"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:42:16.797+03:00",
+    "updated": "2026-08-13T07:43:43.000+03:00"
+}

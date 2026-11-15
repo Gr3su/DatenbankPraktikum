@@ -1,0 +1,156 @@
+{
+    "thread": {
+        "uuid": "feb4aead350b64e76da9c254f7bdd130fab4806e",
+        "url": "https://www.newsbreak.com/news/4618450100781-harford-stadium-harford-fighting-owls-women-s-flag-football",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/white-marsh-md",
+        "site_categories": [
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "under_construction",
+            "sport",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "human interest",
+            "politics"
+        ],
+        "section_title": "White Marsh, MD Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Harford Stadium - Harford Fighting Owls Women's Flag Football - NewsBreak",
+        "title_full": "Harford Stadium - Harford Fighting Owls Women's Flag Football - NewsBreak",
+        "published": "2026-04-28T15:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2E4m8w_1AseozqR00",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "feb4aead350b64e76da9c254f7bdd130fab4806e",
+    "url": "https://www.newsbreak.com/news/4618450100781-harford-stadium-harford-fighting-owls-women-s-flag-football",
+    "ord_in_thread": 0,
+    "author": "stadiumjourney.com",
+    "published": "2026-04-28T15:00:00.000+03:00",
+    "title": "Harford Stadium - Harford Fighting Owls Women's Flag Football - NewsBreak",
+    "text": "1 days ago Harford Stadium 401 Thomas Run Rd Bel Air, MD 21015. Harford Community College is located in Bel Air, MD, roughly between Baltimore and the Delaware state line. They play in NJCAA Division I, the highest athletic level for 2-year colleges, and are a part of the Maryland Junior College Athletic Conference. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport",
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Sport->sport venue",
+        "Sport->sport event",
+        "Sport->american football",
+        "Lifestyle and Leisure->outdoor recreational activities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "MD",
+                "sentiment": "none"
+            },
+            {
+                "name": "Harford Stadium",
+                "sentiment": "none"
+            },
+            {
+                "name": "Baltimore",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bel Air",
+                "sentiment": "none"
+            },
+            {
+                "name": "Delaware",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Harford Fighting Owls",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Harford Community College",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Maryland Junior College Athletic Conference",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "White Marsh",
+                "Whitehaven"
+            ],
+            "state": [
+                "Maryland"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:33:08.562+03:00",
+    "updated": "2026-04-30T07:36:50.000+03:00"
+}

@@ -1,0 +1,151 @@
+{
+    "thread": {
+        "uuid": "95b276489389985b291c951f3584e63d6c155b87",
+        "url": "https://www.newsbreak.com/news/4811214895607-teenage-suspect-in-deland-double-murder-is-arrested-in-ellenton-motive-unclear",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/oviedo-fl",
+        "site_categories": [
+            "health",
+            "arts, culture and entertainment",
+            "human interest",
+            "under_construction",
+            "politics",
+            "sport",
+            "social issue",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice"
+        ],
+        "section_title": "Oviedo, FL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Teenage suspect in DeLand double murder is arrested in Ellenton; motive unclear - NewsBreak",
+        "title_full": "Teenage suspect in DeLand double murder is arrested in Ellenton; motive unclear - NewsBreak",
+        "published": "2026-08-05T20:11:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2Q28tf_1DxtYEQT00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "95b276489389985b291c951f3584e63d6c155b87",
+    "url": "https://www.newsbreak.com/news/4811214895607-teenage-suspect-in-deland-double-murder-is-arrested-in-ellenton-motive-unclear",
+    "ord_in_thread": 0,
+    "author": "Jim DeLa",
+    "published": "2026-08-05T20:11:00.000+03:00",
+    "title": "Teenage suspect in DeLand double murder is arrested in Ellenton; motive unclear - NewsBreak",
+    "text": "By Jim DeLa ,\n11 hours ago SARASOTA, Fla. (WWSB) - A 17-year-old suspected in a double murder in Volusia County has been arrested in Ellenton, the U.S. Marshals Service said Wednesday. The teenager was wanted for two counts of second-degree murder in the July 29 shooting deaths of Samson Campbell, 18, and Dustin Rose, 19 in DeLand. Read full article\n5",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.mysuncoast.com/2026/08/05/teenage-suspect-deland-double-murder-is-arrested-ellenton/?outputType=amp",
+        "https://mysuncoast.com/2026/08/05/teenage-suspect-deland-double-murder-is-arrested-ellenton/?outputType=amp",
+        "https://www.mysuncoast.com/2026/08/05/teenage-suspect-deland-double-murder-is-arrested-ellenton/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jim DeLa",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Dustin Rose",
+                "sentiment": "none"
+            },
+            {
+                "name": "Samson Campbell",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Ellenton",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fla",
+                "sentiment": "none"
+            },
+            {
+                "name": "DeLand",
+                "sentiment": "none"
+            },
+            {
+                "name": "usia County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "U. S. Marshals Service",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Oviedo"
+            ],
+            "state": [
+                "Florida"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:39:52.868+03:00",
+    "updated": "2026-08-06T07:45:53.000+03:00"
+}

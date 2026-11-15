@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "98302abb0efc99f0465b0f8bd12804ba4dafee14",
+        "url": "https://local.newsbreak.com/news10-abc-1589980/4147233316690-teen-reported-missing-out-of-saratoga-county",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/news10-abc-1589980",
+        "site_categories": [],
+        "section_title": "NEWS10 ABC&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Teen reported missing out of Saratoga County - NewsBreak",
+        "title_full": "Teen reported missing out of Saratoga County - NewsBreak",
+        "published": "2025-07-31T05:46:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1urQYb_13Kqv8Pw00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "98302abb0efc99f0465b0f8bd12804ba4dafee14",
+    "url": "https://local.newsbreak.com/news10-abc-1589980/4147233316690-teen-reported-missing-out-of-saratoga-county",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-07-31T05:46:00.000+03:00",
+    "title": "Teen reported missing out of Saratoga County - NewsBreak",
+    "text": "MOREAU, N.Y. ( NEWS10 ) — The Saratoga County Sheriff’s Office is looking for a teenage girl, who was reported missing out of the town of Moreau. Officials said Kara Lorman was last seen on Sunday, July 27. Kara is 16 years old, 5’4″ tall and about 140 lbs. She has black hair and hazel eyes. Police said she may travel to either Yonkers or New York City. Read the latest from NEWS10: NEWS10 is the Capital Region’s local news leader! For the latest news, weather, sports, and streaming video, head to NEWS10 ABC.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Human Interest",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "topics": [
+        "Human Interest->human mishap",
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->investigation (criminal)",
+        "Social Issue->social problem",
+        "Social Issue->children",
+        "Social Issue->discrimination"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.news10.com/news/saratoga-county/teen-reported-missing-out-of-saratoga-county/",
+        "https://img.particlenews.com/image.php?url=1urQYb_13Kqv8Pw00",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1urQYb_13Kqv8Pw00",
+        "https://www.news10.com/",
+        "https://www.news10.com",
+        "https://www.img.particlenews.com/image.php?url=1urQYb_13Kqv8Pw00",
+        "https://www.news10.com/news/saratoga-county/teen-reported-missing-out-of-saratoga-county",
+        "https://news10.com/",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1urQYb_13Kqv8Pw00",
+        "https://news10.com",
+        "https://www.news10.com",
+        "https://news10.com/news/saratoga-county/teen-reported-missing-out-of-saratoga-county/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kara Lorman",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ABC",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:28:28.984+03:00",
+    "updated": "2025-07-31T07:33:54.000+03:00"
+}

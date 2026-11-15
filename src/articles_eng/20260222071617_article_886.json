@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "38b8db223e546fd8111ba43613f00338ea144a16",
+        "url": "https://www.news18.com/business/economy/un-secretary-general-antonio-guterres-calls-for-creation-of-global-ai-fund-9916792.html",
+        "site_full": "www.news18.com",
+        "site": "news18.com",
+        "site_section": "https://www.news18.com/commonfeeds/v1/eng/rss/latest.xml",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "media",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "human interest",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Latest News in news18.com, Latest Latest News, Latest News",
+        "site_title": "News: Get Latest News Today, Breaking News, Top News Headlines, India and World News | News18",
+        "title": "UN Secretary General Antonio Guterres Calls For Creation Of Global AI Fund | Economy News - News18",
+        "title_full": "UN Secretary General Antonio Guterres Calls For Creation Of Global AI Fund | Economy News - News18",
+        "published": "2026-02-19T07:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.news18.com/ibnlive/uploads/2025/05/Antonio-Guterres-UN-2025-05-82272d5d2c5dc99e6278f9bb40e3f6ba-16x9.jpg",
+        "performance_score": 0,
+        "domain_rank": 3556,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "38b8db223e546fd8111ba43613f00338ea144a16",
+    "url": "https://www.news18.com/business/economy/un-secretary-general-antonio-guterres-calls-for-creation-of-global-ai-fund-9916792.html",
+    "ord_in_thread": 0,
+    "author": "@cnnnews18",
+    "published": "2026-02-19T07:18:00.000+02:00",
+    "title": "UN Secretary General Antonio Guterres Calls For Creation Of Global AI Fund | Economy News - News18",
+    "text": "UN Secretary-General Antonio Guterres has called for the creation of a global AI fund aimed at building basic capacity in developing countries, speaking at the AI Impact Summit 2026 in India. Guterres said, “AI must be accessible to everyone. That is why, encouraged by the General Assembly of the United Nations, I’m calling for a global fund on AI to build basic capacity in developing countries — skills, data, affordable computing power and inclusive ecosystems. Our target is $3 billion US dollars. That is less than 1% of the annual revenue of a single tech company. A small price for AI defusion that benefits all, including businesses building AI.\" Highlighting the global stakes of AI, Guterres emphasized that the technology’s future cannot be left to a handful of nations or a few billionaires. “The meeting in India has special meaning… The future of AI cannot be decided by a handful of countries or left to the whims of a few billionaires,\" he said, stressing the need for an inclusive, collaborative approach that ensures equitable access and responsible deployment of AI worldwide. The AI Impact Summit 2026 brings together global policymakers, tech leaders, and AI innovators to discuss the future of artificial intelligence and its socio-economic impact. Attendees include top executives from Google, Microsoft, OpenAI, and leading Indian IT firms, alongside government ministers, AI researchers, and representatives from international organizations. The summit aims to foster dialogue on AI governance, ethics, and equitable access, with a focus on ensuring that AI benefits society broadly and responsibly.",
+    "summary": "UN Secretary-General Antonio Guterres has called for the creation of a global AI fund aimed at building basic capacity in developing countries, speaking at the AI Impact Summit 2026 in India. That is why, encouraged by the General Assembly of the United Nations, I’m calling for a global fund on AI to build basic capacity in developing countries — skills, data, affordable computing power and inclusive ecosystems. Highlighting the global stakes of AI, Guterres emphasized that the technology’s future cannot be left to a handful of nations or a few billionaires.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology",
+        "Politics"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science",
+        "Politics->government policy",
+        "Politics->international relations"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Antonio Guterres",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "India",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "General Assembly",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "AI",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "AI",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:40:13.419+02:00",
+    "updated": "2026-02-19T08:01:01.000+02:00"
+}

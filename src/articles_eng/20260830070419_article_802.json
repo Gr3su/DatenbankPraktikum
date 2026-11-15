@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "e939c63fd1730ec9bc0c19b3ea1673eed608949e",
+        "url": "https://tass.com/economy/2178127",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/rss/v2.xml",
+        "site_categories": [
+            "war, conflict and unrest",
+            "economy, business and finance",
+            "media",
+            "science and technology",
+            "politics"
+        ],
+        "section_title": "TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "New passenger car sales in Russia may reach 115,000 in August - Autostat",
+        "title_full": "New passenger car sales in Russia may reach 115,000 in August - Autostat",
+        "published": "2026-08-27T06:46:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 13468,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e939c63fd1730ec9bc0c19b3ea1673eed608949e",
+    "url": "https://tass.com/economy/2178127",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-08-27T06:46:00.000+03:00",
+    "title": "New passenger car sales in Russia may reach 115,000 in August - Autostat",
+    "text": "MOSCOW, August 27. /TASS/. Sales of new passenger cars in Russia may total 110,000-115,000 units in August 2026, Director of the Autostat analytical agency Sergey Tselikov told TASS in an interview ahead of the Eastern Economic Forum (EEF).\nAccording to Autostat, 122,200 new passenger cars were sold in Russia in August 2025. Thus, according to the expert’s forecast, the market may contract by 6%-10% compared with last year.\n\"For August, we are looking at a range slightly above 110,000, somewhere between 110,000 and 115,000. The first two weeks indicate that we are moving toward precisely that level,\" he said.\nAt the same time, a repeat of last year’s fall surge is not expected, the Autostat head noted.\nThe Eastern Economic Forum will be held on September 1-4 in Vladivostok on the campus of Far Eastern Federal University. The forum is organized by the Roscongress Foundation with the support of the Russian government. TASS is the general information partner.",
+    "summary": "Sales of new passenger cars in Russia may total 110,000-115,000 units in August 2026, Director of the Autostat analytical agency Sergey Tselikov told TASS in an interview ahead of the Eastern Economic Forum (EEF). According to Autostat, 122,200 new passenger cars were sold in Russia in August 2025. Thus, according to the expert’s forecast, the market may contract by 6%-10% compared with last year. At the same time, a repeat of last year’s fall surge is not expected, the Autostat head noted. The forum is organized by the Roscongress Foundation with the support of the Russian government.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->market and exchange"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sergey Tselikov",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Russia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Autostat",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "EEF",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "TASS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TAS",
+                        "exchange": "KLSE"
+                    }
+                ]
+            },
+            {
+                "name": "Eastern Economic Forum",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:33:53.722+03:00",
+    "updated": "2026-08-27T07:49:54.000+03:00"
+}

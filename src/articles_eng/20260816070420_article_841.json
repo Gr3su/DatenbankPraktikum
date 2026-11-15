@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "139766f1207473e9b61c0c481e4c405352df87b9",
+        "url": "https://www.newsbreak.com/news/4824138214656-3-alligators-shot-in-fort-worth-nature-preserve-reward-offered",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/arlington-tx",
+        "site_categories": [
+            "under_construction",
+            "health",
+            "arts, culture and entertainment",
+            "science and technology",
+            "social issue",
+            "politics",
+            "sport",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "human interest",
+            "economy, business and finance"
+        ],
+        "section_title": "Arlington, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "3 alligators shot in Fort Worth nature preserve, reward offered - NewsBreak",
+        "title_full": "3 alligators shot in Fort Worth nature preserve, reward offered - NewsBreak",
+        "published": "2026-08-11T22:49:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0FNgUl_1E9uvngs00",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "139766f1207473e9b61c0c481e4c405352df87b9",
+    "url": "https://www.newsbreak.com/news/4824138214656-3-alligators-shot-in-fort-worth-nature-preserve-reward-offered",
+    "ord_in_thread": 0,
+    "author": "Alexsis Jones",
+    "published": "2026-08-11T22:49:00.000+03:00",
+    "title": "3 alligators shot in Fort Worth nature preserve, reward offered - NewsBreak",
+    "text": "By Alexsis Jones ,\n1 days ago The illegal shooting of three alligators inside a Fort Worth nature preserve has sparked a state investigation — and a potential reward for information. Two of the alligators were killed and abandoned, while the third survived, according to a social media post from the Texas Parks and Wildlife Department, which announced the $1,000 reward for information. Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->accident and emergency incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://fortworthreport.org/2026/08/11/3-alligators-shot-in-fort-worth-nature-preserve-reward-offered/",
+        "https://www.fortworthreport.org/2026/08/11/3-alligators-shot-in-fort-worth-nature-preserve-reward-offered/",
+        "https://fortworthreport.org/2026/08/11/3-alligators-shot-in-fort-worth-nature-preserve-reward-offered"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alexsis Jones",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Fort Worth",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Texas Parks and Wildlife Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Arlington"
+            ],
+            "state": [
+                "Texas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:40:30.202+03:00",
+    "updated": "2026-08-13T07:43:39.000+03:00"
+}

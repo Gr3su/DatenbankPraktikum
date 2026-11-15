@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "2cb97a1fb6794ee4636b9e86880b24c3fff34956",
+        "url": "https://tass.com/economy/2178133",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/rss/v2.xml",
+        "site_categories": [
+            "media",
+            "science and technology",
+            "war, conflict and unrest",
+            "economy, business and finance",
+            "politics"
+        ],
+        "section_title": "TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Northern Sea Route offers unprecedented opportunities amid logistics disruptions",
+        "title_full": "Northern Sea Route offers unprecedented opportunities amid logistics disruptions",
+        "published": "2026-08-27T07:17:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 13468,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2cb97a1fb6794ee4636b9e86880b24c3fff34956",
+    "url": "https://tass.com/economy/2178133",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-08-27T07:17:00.000+03:00",
+    "title": "Northern Sea Route offers unprecedented opportunities amid logistics disruptions",
+    "text": "MOSCOW, August 27. /TASS/. The Northern Sea Route (NSR) offers unprecedented opportunities for its participants amid disruptions to logistics chains, Russian Presidential Adviser and Executive Secretary of the Eastern Economic Forum (EEF) Organizing Committee Anton Kobyakov told TASS in an interview ahead of the forum.\n\"The northern dimension of Russia’s ‘pivot to the East,’ which offers its participants unprecedented opportunities precisely in the current environment of disrupted logistics chains and traditional routes being blocked by areas of military and political tensions, is the Northern Sea Route,\" he said.\nAccording to Kobyakov, the route ensures the safety of temperature-sensitive goods, makes it possible to avoid running refrigeration systems at maximum capacity, offers lower insurance costs, and eliminates intermediate customs checkpoints.",
+    "summary": "MOSCOW, August 27. /TASS/. The Northern Sea Route (NSR) offers unprecedented opportunities for its participants amid disruptions to logistics chains, Russian Presidential Adviser and Executive Secretary of the Eastern Economic Forum (EEF) Organizing Committee Anton Kobyakov told TASS in an interview ahead of the forum. \"The northern dimension of Russia’s ‘pivot to the East,’ which offers its participants unprecedented opportunities precisely in the current environment of disrupted logistics chains and traditional routes being blocked by areas of military and political tensions, is the Northern Sea Route,\" he said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business information",
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Anton Kobyakov",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "NSR",
+                "sentiment": "none"
+            },
+            {
+                "name": "MOSCOW",
+                "sentiment": "none"
+            },
+            {
+                "name": "Russia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "EEF",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "TASS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TAS",
+                        "exchange": "KLSE"
+                    }
+                ]
+            },
+            {
+                "name": "Eastern Economic Forum",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:33:39.587+03:00",
+    "updated": "2026-08-27T07:35:37.000+03:00"
+}

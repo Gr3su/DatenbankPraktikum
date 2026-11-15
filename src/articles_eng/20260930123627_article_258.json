@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "0a7520240e73c44b46f31cd45b19e9c2ab3238b4",
+        "url": "https://www.newsbreak.com/news/4909805765236-motorcyclist-seriously-injured-in-single-vehicle-crash-north-of-bixby",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sitemap-news-34.xml",
+        "site_categories": [
+            "sport",
+            "economy, business and finance",
+            "under_construction",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "human interest",
+            "politics"
+        ],
+        "section_title": "",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Motorcyclist Seriously Injured in Single-Vehicle Crash North of Bixby - NewsBreak",
+        "title_full": "Motorcyclist Seriously Injured in Single-Vehicle Crash North of Bixby - NewsBreak",
+        "published": "2026-09-25T20:20:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2AC1zA_1FXE6ac100",
+        "performance_score": 0,
+        "domain_rank": 3126,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-09-27T12:48:05.763+03:00"
+        }
+    },
+    "uuid": "0a7520240e73c44b46f31cd45b19e9c2ab3238b4",
+    "url": "https://www.newsbreak.com/news/4909805765236-motorcyclist-seriously-injured-in-single-vehicle-crash-north-of-bixby",
+    "ord_in_thread": 0,
+    "author": "nationwidereport.com",
+    "published": "2026-09-25T20:20:00.000+03:00",
+    "title": "Motorcyclist Seriously Injured in Single-Vehicle Crash North of Bixby - NewsBreak",
+    "text": "1 days ago A 41-year-old man from Boss was seriously injured after the motorcycle he was riding crashed on MO-49 about a mile north of Bixby, according to the Missouri State Highway Patrol's online crash report. The patrol said the crash happened on September 25, 2026, at approximately 12:20 p.m. The driver was... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->assault"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nationwidereport.com/motorcyclist-seriously-injured-in-single-vehicle-crash-north-of-bixby-1754f1",
+        "https://nationwidereport.com/motorcyclist-seriously-injured-in-single-vehicle-crash-north-of-bixby-1754f1"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Boss",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Missouri State Highway Patrol",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-27T12:48:05.763+03:00",
+    "updated": "2026-09-27T12:53:27.000+03:00",
+    "related_articles": null
+}

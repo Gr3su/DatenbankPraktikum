@@ -1,0 +1,173 @@
+{
+    "thread": {
+        "uuid": "96e8fef8a8af5660215e6c1b5d10f43439429050",
+        "url": "https://www.newsbreak.com/abc-7-chicago-560941/4477308468544-man-killed-in-rollover-crash-on-i-294-near-des-plaines-identified-by-officials",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/abc-7-chicago-560941",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "ABC 7 Chicago&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Man killed in rollover crash on I-294 near Des Plaines identified by officials - NewsBreak",
+        "title_full": "Man killed in rollover crash on I-294 near Des Plaines identified by officials - NewsBreak",
+        "published": "2026-02-05T00:42:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2fFkWV_18cR7Zzb00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "96e8fef8a8af5660215e6c1b5d10f43439429050",
+    "url": "https://www.newsbreak.com/abc-7-chicago-560941/4477308468544-man-killed-in-rollover-crash-on-i-294-near-des-plaines-identified-by-officials",
+    "ord_in_thread": 0,
+    "author": "ABC7 Chicago Digital Team",
+    "published": "2026-02-05T00:42:00.000+02:00",
+    "title": "Man killed in rollover crash on I-294 near Des Plaines identified by officials - NewsBreak",
+    "text": "By ABC7 Chicago Digital Team ,\n6 hours ago\nA person was killed in crash Wednesday evening on I-294 in the north suburbs.\nABC7 Chicago is now streaming 24/7. Click here to watch A two-vehicle rollover crash happened around 4:01 p.m. on I-294 near Golf Road in Des Plaines, Illinois State Police said.\nOne person was killed in the crash, ISP said.\nThe Cook County Medical Examiner's Office identified the person who died as 69-year-old Eugene Robinson Jr. of Milwaukee, Wisconsin.\nThe left three lanes of northbound I-294 were closed during the crash investigation officials said.\nNo further information was immediately available as police investigate.\nThis is a developing story. Check back for updates.\n10",
+    "summary": "By ABC7 Chicago Digital Team , A person was killed in crash Wednesday evening on I-294 in the north suburbs. Click here to watch A two-vehicle rollover crash happened around 4:01 p.m. on I-294 near Golf Road in Des Plaines, Illinois State Police said. One person was killed in the crash, ISP said. The Cook County Medical Examiner's Office identified the person who died as 69-year-old Eugene Robinson Jr. of Milwaukee, Wisconsin. The left three lanes of northbound I-294 were closed during the crash investigation officials said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Crime, Law and Justice->reckless driving",
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2fFkWV_18cR7Zzb00",
+        "https://img.particlenews.com/image.php?url=2fFkWV_18cR7Zzb00",
+        "https://abc7chicago.com/video/embed/?pid=18544770",
+        "https://abc7chicago.com/watch/live/11064984/",
+        "https://abc7chicago.com/video/embed/",
+        "https://www.abc7chicago.com/watch/live/11064984/",
+        "https://www.abc7chicago.com/video/embed/?pid=18544770",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2fFkWV_18cR7Zzb00",
+        "https://abc7chicago.com/watch/live/11064984",
+        "https://www.img.particlenews.com/image.php?url=2fFkWV_18cR7Zzb00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Des Plaines",
+                "sentiment": "none"
+            },
+            {
+                "name": "Milwaukee",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chicago",
+                "sentiment": "none"
+            },
+            {
+                "name": "Illinois",
+                "sentiment": "none"
+            },
+            {
+                "name": "Golf Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wisconsin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ABC7 Chicago Digital Team",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "ISP",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Cook County Medical Examiner ' s Office",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-05T07:28:12.760+02:00",
+    "updated": "2026-02-05T07:33:16.000+02:00"
+}

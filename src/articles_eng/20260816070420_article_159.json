@@ -1,0 +1,125 @@
+{
+    "thread": {
+        "uuid": "079a751bae7feecf0b6745d56f6f22980546556c",
+        "url": "https://www.zerohedge.com/markets/market-calm-either-admirable-or-dangerous",
+        "site_full": "www.zerohedge.com",
+        "site": "zerohedge.com",
+        "site_section": "https://www.zerohedge.com/",
+        "site_categories": [
+            "politics",
+            "finance",
+            "media",
+            "financial_news",
+            "social issue",
+            "law_government_and_politics",
+            "economy, business and finance",
+            "war, conflict and unrest",
+            "science and technology"
+        ],
+        "section_title": "ZeroHedge",
+        "site_title": "ZeroHedge",
+        "title": "This Market Calm Is Either Admirable Or Dangerous",
+        "title_full": "This Market Calm Is Either Admirable Or Dangerous",
+        "published": "2026-08-13T06:20:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 7811,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "079a751bae7feecf0b6745d56f6f22980546556c",
+    "url": "https://www.zerohedge.com/markets/market-calm-either-admirable-or-dangerous",
+    "ord_in_thread": 0,
+    "author": "Tyler Durden",
+    "published": "2026-08-13T06:20:00.000+03:00",
+    "title": "This Market Calm Is Either Admirable Or Dangerous",
+    "text": "By Jan-Patrick Barnert, Bloomberg markets live reporter and strategist\nThe dramatic positioning shift last month has left the market extra vulnerable to sharp directional changes triggered by mechanical flows, an uneasy setup leading into risk events like the inflation report, Nvidia’s earnings or Jackson Hole.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jan - Patrick Barnert",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Bloomberg",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Nvidia",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "NVDA",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:11:39.209+03:00",
+    "updated": "2026-08-13T07:22:00.000+03:00"
+}

@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "d7ab3423d550a3418d4dd8bf73bf39e35c56d2e6",
+        "url": "https://www.newsbreak.com/news/4499984959386-fatal-single-vehicle-rollover-crash-on-highway-95-near-needles-wednesday-morning",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/needles-ca",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Needles, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Fatal Single-Vehicle Rollover Crash on Highway 95 near Needles Wednesday Morning - NewsBreak",
+        "title_full": "Fatal Single-Vehicle Rollover Crash on Highway 95 near Needles Wednesday Morning - NewsBreak",
+        "published": "2026-02-19T04:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4CaZnQ_18zHdUYg00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d7ab3423d550a3418d4dd8bf73bf39e35c56d2e6",
+    "url": "https://www.newsbreak.com/news/4499984959386-fatal-single-vehicle-rollover-crash-on-highway-95-near-needles-wednesday-morning",
+    "ord_in_thread": 0,
+    "author": "Michael Thielen",
+    "published": "2026-02-19T04:15:00.000+02:00",
+    "title": "Fatal Single-Vehicle Rollover Crash on Highway 95 near Needles Wednesday Morning - NewsBreak",
+    "text": "By Michael Thielen ,\n2 hours ago NEEDLES, CA. (Pain In The Pass) >> There was a fatal single-vehicle rollover on Highway 95 near Needles on Wednesday morning. At 1:46am February 18, 2026 from an iPhone alert of a crash on Hwy 95 at mile marker 25. California Highway Patrol and San Bernardino County Fire Department personnel... Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael Thielen",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Needles",
+                "sentiment": "none"
+            },
+            {
+                "name": "CA",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "San Bernardino County Fire Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "California Highway Patrol",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Needles"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:21:58.148+02:00",
+    "updated": "2026-02-19T07:24:34.000+02:00"
+}

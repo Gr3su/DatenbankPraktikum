@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "5917ed8dd5569676a0eee27d621b957f078804b6",
+        "url": "https://www.newsbreak.com/news/4620645327719-head-on-crash-in-franklin-county-leaves-two-seriously-injured",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/owensville-mo",
+        "site_categories": [
+            "crime, law and justice",
+            "politics",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "human interest",
+            "under_construction",
+            "sport"
+        ],
+        "section_title": "Owensville, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Head-on crash in Franklin County leaves two seriously injured - NewsBreak",
+        "title_full": "Head-on crash in Franklin County leaves two seriously injured - NewsBreak",
+        "published": "2026-04-29T21:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0aUApv_1AusAF2T00",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5917ed8dd5569676a0eee27d621b957f078804b6",
+    "url": "https://www.newsbreak.com/news/4620645327719-head-on-crash-in-franklin-county-leaves-two-seriously-injured",
+    "ord_in_thread": 0,
+    "author": "Maia Orme",
+    "published": "2026-04-29T21:00:00.000+03:00",
+    "title": "Head-on crash in Franklin County leaves two seriously injured - NewsBreak",
+    "text": "By Maia Orme ,\n10 hours ago Two people were injured in a car crash in Franklin County early Wednesday morning. The Missouri State Highway Patrol (MSHP) reported the crash happened at 1:07 a.m. on Highway 100, west of St. Johns Road. According to the crash report, a 2004 Chrysler PT Cruiser crossed into the westbound lanes... Read full article\nRead in NewsBreak 6",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Maia Orme",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Franklin County",
+                "sentiment": "none"
+            },
+            {
+                "name": "St. Johns Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Missouri State Highway Patrol",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "MSHP",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Owensville"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:25:23.042+03:00",
+    "updated": "2026-04-30T22:42:24.000+03:00"
+}

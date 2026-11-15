@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "b999a9329ce15ba165bc0a9d9fa4d3e103202a84",
+        "url": "https://www.newsbreak.com/news/4620575461376-tuesday-baseball-hawks-walk-off-bluejays",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/pulcifer-wi",
+        "site_categories": [
+            "politics",
+            "lifestyle and leisure",
+            "under_construction",
+            "economy, business and finance",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "sport",
+            "human interest"
+        ],
+        "section_title": "Pulcifer, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Tuesday Baseball; Hawks Walk Off Bluejays - NewsBreak",
+        "title_full": "Tuesday Baseball; Hawks Walk Off Bluejays - NewsBreak",
+        "published": "2026-04-29T20:02:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3ki7qd_1Aunjq1u00",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b999a9329ce15ba165bc0a9d9fa4d3e103202a84",
+    "url": "https://www.newsbreak.com/news/4620575461376-tuesday-baseball-hawks-walk-off-bluejays",
+    "ord_in_thread": 0,
+    "author": "Evan Christman",
+    "published": "2026-04-29T20:02:00.000+03:00",
+    "title": "Tuesday Baseball; Hawks Walk Off Bluejays - NewsBreak",
+    "text": "By Evan Christman ,\n11 hours ago Shawano earned a dramatic 5-4 walk-off win over Menasha on Tuesday at Memorial Park, rallying in the bottom of the seventh inning to secure the victory. Shawano trailed 4-3 entering its final at-bat before capitalizing on patience at the plate and a costly error. With the bases loaded, Ayden Bystol and Brody Schutt each drew walks to force in runs, and a Menasha error brought home two more to end the game. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Sport->baseball"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Evan Christman",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Menasha",
+                "sentiment": "none"
+            },
+            {
+                "name": "Brody Schutt",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ayden Bystol",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Memorial Park",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Shawano",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Pulcifer"
+            ],
+            "state": [
+                "Wisconsin"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:21:19.335+03:00",
+    "updated": "2026-04-30T07:23:37.000+03:00"
+}

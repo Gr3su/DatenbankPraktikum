@@ -1,0 +1,163 @@
+{
+    "thread": {
+        "uuid": "4b262dc6502cbfca24ae005ca725806062087eff",
+        "url": "https://rapidcityjournal.com/news/local/crime-courts/article_2977b4c6-1a8f-4529-99da-75a88516ffeb.html",
+        "site_full": "rapidcityjournal.com",
+        "site": "rapidcityjournal.com",
+        "site_section": "https://rapidcityjournal.com/news",
+        "site_categories": [
+            "media",
+            "economy, business and finance",
+            "human interest",
+            "lifestyle and leisure",
+            "politics",
+            "science and technology",
+            "sport",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Rapid City | Latest News | rapidcityjournal.com",
+        "site_title": "Rapid City Journal | Breaking News | | Read Rapid City, SD and South Dakota breaking news. Get latest news, events and information on South Dakota sports, weather, entertainment and lifestyles.",
+        "title": "Police investigate hit-in-run crash with Tesla car",
+        "title_full": "Police investigate hit-in-run crash with Tesla car",
+        "published": "2026-11-06T06:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/2/97/2977b4c6-1a8f-4529-99da-75a88516ffeb/6aed51932bc4a.preview.jpg?crop=246%2C247%2C96%2C30&amp;resize=200%2C201&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 68777,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-11-06T06:58:45.207+02:00"
+        }
+    },
+    "uuid": "4b262dc6502cbfca24ae005ca725806062087eff",
+    "url": "https://rapidcityjournal.com/news/local/crime-courts/article_2977b4c6-1a8f-4529-99da-75a88516ffeb.html",
+    "ord_in_thread": 0,
+    "author": "Journal staff",
+    "published": "2026-11-06T06:15:00.000+02:00",
+    "title": "Police investigate hit-in-run crash with Tesla car",
+    "text": "The Rapid City Police Department said the suspect driver has been identified and an arrest is forthcoming, after a Tesla crashed into several parked camper trailers in a Rapid City storage lot.\nA\nLee Enterprises, Incorporated newspaper. Majority shareholder: David Hoffmann,Hoffmann Media Group.\nAlert Top Story Topical",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->reckless driving",
+        "Crime, Law and Justice->police",
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://lee.net/",
+        "https://hoffmannmediagroup.com/",
+        "https://lee.net",
+        "https://hoffmannmediagroup.com",
+        "https://www.lee.net/",
+        "https://www.hoffmannmediagroup.com/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "David Hoffmann",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Rapid City",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Tesla",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "TSLA",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Lee Enterprises, Incorporated",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Rapid City Police Department",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Hoffmann Media Group",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "abc. lee enterprises, incorporated",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "LEE",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Rapid City"
+            ],
+            "state": [
+                "South Dakota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-11-06T06:58:45.207+02:00",
+    "updated": "2026-11-06T07:03:32.000+02:00",
+    "related_articles": null
+}

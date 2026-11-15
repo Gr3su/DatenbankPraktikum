@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "c1563bde8dd8755af004cca46a222a1b736decfa",
+        "url": "https://www.newsbreak.com/news/4771814086100-41-year-old-man-killed-in-south-abilene-shooting-police-investigating",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/abilene-tx",
+        "site_categories": [
+            "politics",
+            "under_construction",
+            "disaster and accident",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "social issue",
+            "human interest",
+            "arts, culture and entertainment",
+            "sport",
+            "economy, business and finance"
+        ],
+        "section_title": "Abilene, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "41-year-old man killed in south Abilene shooting; police investigating - NewsBreak",
+        "title_full": "41-year-old man killed in south Abilene shooting; police investigating - NewsBreak",
+        "published": "2026-07-15T17:17:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0mwcCZ_1DKBNcjl00",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c1563bde8dd8755af004cca46a222a1b736decfa",
+    "url": "https://www.newsbreak.com/news/4771814086100-41-year-old-man-killed-in-south-abilene-shooting-police-investigating",
+    "ord_in_thread": 0,
+    "author": "Brenna Gibbons",
+    "published": "2026-07-15T17:17:00.000+03:00",
+    "title": "41-year-old man killed in south Abilene shooting; police investigating - NewsBreak",
+    "text": "By Brenna Gibbons ,\n14 hours ago ABILENE, Texas — A 41-year-old man is dead after a shooting late Tuesday night in south Abilene. According to the Abilene Police Department, officers were called to the 1700 block of South 13th Street around 10:18 p.m. after reports of gunfire. Police said one person called 911 and told... Read full article\n7",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Health"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide",
+        "Health->injury"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://ktxs.com/news/local/41-year-old-man-killed-in-south-abilene-shooting-police-investigating",
+        "https://www.ktxs.com/news/local/41-year-old-man-killed-in-south-abilene-shooting-police-investigating"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Abilene",
+                "sentiment": "none"
+            },
+            {
+                "name": "Texas",
+                "sentiment": "none"
+            },
+            {
+                "name": "South 13th Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Abilene Police Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Abilene"
+            ],
+            "state": [
+                "Texas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:35:08.707+03:00",
+    "updated": "2026-07-16T07:42:04.000+03:00"
+}

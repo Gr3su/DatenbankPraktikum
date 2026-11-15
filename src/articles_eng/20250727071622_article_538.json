@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "4df42a8ad1c3100d3d803613655ea29c0e6e5be5",
+        "url": "https://local.newsbreak.com/the-hill-560476/4129241127915-trump-to-visit-federal-reserve-amid-scrutiny-of-renovations",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/the-hill-560476",
+        "site_categories": [],
+        "section_title": "The Hill&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Trump to visit Federal Reserve amid scrutiny of renovations - NewsBreak",
+        "title_full": "Trump to visit Federal Reserve amid scrutiny of renovations - NewsBreak",
+        "published": "2025-07-24T05:31:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0seqyT_132ilv4v00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4df42a8ad1c3100d3d803613655ea29c0e6e5be5",
+    "url": "https://local.newsbreak.com/the-hill-560476/4129241127915-trump-to-visit-federal-reserve-amid-scrutiny-of-renovations",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-07-24T05:31:00.000+03:00",
+    "title": "Trump to visit Federal Reserve amid scrutiny of renovations - NewsBreak",
+    "text": "President Trump is scheduled to visit the Federal Reserve’s headquarters on Thursday, joining other administration officials who have requested a site tour because of scrutiny of the central bank’s renovations. Trump is set to visit the Fed at 4 p.m. on Thursday, according to his public schedule released by the White House. The visit is slated to last roughly an hour. Top White House officials have zeroed in on a $2.5 billion renovation of the Federal Reserve’s Washington offices as part of a series of criticisms of chairman Jerome Powell. Trump has for months berated Powell, whom he first appointed to the position in 2017, for not lowering interest rates. But the criticism has expanded in recent weeks. White House deputy chief of staff James Blair and White House budget chief Russ Vought have led the charge in focusing on the renovations, and the president last week suggested the cost overruns could be a fireable offense for Powell. He has since backed off and indicated he does not intend to fire the chairman before his term expires next May. Powell has asked the inspector general of the central bank to review the renovations, and the Fed has posted an explainer to its website detailing why the project has faced increased costs. For the latest news, weather, sports, and streaming video, head to The Hill.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government",
+        "Politics->economic policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0seqyT_132ilv4v00",
+        "https://img.particlenews.com/image.php?url=0seqyT_132ilv4v00",
+        "https://thehill.com/homenews/5414416-fed-chair-powell-threats/",
+        "https://thehill.com",
+        "https://thehill.com/business/5413705-trump-aides-federal-reserve-renovations-visit/",
+        "https://www.img.particlenews.com/image.php?url=0seqyT_132ilv4v00",
+        "https://www.thehill.com",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0seqyT_132ilv4v00",
+        "https://www.thehill.com/homenews/5414416-fed-chair-powell-threats/",
+        "https://img.particlenews.com/image.php",
+        "https://www.thehill.com/business/5413705-trump-aides-federal-reserve-renovations-visit/",
+        "https://thehill.com/business/5413705-trump-aides-federal-reserve-renovations-visit",
+        "https://thehill.com/homenews/5414416-fed-chair-powell-threats"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jerome Powell",
+                "sentiment": "none"
+            },
+            {
+                "name": "James Blair",
+                "sentiment": "none"
+            },
+            {
+                "name": "Russ Vought",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Federal Reserve",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "White House",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "federal reserve",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "4df42a8ad1c3100d3d803613655ea29c0e6e5be5",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:31:14.379+03:00",
+    "updated": "2025-07-24T07:32:17.000+03:00"
+}

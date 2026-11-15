@@ -1,0 +1,126 @@
+{
+    "thread": {
+        "uuid": "bbcf24bc899ba5e5a29f9b19a3cfc6560c973f7a",
+        "url": "https://local.newsbreak.com/newsweek-500152/4786202812196-jack-smith-faces-doj-criminal-referral-accused-of-lying-in-testimony",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/newsweek-500152",
+        "site_categories": [
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "politics",
+            "crime, law and justice",
+            "disaster and accident",
+            "economy, business and finance",
+            "sport"
+        ],
+        "section_title": "Newsweek&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Jack Smith Faces DOJ Criminal Referral, Accused of Lying in Testimony - NewsBreak",
+        "title_full": "Jack Smith Faces DOJ Criminal Referral, Accused of Lying in Testimony - NewsBreak",
+        "published": "2026-07-23T06:25:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3hfbGl_1DYgmi9T00",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bbcf24bc899ba5e5a29f9b19a3cfc6560c973f7a",
+    "url": "https://local.newsbreak.com/newsweek-500152/4786202812196-jack-smith-faces-doj-criminal-referral-accused-of-lying-in-testimony",
+    "ord_in_thread": 0,
+    "author": "Anna Commander",
+    "published": "2026-07-23T06:25:00.000+03:00",
+    "title": "Jack Smith Faces DOJ Criminal Referral, Accused of Lying in Testimony - NewsBreak",
+    "text": "By Anna Commander ,\n52 minutes ago It remains unclear whether the DOJ will pursue the allegations against Smith, who has consistently defended his work. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.newsweek.com/jack-smith-faces-doj-criminal-referral-accused-of-lying-in-testimony-12231914",
+        "https://newsweek.com/jack-smith-faces-doj-criminal-referral-accused-of-lying-in-testimony-12231914"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Anna",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jack Smith",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "DOJ",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-23T07:20:10.473+03:00",
+    "updated": "2026-07-23T07:20:10.473+03:00"
+}

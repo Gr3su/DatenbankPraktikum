@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "b71b08a373a11f7a4cebea24b4272a4a25f7821f",
+        "url": "https://www.newsbreak.com/news/4621162650876-hazmat-called-after-truck-leak-shuts-i-40-east",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/maryville-tn",
+        "site_categories": [
+            "economy, business and finance",
+            "under_construction",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "human interest",
+            "crime, law and justice",
+            "sport",
+            "politics"
+        ],
+        "section_title": "Maryville, TN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Hazmat Called After Truck Leak Shuts I-40 East - NewsBreak",
+        "title_full": "Hazmat Called After Truck Leak Shuts I-40 East - NewsBreak",
+        "published": "2026-04-30T00:32:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/45I6Pn_1AvO08z900",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b71b08a373a11f7a4cebea24b4272a4a25f7821f",
+    "url": "https://www.newsbreak.com/news/4621162650876-hazmat-called-after-truck-leak-shuts-i-40-east",
+    "ord_in_thread": 0,
+    "author": "Bobbie Lewis",
+    "published": "2026-04-30T00:32:00.000+03:00",
+    "title": "Hazmat Called After Truck Leak Shuts I-40 East - NewsBreak",
+    "text": "By Bobbie Lewis ,\n6 hours ago A tractor-trailer crash on I-40 East near Prosser Road early Tuesday turned the morning drive into a headache for commuters, after the rig began leaking diesel and at least one eastbound lane was shut. Knoxville police and fire crews responded to the wreck, requested a HAZMAT team, and urged drivers to steer clear while the roadway was secured. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident",
+        "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bobbie Lewis",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Prosser Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Knoxville",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "HAZMAT",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "b71b08a373a11f7a4cebea24b4272a4a25f7821f",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Maryville"
+            ],
+            "state": [
+                "Tennessee"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:28:39.735+03:00",
+    "updated": "2026-04-30T07:33:33.000+03:00"
+}

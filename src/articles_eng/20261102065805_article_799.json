@@ -1,0 +1,132 @@
+{
+    "thread": {
+        "uuid": "11e09b4baca17e03799aa54564acfa98233ef1dd",
+        "url": "https://www.newsbreak.com/news/4975499519588-woman-arrested-on-drug-charges-in-worcester",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/oakham-ma",
+        "site_categories": [
+            "social issue",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "economy, business and finance",
+            "sport",
+            "politics",
+            "lifestyle and leisure",
+            "under_construction"
+        ],
+        "section_title": "Oakham, MA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Woman arrested on drug charges in Worcester - NewsBreak",
+        "title_full": "Woman arrested on drug charges in Worcester - NewsBreak",
+        "published": "2026-10-30T04:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4MZdoK_1GaQMCzc00",
+        "performance_score": 0,
+        "domain_rank": 3021,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-30T07:18:50.164+02:00"
+        }
+    },
+    "uuid": "11e09b4baca17e03799aa54564acfa98233ef1dd",
+    "url": "https://www.newsbreak.com/news/4975499519588-woman-arrested-on-drug-charges-in-worcester",
+    "ord_in_thread": 0,
+    "author": "Daniel Duric",
+    "published": "2026-10-30T04:17:00.000+02:00",
+    "title": "Woman arrested on drug charges in Worcester - NewsBreak",
+    "text": "By Daniel Duric ,\n3 hours ago\nWORCESTER, MA — A woman was arrested on drug charges after police found her in possession of fentanyl and crack cocaine. Officers assigned to the Worcester Police Neighborhood Response Team arrested April Spencer, 46, of Worcester, on an outstanding warrant while patrolling the area of 187 Washington Street on Oct. 29, 2026.\nRead full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->drug related crimes"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.newportdispatch.com/2026/10/29/woman-arrested-on-drug-charges-in-worcester/",
+        "https://www.newportdispatch.com/2026/10/29/woman-arrested-on-drug-charges-in-worcester",
+        "https://newportdispatch.com/2026/10/29/woman-arrested-on-drug-charges-in-worcester/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Daniel Duric",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "April Spencer",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "MA",
+                "sentiment": "none"
+            },
+            {
+                "name": "Worcester",
+                "sentiment": "none"
+            },
+            {
+                "name": "Washington Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Worcester Police Neighborhood Response Team",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-30T07:18:50.164+02:00",
+    "updated": "2026-10-30T07:20:26.000+02:00",
+    "related_articles": null
+}

@@ -1,0 +1,113 @@
+{
+    "thread": {
+        "uuid": "b3ff0f577ee12c0f80e1d8edc16a1c05b78ad4ae",
+        "url": "https://www.news18.com/tech/godfather-malware-can-be-dangerous-for-your-android-banking-apps-heres-what-we-know-9404833.html",
+        "site_full": "www.news18.com",
+        "site": "news18.com",
+        "site_section": "https://www.news18.com/commonfeeds/v1/eng/rss/text.xml",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Text News in news18.com, Text Latest News, Text News",
+        "site_title": "News: Get Latest News Today, Breaking News, Top News Headlines, India and World News | News18",
+        "title": "Godfather Malware Can Be Dangerous For Your Android Banking Apps: Here's What We Know",
+        "title_full": "Godfather Malware Can Be Dangerous For Your Android Banking Apps: Here's What We Know",
+        "published": "2025-06-26T07:30:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.news18.com/ibnlive/uploads/2025/03/Android-apps-malware-threat-delete-warning-2025-03-4ee65fef9c9060a6cc9e4ea524fd5ceb-16x9.jpg",
+        "performance_score": 0,
+        "domain_rank": 2068,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b3ff0f577ee12c0f80e1d8edc16a1c05b78ad4ae",
+    "url": "https://www.news18.com/tech/godfather-malware-can-be-dangerous-for-your-android-banking-apps-heres-what-we-know-9404833.html",
+    "ord_in_thread": 0,
+    "author": "News18",
+    "published": "2025-06-26T07:30:00.000+03:00",
+    "title": "Godfather Malware Can Be Dangerous For Your Android Banking Apps: Here's What We Know",
+    "text": "Godfather Malware Can Be Dangerous For Your Android Banking Apps: Here’s What We Know\nAndroid malware like Godfather have been upgraded to target devices via banking apps without alarming the person or using any other methods.\nAndroid malware threats are getting scarier and the new version of a dangerous malware is causing havoc in the security arena. The godfather malware, according to researchers, has got a new upgrade which makes it even more worrying because of how easily it can dupe people into sharing their banking details.\nThe details about the new version come via Zimperium which even talks about how the malware is able to bypass the stringent app security from Google and operates like a legitimate app in the background. The biggest worry is that any regular login that you make for your banking apps can be captured by the attacker.\nRecommended Stories\nThe Godfather Malware Upgrade: You Have Been Warned\nThe first instance of the new Godfather malware was detected when Turkish banks were targeted by the attackers. The biggest concern with the new malware version is that it can mimic your actions, which makes it tough for the detection tools to raise any alarm bells. Even the user is caught unaware because of how slyly the whole act takes place.\nAndroid phones have become the safe haven for these dangerous attacks and Godfather is only showing what happens when advanced tech is used to seriously damage a target. Banks will be the obvious victims here, and people using apps to check their balances or even transfer money come right under the radar, especially for the high-value targets.\nHard To Detect\nUsually security experts advise people against installing apps from unknown websites or third-party app stores. But in this case, even the legit apps can be masked by using sophisticated tools which makes it harder for users to even decipher if they are being attacked or not.\nDoes this mean people should stop using apps like these? Not really, but most of these attacks are routed through phishing emails that redirect you to a site which can be malicious and used to control your devices. Experts are worried that most of these attacks will be aimed at large businesses and banks, so it is imperative that companies fully strengthen their security standards across the board.\nAbout the Author\nS Aadeetya\nnews, expert insights, and trends from\nIndiaand around the\nworld. Also Download the\nNews18 Appto stay updated!\n- Location :\n- First Published:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Science and Technology->biomedical science",
+        "Science and Technology->information technology and computer science",
+        "Science and Technology->technology and engineering",
+        "Crime, Law and Justice->cyber crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+        "https://zimperium.com/blog/your-mobile-app-their-playground-the-dark-side-of-the-virtualization",
+        "https://onelink.to/eng-article-eop",
+        "https://www.onelink.to/eng-article-eop",
+        "https://www.zimperium.com/blog/your-mobile-app-their-playground-the-dark-side-of-the-virtualization"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Google",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-26T07:38:24.349+03:00",
+    "updated": "2025-06-27T05:06:09.000+00:00"
+}

@@ -1,0 +1,154 @@
+{
+    "thread": {
+        "uuid": "3b8e9036902b8bff0660627f8a7b55c46c702862",
+        "url": "https://www.newsbreak.com/cnn-510076/4961275165740-zelensky-if-you-give-something-to-putin-he-will-want-everything",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/trending/top/zelensky&",
+        "site_categories": [
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "politics",
+            "under_construction",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "sport"
+        ],
+        "section_title": "The latest zelensky&amp; news, videos &amp; comments | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Zelensky: If you give something to Putin, he will want everything - NewsBreak",
+        "title_full": "Zelensky: If you give something to Putin, he will want everything - NewsBreak",
+        "published": "2026-10-22T21:08:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3UGV4W_1GM5OUaC00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T07:22:38.243+03:00"
+        }
+    },
+    "uuid": "3b8e9036902b8bff0660627f8a7b55c46c702862",
+    "url": "https://www.newsbreak.com/cnn-510076/4961275165740-zelensky-if-you-give-something-to-putin-he-will-want-everything",
+    "ord_in_thread": 0,
+    "author": "CNN",
+    "published": "2026-10-22T21:08:00.000+03:00",
+    "title": "Zelensky: If you give something to Putin, he will want everything - NewsBreak",
+    "text": "By CNN ,\n10 hours ago Ukrainian President Volodymyr Zelensky speaks to Christiane Amanpour from Kyiv about his relationship with President Trump and impact of the U.S. diesel deal with Russia. Read full article\n117",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->international military intervention",
+        "War, Conflict and Unrest->armed conflict",
+        "War, Conflict and Unrest->war"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cnn.com/2026/10/22/tv/video/amanpour-zelensky-ukraine-war-russia-trump",
+        "https://cnn.com/2026/10/22/tv/video/amanpour-zelensky-ukraine-war-russia-trump"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flove.1014aed4.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsad.38f2c935.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Putin",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Volodymyr Zelensky",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Christiane Amanpour",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "U. S.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Russia",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kyiv",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "CNN",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "WBD",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:22:38.243+03:00",
+    "updated": "2026-10-23T07:24:02.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,152 @@
+{
+    "thread": {
+        "uuid": "257643f94bc343c4791c762b2b359302b57401c1",
+        "url": "https://www.newsbreak.com/news/4496452352221-huskers-fall-to-stanford-on-monday",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/phoenix-az-sports",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Phoenix, AZ Sports and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Huskers Fall to Stanford on Monday - NewsBreak",
+        "title_full": "Huskers Fall to Stanford on Monday - NewsBreak",
+        "published": "2026-02-17T01:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4WJ31g_18vjNit400",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "257643f94bc343c4791c762b2b359302b57401c1",
+    "url": "https://www.newsbreak.com/news/4496452352221-huskers-fall-to-stanford-on-monday",
+    "ord_in_thread": 0,
+    "author": "huskers.com",
+    "published": "2026-02-17T01:38:00.000+02:00",
+    "title": "Huskers Fall to Stanford on Monday - NewsBreak",
+    "text": "2 days ago Nebraska wrapped up action on opening weekend with an 11-6 setback against Stanford on Monday afternoon at Salt Rivers Field at Talking Stick in Scottsdale, Ariz. Nebraska (3-1) scored six runs on 13 hits and an error, while Stanford (2-2) totaled 11 runs, 14 hits and an error. Mac Moyer... Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Sport->baseball"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mac Moyer",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Talking Stick",
+                "sentiment": "none"
+            },
+            {
+                "name": "Salt Rivers Field",
+                "sentiment": "none"
+            },
+            {
+                "name": "Scottsdale",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ariz",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Stanford",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Nebraska",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:26:07.402+02:00",
+    "updated": "2026-02-19T07:29:19.000+02:00"
+}

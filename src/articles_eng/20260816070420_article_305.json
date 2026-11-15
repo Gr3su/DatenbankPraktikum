@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "53ed9d6a083b3dcf3587b79e47b7a28abfecf0ec",
+        "url": "https://www.newsbreak.com/news/4825551681600-report-sheds-more-light-on-california-s-deadliest-ever-avalanche",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/loyalton-ca",
+        "site_categories": [
+            "crime, law and justice",
+            "health",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "under_construction",
+            "politics",
+            "human interest",
+            "sport",
+            "economy, business and finance",
+            "social issue",
+            "science and technology"
+        ],
+        "section_title": "Loyalton, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Report sheds more light on California's deadliest-ever avalanche - NewsBreak",
+        "title_full": "Report sheds more light on California's deadliest-ever avalanche - NewsBreak",
+        "published": "2026-08-12T22:47:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2GIK7b_1EBKebP600",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "53ed9d6a083b3dcf3587b79e47b7a28abfecf0ec",
+    "url": "https://www.newsbreak.com/news/4825551681600-report-sheds-more-light-on-california-s-deadliest-ever-avalanche",
+    "ord_in_thread": 0,
+    "author": "KALW",
+    "published": "2026-08-12T22:47:00.000+03:00",
+    "title": "Report sheds more light on California's deadliest-ever avalanche - NewsBreak",
+    "text": "By KALW ,\n8 hours ago A new report offers the most detailed account yet of the avalanche which killed nine people near Truckee in February. It was the deadliest avalanche in modern California history. The report was commissioned by Blackbird Mountain Guides, the company which led the trip. Three of its guides and six clients... Read full article\n4",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->disaster",
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kalw.org/bay-area-news/2026-08-12/report-sheds-more-light-on-californias-deadliest-ever-avalanche",
+        "https://kalw.org/bay-area-news/2026-08-12/report-sheds-more-light-on-californias-deadliest-ever-avalanche"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "California",
+                "sentiment": "none"
+            },
+            {
+                "name": "Truckee",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Blackbird Mountain Guides",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Loyalton"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:18:24.434+03:00",
+    "updated": "2026-08-13T07:25:46.000+03:00"
+}

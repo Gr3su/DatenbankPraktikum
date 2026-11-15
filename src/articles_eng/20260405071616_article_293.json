@@ -1,0 +1,166 @@
+{
+    "thread": {
+        "uuid": "b113bfc0087d20d99cf87a89b86999e1f0a2ca1e",
+        "url": "https://www.newsbreak.com/news/4569251757515-london-mayor-randall-weddle-indicted-on-four-campaign-finance-charges-ag-reports",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/versailles-ky",
+        "site_categories": [
+            "crime, law and justice",
+            "sport",
+            "under_construction",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "politics",
+            "human interest",
+            "economy, business and finance"
+        ],
+        "section_title": "Versailles, KY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "London Mayor Randall Weddle indicted on four campaign finance charges, AG reports - NewsBreak",
+        "title_full": "London Mayor Randall Weddle indicted on four campaign finance charges, AG reports - NewsBreak",
+        "published": "2026-03-31T21:19:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4BUiXM_1A54hbir00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b113bfc0087d20d99cf87a89b86999e1f0a2ca1e",
+    "url": "https://www.newsbreak.com/news/4569251757515-london-mayor-randall-weddle-indicted-on-four-campaign-finance-charges-ag-reports",
+    "ord_in_thread": 0,
+    "author": "ABC 36 Digital Staff",
+    "published": "2026-03-31T21:19:00.000+03:00",
+    "title": "London Mayor Randall Weddle indicted on four campaign finance charges, AG reports - NewsBreak",
+    "text": "By ABC 36 Digital Staff ,\n1 days ago FRANKFORT, Ky. (ABC 36 NEWS NOW) – A Laurel County Grand Jury indicted London Mayor Randall Weddle on four felony counts of excessive campaign contributions, Attorney General Coleman announced. The indictment stems from action taken by the Office of the Attorney General. Weddle faces two counts of campaign contribution... Read full article\nRead in NewsBreak 2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "topics": [
+        "Crime, Law and Justice->court",
+        "Crime, Law and Justice->corruption",
+        "Politics->local elections",
+        "Politics->political campaigns"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Randall Weddle",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Coleman",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "London",
+                "sentiment": "none"
+            },
+            {
+                "name": "FRANKFORT",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ky",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "AG",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "AG",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "ABC",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Office of the Attorney General",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Versailles"
+            ],
+            "state": [
+                "Kentucky"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-02T07:21:16.005+03:00",
+    "updated": "2026-04-02T07:24:34.000+03:00"
+}

@@ -1,0 +1,120 @@
+{
+    "thread": {
+        "uuid": "dd25db0d159fa4aff2b5381a70337d8d5e439cbe",
+        "url": "https://www.ntd.com/ntdplus/saudi-led-coalition-says-missile-targeting-medina-intercepted_1179184.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://api.ntd.com/feed",
+        "site_categories": [
+            "economy, business and finance",
+            "science and technology",
+            "politics",
+            "media",
+            "health",
+            "crime, law and justice",
+            "architects",
+            "war, conflict and unrest",
+            "real_estate"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "Saudi-Led Coalition Says Missile Targeting Medina Intercepted",
+        "title_full": "Saudi-Led Coalition Says Missile Targeting Medina Intercepted",
+        "published": "2026-10-16T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2026/10/id1179199-Screen-Shot-2026-10-15-at-19.13.24.png-736x400.webp",
+        "performance_score": 0,
+        "domain_rank": 65840,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:17:03.365+03:00"
+        }
+    },
+    "uuid": "dd25db0d159fa4aff2b5381a70337d8d5e439cbe",
+    "url": "https://www.ntd.com/ntdplus/saudi-led-coalition-says-missile-targeting-medina-intercepted_1179184.html",
+    "ord_in_thread": 0,
+    "author": "NTD Newsroom",
+    "published": "2026-10-16T06:59:00.000+03:00",
+    "title": "Saudi-Led Coalition Says Missile Targeting Medina Intercepted",
+    "text": "Trailer10100:00/0:00Saudi-Led Coalition Says Missile Targeting Medina InterceptedOct-15-2026The Saudi-led coalition fighting Yemen's Houthis says it intercepted a cruise missile targeting the kingdom's holy city of Medina. The Iran-backed group denies carrying out the attack.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->act of terror",
+        "War, Conflict and Unrest->armed conflict"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [
+        "https://i.ntd.com/assets/uploads/2026/10/id1179199-Screen-Shot-2026-10-15-at-19.13.24.png-900x506.webp",
+        "https://i.ntd.com/assets/uploads/2024/03/id982294-NTD-Newsroom-logo-280x280_v2.jpg"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Yemen",
+                "sentiment": "none"
+            },
+            {
+                "name": "Medina",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Houthis",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:17:03.365+03:00",
+    "updated": "2026-10-16T07:18:44.000+03:00",
+    "related_articles": null
+}

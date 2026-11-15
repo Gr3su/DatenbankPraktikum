@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "5e5f75a0c168dfb21c6ad17918a41c00c6ee4c5e",
+        "url": "https://www.newsbreak.com/news/4730798877111-aiken-county-deputies-clear-perimeter-after-reported-armed-robbery-no-suspects-found",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/aiken-sc",
+        "site_categories": [
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "human interest",
+            "social issue",
+            "politics",
+            "crime, law and justice",
+            "under_construction",
+            "economy, business and finance",
+            "sport",
+            "disaster and accident"
+        ],
+        "section_title": "Aiken, SC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Aiken County deputies clear perimeter after reported armed robbery; no suspects found - NewsBreak",
+        "title_full": "Aiken County deputies clear perimeter after reported armed robbery; no suspects found - NewsBreak",
+        "published": "2026-06-25T03:31:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2Z0Reb_1CfrjcqR00",
+        "performance_score": 0,
+        "domain_rank": 3030,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5e5f75a0c168dfb21c6ad17918a41c00c6ee4c5e",
+    "url": "https://www.newsbreak.com/news/4730798877111-aiken-county-deputies-clear-perimeter-after-reported-armed-robbery-no-suspects-found",
+    "ord_in_thread": 0,
+    "author": "Staff",
+    "published": "2026-06-25T03:31:00.000+03:00",
+    "title": "Aiken County deputies clear perimeter after reported armed robbery; no suspects found - NewsBreak",
+    "text": "By Staff ,\n4 hours ago AIKEN, S.C. (WRDW/WAGT) - Aiken County deputies set up a perimeter and searched for two suspects following an armed robbery on Monterey Drive, officials said. The alleged robbery was reported on Wednesday evening in the 900 block of Monterey Drive, the sheriff’s office said. Deputies set up the perimeter... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->robbery and theft"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wrdw.com/2026/06/25/deputies-set-up-perimeter-search-after-armed-robbery-aiken-county/",
+        "https://www.wrdw.com/2026/06/25/deputies-set-up-perimeter-search-after-armed-robbery-aiken-county",
+        "https://wrdw.com/2026/06/25/deputies-set-up-perimeter-search-after-armed-robbery-aiken-county/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Aiken County",
+                "sentiment": "none"
+            },
+            {
+                "name": "S. C.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Monterey Drive",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "5e5f75a0c168dfb21c6ad17918a41c00c6ee4c5e",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Aiken"
+            ],
+            "state": [
+                "South Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:36:31.184+03:00",
+    "updated": "2026-06-25T07:40:47.000+03:00"
+}

@@ -1,0 +1,176 @@
+{
+    "thread": {
+        "uuid": "0395d5d97f9787065277b99629e6db9adc22826e",
+        "url": "https://thedreydossier.substack.com/p/trump-built-a-new-passport-website",
+        "site_full": "thedreydossier.substack.com",
+        "site": "substack.com",
+        "site_section": "https://rss.rmendes.net/i/?rid=696b888994042",
+        "site_categories": [
+            "politics"
+        ],
+        "section_title": "(15186)  · FreshRSS",
+        "site_title": "Substack - A new economic engine for culture",
+        "title": "Trump Built A New Passport.gov Website",
+        "title_full": "Trump Built A New Passport.gov Website",
+        "published": "2026-06-10T10:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://substackcdn.com/image/fetch/$s_!Pi0A!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F201417688%2F94bfb37a-0d98-4df2-8dd0-d6f3bbc22051%2Ftranscoded-114293.png",
+        "performance_score": 0,
+        "domain_rank": 490,
+        "domain_rank_updated": "2026-06-08T00:00:00.000+03:00",
+        "licensing_agency": [
+            "NLA"
+        ],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0395d5d97f9787065277b99629e6db9adc22826e",
+    "url": "https://thedreydossier.substack.com/p/trump-built-a-new-passport-website",
+    "ord_in_thread": 0,
+    "author": "The Drey Dossier",
+    "published": "2026-06-10T10:59:00.000+03:00",
+    "title": "Trump Built A New Passport.gov Website",
+    "text": "A continuation of my reporting on the National Design Studio and the proliferation of .gov sites it has registered to the executive branch. Part one is here.\nThis July 4th the United States turns two hundred and fifty, an anniversary the White House has branded Freedom 250 and is rolling out with all the solemn dignity of a casino grand opening. I turn thirty the next day, on the 5th, which I bring up only because, by the official age-conversion chart this administration appears to keep for women, thirty years old and two hundred and fifty years old might as well be the same thing, both of us comfortably past the age these men would still call their type (which, for the record, I am not complaining about). So happy birthday to the pair of us, me and the country, two lippy old broads.\nAnd America need not take it personally, because President Trump has cooled on her too, openly ready to swap her for the newer model they are renovating in Gaza, beachfront, blank slate, no inconvenient history attached. But I digress. It is a season of birthdays and fresh starts, and somebody is using the confetti for cover.\nWhich brings me to the gold passport. As part of the birthday festivities, the federal government is issuing a commemorative passport this summer with Donald Trump’s face printed in gold over the Declaration of Independence, and when that detail floated by, the entire internet did the thing we all do now, which is glance at it, file it under vanity, make the orange joke, and keep scrolling. I get the reflex completely, because I have the reflex. The man has put his name on steaks, a university, a board game, and a long list of buildings other people actually built, so a gold passport reads as just another Tuesday, one more monument to a guy who treats the federal government like a surface to engrave.\nHere is the trouble with that reflex, and it is the whole reason I do this. The best lies are wrapped around a true one, and the true thing here is that yes, obviously, he loves his face in gold. But we have gotten so good at clocking the small, stupid truth about this man that we stop there, treating “he’s a narcissist” as the end of the sentence instead of the start of one. And while everyone was busy laughing at the gold leaf, an office almost no one has heard of spent months rebuilding the machinery of American identity on servers the public is not allowed to see. So I went looking underneath the passport. This is what is down there.\nDOGE [barely] Undercover\nIf you missed part one, here is the short version. In August of last year Trump signed an executive order called America by Design and used it to spin up a brand new federal office, the National Design Studio. It is run by Joe Gebbia, the Airbnb cofounder, which is to say a man who once looked at the American home and saw an untapped revenue stream, and it is staffed largely by people who used to work at DOGE, the same DOGE that got sued in federal court for letting outsiders unlawfully into Americans’ federal data. The Studio is DOGE with a nicer logo and a design philosophy, the same people under a new name, in a nicer building, except this time nobody is watching them.\nWhat I firmly believe the Studio is doing is building a parallel federal government inside the executive branch, running on private infrastructure, operated by the exact people who got caught handing out access to federal data the last time around. I have now found at least ninety-nine different .gov websites built by the Studio and registered to the Executive Office of the President rather than to the agencies whose names are printed on them. I am still unpacking a lot of it, so here I want to take two of them, passports.gov and its sidekick login.gov, the system the government uses to verify that you are who you say you are. Once you see the two of them together, you can see what they are being built to do, and you can see when.\nA Door With No Building Behind It\nWhen you type passports.gov into a browser, it redirects you straight to a sign-in gate. On a phone over cellular some people get an error instead. Either way you never reach a passport site, because you get a gate or you get a wall, and there is no front door. The gate is a single blank white page with one email field and a button that says send code. No State Department seal, no agency name, no privacy notice. A real government site always tells you who it belongs to and what it does with your information, and this one tells you nothing at all.\nThen I noticed the photos. There are three separate subdomains on this thing dedicated entirely to photos, and a sign-in page does not need one photo server, let alone three. Three is the footprint of something built to collect face photos in bulk. On its own it is not the most alarming thing I am going to tell you, but it is strange, and strange is where I start.\nI also looked up when the site was built and by whom, because the records that log when websites go live are public. Back in April, before passports.gov was ever public, it was already running inside the Studio’s own web system, on the Studio’s address and the Studio’s servers. If something is living inside your house, you are the one who put it there. Twenty-eight days later, on May 5, the public version went live, and when I checked the registration, it traced not to the State Department but to the Executive Office of the President. There are actually two of these, passport.gov without the s and passports.gov with it, and both belong to the White House.\nWho Owns Your Passport?\nThat ownership is the whole ballgame, so stay with me for sixty seconds of law, because this is where the trick actually lives. When a normal agency owns a federal website, the site lives under the Privacy Act, which is the closest thing you have to a key to your own file. You can FOIA it, an inspector general audits it, there is a public list of everyone allowed to lay hands on your data, and there is a law that bites them if they wander off it. When the Executive Office of the President owns the site instead, every one of those protections falls away and presidential records law takes over, which can lock the whole thing in a vault until 2040 with no FOIA, no inspector general, and no one you are allowed to ask.\nWhat should put the hair up on your neck is the direction that vault locks, because it only locks one way. It seals the records away from you, the press, and the courts, and it does precisely nothing to the data itself, which still has to live somewhere real, on company servers and contractor machines that presidential records law cannot reach. The wall goes up around their copy of your life, and you are standing on the outside of it. Sealed from you, wide open to them.\n“Not Our Site”\nSo I called the State Department and asked about their passport site. State does not claim it. Sit with that for a second, because it is genuinely staggering. The one office in this entire government that is legally allowed to issue you a passport told me, on the phone, that it does not know passports.gov exists.\nAnd I believe him. I think a lot of these agencies have no idea this is happening to them, which is exactly why I am spending this week calling every duplicate site I have found and asking the same question. But do not mistake one guy on the phone not knowing for the thing itself being a neutral mix-up. The State Department is run by Marco Rubio, and if you have watched this channel, you already know where his loyalty sits.\nZuckerberg Phone’s Home\nWhich left the obvious question, and it is the practical one. If the White House stood up a passport site with no front door, where are you actually supposed to go, and is that place clean? Because this is the real cost of letting one office rebuild your identity out of public view. Every door you have left now has somebody standing behind it. So I went to the site State does claim, the real passport page at travel.state.gov, the one millions of Americans use to apply and renew, and I did what I always do. I opened it, hit inspect, and read what it loads in the background.\nIt is covered in trackers. Facebook has a pixel sitting right on it, the line of code that tells Facebook to start logging everyone who lands on the page. Alongside it ride Reddit’s pixel, Pinterest, StackAdapt, Amazon’s ad system, Google’s remarketing, and The Trade Desk, one of the largest ad platforms on earth, whose entire job is to build a profile on you, stitch your browsing together across every device you own, and help advertisers follow you around the internet. All of it loads every single time someone visits the State Department’s passport page.\nA podcast can hawk you a mattress and a store can trail you around the internet with ads, but this is the page where Americans go to get the single most sensitive document this government issues, and somebody wired it to phone home to Facebook.\nNow, before anyone accuses me of clutching pearls, yes, the government is allowed to use analytics. Of course it is. It needs to know which pages load broken and where people rage-quit the form, so it built itself a clean tool to find out, the Digital Analytics Program. That one runs from a government domain, strips your IP address off before it travels anywhere, and writes its privacy promises directly into the code, where the comments spell out in plain English that it is throwing away anything that could point back to you. That is the approved way, and on a page this sensitive it is the only kind of watching that has any business being there.\nThe Facebook pixel, The Trade Desk, all of it, none of them are part of the government’s tool. They are commercial ad trackers bolted onto the passport page through a separate piece of code, doing the precise thing the government’s own tool was built to never do, which is shipping your visit off to private advertising companies. And this is not a gray area. Any advertising tracker on a government site has to be approved in writing by the agency’s privacy official and named in the public privacy policy. So either it was approved and disclosed, or it is not allowed to be there, and there is no in-between.\nSo I clicked the privacy policy to read the rules and landed on a 404, page not found. If the policy is a dead link, nobody can read the rules, so nobody can hold you to them. Problem solved. The State Department does have a working privacy policy, just not the one this page points to. It lives over on state.gov, and according to the Wayback Machine the passport page was wired to it until May 27, 2026. I read it, and it does not name a single one of these trackers, not Facebook, not Pinterest, not Reddit, not Amazon, none of them, in the one place they are legally required to be listed.\nAnd before you ask, I checked. The pages where you actually type in your information are a separate system, and the trackers are not on those. What this means is that the page millions of people walk through on the way there is telling Facebook you showed up to get a passport, with no working privacy policy anywhere on it to say so. You should not have to be tracked by Facebook just to come to the government for a passport. This is not okay.\nIt also should not be possible for a second passports.gov to exist with its own sign-in built from scratch, when there is already a federal identity system designed for exactly this. Which brings me to the part that actually keeps me up.\nThe Skeleton Key\nKeep the gold passport in the corner of your eye for one more stretch, because this is the piece that turns the whole story from embarrassing to dangerous. You may have never thought about login.gov once in your life, and that is fine, but it is the hinge the entire machine swings on. Login.gov is the government’s single front door, one account that gets you into the IRS, Social Security, and the VA without a separate password for each, and about 150 million Americans already live behind it. It does much more than sign you in, though, because it vouches for you. It is the notary the whole federal government trusts, and once it stamps you verified, every agency downstream treats that stamp as gospel, which makes the stamp itself the key to your taxes, your benefits, and your records all at once.\nThe first time you set it up, you go through the one moment that actually counts. You photograph your ID, you record a short video of your face, and the system checks that the two are the same person and that the ID is real, and you do that exactly once, because after that, getting back in is just a password and a code texted to your phone. That single check is the whole foundation, the entire tower of trust resting on one promise, that the person standing there proving who they are is really, physically you.\nLogin.gov is open source, which means the government publishes its code in the open for anyone to read, so I read it, and I walked the recent changes, since every edit gets posted in public with a date stamped on it. Over the last couple of months somebody added a new piece and named it a proofing agent. Proofing is just the bureaucratic word for proving you are who you say you are, so a proofing agent is a stand-in that does the proving for you. What it actually does, according to the code, is let an approved outside organization hand login.gov your name, your Social Security number, your date of birth, your address, even your passport, and login.gov will run the full identity check on that pile of data and, if it all lines up, stamp you verified. You come out the far side a confirmed, government-trusted person, and you were never anywhere near it.\nSo the single promise the whole system was built on, that it has to actually be you, is gone, traded for an approved organization that can conjure a verified you out of a spreadsheet. Of everything in this piece, that is the part that scares me most. And it appeared in the code right after a particular man arrived to run the place.\nGreg Hogan\nHis résumé is all on the public record, and it reads less like a career than like a man being walked from one vault to the next. On day two of Trump’s second term, Greg Hogan was installed as Chief Information Officer of OPM, the office that holds the personnel file of every federal employee alive. On February 24, 2025, a federal judge ordered DOGE-affiliated staff cut off from that data, and the order carved out exactly one person by title, the OPM Chief Information Officer, Greg Hogan. Three months later, a different judge found that OPM had handed records to DOGE-affiliated individuals in violation of the Privacy Act. Which puts Hogan on top of OPM’s data during the precise window a federal court says that data was being handed to people with no right to it.\nFrom there he moved to the National Design Studio, and by late April he had landed on login.gov, the same month, by the certificate dates, that the shadow passport site was taking shape inside the Studio’s servers. That is three of the most sensitive data choke points in the federal government in sixteen months, and not one of them required a Senate vote. Every one of those red flags should have ended his access. Instead each seemed to work like a promotion, and the escalator did not stop until it reached the master switch for the identity of 150 million Americans.\nA Machine for Deciding Who Counts\nSo what is the plan? What would anyone actually want with a way to verify you, or to mint a verified identity in your name, while you are not even there? Here is my read, and I will be straight that this is the darkest version of the possibilities. It is also the version that fits what this administration has actually shown us it cares about.\nWhoever controls the machine that decides who counts as a verified, legitimate person to the government also controls the opposite, the question of who does not count. The same system that can wave you across a border can just as easily lock you out, and the people running it can flag you, challenge your status, or freeze access to your own benefits and your own records without ever explaining why. When that happens, identity verification stops being a service that helps you prove who you are and becomes a sorting tool, a way of deciding who is real, who is allowed, and who is not. A tool like that can be pointed in any direction its owner chooses, at immigrants, at political opponents, at anyone who becomes inconvenient, because it is the same machine doing the same thing no matter whose name gets typed in. That is what makes it so dangerous. It is a loaded gun, and right now the only thing standing between you and the wrong end of it is trust in the people holding it.\nFreedom 250\nWhich brings us back to July 4, because the timing is the tell. Any one of these sites is easy to wave off on its own. The trouble starts when you notice how many of them come alive on the very same morning, while the whole country is busy looking up at the fireworks. Line the pieces up beside each other and the coincidence gets very hard to keep calling one.\nStart with the National Design Studio, because it sets the clock. The executive order that created it, America by Design, says in writing that the Studio has to show its first results by July 4, 2026. So the office that has been standing up dozens of these sites has a hard deadline, and it is that morning, and everything it has built has to be live.\nThat is also the day Trump Accounts open, an investment account for kids, an IRA for newborns. To open one, the government takes the child’s name, their date of birth, their parents, and their Social Security number. So on day one you have a federal system enrolling an entire generation of American children, by Social Security number, some of them only days old.\nThat is also the day his face ships on the new passport, printed over the text of the Declaration of Independence. This is the part I keep wishing people would actually look at, because almost nobody is. Your passport is the document that says who you are. It is your proof that you belong here, the thing that lets you leave and lets you come home, which is to say it is your freedom sitting in your own hands. He took the page about your independence and stamped his face across the top of it, and behind that face, where nobody is looking, sits the data, the verification, the site the White House owns. The picture is the half they want you to see, and the machine that decides whether you ever get to use the thing is the half going up right behind it.\nThat is also the day the Department of Energy is racing to bring privately built fission reactors online, routed around the Nuclear Regulatory Commission that has checked reactor safety since the seventies. They may only get one or two there in time, and isn’t that convenient, because nuclear is exactly what you build when you need to power AI at scale, the kind of supercomputer that could sit somewhere and chew through all of this.\nAnd that is also the day DOGE legally dissolves. The same DOGE that got sued for letting outsiders into Americans’ federal data disappears on the precise morning everything else switches on, its people already moved into the permanent agencies that get to keep all of it.\nNow, I am not in the room where this gets planned, and so far nobody has accidentally looped me into the Signal thread and dropped the war plans next to the brunch order, the way Pete Hegseth managed to do to a magazine editor this past spring. So no, I cannot wave a memo that proves the timing is deliberate. What I can do is read the calendar, and the calendar says five separate machines, every one of them with a hand on your identity, all going live the same morning, run by the same crew, on the same private infrastructure, behind the same locked door. You do not need to be on the group chat to see the shape of that. They called it Freedom 250, and as far as I can tell the only thing getting freed this Fourth of July is the federal government, from the Constitution.\nWhat Fixed Looks Like\nI do not want to leave you with dread and no direction, so let me tell you what fixed actually looks like.\nTravel.state.gov pulls every undisclosed tracker off its passport pages and updates its privacy policy to name them, Facebook, The Trade Desk, StackAdapt, Amazon, Pinterest, Reddit, and Google, because right now it names none of them and the link to it is dead. State updates the records notice for passport data, which has not been amended since 2015, even though two new ways into those records have opened since. GSA updates the login.gov records notice to cover the proofing agent, because it has not been touched since May 2024. The list of who can trigger that agent, who can make login.gov issue a verified identity in your name while you are nowhere near it, goes public. Passports.gov gets formally claimed by the State Department, with a full explanation, or it comes down. And nobody keeps an acting title with sole control over who mints federal identities for 150 million people, with no Senate confirmation and no oversight.\nUntil then, my advice is simple. If you need a passport, do it in person, at a post office, an acceptance facility, or an agency, on paper. Do not use passports.gov. And know that every visit to those passport pages is logged by seven different ad trackers, so if a passport ad finds you afterward, now you know why. I will tell you when any of this changes. I am watching.\nSo Here’s What We Do\nWe blow this up. I am not going to ask you to email your congressman, because they do not care what the Drey Dossier says, and that is just the truth. It matters when the Post runs it, when the New York Times runs it, when the reporters who have been watching this administration decide it belongs on the front page. So this one is for them, and they know who they are. You do not have to agree with everything I found. Just report it, independently and hard, before July 4.\nThere is a gold passport coming this summer, Trump’s face set over the Declaration of Independence, and you are meant to look at it, laugh, and scroll. So look at it if you want. Just know that while you are busy looking at the gold, something is being built underneath the government you think you have, on infrastructure you cannot see, by people who answer to no one, pointed at the verified identity of every American. If we say nothing, if nobody names what is being built right now, in the open, on a White House server, then the first person it gets used on is us.\nSOURCES CITED\nExecutive Orders\nExecutive Order 14338 — Improving Our Nation Through Better Design — The White House, August 21, 2025\nLaunching the Genesis Mission — The White House, November 24, 2025\nEstablishing and Implementing the President’s Department of Government Efficiency — The White House, January 20, 2025\nGovernment Sources\nLogin.gov Identity Provider — ProofingResult source file — 18F / GSA, GitHub\nTrump Accounts Give the Next Generation a Jump Start on Saving — The White House, August 2025\nDigital Analytics Program — Digital.gov / GSA\nFreedom 250 — Year of Celebration and Rededication — National Archives\nReporting\nA DOGE Affiliate Is Now in Charge of the US Government’s ID Platform — Wired, April 28, 2026\nGSA taps Greg Hogan as head of government’s identity proofing service Login.gov — Nextgov/FCW, April 26, 2026\nGreg Hogan has departed his role as OPM’s top IT official — FedScoop, September 3, 2025\nFrom Airbnb to America’s ‘Chief Design Officer’ — The New York Times, August 27, 2025\nLogin.gov will start accepting passports for identity verification — FedScoop, August 2025\nDOGE ‘doesn’t exist’ with eight months left on its charter — Reuters, November 23, 2025\nCourt Orders\nFederal judge blocks DOGE access to sensitive Education Department and OPM information — FedScoop, February 24, 2025\nFederal Court issues preliminary injunction stopping DOGE from accessing private data — Protect Democracy, March 2025\nJudge: OPM likely broke privacy law with DOGE access — The Register, June 9, 2025\nCertificate Transparency Logs\npassports.gov — crt.sh\npassport.gov — crt.sh\nauth.passports.gov — crt.sh\nphotos.passports.gov — crt.sh\nphoto.staging.passports.gov — crt.sh\nndstudio.gov — crt.sh",
+    "summary": "As part of the birthday festivities, the federal government is issuing a commemorative passport this summer with Donald Trump’s face printed in gold over the Declaration of Independence, and when that detail floated by, the entire internet did the thing we all do now, which is glance at it, file it under vanity, make the orange joke, and keep scrolling.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business information",
+        "Economy, Business and Finance->financial service",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.theregister.com/on-prem/2025/06/10/judge-opm-likely-broke-privacy-law-with-doge-access/1173277",
+        "https://crt.sh/?q=auth.passports.gov",
+        "https://www.whitehouse.gov/presidential-actions/2025/08/improving-our-nation-through-better-design/",
+        "https://crt.sh/?q=photos.passports.gov",
+        "https://www.whitehouse.gov/research/2025/08/trump-accounts-give-the-next-generation-a-jump-start-on-saving/",
+        "https://crt.sh/?q=%25.passport.gov",
+        "https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/",
+        "https://github.com/18F/identity-idp/blob/main/app/services/proofing_agent/proofing_result.rb",
+        "https://www.wired.com/story/a-doge-affiliate-is-now-in-charge-of-the-us-governments-id-platform/",
+        "https://crt.sh/?q=ndstudio.gov",
+        "https://fedscoop.com/greg-hogan-has-departed-his-role-as-opms-top-it-official/",
+        "https://fedscoop.com/login-gov-passport-identity-verification-state-department-api-fraud-agency-access/",
+        "https://www.nytimes.com/2025/08/27/style/joe-gebbia-trump-design-officer-airbnb.html",
+        "https://fedscoop.com/federal-judge-blocks-doge-access-to-sensitive-education-department-opm-information/",
+        "https://crt.sh/?q=%25.passports.gov",
+        "https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/",
+        "https://digital.gov/guides/dap",
+        "https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23/",
+        "https://www.nextgov.com/digital-government/2026/04/gsa-taps-greg-hogan-head-governments-identity-proofing-service-logingov/41314",
+        "https://www.archives.gov/freedom250",
+        "https://protectdemocracy.org/work/federal-court-issues-order-stopping-doge-from-accessing-private-data/",
+        "https://crt.sh/?q=photo.staging.passports.gov",
+        "https://reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23/",
+        "https://www.fedscoop.com/login-gov-passport-identity-verification-state-department-api-fraud-agency-access/",
+        "https://www.crt.sh/?q=ndstudio.gov",
+        "https://www.github.com/18F/identity-idp/blob/main/app/services/proofing_agent/proofing_result.rb",
+        "https://www.whitehouse.gov/research/2025/08/trump-accounts-give-the-next-generation-a-jump-start-on-saving",
+        "https://whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/",
+        "https://fedscoop.com/greg-hogan-has-departed-his-role-as-opms-top-it-official",
+        "https://www.wired.com/story/a-doge-affiliate-is-now-in-charge-of-the-us-governments-id-platform",
+        "https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency",
+        "https://nytimes.com/2025/08/27/style/joe-gebbia-trump-design-officer-airbnb.html",
+        "https://www.crt.sh/?q=photos.passports.gov",
+        "https://wired.com/story/a-doge-affiliate-is-now-in-charge-of-the-us-governments-id-platform/",
+        "https://whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/",
+        "https://www.protectdemocracy.org/work/federal-court-issues-order-stopping-doge-from-accessing-private-data/",
+        "https://www.crt.sh/?q=%25.passport.gov",
+        "https://nextgov.com/digital-government/2026/04/gsa-taps-greg-hogan-head-governments-identity-proofing-service-logingov/41314",
+        "https://www.crt.sh/?q=auth.passports.gov",
+        "https://www.whitehouse.gov/presidential-actions/2025/08/improving-our-nation-through-better-design",
+        "https://whitehouse.gov/research/2025/08/trump-accounts-give-the-next-generation-a-jump-start-on-saving/",
+        "https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23",
+        "https://fedscoop.com/login-gov-passport-identity-verification-state-department-api-fraud-agency-access",
+        "https://protectdemocracy.org/work/federal-court-issues-order-stopping-doge-from-accessing-private-data",
+        "https://crt.sh/",
+        "https://whitehouse.gov/presidential-actions/2025/08/improving-our-nation-through-better-design/",
+        "https://fedscoop.com/federal-judge-blocks-doge-access-to-sensitive-education-department-opm-information",
+        "https://www.crt.sh/?q=%25.passports.gov",
+        "https://www.fedscoop.com/greg-hogan-has-departed-his-role-as-opms-top-it-official/",
+        "https://www.digital.gov/guides/dap",
+        "https://archives.gov/freedom250",
+        "https://www.crt.sh/?q=photo.staging.passports.gov",
+        "https://www.fedscoop.com/federal-judge-blocks-doge-access-to-sensitive-education-department-opm-information/",
+        "https://theregister.com/on-prem/2025/06/10/judge-opm-likely-broke-privacy-law-with-doge-access/1173277",
+        "https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "United States",
+                "sentiment": "none"
+            },
+            {
+                "name": "White House",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Design Studio",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-11T07:42:35.545+03:00",
+    "updated": "2026-06-11T14:05:20.000+03:00"
+}

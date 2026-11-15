@@ -1,0 +1,154 @@
+{
+    "thread": {
+        "uuid": "b08bf7a6371bc8f8c767be84ddab1dffd0c8828e",
+        "url": "https://www.newsbreak.com/news/4919378907044-brpd-ebrso-take-one-person-into-custody-after-searching-wooded-area-near-i-12-following-disturbance",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/baton-rouge-la",
+        "site_categories": [
+            "politics",
+            "under_construction",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "science and technology",
+            "crime, law and justice",
+            "human interest",
+            "sport",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Baton Rouge, LA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "BRPD, EBRSO take one person into custody after searching wooded area near I-12 following 'disturbance' - NewsBreak",
+        "title_full": "BRPD, EBRSO take one person into custody after searching wooded area near I-12 following 'disturbance' - NewsBreak",
+        "published": "2026-10-01T18:11:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4NoT5h_1Fgsoxtu00",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:07:52.973+03:00"
+        }
+    },
+    "uuid": "b08bf7a6371bc8f8c767be84ddab1dffd0c8828e",
+    "url": "https://www.newsbreak.com/news/4919378907044-brpd-ebrso-take-one-person-into-custody-after-searching-wooded-area-near-i-12-following-disturbance",
+    "ord_in_thread": 0,
+    "author": "WBRZ Staff",
+    "published": "2026-10-01T18:11:00.000+03:00",
+    "title": "BRPD, EBRSO take one person into custody after searching wooded area near I-12 following 'disturbance' - NewsBreak",
+    "text": "By WBRZ Staff ,\n12 hours ago BATON ROUGE — The Baton Rouge Police Department, with assistance from the East Baton Rouge Parish Sheriff's Office, took one person into custody after a search of the woodline near I-12 following a \"disturbance\" off Plaza Americana Drive on Thursday morning. A police spokesperson told WBRZ that the Thursday... Read full article\n11",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->investigation (criminal)",
+        "Crime, Law and Justice->police"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "http://www1.wbrz.com/news/brpd-ebrso-searching-along-wooded-area-near-i-12-after-disturbance-near-plaza-americana-drive",
+        "http://.wbrz.com/news/brpd-ebrso-searching-along-wooded-area-near-i-12-after-disturbance-near-plaza-americana-drive"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Plaza Americana Drive",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "EBRSO",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Baton Rouge Police Department",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "WBRZ",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "East Baton Rouge Parish Sheriff ' s Office",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:07:52.973+03:00",
+    "updated": "2026-10-02T07:19:56.000+03:00",
+    "related_articles": null
+}

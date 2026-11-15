@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "571a96f485d2a7f66cfb2bca4157b8cb61996561",
+        "url": "https://www.newsbreak.com/news/4607274098090-manning-sewer-project-nears-completion-as-paving-phase-begins",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/summerton-sc",
+        "site_categories": [
+            "politics",
+            "sport",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "human interest",
+            "under_construction"
+        ],
+        "section_title": "Summerton, SC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Manning sewer project nears completion as paving phase begins - NewsBreak",
+        "title_full": "Manning sewer project nears completion as paving phase begins - NewsBreak",
+        "published": "2026-04-22T23:57:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1hYGtZ_1AhOMNXK00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "571a96f485d2a7f66cfb2bca4157b8cb61996561",
+    "url": "https://www.newsbreak.com/news/4607274098090-manning-sewer-project-nears-completion-as-paving-phase-begins",
+    "ord_in_thread": 0,
+    "author": "Melissa Foust-McCoy",
+    "published": "2026-04-22T23:57:00.000+03:00",
+    "title": "Manning sewer project nears completion as paving phase begins - NewsBreak",
+    "text": "By Melissa Foust-McCoy ,\n7 hours ago After months of detours, patchwork pavement and underground work, Manning’s long-running sewer project is nearing completion, with the final utility work expected to wrap up this week and paving set to begin after the Striped Bass Festival. City Administrator John Singh said the sewer portion of the project is... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->local government and authority",
+        "Economy, Business and Finance->construction and property"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Melissa Foust - McCoy",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "John Singh",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Manning",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Summerton"
+            ],
+            "state": [
+                "South Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-23T07:30:58.136+03:00",
+    "updated": "2026-04-23T07:42:43.000+03:00"
+}

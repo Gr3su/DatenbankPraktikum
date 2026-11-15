@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "dd1ec8c2bfedaebd352cafcc8459c64f4e0c6406",
+        "url": "https://www.newsbreak.com/fox-news-510075/4745159734033-virginia-officer-placed-on-administrative-leave-after-malicious-wounding-charge-tied-to-off-duty-incident",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/fox-news-510075",
+        "site_categories": [
+            "lifestyle and leisure",
+            "under_construction",
+            "social issue",
+            "politics",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "human interest",
+            "crime, law and justice",
+            "disaster and accident",
+            "sport"
+        ],
+        "section_title": "Fox News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Virginia officer placed on administrative leave after malicious wounding charge tied to off duty incident - NewsBreak",
+        "title_full": "Virginia officer placed on administrative leave after malicious wounding charge tied to off duty incident - NewsBreak",
+        "published": "2026-07-02T07:28:33.482+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2EgSOO_1CuKMFYJ00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "dd1ec8c2bfedaebd352cafcc8459c64f4e0c6406",
+    "url": "https://www.newsbreak.com/fox-news-510075/4745159734033-virginia-officer-placed-on-administrative-leave-after-malicious-wounding-charge-tied-to-off-duty-incident",
+    "ord_in_thread": 0,
+    "author": "Michael Sinkewicz",
+    "published": "2026-07-02T07:28:33.482+03:00",
+    "title": "Virginia officer placed on administrative leave after malicious wounding charge tied to off duty incident - NewsBreak",
+    "text": "By Michael Sinkewicz ,\nnow Arlington, Virginia police officer Vincent Baglio allegedly assaulted someone he knew while off duty and now faces a malicious wounding charge. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->police",
+        "Crime, Law and Justice->assault"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.foxnews.com/us/virginia-officer-placed-administrative-leave-malicious-wounding-charge-tied-duty-incident",
+        "https://foxnews.com/us/virginia-officer-placed-administrative-leave-malicious-wounding-charge-tied-duty-incident"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vincent Baglio",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Michael Sinkewicz",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Virginia",
+                "sentiment": "none"
+            },
+            {
+                "name": "Arlington",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:28:33.482+03:00",
+    "updated": "2026-07-02T07:32:30.000+03:00"
+}

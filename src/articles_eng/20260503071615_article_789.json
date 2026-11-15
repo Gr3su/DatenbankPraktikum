@@ -1,0 +1,151 @@
+{
+    "thread": {
+        "uuid": "51248a5386f388edadc8faa12928ba1ce7383ad8",
+        "url": "https://www.newsbreak.com/news/4619527178408-ghost-gun-seized-from-student",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/westminster-ca",
+        "site_categories": [
+            "politics",
+            "sport",
+            "economy, business and finance",
+            "crime, law and justice",
+            "human interest",
+            "under_construction",
+            "lifestyle and leisure",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Westminster, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "'Ghost gun' seized from student - NewsBreak",
+        "title_full": "'Ghost gun' seized from student - NewsBreak",
+        "published": "2026-04-29T09:43:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0ZEIj1_1AtkBUNi00",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "51248a5386f388edadc8faa12928ba1ce7383ad8",
+    "url": "https://www.newsbreak.com/news/4619527178408-ghost-gun-seized-from-student",
+    "ord_in_thread": 0,
+    "author": "OC Tribune Staff",
+    "published": "2026-04-29T09:43:00.000+03:00",
+    "title": "'Ghost gun' seized from student - NewsBreak",
+    "text": "By OC Tribune Staff ,\n21 hours ago A boy attending La Quinta High School in Westminster was arrested on a variety of charges related to possession of a firearm. According to Commander Bill Drinnin of the WPD, the incident began on Tuesday. Just before 10 a.m., the WPD School Resource police officer responded to LQHS regarding a... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bill Drinnin",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Westminster",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "OC Tribune Staff",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "La Quinta High School",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "WPD",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Westminster"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:39:01.761+03:00",
+    "updated": "2026-04-30T09:51:44.000+03:00"
+}

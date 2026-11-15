@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "3929ef5a241297c0a1c2810d4620dadd5923c445",
+        "url": "https://www.newsbreak.com/news/4837848458079-governor-issues-state-disaster-proclamation-for-15-counties-impacted-by-severe-weather",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/fairbury-il",
+        "site_categories": [
+            "science and technology",
+            "sport",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "under_construction",
+            "crime, law and justice",
+            "politics",
+            "human interest",
+            "lifestyle and leisure",
+            "social issue"
+        ],
+        "section_title": "Fairbury, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Governor issues state disaster proclamation for 15 counties impacted by severe weather - NewsBreak",
+        "title_full": "Governor issues state disaster proclamation for 15 counties impacted by severe weather - NewsBreak",
+        "published": "2026-08-19T18:22:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/15ZY6V_1ENjFScL00",
+        "performance_score": 0,
+        "domain_rank": 3070,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3929ef5a241297c0a1c2810d4620dadd5923c445",
+    "url": "https://www.newsbreak.com/news/4837848458079-governor-issues-state-disaster-proclamation-for-15-counties-impacted-by-severe-weather",
+    "ord_in_thread": 0,
+    "author": "fordcountychronicle.com",
+    "published": "2026-08-19T18:22:00.000+03:00",
+    "title": "Governor issues state disaster proclamation for 15 counties impacted by severe weather - NewsBreak",
+    "text": "13 hours ago SPRINGFIELD — Gov. J.B. Pritzker on Tuesday, Aug. 18, issued a state disaster proclamation for 15 counties in Illinois — including Ford County — impacted by torrential downpours, flash flooding, straight-line winds and tornadoes in recent weeks. The governor’s proclamation makes additional state resources and personnel available... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Disaster and Accident",
+        "Weather"
+    ],
+    "topics": [
+        "Disaster and Accident->natural disaster",
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fordcountychronicle.com/articles/featured/governor-issues-state-disaster-proclamation-for-15-counties-impacted-by-severe-weather/",
+        "https://fordcountychronicle.com/articles/featured/governor-issues-state-disaster-proclamation-for-15-counties-impacted-by-severe-weather/",
+        "https://www.fordcountychronicle.com/articles/featured/governor-issues-state-disaster-proclamation-for-15-counties-impacted-by-severe-weather"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "J. B. Pritzker",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Ford County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Illinois",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Fairbury"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:37:42.698+03:00",
+    "updated": "2026-08-20T07:47:56.000+03:00"
+}

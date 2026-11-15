@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "39e2ec1523a4989e25b931de393d8d591e1387a8",
+        "url": "https://www.newsbreak.com/news/4822696238364-missing-mercedez-stovall",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/bay-village-oh",
+        "site_categories": [
+            "science and technology",
+            "politics",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "economy, business and finance",
+            "human interest",
+            "under_construction",
+            "social issue",
+            "health",
+            "sport",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Bay Village, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Missing: Mercedez Stovall - NewsBreak",
+        "title_full": "Missing: Mercedez Stovall - NewsBreak",
+        "published": "2026-08-11T15:38:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3eEDXv_1E8SNyyI00",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "39e2ec1523a4989e25b931de393d8d591e1387a8",
+    "url": "https://www.newsbreak.com/news/4822696238364-missing-mercedez-stovall",
+    "ord_in_thread": 0,
+    "author": "Danielle Langenfeld",
+    "published": "2026-08-11T15:38:00.000+03:00",
+    "title": "Missing: Mercedez Stovall - NewsBreak",
+    "text": "By Danielle Langenfeld ,\n1 days ago CLEVELAND (WJW) – FOX 8 and Amanda Berry are working together to find the missing. Mercedez Stovall, 17, has been missing from Cleveland since July 18. Anyone with information is asked to call 1-866-492-6833. Read full article\n5",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue"
+    ],
+    "topics": [
+        "Social Issue->social services",
+        "Social Issue->family"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://fox8.com/news/missing-mercedez-stovall-2/amp/",
+        "https://fox8.com/news/missing-mercedez-stovall-2/amp",
+        "https://www.fox8.com/news/missing-mercedez-stovall-2/amp/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Amanda Berry",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Danielle Langenfeld",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mercedez Stovall",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Cleveland",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FOX 8",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Bay Village"
+            ],
+            "state": [
+                "Ohio"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:19:53.907+03:00",
+    "updated": "2026-08-13T07:21:51.000+03:00"
+}

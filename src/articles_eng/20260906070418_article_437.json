@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "3732e6060b528ab0cbaa7841d89a8dcb0ca84a7f",
+        "url": "https://www.newsbreak.com/news/4863906281400-ed-sheeran-dines-at-smithtown-restaurant-ahead-of-metlife-shows",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/huntington-ny",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "sport",
+            "lifestyle and leisure",
+            "human interest",
+            "crime, law and justice",
+            "politics",
+            "under_construction",
+            "economy, business and finance",
+            "social issue"
+        ],
+        "section_title": "Huntington, NY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Ed Sheeran dines at Smithtown restaurant ahead of MetLife shows - NewsBreak",
+        "title_full": "Ed Sheeran dines at Smithtown restaurant ahead of MetLife shows - NewsBreak",
+        "published": "2026-09-03T03:37:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4SX8Ek_1EnzP9oX00",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3732e6060b528ab0cbaa7841d89a8dcb0ca84a7f",
+    "url": "https://www.newsbreak.com/news/4863906281400-ed-sheeran-dines-at-smithtown-restaurant-ahead-of-metlife-shows",
+    "ord_in_thread": 0,
+    "author": "Andrew Rappaport",
+    "published": "2026-09-03T03:37:00.000+03:00",
+    "title": "Ed Sheeran dines at Smithtown restaurant ahead of MetLife shows - NewsBreak",
+    "text": "By Andrew Rappaport ,\n3 hours ago Greater Smithtown coverage is funded in part by Top Grass, Suffolk County’s premium adult-use cannabis dispensary focused on quality, education and exceptional customer service. Learn more. You may not be able to sing like Ed Sheeran, but you can eat like him. The global superstar spent Tuesday night at... Read full article\n7",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+        "Arts, Culture and Entertainment->music"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://greaterlongisland.com/ed-sheeran-dines-at-smithtown-restaurant-ahead-of-metlife-shows/",
+        "https://www.greaterlongisland.com/ed-sheeran-dines-at-smithtown-restaurant-ahead-of-metlife-shows/",
+        "https://greaterlongisland.com/ed-sheeran-dines-at-smithtown-restaurant-ahead-of-metlife-shows"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ed Sheeran",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Andrew Rappaport",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Smithtown",
+                "sentiment": "none"
+            },
+            {
+                "name": "Suffolk",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "MetLife",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": "MET",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Top Grass",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:18:25.734+03:00",
+    "updated": "2026-09-03T07:22:48.000+03:00"
+}

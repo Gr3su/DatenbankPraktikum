@@ -1,0 +1,153 @@
+{
+    "thread": {
+        "uuid": "2fa704cc9d0ae60dfcc5cd933c595294c3b970bb",
+        "url": "https://www.newsbreak.com/news/4607258976173-proposed-meeting-on-comeaux-high-closure-may-have-violated-court-order",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/lafayette-la",
+        "site_categories": [
+            "sport",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "human interest",
+            "under_construction",
+            "politics",
+            "crime, law and justice"
+        ],
+        "section_title": "Lafayette, LA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Proposed meeting on Comeaux High closure may have violated court order - NewsBreak",
+        "title_full": "Proposed meeting on Comeaux High closure may have violated court order - NewsBreak",
+        "published": "2026-04-22T23:54:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2ygzeI_1AhNOuWu00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2fa704cc9d0ae60dfcc5cd933c595294c3b970bb",
+    "url": "https://www.newsbreak.com/news/4607258976173-proposed-meeting-on-comeaux-high-closure-may-have-violated-court-order",
+    "ord_in_thread": 0,
+    "author": "Scott Yoshonis",
+    "published": "2026-04-22T23:54:00.000+03:00",
+    "title": "Proposed meeting on Comeaux High closure may have violated court order - NewsBreak",
+    "text": "By Scott Yoshonis ,\n7 hours ago LAFAYETTE, La. (KLFY) — The saga surrounding the decision to close Comeaux High School, and then the reversal of that decision, continues. According to emails obtained by News 10, Lafayette Superintendent Francis Touchet requested a meeting with Lafayette NAACP President Ravis K. Martinez to discuss concerns about the potential closure of the school, and move of the district’s career center to the Comeaux campus. Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "topics": [
+        "Crime, Law and Justice->court",
+        "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Yoshonis",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ravis K. Martinez",
+                "sentiment": "none"
+            },
+            {
+                "name": "Francis Touchet",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Lafayette",
+                "sentiment": "none"
+            },
+            {
+                "name": "Comeaux",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Comeaux High",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "omeaux High School",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Lafayette NAACP",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "News 10",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-23T07:23:04.262+03:00",
+    "updated": "2026-04-23T07:31:21.000+03:00"
+}

@@ -1,0 +1,170 @@
+{
+    "thread": {
+        "uuid": "c9e237e002070797e19b43a2e03d00c5f47bd2e8",
+        "url": "https://www.newsbreak.com/news/4785400355865-tech-company-liteon-brings-headquarters-to-mckinney",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/quinlan-tx",
+        "site_categories": [
+            "sport",
+            "politics",
+            "under_construction",
+            "disaster and accident",
+            "human interest",
+            "economy, business and finance",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "social issue"
+        ],
+        "section_title": "Quinlan, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Tech company LITEON brings headquarters to McKinney - NewsBreak",
+        "title_full": "Tech company LITEON brings headquarters to McKinney - NewsBreak",
+        "published": "2026-07-22T20:41:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4btuZV_1DXsqUAO00",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c9e237e002070797e19b43a2e03d00c5f47bd2e8",
+    "url": "https://www.newsbreak.com/news/4785400355865-tech-company-liteon-brings-headquarters-to-mckinney",
+    "ord_in_thread": 0,
+    "author": "KERA",
+    "published": "2026-07-22T20:41:00.000+03:00",
+    "title": "Tech company LITEON brings headquarters to McKinney - NewsBreak",
+    "text": "By KERA ,\n11 hours ago LITEON, a Taiwanese based technology company, will establish their North American headquarters in McKinney. The $919 million investment is said to establish more than 600 new jobs in Collin County, and represents one of the largest investments in the city's history. McKinney's Mayor Bill Cox joined NTX Now's Ron Corning... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->economy",
+        "Economy, Business and Finance->business information",
+        "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.keranews.org/news/2026-07-22/mckinney-liteon-development-economic-growth-bill-cox?_amp=true",
+        "https://keranews.org/news/2026-07-22/mckinney-liteon-development-economic-growth-bill-cox?_amp=true",
+        "https://www.keranews.org/news/2026-07-22/mckinney-liteon-development-economic-growth-bill-cox"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ron Corning",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bill Cox",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "North Amer",
+                "sentiment": "none"
+            },
+            {
+                "name": "McKinney",
+                "sentiment": "none"
+            },
+            {
+                "name": "Collin County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "LITEON",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "2305.TW",
+                        "exchange": "TWSE"
+                    }
+                ]
+            },
+            {
+                "name": "McKinney",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "ican",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NTX Now",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Quinlan"
+            ],
+            "state": [
+                "Texas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-23T07:50:32.745+03:00",
+    "updated": "2026-07-23T11:24:46.000+03:00"
+}

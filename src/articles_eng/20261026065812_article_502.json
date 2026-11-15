@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "a357f71d889be16de20c4b8f1af17436e5e50a0a",
+        "url": "https://www.newsbreak.com/news/4960086165560-startup-proposes-massive-nuclear-power-plant-campus-in-kentucky",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/garrison-ky",
+        "site_categories": [
+            "under_construction",
+            "politics",
+            "lifestyle and leisure",
+            "sport",
+            "crime, law and justice",
+            "economy, business and finance",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Garrison, KY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Startup proposes massive nuclear power plant campus in Kentucky - NewsBreak",
+        "title_full": "Startup proposes massive nuclear power plant campus in Kentucky - NewsBreak",
+        "published": "2026-10-21T23:33:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2E1Oxx_1GKtvNrT00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T07:14:53.340+03:00"
+        }
+    },
+    "uuid": "a357f71d889be16de20c4b8f1af17436e5e50a0a",
+    "url": "https://www.newsbreak.com/news/4960086165560-startup-proposes-massive-nuclear-power-plant-campus-in-kentucky",
+    "ord_in_thread": 0,
+    "author": "Liam Niemeyer, Kentucky Lantern",
+    "published": "2026-10-21T23:33:00.000+03:00",
+    "title": "Startup proposes massive nuclear power plant campus in Kentucky - NewsBreak",
+    "text": "By Liam Niemeyer, Kentucky Lantern ,\n1 days ago A Lexington-based nuclear energy startup is proposing to build a massive nuclear power plant complex along the Ohio River in Lewis County, which, if fully realized, would be the largest nuclear power plant site in the country and the first nuclear power plant in Kentucky. In a news release, the... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Environment",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Environment->energy resources",
+        "Environment->energy saving",
+        "Science and Technology->physics",
+        "Science and Technology->scientific research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://postindustrial.com/stories/startup-proposes-massive-nuclear-power-plant-campus-in-lewis-county/",
+        "https://www.postindustrial.com/stories/startup-proposes-massive-nuclear-power-plant-campus-in-lewis-county/",
+        "https://postindustrial.com/stories/startup-proposes-massive-nuclear-power-plant-campus-in-lewis-county"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Liam Niemeyer",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Ohio River",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lewis County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kentucky",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "Kentucky Lantern",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Garrison"
+            ],
+            "state": [
+                "Kentucky"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:14:53.340+03:00",
+    "updated": "2026-10-23T07:19:24.000+03:00",
+    "related_articles": null
+}

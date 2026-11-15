@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "113ea4be0ba2ff6ae750d9c017bb07f2c8efb20e",
+        "url": "https://www.newsbreak.com/news/4703360358015-1-arrested-1-on-the-run-for-trying-to-break-into-fulton-jail",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/lithonia-ga",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "sport",
+            "politics",
+            "disaster and accident",
+            "lifestyle and leisure",
+            "human interest",
+            "crime, law and justice",
+            "economy, business and finance"
+        ],
+        "section_title": "Lithonia, GA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "1 arrested, 1 on the run for trying to break into Fulton jail - NewsBreak",
+        "title_full": "1 arrested, 1 on the run for trying to break into Fulton jail - NewsBreak",
+        "published": "2026-06-10T23:16:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1ey0Ge_1CECwAiI00",
+        "performance_score": 0,
+        "domain_rank": 2951,
+        "domain_rank_updated": "2026-06-08T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "113ea4be0ba2ff6ae750d9c017bb07f2c8efb20e",
+    "url": "https://www.newsbreak.com/news/4703360358015-1-arrested-1-on-the-run-for-trying-to-break-into-fulton-jail",
+    "ord_in_thread": 0,
+    "author": "fox5atlanta.com",
+    "published": "2026-06-10T23:16:00.000+03:00",
+    "title": "1 arrested, 1 on the run for trying to break into Fulton jail - NewsBreak",
+    "text": "1 days ago A highly unusual security breach unfolded Monday night at the Fulton County Jail on Rice Street when two individuals attempted to break into the facility to sell contraband to inmates, according to authorities. Read full article\n16",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->police",
+        "Crime, Law and Justice->judiciary"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox5atlanta.com/video/fmc-os3tm8aruhirx3e3.amp",
+        "https://fox5atlanta.com/video/fmc-os3tm8aruhirx3e3.amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Fulton",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Lithonia"
+            ],
+            "state": [
+                "Georgia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-11T07:23:27.196+03:00",
+    "updated": "2026-06-12T07:12:34.068+03:00"
+}

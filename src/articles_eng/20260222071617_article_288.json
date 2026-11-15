@@ -1,0 +1,120 @@
+{
+    "thread": {
+        "uuid": "7dbab4689d3e2685ec35348da39def478e093116",
+        "url": "https://www.newsbreak.com/news/4499027757000-state-probe-propane-leak-turned-bethel-home-into-deadly-fireball",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/georgetown-oh",
+        "site_categories": [
+            "sport",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "under_construction",
+            "economy, business and finance",
+            "human interest",
+            "politics"
+        ],
+        "section_title": "Georgetown, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "State Probe: Propane Leak Turned Bethel Home Into Deadly Fireball - NewsBreak",
+        "title_full": "State Probe: Propane Leak Turned Bethel Home Into Deadly Fireball - NewsBreak",
+        "published": "2026-02-18T16:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1X7CZh_18yJsOu000",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7dbab4689d3e2685ec35348da39def478e093116",
+    "url": "https://www.newsbreak.com/news/4499027757000-state-probe-propane-leak-turned-bethel-home-into-deadly-fireball",
+    "ord_in_thread": 0,
+    "author": "Hazel Ramirez",
+    "published": "2026-02-18T16:57:00.000+02:00",
+    "title": "State Probe: Propane Leak Turned Bethel Home Into Deadly Fireball - NewsBreak",
+    "text": "By Hazel Ramirez ,\n14 hours ago A final report from the Ohio State Fire Marshal has concluded that a propane leak in the basement of a Bethel home ignited and triggered the Nov. 19, 2024 explosion that killed two people and badly burned a technician. The single-story house was essentially flattened, with debris scattered across the neighborhood. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->fire"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hazel Ramirez",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Bethel",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Georgetown"
+            ],
+            "state": [
+                "Ohio"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:21:42.190+02:00",
+    "updated": "2026-02-19T07:24:13.000+02:00"
+}

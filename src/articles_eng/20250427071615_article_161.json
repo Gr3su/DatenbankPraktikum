@@ -1,0 +1,171 @@
+{
+    "thread": {
+        "uuid": "15d04238d056fd1e071b379acb0cbf15af84ad8b",
+        "url": "https://southohionews.com/stories/670466142-enrollment-analysis-hispanic-students-comprised-0-3-of-brown-county-s-student-body-in-2023-24-school-year",
+        "site_full": "southohionews.com",
+        "site": "southohionews.com",
+        "site_section": "https://southohionews.com",
+        "site_categories": [],
+        "section_title": "South Ohio News",
+        "site_title": "South Ohio News",
+        "title": "Enrollment Analysis: Hispanic students comprised 0.3% of Brown County's student body in 2023-24 school year",
+        "title_full": "Enrollment Analysis: Hispanic students comprised 0.3% of Brown County's student body in 2023-24 school year",
+        "published": "2025-03-27T00:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://s3.amazonaws.com/jnswire/jns-media/b2/01/17876808/webp_paul_craft_.webp",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "15d04238d056fd1e071b379acb0cbf15af84ad8b",
+    "url": "https://southohionews.com/stories/670466142-enrollment-analysis-hispanic-students-comprised-0-3-of-brown-county-s-student-body-in-2023-24-school-year",
+    "ord_in_thread": 0,
+    "author": "South Ohio News",
+    "published": "2025-03-27T00:10:00.000+02:00",
+    "title": "Enrollment Analysis: Hispanic students comprised 0.3% of Brown County's student body in 2023-24 school year",
+    "text": "Paul Craft Ohio Superintendent of Public Instruction | https://sboe.ohio.gov/about-us/superintendent/01-superintendent\nPaul Craft Ohio Superintendent of Public Instruction | https://sboe.ohio.gov/about-us/superintendent/01-superintendent\nOhio Department of Education & Workforce.\nData showed that Brown County welcomed 6,071 students during the 2023-24 school year. Among them, Hispanic students comprised 0.3% of the student body to be the least represented ethnicity in the county.\nAmong the 16 schools in Brown County, Mt. Orab Primary Elementary School and Fayetteville-Perry Elementary School recorded enrollment of Hispanic students in the 2023-24 school year, with a total of 10 students.\nIn 2022, Ohio saw an average student-to-teacher ratio of approximately 1:15, which is an improvement for the state and is lower than the national average of 1:16.\nDespite the apparent improvement, this positive trend is overshadowed by a general decline in public school enrollments, which was accelerated by the pandemic. This decline, aligned with the steady number of teachers in the state over the last 10 years, has led to low student-to-teacher ratios.\nSchool name | % of Hispanic students enrolment | Total enrollment |\n---|---|---|\nMt. Orab Primary Elementary School | 1.3 | 764 |\nFayetteville-Perry Elementary School | 2.9 | 345 |\nRipley Union Lewis Huntington Elementary School | 0 | 391 |\nGeorgetown Elementary School | 0 | 547 |\nMt. Orab Middle School | 0 | 618 |\nWestern Brown High School | 0 | 728 |\nHamersville Elementary School | 0 | 578 |\nGeorgetown Junior-Senior High School | 0 | 387 |\nSardinia Elementary School | 0 | 280 |\nRussellville Elementary School | 0 | 266 |\nEastern High School | 0 | 251 |\nEastern Middle School | 0 | 237 |\nRipley-Union-Lewis-Huntington High School | 0 | 227 |\nFayetteville-Perry High School | 0 | 212 |\nFayetteville-Perry Middle School | 0 | 161 |\nRipley Union Lewis Huntington Middle School | 0 | 79 |",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://education.ohio.gov/Topics/Research-Evaluation-and-Advanced-Analytics/Data-Insights/Ohio-s-Teacher-Workforce",
+        "https://education.ohio.gov/",
+        "https://www.education.ohio.gov/Topics/Research-Evaluation-and-Advanced-Analytics/Data-Insights/Ohio-s-Teacher-Workforce",
+        "https://education.ohio.gov",
+        "https://www.education.ohio.gov/"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Ohio",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Brown County",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Fayetteville",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Paul Craft",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Ohio Department of Education & Workforce",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Mt. Orab Primary Elementary School",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Ripley Union Lewis Huntington Elementary School",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Georgetown Elementary School",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Mt. Orab Middle School",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Western Brown High School",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Hamersville Elementary School",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Georgetown Junior-Senior High School",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Sardinia Elementary School",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Russellville Elementary School",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Eastern High School",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Eastern Middle School",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Ripley-Union-Lewis-Huntington High School",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Fayetteville-Perry High School",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Ripley Union Lewis Huntington Middle School",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ]
+    },
+    "rating": null,
+    "crawled": "2025-03-27T00:38:56.155+02:00",
+    "updated": "2025-03-27T00:38:56.155+02:00"
+}

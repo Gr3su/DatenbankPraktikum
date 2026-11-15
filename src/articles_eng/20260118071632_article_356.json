@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "c9cb62e2ae45ba1c9e25f92d4effcbe6ff0c00c4",
+        "url": "https://local.newsbreak.com/newsweek-500152/4442925433223-mavericks-make-cooper-flagg-injury-announcement-vs-nuggets",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/newsweek-500152",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Newsweek&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Mavericks Make Cooper Flagg Injury Announcement vs Nuggets - NewsBreak",
+        "title_full": "Mavericks Make Cooper Flagg Injury Announcement vs Nuggets - NewsBreak",
+        "published": "2026-01-15T01:19:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2qg4KP_183nUHiB00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-11T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c9cb62e2ae45ba1c9e25f92d4effcbe6ff0c00c4",
+    "url": "https://local.newsbreak.com/newsweek-500152/4442925433223-mavericks-make-cooper-flagg-injury-announcement-vs-nuggets",
+    "ord_in_thread": 0,
+    "author": "Justin Grasso",
+    "published": "2026-01-15T01:19:00.000+02:00",
+    "title": "Mavericks Make Cooper Flagg Injury Announcement vs Nuggets - NewsBreak",
+    "text": "By Justin Grasso ,\n6 hours ago The Dallas Mavericks lost their star rookie Cooper Flagg to an ankle injury on Wednesday night against the Denver Nuggets. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Sport->disciplinary action in sport",
+        "Sport->basketball"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Justin Grasso",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Cooper Flagg",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Dallas Mavericks",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Denver Nuggets",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-15T07:24:12.420+02:00",
+    "updated": "2026-01-15T07:28:05.000+02:00"
+}

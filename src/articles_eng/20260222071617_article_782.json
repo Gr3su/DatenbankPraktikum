@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "54ab0b44042cb1453769b927887f35de0a878f62",
+        "url": "https://www.newsbreak.com/news/4498911295108-knox-county-qualifies-for-fema-reimbursement-of-winter-storm-expenses",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/mount-carmel-il",
+        "site_categories": [
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "human interest",
+            "sport",
+            "politics",
+            "lifestyle and leisure",
+            "under_construction",
+            "economy, business and finance"
+        ],
+        "section_title": "Mount Carmel, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Knox County qualifies for FEMA reimbursement of winter storm expenses - NewsBreak",
+        "title_full": "Knox County qualifies for FEMA reimbursement of winter storm expenses - NewsBreak",
+        "published": "2026-02-18T15:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1O1DSt_18yCTe0Y00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "54ab0b44042cb1453769b927887f35de0a878f62",
+    "url": "https://www.newsbreak.com/news/4498911295108-knox-county-qualifies-for-fema-reimbursement-of-winter-storm-expenses",
+    "ord_in_thread": 0,
+    "author": "davidfoster",
+    "published": "2026-02-18T15:50:00.000+02:00",
+    "title": "Knox County qualifies for FEMA reimbursement of winter storm expenses - NewsBreak",
+    "text": "By davidfoster ,\n16 hours ago Knox County has exceeded the cost threshold required to qualify for federal disaster reimbursement following January’s severe winter storm. Emergency Management Director John Streeter told county commissioners Tuesday that more than $438,000 in preliminary eligible expenses has been identified. The minimum required to qualify for FEMA Public Assistance is $176,330.52. Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "John Streeter",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Knox County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "FEMA",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Mount Carmel"
+            ],
+            "state": [
+                "Indiana",
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:36:59.869+02:00",
+    "updated": "2026-02-19T08:12:54.588+02:00"
+}

@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "11831db57588d9aba4abd4a39d4995add6d2dbb6",
+        "url": "https://www.newsbreak.com/news/4570707748120-heavy-rain-severe-weather-possible-by-thursday-evening",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/norwich-ks",
+        "site_categories": [
+            "politics",
+            "under_construction",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "sport",
+            "human interest",
+            "arts, culture and entertainment",
+            "crime, law and justice"
+        ],
+        "section_title": "Norwich, KS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Heavy rain, severe weather possible by Thursday evening - NewsBreak",
+        "title_full": "Heavy rain, severe weather possible by Thursday evening - NewsBreak",
+        "published": "2026-04-01T16:19:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0QeP4w_1A6Y7TNq00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "11831db57588d9aba4abd4a39d4995add6d2dbb6",
+    "url": "https://www.newsbreak.com/news/4570707748120-heavy-rain-severe-weather-possible-by-thursday-evening",
+    "ord_in_thread": 0,
+    "author": "Chuck Samples",
+    "published": "2026-04-01T16:19:00.000+03:00",
+    "title": "Heavy rain, severe weather possible by Thursday evening - NewsBreak",
+    "text": "By Chuck Samples ,\n1 days ago Strong to severe storms and heavy rainfall are still possible areawide after sunset Wednesday. The Storm Prediction Center has a slight-to-enhanced severe weather risk areawide, with the enhanced area along and south of a line from Kingman to Madison to Parsons. Regardless of the risk level, the main concern is heavy rainfall — possibly up to 1.5 inches of rain — along with large hail, wind gusts up to 70 mph and brief, isolated tornadoes. Read full article\nRead in NewsBreak",
+    "summary": "15 hours ago Strong to severe storms and heavy rainfall are still possible areawide after sunset Wednesday. The Storm Prediction Center has a slight-to-enhanced severe weather risk areawide, with the enhanced area along and south of a line from Kingman to Madison to Parsons. Regardless of the risk level, the main concern is heavy rainfall — possibly up to 1.5 inches of rain — along with large hail, wind gusts up to 70 mph and brief, isolated tornadoes. Read full article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather phenomena",
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Chuck Samples",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Madison",
+                "sentiment": "none"
+            },
+            {
+                "name": "Parsons",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kingman",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "11831db57588d9aba4abd4a39d4995add6d2dbb6",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Norwich"
+            ],
+            "state": [
+                "Kansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-02T07:25:40.300+03:00",
+    "updated": "2026-04-02T22:26:45.597+03:00"
+}

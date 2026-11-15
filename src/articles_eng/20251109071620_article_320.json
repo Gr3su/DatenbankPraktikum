@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "599be370b06c0d033501a483ac5b28927e8175d0",
+        "url": "https://larsen.house.gov/news/documentsingle.aspx?DocumentID=4045",
+        "site_full": "larsen.house.gov",
+        "site": "house.gov",
+        "site_section": "https://larsen.house.gov/news",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "us_government_resources"
+        ],
+        "section_title": "\r\n\tLatest News | U.S. Representative Rick Larsen\r\n",
+        "site_title": null,
+        "title": "Larsen Releases Statement on Trump Administration Cancelling Thousands of Flights | U.S. Representative Rick Larsen",
+        "title_full": "Larsen Releases Statement on Trump Administration Cancelling Thousands of Flights | U.S. Representative Rick Larsen",
+        "published": "2025-11-05T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://larsen.house.gov/images/facebook-meta.jpg",
+        "performance_score": 0,
+        "domain_rank": 2134,
+        "domain_rank_updated": "2025-10-26T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "599be370b06c0d033501a483ac5b28927e8175d0",
+    "url": "https://larsen.house.gov/news/documentsingle.aspx?DocumentID=4045",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-11-05T02:00:00.000+02:00",
+    "title": "Larsen Releases Statement on Trump Administration Cancelling Thousands of Flights | U.S. Representative Rick Larsen",
+    "text": "Press Releases\nLarsen Releases Statement on Trump Administration Cancelling Thousands of Flights\nWashington, D.C.,\nNovember 5, 2025\nToday Representative Rick Larsen (WA-02), Ranking Member of the Transportation and Infrastructure Committee, released the following statement after the Trump administration announced that it will cancel thousands of flights:\n\"The women and men who climb into air traffic control towers to keep the flying public safe had their jobs become even more stressful last week when they missed their first full paycheck. \"Now, shutting down parts of our National Airspace System (NAS) is a dramatic and unprecedented step that demands more transparency. \"The FAA must immediately share any safety risk assessment and related data that this decision is predicated on with Congress. If we want to resolve issues in the NAS, let us fix health care, open government and pay air traffic controllers.\" ### |",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rick Larsen",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "D.C.",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NAS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "FAA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "599be370b06c0d033501a483ac5b28927e8175d0",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "gov_news",
+            "city": [
+                "Washington"
+            ],
+            "state": [
+                "DC"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": "Federal - Legislative",
+            "agency": "The Legislative Branch",
+            "organization_name": "US House of Representatives"
+        }
+    },
+    "rating": null,
+    "crawled": "2025-11-06T07:25:11.344+02:00",
+    "updated": "2025-11-06T07:26:50.000+02:00"
+}

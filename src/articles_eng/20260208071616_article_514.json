@@ -1,0 +1,124 @@
+{
+    "thread": {
+        "uuid": "a21f05607a99709530d3a3364022d93a294c5e95",
+        "url": "https://www.youtube.com/watch?v=1XHnsuGbm_A",
+        "site_full": "www.youtube.com",
+        "site": "youtube.com",
+        "site_section": "https://feeder.co/out/folder/07af1ba519.rss",
+        "site_categories": [
+            "war, conflict and unrest",
+            "entertainment",
+            "television",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Audio and Video News",
+        "site_title": "YouTube",
+        "title": "Queens man charged with attempted murder in 2-year-old son's alleged beating",
+        "title_full": "Queens man charged with attempted murder in 2-year-old son's alleged beating",
+        "published": "2026-02-05T06:51:00.000+02:00",
+        "replies_count": 1,
+        "participants_count": 2,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ytimg.com/vi/1XHnsuGbm_A/maxresdefault.jpg",
+        "performance_score": 0,
+        "domain_rank": 9,
+        "domain_rank_updated": "2026-02-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a21f05607a99709530d3a3364022d93a294c5e95",
+    "url": "https://www.youtube.com/watch?v=1XHnsuGbm_A",
+    "ord_in_thread": 0,
+    "author": "CBS New York",
+    "published": "2026-02-05T06:51:00.000+02:00",
+    "title": "Queens man charged with attempted murder in 2-year-old son's alleged beating",
+    "text": "Queens man charged with attempted murder in 2-year-old son's alleged beatingA mother is praying for a miracle as her toddler fights for his life in a Manhattan hospital. The child's father has been arrested for attempted murder. CBS News New York's Ali Bauman reports. For video licensing inquiries, contact: licensing@veritone.com",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide",
+        "Crime, Law and Justice->assault",
+        "Crime, Law and Justice->court"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ali Bauman",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Queens",
+                "sentiment": "none"
+            },
+            {
+                "name": "Manhattan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBS News New York",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-05T07:25:37.750+02:00",
+    "updated": "2026-02-05T07:28:03.000+02:00"
+}

@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "47b8457d830a641a4c44b3bfc434c40012231abe",
+        "url": "https://www.newsbreak.com/news/4662679185741-cherokee-woman-killed-in-eastern-iowa-crash",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/dike-ia",
+        "site_categories": [
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "sport",
+            "crime, law and justice",
+            "human interest",
+            "politics",
+            "under_construction",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Dike, IA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Cherokee Woman Killed in Eastern Iowa Crash - NewsBreak",
+        "title_full": "Cherokee Woman Killed in Eastern Iowa Crash - NewsBreak",
+        "published": "2026-05-21T00:12:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1bLGCn_1BaDU4F300",
+        "performance_score": 0,
+        "domain_rank": 2964,
+        "domain_rank_updated": "2026-05-18T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "47b8457d830a641a4c44b3bfc434c40012231abe",
+    "url": "https://www.newsbreak.com/news/4662679185741-cherokee-woman-killed-in-eastern-iowa-crash",
+    "ord_in_thread": 0,
+    "author": "Sam Heyn",
+    "published": "2026-05-21T00:12:00.000+03:00",
+    "title": "Cherokee Woman Killed in Eastern Iowa Crash - NewsBreak",
+    "text": "By Sam Heyn ,\n10 hours ago Waterloo, Iowa (KTIV) — A young woman from Cherokee, Iowa, was killed in a traffic crash in the eastern part of the state. According to the crash report from the Iowa State Patrol, 22-year-old Kiersten Ryherd from Cherokee was killed on Monday, May 18th. The crash report states that... Read full article\nRead in NewsBreak 2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sam Heyn",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Kiersten Ryherd",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Iowa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cherokee",
+                "sentiment": "none"
+            },
+            {
+                "name": "Waterloo",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Cherokee",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Iowa State Patrol",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Dike"
+            ],
+            "state": [
+                "Iowa"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-21T07:25:29.136+03:00",
+    "updated": "2026-05-21T10:23:52.320+03:00"
+}

@@ -1,0 +1,158 @@
+{
+    "thread": {
+        "uuid": "3fdc14c70a10a41b8c653a0511c70496d9a9d9a7",
+        "url": "https://www.newsbreak.com/news/4961797227636-golden-corral-shut-down-after-health-inspectors-discover-roach-infestation",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/king-george-va",
+        "site_categories": [
+            "lifestyle and leisure",
+            "under_construction",
+            "arts, culture and entertainment",
+            "politics",
+            "economy, business and finance",
+            "crime, law and justice",
+            "sport"
+        ],
+        "section_title": "King George, VA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Golden Corral Shut Down After Health Inspectors Discover Roach Infestation - NewsBreak",
+        "title_full": "Golden Corral Shut Down After Health Inspectors Discover Roach Infestation - NewsBreak",
+        "published": "2026-10-23T02:20:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3FxlZt_1GMcXLRy00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T07:18:59.452+03:00"
+        }
+    },
+    "uuid": "3fdc14c70a10a41b8c653a0511c70496d9a9d9a7",
+    "url": "https://www.newsbreak.com/news/4961797227636-golden-corral-shut-down-after-health-inspectors-discover-roach-infestation",
+    "ord_in_thread": 0,
+    "author": "Patrick Herron",
+    "published": "2026-10-23T02:20:00.000+03:00",
+    "title": "Golden Corral Shut Down After Health Inspectors Discover Roach Infestation - NewsBreak",
+    "text": "By Patrick Herron ,\n4 hours ago Golden Corral in Waldorf, MD has been temporarily closed after health inspectors discovered a roach infestation at the restaurant, located at 2800 Crain Highway in Charles County. According to The BayNet, the Charles County Department of Health suspended the restaurant’s food service license on Tuesday, October 20, following an inspection... Read full article\n3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->medical condition",
+        "Health->health treatment and procedure",
+        "Health->health organisation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://mocoshow.com/2026/10/22/golden-corral-shut-down-after-health-inspectors-discover-roach-infestation/",
+        "https://mocoshow.com/2026/10/22/golden-corral-shut-down-after-health-inspectors-discover-roach-infestation",
+        "https://www.mocoshow.com/2026/10/22/golden-corral-shut-down-after-health-inspectors-discover-roach-infestation/"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwow.fc40898b.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fangry.da7a9102.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Patrick Herron",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Crain Highway",
+                "sentiment": "none"
+            },
+            {
+                "name": "Charles County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Waldorf",
+                "sentiment": "none"
+            },
+            {
+                "name": "MD",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Golden Corral",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "The BayNet",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Charles County Department of Health",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "King George"
+            ],
+            "state": [
+                "Virginia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:18:59.452+03:00",
+    "updated": "2026-10-23T07:21:16.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "0046260551e067dc80e2f2b2fc700f97bf80b702",
+        "url": "https://local.newsbreak.com/fox31-denver-1589915/4160927844088-colorado-national-guard-mobilized-to-support-elk-lee-fire-suppression-efforts",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/fox31-denver-1589915",
+        "site_categories": [],
+        "section_title": "FOX31 Denver&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Colorado National Guard mobilized to support Elk, Lee fire suppression efforts - NewsBreak",
+        "title_full": "Colorado National Guard mobilized to support Elk, Lee fire suppression efforts - NewsBreak",
+        "published": "2025-08-07T07:19:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0LCSaz_13YeExeh00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0046260551e067dc80e2f2b2fc700f97bf80b702",
+    "url": "https://local.newsbreak.com/fox31-denver-1589915/4160927844088-colorado-national-guard-mobilized-to-support-elk-lee-fire-suppression-efforts",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-08-07T07:19:00.000+03:00",
+    "title": "Colorado National Guard mobilized to support Elk, Lee fire suppression efforts - NewsBreak",
+    "text": "DENVER (KDVR) — On Wednesday night, Gov. Jared Polis authorized the mobilization of the Colorado National Guard to aid with fire response near Meeker. The authorization allows the state authority to use the National Guard assets in fire suppression efforts if necessary. The Governor’s Office noted that the wind has continued to drive the Rio Blanco County fires, pushing the Lee Fire to jump Highway 13 on Wednesday and leading to the area around Meeker being evacuated and the town of Meeker being placed on pre-evacuation status. The Lee Fire, as of Wednesday evening, was estimated to have burned 45,000 acres, according to the Colorado Governor’s Office. Over the weekend, Polis verbally declared a disaster emergency for the Elk Fire in Rio Blanco County, which is still burning southeast of Meeker. That declaration was updated on Tuesday to include the Lee Fire, which had previously been burning only on Bureau of Land Management lands. State Emergency Operations and Resource Mobilization Plans were also activated with the disaster declaration. A link to view the live evacuations map in Rio Blanco County is available here. For the latest news, weather, sports, and streaming video, head to FOX31 Denver.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "topics": [
+        "Environment->natural resources",
+        "Environment->environmental clean-up",
+        "Crime, Law and Justice->arson",
+        "Crime, Law and Justice->law enforcement",
+        "Social Issue->communities",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://kdvr.com",
+        "https://img.particlenews.com/image.php?url=0LCSaz_13YeExeh00",
+        "https://nifc.maps.arcgis.com/apps/instant/lookup/index.html?appid=b7ed68c631e84ec5b7833e12470049c6&fbclid=IwY2xjawMBB8JleHRuA2FlbQIxMABicmlkETFUWGNCdW16STB4YUpOajU2AR5rNQcUPv7wkXBxuFZ0LoxVDLqZsOGsi-crDnYoWvfVQxUBtVWoO1e6bsBsHA_aem_6_RDV-jyr_ev3VKcjN6grw",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0LCSaz_13YeExeh00",
+        "https://img.particlenews.com/image.php",
+        "https://www.nifc.maps.arcgis.com/apps/instant/lookup/index.html?appid=b7ed68c631e84ec5b7833e12470049c6&fbclid=IwY2xjawMBB8JleHRuA2FlbQIxMABicmlkETFUWGNCdW16STB4YUpOajU2AR5rNQcUPv7wkXBxuFZ0LoxVDLqZsOGsi-crDnYoWvfVQxUBtVWoO1e6bsBsHA_aem_6_RDV-jyr_ev3VKcjN6grw",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0LCSaz_13YeExeh00",
+        "https://nifc.maps.arcgis.com/apps/instant/lookup/index.html",
+        "https://www.kdvr.com",
+        "https://www.img.particlenews.com/image.php?url=0LCSaz_13YeExeh00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lee",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jared Polis",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Meeker",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Colorado National Guard",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Bureau of Land Management",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Lee Fire",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-07T07:42:32.294+03:00",
+    "updated": "2025-08-07T07:48:55.000+03:00"
+}

@@ -1,0 +1,153 @@
+{
+    "thread": {
+        "uuid": "3bca48569d4747c1ac8bbcc1f0e220e421437138",
+        "url": "https://www.newsbreak.com/news/4989089818692-columbia-county-aims-to-eliminate-homestead-property-taxes-by-2029",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/warrenton-ga",
+        "site_categories": [
+            "politics",
+            "social issue",
+            "under_construction",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "sport",
+            "lifestyle and leisure",
+            "economy, business and finance"
+        ],
+        "section_title": "Warrenton, GA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Columbia County aims to eliminate homestead property taxes by 2029 - NewsBreak",
+        "title_full": "Columbia County aims to eliminate homestead property taxes by 2029 - NewsBreak",
+        "published": "2026-11-06T00:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4CLXJP_1Go74Bd000",
+        "performance_score": 0,
+        "domain_rank": 2894,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-11-06T07:22:49.438+02:00"
+        }
+    },
+    "uuid": "3bca48569d4747c1ac8bbcc1f0e220e421437138",
+    "url": "https://www.newsbreak.com/news/4989089818692-columbia-county-aims-to-eliminate-homestead-property-taxes-by-2029",
+    "ord_in_thread": 0,
+    "author": "Sydney Palmer",
+    "published": "2026-11-06T00:17:00.000+02:00",
+    "title": "Columbia County aims to eliminate homestead property taxes by 2029 - NewsBreak",
+    "text": "By Sydney Palmer ,\n7 hours ago\nCOLUMBIA COUNTY, Ga. (WRDW/WAGT) - Columbia County plans to use excess revenue, including money from the new Google data center, to pay property taxes for homeowners with a homestead exemption, County Manager Scott Johnson said. Johnson said full elimination of homestead property taxes depends on a state constitutional amendment that...\nRead full article\nAdd to Preferred Sources\n4",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue"
+    ],
+    "topics": [
+        "Social Issue->population and census",
+        "Social Issue->demographics",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.gstatic.com/images/branding/productlogos/googleg_gradient/v1/24px.svg",
+        "https://www.google.com/preferences/source?q=newsbreak.com",
+        "https://www.wrdw.com/2026/11/05/columbia-county-aims-eliminate-homestead-property-taxes-by-2029/",
+        "https://google.com/preferences/source?q=newsbreak.com",
+        "https://www.wrdw.com/2026/11/05/columbia-county-aims-eliminate-homestead-property-taxes-by-2029",
+        "https://wrdw.com/2026/11/05/columbia-county-aims-eliminate-homestead-property-taxes-by-2029/",
+        "https://www.google.com/preferences/source",
+        "https://gstatic.com/images/branding/productlogos/googleg_gradient/v1/24px.svg"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Johnson",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Sydney Palmer",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Columbia County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ga",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Google",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": "GOOG",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Warrenton"
+            ],
+            "state": [
+                "Georgia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-11-06T07:22:49.438+02:00",
+    "updated": "2026-11-06T07:24:23.000+02:00",
+    "related_articles": null
+}

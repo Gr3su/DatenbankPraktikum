@@ -1,0 +1,183 @@
+{
+    "thread": {
+        "uuid": "eae5895f788000f4bdecfb7010ed94d2793b286a",
+        "url": "https://www.hindustantimes.com/world-news/mexican-jalapenos-in-focus-as-340-fall-sick-in-us-due-to-salmonella-outbreak-101785988450332.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/budget",
+        "site_categories": [
+            "crime, law and justice",
+            "media",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "politics",
+            "arts, culture and entertainment",
+            "social issue",
+            "health",
+            "sport"
+        ],
+        "section_title": "Budget 2026: When is Budget 2026? Union Budget Date, Time &amp; India Budget Announcements | Hindustan Times",
+        "site_title": "Hindustan Times: Breaking News, Latest News, India News, World News & Cricket Today's Headlines | Hindustan Times",
+        "title": "Mexican jalapenos in focus as 340+ fall sick in US due to Salmonella outbreak | World News",
+        "title_full": "Mexican jalapenos in focus as 340+ fall sick in US due to Salmonella outbreak | World News",
+        "published": "2026-08-06T07:12:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/08/06/1600x900/logo/Jalapenos_1785989465176_1785989465331_51546864-3f23-48e6-ae4d-ad1663ce5b10.jpg",
+        "performance_score": 0,
+        "domain_rank": 2662,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "eae5895f788000f4bdecfb7010ed94d2793b286a",
+    "url": "https://www.hindustantimes.com/world-news/mexican-jalapenos-in-focus-as-340-fall-sick-in-us-due-to-salmonella-outbreak-101785988450332.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-08-06T07:12:00.000+03:00",
+    "title": "Mexican jalapenos in focus as 340+ fall sick in US due to Salmonella outbreak | World News",
+    "text": "US health officials are investigating a Salmonella outbreak linked to Mexican jalapeno peppers that has sickened 345 people in 27 states, prompting supplier Coast Citrus Distributors to recall peppers sent to restaurants including Chipotle Mexican Grill and QDOBA.Both the Centers for Disease Control and Prevention (CDC) and the Food and Drug Administration (FDA) said 36 hospitalizations and no deaths have been reported, while the investigation remains ongoing.FDA said illnesses began between June 19 and July 20. Salmonella infections can cause diarrhea, fever, and stomach cramps and can be particularly severe in young children, older adults, and people with weakened immune systems.Also Read: Cyclospora or Salmonella? How to identify symptoms as lettuce and egg outbreaks spreadThe outbreak comes amid heightened scrutiny of food safety in the restaurant industry following a recent US cyclosporiasis outbreak that prompted investigations by health authorities and renewed concerns about produce supply chains.The FDA and the CDC linked that outbreak to lettuce served at Yum Brands' Taco Bell restaurants and later identified Taylor Farms' operations in central Mexico as the source of the lettuce. On Wednesday, the agencies expanded the cyclosporiasis probe to 15 US states.Chipotle previously faced a series of foodborne illness outbreaks that hurt sales and led the burrito chain to adopt stricter food safety procedures.Jalapenos from SinaloaHealth agencies linked the outbreak to jalapeno peppers supplied by a common grower in Sinaloa, Mexico, and distributed in the US by Coast Citrus Distributors.The company has agreed to recall the remaining product and is notifying affected customers, the FDA said.The US investigation identified restaurants including Chipotle and QDOBA, a Mexican-style restaurant chain, that had received jalapenos imported by Coast Citrus Distributors.Chipotle has since switched jalapeno suppliers for its restaurants beginning July 20, while QDOBA stopped using jalapenos on July 28 and is no longer serving them, the FDA said.Also Read: FDA recalls 1.6 million Midwest poultry services eggs over Salmonella risk: Check affected brands and statesCoast Citrus, when contacted by Reuters, said it did not have an immediate comment.Chipotle shares fell more than 8% on Tuesday after the company said it had removed jalapenos from restaurants in Minnesota and other locations that received the product.\"FDA does not consider there to be a current ongoing risk from these establishments to consumers in this outbreak,\" the FDA said in a statement.The FDA said Coast Citrus does not appear to have supplied jalapenos directly to grocery stores and advised consumers and businesses not to eat, sell, or serve recalled peppers from Sinaloa.",
+    "summary": "US health officials are investigating a Salmonella outbreak linked to Mexican jalapeno peppers that has sickened 345 people in 27 states, prompting supplier Coast Citrus Distributors to recall peppers sent to restaurants including Chipotle Mexican Grill and QDOBA.Both the Centers for Disease Control and Prevention (CDC) and the Food and Drug Administration (FDA) said 36 hospitalizations and no deaths have been reported, while the investigation remains ongoing.FDA said illnesses began between June 19 and July 20.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->communicable disease"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "US",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "World News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Coast Citrus Distributors",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Chipotle Mexican Grill",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "CMG",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "FDA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "CDC",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Centers for Disease Control and Prevention",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "QDOBA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Food and Drug Administration",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:36:30.140+03:00",
+    "updated": "2026-08-06T07:46:02.000+03:00"
+}

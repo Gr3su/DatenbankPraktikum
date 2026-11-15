@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "7230718af85e6d2ff5426c5e959fae09a6fa5da3",
+        "url": "https://www.newsbreak.com/news/4420967831803-university-of-arkansas-at-monticello-debate-team-earns-3-awards-at-tourney",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/warren-ar",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Warren, AR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "University of Arkansas at Monticello debate team earns 3 awards at tourney - NewsBreak",
+        "title_full": "University of Arkansas at Monticello debate team earns 3 awards at tourney - NewsBreak",
+        "published": "2026-01-01T05:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2PLipO_17ifcODJ00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-12-28T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7230718af85e6d2ff5426c5e959fae09a6fa5da3",
+    "url": "https://www.newsbreak.com/news/4420967831803-university-of-arkansas-at-monticello-debate-team-earns-3-awards-at-tourney",
+    "ord_in_thread": 0,
+    "author": "Pine Bluff Commercial",
+    "published": "2026-01-01T05:20:00.000+02:00",
+    "title": "University of Arkansas at Monticello debate team earns 3 awards at tourney - NewsBreak",
+    "text": "2 hours ago The University of Arkansas at Monticello debate team earned three awards at the Mississippi State University Bulldog Classic Debate Tournament. Nathaniel Deckelman and Owen Iddings tied for ninth place in the Novice International Public Debate Association category. Deckelman also placed third in the novice speaker division, according to a news release. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Education",
+        "Sport"
+    ],
+    "topics": [
+        "Education->students",
+        "Education->college and university",
+        "Education->social learning",
+        "Sport->sport event",
+        "Sport->sports honour"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nathaniel Deckelman",
+                "sentiment": "none"
+            },
+            {
+                "name": "Owen Iddings",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "University of Arkansas",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Novice International Public Debate Association",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Warren"
+            ],
+            "state": [
+                "Arkansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-01T07:21:46.638+02:00",
+    "updated": "2026-01-01T07:26:49.000+02:00"
+}

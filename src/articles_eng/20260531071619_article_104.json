@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "c838e9a7254b91c034cd8a4afaacba3b5a945468",
+        "url": "https://www.ntd.com/ntdplus/new-airpods-to-feature-built-in-cameras-report_1148503.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://api.ntd.com/feed",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "media",
+            "war, conflict and unrest",
+            "architects",
+            "real_estate",
+            "health",
+            "politics",
+            "crime, law and justice",
+            "economy, business and finance"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "New AirPods to Feature Built-In Cameras: Report",
+        "title_full": "New AirPods to Feature Built-In Cameras: Report",
+        "published": "2026-05-28T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2026/05/id1148517-Screen-Shot-2026-05-27-at-22.04.20.png-784x400.webp",
+        "performance_score": 0,
+        "domain_rank": 66273,
+        "domain_rank_updated": "2026-05-25T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c838e9a7254b91c034cd8a4afaacba3b5a945468",
+    "url": "https://www.ntd.com/ntdplus/new-airpods-to-feature-built-in-cameras-report_1148503.html",
+    "ord_in_thread": 0,
+    "author": "NTD Newsroom",
+    "published": "2026-05-28T06:59:00.000+03:00",
+    "title": "New AirPods to Feature Built-In Cameras: Report",
+    "text": "New AirPods to Feature Built-In Cameras: Report\n|\nPublished: 5/27/2026, 11:59:37 PM EDTThe next generation of Apple AirPods could come with cameras. Bloomberg reports that the camera will feed visual data to Siri. Ahmed Banafa, an engineering professor at San Jose State University, share...\nRead More",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->electronic engineering",
+        "Science and Technology->technology and engineering",
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ahmed Banafa",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Apple",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "AAPL",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "San Jose State University",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Bloomberg",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-28T07:21:38.779+03:00",
+    "updated": "2026-05-28T07:22:50.000+03:00"
+}

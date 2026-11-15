@@ -1,0 +1,150 @@
+{
+    "thread": {
+        "uuid": "cbe631fcaa089301976ab19923d22516fc494019",
+        "url": "https://www.newsbreak.com/news/4798638735018-arixa-capital-closes-74-8m-loan-for-flagstaff-townhome-project",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sedona-az",
+        "site_categories": [
+            "crime, law and justice",
+            "economy, business and finance",
+            "human interest",
+            "under_construction",
+            "arts, culture and entertainment",
+            "disaster and accident",
+            "lifestyle and leisure",
+            "social issue",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Sedona, AZ Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Arixa Capital closes $74.8M loan for Flagstaff townhome project - NewsBreak",
+        "title_full": "Arixa Capital closes $74.8M loan for Flagstaff townhome project - NewsBreak",
+        "published": "2026-07-29T23:50:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1EtD1c_1DlDD2ep00",
+        "performance_score": 0,
+        "domain_rank": 3090,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cbe631fcaa089301976ab19923d22516fc494019",
+    "url": "https://www.newsbreak.com/news/4798638735018-arixa-capital-closes-74-8m-loan-for-flagstaff-townhome-project",
+    "ord_in_thread": 0,
+    "author": "azbigmedia.com",
+    "published": "2026-07-29T23:50:00.000+03:00",
+    "title": "Arixa Capital closes $74.8M loan for Flagstaff townhome project - NewsBreak",
+    "text": "7 hours ago Arixa Capital announced that it has closed a $74.8 million construction loan to finance the development of Pine Haven, an 83-unit townhome community in Flagstaff. The project is sponsored by Red Oak Development Group. Pine Haven is positioned to meet continued demand for high-quality housing in one of Arizona’s most... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->loan market",
+        "Economy, Business and Finance->business information"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://azbigmedia.com/real-estate/multifamily/arixa-capital-closes-74-8m-loan-for-flagstaff-townhome-project/",
+        "https://www.azbigmedia.com/real-estate/multifamily/arixa-capital-closes-74-8m-loan-for-flagstaff-townhome-project/",
+        "https://azbigmedia.com/real-estate/multifamily/arixa-capital-closes-74-8m-loan-for-flagstaff-townhome-project"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Flagstaff",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pine Haven",
+                "sentiment": "none"
+            },
+            {
+                "name": "Arizona",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Arixa Capital",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Red Oak Development Group",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Sedona"
+            ],
+            "state": [
+                "Arizona"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:10:20.708+03:00",
+    "updated": "2026-07-30T07:13:11.000+03:00"
+}

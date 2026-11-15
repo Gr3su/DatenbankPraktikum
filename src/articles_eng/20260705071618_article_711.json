@@ -1,0 +1,162 @@
+{
+    "thread": {
+        "uuid": "5b27209c01c29a3d2d76002f5e162ee7fd6941cb",
+        "url": "https://www.newsbreak.com/news/4742176502417-1-700-feet-of-cable-stolen-in-cocke-county-sheriff-s-office-says",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/greeneville-tn",
+        "site_categories": [
+            "human interest",
+            "economy, business and finance",
+            "under_construction",
+            "lifestyle and leisure",
+            "disaster and accident",
+            "arts, culture and entertainment",
+            "sport",
+            "politics",
+            "crime, law and justice",
+            "social issue"
+        ],
+        "section_title": "Greeneville, TN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "1,700 feet of cable stolen in Cocke County, sheriff's office says - NewsBreak",
+        "title_full": "1,700 feet of cable stolen in Cocke County, sheriff's office says - NewsBreak",
+        "published": "2026-06-30T23:13:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/45Scj9_1CrJzZUW00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5b27209c01c29a3d2d76002f5e162ee7fd6941cb",
+    "url": "https://www.newsbreak.com/news/4742176502417-1-700-feet-of-cable-stolen-in-cocke-county-sheriff-s-office-says",
+    "ord_in_thread": 0,
+    "author": "Josh Jarnagin",
+    "published": "2026-06-30T23:13:00.000+03:00",
+    "title": "1,700 feet of cable stolen in Cocke County, sheriff's office says - NewsBreak",
+    "text": "By Josh Jarnagin ,\n1 days ago COCKE COUNTY, Tenn. (WVLT) - The Cocke County Sheriff’s Office is asking for information after cable belonging to AT&T was cut and stolen. According to the sheriff’s office, about 1,700 feet of cable was cut on Trail Hollow Road near Barnes Hollow Road. It’s believed the cable was stolen between June 23 and 25. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->robbery and theft"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wvlt.tv/2026/06/30/1700-feet-cable-stolen-cocke-county-sheriffs-office-says/",
+        "https://wvlt.tv/2026/06/30/1700-feet-cable-stolen-cocke-county-sheriffs-office-says/",
+        "https://www.wvlt.tv/2026/06/30/1700-feet-cable-stolen-cocke-county-sheriffs-office-says"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Josh Jarnagin",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Cocke County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Barnes Hollow Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trail Hollow Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Cocke County Sheriff ’ s Office",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "AT & T",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "T",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Greeneville",
+                "Greenvale",
+                "Baileyton"
+            ],
+            "state": [
+                "Tennessee"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:40:54.667+03:00",
+    "updated": "2026-07-02T07:44:38.000+03:00"
+}

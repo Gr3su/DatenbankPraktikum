@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "7a8df84f13adfd16977544b3e6b1a68a5ad6e8b4",
+        "url": "https://thedarksideoftheboom.substack.com/p/the-fed-delivered-one-plus-one-october",
+        "site_full": "thedarksideoftheboom.substack.com",
+        "site": "substack.com",
+        "site_section": "https://news.google.com/search?q=same%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+        "site_categories": [
+            "economy, business and finance",
+            "politics",
+            "science and technology"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Substack",
+        "title": "The Fed Delivered One Plus One: October Is Now Goldman's Base Case",
+        "title_full": "The Fed Delivered One Plus One: October Is Now Goldman's Base Case",
+        "published": "2026-09-17T07:45:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://substackcdn.com/image/fetch/$s_!7XyZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ec52881-06e3-444c-82b3-43c3ab379954_1856x1060.png",
+        "performance_score": 0,
+        "domain_rank": 452,
+        "domain_rank_updated": null,
+        "licensing_agency": [
+            "NLA"
+        ],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7a8df84f13adfd16977544b3e6b1a68a5ad6e8b4",
+    "url": "https://thedarksideoftheboom.substack.com/p/the-fed-delivered-one-plus-one-october",
+    "ord_in_thread": 0,
+    "author": "Stephen Innes 🇨🇦 🇹🇭",
+    "published": "2026-09-17T07:45:00.000+03:00",
+    "title": "The Fed Delivered One Plus One: October Is Now Goldman's Base Case",
+    "text": "The market came into the September meeting debating whether the Fed would deliver one hike and step back. It left with a much clearer message. September was not one and done. The committee’s working baseline is now one plus one, with a smaller group already leaning toward one plus two.\nThat is the central conclusion from Goldman Sachs economist David Mericle’s FOMC recap. Mericle had expected the Fed to raise rates by 25 basis points to 3.75% to 4%, but thought the committee would resist signalling another near-term move. Instead, the dots, the unanimous decision and Kevin Warsh’s press conference all pushed in the same direction.\nTakeaways by Dark Side of the Boom™\nA sixteen-to-two majority projected at least one more 2026 hike, forcing Mericle to replace his one-hike forecast with a September-and-October sequence.\nWarsh’s repeated description of the move as removing accommodation signals that the Fed does not yet view policy as restrictive.\nGoldman still expects only two hikes because its core PCE forecasts sit below the FOMC medians and upcoming methodological revisions could lower reported inflation.\nOctober is now Goldman’s base case, but its probability-weighted path remains less hawkish than market pricing further along the curve.",
+    "summary": "Mericle had expected the Fed to raise rates by 25 basis points to 3.75% to 4%, but thought the committee would resist signalling another near-term move. Takeaways by Dark Side of the Boom™ A sixteen-to-two majority projected at least one more 2026 hike, forcing Mericle to replace his one-hike forecast with a September-and-October sequence. Warsh’s repeated description of the move as removing accommodation signals that the Fed does not yet view policy as restrictive. Goldman still expects only two hikes because its core PCE forecasts sit below the FOMC medians and upcoming methodological revisions could lower reported inflation.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": null,
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "David Mericle",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kevin Warsh",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Fed",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Goldman Sachs",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "GS",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "FOMC",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T07:54:54.948+03:00",
+    "updated": "2026-09-17T08:04:33.000+03:00"
+}

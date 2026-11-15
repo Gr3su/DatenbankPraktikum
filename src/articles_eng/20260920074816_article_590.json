@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "3276c1c55aab64ccffeed434d937a4967fc00bba",
+        "url": "https://www.newsbreak.com/news/4886036025609-inside-north-star-deli-minneapolis",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/minneapolis-mn-lifestyle",
+        "site_categories": [
+            "social issue",
+            "sport",
+            "crime, law and justice",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "human interest",
+            "politics",
+            "under_construction"
+        ],
+        "section_title": "Minneapolis, MN Lifestyle and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Inside North Star Deli Minneapolis - NewsBreak",
+        "title_full": "Inside North Star Deli Minneapolis - NewsBreak",
+        "published": "2026-09-15T00:49:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3276c1c55aab64ccffeed434d937a4967fc00bba",
+    "url": "https://www.newsbreak.com/news/4886036025609-inside-north-star-deli-minneapolis",
+    "ord_in_thread": 0,
+    "author": "KSTP",
+    "published": "2026-09-15T00:49:00.000+03:00",
+    "title": "Inside North Star Deli Minneapolis - NewsBreak",
+    "text": "By KSTP ,\n2 days ago If you love the Minnesota North Stars and crave a sandwich that will absolutely blow your mind, North Star Deli on 46th Street in Minneapolis is your new favorite place to be. Owner Pedro Wolcott joined Twin Cities Live to show us how he makes the legendary North Star Deluxe, loaded with farm-fresh humanely raised meat, organic locally grown toppings and bread straight from Patisserie 46. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://kstp.com/tcl/inside-north-star-deli-minneapolis/",
+        "https://kstp.com/tcl/inside-north-star-deli-minneapolis",
+        "https://www.kstp.com/tcl/inside-north-star-deli-minneapolis/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Pedro Wolcott",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Minneapolis",
+                "sentiment": "none"
+            },
+            {
+                "name": "46th Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Minnesota North Stars",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "North Star Deli",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Twin Cities Live",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:12:49.819+03:00",
+    "updated": "2026-09-17T08:19:36.000+03:00"
+}

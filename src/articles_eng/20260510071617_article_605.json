@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "0d69b0eacc4931a6e6407ff60e15115697b0e1fe",
+        "url": "https://www.newsbreak.com/news/4635225088698-dixon-woman-faces-drug-trafficking-charge-after-drugs-found-in-vehicle-and-body-cavity",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/waynesville-mo",
+        "site_categories": [
+            "under_construction",
+            "politics",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "human interest",
+            "sport"
+        ],
+        "section_title": "Waynesville, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Dixon woman faces drug trafficking charge after drugs found in vehicle and body cavity - NewsBreak",
+        "title_full": "Dixon woman faces drug trafficking charge after drugs found in vehicle and body cavity - NewsBreak",
+        "published": "2026-05-06T19:25:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3RxNEM_1B8YhKCv00",
+        "performance_score": 0,
+        "domain_rank": 2952,
+        "domain_rank_updated": "2026-05-04T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0d69b0eacc4931a6e6407ff60e15115697b0e1fe",
+    "url": "https://www.newsbreak.com/news/4635225088698-dixon-woman-faces-drug-trafficking-charge-after-drugs-found-in-vehicle-and-body-cavity",
+    "ord_in_thread": 0,
+    "author": "Shea Baechle",
+    "published": "2026-05-06T19:25:00.000+03:00",
+    "title": "Dixon woman faces drug trafficking charge after drugs found in vehicle and body cavity - NewsBreak",
+    "text": "By Shea Baechle ,\n12 hours ago One woman was charged following a traffic stop in Pulaski County. The Pulaski County Sheriff's Office conducted a traffic stop for a vehicle with expired registration in March. Officials made contact with the driver, Burgandi D. Knapp, of Dixon, and a K9 alerted to suspected narcotics in her truck. In... Read full article\nRead in NewsBreak 3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->drug related crimes"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dixon",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Shea Baechle",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Burgandi D. Knapp",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Pulaski County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dixon",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Pulaski County Sheriff ' s Office",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Wardsville",
+                "Waynesville"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-07T07:33:27.649+03:00",
+    "updated": "2026-05-07T07:34:28.000+03:00"
+}

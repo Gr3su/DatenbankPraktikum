@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "8015dead06e1d591796aab48ddbe67cc380234a9",
+        "url": "https://time.news/google-tech-giants-build-blockchains-new-web3-push/",
+        "site_full": "time.news",
+        "site": "time.news",
+        "site_section": "https://time.news",
+        "site_categories": [],
+        "section_title": "TIme News - time.news",
+        "site_title": "TIme News - time.news",
+        "title": "Google & Tech Giants Build Blockchains | New Web3 Push",
+        "title_full": "Google & Tech Giants Build Blockchains | New Web3 Push",
+        "published": "2025-08-28T03:04:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.finanznachrichten.de/content/g/fb.png",
+        "performance_score": 0,
+        "domain_rank": 111697,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8015dead06e1d591796aab48ddbe67cc380234a9",
+    "url": "https://time.news/google-tech-giants-build-blockchains-new-web3-push/",
+    "ord_in_thread": 0,
+    "author": "Priyanka Patel",
+    "published": "2025-08-28T03:04:00.000+03:00",
+    "title": "Google & Tech Giants Build Blockchains | New Web3 Push",
+    "text": "“`html\nTech Giants Build Private Blockchains as Crypto Industry Evolves Google, Stripe, and Circle are developing Layer 1 blockchains, signaling a shift towards institutional control and challenging the dominance of public networks like Ethereum and Solana.\nThe future of blockchain technology may not lie solely with decentralized, community-driven networks. while crypto investors debate the merits of public Layer 1 blockchains such as Ethereum and Solana, major technology companies are quietly constructing their own private networks, reshaping the landscape of the digital asset industry. This move indicates a growing institutional interest in blockchain technology, but also a potential departure from the core principles of decentralization.\nGoogle Enters the Blockchain Arena with GCUL Alphabet, the parent company of Google, has developed the Google Cloud Global Ledger (GCUL), a Layer-1 blockchain specifically designed for financial institutions.According to a company release, GCUL aims to streamline payments, tokenization, and processing for banks, stock exchanges, payment service providers, and custodians.\nThe platform utilizes Smart Contracts and Request Programming Interfaces (APIs) programmed with Python, supporting multiple cryptocurrencies and wallets while adhering to Know Your Customer (KYC) regulations. A key differentiator is its fee structure: GCUL will charge monthly fees, offering a predictable option to the volatile “gas fees” associated with public blockchains. While performance details remain limited, Google claims GCUL will deliver “unmatched performance.” Initial integration tests with the CME Group, the world’s largest derivatives exchange, have already been completed.\nDid you know? – CME Group, the world’s largest derivatives exchange, has already completed initial integration tests with Google’s GCUL. [CME Group Website] Increasing Competition in the Layer 1 Space The rise of private blockchains reflects a broader trend of technology companies recognizing the potential of digital assets. One analyst noted that Bitcoin has achieved a valuation of approximately $2.3 trillion, while other cryptocurrencies have rapidly reached multi-billion dollar valuations. This growth is occurring alongside increasing overlaps in areas like digital infrastructure, cloud services, and Know Your Customer (KYC) solutions.\nRecently, Stripe announced the growth of Tempo, a Layer 1 blockchain focused on payment-oriented applications. Similarly, Circle is building ARC, a layer 1 designed to facilitate stablecoin transactions independent of existing Layer 1 networks like Ethereum. These developments represent a move away from the original vision of public blockchains, which are managed by communities and shielded from centralized control.\nPro tip: – Understanding the difference between Layer 1 and Layer 2 blockchains is crucial. Layer 1 blockchains (like Bitcoin, ethereum, and the new private chains) are the base layer, while Layer 2 solutions build *on top* of them to improve scalability. [ethereum Scaling Solutions] Bitcoin Hyper: A Decentralized Response? Amidst the surge in private blockchain development, a project called Bitcoin Hyper is positioning itself as a decentralized alternative. The project aims to combine Bitcoin’s security and capital with the scalability of other blockchains,promising low latency,negligible fees (less than one cent),and infinite scalability via the SVM (Secure Virtual Machine).\nA recent token sale for the HYPER-Token , the native currency of the network, raised $12.38 million. The token is currently available for purchase for $0.012815 and offers the potential for a 90% annual passive income through staking.\nReader question: – What is an SVM in the context of Bitcoin hyper? – An SVM (Secure Virtual Machine) is a runtime surroundings that allows developers to deploy smart contracts in a secure and isolated manner. It’s similar to the Ethereum Virtual Machine (EVM) but offers different capabilities and performance characteristics. [Solana SVM Documentation] Risks and Considerations Investing in cryptocurrencies and blockchain-based projects carries inherent risks. As stated on the Bitcoin Hyper website, investing is speculative and capital is at risk. Potential investors are urged to conduct thorough Due Diligence and understand the legal and regulatory implications in their jurisdiction. Furthermore, it’s vital to acknowledge potential conflicts of interest, as website operators may receive commissions or hold investments in the assets they promote.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->scientific innovation",
+        "Science and Technology->information technology and computer science",
+        "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://support.google.com/pixelphone/answer/15341885?hl=en",
+        "https://www.cmegroup.com/",
+        "https://ethereum.org/en/scaling-solutions/",
+        "https://docs.solana.com/introduction/svm",
+        "https://cmegroup.com/",
+        "https://www.ethereum.org/en/scaling-solutions/",
+        "https://ethereum.org/en/scaling-solutions",
+        "https://www.docs.solana.com/introduction/svm",
+        "https://support.google.com/pixelphone/answer/15341885",
+        "https://www.cmegroup.com",
+        "https://www.support.google.com/pixelphone/answer/15341885?hl=en"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Solana",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Crypto Industry Evolves Google",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Google & Tech Giants",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "GCUL Alphabet",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-28T07:38:58.726+03:00",
+    "updated": "2025-08-28T07:40:41.000+03:00"
+}

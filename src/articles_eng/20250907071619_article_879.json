@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "63367e65b5dfc036fd14a81f94fef9dcd0100601",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4213393797598-severe-thunderstorm-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "published": "2025-09-04T07:33:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/423Kfr_14OVnJmY00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "63367e65b5dfc036fd14a81f94fef9dcd0100601",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4213393797598-severe-thunderstorm-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2025-09-04T07:33:00.000+03:00",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "text": "1 minutes ago Check NWS updates here\nEffective: 2025-09-03 21:32:00 PDT Expires: 2025-09-03 21:45:00 PDT Urgency: Immediate Severity: Severe Certainty: Observed Instruction: For your protection move to an interior room on the lowest floor of a building. Target Area: Pinal, AZ At 932 PM MST, a severe thunderstorm was located near Maricopa, or 11 miles southwest of Sun Lakes, and is nearly stationary.\nHAZARD...60 mph wind gusts.\nSOURCE...Radar indicated.\nIMPACT...Expect damage to roofs, siding, and trees.\nLocations impacted include... Maricopa, Estrella Sailport, and Ak-Chin Village.\nThis includes the following highways... AZ Route 238 between mile markers 38 and 44. AZ Route 347 between mile markers 170 and 181.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=423Kfr_14OVnJmY00",
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.11091b466ee07c2c3f1573a7d1c57f280326f83d.001.1",
+        "https://img.particlenews.com/image.php?url=423Kfr_14OVnJmY00",
+        "https://img.particlenews.com/image.php",
+        "https://alerts.weather.gov/search",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=423Kfr_14OVnJmY00",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.11091b466ee07c2c3f1573a7d1c57f280326f83d.001.1",
+        "https://www.img.particlenews.com/image.php?url=423Kfr_14OVnJmY00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Maricopa",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-04T07:35:21.646+03:00",
+    "updated": "2025-09-04T07:38:55.000+03:00"
+}

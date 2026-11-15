@@ -1,0 +1,159 @@
+{
+    "thread": {
+        "uuid": "74b7ee4791396cc361b4693e79d9b993c54bdc79",
+        "url": "https://local.newsbreak.com/fox-news-510075/4934445639516-brian-schottenheimer-now-sits-on-hottest-seat-in-nfl-after-cowboys-collapse-against-buccaneers",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/fox-news-510075",
+        "site_categories": [
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "sport",
+            "politics",
+            "economy, business and finance",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Fox News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Brian Schottenheimer now sits on hottest seat in NFL after Cowboys collapse against Buccaneers - NewsBreak",
+        "title_full": "Brian Schottenheimer now sits on hottest seat in NFL after Cowboys collapse against Buccaneers - NewsBreak",
+        "published": "2026-10-09T06:55:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/18fSnp_1Fw3FYoa00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:19:45.171+03:00"
+        }
+    },
+    "uuid": "74b7ee4791396cc361b4693e79d9b993c54bdc79",
+    "url": "https://local.newsbreak.com/fox-news-510075/4934445639516-brian-schottenheimer-now-sits-on-hottest-seat-in-nfl-after-cowboys-collapse-against-buccaneers",
+    "ord_in_thread": 0,
+    "author": "Scott Thompson",
+    "published": "2026-10-09T06:55:00.000+03:00",
+    "title": "Brian Schottenheimer now sits on hottest seat in NFL after Cowboys collapse against Buccaneers - NewsBreak",
+    "text": "By Scott Thompson ,\n24 minutes ago Bucky Irving's 72-yard run sparked a Tampa Bay Buccaneers comeback as rookie Jalon Daniels led the charge to upset the Dallas Cowboys at home. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->american football"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.foxnews.com/outkick-sports/brian-schottenheimer-hottest-seat-nfl-cowboys-collapse-buccaneers",
+        "https://foxnews.com/outkick-sports/brian-schottenheimer-hottest-seat-nfl-cowboys-collapse-buccaneers"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brian Schottenheimer",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Jalon Daniels",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Scott Thompson",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Bucky Irving",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NFL",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Dallas Cowboys",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Tampa Bay Buccaneers",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:19:45.171+03:00",
+    "updated": "2026-10-09T07:22:45.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "a3c87d7938d527e8a4b81a83fadeb81244235efd",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4636279522291-severe-thunderstorm-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/nws-alerts-1671083",
+        "site_categories": [
+            "sport",
+            "arts, culture and entertainment",
+            "human interest",
+            "lifestyle and leisure",
+            "politics",
+            "under_construction",
+            "crime, law and justice",
+            "economy, business and finance"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "published": "2026-05-07T06:57:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/423Kfr_1B9cdGX400",
+        "performance_score": 0,
+        "domain_rank": 2952,
+        "domain_rank_updated": "2026-05-04T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a3c87d7938d527e8a4b81a83fadeb81244235efd",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4636279522291-severe-thunderstorm-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2026-05-07T06:57:00.000+03:00",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "text": "27 minutes ago Check NWS updates here\nEffective: 2026-05-06 22:55:00 CDT Expires: 2026-05-06 23:45:00 CDT Urgency: Immediate Severity: Severe Certainty: Observed Instruction: For your protection move to an interior room on the lowest floor of a building. A Tornado Watch remains in effect until 1100 PM CDT for south central Alabama. Target Area: Butler, AL; Crenshaw, AL SVRMOB\nThe National Weather Service in Mobile has issued a\n* Severe Thunderstorm Warning for... Southeastern Butler County in south central Alabama... Southern Crenshaw County in south central Alabama...\n* Until 1145 PM CDT.\n* At 1055 PM CDT, a severe thunderstorm was located near Georgiana, or 16 miles south of Greenville, moving east at 50 mph.\nHAZARD...60 mph wind gusts and quarter size hail.\nSOURCE...Radar indicated.\nIMPACT...Hail damage to vehicles is expected. Expect wind damage to roofs, siding, and trees.\n* Locations impacted include... Luverne, Georgiana, Brantley, McKenzie, Rutledge, and Glenwood.",
+    "summary": "27 minutes ago Check NWS updates here Effective: 2026-05-06 22:55:00 CDT Expires: 2026-05-06 23:45:00 CDT Urgency: Immediate Severity: Severe Certainty: Observed Instruction: For your protection move to an interior room on the lowest floor of a building. A Tornado Watch remains in effect until 1100 PM CDT for south central Alabama. Target Area: Butler, AL; Crenshaw, AL SVRMOB The National Weather Service in Mobile has issued a * Severe Thunderstorm Warning for... Southeastern Butler County in south central Alabama... Southern Crenshaw County in south central Alabama... * Until 1145 PM CDT.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Weather->weather phenomena",
+        "Weather->weather warning",
+        "Disaster and Accident->natural disaster",
+        "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=423Kfr_1B9cdGX400",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=423Kfr_1B9cdGX400",
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.8a5c80f0cc2b32ef69d5424b37b7ffbb81076d8f.001.1",
+        "https://www.img.particlenews.com/image.php?url=423Kfr_1B9cdGX400",
+        "https://img.particlenews.com/image.php",
+        "https://alerts.weather.gov/search",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.8a5c80f0cc2b32ef69d5424b37b7ffbb81076d8f.001.1",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=423Kfr_1B9cdGX400"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Crenshaw County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Butler County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alabama",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mobile",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-07T07:26:39.622+03:00",
+    "updated": "2026-05-07T07:34:16.000+03:00"
+}

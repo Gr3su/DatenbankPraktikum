@@ -1,0 +1,168 @@
+{
+    "thread": {
+        "uuid": "6a9f5aa7f44464bd4fa05d481605a5e4be8ff09e",
+        "url": "https://www.newsbreak.com/newsradio-wilk-1590333/4797954604481-pennsylvania-s-first-hispanic-female-sheriff-takes-office-in-luzerne-county",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/mahanoy-city-pa",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "social issue",
+            "economy, business and finance",
+            "sport",
+            "disaster and accident",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "politics"
+        ],
+        "section_title": "Mahanoy City, PA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Pennsylvania's first Hispanic female sheriff takes office in Luzerne County - NewsBreak",
+        "title_full": "Pennsylvania's first Hispanic female sheriff takes office in Luzerne County - NewsBreak",
+        "published": "2026-07-29T17:48:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3TBVZy_1DkWn29x00",
+        "performance_score": 0,
+        "domain_rank": 3090,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6a9f5aa7f44464bd4fa05d481605a5e4be8ff09e",
+    "url": "https://www.newsbreak.com/newsradio-wilk-1590333/4797954604481-pennsylvania-s-first-hispanic-female-sheriff-takes-office-in-luzerne-county",
+    "ord_in_thread": 0,
+    "author": "WILK News",
+    "published": "2026-07-29T17:48:00.000+03:00",
+    "title": "Pennsylvania's first Hispanic female sheriff takes office in Luzerne County - NewsBreak",
+    "text": "By WILK News ,\n13 hours ago Luzerne County facebook page Genesis C. Arias has been named the new Sheriff of Luzerne County, marking a historic appointment as both the first woman to serve in the role for the county and the first Hispanic woman to hold a county sheriff position in Pennsylvania.\nArias began her law enforcement service in the U.S. Army as a military police officer, completing two deployments to Guantanamo Bay, Cuba, in support of Operation Enduring Freedom. Following her military service, she returned to Luzerne County in 2019 to resume her work with the sheriff’s department, earning her Pennsylvania Act 2 Certification through Penn State University. She steadily rose through the ranks, receiving promotions to sergeant in 2022 and lieutenant in 2023. As sheriff, Arias will oversee key department functions, including prisoner transport, courthouse and property security, mortgage foreclosure sales, and the issuance of firearm licenses to qualified county residents.\n1",
+    "summary": "13 hours ago Luzerne County facebook page Genesis C. Arias has been named the new Sheriff of Luzerne County, marking a historic appointment as both the first woman to serve in the role for the county and the first Hispanic woman to hold a county sheriff position in Pennsylvania. Arias began her law enforcement service in the U.S. Army as a military police officer, completing two deployments to Guantanamo Bay, Cuba, in support of Operation Enduring Freedom.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Human Interest",
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Social Issue->social condition",
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3TBVZy_1DkWn29x00",
+        "https://img.particlenews.com/image.php?url=3TBVZy_1DkWn29x00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3TBVZy_1DkWn29x00",
+        "https://www.img.particlenews.com/image.php?url=3TBVZy_1DkWn29x00",
+        "https://img.particlenews.com/image.php"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Genesis C. Arias",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Luzerne County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pennsylvania",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cuba",
+                "sentiment": "none"
+            },
+            {
+                "name": "Guantanamo Bay",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WILK News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "U. S. Army",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Mahanoy City"
+            ],
+            "state": [
+                "Pennsylvania"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:15:55.707+03:00",
+    "updated": "2026-07-30T07:20:45.000+03:00"
+}

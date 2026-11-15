@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "c42fbe7a801e7ba8156dc42c3639c52818864890",
+        "url": "https://munciereporter.com/organizations/blackford-county-sheriff-s-office",
+        "site_full": "munciereporter.com",
+        "site": "munciereporter.com",
+        "site_section": "https://munciereporter.com/organizations?char=b",
+        "site_categories": [],
+        "section_title": "Muncie Reporter",
+        "site_title": "Muncie Reporter",
+        "title": "Muncie Reporter",
+        "title_full": "Muncie Reporter",
+        "published": "2025-12-24T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c42fbe7a801e7ba8156dc42c3639c52818864890",
+    "url": "https://munciereporter.com/organizations/blackford-county-sheriff-s-office",
+    "ord_in_thread": 0,
+    "author": "Muncie Reporter",
+    "published": "2025-12-24T02:00:00.000+02:00",
+    "title": "Muncie Reporter",
+    "text": "Recent News About Blackford County Sheriff's Office\nView More\n-\nFOIA request sent to Blackford County Sheriff's Office regarding new recruits application form on July 29, 2025FOIA Request to Blackford County Sheriff's Office regarding new recruits application form on July 29, 2025.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Blackford County Sheriff's Office",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-25T07:39:20.159+02:00",
+    "updated": "2025-12-25T07:39:20.159+02:00"
+}

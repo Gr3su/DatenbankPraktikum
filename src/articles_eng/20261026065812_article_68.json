@@ -1,0 +1,140 @@
+{
+    "thread": {
+        "uuid": "eff57e95cdd9159f141e30aa044977e8fd0df547",
+        "url": "https://www.newsbreak.com/news/4961482819406-spd-wanted-fugitive-found-hiding-in-bedroom-closet",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/benton-la",
+        "site_categories": [
+            "politics",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "under_construction",
+            "economy, business and finance",
+            "crime, law and justice",
+            "sport"
+        ],
+        "section_title": "Benton, LA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "SPD: Wanted fugitive found hiding in bedroom closet - NewsBreak",
+        "title_full": "SPD: Wanted fugitive found hiding in bedroom closet - NewsBreak",
+        "published": "2026-10-22T21:20:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2FIzmc_1GMIZxT800",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T06:59:33.421+03:00"
+        }
+    },
+    "uuid": "eff57e95cdd9159f141e30aa044977e8fd0df547",
+    "url": "https://www.newsbreak.com/news/4961482819406-spd-wanted-fugitive-found-hiding-in-bedroom-closet",
+    "ord_in_thread": 0,
+    "author": "klax-tv.com",
+    "published": "2026-10-22T21:20:00.000+03:00",
+    "title": "SPD: Wanted fugitive found hiding in bedroom closet - NewsBreak",
+    "text": "9 hours ago SHREVEPORT, La. – A man wanted on multiple charges, including sex crimes involving juveniles, was arrested Wednesday morning after police found him hiding in a bedroom closet at a Shreveport home. Joshua Dodson, 31, was taken into custody around 10 a.m. at a house in the 4200 block of... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->hijacking",
+        "Crime, Law and Justice->assault",
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.klax-tv.com/news/state/spd-wanted-fugitive-found-hiding-in-bedroom-closet/article_8ccf1a01-f164-5752-9418-4e7ce92c2668.html",
+        "https://klax-tv.com/news/state/spd-wanted-fugitive-found-hiding-in-bedroom-closet/article_8ccf1a01-f164-5752-9418-4e7ce92c2668.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joshua Dodson",
+                "sentiment": "negative"
+            },
+            {
+                "name": "ile",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Shreveport",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "SPD",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "SPD",
+                        "exchange": "NYSEARCA"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Benton"
+            ],
+            "state": [
+                "Louisiana"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T06:59:33.421+03:00",
+    "updated": "2026-10-23T07:01:07.000+03:00",
+    "related_articles": null
+}

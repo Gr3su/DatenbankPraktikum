@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "306570b7e884034b6f6496a16f699bda22d63256",
+        "url": "https://www.newsbreak.com/news/4947730524497-zilker-park-closed-for-post-acl-maintenance-some-concerned-about-its-condition",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/austin-tx",
+        "site_categories": [
+            "lifestyle and leisure",
+            "under_construction",
+            "economy, business and finance",
+            "politics",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "sport"
+        ],
+        "section_title": "Austin, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Zilker Park closed for post-ACL maintenance, some concerned about its condition - NewsBreak",
+        "title_full": "Zilker Park closed for post-ACL maintenance, some concerned about its condition - NewsBreak",
+        "published": "2026-10-15T17:49:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3shLyy_1G8Ra6Yl00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:06:02.721+03:00"
+        }
+    },
+    "uuid": "306570b7e884034b6f6496a16f699bda22d63256",
+    "url": "https://www.newsbreak.com/news/4947730524497-zilker-park-closed-for-post-acl-maintenance-some-concerned-about-its-condition",
+    "ord_in_thread": 0,
+    "author": "Barbara Fox",
+    "published": "2026-10-15T17:49:00.000+03:00",
+    "title": "Zilker Park closed for post-ACL maintenance, some concerned about its condition - NewsBreak",
+    "text": "By Barbara Fox ,\n13 hours ago AUSTIN, Texas — Austin City Limits Music Festival (ACL) is officially over, and Zilker Park is closed for maintenance. This is not completely abnormal after the festival, but this year's festival was a little bit different with lots of rain the first weekend. After the rain cleared and the... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Environment"
+    ],
+    "topics": [
+        "Environment->population growth",
+        "Environment->land resources",
+        "Environment->natural resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://spectrumlocalnews.com/tx/san-antonio/news/2026/10/15/zilker-park-cleanup",
+        "https://www.spectrumlocalnews.com/tx/san-antonio/news/2026/10/15/zilker-park-cleanup"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Barbara Fox",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Zilker Park",
+                "sentiment": "none"
+            },
+            {
+                "name": "Texas",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ACL",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "ACL",
+                        "exchange": "ASX"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:06:02.721+03:00",
+    "updated": "2026-10-16T07:07:43.000+03:00",
+    "related_articles": null
+}

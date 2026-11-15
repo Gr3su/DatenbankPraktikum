@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "15f295d7c2abf48302c4ce8e7bbde6c01676942a",
+        "url": "https://local.newsbreak.com/bbc-2085458/4412615485134-man-meets-strangers-in-pubs-each-day-at-christmas",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/bbc-2085458",
+        "site_categories": [],
+        "section_title": "BBC&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Man meets strangers in pubs each day at Christmas - NewsBreak",
+        "title_full": "Man meets strangers in pubs each day at Christmas - NewsBreak",
+        "published": "2025-12-25T07:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/11yLuv_17aFPHU300",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "15f295d7c2abf48302c4ce8e7bbde6c01676942a",
+    "url": "https://local.newsbreak.com/bbc-2085458/4412615485134-man-meets-strangers-in-pubs-each-day-at-christmas",
+    "ord_in_thread": 0,
+    "author": "Henry Godfrey-Evans",
+    "published": "2025-12-25T07:27:00.000+02:00",
+    "title": "Man meets strangers in pubs each day at Christmas - NewsBreak",
+    "text": "By Henry Godfrey-Evans ,\n13 minutes ago Dean Perryman, 29, is trying to tackle loneliness after his best friend took his own life. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Human Interest"
+    ],
+    "topics": [
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dean Perryman",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Henry Godfrey-Evans",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-25T07:40:49.998+02:00",
+    "updated": "2025-12-25T07:44:18.000+02:00"
+}

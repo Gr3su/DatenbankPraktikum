@@ -1,0 +1,177 @@
+{
+    "thread": {
+        "uuid": "0f755f2e5121c1c4911897b7094049d9f0c78ce9",
+        "url": "https://lufkindailynews.com/anpa/ap-scorecard/article_b96b0e69-e82d-5e5e-b360-71b4099e4962.html",
+        "site_full": "lufkindailynews.com",
+        "site": "lufkindailynews.com",
+        "site_section": "https://lufkindailynews.com/search",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Search | lufkindailynews.com",
+        "site_title": "lufkindailynews.com | Serving the Texas Forest Country for more than 100 years",
+        "title": "Today's Sports Schedule",
+        "title_full": "Today's Sports Schedule",
+        "published": "2025-11-05T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 220188,
+        "domain_rank_updated": "2025-10-26T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0f755f2e5121c1c4911897b7094049d9f0c78ce9",
+    "url": "https://lufkindailynews.com/anpa/ap-scorecard/article_b96b0e69-e82d-5e5e-b360-71b4099e4962.html",
+    "ord_in_thread": 0,
+    "author": "Sportradar",
+    "published": "2025-11-05T02:00:00.000+02:00",
+    "title": "Today's Sports Schedule",
+    "text": "• NATIONAL BASKETBALL ASSOCIATION:\n• Sacramento 94, Golden State 87 (in progress)\n• Oklahoma City 86, Portland 81 (in progress)\n• San Antonio 89, L.A. Lakers 80 (in progress)\n• Final: Detroit 114, Utah 103\n• Final: Cleveland 132, Philadelphia 121\n• Final: Brooklyn 112, Indiana 103\n• Final: Boston 136, Washington 107\n• Final: New York 137, Minnesota 114\n• Final: Houston 124, Memphis 109\n• Final: New Orleans 101, Dallas 99\n• Final: Denver 122, Miami 112\n• NATIONAL HOCKEY LEAGUE:\n• Calgary 4, Columbus 1 (3rd Period)\n• Chicago 2, Vancouver 0 (3rd Period)\n• San Jose 6, Seattle 1 (3rd Period)\n• Final: Toronto 5, Utah 3\n• Final: Washington 6, St. Louis 1\n• TOP-25 COLLEGE BASKETBALL:\n• Final: (23) Creighton 92, South Dakota 76",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->basketball",
+        "Sport->sport event"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": true,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "L.A. Lakers",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Washington",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Vancouver",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Creighton",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Columbus",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Seattle",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Calgary",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Toronto",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Hudson",
+                "Huntington",
+                "Diboll",
+                "Redland",
+                "Lufkin"
+            ],
+            "state": [
+                "Texas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-11-06T07:20:30.321+02:00",
+    "updated": "2025-11-06T07:23:32.000+02:00"
+}

@@ -1,0 +1,140 @@
+{
+    "thread": {
+        "uuid": "aa8ad51721f8fcda7fc28f0d29f94f7e4303268f",
+        "url": "https://www.newsbreak.com/news/4533505590845-city-by-city-springbrook-spooner-biwabik",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/mckinley-mn",
+        "site_categories": [
+            "human interest",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "politics",
+            "sport",
+            "under_construction",
+            "crime, law and justice",
+            "lifestyle and leisure"
+        ],
+        "section_title": "McKinley, MN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "City by City: Springbrook, Spooner, Biwabik - NewsBreak",
+        "title_full": "City by City: Springbrook, Spooner, Biwabik - NewsBreak",
+        "published": "2026-03-11T01:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2Fkhzn_19W3Wouu00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aa8ad51721f8fcda7fc28f0d29f94f7e4303268f",
+    "url": "https://www.newsbreak.com/news/4533505590845-city-by-city-springbrook-spooner-biwabik",
+    "ord_in_thread": 0,
+    "author": "Anna Olfelt",
+    "published": "2026-03-11T01:54:00.000+02:00",
+    "title": "City by City: Springbrook, Spooner, Biwabik - NewsBreak",
+    "text": "By Anna Olfelt ,\n1 days ago SPRINGBROOK, Wis.- The VFW is hosting their 8th annual Chili Contest. That’s on Saturday, March 28 starting at 1:30p.m. The event will host chili made in local kitchens, allowing guests to judge their favorites. Judging will take place from 2p.m. to 4p.m. There will be prizes from 1st, 2nd and 3rd place. The contest will also host a 50-50 raffle. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->club and association",
+        "Lifestyle and Leisure->hobby"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Anna Olfelt",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Wis.",
+                "sentiment": "none"
+            },
+            {
+                "name": "SPRINGBROOK",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "VFW",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "McKinley"
+            ],
+            "state": [
+                "Minnesota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-12T07:19:28.325+02:00",
+    "updated": "2026-03-12T07:23:44.000+02:00"
+}

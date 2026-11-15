@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "f347d0e9eaf5fde7ca961d787fc43be7b28729a2",
+        "url": "https://www.hindustantimes.com/india-news/mumbaipune-expressway-traffic-nightmare-ends-after-33-hours-overturned-gas-tanker-removed-101770265895183.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.sumanasa.com/",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "media",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "India News - India Top Stories | Sumanasa.com",
+        "site_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+        "title": "Mumbai-Pune Expressway traffic nightmare ends after 33 hours, overturned gas tanker removed| India News",
+        "title_full": "Mumbai-Pune Expressway traffic nightmare ends after 33 hours, overturned gas tanker removed| India News",
+        "published": "2026-02-05T06:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/02/05/550x309/Navi-Mumbai--India---Feb--4--2026-Traffic-on-the-M_1770266397616_1770266413523.jpg",
+        "performance_score": 0,
+        "domain_rank": 825,
+        "domain_rank_updated": "2026-02-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f347d0e9eaf5fde7ca961d787fc43be7b28729a2",
+    "url": "https://www.hindustantimes.com/india-news/mumbaipune-expressway-traffic-nightmare-ends-after-33-hours-overturned-gas-tanker-removed-101770265895183.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-02-05T06:41:00.000+02:00",
+    "title": "Mumbai-Pune Expressway traffic nightmare ends after 33 hours, overturned gas tanker removed| India News",
+    "text": "Traffic restored\nThe propylene gas was transferred from the overturned tanker to other tankers late Wednesday night and the accident-hit vehicle was removed with the help of heavy-duty cranes, the MSRDC official was quoted as saying. \"Traffic on the Mumbai-Pune Expressway resumed at 1.46 am after the damaged gas tanker was shifted from the accident site,\" he said.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->emergency response",
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Pune",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mumbai",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "India News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "MSRDC",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-05T07:18:23.472+02:00",
+    "updated": "2026-02-05T07:20:31.000+02:00"
+}

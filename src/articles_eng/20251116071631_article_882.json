@@ -1,0 +1,115 @@
+{
+    "thread": {
+        "uuid": "f7b4118ec6bb4745f4e5be4c42413cd332ba0d0e",
+        "url": "http://democraticleader.house.gov/media/press-releases/joint-democratic-leadership-statement-partisan-republican-spending-bill",
+        "site_full": "democraticleader.house.gov",
+        "site": "house.gov",
+        "site_section": "https://democraticleader.house.gov",
+        "site_categories": [],
+        "section_title": "Democratic Leader Hakeem Jeffries | Office of the Democratic Leader",
+        "site_title": null,
+        "title": "JOINT DEMOCRATIC LEADERSHIP STATEMENT ON PARTISAN REPUBLICAN SPENDING BILL | Democratic Leader Hakeem Jeffries",
+        "title_full": "JOINT DEMOCRATIC LEADERSHIP STATEMENT ON PARTISAN REPUBLICAN SPENDING BILL | Democratic Leader Hakeem Jeffries",
+        "published": "2025-11-13T03:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2134,
+        "domain_rank_updated": "2025-10-26T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f7b4118ec6bb4745f4e5be4c42413cd332ba0d0e",
+    "url": "http://democraticleader.house.gov/media/press-releases/joint-democratic-leadership-statement-partisan-republican-spending-bill",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-11-13T03:38:00.000+02:00",
+    "title": "JOINT DEMOCRATIC LEADERSHIP STATEMENT ON PARTISAN REPUBLICAN SPENDING BILL | Democratic Leader Hakeem Jeffries",
+    "text": "JOINT DEMOCRATIC LEADERSHIP STATEMENT ON PARTISAN REPUBLICAN SPENDING BILL\nThe American people deserve better than the chaos, cruelty and corruption that has been unleashed on the country by Donald Trump and Republicans since the beginning of his presidency.\nForty-three days ago, Donald Trump and MAGA extremists shut down the government because they did not want to provide affordable healthcare to working class Americans. During the Republican shutdown, the Trump administration and GOP enablers have visited tremendous pain on the American people, including hardworking federal employees, law enforcement personnel, air traffic controllers, SNAP recipients and more—all because Republicans have no interest in stopping healthcare costs from skyrocketing.\nHouse Democrats will continue our fight to lower the high cost of living, decisively address the Republican healthcare crisis and extend the Affordable Care Act tax credits. We will fight to protect Medicaid, Medicare, hospitals, nursing homes and community-based health clinics. Over the past several weeks, a handful of Republicans claimed to be interested in addressing the healthcare crisis that they have created in America. Open Enrollment is here and the Congress must act with urgency. Now is the time for so-called traditional Republicans to join with House Democrats, sign the discharge petition and force a vote on our bill to extend the Affordable Care Act tax credits for three years.\nHouse Democrats are in this fight until we win this fight.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government",
+        "Politics->government budget"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hakeem Jeffries",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "House",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "gov_news",
+            "city": [
+                "Washington"
+            ],
+            "state": [
+                "DC"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": "Federal - Legislative",
+            "agency": "The Legislative Branch",
+            "organization_name": "US House of Representatives"
+        }
+    },
+    "rating": null,
+    "crawled": "2025-11-13T07:35:53.660+02:00",
+    "updated": "2025-11-13T07:36:35.000+02:00"
+}

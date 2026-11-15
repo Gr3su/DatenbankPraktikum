@@ -1,0 +1,150 @@
+{
+    "thread": {
+        "uuid": "5d8657a9840d798126e94e1ee855bbb704d255e1",
+        "url": "https://www.newsbreak.com/news/4811120152635-dog-dies-in-overnight-wilmington-house-fire",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/wilmington-nc",
+        "site_categories": [
+            "health",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "under_construction",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "human interest",
+            "politics",
+            "social issue",
+            "sport"
+        ],
+        "section_title": "Wilmington, NC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Dog dies in overnight Wilmington house fire - NewsBreak",
+        "title_full": "Dog dies in overnight Wilmington house fire - NewsBreak",
+        "published": "2026-08-05T19:29:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2d4II9_1DxnXKgm00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5d8657a9840d798126e94e1ee855bbb704d255e1",
+    "url": "https://www.newsbreak.com/news/4811120152635-dog-dies-in-overnight-wilmington-house-fire",
+    "ord_in_thread": 0,
+    "author": "Hannah Hall",
+    "published": "2026-08-05T19:29:00.000+03:00",
+    "title": "Dog dies in overnight Wilmington house fire - NewsBreak",
+    "text": "By Hannah Hall ,\n11 hours ago WILMINGTON, N.C. (WECT) - A dog is dead after an overnight house fire in Wilmington on Tuesday. According to the Wilmington Fire Department (WFD), the fire happened at a home in the 200 block of S. 14th Street at around 11 p.m. on Aug. 4. WFD said one dog was... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->fire"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wect.com/2026/08/05/dog-dies-overnight-wilmington-house-fire/?outputType=amp",
+        "https://www.wect.com/2026/08/05/dog-dies-overnight-wilmington-house-fire/",
+        "https://wect.com/2026/08/05/dog-dies-overnight-wilmington-house-fire/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hannah Hall",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "##ECT",
+                "sentiment": "none"
+            },
+            {
+                "name": "N. C.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wilmington",
+                "sentiment": "none"
+            },
+            {
+                "name": "S. 14th Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WFD",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Wilmington Fire Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Hightsville",
+                "Wilmington",
+                "Northchase"
+            ],
+            "state": [
+                "North Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:09:04.520+03:00",
+    "updated": "2026-08-06T07:10:31.000+03:00"
+}

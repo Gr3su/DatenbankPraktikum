@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "1174ee60e5bb29d6889545d57552fbc23c97c648",
+        "url": "https://www.newsbreak.com/news/4635446775080-mansfield-couple-named-citizens-of-the-year",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/blossburg-pa",
+        "site_categories": [
+            "human interest",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "under_construction",
+            "politics",
+            "sport",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Blossburg, PA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Mansfield couple named Citizens of the Year - NewsBreak",
+        "title_full": "Mansfield couple named Citizens of the Year - NewsBreak",
+        "published": "2026-05-06T15:53:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0tZrp3_1B8mlugN00",
+        "performance_score": 0,
+        "domain_rank": 2952,
+        "domain_rank_updated": "2026-05-04T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1174ee60e5bb29d6889545d57552fbc23c97c648",
+    "url": "https://www.newsbreak.com/news/4635446775080-mansfield-couple-named-citizens-of-the-year",
+    "ord_in_thread": 0,
+    "author": "Kristie Bowles kbowles@tiogapublishing.com",
+    "published": "2026-05-06T15:53:00.000+03:00",
+    "title": "Mansfield couple named Citizens of the Year - NewsBreak",
+    "text": "By Kristie Bowles kbowles@tiogapublishing.com ,\n15 hours ago MANSFIELD — In 1972, Joseph Maresco was looking “to move on and up” from his position at the State University of New York. Joe remembers coming to interview for a position at Mansfield University during which he was taken to the X-Trail Restaurant — no longer in operation — by Rod Kelchner and his wife. During the meal, the trio were spontaneously joined by photographer John McNaney. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest"
+    ],
+    "topics": [
+        "Human Interest->award and prize"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joseph Maresco",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Kristie Bowles",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Joe",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rod Kelchner",
+                "sentiment": "none"
+            },
+            {
+                "name": "John McNaney",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Mansfield",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Mansfield University",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "State University of New York",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Blossburg"
+            ],
+            "state": [
+                "Pennsylvania"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-07T07:43:41.559+03:00",
+    "updated": "2026-05-07T07:45:51.000+03:00"
+}

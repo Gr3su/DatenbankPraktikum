@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "373d543aaf4da6a38ad80f89565ca05cce8ffec3",
+        "url": "https://www.newsbreak.com/news/4890442215481-new-ssm-health-outpatient-center-opens",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/madison-wi",
+        "site_categories": [
+            "human interest",
+            "crime, law and justice",
+            "under_construction",
+            "social issue",
+            "arts, culture and entertainment",
+            "sport",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "politics"
+        ],
+        "section_title": "Madison, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "New SSM Health outpatient center opens - NewsBreak",
+        "title_full": "New SSM Health outpatient center opens - NewsBreak",
+        "published": "2026-09-16T23:36:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/48EuUM_1FDiuxGP00",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "373d543aaf4da6a38ad80f89565ca05cce8ffec3",
+    "url": "https://www.newsbreak.com/news/4890442215481-new-ssm-health-outpatient-center-opens",
+    "ord_in_thread": 0,
+    "author": "fitchburgstar.com",
+    "published": "2026-09-16T23:36:00.000+03:00",
+    "title": "New SSM Health outpatient center opens - NewsBreak",
+    "text": "8 hours ago Last week, SSM Health dedicated its newest outpatient center on the south side of Verona near the intersection of highways 151/69 at 960 Valley Drive with a celebratory ribbon-cutting ceremony and preview tours of the medical center. The center opened to the public on Monday, Sept. 14. “SSM Health is... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->healthcare clinic",
+        "Health->health facility"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fitchburgstar.com/news/business/new-ssm-health-outpatient-center-opens/article_92ea2153-4941-4d5e-b074-76f27326fffb.html",
+        "https://fitchburgstar.com/news/business/new-ssm-health-outpatient-center-opens/article_92ea2153-4941-4d5e-b074-76f27326fffb.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Verona",
+                "sentiment": "none"
+            },
+            {
+                "name": "Valley Drive",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "SSM Health",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": "SSM",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:00:32.028+03:00",
+    "updated": "2026-09-17T08:04:46.000+03:00"
+}

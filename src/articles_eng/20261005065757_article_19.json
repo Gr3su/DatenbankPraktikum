@@ -1,0 +1,140 @@
+{
+    "thread": {
+        "uuid": "e8991353de32610e10430df06ed45a95743ab6fe",
+        "url": "https://www.newsbreak.com/news/4920004462743-missing-16-year-old-has-been-found",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/san-antonio-tx",
+        "site_categories": [
+            "crime, law and justice",
+            "human interest",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "politics",
+            "under_construction",
+            "sport",
+            "science and technology"
+        ],
+        "section_title": "San Antonio, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Missing 16-year-old has been found - NewsBreak",
+        "title_full": "Missing 16-year-old has been found - NewsBreak",
+        "published": "2026-10-01T20:23:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0OvSZ1_1FhVWiIR00",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T06:59:22.445+03:00"
+        }
+    },
+    "uuid": "e8991353de32610e10430df06ed45a95743ab6fe",
+    "url": "https://www.newsbreak.com/news/4920004462743-missing-16-year-old-has-been-found",
+    "ord_in_thread": 0,
+    "author": "Bob Gambert",
+    "published": "2026-10-01T20:23:00.000+03:00",
+    "title": "Missing 16-year-old has been found - NewsBreak",
+    "text": "By Bob Gambert ,\n10 hours ago UPDATE - Texas A&M University at San Antonio tells us that Brennan Cervantes has been located. He is safe and has been returned to his family. SAN ANTONIO — An Amber Alert has been issued for a missing 16-year-old boy last seen on the Texas A&M University at San Antonio campus. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue"
+    ],
+    "topics": [
+        "Social Issue->children",
+        "Social Issue->family"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://foxsanantonio.com/news/local/amber-alert-issued-for-missing-16-year-old-last-seen-at-texas-am-san-antonio-campus-brennan-cervantes-brown-hair-eyes-black-backpack-short-sleeve-maroon-shirt",
+        "https://www.foxsanantonio.com/news/local/amber-alert-issued-for-missing-16-year-old-last-seen-at-texas-am-san-antonio-campus-brennan-cervantes-brown-hair-eyes-black-backpack-short-sleeve-maroon-shirt"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brennan Cer",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Bob Gambert",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "San Antonio",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Texas A & M University",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T06:59:22.445+03:00",
+    "updated": "2026-10-02T07:01:29.000+03:00",
+    "related_articles": null
+}

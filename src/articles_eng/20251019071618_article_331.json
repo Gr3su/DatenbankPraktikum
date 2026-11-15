@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "6f702d7271f9f3014f96ace3e2b5e85f8b2b5010",
+        "url": "https://www.newsbreak.com/news/4270151433772-jimmy-kimmel-s-mistake",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://newsbreak.com/trending/top/jimmy-kimmel%3a-shooting-is-monstrous",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "The latest jimmy kimmel: shooting is monstrous news, videos &amp; comments | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Jimmy Kimmel's mistake - NewsBreak",
+        "title_full": "Jimmy Kimmel's mistake - NewsBreak",
+        "published": "2025-10-02T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6f702d7271f9f3014f96ace3e2b5e85f8b2b5010",
+    "url": "https://www.newsbreak.com/news/4270151433772-jimmy-kimmel-s-mistake",
+    "ord_in_thread": 0,
+    "author": "Rich Lowry",
+    "published": "2025-10-02T07:00:00.000+03:00",
+    "title": "Jimmy Kimmel's mistake - NewsBreak",
+    "text": "By Rich Lowry ,\n14 days ago Jimmy Kimmel probably didn’t affirmatively lie about the politics of Charlie Kirk’s killer -- he just didn’t know what he didn’t know. In the monologue that got him suspended by ABC, the late-night show host averred, “We hit some new lows over the weekend with the MAGA gang desperately trying to characterize this kid who murdered Charlie Kirk as anything other than one of them.” Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jimmy Kimmel",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Rich Lowry",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Charlie Kirk",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "ABC",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-16T07:25:04.925+03:00",
+    "updated": "2025-10-16T07:25:04.925+03:00"
+}

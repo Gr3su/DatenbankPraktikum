@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "089d790640b2dc3eb2e25970a606bc6afa74dc3b",
+        "url": "https://www.newsbreak.com/news/4759613616912-police-investigating-series-of-home-burglaries-and-vehicle-theft",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/suitland-md",
+        "site_categories": [
+            "politics",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "social issue",
+            "sport",
+            "under_construction",
+            "human interest",
+            "disaster and accident",
+            "arts, culture and entertainment",
+            "economy, business and finance"
+        ],
+        "section_title": "Suitland, MD Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Police Investigating Series Of Home Burglaries And Vehicle Theft - NewsBreak",
+        "title_full": "Police Investigating Series Of Home Burglaries And Vehicle Theft - NewsBreak",
+        "published": "2026-07-09T05:03:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0rhEWP_1D7ttvOg00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "089d790640b2dc3eb2e25970a606bc6afa74dc3b",
+    "url": "https://www.newsbreak.com/news/4759613616912-police-investigating-series-of-home-burglaries-and-vehicle-theft",
+    "ord_in_thread": 0,
+    "author": "MCS Staff",
+    "published": "2026-07-09T05:03:00.000+03:00",
+    "title": "Police Investigating Series Of Home Burglaries And Vehicle Theft - NewsBreak",
+    "text": "By MCS Staff ,\n2 hours ago Detectives with the Montgomery County Department of Police’s 3rd District Investigative Unit are asking for the public’s help identifying a suspect connected to a series of residential burglaries and the theft of a vehicle in Burtonsville. According to police, the incidents occurred on Wednesday, July 8, at approximately... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->hijacking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://mocoshow.com/2026/07/08/police-investigating-series-of-home-burglaries-and-vehicle-theft/",
+        "https://mocoshow.com/2026/07/08/police-investigating-series-of-home-burglaries-and-vehicle-theft",
+        "https://www.mocoshow.com/2026/07/08/police-investigating-series-of-home-burglaries-and-vehicle-theft/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Burtonsville",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Montgomery County Department of Police",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "MCS",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Suitland"
+            ],
+            "state": [
+                "Maryland"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:42:54.850+03:00",
+    "updated": "2026-07-09T07:45:15.000+03:00"
+}

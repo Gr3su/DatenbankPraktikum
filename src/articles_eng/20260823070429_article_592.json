@@ -1,0 +1,158 @@
+{
+    "thread": {
+        "uuid": "15e84794cb2a45f92a203d4bcf4a562e0c9805d2",
+        "url": "https://www.newsbreak.com/news/4838423902685-man-arrested-by-bcso-after-meth-knife-drug-paraphernalia-found",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/chico-ca",
+        "site_categories": [
+            "sport",
+            "science and technology",
+            "lifestyle and leisure",
+            "under_construction",
+            "crime, law and justice",
+            "social issue",
+            "economy, business and finance",
+            "human interest",
+            "arts, culture and entertainment",
+            "politics"
+        ],
+        "section_title": "Chico, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Man arrested by BCSO after meth, knife, drug paraphernalia found - NewsBreak",
+        "title_full": "Man arrested by BCSO after meth, knife, drug paraphernalia found - NewsBreak",
+        "published": "2026-08-20T00:01:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4LsK8e_1EOImoOi00",
+        "performance_score": 0,
+        "domain_rank": 3070,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "15e84794cb2a45f92a203d4bcf4a562e0c9805d2",
+    "url": "https://www.newsbreak.com/news/4838423902685-man-arrested-by-bcso-after-meth-knife-drug-paraphernalia-found",
+    "ord_in_thread": 0,
+    "author": "Will Anderson",
+    "published": "2026-08-20T00:01:00.000+03:00",
+    "title": "Man arrested by BCSO after meth, knife, drug paraphernalia found - NewsBreak",
+    "text": "By Will Anderson ,\n7 hours ago OROVILLE, Calif. - A Oroville man was taken into custody by the Butte County Sheriff's Office after a search turned up narcotics and a prohibited knife. The Butte County Sheriff's Office says at around 7:50 a.m. on Saturday, one of their deputies initiated an enforcement stop on a man riding a bicycle in the area of South Fifth Avenue and Cal Oaks Road. Read full article\n4",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->drug related crimes",
+        "Crime, Law and Justice->assault"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.actionnewsnow.com/news/butte-county/man-arrested-by-butte-county-sheriffs-office-after-methamphetamine-knife-drug-paraphernalia-found/article_f4d93b29-d465-4bf7-a897-03a3e73df0c6.html",
+        "https://actionnewsnow.com/news/butte-county/man-arrested-by-butte-county-sheriffs-office-after-methamphetamine-knife-drug-paraphernalia-found/article_f4d93b29-d465-4bf7-a897-03a3e73df0c6.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Will Anderson",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Calif",
+                "sentiment": "none"
+            },
+            {
+                "name": "Oroville",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cal Oaks Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "South Fifth Avenue",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BCSO",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Butte County Sheriff ' s Office",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Chico"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:33:04.938+03:00",
+    "updated": "2026-08-20T07:35:41.000+03:00"
+}

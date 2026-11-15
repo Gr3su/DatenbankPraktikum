@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "0b79bc0b38150bfe816587dd4309467f57d93c9f",
+        "url": "https://www.newsbreak.com/news/4649412887502-2-killed-in-vehicle-crash-in-southwest-charlotte-police-say",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/charlotte-nc",
+        "site_categories": [
+            "human interest",
+            "under_construction",
+            "arts, culture and entertainment",
+            "sport",
+            "politics",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "economy, business and finance"
+        ],
+        "section_title": "Charlotte, NC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "2 killed in vehicle crash in southwest Charlotte, police say - NewsBreak",
+        "title_full": "2 killed in vehicle crash in southwest Charlotte, police say - NewsBreak",
+        "published": "2026-05-14T01:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0OsagV_1BMrKrTX00",
+        "performance_score": 0,
+        "domain_rank": 2965,
+        "domain_rank_updated": "2026-05-11T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0b79bc0b38150bfe816587dd4309467f57d93c9f",
+    "url": "https://www.newsbreak.com/news/4649412887502-2-killed-in-vehicle-crash-in-southwest-charlotte-police-say",
+    "ord_in_thread": 0,
+    "author": "Spencer Chrisman",
+    "published": "2026-05-14T01:59:00.000+03:00",
+    "title": "2 killed in vehicle crash in southwest Charlotte, police say - NewsBreak",
+    "text": "By Spencer Chrisman ,\n5 hours ago CHARLOTTE, N.C. (WBTV) - Two people were killed and a third one was injured Wednesday evening after a vehicle crash in southwest Charlotte, according to police. Charlotte-Mecklenburg police said on Wednesday, May 13, around 6:45 p.m. two people were killed in a vehicle crash off Westinghouse Boulevard. The intersection of South Tryon Street and Westinghouse Blvd. were closed due to the crash. Read full article\nRead in NewsBreak 3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Crime, Law and Justice->reckless driving",
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Spencer Chrisman",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Charlotte",
+                "sentiment": "none"
+            },
+            {
+                "name": "South Tryon Street",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mecklenburg",
+                "sentiment": "none"
+            },
+            {
+                "name": "Westinghouse Boulevard",
+                "sentiment": "none"
+            },
+            {
+                "name": "Westinghouse Blvd",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WBTV",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-14T07:17:07.265+03:00",
+    "updated": "2026-05-14T07:21:39.000+03:00"
+}

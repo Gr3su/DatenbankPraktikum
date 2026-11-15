@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "9b90e982a445eaba7d5199d990cebc2cf981137c",
+        "url": "https://www.newsbreak.com/news/4825072936522-local-sports-shiner-junior-softball-picks-up-win-during-historical-run-at-world-series",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/gonzales-tx",
+        "site_categories": [
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "under_construction",
+            "science and technology",
+            "sport",
+            "human interest",
+            "arts, culture and entertainment",
+            "social issue",
+            "politics",
+            "health",
+            "economy, business and finance"
+        ],
+        "section_title": "Gonzales, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Local sports: Shiner Junior Softball picks up win during historical run at World Series - NewsBreak",
+        "title_full": "Local sports: Shiner Junior Softball picks up win during historical run at World Series - NewsBreak",
+        "published": "2026-08-11T21:38:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2lzHEb_1EArFzJt00",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9b90e982a445eaba7d5199d990cebc2cf981137c",
+    "url": "https://www.newsbreak.com/news/4825072936522-local-sports-shiner-junior-softball-picks-up-win-during-historical-run-at-world-series",
+    "ord_in_thread": 0,
+    "author": "lavacacountytoday.com",
+    "published": "2026-08-11T21:38:00.000+03:00",
+    "title": "Local sports: Shiner Junior Softball picks up win during historical run at World Series - NewsBreak",
+    "text": "1 days ago The Shiner Junior Little League Softball All-Stars team played five games in the Little League World Series Aug. 2 through 7 in Kirkland, Wash., losing their first four games but finishing their historical run with a win in their final game. Southwest 10, Washington D9 3. Shiner picked up a... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure",
+        "Sport"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->outdoor recreational activities",
+        "Lifestyle and Leisure->leisure",
+        "Sport->softball"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.lavacacountytoday.com/sports/local-sports-shiner-junior-softball-picks-win-during-historical-run-world-series",
+        "https://lavacacountytoday.com/sports/local-sports-shiner-junior-softball-picks-win-during-historical-run-world-series"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Kirkland",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wash.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Washington",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Shiner Junior Softball",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Shiner Junior Little League Softball All - Stars",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Gonzales"
+            ],
+            "state": [
+                "Texas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:08:40.460+03:00",
+    "updated": "2026-08-13T07:12:24.000+03:00"
+}

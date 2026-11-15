@@ -1,0 +1,185 @@
+{
+    "thread": {
+        "uuid": "6348b67cd094a012f09750619c113a2cf419a2d9",
+        "url": "https://fackel.substack.com/p/un-ai-ing-a-new-nonsensical-thing",
+        "site_full": "fackel.substack.com",
+        "site": "substack.com",
+        "site_section": "https://fackel.substack.com/feed",
+        "site_categories": [
+            "politics",
+            "health",
+            "science and technology",
+            "economy, business and finance"
+        ],
+        "section_title": "Die Fackel 2.0",
+        "site_title": "Substack",
+        "title": "'Un-AI-ing', a New Nonsensical Thing in Research & Technology",
+        "title_full": "'Un-AI-ing', a New Nonsensical Thing in Research & Technology",
+        "published": "2026-09-17T02:50:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://substackcdn.com/image/fetch/$s_!ZEt3!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8eb35c69-0605-4dc5-902c-f3185338aaaa_2603x1052.png",
+        "performance_score": 0,
+        "domain_rank": 452,
+        "domain_rank_updated": null,
+        "licensing_agency": [
+            "NLA"
+        ],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6348b67cd094a012f09750619c113a2cf419a2d9",
+    "url": "https://fackel.substack.com/p/un-ai-ing-a-new-nonsensical-thing",
+    "ord_in_thread": 0,
+    "author": "epimetheus",
+    "published": "2026-09-17T02:50:00.000+03:00",
+    "title": "'Un-AI-ing', a New Nonsensical Thing in Research & Technology",
+    "text": "AI™ is here, and it won’t go away. Let the Science™ ‘splain it.\nEmphases and [snark] added. What a gem (not).\nUn-AI-ing: Compliance, Evasion, and the Distortion of Research Writing in the Age of AI Detection\nBy Louie Giray, a Letter to the Editor of Annals of Biomedical Engineering, 29 June 2026 [source; archived]\nGenerative artificial intelligence is now increasingly being used in research workflows for specific, well-defined tasks (e.g., literature synthesis, fluency editing, translation, outline generation, and manuscript restructuring) [1]. In biomedical engineering specifically, this integration has accelerated rapidly, offering transformative potential alongside significant risks, including AI hallucination, new forms of plagiarism, and the blurring of boundaries between generative and assistive AI tools that complicate governance, detection, and ethical attribution [2]. In scientific writing, these changes intersect [note the BS framing] with a long-standing culture of highly standardized, precision-oriented writing, in which methodological clarity, terminological consistency, and stylistic restraint are constitutive of rigor. As large language models have become capable of producing fluent, formally structured prose, many journals and institutions have responded by deploying AI detection tools intended to preserve authorial authenticity and research integrity [3].\nHowever, these AI detection tools rely on statistical surface features (e.g., perplexity, burstiness) that are poorly aligned with the characteristics of high-quality scientific writing. When applied to scientific manuscripts, they frequently misclassify legitimate human-authored or responsibly AI-assisted text as AI-generated, while remaining easily circumvented by motivated actors using readily available paraphrasing and AI humanizer tools [4]. The result is a shift in author behavior. Researchers, then, increasingly modify text to satisfy algorithmic thresholds rather than to improve clarity, accuracy, or scientific contribution [as if it’s not bad enough already, the weirding of research will continue].\nThis paper examines the consequences of that shift through the concept of un-AI-ing: the deliberate modification of research text to satisfy or evade AI detection systems. It argues that un-AI-ing is not an edge case or a form of isolated misconduct, but a predictable behavioral response to detection-based governance. The practice manifests in two distinct forms: (1) opportunistic un-AI-ing and (2) compliant un-AI-ing, which generate opposite but equally damaging effects on the scholarly record.\nThis paper intends to (1) define and taxonomize un-AI-ing as an emergent phenomenon in research writing; (2) demonstrate why current AI detection tools are structurally incompatible with scientific prose, drawing on empirical accuracy studies; (3) situate un-AI-ing within the postplagiarism framework to clarify why binary AI/human classification fails as an ethical instrument, and why the distinction between generative and assistive AI use matters for that framework [5, 6]; and (4) assess the specific implications of these dynamics for the Annals of Biomedical Engineering and its research community. Also, the paper advances concrete editorial and policy recommendations aimed at preserving research integrity without distorting scientific writing or exacerbating inequities in publication.\nDefining Un-AI-ing\nThe term “un-AI-ing,” also appearing in practitioner discourse as “un-AI-fy” and “de-AI,” refers to the deliberate modification of text, whether originally human-authored, AI-assisted, or fully AI-generated, with the explicit goal of achieving a target AI probability score on detection tools. The practice is not new in concept: writers have long adapted to the expectations of their evaluators. What distinguishes un-AI-ing is that the evaluator is a machine, an AI detection tool, the evaluation criterion is statistical, and the outcome has no necessary relationship to writing quality or authorial honesty.\nUn-AI-ing is not immediately synonymous with plagiarism or fabrication, though it can co-occur with both. It is a behavioral adaptation to algorithmic surveillance, and it takes two mechanistically distinct forms with opposite ethical valences. Table 1 summarizes the defining features of each type.\nThis taxonomy maps directly onto the generative/assistive distinction that has emerged in journal policy literature. Generative AI, meaning tools that independently produce novel content such as text, images, or data, carries a different ethical and governance burden than assistive AI, which supports editing, proofreading, or formatting without generating substantive content [5, 6]. [I’d also add it’s useless as it doesn’t offer any analytical or otherwise relevant methods of doing something about this problem]\nOpportunistic un-AI-ing typically involves generative AI being concealed after the fact, while compliant un-AI-ing often victimizes researchers who used only assistive AI or no AI at all. The failure of detection systems to honor this distinction is not incidental; it is structural. Detection metrics cannot determine whether AI touched a manuscript generatively or assistively; they can only measure surface statistical properties of the resulting prose [7].\nThese two forms produce opposite injustices from the same flawed infrastructure [see, it’s useless to use this model]. Opportunistic un-AI-ing allows fabricated content to enter the literature. Compliant un-AI-ing forces honest researchers to degrade their own work. Understanding both is essential for editors designing policy responses [are you ready to learn how this is supposedly going?]\nWhy AI Detectors Cannot Work Reliably on Scientific Prose\nThe technical architecture of AI detection is incompatible with the characteristics of high-quality writing. Three core mechanisms drive this incompatibility.\nPerplexity and the Paradox of Scientific Precision\nAI detectors measure perplexity, a statistical metric capturing how “surprising” each word is, given its context, to a language model. AI-generated text tends toward low perplexity because large language models optimize for locally coherent, fluent output. AI detectors treat low perplexity as a signal of AI origin.\nScientific writing is structurally required to be low perplexity. Methods sections use standardized terminology (“cells were lysed,” “significance was set at p < 0.05,” “images were acquired at 40× magnification”). Statistical reporting follows templates mandated by reporting guidelines (CONSORT, STROBE, ARRIVE). Literature reviews deploy disciplinary vocabulary with controlled precision. These features, which editors and peer reviewers rightly demand, are statistically indistinguishable from AI generation by perplexity-based detectors [ah, you see, that nonsense doesn’t work: aren’t you surprised? I’m sure companies offering such AI detector products hedge against all of that somewhere on pp. 742-842 of their terms & conditions].\nSingh et al. [8] examined this directly, finding that 45% of pre-2022 scientific articles were flagged as potentially AI-generated, with review articles flagged at three times the rate of other article types. Liang et al. [9] demonstrated that GPTZero and Turnitin’s AI detector flagged 15–22% of peer-reviewed abstracts published before 2019, definitively pre-ChatGPT, as “likely AI-generated.” Schneider et al. [10] found that canonical non-AI texts including formal legal documents were similarly flagged due to their structured, low-variance prose. In biomedical engineering, this problem is particularly acute: systematic reviews and meta-analyses, methods papers with standardized reporting structures, and formal experimental write-ups all share the low perplexity profile that detectors misread as AI-generated [11, 12]. These findings reflect a systematic mismatch between what detectors measure and what scientific writing is [soon AI tools will police the internet where most content is similarly bot an/or AI-generated: it’s a circular system].\nBurstiness and the Penalty for Disciplined Style\nA second usual detection metric, burstiness, captures variation in sentence length, syntactic complexity, and tonal register. The underlying assumption is that human writing is stylistically irregular while AI writing is uniform. This assumption fails in research contexts for the same reason perplexity-based detection fails: disciplinary writing norms enforce uniformity.\nWeber-Wulff et al. [13] tested 14 detection tools on undergraduate essays predating ChatGPT’s release. Between 8 and 35% were flagged as AI-generated. Crucially, misclassification rates correlated positively with writing quality: better-organized, more grammatically consistent essays were more likely to be falsely accused. Ibrahim et al. [14] documented false-positive rates of 5–18% across multiple detection platforms. The metric, in short, penalizes competence do re-read this particular paragraph\nFor researchers who are non-native English speakers, the false-positive risk is substantially higher [[15]. Perkins et al. [16] found false-positive rates of 38–61% for researchers from Chinese, Vietnamese, and Indian academic contexts writing in English, compared to 12–18% for native English speakers. Liang et al. [9] attributed this directly to formal language training: non-native writers whose English education emphasized grammatical precision produce the very consistency that AI detectors misread as AI generation [sounds like my stuff]. Subramaniam [17] documented elevated misclassification for texts in Hindi and Arabic contexts, extending the equity concern globally.\nManipulability and the Arms Race\nThe third failure is operational. AI detectors are trivially circumvented by anyone motivated to do so. Elkhatat et al. [18] demonstrated that processing ChatGPT outputs through Quillbot, a freely available paraphrasing tool, reduced detection rates from 92 to 17% across five major detection platforms, with no change in semantic content. Saha and Feizi [19] found that light paraphrasing of GPT-3.5 outputs reduced detection accuracy below 20% for tools trained on GPT-3.5 data, with further deterioration when tested against tools trained on GPT-4 patterns. The problem worsens as AI models evolve: detectors trained on one model’s stylistic fingerprints become obsolete within months [AI models are like the poison/death juices, it would seem: obsolete when rolled out].\nThe commercial AI humanizer industry, encompassing tools such as Undetectable.ai, StealthWriter, and Humanizer AI, is explicitly built to exploit this vulnerability [1]. These tools restructure syntax to increase burstiness, introduce deliberate imperfections, and adjust lexical distributions to fall outside detector training ranges [20, 21]. Turnitin’s 2025 introduction of “bypasser detection” targeting humanizer modifications [22] represents the latest escalation in what is structurally an arms race with no stable equilibrium.\nThis arms race dynamic has a well-documented behavioral correlate in scientific publishing: as detection tools proliferate and evolve, authors, particularly those engaged in opportunistic un-AI-ing, develop increasingly sophisticated circumvention workflows, while compliant authors are left to absorb the costs of false-positive scrutiny [23, 24]. The asymmetry is the predictable outcome of deploying technically limited instruments in high-stakes editorial contexts [lol, high-stakes in academia: sure].\n[I’ll skip over some of the more literature review-esque nonsense here]\nA researcher who uses an LLM to copyedit a manuscript for grammar and clarity, or to translate a draft into another language without altering its substantive claims, is not engaging in a practice that is ethically distinct from hiring a professional editor or translator [that’s true, but the cost of a professional editor/translator is much higher than using an LLM]. In both cases, the intellectual content, argumentative structure, and empirical claims originate with the author, who remains fully responsible for their accuracy and interpretation. A postplagiarism framework does not remove ethical obligations. Misrepresentation and fabrication remain impermissible regardless of the tool used, but it clarifies that treating AI involvement as a categorical violation misunderstands how scholarly labor and responsibility are actually distributed …\nBehavioral Consequences for the Research Enterprise\nThe technical failures of AI detection produce four behavioral patterns with measurable consequences for research quality and integrity.\nThe first is reactive compliance. When researchers receive AI-related flags on authentic manuscript text, they can get drawn into iterative revision cycles aimed primarily at satisfying the detector rather than improving science. The result is that researchers begin to adjust their prose to avoid triggering algorithmic concerns (e.g., adopting deliberately awkward or less precise wording) at the expense of clear scientific communication. This amounts to self-censorship of scientific precision, which runs counter to the very norms that scholarly publishing should be encouraging.\nThe second is strategic evasion. Researchers who do use AI generatively (e.g., for literature synthesis, background drafting, or translation) develop reproducible circumvention workflows. The sequence documented in the literature (AI generation, automated humanization, manual touch-ups) achieves near-zero detection rates in under an hour of effort [28]. This means that the researchers most likely to be caught by detection are those whose authentic work looks structured (i.e., good writers and non-native English speakers), while those engaged in substantive AI ghostwriting pass undetected. The system inverts its intended function [you also increase imposter syndrome, i.e., making it easier for cheats and frauds to work their way through ‘the system’].\nThe third is tool dependency: the metricization of writing quality. As Wu [29] documents from Chinese university contexts, researchers and students have begun calibrating prose not against disciplinary standards but against detection scores, asking not “Is this precise?” but “Will this pass?” This represents a fundamental corruption of the writing process, and it scales with institutional pressure.\nA fourth behavioral consequence, less frequently noted but particularly relevant to the postplagiarism framework, is the normalization of performative disclosure. Several studies have found that even when journals require AI use statements, authors tend to offer superficial or formulaic disclosures driven by moral reasoning and perceived legitimacy rather than genuine transparency [30, 31]. This creates a compliance theater, which is the appearance of accountability without its substance. The implication for biomedical engineering journals is that disclosure mandates alone, without supportive institutional culture, clear definitions, and reduced stigma for honest reporting, are unlikely to achieve the transparency they nominally require [30]. ABME does not operate in isolation from these pressures.\nImplications for the Annals of Biomedical Engineering\nOn the editorial side, ABME publishes manuscript types that are particularly vulnerable to false-positive detection: systematic reviews and meta-analyses (low perplexity by design), methods papers with standardized reporting structures, and manuscripts from research groups where English is not the primary language. If ABME uses or plans to use AI detection as any part of its manuscript screening workflow, the false-positive burden will fall disproportionately on exactly these authors.\nOn the integrity side, ABME is also exposed to the failure mode of false negatives: opportunistic un-AI-ing means that AI-generated literature reviews, fabricated experimental descriptions, and synthetic data narratives can pass detection with minimal effort. Detection scores provide false assurance, not real protection. The risk extends to peer review itself. Undisclosed generative AI use in reviewer reports raises accountability concerns that current editorial infrastructure is not designed to address [32].\nOn the equity side, deploying AI detection tools in peer review encodes a bias against non-native English authors that is empirically well-documented and not easily corrected by adjusting thresholds. Any threshold increase to catch more AI-generated content proportionally increases false positives for legitimate authors from multilingual scientific communities. This disparity reflects a structural inequity embedded in the statistical architecture of detection tools, one that disproportionately disadvantages non-native English-speaking researchers, a significant portion of the biomedical engineering author community globally [11, 33]. Table 2 maps detection failure modes to their probable consequences for ABME stakeholder groups.\n[I’ll skip over the specific recommendations for the journal]\nConclusion\nUn-AI-ing, whether opportunistic or compliant, is a predictable, rational response to a flawed measurement system. AI detection tools built on perplexity and burstiness metrics are structurally incompatible with the characteristics of scientific prose. They produce false positives that burden honest researchers disproportionately those from multilingual, non-native English, and neurodivergent backgrounds, while failing to catch the advanced, AI-generated manipulation they nominally target [30, 40]. The result is an enforcement model that punishes linguistic precision, rewards strategic evasion, and introduces systemic inequity into manuscript evaluation.\nThe postplagiarism framework [25] offers the necessary diagnostic correction. By establishing that hybrid human-AI co-creatorship is the baseline reality of modern writing, it exposes the fundamental futility of trying to police where the human ends and the machine begins [25]. The governance problem is the erasure of human accountability [ain’t that the core of the problem of all things AI™?]. Under this paradigm, ethical scholarship cannot be verified by an algorithmic probability score. It requires a shift from a policing model to an evaluative model, relying on robust editorial judgment, transparent disclosure norms, and process-oriented assessment that treats authors as intellectual agents rather than algorithmic suspects.\nFor journals like ABME, they should abandon the false promise of AI detection tools. Instead, they must establish explicit, context-sensitive AI use policies, normalize transparent attribution, and actively invest in human judgment infrastructure, such as reviewer training and supportive author guidance that treats integrity as a collaborative, metacognitive practice rather than a game of metric compliance [41].\nBottom Lines\nI find myself at a faculty retreat right now, and with my day packed with nonsensical BS, the above read like a clear-eyed view.\nIt ain’t.\nImagine, if you will, the following thought experiment: replace ‘biomedical engineering’ with virtually any other field or context—and, voilà, you’ll see how AI™ is creating all the wrong incentives while, fundamentally, being incapable of doing what it was supposed to do in the first place.\nAll one gets is increasingly useless AI™ slop plus ± running commentary, by AI™, no less, about stuff AI™ has produced in the first place.\nYou can’t make this shit up.\nIt’s a bit like self-reported observational studies so common in the Science™, such as in these examples:\nThese are but a few examples, ranging from social media to the Covid shitshow to whatever else one might think of the strokes piece.\nAt the heart of this nonsense, however, one finds the competence crisis, due to shitty policies and the lowering of standards in the name of political-ideological shenanigans:\nHuman industrial civilisation may end due to political-ideological shenanigans trumping evidence, reason, and reproducibility.\nBe careful what you wish for.",
+    "summary": "The term “un-AI-ing,” also appearing in practitioner discourse as “un-AI-fy” and “de-AI,” refers to the deliberate modification of text, whether originally human-authored, AI-assisted, or fully AI-generated, with the explicit goal of achieving a target AI probability score on detection tools. In biomedical engineering, this problem is particularly acute: systematic reviews and meta-analyses, methods papers with standardized reporting structures, and formal experimental write-ups all share the low perplexity profile that detectors misread as AI-generated [11, 12].",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->scientific research",
+        "Science and Technology->biotechnology"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR28",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR20",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR14",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR12",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR25",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR30",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR18",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR8",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR1",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR21",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR4",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR32",
+        "https://link.springer.com/journal/10439",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR10",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR31",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR17",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#Tab2",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR7",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR19",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR3",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR11",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR6",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR5",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR22",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR23",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR29",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR15",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR40",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR13",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR41",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#Tab1",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR2",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR24",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR33",
+        "https://archive.ph/CH8cp",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR9",
+        "https://link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR16",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR32",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR25",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR3",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR2",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR16",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR29",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR7",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#Tab1",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR6",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR18",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR33",
+        "https://www.link.springer.com/journal/10439",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR9",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR4",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#Tab2",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR13",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR23",
+        "https://www.archive.ph/CH8cp",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR20",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR5",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR21",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR28",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR11",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR1",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR8",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR12",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR10",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR24",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR30",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR40",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR41",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR19",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR14",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR15",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR22",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR17",
+        "https://www.link.springer.com/article/10.1007/s10439-026-04242-2#ref-CR31"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Louie Giray",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Annals of Biomedical Engineering",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:06:59.902+03:00",
+    "updated": "2026-09-17T08:08:39.000+03:00"
+}

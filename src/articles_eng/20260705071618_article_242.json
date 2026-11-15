@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "a2b2b3a0176eba880fd3b493ab8aa4f48f495e5e",
+        "url": "https://www.newsbreak.com/bbc-2085458/4745149112802-usa-march-on-but-will-balogun-red-card-prove-costly",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/bbc-2085458",
+        "site_categories": [
+            "lifestyle and leisure",
+            "disaster and accident",
+            "social issue",
+            "economy, business and finance",
+            "human interest",
+            "arts, culture and entertainment",
+            "under_construction",
+            "sport",
+            "politics",
+            "crime, law and justice"
+        ],
+        "section_title": "BBC&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "USA march on but will Balogun red card prove costly? - NewsBreak",
+        "title_full": "USA march on but will Balogun red card prove costly? - NewsBreak",
+        "published": "2026-07-02T07:25:35.119+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0Grx0G_1CuJgmVL00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a2b2b3a0176eba880fd3b493ab8aa4f48f495e5e",
+    "url": "https://www.newsbreak.com/bbc-2085458/4745149112802-usa-march-on-but-will-balogun-red-card-prove-costly",
+    "ord_in_thread": 0,
+    "author": "Alex Hoad",
+    "published": "2026-07-02T07:25:35.119+03:00",
+    "title": "USA march on but will Balogun red card prove costly? - NewsBreak",
+    "text": "By Alex Hoad ,\nnow Mauricio Pochettino's USA side set up a World Cup last-16 meeting with Belgium, but how costly will forward Folarin Balogun's red card prove? Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->soccer"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.bbc.com/sport/football/articles/cgjx07ql6v0o?xtor=AL-72-%5Bpartner%5D-%5Bnewsbreak.com%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "https://www.bbc.com/sport/football/articles/cgjx07ql6v0o",
+        "https://bbc.com/sport/football/articles/cgjx07ql6v0o?xtor=AL-72-%5Bpartner%5D-%5Bnewsbreak.com%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alex Hoad",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mauricio Pochettino",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Folarin Balogun",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "USA",
+                "sentiment": "none"
+            },
+            {
+                "name": "Belgium",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "a2b2b3a0176eba880fd3b493ab8aa4f48f495e5e",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:25:35.119+03:00",
+    "updated": "2026-07-02T07:27:25.000+03:00"
+}

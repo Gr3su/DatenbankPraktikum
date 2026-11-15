@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "ec426ad87f368b2fec9347fb7b49dd5d1a548d77",
+        "url": "https://www.newsbreak.com/news/4890390531141-fema-sends-576-000-to-marshall-county",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/la-grange-tn",
+        "site_categories": [
+            "human interest",
+            "social issue",
+            "politics",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "under_construction",
+            "sport"
+        ],
+        "section_title": "La Grange, TN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "FEMA sends $576,000 to Marshall County - NewsBreak",
+        "title_full": "FEMA sends $576,000 to Marshall County - NewsBreak",
+        "published": "2026-09-16T20:51:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ec426ad87f368b2fec9347fb7b49dd5d1a548d77",
+    "url": "https://www.newsbreak.com/news/4890390531141-fema-sends-576-000-to-marshall-county",
+    "ord_in_thread": 0,
+    "author": "Advertise",
+    "published": "2026-09-16T20:51:00.000+03:00",
+    "title": "FEMA sends $576,000 to Marshall County - NewsBreak",
+    "text": "By Advertise ,\n11 hours ago Marshall County will receive more than a half-million dollars in federal disaster aid to help cover the costs of clearing debris left in the wake of severe storms, federal officials have announced. The $576,000 award is part of a broader package exceeding $13 million approved by the Federal Emergency Management... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->emergency response",
+        "Disaster and Accident->disaster",
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.southreporter.com/news/fema-sends-576000-marshall-county",
+        "https://southreporter.com/news/fema-sends-576000-marshall-county"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Marshall County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FEMA",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Federal Emergency Management",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "La Grange"
+            ],
+            "state": [
+                "Tennessee"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:16:38.919+03:00",
+    "updated": "2026-09-17T08:20:11.000+03:00"
+}

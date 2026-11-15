@@ -1,0 +1,114 @@
+{
+    "thread": {
+        "uuid": "bda32931a76c766064fb0f5ca69593836e2913ce",
+        "url": "https://tass.com/defense/2067551",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/politics/1874461",
+        "site_categories": [
+            "media",
+            "politics",
+            "war, conflict and unrest",
+            "economy, business and finance"
+        ],
+        "section_title": "Kremlin highlights need for in-depth analysis of Russia’s nuclear deterrence policy -  Russian Politics &amp; Diplomacy - TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Over 500,000 Ukrainian troops killed or wounded in action in 2025",
+        "title_full": "Over 500,000 Ukrainian troops killed or wounded in action in 2025",
+        "published": "2026-01-01T07:32:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 14623,
+        "domain_rank_updated": "2025-12-28T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bda32931a76c766064fb0f5ca69593836e2913ce",
+    "url": "https://tass.com/defense/2067551",
+    "ord_in_thread": 0,
+    "author": "TASS",
+    "published": "2026-01-01T07:32:00.000+02:00",
+    "title": "Over 500,000 Ukrainian troops killed or wounded in action in 2025",
+    "text": "MOSCOW, January 1. /TASS/. Over 510,000 Ukrainian troops were killed or wounded in action in 2025, according to the TASS estimates based on data from the Russian Defense Ministry.\nAccording to the General Staff of the Russian Armed Forces and the Russian Defense Ministry, Ukraine’s troop losses stood at over one million as of the start of 2025. That said, Kiev’s total casualties have exceeded 1.5 million since the launch of Moscow’s special military operation.\nBesides, Russian forces destroyed 19 Ukrainian warplanes, over 50 missile systems, more than 67,000 drones, and over 6,500 tanks and other armored combat vehicles in 2025.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->war"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Defense Ministry",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "TASS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TAS",
+                        "exchange": "KLSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-01T07:34:49.140+02:00",
+    "updated": "2026-01-01T07:37:53.000+02:00"
+}

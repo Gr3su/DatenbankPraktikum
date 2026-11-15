@@ -1,0 +1,140 @@
+{
+    "thread": {
+        "uuid": "f2688ebf6b1175ea5d0877f5b0d8db8c2cb51508",
+        "url": "https://www.newsbreak.com/news/4547130594398-tsa-employees-at-texarkana-regional-work-without-pay-during-government-shutdown",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nash-tx",
+        "site_categories": [
+            "economy, business and finance",
+            "human interest",
+            "sport",
+            "arts, culture and entertainment",
+            "under_construction",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "Nash, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "TSA employees at Texarkana Regional work without pay during government shutdown - NewsBreak",
+        "title_full": "TSA employees at Texarkana Regional work without pay during government shutdown - NewsBreak",
+        "published": "2026-03-19T00:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1sWlwc_19jnRaQZ00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f2688ebf6b1175ea5d0877f5b0d8db8c2cb51508",
+    "url": "https://www.newsbreak.com/news/4547130594398-tsa-employees-at-texarkana-regional-work-without-pay-during-government-shutdown",
+    "ord_in_thread": 0,
+    "author": "Fred Gamble",
+    "published": "2026-03-19T00:33:00.000+02:00",
+    "title": "TSA employees at Texarkana Regional work without pay during government shutdown - NewsBreak",
+    "text": "By Fred Gamble ,\n6 hours ago TEXARKANA, Ark. (KSLA) - Airline passengers are arriving hours early for flights as TSA employees continue to work without pay amid the partial government shutdown. Texarkana Regional Airport, which has 13 TSA employees on staff, is among the airports feeling the effects — those workers received no pay in their most recent paychecks. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Labor",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Labor->unemployment",
+        "Labor->wages and benefits",
+        "Economy, Business and Finance->business and market analysis",
+        "Economy, Business and Finance->corporate news and profiles",
+        "Economy, Business and Finance->transport"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Fred Gamble",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Texarkana Regional Airport",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "TSA",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Nash"
+            ],
+            "state": [
+                "Texas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:27:26.580+02:00",
+    "updated": "2026-03-19T07:31:43.000+02:00"
+}

@@ -1,0 +1,162 @@
+{
+    "thread": {
+        "uuid": "c7758f88c7b50e93b7761f00015fb3a60433fea7",
+        "url": "https://www.newsbreak.com/news/4465688811660-fbi-searches-atlanta-election-office-chasing-trump-2020-vote-fraud-claims",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/trending/top/fbi-recovers-deleted-posts-in-probe",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "The latest fbi recovers deleted posts in probe news, videos &amp; comments | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "FBI searches Atlanta election office, chasing Trump 2020 vote fraud claims - NewsBreak",
+        "title_full": "FBI searches Atlanta election office, chasing Trump 2020 vote fraud claims - NewsBreak",
+        "published": "2026-01-29T03:31:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3J1Vbk_18QjVgqR00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-25T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c7758f88c7b50e93b7761f00015fb3a60433fea7",
+    "url": "https://www.newsbreak.com/news/4465688811660-fbi-searches-atlanta-election-office-chasing-trump-2020-vote-fraud-claims",
+    "ord_in_thread": 0,
+    "author": "Red Lake Nation News",
+    "published": "2026-01-29T03:31:00.000+02:00",
+    "title": "FBI searches Atlanta election office, chasing Trump 2020 vote fraud claims - NewsBreak",
+    "text": "By Red Lake Nation News ,\n3 hours ago WASHINGTON, Jan 28 (Reuters) - The FBI searched an election office in Georgia's Fulton County outside Atlanta on Wednesday, pursuing U.S. President Donald Trump's false claims that his 2020 election defeat was the result of widespread voting fraud. The FBI said in a brief statement that its agents executed a... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "topics": [
+        "Crime, Law and Justice->investigation (criminal)",
+        "Politics->election"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Atlanta",
+                "sentiment": "none"
+            },
+            {
+                "name": "WASHINGTON",
+                "sentiment": "none"
+            },
+            {
+                "name": "U. S.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fulton County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Georgia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "FBI",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "TRI",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Red Lake Nation News",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-29T07:20:32.875+02:00",
+    "updated": "2026-01-29T07:28:26.000+02:00"
+}

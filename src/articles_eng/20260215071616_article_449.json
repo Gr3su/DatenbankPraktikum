@@ -1,0 +1,164 @@
+{
+    "thread": {
+        "uuid": "98d72b73e7213033d9ed9395597634e17153f963",
+        "url": "https://guardian.ng/education/fg-leverages-technology-to-tackle-school-threats",
+        "site_full": "guardian.ng",
+        "site": "guardian.ng",
+        "site_section": "https://guardian.ng/",
+        "site_categories": [
+            "media",
+            "economy, business and finance",
+            "politics",
+            "crime, law and justice"
+        ],
+        "section_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+        "site_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+        "title": "FG leverages technology to tackle school threats",
+        "title_full": "FG leverages technology to tackle school threats",
+        "published": "2026-02-12T05:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 15558,
+        "domain_rank_updated": "2026-02-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "98d72b73e7213033d9ed9395597634e17153f963",
+    "url": "https://guardian.ng/education/fg-leverages-technology-to-tackle-school-threats",
+    "ord_in_thread": 0,
+    "author": "Owede Agbajileke",
+    "published": "2026-02-12T05:12:00.000+02:00",
+    "title": "FG leverages technology to tackle school threats",
+    "text": "Ogun launches CCTV Control Centre for Amotekun Corps\nThe Federal Government has announced plans to introduce technology-based measures, including panic buttons connected directly to Safe School command centres, to enable rapid response whenever schools face security threats.\nMinister of Education, Dr Tunji Alausa, stated this yesterday in Abuja when he paid a courtesy call on the Commandant General, Nigeria Security and Civil Defence Corps (NSCDC), Prof. Ahmed Audi.\nAlausa emphasised that the safety of children is a shared responsibility, noting that the NSCDC had been designated to lead school protection efforts, particularly after the Chibok girls’ abduction in 2014.\nHe, however, acknowledged gaps in coordination and institutional structure, revealing that a full-fledged Department of Safe School Initiative is being established at the Federal Ministry of Education to strengthen oversight and nationwide coordination.\nThe minister, who underscored the need for sustainable funding to support school security, disclosed that discussions are ongoing to develop innovative financing mechanisms that would guarantee dedicated and uninterrupted funding for the Safe School Initiative.\nHe, however, reaffirmed President Bola Tinubu’s commitment to safeguarding children, adding that the Ministry of Education would now take the lead in coordinating efforts, working closely with security agencies and relevant ministries to ensure a safer learning environment nationwide.\nIn his response, Audi disclosed that nationwide vulnerability assessments carried out by the Corps showed that over 60,000 schools are without sufficient security measures.\nThe commandant-general said that the affected schools, spread across the country, are exposed to security risks and require immediate intervention to ensure the safety of students and the protection of their learning environments.\nHe assured the minister of the Corps’ resolve to strengthen collaboration to ensure safe and secure learning environments for students across the country.\nRelatedly, as part of efforts to boost security architecture through technology-driven surveillance, Ogun State Government, yesterday, unveiled a Closed-Circuit Television (CCTV) Control Centre for the state’s Security Network Agency, otherwise known as Amotekun Corps.\nSecretary to the State Government (SSG), Tokunbo Talabi, said that the introduction of the advanced surveillance technology would strengthen the Corps’ operational efficiency.\nTalabi said that the CCTV initiative reflects the state government’s efforts in ensuring that the Amotekun operates professionally in the discharge of their duties, stressing that the technology integration had become imperative to monitor security situations across the state.\nEarlier, the Ogun State Commander of Amotekun Corps, Brig. Gen. Alade Adedigba (rtd) said the unveiling of the CCTV Control Centre marks a major milestone in the integration of technology into security operations.",
+    "summary": "Minister of Education, Dr Tunji Alausa, stated this yesterday in Abuja when he paid a courtesy call on the Commandant General, Nigeria Security and Civil Defence Corps (NSCDC), Prof. Ahmed Audi. Alausa emphasised that the safety of children is a shared responsibility, noting that the NSCDC had been designated to lead school protection efforts, particularly after the Chibok girls’ abduction in 2014. The commandant-general said that the affected schools, spread across the country, are exposed to security risks and require immediate intervention to ensure the safety of students and the protection of their learning environments.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Crime, Law and Justice->police",
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->surveillance",
+        "Science and Technology->information technology and computer science",
+        "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tunji Alausa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ahmed Audi",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Abuja",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Ogun",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Federal Government",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "CCTV Control Centre for Amotekun Corps",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "FG",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Nigeria Security and Civil Defence Corps",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NSCDC",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-12T07:22:23.058+02:00",
+    "updated": "2026-02-12T07:26:57.000+02:00"
+}

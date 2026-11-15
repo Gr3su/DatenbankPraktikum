@@ -1,0 +1,113 @@
+{
+    "thread": {
+        "uuid": "701ed9017610bfdbdbabb6f656d120fc58a8758f",
+        "url": "https://www.globaltimes.cn/page/202510/1345192.shtml",
+        "site_full": "www.globaltimes.cn",
+        "site": "globaltimes.cn",
+        "site_section": "https://globaltimes.cn",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Global Times",
+        "site_title": "Global Times",
+        "title": "Chinese Commerce Ministry announces export controls on rare earth-related technologies - Global Times",
+        "title_full": "Chinese Commerce Ministry announces export controls on rare earth-related technologies - Global Times",
+        "published": "2025-10-09T04:50:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "https://www.globaltimes.cn/Portals/0/attachment/2025/2025-08-10/5dc88186-2f7f-47a5-bde1-32edc35febf1.jpeg",
+        "performance_score": 0,
+        "domain_rank": 7352,
+        "domain_rank_updated": "2025-10-06T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "701ed9017610bfdbdbabb6f656d120fc58a8758f",
+    "url": "https://www.globaltimes.cn/page/202510/1345192.shtml",
+    "ord_in_thread": 0,
+    "author": "Global Times",
+    "published": "2025-10-09T04:50:00.000+03:00",
+    "title": "Chinese Commerce Ministry announces export controls on rare earth-related technologies - Global Times",
+    "text": "The Ministry of Commerce (MOFCOM) Photo: VCG\nChinese Commerce Ministry (MOFCOM) announced on Thursday that in order to safeguard national security and interests, the ministry will impose export controls on rare earth-related technologies, including rare earth mining, smelting and separation, magnetic material manufacturing, and rare earth secondary resource recycling.\nIn line with the country's laws and regulations including the Export Control Law and the Regulation on the Export Control of Dual-use Items, the ministry has decided to impose export controls on rare earth-related technologies, according to a statement the MOFCOM released on its website on Thursday.\nTechnologies and relevant date related to rare earth mining, smelting and separation, metal smelting, magnetic material manufacturing, and rare earth secondary resource recycling, as well as the assembly, debugging, maintenance, repair, and upgrade of related production lines are prohibited from export without permission, the statement said.\nFor non-controlled goods, technologies, or services, if the exporters know that they will be used for or substantially contribute to overseas activities related to rare earth mining, smelting and separation, metal smelting, magnetic material manufacturing, and rare earth secondary resource recycling, then they must apply for a dual-use item export license from the MOFCOM prior to exportation, in accordance with laws and regulations. Unauthorized provision of such items is prohibited, according to the statement.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->international relations",
+        "Politics->regulation of industry",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->business and market analysis",
+        "Social Issue->ethics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Ministry of Commerce",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "VCG\nChinese Commerce Ministry",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-09T07:26:01.072+03:00",
+    "updated": "2025-10-09T07:30:57.000+03:00"
+}

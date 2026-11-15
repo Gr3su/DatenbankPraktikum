@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "b0ca8bdf68d391ae0dce0ff5c13e5dcc11e47f63",
+        "url": "https://www.hindustantimes.com/world-news/trump-shut-down-project-to-track-natural-disasters-in-nepal-deadly-floods-came-a-year-later-death-toll-missing-101788399363545.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/science",
+        "site_categories": [
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "disaster and accident",
+            "politics",
+            "lifestyle and leisure",
+            "media",
+            "social issue",
+            "economy, business and finance"
+        ],
+        "section_title": "Science News, Latest Science News, Science News Today | Hindustan Times",
+        "site_title": "Hindustan Times: Breaking News, Latest News, India News, World News & Cricket Today's Headlines | Hindustan Times",
+        "title": "Trump shut down project to track landslides in Nepal year before deadly floods came: Report | World News",
+        "title_full": "Trump shut down project to track landslides in Nepal year before deadly floods came: Report | World News",
+        "published": "2026-09-03T07:01:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/09/03/1600x900/logo/MixCollage-03-Sep-2026-08-28-AM-1351_1788404436886_2ce9ff3a-bde1-4d7d-986c-c733e8e950b4_1788404446311_cacadb10-c886-4654-9e86-04ba0b9e1687_cf32803b-b608-45fe-a8c0-002c4c5dde0b_d402277f-2b97-439f-b5c6-40bc77fe9904.jpg",
+        "performance_score": 0,
+        "domain_rank": 2672,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b0ca8bdf68d391ae0dce0ff5c13e5dcc11e47f63",
+    "url": "https://www.hindustantimes.com/world-news/trump-shut-down-project-to-track-natural-disasters-in-nepal-deadly-floods-came-a-year-later-death-toll-missing-101788399363545.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-09-03T07:01:00.000+03:00",
+    "title": "Trump shut down project to track landslides in Nepal year before deadly floods came: Report | World News",
+    "text": "A sudden funding cut\nThe Trump administration, partly through the Department of Government Efficiency, dismantled parts of USAID and cancelled scores of grants, including projects flagged through keyword searches involving “climate”, the project's former director said.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Science and Technology->meteorology",
+        "Science and Technology->geology",
+        "Disaster and Accident->natural disaster",
+        "Disaster and Accident->famine"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Nepal",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "World News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Department of Government Efficienc",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "USAID",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:16:10.282+03:00",
+    "updated": "2026-09-03T07:21:29.000+03:00"
+}

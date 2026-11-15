@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "1c06f8fbbcf806f32ba12ef78ab68e445c22b309",
+        "url": "https://www.newsbreak.com/news/4934021603368-vermont-police-arrest-man-accused-of-killing-mother-in-massachusetts",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/trending/top/man-confesses-to-killing-mother-news",
+        "site_categories": [
+            "politics",
+            "economy, business and finance",
+            "under_construction",
+            "sport",
+            "arts, culture and entertainment",
+            "science and technology",
+            "lifestyle and leisure",
+            "crime, law and justice"
+        ],
+        "section_title": "The latest man confesses to killing mother news, videos &amp; comments | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Vermont police arrest man accused of killing mother in Massachusetts - NewsBreak",
+        "title_full": "Vermont police arrest man accused of killing mother in Massachusetts - NewsBreak",
+        "published": "2026-10-09T01:08:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1b4K7q_1FvdKjn400",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:22:10.318+03:00"
+        }
+    },
+    "uuid": "1c06f8fbbcf806f32ba12ef78ab68e445c22b309",
+    "url": "https://www.newsbreak.com/news/4934021603368-vermont-police-arrest-man-accused-of-killing-mother-in-massachusetts",
+    "ord_in_thread": 0,
+    "author": "WCAX",
+    "published": "2026-10-09T01:08:00.000+03:00",
+    "title": "Vermont police arrest man accused of killing mother in Massachusetts - NewsBreak",
+    "text": "6 hours ago Vermont troopers on Thursday captured a man accused of killing his mother in Massachusetts. Read full article\n9",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->homicide",
+        "Crime, Law and Justice->law enforcement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wcax.com/video/2026/10/08/vermont-police-arrest-man-accused-killing-mother-massachusetts/?outputType=amp",
+        "https://wcax.com/video/2026/10/08/vermont-police-arrest-man-accused-killing-mother-massachusetts/?outputType=amp",
+        "https://www.wcax.com/video/2026/10/08/vermont-police-arrest-man-accused-killing-mother-massachusetts/"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwow.fc40898b.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fangry.da7a9102.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Vermont",
+                "sentiment": "none"
+            },
+            {
+                "name": "Massachusetts",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:22:10.318+03:00",
+    "updated": "2026-10-09T07:24:54.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,126 @@
+{
+    "thread": {
+        "uuid": "812df4f14c68ab6ba54a7846f7d9b3b403eb2fe2",
+        "url": "https://www.newsbreak.com/bbc-2085458/4890985112416-bags-wait-goes-on-after-air-traffic-control-chaos",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/bbc-2085458",
+        "site_categories": [
+            "sport",
+            "arts, culture and entertainment",
+            "under_construction",
+            "lifestyle and leisure",
+            "human interest",
+            "crime, law and justice",
+            "social issue",
+            "economy, business and finance",
+            "politics"
+        ],
+        "section_title": "BBC&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Bags wait goes on after air traffic control chaos - NewsBreak",
+        "title_full": "Bags wait goes on after air traffic control chaos - NewsBreak",
+        "published": "2026-09-17T08:02:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1wFEtu_1FEGN7a400",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "812df4f14c68ab6ba54a7846f7d9b3b403eb2fe2",
+    "url": "https://www.newsbreak.com/bbc-2085458/4890985112416-bags-wait-goes-on-after-air-traffic-control-chaos",
+    "ord_in_thread": 0,
+    "author": "Craig Buchan",
+    "published": "2026-09-17T08:02:00.000+03:00",
+    "title": "Bags wait goes on after air traffic control chaos - NewsBreak",
+    "text": "By Craig Buchan ,\n3 minutes ago A passenger from Surrey waits for her bags after her flight is among thousands to be cancelled. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Lifestyle and Leisure",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->travel and tourism",
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.bbc.com/news/articles/cmn9wz4ep9y2o?xtor=AL-72-%5Bpartner%5D-%5Bnewsbreak.com%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "https://bbc.com/news/articles/cmn9wz4ep9y2o?xtor=AL-72-%5Bpartner%5D-%5Bnewsbreak.com%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "https://www.bbc.com/news/articles/cmn9wz4ep9y2o"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Craig Buchan",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Surrey",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:11:34.543+03:00",
+    "updated": "2026-09-17T08:17:07.000+03:00"
+}

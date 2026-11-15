@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "d54d7a70dc1f3eb97fb769c76307cd75268b0b5d",
+        "url": "https://www.newsbreak.com/news/4889902693563-human-remains-found-in-claiborne-county-identified-no-foul-play-found",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/vicksburg-ms",
+        "site_categories": [
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "human interest",
+            "politics",
+            "sport",
+            "social issue",
+            "under_construction",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Vicksburg, MS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Human remains found in Claiborne County identified; no foul play found - NewsBreak",
+        "title_full": "Human remains found in Claiborne County identified; no foul play found - NewsBreak",
+        "published": "2026-09-16T19:31:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0qinNq_1FDAfGIR00",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d54d7a70dc1f3eb97fb769c76307cd75268b0b5d",
+    "url": "https://www.newsbreak.com/news/4889902693563-human-remains-found-in-claiborne-county-identified-no-foul-play-found",
+    "ord_in_thread": 0,
+    "author": "Jas N Smith",
+    "published": "2026-09-16T19:31:00.000+03:00",
+    "title": "Human remains found in Claiborne County identified; no foul play found - NewsBreak",
+    "text": "By Jas N Smith ,\n12 hours ago CLAIBORNE COUNTY, Miss. (WLBT) — After human remains were discovered in a wooded area of Claiborne County in March, authorities have identified the remains and determined that no foul play was involved in the death. The Claiborne County Sheriff’s Office said the remains were those of Elbert Campbell. Read full article\n3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wlbt.com/2026/09/16/human-remains-found-claiborne-county-identified-no-foul-play-found/?outputType=amp",
+        "https://www.wlbt.com/2026/09/16/human-remains-found-claiborne-county-identified-no-foul-play-found/",
+        "https://wlbt.com/2026/09/16/human-remains-found-claiborne-county-identified-no-foul-play-found/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Elbert Campbell",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Claiborne County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Claiborne County Sheriff ’ s Office",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Vicksburg"
+            ],
+            "state": [
+                "Mississippi"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:16:49.610+03:00",
+    "updated": "2026-09-17T08:26:09.000+03:00"
+}

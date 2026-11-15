@@ -1,0 +1,116 @@
+{
+    "thread": {
+        "uuid": "5bd1f7809fdd9f02cee94fc99c2cc18bb9d02e78",
+        "url": "https://en.mehrnews.com/news/235132/Report-reveals-Microsoft-s-contribution-to-Israeli-genocide",
+        "site_full": "en.mehrnews.com",
+        "site": "mehrnews.com",
+        "site_section": "http://en.mehrnews.com/rss",
+        "site_categories": [
+            "travel"
+        ],
+        "section_title": "Mehr News Agency",
+        "site_title": null,
+        "title": "Report reveals Microsoft's contribution to Israeli genocide",
+        "title_full": "Report reveals Microsoft's contribution to Israeli genocide",
+        "published": "2025-08-07T07:26:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.mehrnews.com/d/2025/07/08/4/5592203.jpg?ts=1751975009023",
+        "performance_score": 0,
+        "domain_rank": 6911,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5bd1f7809fdd9f02cee94fc99c2cc18bb9d02e78",
+    "url": "https://en.mehrnews.com/news/235132/Report-reveals-Microsoft-s-contribution-to-Israeli-genocide",
+    "ord_in_thread": 0,
+    "author": "Mehr News Agency",
+    "published": "2025-08-07T07:26:00.000+03:00",
+    "title": "Report reveals Microsoft's contribution to Israeli genocide",
+    "text": "According to Press TV, the evidence was provided in a Wednesday report by The Guardian, which showed how the company has been quietly entangled in the regime’s vast surveillance dragnet targeting Palestinians.\nThe bombshell investigation revealed that Unit 8200, the Israeli military’s notorious cyber-intelligence arm, has been storing millions of intercepted Palestinian phone calls on Microsoft’s Azure cloud servers in Europe since at least 2022.\nThe surveillance apparatus, which captures calls “by the million each hour,” is fueled by a staggering trove of data housed primarily in the Netherlands and Ireland, the probe found.\nIt monitors Palestinian life in microscopic detail, from the Gaza Strip’s bomb-scarred neighborhoods to every corner of the occupied West Bank, the daily showed.\nOne insider, meanwhile, described a rising eagerness among Israeli officials, who see this system as the bedrock of “long-term control” in Gaza as the stored data continues to inform operations, despite telecoms destruction across the Palestinian territory.\nOfficers sifted through intercepted calls made near bombing targets to justify airstrikes in heavily populated civilian areas.\nAs one insider put it, “When they need to arrest someone and there isn’t a good enough reason to do so, that’s where they find the excuse.”\nThe cloud deal: Protected by corporate deniability\nIn late 2021, Unit 8200’s former commander, Yossi Sariel, met Microsoft CEO Satya Nadella at the company’s headquarters.\nThe topic focused on migrating Israeli military data, including surveillance targeting Palestinians, to Microsoft’s cloud.\nSariel promised it would “solve our problems in the Palestinian arena.”\nDespite public claims of ignorance, Microsoft engineers were found to have helped build protective “security layers” around the intercepted data.\nInternal communications have shown that Nadella described the partnership as “critical” and pledged corporate resources to support the effort. One senior Israeli source also said Sariel “bragged a lot” about his ties to the tech CEO.\nBy mid-2025, the partnership had enabled the storage of over 11,500 terabytes, equivalent to 200 million hours, of Israeli military audio surveillance on Azure servers.\nUnit 8200 reportedly planned to shift 70% of its total data, including classified material, to Microsoft’s platform.\nTotal control through AI, “noisy messages”\nThe investigation further revealed Microsoft’s irrefutable contribution to Unit 8200’s desire to expand as far as it could so it can monitor “everyone, all the time.”\nTowards the purpose, the company lent the unit its AI-driven tools such as “noisy message,” which scanned texts for supposedly suspicious language and rated potential threats algorithmically.\nOne insider, meanwhile, described a rising eagerness among Israeli officials, who see this system as the bedrock of “long-term control” in Gaza.\nMicrosoft’s technology has already contributed significantly to the regime’s October 2023-present war of genocide on the coastal sliver that has claimed the lives of more than 61,000 Palestinians, mostly women and children.\nProfit over principle\nFor Microsoft, the surveillance partnership reportedly promised “hundreds of millions of dollars” in future revenue.\nIt was rated as a “brand moment” that could vault Azure to the top of global cloud wars.\nOutsmarted by resistance\nDespite its monumental dimensions, the collaboration failed to preempt Gaza-based resistance fighters’ historic October 2023 operation against the occupied Palestinian territories.\nThe operation led to ensnarement of hundreds of Zionists, which the regime used as an excuse to launch the genocide.\nSariel quietly resigned, taking the fall for what he called Unit 8200’s “intelligence and operational failure.”\nThis investigation is far from the first one to expose the indispensable nature of American tech giants’ contribution to the regime’s regional atrocities.\nMNA",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->political dissent",
+        "Politics->human rights",
+        "Politics->international relations"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Gaza Strip",
+                "sentiment": "none"
+            },
+            {
+                "name": "West Bank",
+                "sentiment": "none"
+            },
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Microsoft",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "MSFT",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "5bd1f7809fdd9f02cee94fc99c2cc18bb9d02e78",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-07T07:28:44.735+03:00",
+    "updated": "2025-08-07T07:30:39.000+03:00"
+}

@@ -1,0 +1,125 @@
+{
+    "thread": {
+        "uuid": "cf928ed6811e5624d0670108cad896a86e099623",
+        "url": "https://www.jamestownpress.com/articles/initial-deal-for-water-meters-rescinded-new-contract-inked/",
+        "site_full": "www.jamestownpress.com",
+        "site": "jamestownpress.com",
+        "site_section": "https://www.jamestownpress.com/articles",
+        "site_categories": [
+            "economy, business and finance",
+            "human interest",
+            "politics",
+            "environment",
+            "media",
+            "arts, culture and entertainment",
+            "lifestyle and leisure"
+        ],
+        "section_title": "  Posts",
+        "site_title": "The Jamestown Press",
+        "title": "Initial deal for water meters rescinded; new contract inked",
+        "title_full": "Initial deal for water meters rescinded; new contract inked",
+        "published": "2026-04-16T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cf928ed6811e5624d0670108cad896a86e099623",
+    "url": "https://www.jamestownpress.com/articles/initial-deal-for-water-meters-rescinded-new-contract-inked/",
+    "ord_in_thread": 0,
+    "author": "ohtadmin",
+    "published": "2026-04-16T07:00:00.000+03:00",
+    "title": "Initial deal for water meters rescinded; new contract inked",
+    "text": "A contract awarded to F.W. Webb in October to purchase 1,600 water meters has been declared null and void.\nThe town council, sitting as the board of water and sewer commissioners, rescinded the bid ($585,564) during its April 6 meeting. The award included the meters and software with a 10-year agreement for the cellular network.\nThe commissioners, following their vote to void Webb’s contract, awarded Stiles Company, of Norwood, Mass., with a $606,647 contract to perform the work. The difference of $21,083 represents a 4% increase.\nThe commission also awarded a $163,325 contract to Hydro Utilities, of Bristol, to install the meters.\nTown Administrator Ed Mello said the deal was voided with F.W. Webb because it wanted to sell the water meters without providing the 10-year maintenance and operational plan. That part of the agreement, he added, was to be outsourced to F.W. Webb’s alleged partner.\n“When you ordered that bid, you authorized us to enter into a contract,” Mello said. “We have worked for literally months to reach an agreement with F.W. Webb, unsuccessfully. Really the crux of the problem is that the contract and the bid was for the service of purchasing the water meters and providing the software for up to 10 years. So, when F.W. Webb put their proposal forward, they indicated that they had a partnership with a company that would provide that software. In reality, they did not. Round and round we went. What they ended up proposing to us is the only solution was two separate contracts. One to F.W. Webb and another to a software company that would provide that platform.”\nMello, however, said the second company was sold during negotiations, which raised a red flag. During the first beta test, moreover, we “had some bad experiences. … We relaunched a beta test during the negotiation process and were less than satisfied with the software platform. Those issues we probably could have worked around, but the reality is F.W. Webb, which is a local company, would basically walk away with no responsibility after we purchased the meters from them, and then we would have a separate contract with a software company that’s based in Utah. So, that is not what we asked for.”\nThe new system, referred to as advanced metering technology, will replace existing mechanical meters that rely on water to either displace or rotate parts inside the meter.\nThe new meters use solid-state technology with ultrasonic waves to measure water flow. The system, which uses a cellular network, eliminates the need for readings to be recorded at each address. The meters connect to an existing network through Verizon, T-Mobile and AT&T to transmit data directly to the office.\nThe new system also will allow homeowners to set alerts and track their usage using the cloud-based platform.",
+    "summary": "The town council, sitting as the board of water and sewer commissioners, rescinded the bid ($585,564) during its April 6 meeting. Webb because it wanted to sell the water meters without providing the 10-year maintenance and operational plan. Really the crux of the problem is that the contract and the bid was for the service of purchasing the water meters and providing the software for up to 10 years. The meters connect to an existing network through Verizon, T-Mobile and AT&T to transmit data directly to the office.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business and market analysis"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Webb",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Norwood",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Stiles Company",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Hydro Utiliti",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Jamestown"
+            ],
+            "state": [
+                "Indiana",
+                "Colorado"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:32:44.291+03:00",
+    "updated": "2026-04-16T08:53:45.000+03:00"
+}

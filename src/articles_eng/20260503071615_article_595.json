@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "1022317b551d9dc86e73d089f8a2c524e164028b",
+        "url": "https://www.indiasnews.net/news/279020697/us-companies-developing-small-modular-reactors-to-cut-costs-boost-flexibility-in-nuclear-power-report",
+        "site_full": "www.indiasnews.net",
+        "site": "indiasnews.net",
+        "site_section": "https://www.indiasnews.net/category/breaking-international-news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "India&#39;s News -  International News",
+        "site_title": "National India News Network | Late Breaking News from India",
+        "title": "US companies developing small modular reactors to cut costs, boost flexibility in nuclear power: Report",
+        "title_full": "US companies developing small modular reactors to cut costs, boost flexibility in nuclear power: Report",
+        "published": "2026-04-30T05:52:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://image.chitra.live/api/v1/wps/cda19d4/aa788dbf-32f9-4ac5-b4fe-24c3de8d7bb8/0/ANI-20260430025221-600x315.jpg",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1022317b551d9dc86e73d089f8a2c524e164028b",
+    "url": "https://www.indiasnews.net/news/279020697/us-companies-developing-small-modular-reactors-to-cut-costs-boost-flexibility-in-nuclear-power-report",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-04-30T05:52:00.000+03:00",
+    "title": "US companies developing small modular reactors to cut costs, boost flexibility in nuclear power: Report",
+    "text": "New Delhi [India], April 30 (ANI): Several companies in the United States are developing small modular reactors (SMRs) as a new approach to nuclear energy, aimed at reducing capital costs and improving flexibility in deployment, according to a report by the U.S. Energy Information Administration (EIA).\nThe report noted that the US currently operates about 98 gigawatts (GW) of nuclear generating capacity, but very little new capacity has been added in recent decades due to high capital costs and long licensing processes. SMRs are being seen as a solution to these challenges.\nUnlike traditional large-scale nuclear reactors, which typically have a capacity between 550 megawatts (MW) and 1,500 MW per unit, SMRs have a capacity of about 300 MW per unit or less. Their modular design allows components to be factory-assembled and shipped to construction sites, which could help reduce construction time and costs.\nUS EIA said, 'several companies are developing new small modular reactor (SMR) designs aimed at reducing capital costs and increasing siting flexibility, challenges associated with traditional nuclear power'.\nDifferent SMR designs use a variety of cooling technologies, including light water, gas, liquid metal and molten salt. Some designs use high-assay low-enriched uranium (HALEU), which is enriched between 5 per cent and under 20 per cent uranium-235, compared to the lower enrichment used in current reactors. This allows for improved efficiency, smaller reactor size and reduced nuclear waste.\nA subset of SMRs, known as microreactors, generally have a capacity of 20 MW or less and can operate independently or as part of a microgrid. These smaller systems are particularly useful for remote areas or locations that lack the infrastructure to support large nuclear plants.\nThe report highlighted that SMRs and microreactors can also support emerging applications such as powering artificial intelligence systems, data centres and other industrial activities where grid connectivity may not be required.\nThe report also detailed advanced reactor types such as high-temperature gas reactors, molten salt reactors and sodium-cooled reactors, which can operate at higher temperatures and offer potential improvements in efficiency and industrial use.\nGovernment support for SMR development in the US has been increasing. In March 2025, the US Department of Energy (DOE) reissued a tender for USD 900 million in funding to promote SMR technologies. The DOE also launched the Energy Reactor Pilot Program in June 2025 to accelerate testing of advanced reactors.\nSo the report suggests that SMRs and microreactors could play a key role in the future of nuclear energy by offering more flexible, cost-effective and scalable solutions compared to traditional nuclear power plants. (ANI)",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "New Delhi",
+                "sentiment": "none"
+            },
+            {
+                "name": "United States",
+                "sentiment": "none"
+            },
+            {
+                "name": "US",
+                "sentiment": "none"
+            },
+            {
+                "name": "India",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ANI",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "U. S. Energy Information Administration",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "EIA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:32:33.888+03:00",
+    "updated": "2026-04-30T07:32:33.888+03:00"
+}

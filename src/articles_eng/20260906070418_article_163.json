@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "425c27858a7c9f5822b453ed5728a40b0a034930",
+        "url": "https://www.newsbreak.com/news/4862684272709-racine-woman-dies-after-two-vehicle-crash",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/kenosha-wi",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "politics",
+            "crime, law and justice",
+            "human interest",
+            "lifestyle and leisure",
+            "social issue",
+            "under_construction",
+            "economy, business and finance",
+            "sport"
+        ],
+        "section_title": "Kenosha, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Racine Woman Dies After Two-Vehicle Crash - NewsBreak",
+        "title_full": "Racine Woman Dies After Two-Vehicle Crash - NewsBreak",
+        "published": "2026-09-02T14:38:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2Lvlf9_1Emkq2VB00",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "425c27858a7c9f5822b453ed5728a40b0a034930",
+    "url": "https://www.newsbreak.com/news/4862684272709-racine-woman-dies-after-two-vehicle-crash",
+    "ord_in_thread": 0,
+    "author": "wlip.com",
+    "published": "2026-09-02T14:38:00.000+03:00",
+    "title": "Racine Woman Dies After Two-Vehicle Crash - NewsBreak",
+    "text": "16 hours ago RACINE, Wis. (WLIP)— A 73-year-old Racine woman has died from injuries suffered in a two-vehicle rollover crash Sunday afternoon in Racine. Police say Ida Chambliss was driving a Mitsubishi west on Ninth Street around 2:11 p.m. when she failed to stop at a stop sign at Park Avenue. Her... Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->accident and emergency incident",
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wlip.com/racine-woman-dies-after-two-vehicle-crash/",
+        "https://wlip.com/racine-woman-dies-after-two-vehicle-crash/",
+        "https://www.wlip.com/racine-woman-dies-after-two-vehicle-crash"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ida Chambliss",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Racine",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ninth Street",
+                "sentiment": "none"
+            },
+            {
+                "name": "Park Avenue",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Mitsubishi",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "7211.T",
+                        "exchange": "TSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Kenosha"
+            ],
+            "state": [
+                "Wisconsin"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:07:58.020+03:00",
+    "updated": "2026-09-03T07:22:17.000+03:00"
+}

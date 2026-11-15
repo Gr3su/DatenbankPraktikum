@@ -1,0 +1,155 @@
+{
+    "thread": {
+        "uuid": "2a2fe071102ceab93f37e6a7cb30f162e849278e",
+        "url": "https://www.newsbreak.com/news/4917779448877-ecology-action-center-reaffirms-recycling-efforts-after-data-shows-mclean-county-rates-decreasing",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/fairbury-il",
+        "site_categories": [
+            "science and technology",
+            "crime, law and justice",
+            "under_construction",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "politics",
+            "economy, business and finance",
+            "sport",
+            "human interest"
+        ],
+        "section_title": "Fairbury, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Ecology Action Center reaffirms recycling efforts after data shows McLean County rates decreasing - NewsBreak",
+        "title_full": "Ecology Action Center reaffirms recycling efforts after data shows McLean County rates decreasing - NewsBreak",
+        "published": "2026-09-30T23:35:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/37Hcdu_1FfGHKC100",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:37:53.582+03:00"
+        }
+    },
+    "uuid": "2a2fe071102ceab93f37e6a7cb30f162e849278e",
+    "url": "https://www.newsbreak.com/news/4917779448877-ecology-action-center-reaffirms-recycling-efforts-after-data-shows-mclean-county-rates-decreasing",
+    "ord_in_thread": 0,
+    "author": "WGLT",
+    "published": "2026-09-30T23:35:00.000+03:00",
+    "title": "Ecology Action Center reaffirms recycling efforts after data shows McLean County rates decreasing - NewsBreak",
+    "text": "By WGLT ,\n1 days ago The recycling rate in McLean County is not as high as an environmental nonprofit had hoped and worked for leading up to 2026. The Ecology Action Center [EAC] has announced the 2025 waste generation and recycling rate of the county was 41%, and the rate of the year before was actually 43%. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Environment->conservation",
+        "Environment->sustainability",
+        "Environment->ecosystem",
+        "Economy, Business and Finance->energy and resource"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wglt.org/local-news/2026-09-30/ecology-action-center-reaffirms-recycling-efforts-after-data-shows-mclean-county-rates-decreasing",
+        "https://wglt.org/local-news/2026-09-30/ecology-action-center-reaffirms-recycling-efforts-after-data-shows-mclean-county-rates-decreasing"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "McLean County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Ecology Action Center",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "EAC",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "WGLT",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Fairbury"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:37:53.582+03:00",
+    "updated": "2026-10-02T07:48:48.000+03:00",
+    "related_articles": null
+}

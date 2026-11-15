@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "9d242e897288a0d8c14628dd0c8ff8cc7e96d343",
+        "url": "https://tass.com/world/2082023",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/world/1874369",
+        "site_categories": [
+            "economy, business and finance",
+            "media",
+            "war, conflict and unrest",
+            "politics"
+        ],
+        "section_title": "Biden’s missile strike decision complicates Trump’s Russia policy amid growing tensions -  World - TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Ukrainians may revolt against Zelensky, West - Internet entrepreneur",
+        "title_full": "Ukrainians may revolt against Zelensky, West - Internet entrepreneur",
+        "published": "2026-02-05T07:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 14623,
+        "domain_rank_updated": "2026-02-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9d242e897288a0d8c14628dd0c8ff8cc7e96d343",
+    "url": "https://tass.com/world/2082023",
+    "ord_in_thread": 0,
+    "author": "TASS",
+    "published": "2026-02-05T07:18:00.000+02:00",
+    "title": "Ukrainians may revolt against Zelensky, West - Internet entrepreneur",
+    "text": "BERLIN, February 5. /TASS/. Kim Dotcom, founder of the file-sharing network Megaupload, believes that Ukrainians may rise up against Vladimir Zelensky and Western countries.\n\"Ukrainians may revolt against Zelensky and the West. No NATO and no European Union. The young generation died for empty promises and the Western and US military industrial complex,\" the entrepreneur wrote on his X page.\nHe also noted that Western countries have dumped \"warehouses full of outdated weapons on Ukraine for hundreds of billions.\"\nEarlier, Dotcom said he believes Russia is winning a strategic victory not only against Ukraine but also against all of Kiev's Western allies.",
+    "summary": "Kim Dotcom, founder of the file-sharing network Megaupload, believes that Ukrainians may rise up against Vladimir Zelensky and Western countries. \"Ukrainians may revolt against Zelensky and the West. The young generation died for empty promises and the Western and US military industrial complex,\" the entrepreneur wrote on his X page. He also noted that Western countries have dumped \"warehouses full of outdated weapons on Ukraine for hundreds of billions.\" Earlier, Dotcom said he believes Russia is winning a strategic victory not only against Ukraine but also against all of Kiev's Western allies.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "Politics->political dissent",
+        "Politics->political crisis",
+        "War, Conflict and Unrest->rebellion",
+        "War, Conflict and Unrest->civil unrest"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kim Dotcom",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Vladimir Zelensky",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "BERLIN",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ukraine",
+                "sentiment": "none"
+            },
+            {
+                "name": "Russia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Megaupload",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "European Union",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NATO",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-05T07:30:26.695+02:00",
+    "updated": "2026-02-05T07:32:45.000+02:00"
+}

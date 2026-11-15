@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "3d34608eb91af19ef92dd7155e3f01b8476d14f9",
+        "url": "https://www.ntd.com/ntdplus/australian-tennis-star-kyrgios-tests-positive-for-cocaine_1167340.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://api.ntd.com/feed",
+        "site_categories": [
+            "real_estate",
+            "disaster and accident",
+            "science and technology",
+            "health",
+            "war, conflict and unrest",
+            "politics",
+            "architects",
+            "crime, law and justice",
+            "media",
+            "economy, business and finance"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "Australian Tennis Star Kyrgios Tests Positive for Cocaine",
+        "title_full": "Australian Tennis Star Kyrgios Tests Positive for Cocaine",
+        "published": "2026-08-20T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2023/05/id916823-Australias-Nick-Kyrgios-1-600x400.jpg",
+        "performance_score": 0,
+        "domain_rank": 66011,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3d34608eb91af19ef92dd7155e3f01b8476d14f9",
+    "url": "https://www.ntd.com/ntdplus/australian-tennis-star-kyrgios-tests-positive-for-cocaine_1167340.html",
+    "ord_in_thread": 0,
+    "author": "NTD Newsroom",
+    "published": "2026-08-20T06:59:00.000+03:00",
+    "title": "Australian Tennis Star Kyrgios Tests Positive for Cocaine",
+    "text": "Trailer\nAustralian Tennis Star Kyrgios Tests Positive for Cocaine\nAustralian tennis star Nick Kyrgios has been provisionally suspended after testing positive for cocaine. The International Tennis Integrity Agency says his positive sample was taken at the time of an e...\nRead More",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->disciplinary action in sport",
+        "Sport->tennis"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nick Kyrgio",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Kyrgios",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "International Tennis Integrity Agency",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:28:31.457+03:00",
+    "updated": "2026-08-20T07:31:32.000+03:00"
+}

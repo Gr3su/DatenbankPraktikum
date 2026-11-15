@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "e0aba58d82630d6b5b7fa6089d64813900885c89",
+        "url": "https://www.londonclup.com/energy/wmx-react2shell-vulnerability-causes-millions-of-attacks-on-russian-websites",
+        "site_full": "www.londonclup.com",
+        "site": "londonclup.com",
+        "site_section": "https://www.londonclup.com/",
+        "site_categories": [],
+        "section_title": "London CLUP",
+        "site_title": "London CLUP",
+        "title": "WMX: React2Shell vulnerability causes millions of attacks on Russian websites",
+        "title_full": "WMX: React2Shell vulnerability causes millions of attacks on Russian websites",
+        "published": "2026-01-29T06:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e0aba58d82630d6b5b7fa6089d64813900885c89",
+    "url": "https://www.londonclup.com/energy/wmx-react2shell-vulnerability-causes-millions-of-attacks-on-russian-websites",
+    "ord_in_thread": 0,
+    "author": "Sophia",
+    "published": "2026-01-29T06:38:00.000+02:00",
+    "title": "WMX: React2Shell vulnerability causes millions of attacks on Russian websites",
+    "text": "At the end of 2025, Russian online resources faced a sharp increase in attacks on the web. The increase in attacker activity is related to the emergence in early December of a new critical React2Shell vulnerability, which allows attackers to gain server-side control of web resources. Gazeta.Ru was informed about this by the press service of the WMX company.\nIn December 2025, the company's service, WMX ProWAF, repelled approximately 130 million attacks. This is a third higher than the monthly average for the year. React2Shell, registered as CVE-2025-55182 and rated 10/10, was published on December 3, 2025.\nBy the end of the month, the number of attempts to exploit it had increased 20-fold, directly correlating with the record number of RCE attacks. RCE attacks are used to run arbitrary malicious code on the server and can result in complete control of web application data and functionality as well as further movement across the corporate network.\nThe most notable increase in such attacks in December was recorded in the financial, IT and telecommunications sectors. At the same time, IT companies face doubled threats.",
+    "summary": "At the end of 2025, Russian online resources faced a sharp increase in attacks on the web. The increase in attacker activity is related to the emergence in early December of a new critical React2Shell vulnerability, which allows attackers to gain server-side control of web resources. In December 2025, the company's service, WMX ProWAF, repelled approximately 130 million attacks. RCE attacks are used to run arbitrary malicious code on the server and can result in complete control of web application data and functionality as well as further movement across the corporate network.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://ru.updatenews.info/wp-content/uploads/2026/01/WMX-Lo-hong-React2Shell-gay-ra-hang-trieu-cuoc-tan.jpeg",
+        "https://www.ru.updatenews.info/wp-content/uploads/2026/01/WMX-Lo-hong-React2Shell-gay-ra-hang-trieu-cuoc-tan.jpeg"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "WMX",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Gazeta. Ru",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "e0aba58d82630d6b5b7fa6089d64813900885c89",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-29T07:18:24.008+02:00",
+    "updated": "2026-01-29T07:18:24.008+02:00"
+}

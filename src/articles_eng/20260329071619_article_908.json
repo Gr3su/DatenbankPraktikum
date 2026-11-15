@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "c72222d70489be4d8622444e21e92d51f2bafee8",
+        "url": "https://www.newsbreak.com/news/4557837605007-third-no-kings-march-expected-to-bring-thousands-to-colorado-boulevard-on-saturday",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/el-monte-ca",
+        "site_categories": [
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "sport",
+            "politics"
+        ],
+        "section_title": "El Monte, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Third No Kings March Expected to Bring Thousands to Colorado Boulevard on Saturday - NewsBreak",
+        "title_full": "Third No Kings March Expected to Bring Thousands to Colorado Boulevard on Saturday - NewsBreak",
+        "published": "2026-03-25T12:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3YKQwf_19ua7Zwv00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c72222d70489be4d8622444e21e92d51f2bafee8",
+    "url": "https://www.newsbreak.com/news/4557837605007-third-no-kings-march-expected-to-bring-thousands-to-colorado-boulevard-on-saturday",
+    "ord_in_thread": 0,
+    "author": "pasadenanow.com",
+    "published": "2026-03-25T12:37:00.000+02:00",
+    "title": "Third No Kings March Expected to Bring Thousands to Colorado Boulevard on Saturday - NewsBreak",
+    "text": "18 hours ago San Gabriel Foothills Indivisible plans to stage its third “No Kings” march along Colorado Boulevard on Saturday, sending participants from Pasadena City College to City Hall in what organizers say will draw thousands to the city’s main commercial corridor during peak weekend hours. The demonstration marks the... Read full article\nRead in NewsBreak 2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->political process"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Colorado Boulevard",
+                "sentiment": "none"
+            },
+            {
+                "name": "City Hall",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Pasadena City College",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "North El Monte",
+                "El Monte"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-26T07:37:26.869+02:00",
+    "updated": "2026-03-26T07:39:10.000+02:00"
+}

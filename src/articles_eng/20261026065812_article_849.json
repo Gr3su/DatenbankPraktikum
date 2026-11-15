@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "b771623fe8a1926fe808d456bf45df4bf3a94512",
+        "url": "https://www.bjreview.com/Xinjiang_Today/202610/t20261021_800449384.html",
+        "site_full": "www.bjreview.com",
+        "site": "bjreview.com",
+        "site_section": "https://www.bjreview.com/",
+        "site_categories": [
+            "media",
+            "japan",
+            "travel"
+        ],
+        "section_title": "Beijing Review",
+        "site_title": null,
+        "title": "What is a petaflop worth?-- Beijing Review",
+        "title_full": "What is a petaflop worth?-- Beijing Review",
+        "published": "2026-10-21T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.bjreview.com/Xinjiang_Today/202610/W020261022323819499101.jpg",
+        "performance_score": 0,
+        "domain_rank": 406866,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T07:27:33.244+03:00"
+        }
+    },
+    "uuid": "b771623fe8a1926fe808d456bf45df4bf3a94512",
+    "url": "https://www.bjreview.com/Xinjiang_Today/202610/t20261021_800449384.html",
+    "ord_in_thread": 0,
+    "author": "闫威",
+    "published": "2026-10-21T03:00:00.000+03:00",
+    "title": "What is a petaflop worth?-- Beijing Review",
+    "text": "|\n| What is a petaflop worth? | |\n|\n|\n|\nA photovoltaic project in Tulufan (Turpan) on August 20, 2025 (CNSPHOTO)\nOne evening in Xinjiang, I found myself checking the same computer screen again and again. An AI model I had built was working through a batch of medical images, and I was eager to know whether a small adjustment I had made would improve its performance. I made a cup of tea, came back and checked once more.\nPeople usually encounter AI when it gives them an answer. As a researcher, I spend much of my time figuring out how it arrived at that answer. That means testing an idea, finding a problem and trying again. How long each experiment takes determines how many questions I can ask. I am British, with a Ph.D. from Shanghai Jiao Tong University and a background in AI. My research has involved interpreting images of human tissue. Now, living in Urumqi, the capital of Xinjiang, I hold a couple of positions—one of them working with a local hospital on AI for MRI scans. Xinjiang's computing development therefore is closely connected to my own work. To someone looking at a map, my move from Shanghai might seem like a journey away from China's technology industry. Shanghai has world-famous universities and a concentration of technology companies. Xinjiang is more often associated with nature. Yet, AI's soaring electricity demand has made China's energy-rich northwest an attractive destination for AI firms. With abundant solar and wind reserves, Xinjiang is riding the AI boom to become a cost-effective computing hub. When distance matters less On September 9, the Chongqing Computing Power Base in Hami City began supplying Chinese automaker Changan Automobile with computing resources to develop the one-stage end-to-end large model powering its driver-assistance system. At a computing delivery ceremony in Hami on that day, Jia Lishan, an executive of Changan Automobile, said that combining Chongqing-led research with Xinjiang computing could shorten AI algorithm development cycles by 30 percent. That caught my eye: Shorter cycles mean more chances to test an idea. The arrangement is easy to picture. Engineers in Chongqing of southwest China develop their models while computers in Xinjiang do much of the training. The engineers stay near their colleagues and factories; the machines operate where electricity and space make the work more affordable. Xinjiang offers cheaper green power. A September report from Chongqing's communications regulator quotes electricity prices of about 0.35 yuan ($0.052) per kilowatt-hour for the data center in Yiwu County of Hami against 0.7-0.8 yuan ($0.1-$0.12) in Chongqing, where power comes mainly from thermal plants. Electricity is only part of the bill, but the difference matters for machines running around the clock. The same report gives a one-way network delay between Hami and Chongqing of 16.2 milliseconds, much less than a blink. It also describes 340 petaflops already in use in one Xinjiang cluster, supporting universities, research institutes and leading companies in Chongqing. One petaflop represents a quadrillion floating-point calculations per second. If everyone on Earth did one calculation per second, we would need roughly a day and a half to match one second of that output. In 2008, Roadrunner, built by IBM, became the first supercomputer to sustain that speed on a standard benchmark. It cost about $100 million and occupied nearly 300 equipment racks. Today, a single high-end AI chip can claim a similar calculation rate using less precise arithmetic. The comparison shows both how far computing has come and why its headline numbers need care. I find this rearrangement of distance fascinating. In daily life, I am very conscious of how far Urumqi is from many of the people I know. A visit still requires planning and a substantial journey. But when a computer is training a model, its distance from my desk may matter less than whether I can use it and afford the bill. This is the appeal of China's \"east data, west computing\" strategy: matching demand with places able to supply it. Xinjiang Daily captured the shift in a headline about the autonomous region's move \"from exporting energy to exporting computing.\" For a researcher like me, it could mean getting another experiment done. An energy storage project of China Three Gorges Corp. in Jimusaer (Jimsar) on August 30 (XINHUA)\nBack at the hospital Working in Xinjiang now makes me wonder what local researchers could achieve with better access to the machines their ideas need. Of course, an experiment finishing sooner is only useful if it helps answer a worthwhile question. Working on medical images keeps me conscious of that distinction. During one discussion, a colleague scrolled through a scan and paused over an area that looked unremarkable to me. Talking through what it showed reminded me how much medical understanding sits outside the numbers on my screen. A spinal scan belongs to someone whose pain may make ordinary tasks difficult. My contribution is to investigate whether AI can identify useful patterns and offer reliable support. A promising result on one collection of scans is only a beginning. We need to understand its mistakes and test it on images it has never seen. A doctor needs to know when its suggestions deserve confidence and when to question them. Xinjiang researchers are already doing substantial work. In 2025, doctors at the People's Hospital of Xinjiang Uygur Autonomous Region and researchers at Tsinghua University published a study in Nature Medicine using large language models to estimate biological aging from routine health examination reports. It covered more than 10 million people across six cohorts. The data came from China, Britain and the United States, with most participants in a northwestern Chinese cohort. According to the regional health commission, the work drew on computing from China Mobile Xinjiang and Huawei Ascend. Reading that, I felt the prospect of locally supported medical AI become much more concrete. Urumqi also has a computing center with reported capacity of 1,021 petaflops at the Anhui-Xinjiang AI Technology Industrial Park, offering services including model training for universities. The next step, I hope, is making such access routine for smaller teams like ours. Affordable computing could help us compare more approaches and investigate failures thoroughly. Patient information still needs protection, and clinical systems need proper evaluation. Where data can be processed depends on the safeguards and approvals in place; proximity alone does not settle that question. Nor does a capacity figure tell me whether our software will run smoothly, how long we will wait for access, or how much useful work will cost. Those practical details will determine whether new facilities become part of our research. What my students might build Teaching statistics in Urumqi gives me another perspective. In one class, a student asked whether someone interested in AI would need to move to a bigger city. Choosing what to study can also feel like choosing how far from home you will have to go. Studying elsewhere can be a wonderful opportunity; my education brought me from Britain to China. Still, I would like ambitious students in Xinjiang to have more choices about where they work. Local technology companies and research teams can make those possibilities easier to imagine. Students need good teaching and chances to join real projects. I would like closer links between the computing centers and local classrooms, universities and hospitals, so that the people growing up here can help develop the technology around them. There is plenty for me to learn here, too. Working with doctors has given my research questions a more immediate purpose. Teaching makes me practice explaining ideas without specialist language. Living in Xinjiang makes its technological development feel close to my own life. So what is a petaflop worth? Its value depends on the work it makes possible. For Changan Automobile, that could be faster development. For a hospital team, it could be the opportunity to test an idea carefully enough to discover whether it helps. I will probably spend many more evenings waiting for experiments to finish. But if accessible computing lets me investigate more useful ideas and gives my students opportunities to pursue their own here in Xinjiang, I will have a much better answer than a number on a specification sheet. The author is a British AI researcher and teacher living in Urumqi Comments to ffli@cicgamericas.com |\n|",
+    "summary": "An AI model I had built was working through a batch of medical images, and I was eager to know whether a small adjustment I had made would improve its performance. An energy storage project of China Three Gorges Corp. in Jimusaer (Jimsar) on August 30 (XINHUA) Back at the hospital Working in Xinjiang now makes me wonder what local researchers could achieve with better access to the machines their ideas need.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [
+        "https://www.bjreview.com/./W020261021610063447976.jpg",
+        "https://www.bjreview.com/./W020261021610062928022.jpg"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Xinjiang",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tulufan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Turpan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:27:33.244+03:00",
+    "updated": "2026-10-23T07:27:33.244+03:00",
+    "related_articles": null
+}

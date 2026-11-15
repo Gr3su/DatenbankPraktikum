@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "a39864d9e980a8bb8e707ba92124e197fc9236cf",
+        "url": "https://www.newsbreak.com/news/4451747348532-match-a-million-campaign-reaches-1m-goal-to-fund-training-of-future-health-care-workers",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/rex-nc?page=2",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Rex, NC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Match-A-Million campaign reaches $1M goal to fund training of future health care workers - NewsBreak",
+        "title_full": "Match-A-Million campaign reaches $1M goal to fund training of future health care workers - NewsBreak",
+        "published": "2026-01-20T22:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2x9hB3_18CgVJUv00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-18T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a39864d9e980a8bb8e707ba92124e197fc9236cf",
+    "url": "https://www.newsbreak.com/news/4451747348532-match-a-million-campaign-reaches-1m-goal-to-fund-training-of-future-health-care-workers",
+    "ord_in_thread": 0,
+    "author": "Staff Report, posted",
+    "published": "2026-01-20T22:36:00.000+02:00",
+    "title": "Match-A-Million campaign reaches $1M goal to fund training of future health care workers - NewsBreak",
+    "text": "By Staff Report, posted ,\n1 days ago Thanks to the generosity of people throughout the Sandhills and beyond, The Foundation of FirstHealth is thrilled to announce that it has completed its Match-A-Million campaign to raise funds for FirstFutures. The goal of $1 million has been reached, and those donations will be doubled thanks to a matching gift... Read full article\nRead in NewsBreak 3",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Education"
+    ],
+    "topics": [
+        "Health->health care approach",
+        "Health->medical staff",
+        "Health->public health",
+        "Education->students",
+        "Education->teachers",
+        "Education->vocational education"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Sandhill",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Foundation of FirstHealth",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Rex"
+            ],
+            "state": [
+                "North Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-22T07:28:46.936+02:00",
+    "updated": "2026-01-22T07:32:44.000+02:00"
+}

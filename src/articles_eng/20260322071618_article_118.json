@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "9d9633cd1dea7c7ccc243797e9dbb28d3a6e04bb",
+        "url": "https://www.newsbreak.com/news/4547208698609-wildfire-contained-in-cottonwood-canyon",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/bozeman-mt",
+        "site_categories": [
+            "economy, business and finance",
+            "politics",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "sport"
+        ],
+        "section_title": "Bozeman, MT Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Wildfire contained in Cottonwood Canyon - NewsBreak",
+        "title_full": "Wildfire contained in Cottonwood Canyon - NewsBreak",
+        "published": "2026-03-19T01:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3lzXUN_19jsOwzx00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9d9633cd1dea7c7ccc243797e9dbb28d3a6e04bb",
+    "url": "https://www.newsbreak.com/news/4547208698609-wildfire-contained-in-cottonwood-canyon",
+    "ord_in_thread": 0,
+    "author": "NBC Montana Staff",
+    "published": "2026-03-19T01:40:00.000+02:00",
+    "title": "Wildfire contained in Cottonwood Canyon - NewsBreak",
+    "text": "By NBC Montana Staff ,\n5 hours ago GALLATIN GATEWAY, Mont. — The Gallatin Gateway Fire Department is responding to a wildfire on the 14200 block of Cottonwood Canyon. Crews are still working on the fire, but officials are calling it controlled and starting to mop up. The public is being advised to stay clear of the... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident",
+        "Environment"
+    ],
+    "topics": [
+        "Disaster and Accident->fire",
+        "Environment->conservation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Cottonwood Canyon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mont.",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Gallatin Gateway Fire Department",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Boneau"
+            ],
+            "state": [
+                "Montana"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:20:18.391+02:00",
+    "updated": "2026-03-19T07:28:11.000+02:00"
+}

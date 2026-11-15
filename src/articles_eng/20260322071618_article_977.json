@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "e9b7984f53042b599d261a55d059ce7b5291d2b0",
+        "url": "https://www.newsbreak.com/fox54-news-524573/4544318406414-scottsboro-jr-high-boosts-security-amid-snapchat-threat-investigation",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/ider-al",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "human interest",
+            "crime, law and justice",
+            "under_construction",
+            "economy, business and finance",
+            "politics",
+            "lifestyle and leisure",
+            "sport"
+        ],
+        "section_title": "Ider, AL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Scottsboro Jr. High boosts security amid Snapchat threat investigation - NewsBreak",
+        "title_full": "Scottsboro Jr. High boosts security amid Snapchat threat investigation - NewsBreak",
+        "published": "2026-03-17T14:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4ZUsZK_19gxvxG300",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e9b7984f53042b599d261a55d059ce7b5291d2b0",
+    "url": "https://www.newsbreak.com/fox54-news-524573/4544318406414-scottsboro-jr-high-boosts-security-amid-snapchat-threat-investigation",
+    "ord_in_thread": 0,
+    "author": "FOX54 News",
+    "published": "2026-03-17T14:39:00.000+02:00",
+    "title": "Scottsboro Jr. High boosts security amid Snapchat threat investigation - NewsBreak",
+    "text": "1 days ago SCOTTSBORO, Ala. — The Scottsboro City Board of Education is warning families after threatening messages were sent through Snapchat to students at Scottsboro Junior High School, prompting an immediate police investigation and heightened security measures. In a letter sent to families Monday night, Superintendent Jennifer Williams said school officials... Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->investigation (criminal)"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jennifer Williams",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Snapchat",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "SNAP",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Scottsboro City Board of Education",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Scottsboro Jr. High",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Scottsboro Junior High School",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Ider"
+            ],
+            "state": [
+                "Alabama"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:37:09.899+02:00",
+    "updated": "2026-03-19T07:41:09.000+02:00"
+}

@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "bec2f82d981232f540957e991a241fd28ee59fd1",
+        "url": "https://guardian.ng/news/nigeria/metro/court-remands-24-persons-over-womans-death-in-kaduna/",
+        "site_full": "guardian.ng",
+        "site": "guardian.ng",
+        "site_section": "https://news.google.com/search?q=over%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "social issue",
+            "economy, business and finance",
+            "politics",
+            "crime, law and justice",
+            "media"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+        "title": "Court remands 24 persons over woman's death in Kaduna",
+        "title_full": "Court remands 24 persons over woman's death in Kaduna",
+        "published": "2026-06-25T06:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "https://cdn.guardian.ng/wp-content/uploads/2026/05/court.webp",
+        "performance_score": 0,
+        "domain_rank": 16278,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bec2f82d981232f540957e991a241fd28ee59fd1",
+    "url": "https://guardian.ng/news/nigeria/metro/court-remands-24-persons-over-womans-death-in-kaduna/",
+    "ord_in_thread": 0,
+    "author": "Saxone Akhaine",
+    "published": "2026-06-25T06:00:00.000+03:00",
+    "title": "Court remands 24 persons over woman's death in Kaduna",
+    "text": "A Kaduna State Magistrate’s Court sitting at the Nigeria Defence Academy (NDA) Junction has remanded 24 individuals in the correctional facility over the killing of a woman in the state.\nThe suspects were arraigned by the Kaduna State Police Command following the gruesome murder of the woman by a mob in Maraban Jos in Kaduna.\nSpokesperson for the command, DSP Mansir Hassan, said the suspects are facing charges including criminal conspiracy, inciting public disturbance, mischief, destruction of public and police property, and culpable homicide.\nHe noted that the arraignment followed a comprehensive investigation into the June 21, 2026, incident, where the victim was killed after being removed from police custody. He added that the case was mentioned in court and adjourned till July 21, 2026, for further hearing, while all the suspects were ordered remanded in a correctional facility pending the determination of the case.\nHassan said that “over 100 additional suspects remain under investigation for their alleged roles in the incident. Those found culpable will also be arraigned in court.”",
+    "summary": "A Kaduna State Magistrate’s Court sitting at the Nigeria Defence Academy (NDA) Junction has remanded 24 individuals in the correctional facility over the killing of a woman in the state. Spokesperson for the command, DSP Mansir Hassan, said the suspects are facing charges including criminal conspiracy, inciting public disturbance, mischief, destruction of public and police property, and culpable homicide. He noted that the arraignment followed a comprehensive investigation into the June 21, 2026, incident, where the victim was killed after being removed from police custody.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->out of court procedures",
+        "Crime, Law and Justice->judiciary",
+        "Crime, Law and Justice->court"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mansir Hassan",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Junction",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kaduna",
+                "sentiment": "none"
+            },
+            {
+                "name": "Maraban Jos",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Nigeria Defence Academy",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NDA",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Kaduna State Police Command",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "bec2f82d981232f540957e991a241fd28ee59fd1",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:20:09.190+03:00",
+    "updated": "2026-06-25T07:22:49.000+03:00"
+}

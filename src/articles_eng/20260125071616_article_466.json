@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "caf7d03b35c96401729e52fa61b0f9f099ac2980",
+        "url": "https://www.news18.com/tech/the-prompt-attack-how-gemini-ai-was-exploited-using-calendar-invite-to-leak-private-data-9848223.html",
+        "site_full": "www.news18.com",
+        "site": "news18.com",
+        "site_section": "https://news.google.com/search?q=was%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news",
+            "arts, culture and entertainment",
+            "human interest",
+            "lifestyle and leisure",
+            "health",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "News: Get Latest News Today, Breaking News, Top News Headlines, India and World News | News18",
+        "title": "The Prompt Attack: How Gemini AI Was Exploited Using Calendar Invite To Leak Private Data | Tech News - News18",
+        "title_full": "The Prompt Attack: How Gemini AI Was Exploited Using Calendar Invite To Leak Private Data | Tech News - News18",
+        "published": "2026-01-22T07:11:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.news18.com/ibnlive/uploads/2025/10/cyber-threat-2025-10-fed8cb78e9131f0872214ac99738c887-16x9.jpg",
+        "performance_score": 1,
+        "domain_rank": 3556,
+        "domain_rank_updated": "2026-01-18T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 14,
+                "comments": 1,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "caf7d03b35c96401729e52fa61b0f9f099ac2980",
+    "url": "https://www.news18.com/tech/the-prompt-attack-how-gemini-ai-was-exploited-using-calendar-invite-to-leak-private-data-9848223.html",
+    "ord_in_thread": 0,
+    "author": "S Aadeetya",
+    "published": "2026-01-22T07:11:00.000+02:00",
+    "title": "The Prompt Attack: How Gemini AI Was Exploited Using Calendar Invite To Leak Private Data | Tech News - News18",
+    "text": "Gemini has climbed up the AI race ladder against ChatGPT at a rapid pace but Google’s AI assistant could easily become a victim to the latest cybersecurity threat. Prompt injections are going to be the Achilles heels for the tech segment in the near future as these attacks are capable of crippling even the most advanced AI models and bringing systems down to its knees. Researchers are actively fighting these challenges by doing their own mock attacks and Gemini AI assistant was in the firing line of the latest prompt injection salvo. And the target was a private Google Calendar which was leaked using the AI chatbot and seeking its support. Gemini AI Prompt Attack: How Google Calendar Helped As mentioned in its report by Bleeping Computer , the researchers didn’t apply any technical nuance to attack the AI assistant and relied on basic language prompts. And you can do this by sending a Google Calendar invite injected with the malicious prompt payload, which when a person analyses using Gemini triggers the attack. So, the researchers at Miggo Security , quoted in the report , were able to use a strong point of the AI assistant and turned it into a massive weapon to target the victim. Prompts are what trigger the AI chatbots into action and deliver the tasks you assign to them. Gemini linked with a Google account means it can access Gmail inbox, your documents for analysing and more. The same access becomes a nightmare if the hacker manages to bypass the security barriers of Gemini and these injection attacks make it look rather simpler than it should be which is scary by all means. Gemini can summarise all your data, even create new items like a Calendar invite, and when you activate the payload inside these invites with the prompt, the dirty work starts behind the scenes, leaving all your data exposed. Now, imagine if the same AI chatbot is fully controlling your smartphone, and it can execute any task you command, that’s the level of security threat these attacks are going to pose in the years to come. Google, quoted in the same report, has assured that it is actively working on solutions to fight these threats and is happy for more researchers to show the chinks that need to be tightened at its end. Even then, it is imperative that the company and other tech giants need a strong mechanism to thwart these advanced cyber threats before they become too dangerous for people to think twice about deploying AI at such a personal and deep level into their ecosystem.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Gemini",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Google",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "GOOG",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "caf7d03b35c96401729e52fa61b0f9f099ac2980",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-22T07:23:49.393+02:00",
+    "updated": "2026-01-23T08:07:24.000+02:00"
+}

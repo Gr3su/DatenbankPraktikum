@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "873f7dbded1b78c11505773c35f762567854baca",
+        "url": "https://www.newsbreak.com/news/4933778415199-police-teen-vanishes-on-his-way-to-park-in-hallandale-beach",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/pembroke-pines-fl",
+        "site_categories": [
+            "crime, law and justice",
+            "under_construction",
+            "economy, business and finance",
+            "sport",
+            "lifestyle and leisure",
+            "politics",
+            "arts, culture and entertainment",
+            "science and technology"
+        ],
+        "section_title": "Pembroke Pines, FL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Police: Teen vanishes on his way to park in Hallandale Beach - NewsBreak",
+        "title_full": "Police: Teen vanishes on his way to park in Hallandale Beach - NewsBreak",
+        "published": "2026-10-08T22:42:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2P6LAI_1FvNu9tP00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:07:01.229+03:00"
+        }
+    },
+    "uuid": "873f7dbded1b78c11505773c35f762567854baca",
+    "url": "https://www.newsbreak.com/news/4933778415199-police-teen-vanishes-on-his-way-to-park-in-hallandale-beach",
+    "ord_in_thread": 0,
+    "author": "Click10.com",
+    "published": "2026-10-08T22:42:00.000+03:00",
+    "title": "Police: Teen vanishes on his way to park in Hallandale Beach - NewsBreak",
+    "text": "8 hours ago BROWARD COUNTY, Fla. — A 17-year-old boy vanished about 10 days ago on his way to a public park in Hallandale Beach, according to police. George Harper was last seen wearing a gray shirt and black Nike pants at about 6 p.m. on Sept. 28, according to the Hallandale Beach Police Department. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->hijacking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.local10.com/news/2026/10/08/police-teen-vanishes-on-his-way-to-park-in-hallandale-beach/",
+        "https://www.local10.com/news/2026/10/08/police-teen-vanishes-on-his-way-to-park-in-hallandale-beach",
+        "https://local10.com/news/2026/10/08/police-teen-vanishes-on-his-way-to-park-in-hallandale-beach/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "George Harper",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Hallandale Beach",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hallandale Beach Police Department",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Nike",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "NKE",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Pembroke Pines"
+            ],
+            "state": [
+                "Florida"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:07:01.229+03:00",
+    "updated": "2026-10-09T07:16:00.000+03:00",
+    "related_articles": null
+}

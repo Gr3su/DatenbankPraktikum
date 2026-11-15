@@ -1,0 +1,148 @@
+{
+    "thread": {
+        "uuid": "52fa6eade152e232f0c65725162274af76f860c0",
+        "url": "https://www.hindustantimes.com/india-news/watch-artificial-intelligence-translates-pm-modi-speech-at-ai-impact-summit-2026-to-sign-language-real-time-101771478500821.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/personalized-content-listing",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "media",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "List and manage news topics, authors, and cities with our personalization feed | Hindustan Times",
+        "site_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+        "title": "Watch: AI translates PM Modi's speech at Delhi summit to sign language real time| India News",
+        "title_full": "Watch: AI translates PM Modi's speech at Delhi summit to sign language real time| India News",
+        "published": "2026-02-19T07:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/02/19/550x309/AI_Summit_1771478747950_1771478750827.png",
+        "performance_score": 0,
+        "domain_rank": 825,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "52fa6eade152e232f0c65725162274af76f860c0",
+    "url": "https://www.hindustantimes.com/india-news/watch-artificial-intelligence-translates-pm-modi-speech-at-ai-impact-summit-2026-to-sign-language-real-time-101771478500821.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-02-19T07:28:00.000+02:00",
+    "title": "Watch: AI translates PM Modi's speech at Delhi summit to sign language real time| India News",
+    "text": "A key artificial intelligence feature became a highlight during Prime Minister Narendra Modi's inaugural address at the ongoing India AI Impact Summit 2026 at Delhi Pragati Maidan as his speech was translated into sign language in real time. As PM Modi spoke, behind him at a huge screen played an animation showing live artificial intelligence-enabled sign language interpretation of his speech.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Social Issue->disabilities",
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Narendra Modi",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Delhi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "AI",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "AI",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "India News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "52fa6eade152e232f0c65725162274af76f860c0",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:39:55.937+02:00",
+    "updated": "2026-02-19T07:45:09.000+02:00"
+}

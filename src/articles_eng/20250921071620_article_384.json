@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "b5b511ba2b4bbcca0c1336cda54f5e2b5d56dc1f",
+        "url": "https://local.newsbreak.com/fox-news-510075/4240913245394-dozens-of-abc-stations-to-air-charlie-kirk-tribute-special-during-jimmy-kimmel-s-timeslot",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/fox-news-510075",
+        "site_categories": [],
+        "section_title": "Fox News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Dozens of ABC stations to air Charlie Kirk tribute special during Jimmy Kimmel's timeslot - NewsBreak",
+        "title_full": "Dozens of ABC stations to air Charlie Kirk tribute special during Jimmy Kimmel's timeslot - NewsBreak",
+        "published": "2025-09-18T07:05:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0H1BSH_14qEjQ6E00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b5b511ba2b4bbcca0c1336cda54f5e2b5d56dc1f",
+    "url": "https://local.newsbreak.com/fox-news-510075/4240913245394-dozens-of-abc-stations-to-air-charlie-kirk-tribute-special-during-jimmy-kimmel-s-timeslot",
+    "ord_in_thread": 0,
+    "author": "Joseph A. Wulfsohn",
+    "published": "2025-09-18T07:05:00.000+03:00",
+    "title": "Dozens of ABC stations to air Charlie Kirk tribute special during Jimmy Kimmel's timeslot - NewsBreak",
+    "text": "By Joseph A. Wulfsohn ,\n19 minutes ago Sinclair Broadcast Group announced its ABC affiliates will air a Charlie Kirk tribute special to fill in Jimmy Kimmel's now-vacant timeslot after Disney pulled it off the air. Read full article\nRead in NewsBreak 1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Arts, Culture and Entertainment",
+        "Politics"
+    ],
+    "topics": [
+        "Arts, Culture and Entertainment->news media",
+        "Arts, Culture and Entertainment->television",
+        "Politics->political candidates",
+        "Politics->political campaigns",
+        "Politics->freedom of the press"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jimmy Kimmel",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Charlie Kirk",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Joseph A. Wulfsohn",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "ABC",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Sinclair Broadcast Group",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "SBGI",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-18T07:24:49.097+03:00",
+    "updated": "2025-09-18T07:33:22.000+03:00"
+}

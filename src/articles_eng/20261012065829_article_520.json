@@ -1,0 +1,153 @@
+{
+    "thread": {
+        "uuid": "f69debf3eceb3ad0b1c780326ca1ca4197a47045",
+        "url": "https://www.newsbreak.com/news/4933550568371-pumpkins-pizza-playtime-for-fall-season-at-vista-ranch",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/los-banos-ca",
+        "site_categories": [
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "sport",
+            "politics",
+            "under_construction",
+            "science and technology"
+        ],
+        "section_title": "Los Banos, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Pumpkins, Pizza & Playtime For Fall Season At Vista Ranch - NewsBreak",
+        "title_full": "Pumpkins, Pizza & Playtime For Fall Season At Vista Ranch - NewsBreak",
+        "published": "2026-10-08T18:03:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3CZab6_1Fv9QxH500",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:16:20.531+03:00"
+        }
+    },
+    "uuid": "f69debf3eceb3ad0b1c780326ca1ca4197a47045",
+    "url": "https://www.newsbreak.com/news/4933550568371-pumpkins-pizza-playtime-for-fall-season-at-vista-ranch",
+    "ord_in_thread": 0,
+    "author": "Jonathan Whitaker",
+    "published": "2026-10-08T18:03:00.000+03:00",
+    "title": "Pumpkins, Pizza & Playtime For Fall Season At Vista Ranch - NewsBreak",
+    "text": "By Jonathan Whitaker ,\n13 hours ago Family members dressed in their best fall fashions arrived in droves for the opening weekend of the Vista Ranch Pumpkin Patch on Highway 140 in Merced. The Times talked to visitors from as far away as Mariposa and Los Banos who were excited to find an incredible selection of unique, locally-grown pumpkins and other goodies for the Halloween season. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->holiday"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://mercedcountytimes.com/amp/pumpkins-pizza-playtime-for-fall-season-at-vista-ranch/",
+        "https://www.mercedcountytimes.com/amp/pumpkins-pizza-playtime-for-fall-season-at-vista-ranch/",
+        "https://mercedcountytimes.com/amp/pumpkins-pizza-playtime-for-fall-season-at-vista-ranch"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jonathan Whitaker",
+                "sentiment": "positive"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Merced",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vista Ranch",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mariposa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Los Banos",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "The Times",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Los Banos"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:16:20.531+03:00",
+    "updated": "2026-10-09T07:26:16.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "6d4f0eafe7697d3efb9cc2e4259e0c16bb05522e",
+        "url": "https://www.newsbreak.com/news/4621038822600-track-and-field-brands-is-a-future-defender",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/egan-sd",
+        "site_categories": [
+            "politics",
+            "human interest",
+            "arts, culture and entertainment",
+            "sport",
+            "crime, law and justice",
+            "under_construction",
+            "lifestyle and leisure",
+            "economy, business and finance"
+        ],
+        "section_title": "Egan, SD Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "TRACK AND FIELD: Brands is a future Defender - NewsBreak",
+        "title_full": "TRACK AND FIELD: Brands is a future Defender - NewsBreak",
+        "published": "2026-04-30T00:14:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1PDwh8_1AvG8w6y00",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6d4f0eafe7697d3efb9cc2e4259e0c16bb05522e",
+    "url": "https://www.newsbreak.com/news/4621038822600-track-and-field-brands-is-a-future-defender",
+    "ord_in_thread": 0,
+    "author": "Eric Viccaro",
+    "published": "2026-04-30T00:14:00.000+03:00",
+    "title": "TRACK AND FIELD: Brands is a future Defender - NewsBreak",
+    "text": "By Eric Viccaro ,\n7 hours ago SIOUX CENTER, Iowa — Standout Southwest Minnesota Christian/Edgerton sprinter Alyvia Brands has signed with Dordt University. The Dordt track and field program made it official with an Instagram post back in January. “I signed with Dordt because I love the Christian community, the encouraging coaches and the successful track... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->athletics",
+        "Sport->sports transaction",
+        "Sport->sport achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Eric Viccaro",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Iowa",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Edgerton",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Dordt University",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Egan"
+            ],
+            "state": [
+                "South Dakota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:40:46.107+03:00",
+    "updated": "2026-04-30T23:10:55.000+03:00"
+}

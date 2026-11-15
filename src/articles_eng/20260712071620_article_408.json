@@ -1,0 +1,154 @@
+{
+    "thread": {
+        "uuid": "9ed6b58611fc3b7a05989154fb052a46bf2dd8a0",
+        "url": "https://www.newsbreak.com/kron4-news-1589914/4759531431854-person-arrested-for-tenting-near-fremont-children-s-tutoring-center",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/san-jose-ca",
+        "site_categories": [
+            "crime, law and justice",
+            "human interest",
+            "arts, culture and entertainment",
+            "politics",
+            "economy, business and finance",
+            "under_construction",
+            "lifestyle and leisure",
+            "sport",
+            "disaster and accident",
+            "social issue"
+        ],
+        "section_title": "San Jose, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Person arrested for tenting near Fremont children's tutoring center - NewsBreak",
+        "title_full": "Person arrested for tenting near Fremont children's tutoring center - NewsBreak",
+        "published": "2026-07-09T03:18:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/26Dgte_1D7ogEex00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9ed6b58611fc3b7a05989154fb052a46bf2dd8a0",
+    "url": "https://www.newsbreak.com/kron4-news-1589914/4759531431854-person-arrested-for-tenting-near-fremont-children-s-tutoring-center",
+    "ord_in_thread": 0,
+    "author": "Tor Smith",
+    "published": "2026-07-09T03:18:00.000+03:00",
+    "title": "Person arrested for tenting near Fremont children's tutoring center - NewsBreak",
+    "text": "By Tor Smith ,\n4 hours ago\n(KRON) — The Fremont Police Department said a person was recently arrested after setting up a tent near a children’s tutoring center and refusing to leave.\nFremont police responded on June 26 near State Street and Capitol Avenue after getting multiple reports of a disturbance.\n“Visible debris and human waste were seen around the tent,” according to a police log of the incident.\nIt is not clear what potential charges they face.\nFremont has a city ordinance that prohibits camping on all public property, including city streets, sidewalks and parks, and allows the city to fine anyone who helps establish encampments.\nCopyright 2026 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. For the latest news, weather, sports, and streaming video, head to KRON4.",
+    "summary": "(KRON) — The Fremont Police Department said a person was recently arrested after setting up a tent near a children’s tutoring center and refusing to leave. Fremont police responded on June 26 near State Street and Capitol Avenue after getting multiple reports of a disturbance. “Visible debris and human waste were seen around the tent,” according to a police log of the incident. Copyright 2026 Nexstar Media, Inc. All rights reserved. For the latest news, weather, sports, and streaming video, head to KRON4.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kron4.com/nxs-video/vid-anvato-11683198/embed/?post_id=3070944&injected_via=feed&autoplay=false&preroll=true&autoplay=0",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=26Dgte_1D7ogEex00",
+        "https://www.kron4.com",
+        "https://img.particlenews.com/image.php?url=26Dgte_1D7ogEex00",
+        "https://www.img.particlenews.com/image.php?url=26Dgte_1D7ogEex00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=26Dgte_1D7ogEex00",
+        "https://kron4.com/nxs-video/vid-anvato-11683198/embed/?post_id=3070944&injected_via=feed&autoplay=false&preroll=true&autoplay=0",
+        "https://www.kron4.com/nxs-video/vid-anvato-11683198/embed/",
+        "https://kron4.com"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tor Smith",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Fremont",
+                "sentiment": "none"
+            },
+            {
+                "name": "State Street",
+                "sentiment": "none"
+            },
+            {
+                "name": "Capitol Avenue",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Fremont Police Department",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "South San Jose Hills"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:26:31.248+03:00",
+    "updated": "2026-07-09T07:30:23.000+03:00"
+}

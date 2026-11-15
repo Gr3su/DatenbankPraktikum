@@ -1,0 +1,157 @@
+{
+    "thread": {
+        "uuid": "668eb4145df7d64b069d688eeaeafc8f9bb83bd2",
+        "url": "https://roanoke.com/opinion/letters/article_fa794dbd-4301-4f4a-89a7-041028b8134b.html",
+        "site_full": "roanoke.com",
+        "site": "roanoke.com",
+        "site_section": "https://roanoke.com/search/?q=&t=article&l=100&d=&d1=&d2=&s=start_time&sd=desc&nsa=eedition&c%5B%5D=opinion,opinion/*&f=rss",
+        "site_categories": [
+            "politics",
+            "sport",
+            "arts, culture and entertainment",
+            "hobbies_and_interests",
+            "media",
+            "lifestyle and leisure",
+            "roleplaying_games",
+            "economy, business and finance"
+        ],
+        "section_title": "roanoke.com - RSS Results in opinion,opinion/* of type article",
+        "site_title": "Roanoke Times | Breaking News | roanoke.com | Read Roanoke, VA and Virginia breaking news. Get latest news, events and information on Virginia sports, weather, entertainment and lifestyles.",
+        "title": "Letter: What is Cline's position on data centers?",
+        "title_full": "Letter: What is Cline's position on data centers?",
+        "published": "2026-10-16T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/f/a7/fa794dbd-4301-4f4a-89a7-041028b8134b/6acee752c6cbd.preview.png?crop=700%2C368%2C0%2C16",
+        "performance_score": 0,
+        "domain_rank": 41656,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:05:25.906+03:00"
+        }
+    },
+    "uuid": "668eb4145df7d64b069d688eeaeafc8f9bb83bd2",
+    "url": "https://roanoke.com/opinion/letters/article_fa794dbd-4301-4f4a-89a7-041028b8134b.html",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-10-16T07:00:00.000+03:00",
+    "title": "Letter: What is Cline's position on data centers?",
+    "text": "Cardinal News reports that Congressman Ben Cline and Democratic candidate Beth Macy agree we need a moratorium on data center construction. Virginia leads in expansion of data centers, which use enormous amounts of water and electricity.\nLee Enterprises, Incorporated newspaper. Majority shareholder: David Hoffmann,\nHoffmann Media Group.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://hoffmannmediagroup.com/",
+        "https://lee.net/",
+        "https://www.hoffmannmediagroup.com/",
+        "https://www.lee.net/",
+        "https://hoffmannmediagroup.com",
+        "https://lee.net"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ben Cline",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Beth Macy",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "David Hoffmann",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Virginia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Cardinal News",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Lee Enterprises, Incorporated",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Hoffmann Media Group",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "board of directors of lee enterprises, incorporated",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "LEE",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Roanoke"
+            ],
+            "state": [
+                "Virginia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:05:25.906+03:00",
+    "updated": "2026-10-16T07:06:51.000+03:00",
+    "related_articles": null
+}

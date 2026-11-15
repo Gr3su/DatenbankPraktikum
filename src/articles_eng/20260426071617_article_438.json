@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "c315a97327ac507813b52d643f8a6e3945101c58",
+        "url": "https://www.ntd.com/ntdplus/uk-parliament-approves-smoking-ban_1140435.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://api.ntd.com/feed",
+        "site_categories": [
+            "politics",
+            "real_estate",
+            "architects",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "war, conflict and unrest",
+            "crime, law and justice",
+            "media"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "UK Parliament Approves Smoking Ban",
+        "title_full": "UK Parliament Approves Smoking Ban",
+        "published": "2026-04-23T06:58:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2023/11/id957453-GettyImages-1241198792.jpg-600x400.webp",
+        "performance_score": 0,
+        "domain_rank": 59249,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c315a97327ac507813b52d643f8a6e3945101c58",
+    "url": "https://www.ntd.com/ntdplus/uk-parliament-approves-smoking-ban_1140435.html",
+    "ord_in_thread": 0,
+    "author": "NTD Newsroom",
+    "published": "2026-04-23T06:58:00.000+03:00",
+    "title": "UK Parliament Approves Smoking Ban",
+    "text": "Open menu\nNTD Television\nsearch\nUK Parliament Approves Smoking Ban\nYou May Also like\nNTD Television\n© Copyright 2016 - 2026 All Rights Reserved",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Social Issue",
+        "Politics"
+    ],
+    "topics": [
+        "Social Issue->social condition",
+        "Politics->legislative body"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NTD Television",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-23T07:26:35.534+03:00",
+    "updated": "2026-04-23T07:29:52.000+03:00"
+}

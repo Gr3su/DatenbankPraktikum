@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "56d4d675f34d276f2702e22f504ed5200f44427d",
+        "url": "https://www.globaltimes.cn/page/202510/1345792.shtml",
+        "site_full": "www.globaltimes.cn",
+        "site": "globaltimes.cn",
+        "site_section": "https://news.google.com/search?q=such%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Global Times",
+        "title": "Trump claims Modi agreed to halt Russian oil imports; a move aimed at increasing pressure on Moscow, says expert - Global Times",
+        "title_full": "Trump claims Modi agreed to halt Russian oil imports; a move aimed at increasing pressure on Moscow, says expert - Global Times",
+        "published": "2025-10-16T06:47:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "https://www.globaltimes.cn/Portals/0/attachment/2025/2025-08-25/4d68711b-75f8-4779-b937-2793fb6c7ac2.jpeg",
+        "performance_score": 0,
+        "domain_rank": 7352,
+        "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "56d4d675f34d276f2702e22f504ed5200f44427d",
+    "url": "https://www.globaltimes.cn/page/202510/1345792.shtml",
+    "ord_in_thread": 0,
+    "author": "Global Times",
+    "published": "2025-10-16T06:47:00.000+03:00",
+    "title": "Trump claims Modi agreed to halt Russian oil imports; a move aimed at increasing pressure on Moscow, says expert - Global Times",
+    "text": "US President Donald Trump and India's Prime Minister Narendra Modi. Photo: VCG\nPresident Donald Trump told reporters at the White House that Indian Prime Minister Narendra Modi had assured him earlier Wednesday that India would halt imports of Russian oil. According to a Chinese analyst, Trump's remarks appear to be aimed at increasing pressure on Russia, particularly as his efforts to influence the Russia-Ukraine conflict have so far yielded little progress.\n\"He's assured me there will be no oil purchased from Russia - I don't know, maybe that's a breaking story, can I say that?\" Trump said from the Oval Office, according to CNN. He continued, \"there will be no oil, he's not buying his oil from Russia, it started - you know, you can't do it immediately, it's a little bit of a process, but the process is going to be over with soon.\"\nTrump has for months been calling on India to cease purchasing Russian oil, citing India's continued purchases of cheap Russian oil in escalating his trade war. In August, Trump announced a 25 percent tariff on India as a penalty for importing Russian oil and gas, building on a previously announced 25 percent tariff rate.\nIn a follow-up exchange on Wednesday, Trump called Modi \"a great man, and he loves Trump.\"\nYet as of the press time, Modi and the Indian Ministry of Foreign Affairs did not reply to such comments.\nSome Indian netizens have also taken notice of the news. INDIA, a X user based in Mumbai said that \"It is important to note that the Indian government has not yet confirmed this commitment.\"\nS.L.Kanthan, another India-based X user said that if it was true, \"that would be terrible news for India's sovereignty and India-Russia relations.\"\n\"Trump says Indian Prime Minister Modi assured him #India would stop buying Russian oil. Not a word from India or Modi on this. And not a word on when it would happen? Now? Tomorrow? In a month? A year?\" posted Rajiv Kunwar Bajaj, a India-based X user.\nTrump's claim that Modi had agreed to halt imports of Russian oil is likely a move aimed at pressuring Moscow, Qian Feng, director of the research department at the National Strategy Institute at Tsinghua University, told the Global Times. After all, Trump's involvement in the Russia-Ukraine conflict has so far failed to produce any tangible progress, Qian Feng, director of the research department at the National Strategy Institute at Tsinghua University, told the Global Times.\nBy releasing such information, Washington appears to be signaling to Moscow in hopes of nudging it toward a cease-fire on terms set by the US, Qian said, noting that however, given the close ties between Russia and India, the effectiveness of this strategy remains uncertain.\nThe US has long sought to pressure India on this issue, yet considering India's long-term foreign policy priorities and national interests, it is unlikely to fully abandon energy cooperation with Russia in the near future, Qian emphasized.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Narendra Modi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Oval Office",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "VCG",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Global Times",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "CNN",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "WBD",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-16T07:23:48.755+03:00",
+    "updated": "2025-10-16T07:23:48.755+03:00"
+}

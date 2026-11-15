@@ -1,0 +1,116 @@
+{
+    "thread": {
+        "uuid": "ca3e7069ce0beecd61ab2f465d93c41caf7b2bab",
+        "url": "https://www.chinadaily.com.cn/a/202611/06/WS6aed5596e4b03ebf8519acbd.html",
+        "site_full": "www.chinadaily.com.cn",
+        "site": "chinadaily.com.cn",
+        "site_section": "https://www.chinadaily.com.cn/regional/special",
+        "site_categories": [
+            "environment",
+            "economy, business and finance",
+            "science and technology",
+            "media",
+            "politics",
+            "travel",
+            "japan",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Special - Chinadaily.com.cn",
+        "site_title": "China Daily Website - Connecting China Connecting the World",
+        "title": "US voters hope for change, fear political gridlock",
+        "title_full": "US voters hope for change, fear political gridlock",
+        "published": "2026-11-06T06:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "http://img2.chinadaily.com.cn/images/202611/06/6aed5596e4b03ebf746300f0.jpeg",
+        "performance_score": 0,
+        "domain_rank": 2636,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-11-06T07:20:41.730+02:00"
+        }
+    },
+    "uuid": "ca3e7069ce0beecd61ab2f465d93c41caf7b2bab",
+    "url": "https://www.chinadaily.com.cn/a/202611/06/WS6aed5596e4b03ebf8519acbd.html",
+    "ord_in_thread": 0,
+    "author": "杜娟",
+    "published": "2026-11-06T06:20:00.000+02:00",
+    "title": "US voters hope for change, fear political gridlock",
+    "text": "As the US midterm elections reshape the balance of power in Congress, American voters are expressing both hopes for change and concerns over political gridlock. From reducing conflicts abroad and rebuilding global trust to stronger AI regulation, voters shared what they hope will change over the next two years.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->economy",
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->business information"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "US",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "positive",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_cn",
+            "top_news"
+        ],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-11-06T07:20:41.730+02:00",
+    "updated": "2026-11-06T07:24:57.000+02:00",
+    "related_articles": null
+}

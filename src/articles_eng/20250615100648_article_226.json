@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "71e1d52c9cf668caf827f845628b5399f6d13fa8",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4048529646723-severe-thunderstorm-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "published": "2025-06-12T05:01:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/423Kfr_11lOBftp00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "71e1d52c9cf668caf827f845628b5399f6d13fa8",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4048529646723-severe-thunderstorm-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-06-12T05:01:00.000+03:00",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here SVRHGX The National Weather Service in League City has issued a * Severe Thunderstorm Warning for... Southeastern Jackson County in south central Texas... West central Matagorda County in southeastern Texas... * Until 245 AM CDT. * At 201 AM CDT, a severe thunderstorm was located near Palacios, moving north at 15 mph. HAZARD...Golf ball size hail and 60 mph wind gusts. SOURCE...Radar indicated. IMPACT...People and animals outdoors will be injured. Expect hail damage to roofs, siding, windows, and vehicles. Expect wind damage to roofs, siding, and trees. * Locations impacted include... Palacios and Blessing.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.0bd088e354344dd0fc10eab204acdf7dea899334.001.1",
+        "https://alerts.weather.gov/search",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.0bd088e354344dd0fc10eab204acdf7dea899334.001.1"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Matagorda County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Palacios",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:14:24.507+03:00",
+    "updated": "2025-06-12T07:25:47.000+00:00"
+}

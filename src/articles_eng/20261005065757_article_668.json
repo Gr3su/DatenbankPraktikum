@@ -1,0 +1,159 @@
+{
+    "thread": {
+        "uuid": "01dd6f43f880fcdf3d5e2400ccb723b02f4938e5",
+        "url": "https://www.newsbreak.com/franklin-county-free-press-512945/4917480483585-six-area-golfers-qualify-for-district-3-tournament",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/hagerstown-md",
+        "site_categories": [
+            "crime, law and justice",
+            "human interest",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "politics",
+            "under_construction",
+            "sport",
+            "science and technology"
+        ],
+        "section_title": "Hagerstown, MD Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Six Area Golfers Qualify for District 3 Tournament - NewsBreak",
+        "title_full": "Six Area Golfers Qualify for District 3 Tournament - NewsBreak",
+        "published": "2026-09-30T20:50:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/179Bcc_1FeyIh6C00",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:24:40.604+03:00"
+        }
+    },
+    "uuid": "01dd6f43f880fcdf3d5e2400ccb723b02f4938e5",
+    "url": "https://www.newsbreak.com/franklin-county-free-press-512945/4917480483585-six-area-golfers-qualify-for-district-3-tournament",
+    "ord_in_thread": 0,
+    "author": "Free Press Publisher",
+    "published": "2026-09-30T20:50:00.000+03:00",
+    "title": "Six Area Golfers Qualify for District 3 Tournament - NewsBreak",
+    "text": "By Free Press Publisher ,\n1 days ago Six Franklin County golfers qualified for the District 3 tournament during Tuesday’s Mid Penn Championships at Range End Golf Club. Shippensburg’s Kaydee Beckenbaugh won the girls championship with a 4-over-par 75, finishing six strokes ahead of the field. Waynesboro’s Abby Byers placed 10th with an 89, while Chambersburg’s Abby Rensch qualified with a 98. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->golf",
+        "Sport->sport event"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://fcfreepresspa.com/six-area-golfers-qualify-for-district-3-tournament/",
+        "https://www.fcfreepresspa.com/six-area-golfers-qualify-for-district-3-tournament/",
+        "https://fcfreepresspa.com/six-area-golfers-qualify-for-district-3-tournament"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Abby Byers",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Abby Rensch",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Kaydee Beckenbaugh",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Range End Golf Club",
+                "sentiment": "none"
+            },
+            {
+                "name": "Franklin County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shippensburg",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Free Press",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Bagtown"
+            ],
+            "state": [
+                "Maryland"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:24:40.604+03:00",
+    "updated": "2026-10-02T07:26:34.000+03:00",
+    "related_articles": null
+}

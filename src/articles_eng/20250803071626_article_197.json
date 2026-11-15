@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "ccbf50fd874e11c3f5b67492f6d6cc948684afec",
+        "url": "https://www.hindustantimes.com/trending/millions-of-sex-toy-users-had-emails-and-accounts-exposed-by-app-flaw-101753934806437.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://news.google.com/search?q=had%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+        "title": "Millions of sex toy users had emails and accounts exposed by app flaw | Trending - Hindustan Times",
+        "title_full": "Millions of sex toy users had emails and accounts exposed by app flaw | Trending - Hindustan Times",
+        "published": "2025-07-31T07:12:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2025/07/31/1600x900/porn_nsfw_explicit_x_rated_1753935012648_1753935012843.png",
+        "performance_score": 0,
+        "domain_rank": 862,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ccbf50fd874e11c3f5b67492f6d6cc948684afec",
+    "url": "https://www.hindustantimes.com/trending/millions-of-sex-toy-users-had-emails-and-accounts-exposed-by-app-flaw-101753934806437.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2025-07-31T07:12:00.000+03:00",
+    "title": "Millions of sex toy users had emails and accounts exposed by app flaw | Trending - Hindustan Times",
+    "text": "Millions of sex toy users had emails and accounts exposed by app flaw\nA security researcher has claimed that serious flaws in the Lovense app exposed users’ email addresses and allowed full account takeovers\nA security researcher has claimed that serious flaws in the Lovense app exposed users’ email addresses and allowed full account takeovers for months, potentially exposing their purchase history.\nLovense, a popular maker of internet-connected sex toys with over 20 million users, was first alerted to the vulnerabilities in March. But according to the researcher, who goes by the handle BobDaHacker, the company delayed addressing the issues. One of them has still not been fully fixed.\nEmails exposed through app interactions\nThe researcher discovered that while using the Lovense app, it was possible to see other users’ email addresses through a network analysis tool. He discovered this vulnerability when he muted his ex-partner’s account and it exposed their email.\n“Just muting someone exposed their email… After digging deeper, I figured out how to turn any username into their email address,” the security researcher wrote in a blog post. “This was especially bad for cam models who share their usernames publicly but obviously don’t want their personal emails exposed.”\nA TechCrunch report confirmed the vulnerability by creating a new account and asking the researcher to find the registered email, which they did in under a minute. According to BobDaHacker, a script could reportedly automate this process in less than a second — potentially exposing millions of users and their purchasing activity.\nAccount takeover possible with just an email\nA second vulnerability discovered by the researcher allowed anyone to take over a Lovense user’s account using just their email address. The flaw involved the ability to generate valid authentication tokens without needing the user’s password.\n“Cam models use these tools for work, so this was a huge deal. Literally anyone could take over any account just by knowing the email address,” BobDaHacker said.\nLovense says it’s fixing the bugs… eventually\nLovense was informed of the issues on March 26, via the Internet of Dongs — a project that helps report security flaws in sex tech. The company paid the researcher $3,000 through HackerOne as part of a bug bounty.\nHowever, after months of discussions, Lovense reportedly said it would need 14 months to roll out a fix for the email disclosure issue in order to avoid disrupting users with legacy devices.\n“We also evaluated a faster, one-month fix. However, it would require forcing all users to upgrade immediately, which would disrupt support for legacy versions,” Lovense told the researcher, according to the blog post.\nIn a recent statement to Bleeping Computer, Lovense said an app update “addressing the latest vulnerabilities” has been submitted to app stores. “The full update is expected to be pushed to all users within the next week,” the company said.\nTrending NewsViral News, Video, Photos and\nWeather Updatesof India and around the world\nTrending NewsViral News, Video, Photos and\nWeather Updatesof India and around the world",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology",
+        "Social Issue"
+    ],
+    "topics": [
+        "Science and Technology->technology and engineering",
+        "Social Issue->social networking",
+        "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+        "https://techcrunch.com/2025/07/29/sex-toy-maker-lovense-caught-leaking-users-email-addresses-and-exposing-accounts-to-takeovers/",
+        "https://bobdahacker.com/blog/lovense-still-leaking-user-emails",
+        "https://www.bobdahacker.com/blog/lovense-still-leaking-user-emails",
+        "https://www.techcrunch.com/2025/07/29/sex-toy-maker-lovense-caught-leaking-users-email-addresses-and-exposing-accounts-to-takeovers/",
+        "https://techcrunch.com/2025/07/29/sex-toy-maker-lovense-caught-leaking-users-email-addresses-and-exposing-accounts-to-takeovers"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Hindustan Times",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:20:55.381+03:00",
+    "updated": "2025-07-31T07:24:17.000+03:00"
+}

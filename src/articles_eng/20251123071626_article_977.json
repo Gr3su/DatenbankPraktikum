@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "958b58fb77a4620917b6e338ea6e9242fc2481d8",
+        "url": "https://www.newsbreak.com/news/4356885265425-police-investigating-after-tacks-scattered-in-cambridge-bike-lane-damaged-several-tires",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://newsbreak.com/boston-ma",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Boston, MA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Police investigating after tacks scattered in Cambridge bike lane damaged several tires - NewsBreak",
+        "title_full": "Police investigating after tacks scattered in Cambridge bike lane damaged several tires - NewsBreak",
+        "published": "2025-11-20T00:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/35H7G3_16h5eIu000",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-11-16T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "958b58fb77a4620917b6e338ea6e9242fc2481d8",
+    "url": "https://www.newsbreak.com/news/4356885265425-police-investigating-after-tacks-scattered-in-cambridge-bike-lane-damaged-several-tires",
+    "ord_in_thread": 0,
+    "author": "Stephen Quinn",
+    "published": "2025-11-20T00:37:00.000+02:00",
+    "title": "Police investigating after tacks scattered in Cambridge bike lane damaged several tires - NewsBreak",
+    "text": "By Stephen Quinn ,\n7 hours ago CAMBRIDGE, MASS. (WHDH) - Police in Cambridge are investigating after several bike riders reported that tacks scattered on the ground throughout a bike lane became stuck in their wheels and damaged their tires. Aaron Levine said he was riding his bike Thursday night when he felt damage to his tire.... Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->accident and emergency incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Stephen Quinn",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Aaron Levine",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "WHDH",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "WHD",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-11-20T07:37:56.867+02:00",
+    "updated": "2025-11-20T07:45:48.000+02:00"
+}

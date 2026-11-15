@@ -1,0 +1,151 @@
+{
+    "thread": {
+        "uuid": "468875c9a69695f7267e80ff8b8bb9bc4cbcc964",
+        "url": "https://www.newsbreak.com/news/4909545608190-we-re-chasing-our-tail-kiro-hosts-warn-seattle-s-911-response-times-reveal-a-problem-no-new-chief-can-fix-alone",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sitemap-news-87.xml",
+        "site_categories": [
+            "under_construction",
+            "sport",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "politics",
+            "human interest",
+            "crime, law and justice",
+            "economy, business and finance"
+        ],
+        "section_title": "",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "'We're chasing our tail': KIRO hosts warn Seattle's 911 response times reveal a problem no new chief can fix alone - NewsBreak",
+        "title_full": "'We're chasing our tail': KIRO hosts warn Seattle's 911 response times reveal a problem no new chief can fix alone - NewsBreak",
+        "published": "2026-09-26T15:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3dreIJ_1FWyb9M600",
+        "performance_score": 0,
+        "domain_rank": 3126,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-09-27T12:48:56.459+03:00"
+        }
+    },
+    "uuid": "468875c9a69695f7267e80ff8b8bb9bc4cbcc964",
+    "url": "https://www.newsbreak.com/news/4909545608190-we-re-chasing-our-tail-kiro-hosts-warn-seattle-s-911-response-times-reveal-a-problem-no-new-chief-can-fix-alone",
+    "ord_in_thread": 0,
+    "author": "MyNorthwest.com",
+    "published": "2026-09-26T15:00:00.000+03:00",
+    "title": "'We're chasing our tail': KIRO hosts warn Seattle's 911 response times reveal a problem no new chief can fix alone - NewsBreak",
+    "text": "21 hours ago If you call 911 in Seattle for a life-or-death emergency, police will arrive in about 11 to 12 minutes on average. If your car is broken into or your home is burglarized, you could wait nearly three hours if an officer comes at all. Seattle Police Department (SPD) data shows... Read full article\n10",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->police"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://mynorthwest.com/kiro-opinion/seattle-police-response-times/4279937",
+        "https://www.mynorthwest.com/kiro-opinion/seattle-police-response-times/4279937"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Seattle",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Seattle Police Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "SPD",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "SPD",
+                        "exchange": "NYSEARCA"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "KIRO",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-27T12:48:56.459+03:00",
+    "updated": "2026-09-27T12:53:06.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "d347d1dc92ff5a668f3ecf9fd1700030bbce3d11",
+        "url": "https://www.newsbreak.com/news/4960804617536-update-williamsport-incident-tied-to-arson-investigation-warrant-issued-for-woman",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/harrisburg-pa",
+        "site_categories": [
+            "sport",
+            "under_construction",
+            "lifestyle and leisure",
+            "politics",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "economy, business and finance"
+        ],
+        "section_title": "Harrisburg, PA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "UPDATE: Williamsport incident tied to arson investigation; warrant issued for woman - NewsBreak",
+        "title_full": "UPDATE: Williamsport incident tied to arson investigation; warrant issued for woman - NewsBreak",
+        "published": "2026-10-22T17:04:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0NZMsp_1GLcWej500",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T07:09:16.691+03:00"
+        }
+    },
+    "uuid": "d347d1dc92ff5a668f3ecf9fd1700030bbce3d11",
+    "url": "https://www.newsbreak.com/news/4960804617536-update-williamsport-incident-tied-to-arson-investigation-warrant-issued-for-woman",
+    "ord_in_thread": 0,
+    "author": "FOX56 NEWSROOM/WILLIAMSPORT SUN-GAZETTE",
+    "published": "2026-10-22T17:04:00.000+03:00",
+    "title": "UPDATE: Williamsport incident tied to arson investigation; warrant issued for woman - NewsBreak",
+    "text": "By FOX56 NEWSROOM/WILLIAMSPORT SUN-GAZETTE ,\n14 hours ago WILLIAMSPORT, LYCOMING CO. (WOLF) — Pennsylvania State Police have issued an arrest warrant for a 37-year-old woman accused of setting fire to a couch inside an occupied Montoursville home before going to a home on Dewey Avenue in Williamsport. Police said firefighters responded to the Spruce Street home in... Read full article\n12",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arson"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://fox56.com/news/local/part-of-dewey-avenue-closed-during-active-police-incident",
+        "https://www.fox56.com/news/local/part-of-dewey-avenue-closed-during-active-police-incident"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fangry.da7a9102.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Montoursville",
+                "sentiment": "none"
+            },
+            {
+                "name": "##N",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dewey Avenue",
+                "sentiment": "none"
+            },
+            {
+                "name": "Williamsport",
+                "sentiment": "none"
+            },
+            {
+                "name": "Spruce Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "lvania State Police",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Union Deposit"
+            ],
+            "state": [
+                "Pennsylvania"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:09:16.691+03:00",
+    "updated": "2026-10-23T07:10:59.000+03:00",
+    "related_articles": null
+}

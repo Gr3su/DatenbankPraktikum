@@ -1,0 +1,155 @@
+{
+    "thread": {
+        "uuid": "2ce2f875f9f7da0fd2bf13cde43af14bf5451b80",
+        "url": "https://www.newsbreak.com/news/4851414904235-50-arrested-by-ice-in-danbury-officials-and-protesters-clash-over-how-to-respond",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/bridgeport-ct",
+        "site_categories": [
+            "human interest",
+            "social issue",
+            "politics",
+            "science and technology",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "under_construction",
+            "sport",
+            "economy, business and finance",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Bridgeport, CT Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "50 arrested by ICE in Danbury; officials and protesters clash over how to respond - NewsBreak",
+        "title_full": "50 arrested by ICE in Danbury; officials and protesters clash over how to respond - NewsBreak",
+        "published": "2026-08-27T02:26:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/37o00P_1EbOS2RW00",
+        "performance_score": 0,
+        "domain_rank": 3157,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2ce2f875f9f7da0fd2bf13cde43af14bf5451b80",
+    "url": "https://www.newsbreak.com/news/4851414904235-50-arrested-by-ice-in-danbury-officials-and-protesters-clash-over-how-to-respond",
+    "ord_in_thread": 0,
+    "author": "WSHU",
+    "published": "2026-08-27T02:26:00.000+03:00",
+    "title": "50 arrested by ICE in Danbury; officials and protesters clash over how to respond - NewsBreak",
+    "text": "By WSHU ,\n4 hours ago At least 50 people have been arrested by federal immigration officers in Danbury this week. Around Connecticut, ICE activity has been ramping up. It’s unclear why now, or how long the operation will last. Clementina Lunar is a volunteer with Danbury Unites for Immigrants, an organization that helps families... Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->human smuggling and trafficking",
+        "Crime, Law and Justice->law enforcement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wshu.org/connecticut-news/2026-08-26/50-arrested-by-ice-in-danbury-officials-and-protesters-clash-over-how-to-respond",
+        "https://wshu.org/connecticut-news/2026-08-26/50-arrested-by-ice-in-danbury-officials-and-protesters-clash-over-how-to-respond"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Clementina Lunar",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Danbury",
+                "sentiment": "none"
+            },
+            {
+                "name": "Connecticut",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "ICE",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "WSHU",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Danbury Unites for Immigrants",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Bridgeport"
+            ],
+            "state": [
+                "Connecticut"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:06:34.224+03:00",
+    "updated": "2026-08-27T07:26:01.000+03:00"
+}

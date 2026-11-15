@@ -1,0 +1,159 @@
+{
+    "thread": {
+        "uuid": "a817a0fb4d6d69a1a5a174a5a21010a6f6a4bec6",
+        "url": "https://www.newsbreak.com/wide-open-country-510733/4838718838984-two-planes-suffer-tire-blowouts-at-airport-just-hours-apart",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/wide-open-country-510733",
+        "site_categories": [
+            "politics",
+            "crime, law and justice",
+            "social issue",
+            "arts, culture and entertainment",
+            "human interest",
+            "sport",
+            "economy, business and finance",
+            "under_construction",
+            "lifestyle and leisure",
+            "science and technology"
+        ],
+        "section_title": "Wide Open Country&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Two Planes Suffer Tire Blowouts at Airport Just Hours Apart - NewsBreak",
+        "title_full": "Two Planes Suffer Tire Blowouts at Airport Just Hours Apart - NewsBreak",
+        "published": "2026-08-20T04:04:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3LK24P_1EObVKNG00",
+        "performance_score": 0,
+        "domain_rank": 3070,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a817a0fb4d6d69a1a5a174a5a21010a6f6a4bec6",
+    "url": "https://www.newsbreak.com/wide-open-country-510733/4838718838984-two-planes-suffer-tire-blowouts-at-airport-just-hours-apart",
+    "ord_in_thread": 0,
+    "author": "Judy Bass",
+    "published": "2026-08-20T04:04:00.000+03:00",
+    "title": "Two Planes Suffer Tire Blowouts at Airport Just Hours Apart - NewsBreak",
+    "text": "By Judy Bass ,\n1 days ago Two planes recently had tire blowouts at busy O'Hare Airport in Chicago. The incidents occurred just three hours apart on Monday, August 17, per the New York Post. According to the outlet, \"An American Airlines plane...suffered tire damage when it landed just after 2 p.m. local time Monday before a United aircraft experienced the same issue later that day.\" Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wideopencountry.com/two-planes-suffer-tire-blowouts-at-airport-just-hours-apart/",
+        "https://wideopencountry.com/two-planes-suffer-tire-blowouts-at-airport-just-hours-apart/",
+        "https://www.wideopencountry.com/two-planes-suffer-tire-blowouts-at-airport-just-hours-apart"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Judy Bass",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "O ' Hare Airport",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chicago",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "New York Post",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "United",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "UAL",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "American Airlines",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "AAL",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:05:40.224+03:00",
+    "updated": "2026-08-21T11:49:44.158+03:00"
+}

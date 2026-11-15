@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "3f142514d95078cb4065759f61ccafb3825b366a",
+        "url": "https://www.newsbreak.com/news/4811252235197-actress-linda-blair-cited-after-251-dogs-found-at-unlicensed-acton-rescue-facility",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/palmdale-ca",
+        "site_categories": [
+            "human interest",
+            "economy, business and finance",
+            "sport",
+            "social issue",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "health",
+            "arts, culture and entertainment",
+            "under_construction"
+        ],
+        "section_title": "Palmdale, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Actress Linda Blair cited after 251 dogs found at unlicensed Acton rescue facility - NewsBreak",
+        "title_full": "Actress Linda Blair cited after 251 dogs found at unlicensed Acton rescue facility - NewsBreak",
+        "published": "2026-08-05T20:43:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0GReLy_1DxvvZEN00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3f142514d95078cb4065759f61ccafb3825b366a",
+    "url": "https://www.newsbreak.com/news/4811252235197-actress-linda-blair-cited-after-251-dogs-found-at-unlicensed-acton-rescue-facility",
+    "ord_in_thread": 0,
+    "author": "FOX 11 Digital Team",
+    "published": "2026-08-05T20:43:00.000+03:00",
+    "title": "Actress Linda Blair cited after 251 dogs found at unlicensed Acton rescue facility - NewsBreak",
+    "text": "By FOX 11 Digital Team ,\n10 hours ago Actress Linda Blair was cited after inspectors discovered 251 dogs at her 2.5-acre Acton animal rescue facility, exceeding the residence limits. Los Angeles County officials noted the property's animal facility license expired in 2023, following 24 unanswered or refused inspection attempts over three years. No animals were seized, but authorities... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue"
+    ],
+    "topics": [
+        "Social Issue->charity",
+        "Social Issue->family",
+        "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.foxla.com/news/linda-blair-cited-acton-animal-rescue-251-dogs.amp",
+        "https://foxla.com/news/linda-blair-cited-acton-animal-rescue-251-dogs.amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Linda Blair",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Acton",
+                "sentiment": "none"
+            },
+            {
+                "name": "Los Angeles County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FOX 11 Digital Team",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Palmdale"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:05:08.800+03:00",
+    "updated": "2026-08-06T07:16:14.000+03:00"
+}

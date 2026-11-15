@@ -1,0 +1,155 @@
+{
+    "thread": {
+        "uuid": "0c6ee9a992e5393b85cbef98428c1dc5ede68d86",
+        "url": "https://www.newsbreak.com/news/4934256011682-sentryworld-first-of-wisconsin-s-courses-to-close-for-the-season-but-two-in-northwoods-will-join-the-list-this-weekend",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/theresa-wi",
+        "site_categories": [
+            "sport",
+            "science and technology",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "under_construction",
+            "politics",
+            "economy, business and finance",
+            "crime, law and justice"
+        ],
+        "section_title": "Theresa, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "SentryWorld first of Wisconsin's courses to close for the season, but two in Northwoods will join the list this weekend - NewsBreak",
+        "title_full": "SentryWorld first of Wisconsin's courses to close for the season, but two in Northwoods will join the list this weekend - NewsBreak",
+        "published": "2026-10-09T02:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4U4dm9_1FvsDBZy00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:35:45.670+03:00"
+        }
+    },
+    "uuid": "0c6ee9a992e5393b85cbef98428c1dc5ede68d86",
+    "url": "https://www.newsbreak.com/news/4934256011682-sentryworld-first-of-wisconsin-s-courses-to-close-for-the-season-but-two-in-northwoods-will-join-the-list-this-weekend",
+    "ord_in_thread": 0,
+    "author": "ROB HERNANDEZ",
+    "published": "2026-10-09T02:00:00.000+03:00",
+    "title": "SentryWorld first of Wisconsin's courses to close for the season, but two in Northwoods will join the list this weekend - NewsBreak",
+    "text": "By ROB HERNANDEZ ,\n5 hours ago SentryWorld in Stevens Point became the first golf course in Wisconsin to close for the season after play Oct. 3, but others aren't far behind. At least two courses in the Northwoods, Eagle River Golf Course (Friday) and Northwoods GC in Rhinelander (Sunday), will close this weekend. Erin Hills near Hartford will close for the season after play Oct. 17. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sport venue"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wisconsin.golf/courses/sentryworld-first-of-wisconsins-courses-to-close-for-the-season-but-two-in-northwoods-will/article_3a2344bd-46a1-4ef7-9829-05100aeceaa1.html",
+        "https://wisconsin.golf/courses/sentryworld-first-of-wisconsins-courses-to-close-for-the-season-but-two-in-northwoods-will/article_3a2344bd-46a1-4ef7-9829-05100aeceaa1.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "##OB HERNANDEZ",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Erin Hills",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rhinelander",
+                "sentiment": "none"
+            },
+            {
+                "name": "Stevens Point",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hartford",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wisconsin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Northwoods",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "SentryWorld",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Theresa"
+            ],
+            "state": [
+                "Wisconsin"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:35:45.670+03:00",
+    "updated": "2026-10-09T07:38:38.000+03:00",
+    "related_articles": null
+}

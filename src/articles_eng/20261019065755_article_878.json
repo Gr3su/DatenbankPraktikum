@@ -1,0 +1,132 @@
+{
+    "thread": {
+        "uuid": "1d3b7979d4fd7ecc2a621b75f33fcb3ba2b668b5",
+        "url": "https://www.newsbreak.com/wral-news-556047/4948372086338-police-3-students-teacher-dead-in-oregon-elementary-school-shooting-bystander-killed-suspect",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/wral-news-556047",
+        "site_categories": [
+            "politics",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "under_construction",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "sport"
+        ],
+        "section_title": "WRAL News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Police: 3 students & teacher dead in Oregon elementary school shooting; bystander killed suspect - NewsBreak",
+        "title_full": "Police: 3 students & teacher dead in Oregon elementary school shooting; bystander killed suspect - NewsBreak",
+        "published": "2026-10-16T00:15:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2PZscj_1G95Isl200",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:29:34.623+03:00"
+        }
+    },
+    "uuid": "1d3b7979d4fd7ecc2a621b75f33fcb3ba2b668b5",
+    "url": "https://www.newsbreak.com/wral-news-556047/4948372086338-police-3-students-teacher-dead-in-oregon-elementary-school-shooting-bystander-killed-suspect",
+    "ord_in_thread": 0,
+    "author": "WRAL News",
+    "published": "2026-10-16T00:15:00.000+03:00",
+    "title": "Police: 3 students & teacher dead in Oregon elementary school shooting; bystander killed suspect - NewsBreak",
+    "text": "By WRAL News wire reports ,\n7 hours ago A teacher, three students and the suspect are dead following a shooting at an elementary school in Bend, Oregon. \"This is something we never want to happen anywhere, but especially, and particularly, here in our beautiful community in Bend,\" said Mike Krantz, Bend's police chief. \"There are not any words I can say to you to make this better.\" Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->homicide",
+        "War, Conflict and Unrest->massacre",
+        "War, Conflict and Unrest->armed conflict"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wral.com/news/ap/active-shooter-elementary-school-bend-oregon-october-2026/",
+        "https://wral.com/news/ap/active-shooter-elementary-school-bend-oregon-october-2026/",
+        "https://www.wral.com/news/ap/active-shooter-elementary-school-bend-oregon-october-2026"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mike Krantz",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Oregon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bend",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "WRAL News",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:29:34.623+03:00",
+    "updated": "2026-10-16T07:32:42.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,155 @@
+{
+    "thread": {
+        "uuid": "f8d0d07f911d15318f799915b6311cf21d04791b",
+        "url": "https://www.newsbreak.com/news/4890887072559-rodent-droppings-in-san-jose-safeway-leads-to-temporary-closure",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/mountain-view-ca",
+        "site_categories": [
+            "economy, business and finance",
+            "human interest",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "politics",
+            "social issue",
+            "lifestyle and leisure",
+            "under_construction",
+            "sport"
+        ],
+        "section_title": "Mountain View, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Rodent droppings in San Jose Safeway leads to temporary closure - NewsBreak",
+        "title_full": "Rodent droppings in San Jose Safeway leads to temporary closure - NewsBreak",
+        "published": "2026-09-17T06:34:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0lZAx7_1FEA92As00",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f8d0d07f911d15318f799915b6311cf21d04791b",
+    "url": "https://www.newsbreak.com/news/4890887072559-rodent-droppings-in-san-jose-safeway-leads-to-temporary-closure",
+    "ord_in_thread": 0,
+    "author": "Stephanie Rothman",
+    "published": "2026-09-17T06:34:00.000+03:00",
+    "title": "Rodent droppings in San Jose Safeway leads to temporary closure - NewsBreak",
+    "text": "By Stephanie Rothman ,\n1 hours ago SAN JOSE, Calif. (KRON) — A Safeway supermarket on Hamilton Avenue in San José was closed on Monday and Tuesday following reports of rodent droppings found inside the store. The facility passed a follow-up health inspection on Tuesday and has since reopened to shoppers. The closure was ordered... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->health treatment and procedure",
+        "Health->disease and condition",
+        "Health->medical service",
+        "Health->health facility"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kron4.com/news/bay-area/rodent-droppings-in-san-jose-safeway-leads-to-temporary-closure/amp/",
+        "https://kron4.com/news/bay-area/rodent-droppings-in-san-jose-safeway-leads-to-temporary-closure/amp/",
+        "https://www.kron4.com/news/bay-area/rodent-droppings-in-san-jose-safeway-leads-to-temporary-closure/amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Stephanie Rothman",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Hamilton Ave",
+                "sentiment": "none"
+            },
+            {
+                "name": "Calif",
+                "sentiment": "none"
+            },
+            {
+                "name": "San Jose",
+                "sentiment": "none"
+            },
+            {
+                "name": "San José",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Safeway",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Mountain View"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T07:48:37.360+03:00",
+    "updated": "2026-09-17T07:56:27.000+03:00"
+}

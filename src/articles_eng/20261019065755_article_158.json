@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "7d06e9bff4fa5c018944813dd87913fc4c30f152",
+        "url": "https://www.newsbreak.com/news/4948396897564-espn-bringing-sportscenter-to-university-of-memphis",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/west-memphis-ar",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "politics",
+            "economy, business and finance",
+            "sport",
+            "lifestyle and leisure",
+            "crime, law and justice"
+        ],
+        "section_title": "West Memphis, AR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "ESPN bringing 'Sportscenter' to University of Memphis - NewsBreak",
+        "title_full": "ESPN bringing 'Sportscenter' to University of Memphis - NewsBreak",
+        "published": "2026-10-16T00:49:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1cXgZp_1G96t60100",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:05:10.347+03:00"
+        }
+    },
+    "uuid": "7d06e9bff4fa5c018944813dd87913fc4c30f152",
+    "url": "https://www.newsbreak.com/news/4948396897564-espn-bringing-sportscenter-to-university-of-memphis",
+    "ord_in_thread": 0,
+    "author": "actionnews5.com",
+    "published": "2026-10-16T00:49:00.000+03:00",
+    "title": "ESPN bringing 'Sportscenter' to University of Memphis - NewsBreak",
+    "text": "6 hours ago MEMPHIS, Tenn. (WMC) - ESPN is bringing its flagship show Sportscenter to the University of Memphis. The show will be broadcast from Tiger Lane on Thursday, October 22 before the Tigers’ matchup with East Carolina. The show will be broadcast at 4 p.m. ahead of the 6:30 kickoff, with... Read full article\n3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sport achievement",
+        "Sport->sport industry"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.actionnews5.com/2026/10/15/espn-bringing-sportscenter-university-memphis/",
+        "https://www.actionnews5.com/2026/10/15/espn-bringing-sportscenter-university-memphis",
+        "https://actionnews5.com/2026/10/15/espn-bringing-sportscenter-university-memphis/"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Memphis",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ESPN",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": "ESPN",
+                        "exchange": "CVE"
+                    }
+                ]
+            },
+            {
+                "name": "Tigers",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "East Carolina",
+                "sentiment": "positive",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "West Memphis"
+            ],
+            "state": [
+                "Arkansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:05:10.347+03:00",
+    "updated": "2026-10-16T07:06:32.000+03:00",
+    "related_articles": null
+}

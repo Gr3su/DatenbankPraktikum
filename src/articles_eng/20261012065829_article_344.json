@@ -1,0 +1,154 @@
+{
+    "thread": {
+        "uuid": "a543120a3db696c97bac73f13238ad8903e646bc",
+        "url": "https://tass.com/world/2199629",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/world/1874311",
+        "site_categories": [
+            "war, conflict and unrest",
+            "economy, business and finance",
+            "science and technology",
+            "media",
+            "politics"
+        ],
+        "section_title": "Colombia agrees with Russia to establish group on mercenaries situation — Foreign Minister -  World - TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Pentagon prepares to resume military action against Iran - NYT",
+        "title_full": "Pentagon prepares to resume military action against Iran - NYT",
+        "published": "2026-10-09T06:02:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261009/1489227.jpg",
+        "performance_score": 0,
+        "domain_rank": 14819,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:08:47.794+03:00"
+        }
+    },
+    "uuid": "a543120a3db696c97bac73f13238ad8903e646bc",
+    "url": "https://tass.com/world/2199629",
+    "ord_in_thread": 0,
+    "author": "TASS",
+    "published": "2026-10-09T06:02:00.000+03:00",
+    "title": "Pentagon prepares to resume military action against Iran - NYT",
+    "text": "NEW YORK, October 9. /TASS/. The US military is examining the possibility of resuming the full-fledged military operation against Iran, despite President Donald Trump’s earlier remarks, The New York Times (NYT) wrote citing unnamed US administration officials.\nThe newspaper says that three aircraft carriers will soon be deployed in the Middle East. The Pentagon is also drafting plans of striking missile and drone storage facilities in Iran, as well as other military and energy industry targets in the country.\nOver the past several months, the Pentagon and Trump’s national security team submitted to the president five proposals regarding a large-scale military operation against Iran or Yemen’s rebel Ansar Allah (Houthi) movement. Trump rejected all of them, the report says.\nAt the same time, many officials from Trump’s inner circle believe that a military operation against Iran will have no effect on Tehran’s plans. Some of them are convinced that the policy of economic pressure on Iran will eventually produce its result, but it will take slightly more time to pressure Tehran into making serious concessions.\nEarlier on Thursday, Trump said the United States plans no strikes on Iran until the midterm elections to the US Congress, due on November 3.\nThe United States and Israel launched a war against Iran on February 28. In June, Washington and Tehran signed a memorandum of understanding envisaging an immediate ceasefire on all fronts, including in Lebanon. However, the United States resumed large-scale attacks on Iran overnight to July 8, having accused it of breaching the existing agreements in what concerned the Strait of Hormuz, a global chokepoint for approximately 25% of oil and some 20% of LNG supplies.\nThe Trump administration recently signaled an end to any large-scale use of force against Iran and a transition to putting economic pressure on the Islamic Republic through sanctions instead.",
+    "summary": "The Pentagon is also drafting plans of striking missile and drone storage facilities in Iran, as well as other military and energy industry targets in the country. Over the past several months, the Pentagon and Trump’s national security team submitted to the president five proposals regarding a large-scale military operation against Iran or Yemen’s rebel Ansar Allah (Houthi) movement. Earlier on Thursday, Trump said the United States plans no strikes on Iran until the midterm elections to the US Congress, due on November 3.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->war"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nytimes.com/",
+        "https://www.nytimes.com",
+        "https://nytimes.com/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Middle East",
+                "sentiment": "none"
+            },
+            {
+                "name": "Iran",
+                "sentiment": "none"
+            },
+            {
+                "name": "NEW YORK",
+                "sentiment": "none"
+            },
+            {
+                "name": "US",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NYT",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Pentagon",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "The New York Times",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:08:47.794+03:00",
+    "updated": "2026-10-09T07:10:41.000+03:00",
+    "related_articles": null
+}

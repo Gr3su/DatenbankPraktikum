@@ -1,0 +1,112 @@
+{
+    "thread": {
+        "uuid": "6a9aa7d8c71963b1256d4472962a15061b72832c",
+        "url": "https://www.newsbreak.com/news/4226675960104-eagles-kick-off-fall-seasons",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/wyoming-ia",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Wyoming, IA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Eagles kick off fall seasons - NewsBreak",
+        "title_full": "Eagles kick off fall seasons - NewsBreak",
+        "published": "2025-09-10T19:35:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6a9aa7d8c71963b1256d4472962a15061b72832c",
+    "url": "https://www.newsbreak.com/news/4226675960104-eagles-kick-off-fall-seasons",
+    "ord_in_thread": 0,
+    "author": "Monticello Express",
+    "published": "2025-09-10T19:35:00.000+03:00",
+    "title": "Eagles kick off fall seasons - NewsBreak",
+    "text": "Monticello Express\nwebsite\nMonticello\nEagles kick off fall seasons\n12 hours ago\nMaking the move up Class A, the Midland football team has celebrated a 2-0 start to the season. It was a 32-10 win over Postville on Aug. 29 in week one, and then a 25-7 win over North Cedar on Sept. 4. In Postville for the season opener, the Eagles...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "North Cedar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Postville",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Monticello Express",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Monticello\nEagles",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Wyoming"
+            ],
+            "state": [
+                "Iowa"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-11T07:24:16.206+03:00",
+    "updated": "2025-09-11T07:51:35.501+03:00"
+}

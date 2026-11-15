@@ -1,0 +1,140 @@
+{
+    "thread": {
+        "uuid": "39ed6b43c23d2ad0738735b0b7d8d29a72a7d277",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
+        "site_full": "www.sciencedaily.com",
+        "site": "sciencedaily.com",
+        "site_section": "https://news.google.com/search?q=their%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+        "site_categories": [
+            "media",
+            "space_astronomy",
+            "science and technology",
+            "education",
+            "health",
+            "cold_and_flu",
+            "science"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "ScienceDaily: Your source for the latest research news",
+        "title": "NASA astronauts splash down after 100 million miles in space | ScienceDaily",
+        "title_full": "NASA astronauts splash down after 100 million miles in space | ScienceDaily",
+        "published": "2026-10-08T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.sciencedaily.com/images/1920/nasa-spacex-crew-12-splash-down.webp",
+        "performance_score": 0,
+        "domain_rank": 1970,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T04:07:40.000+00:00"
+        }
+    },
+    "uuid": "39ed6b43c23d2ad0738735b0b7d8d29a72a7d277",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-10-08T03:00:00.000+03:00",
+    "title": "NASA astronauts splash down after 100 million miles in space | ScienceDaily",
+    "text": "NASA’s SpaceX Crew-12 astronauts have returned to Earth after 237 days in space, traveling more than 100 million miles and completing over 3,792 orbits while conducting research to prepare for future missions to the Moon and Mars. The mission also made history with record-setting spacewalk achievements and experiments that could transform medicine both in space and on Earth.",
+    "summary": "The four astronauts spent 237 days in orbit, traveled more than 100 million miles, and completed thousands of trips around Earth while carrying out scientific experiments that could help shape future missions to the Moon and Mars. NASA will host a news conference at 3:30 p.m. EDT on Thursday, Oct. 15, at Johnson Space Center in Houston, where returning crew members will discuss their experiences and research accomplishments.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->astronomy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Earth",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mars",
+                "sentiment": "none"
+            },
+            {
+                "name": "Moon",
+                "sentiment": "none"
+            },
+            {
+                "name": "International Space Station",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ScienceDaily",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NASA",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_iq",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:02:47.336+03:00",
+    "updated": "2026-10-09T18:15:13.516+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "46f6055c0a6d0679ed6da9f2c5057d944377bf77",
+        "url": "https://www.newsbreak.com/news/4702400219833-update-57-year-old-found-deceased-inside-free-bridge-encampment-tent",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/charlottesville-va",
+        "site_categories": [
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "human interest",
+            "sport",
+            "politics",
+            "under_construction",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "disaster and accident"
+        ],
+        "section_title": "Charlottesville, VA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Update: 57-year old found deceased inside Free Bridge encampment tent - NewsBreak",
+        "title_full": "Update: 57-year old found deceased inside Free Bridge encampment tent - NewsBreak",
+        "published": "2026-06-10T14:17:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0jP6Gf_1CDEzLMh00",
+        "performance_score": 0,
+        "domain_rank": 2951,
+        "domain_rank_updated": "2026-06-08T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "46f6055c0a6d0679ed6da9f2c5057d944377bf77",
+    "url": "https://www.newsbreak.com/news/4702400219833-update-57-year-old-found-deceased-inside-free-bridge-encampment-tent",
+    "ord_in_thread": 0,
+    "author": "Jay Hart",
+    "published": "2026-06-10T14:17:00.000+03:00",
+    "title": "Update: 57-year old found deceased inside Free Bridge encampment tent - NewsBreak",
+    "text": "By Jay Hart ,\n17 hours ago CHARLOTTESVILLE, VA (CVILLE RIGHT NOW) – A 57-year old man was found dead inside a tent at the Free Bridge encampment by officers responding to a call around 4:55 a.m. Wednesday, according to Charlottesville Police. Officers were called for a strong odor emanating from a tent in the encampment... Read full article\n12",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide",
+        "Disaster and Accident->drowning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://cvillerightnow.com/news/208802-death-investigation-at-the-free-bridge-encampment/",
+        "https://cvillerightnow.com/news/208802-death-investigation-at-the-free-bridge-encampment",
+        "https://www.cvillerightnow.com/news/208802-death-investigation-at-the-free-bridge-encampment/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jay Hart",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "CHARLOTTESVILLE",
+                "sentiment": "none"
+            },
+            {
+                "name": "VA",
+                "sentiment": "none"
+            },
+            {
+                "name": "Free Bridge",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Charlottesville Police",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Pantops"
+            ],
+            "state": [
+                "Virginia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-11T07:44:58.497+03:00",
+    "updated": "2026-06-11T16:45:18.000+03:00"
+}

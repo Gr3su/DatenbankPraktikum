@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "a0ad1cedb5c0787afddf8fc89fe8e67d49e5b9b3",
+        "url": "https://www.newsbreak.com/news/4934038098753-northmet-mine-project-requires-new-environmental-review",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/mckinley-mn",
+        "site_categories": [
+            "sport",
+            "under_construction",
+            "science and technology",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "economy, business and finance",
+            "politics"
+        ],
+        "section_title": "McKinley, MN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "NorthMet mine project requires new environmental review - NewsBreak",
+        "title_full": "NorthMet mine project requires new environmental review - NewsBreak",
+        "published": "2026-10-09T01:29:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2sg3Zp_1FveNhqa00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:27:25.805+03:00"
+        }
+    },
+    "uuid": "a0ad1cedb5c0787afddf8fc89fe8e67d49e5b9b3",
+    "url": "https://www.newsbreak.com/news/4934038098753-northmet-mine-project-requires-new-environmental-review",
+    "ord_in_thread": 0,
+    "author": "northernnewsnow.com",
+    "published": "2026-10-09T01:29:00.000+03:00",
+    "title": "NorthMet mine project requires new environmental review - NewsBreak",
+    "text": "5 hours ago HOYT LAKES, Minn. (Northern News Now) - The copper-nickel mining project formerly known as PolyMet will require another environmental review after its owner proposed changes this summer. The project, now known as NorthMet, was first proposed more than 20 years ago. Its original environmental impact statement was published in 2015... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "Environment"
+    ],
+    "topics": [
+        "Politics->environmental policy",
+        "Politics->regulation of industry",
+        "Environment->energy saving",
+        "Environment->environmental pollution",
+        "Environment->conservation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.northernnewsnow.com/2026/10/08/northmet-mine-project-requires-new-environmental-review/",
+        "https://northernnewsnow.com/2026/10/08/northmet-mine-project-requires-new-environmental-review/",
+        "https://www.northernnewsnow.com/2026/10/08/northmet-mine-project-requires-new-environmental-review"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NorthMet",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "PolyMet",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Northern News Now",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "McKinley"
+            ],
+            "state": [
+                "Minnesota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:27:25.805+03:00",
+    "updated": "2026-10-09T07:30:55.000+03:00",
+    "related_articles": null
+}

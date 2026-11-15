@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "1527cccd377f4945ba0863ccdc0b737220846e50",
+        "url": "https://www.foxnews.com/video/6387126257112",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://news.google.com/search?q=was%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_pt",
+            "top_news_gb",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_nl",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_se",
+            "top_news_dk",
+            "top_news_ch",
+            "top_news_za",
+            "top_news_my",
+            "top_news_il",
+            "top_news_fi",
+            "top_news_be",
+            "top_news_no",
+            "top_news_ca",
+            "top_news",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "Trump blasts Minnesota 'Somalia fraud,' says $18B in taxpayer money was stolen | Fox News Video",
+        "title_full": "Trump blasts Minnesota 'Somalia fraud,' says $18B in taxpayer money was stolen | Fox News Video",
+        "published": "2026-01-01T06:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59704e3a-db76-4cda-94fb-6ded78d869ae/4edad33d-a141-4238-b2ba-9f44433a17e2/1280x720/match/1024/512/image.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 435,
+        "domain_rank_updated": "2025-12-28T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 1,
+                "comments": 1,
+                "shares": 24
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1527cccd377f4945ba0863ccdc0b737220846e50",
+    "url": "https://www.foxnews.com/video/6387126257112",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-01-01T06:37:00.000+02:00",
+    "title": "Trump blasts Minnesota 'Somalia fraud,' says $18B in taxpayer money was stolen | Fox News Video",
+    "text": "Live Now\nAll times easternNOW - 12:30 AM\n12:30 AM\n1:00 AM\n1:30 AM\n2:00 AM\n2:30 AM\nFox News Channel\nWho Can Forget 2025?\n1:00 AM - 2:00 AM\nJimmy Failla's All-American New Year's Bash 2026\n2:00 AM - 3:00 AM\nFox Business Channel\nPaid Programming\n1:00 AM - 1:30 AM\nPaid Programming\n1:30 AM - 2:00 AM\nPaid Programming\n2:00 AM - 2:30 AM\nPaid Programming\n2:30 AM - 3:00 AM\nFox Weather Channel\nFox News Radio\nFox News Channel Live",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->fraud"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jimmy Failla",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Fox News Channel\nW",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_pt",
+            "top_news_gb",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_nl",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_se",
+            "top_news_dk",
+            "top_news_ch",
+            "top_news_za",
+            "top_news_my",
+            "top_news_il",
+            "top_news_fi",
+            "top_news_be",
+            "top_news_no",
+            "top_news_ca",
+            "top_news"
+        ],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-01T07:18:38.464+02:00",
+    "updated": "2026-01-02T08:05:20.000+02:00"
+}

@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "f74b3f52b5b03b72c48d9bddf0f038ef2905aaec",
+        "url": "https://www.newsbreak.com/news/4825482228411-west-nile-virus-detected-in-mosquitos-in-grant-county",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/bunker-hill-in",
+        "site_categories": [
+            "sport",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "politics",
+            "health",
+            "social issue",
+            "science and technology",
+            "under_construction",
+            "human interest"
+        ],
+        "section_title": "Bunker Hill, IN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "West Nile Virus Detected in Mosquitos in Grant County - NewsBreak",
+        "title_full": "West Nile Virus Detected in Mosquitos in Grant County - NewsBreak",
+        "published": "2026-08-10T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3u4LQW_1EBGEqUX00",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f74b3f52b5b03b72c48d9bddf0f038ef2905aaec",
+    "url": "https://www.newsbreak.com/news/4825482228411-west-nile-virus-detected-in-mosquitos-in-grant-county",
+    "ord_in_thread": 0,
+    "author": "wbcl.org",
+    "published": "2026-08-10T07:00:00.000+03:00",
+    "title": "West Nile Virus Detected in Mosquitos in Grant County - NewsBreak",
+    "text": "2 days ago The Indiana Department of Health (IDOH) has notified the Grant County Health Department that mosquito samples collected in Grant County have tested positive for West Nile virus (WNV). The department recommends taking precautions against mosquito bites to reduce the risk of disease caused by mosquito-borne viruses, which in addition to WNV include Eastern equine encephalitis (triple-E) virus, and La Crosse virus. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Health"
+    ],
+    "topics": [
+        "Health->public health",
+        "Health->medical condition",
+        "Health->communicable disease"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wbcl.org/news/west-nile-virus-detected-in-mosquitos-in-grant-county",
+        "https://wbcl.org/news/west-nile-virus-detected-in-mosquitos-in-grant-county"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Grant County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Indiana Department of Health",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Grant County Health Department",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "IDOH",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Bunker Hill"
+            ],
+            "state": [
+                "Indiana"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:08:47.060+03:00",
+    "updated": "2026-08-13T07:11:38.000+03:00"
+}

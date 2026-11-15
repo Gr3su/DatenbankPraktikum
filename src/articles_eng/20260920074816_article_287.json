@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "29a131bcde53db11b85d3be6d87157066f2f64be",
+        "url": "https://www.newsbreak.com/news/4889951331691-3-teens-in-custody-after-fitchburg-investigation",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/madison-wi",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "politics",
+            "economy, business and finance",
+            "social issue",
+            "under_construction",
+            "sport",
+            "human interest"
+        ],
+        "section_title": "Madison, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "3 teens in custody after Fitchburg investigation - NewsBreak",
+        "title_full": "3 teens in custody after Fitchburg investigation - NewsBreak",
+        "published": "2026-09-16T20:26:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/31zdMu_1FDDkmoD00",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "29a131bcde53db11b85d3be6d87157066f2f64be",
+    "url": "https://www.newsbreak.com/news/4889951331691-3-teens-in-custody-after-fitchburg-investigation",
+    "ord_in_thread": 0,
+    "author": "Juliana Tornabene",
+    "published": "2026-09-16T20:26:00.000+03:00",
+    "title": "3 teens in custody after Fitchburg investigation - NewsBreak",
+    "text": "By Juliana Tornabene ,\n11 hours ago FITCHBURG, Wis. (WMTV) - Fitchburg Police Department took three teens into custody Monday as part of an investigation. The police department said Wednesday that the three individuals are high school aged. The incident being investigated did not happen on school grounds. Police said the incident happened in Fitchburg. Fitchburg Police... Read full article\n4",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->kidnapping",
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wmtv15news.com/2026/09/16/3-teens-custody-after-fitchburg-investigation/?outputType=amp",
+        "https://www.wmtv15news.com/2026/09/16/3-teens-custody-after-fitchburg-investigation/",
+        "https://wmtv15news.com/2026/09/16/3-teens-custody-after-fitchburg-investigation/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Juliana Tornabene",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Wis.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fitchburg",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Fitchburg Police Department",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "WMTV",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "WMVT",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:00:26.915+03:00",
+    "updated": "2026-09-17T08:11:56.000+03:00"
+}

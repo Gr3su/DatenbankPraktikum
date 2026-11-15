@@ -1,0 +1,157 @@
+{
+    "thread": {
+        "uuid": "f95bc33655ea4a1660a75017f649f7f3ed4f1ace",
+        "url": "https://www.newsbreak.com/news/4838514172264-investigation-underway-after-false-active-shooter-report-at-tcat-in-mcminnville",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/trending/top/shooter",
+        "site_categories": [
+            "economy, business and finance",
+            "under_construction",
+            "politics",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "science and technology",
+            "human interest",
+            "sport",
+            "crime, law and justice",
+            "social issue"
+        ],
+        "section_title": "The latest shooter news, videos &amp; comments | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Investigation underway after false active shooter report at TCAT in McMinnville - NewsBreak",
+        "title_full": "Investigation underway after false active shooter report at TCAT in McMinnville - NewsBreak",
+        "published": "2026-08-20T01:07:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2fzat6_1EOOVp3A00",
+        "performance_score": 0,
+        "domain_rank": 3070,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f95bc33655ea4a1660a75017f649f7f3ed4f1ace",
+    "url": "https://www.newsbreak.com/news/4838514172264-investigation-underway-after-false-active-shooter-report-at-tcat-in-mcminnville",
+    "ord_in_thread": 0,
+    "author": "Kassidy Brown",
+    "published": "2026-08-20T01:07:00.000+03:00",
+    "title": "Investigation underway after false active shooter report at TCAT in McMinnville - NewsBreak",
+    "text": "By Kassidy Brown ,\n6 hours ago MCMINNVILLE, Tenn. (WSMV) - The McMinnville Police Department and the Tennessee Department of Homeland Security are investigating a false active shooter report that was made on Wednesday. MPD said officers responded to reports of an active shooter at the Tennessee College of Applied Technology (TCAT) campus in McMinnville. When they... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->hijacking",
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wsmv.com/2026/08/19/investigation-underway-after-false-active-shooter-report-tcat-mcminnville/",
+        "https://wsmv.com/2026/08/19/investigation-underway-after-false-active-shooter-report-tcat-mcminnville/",
+        "https://www.wsmv.com/2026/08/19/investigation-underway-after-false-active-shooter-report-tcat-mcminnville"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kassidy Brown",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "McMinnville",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "McMinnville Police Department",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "TCAT",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "MPD",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Tennessee College of Applied Technology",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Tennessee Department of Homeland Security",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:24:27.165+03:00",
+    "updated": "2026-08-20T07:36:20.000+03:00"
+}

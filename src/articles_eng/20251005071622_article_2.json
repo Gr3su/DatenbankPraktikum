@@ -1,0 +1,179 @@
+{
+    "thread": {
+        "uuid": "d81dc2330470cfd82306a5550736b5eba35bc8ea",
+        "url": "https://www.hindustantimes.com/world-news/us-news/us-government-shutdown-how-will-it-impact-travel-plans-immigration-101759366043719.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://news.google.com/search?q=while%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+        "title": "Impact of US Government Shutdown on Travel",
+        "title_full": "Impact of US Government Shutdown on Travel",
+        "published": "2025-10-02T05:14:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2025/10/02/1600x900/logo/Government-Shutdown-34_1759367781576_1759367796291.jpg",
+        "performance_score": 0,
+        "domain_rank": 843,
+        "domain_rank_updated": "2025-09-29T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d81dc2330470cfd82306a5550736b5eba35bc8ea",
+    "url": "https://www.hindustantimes.com/world-news/us-news/us-government-shutdown-how-will-it-impact-travel-plans-immigration-101759366043719.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2025-10-02T05:14:00.000+03:00",
+    "title": "Impact of US Government Shutdown on Travel",
+    "text": "• The US government shut down on Wednesday due to a failed funding bill in the Senate.\n• President Trump and Republicans blamed Senate Democrats for blocking the bill.\n• The shutdown could lead to longer wait times at airports, flight delays, and cancellations.\n• Non-essential federal employees are likely to be furloughed, while essential employees will work without pay.\n• Geoff Freeman, president of the US Travel Association, warned of longer TSA lines and delays in travel infrastructure modernization.\n• Air travel remains operational initially, with control towers and security checkpoints staffed.\n• Approximately 13,000 air traffic controllers and over 61,000 TSA employees are expected to remain on duty.\n• Longer shutdowns may result in longer security lines and flight interruptions.\n• During a previous shutdown in Trump's first term, unpaid TSA screeners called in sick, leading to terminal closures.\n• The current shutdown may exacerbate issues due to existing staff shortages at TSA and FAA.\n• The FAA may slow down landings and takeoffs if the system cannot handle scheduled flights.\n• USCIS, which oversees naturalization, is primarily funded by application fees and will minimally impact passport and visa processing.\n• The USCIS E-Verify program will be temporarily suspended due to the shutdown.\n• The shutdown may affect new applicants for H-1B visas and employment-based green cards due to halted processing of Labor Condition Applications.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->government",
+        "Politics->political crisis",
+        "Politics->national government",
+        "Social Issue->demographics",
+        "Social Issue->social services",
+        "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": true,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Geoff Freeman",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Senate",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "US Travel Association",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "TSA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "FAA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-02T07:16:23.230+03:00",
+    "updated": "2025-10-02T07:20:06.000+03:00"
+}

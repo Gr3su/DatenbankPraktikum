@@ -1,0 +1,105 @@
+{
+    "thread": {
+        "uuid": "f7748bef66ecca9113273ec087c3dc5e5607e31a",
+        "url": "https://www.whitehouse.gov/videos/president-trumps-administration-is-cleaning-up-dc-and-making-america-safe-again/",
+        "site_full": "www.whitehouse.gov",
+        "site": "whitehouse.gov",
+        "site_section": "https://www.whitehouse.gov/past-events",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics",
+            "us_government_resources"
+        ],
+        "section_title": "Videos &#8211; The White House",
+        "site_title": "The White House",
+        "title": "President Trump's administration is cleaning up DC and making America safe again - The White House",
+        "title_full": "President Trump's administration is cleaning up DC and making America safe again - The White House",
+        "published": "2025-08-20T22:58:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
+        "performance_score": 0,
+        "domain_rank": 257,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f7748bef66ecca9113273ec087c3dc5e5607e31a",
+    "url": "https://www.whitehouse.gov/videos/president-trumps-administration-is-cleaning-up-dc-and-making-america-safe-again/",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-08-20T22:58:00.000+03:00",
+    "title": "President Trump's administration is cleaning up DC and making America safe again - The White House",
+    "text": "Menu\nPresident Donald J. Trump\nThe\nWhite House\nSearch\nIssues\nSearch for:\nPress Enter to Search\nVideos\nPresident Trump’s administration is cleaning up DC and making America safe again\nAugust 20, 2025",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government",
+        "Politics->national elections",
+        "Politics->political campaigns"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald J. Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "gov_news",
+            "city": [
+                "Washington"
+            ],
+            "state": [
+                "DC"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": "Federal - Executive",
+            "agency": "Executive Office of the President",
+            "organization_name": "White House"
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-21T07:30:24.021+03:00",
+    "updated": "2025-08-21T07:31:26.000+03:00"
+}

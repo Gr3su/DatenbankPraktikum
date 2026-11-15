@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "3ee8e9aadaa6df75c4aecc97986425ec1b669c3e",
+        "url": "https://www.newsbreak.com/nbc-chicago-509956/4851674650812-nipsco-seeks-rate-hikes-with-multiple-filings-after-derecho",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/nbc-chicago-509956",
+        "site_categories": [
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "science and technology",
+            "social issue",
+            "politics",
+            "sport",
+            "under_construction",
+            "economy, business and finance",
+            "human interest"
+        ],
+        "section_title": "NBC Chicago&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "NIPSCO seeks rate hikes, with multiple filings after derecho - NewsBreak",
+        "title_full": "NIPSCO seeks rate hikes, with multiple filings after derecho - NewsBreak",
+        "published": "2026-08-27T06:06:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3157,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3ee8e9aadaa6df75c4aecc97986425ec1b669c3e",
+    "url": "https://www.newsbreak.com/nbc-chicago-509956/4851674650812-nipsco-seeks-rate-hikes-with-multiple-filings-after-derecho",
+    "ord_in_thread": 0,
+    "author": "NBC Chicago Staff",
+    "published": "2026-08-27T06:06:00.000+03:00",
+    "title": "NIPSCO seeks rate hikes, with multiple filings after derecho - NewsBreak",
+    "text": "By NBC Chicago Staff ,\n10 hours ago A powerful derecho knocked out power in parts of northwest Indiana for nearly two weeks, but is the region’s utility company seeking rate hikes?. According to multiple reports and documents from the Indiana Utility Regulatory Commission, NIPSCO has filed for three different rate adjustments since the August 11 derecho, which knocked out power to approximately 80% of the utility’s customers in the area. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nbcchicago.com/news/local/nipsco-seeks-rate-hikes-with-multiple-filings-after-derecho/3981071/?amp=1",
+        "https://www.nbcchicago.com/news/local/nipsco-seeks-rate-hikes-with-multiple-filings-after-derecho/3981071/",
+        "https://nbcchicago.com/news/local/nipsco-seeks-rate-hikes-with-multiple-filings-after-derecho/3981071/?amp=1"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NIPSCO",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "NI",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Indiana Utility Regulatory Commission",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:23:19.691+03:00",
+    "updated": "2026-08-27T16:35:28.877+03:00"
+}

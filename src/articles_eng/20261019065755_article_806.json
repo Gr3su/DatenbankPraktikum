@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "5337fe260eb87140b8c34aee2bccfaa565e5aac3",
+        "url": "https://www.newsbreak.com/news/4948345538029-west-albany-home-shot-up-multiple-times-teen-arrested",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/albany-ga",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "sport",
+            "politics",
+            "under_construction",
+            "economy, business and finance"
+        ],
+        "section_title": "Albany, GA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "West Albany home shot up multiple times; teen arrested - NewsBreak",
+        "title_full": "West Albany home shot up multiple times; teen arrested - NewsBreak",
+        "published": "2026-10-16T00:16:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1uAcfP_1G93chqJ00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:26:01.760+03:00"
+        }
+    },
+    "uuid": "5337fe260eb87140b8c34aee2bccfaa565e5aac3",
+    "url": "https://www.newsbreak.com/news/4948345538029-west-albany-home-shot-up-multiple-times-teen-arrested",
+    "ord_in_thread": 0,
+    "author": "WALB 10",
+    "published": "2026-10-16T00:16:00.000+03:00",
+    "title": "West Albany home shot up multiple times; teen arrested - NewsBreak",
+    "text": "7 hours ago ALBANY, Ga. (WALB) — A teen was arrested and charged with assault after a west Albany home was shot up multiple times, according to the Albany Police Department. Police say the home on the 1400 block of Jones Avenue, just a few blocks off W Gordon Avenue near West Town Park, was shot up on different days with people still inside. Read full article\n6",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->assault"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.walb.com/2026/10/15/west-albany-home-shot-up-multiple-times-teen-arrested/",
+        "https://walb.com/2026/10/15/west-albany-home-shot-up-multiple-times-teen-arrested/",
+        "https://www.walb.com/2026/10/15/west-albany-home-shot-up-multiple-times-teen-arrested"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fangry.da7a9102.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "West Albany",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jones Avenue",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gordon Avenue",
+                "sentiment": "none"
+            },
+            {
+                "name": "West Town Park",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Albany Police Department",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Albany"
+            ],
+            "state": [
+                "Georgia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:26:01.760+03:00",
+    "updated": "2026-10-16T07:27:35.000+03:00",
+    "related_articles": null
+}

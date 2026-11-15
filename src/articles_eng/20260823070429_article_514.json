@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "52314e3e430cb6663d10a9af509ee4b4e5e8ac59",
+        "url": "https://www.ntd.com/ntdplus/pentagon-us-ready-to-defeat-any-military-threat_1167337.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://api.ntd.com/feed",
+        "site_categories": [
+            "crime, law and justice",
+            "health",
+            "architects",
+            "disaster and accident",
+            "real_estate",
+            "politics",
+            "war, conflict and unrest",
+            "science and technology",
+            "media",
+            "economy, business and finance"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "Pentagon: US Ready to Defeat Any Military Threat",
+        "title_full": "Pentagon: US Ready to Defeat Any Military Threat",
+        "published": "2026-08-20T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2026/06/id1153933-2026-02-27T135154Z_3_LYNXMPEM1Q0KG_RTROPTP_4_USA-PENTAGON-AI.jpg-600x400.webp",
+        "performance_score": 0,
+        "domain_rank": 66011,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "52314e3e430cb6663d10a9af509ee4b4e5e8ac59",
+    "url": "https://www.ntd.com/ntdplus/pentagon-us-ready-to-defeat-any-military-threat_1167337.html",
+    "ord_in_thread": 0,
+    "author": "NTD Newsroom",
+    "published": "2026-08-20T06:59:00.000+03:00",
+    "title": "Pentagon: US Ready to Defeat Any Military Threat",
+    "text": "Trailer\nPentagon: US Ready to Defeat Any Military Threat\nThe Pentagon says the U.S. military remains fully prepared to take on any adversary. Under Secretary of War Michael Duffey addressed U.S. readiness on Fox News.\nWhat would you like to watch today?",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael Duffey",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "U. S.",
+                "sentiment": "none"
+            },
+            {
+                "name": "US",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Pentagon",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Fox News",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "FOX",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:28:39.852+03:00",
+    "updated": "2026-08-20T07:30:25.000+03:00"
+}

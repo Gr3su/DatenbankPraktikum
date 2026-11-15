@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "96c3c1bcde99ec21010f844595d98d74bdbf2317",
+        "url": "https://www.newsbreak.com/news/4890405749115-pollmiller-s-halloween-hoot-canceled",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/wever-ia",
+        "site_categories": [
+            "human interest",
+            "politics",
+            "arts, culture and entertainment",
+            "social issue",
+            "lifestyle and leisure",
+            "under_construction",
+            "crime, law and justice",
+            "economy, business and finance",
+            "sport"
+        ],
+        "section_title": "Wever, IA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Pollmiller's Halloween Hoot canceled - NewsBreak",
+        "title_full": "Pollmiller's Halloween Hoot canceled - NewsBreak",
+        "published": "2026-09-17T00:45:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "96c3c1bcde99ec21010f844595d98d74bdbf2317",
+    "url": "https://www.newsbreak.com/news/4890405749115-pollmiller-s-halloween-hoot-canceled",
+    "ord_in_thread": 0,
+    "author": "Heather Huebner, Lee County Conservation Director",
+    "published": "2026-09-17T00:45:00.000+03:00",
+    "title": "Pollmiller's Halloween Hoot canceled - NewsBreak",
+    "text": "By Heather Huebner, Lee County Conservation Director ,\n7 hours ago WEST POINT - Lee County Conservation has made the difficult decision to cancel the annual Halloween HOOT, which was scheduled for Saturday, October 3, 2026, at Pollmiller Park. The cancellation is due to the ongoing construction of the new Pollmiller Beach Concession & Bathroom Facility, combined with limited staff capacity... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Human Interest"
+    ],
+    "topics": [
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.pencitycurrent.com/stories/pollmillers-halloween-hoot-canceled,183919",
+        "https://pencitycurrent.com/stories/pollmillers-halloween-hoot-canceled,183919"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Heather Huebner",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Lee County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pollmiller Beach Concession & Bathroom Facility",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pollmiller Park",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Lee County Conservat",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Wever"
+            ],
+            "state": [
+                "Iowa"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:00:38.007+03:00",
+    "updated": "2026-09-17T08:03:37.000+03:00"
+}

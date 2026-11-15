@@ -1,0 +1,160 @@
+{
+    "thread": {
+        "uuid": "4ae545967b51d1131ece26c2da6f197a4b6626c2",
+        "url": "https://www.newsbreak.com/news/4756326053810-park-rangers-ruled-justified-in-memorial-day-shooting-death-of-judsonia-31-year-old",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/floral-ar",
+        "site_categories": [
+            "politics",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "social issue",
+            "sport",
+            "under_construction",
+            "human interest",
+            "disaster and accident",
+            "arts, culture and entertainment",
+            "economy, business and finance"
+        ],
+        "section_title": "Floral, AR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Park rangers ruled justified in Memorial Day shooting death of Judsonia 31-year-old - NewsBreak",
+        "title_full": "Park rangers ruled justified in Memorial Day shooting death of Judsonia 31-year-old - NewsBreak",
+        "published": "2026-07-07T17:13:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4ae545967b51d1131ece26c2da6f197a4b6626c2",
+    "url": "https://www.newsbreak.com/news/4756326053810-park-rangers-ruled-justified-in-memorial-day-shooting-death-of-judsonia-31-year-old",
+    "ord_in_thread": 0,
+    "author": "The Citizen",
+    "published": "2026-07-07T17:13:00.000+03:00",
+    "title": "Park rangers ruled justified in Memorial Day shooting death of Judsonia 31-year-old - NewsBreak",
+    "text": "By The Citizen ,\n1 days ago The Memorial Day shooting death of a Judsonia 31-year-old by park rangers near Pinnacle Mountain State Park has been ruled as justified by the Pulaski County Prosecuting Attorney's Office. According to a new release from the Arkansas State Police on Tuesday, Prosecuting Attorney Will Jones reached that conclusion after being... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.whitecountycitizen.com/park-rangers-ruled-justified-in-memorial-day-shooting-death-of-judsonia-31-year-old/article_71e79602-0ed6-58be-b1bb-da48fd2d38d1.html",
+        "https://whitecountycitizen.com/park-rangers-ruled-justified-in-memorial-day-shooting-death-of-judsonia-31-year-old/article_71e79602-0ed6-58be-b1bb-da48fd2d38d1.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Will Jones",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Pinnacle Mountain State Park",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Judsonia",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "The Citizen",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Arkansas State Police",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Pulaski County Prosecuting Attorney ' s Office",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Floral"
+            ],
+            "state": [
+                "Arkansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:19:59.394+03:00",
+    "updated": "2026-07-09T07:24:29.000+03:00"
+}

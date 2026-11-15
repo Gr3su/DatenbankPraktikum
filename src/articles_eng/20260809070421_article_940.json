@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "be8cb9f2d51c67b34a1095c9809b5694bc561203",
+        "url": "https://www.newsbreak.com/news/4810696190764-2-killed-in-fiery-crash-on-i-88-in-aurora-isp-says",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/geneva-il",
+        "site_categories": [
+            "politics",
+            "arts, culture and entertainment",
+            "sport",
+            "social issue",
+            "economy, business and finance",
+            "under_construction",
+            "health",
+            "crime, law and justice",
+            "human interest",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Geneva, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "2 killed in fiery crash on I-88 in Aurora, ISP says - NewsBreak",
+        "title_full": "2 killed in fiery crash on I-88 in Aurora, ISP says - NewsBreak",
+        "published": "2026-08-05T15:27:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2bUAH2_1DxMcoNG00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "be8cb9f2d51c67b34a1095c9809b5694bc561203",
+    "url": "https://www.newsbreak.com/news/4810696190764-2-killed-in-fiery-crash-on-i-88-in-aurora-isp-says",
+    "ord_in_thread": 0,
+    "author": "Nic Flosi",
+    "published": "2026-08-05T15:27:00.000+03:00",
+    "title": "2 killed in fiery crash on I-88 in Aurora, ISP says - NewsBreak",
+    "text": "By Nic Flosi ,\n16 hours ago AURORA, Ill. - A two-vehicle crash on Interstate 88 in Aurora early Wednesday left two people dead and closed eastbound traffic for several hours, according to Illinois State Police. What we know:. Troopers responded around 12:45 a.m. to eastbound I-88 at Eola Road, near milepost 121, for a fatal crash... Read full article\n6",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->armed conflict",
+        "Crime, Law and Justice->homicide",
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox32chicago.com/news/2-killed-crash-i88-aurora.amp",
+        "https://fox32chicago.com/news/2-killed-crash-i88-aurora.amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ni",
+                "sentiment": "negative"
+            },
+            {
+                "name": "##c Flosi",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Aurora",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ill",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eola Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Illinois State Police",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Geneva"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:41:49.482+03:00",
+    "updated": "2026-08-06T07:46:00.000+03:00"
+}

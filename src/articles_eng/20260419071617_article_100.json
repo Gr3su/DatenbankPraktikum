@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "220fb1f5bc0c0f7dd8cbccc79e8020acfe05c4e1",
+        "url": "https://time.news/panmnesia-to-mass-produce-pcie-6-4-cxl-3-2-fusion-switch/",
+        "site_full": "time.news",
+        "site": "time.news",
+        "site_section": "https://time.news/feed/atom/?doing_wp_cron=1775449797.4994630813598632812500",
+        "site_categories": [],
+        "section_title": "Time News",
+        "site_title": "TIme News - time.news",
+        "title": "Panmnesia to Mass-Produce PCIe 6.4-CXL 3.2 Fusion Switch",
+        "title_full": "Panmnesia to Mass-Produce PCIe 6.4-CXL 3.2 Fusion Switch",
+        "published": "2026-04-16T07:13:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 416973,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "220fb1f5bc0c0f7dd8cbccc79e8020acfe05c4e1",
+    "url": "https://time.news/panmnesia-to-mass-produce-pcie-6-4-cxl-3-2-fusion-switch/",
+    "ord_in_thread": 0,
+    "author": "Priyanka Patel",
+    "published": "2026-04-16T07:13:00.000+03:00",
+    "title": "Panmnesia to Mass-Produce PCIe 6.4-CXL 3.2 Fusion Switch",
+    "text": "The persistent struggle to feed data to hungry AI accelerators is reaching a critical inflection point. As large language models grow in complexity, the bottleneck has shifted from raw compute power to memory accessibility—a phenomenon often described as the “memory wall.” Panmnesia is attempting to dismantle this barrier by moving its PCIe 6.4-CXL 3.2 Fusion Switch into mass production, a move that signals a shift toward more fluid, shared memory architectures in the data center.\nFor those of us who spent years in software engineering, the frustration of “stranded memory” is familiar. It occurs when one server has excess RAM although another is starving, yet neither can share resources because they are physically and logically locked into separate silos. The introduction of a PCIe 6.4-CXL 3.2 Fusion Switch aims to solve this by treating memory not as a local peripheral, but as a pooled resource that can be dynamically allocated across a fabric of processors and GPUs.\nThis transition to mass production represents a significant leap in the deployment of Compute Express Link (CXL) technology. While previous iterations of CXL focused primarily on expanding memory for a single host, the 3.2 specification enables complex fabric capabilities. This allows for memory disaggregation, where memory is decoupled from the CPU and placed in a shared pool, accessible by multiple nodes with latency that closely mimics local access.\nBreaking the Memory Wall with CXL 3.2\nThe “Fusion” aspect of the switch refers to its ability to integrate traditional PCIe switching with advanced CXL fabric management. By leveraging the CXL Consortium’s latest standards, the device allows for memory pooling and sharing at a scale previously unavailable in commercial hardware. In a traditional setup, if a GPU runs out of HBM (High Bandwidth Memory), the system must swap data to much slower system RAM or disk, causing a massive performance drop.\nWith the Fusion Switch, the system can draw from a shared pool of CXL-attached memory. This doesn’t just increase the total amount of available memory; it optimizes how that memory is used. Instead of over-provisioning every server “just in case,” data center operators can maintain a centralized pool and allocate capacity in real-time based on the specific needs of the workload. This significantly reduces the total cost of ownership (TCO) by eliminating wasted hardware.\nThe integration of PCIe 6.0-class speeds—which provide a massive jump in bandwidth over the previous generation—is essential here. According to PCI-SIG standards, PCIe 6.0 doubles the throughput of Gen 5, providing up to 256 GB/s of bidirectional bandwidth for a x16 slot. This bandwidth is the “pipe” that allows pooled memory to behave as if it were sitting directly on the motherboard, minimizing the latency penalties that typically plague networked storage.\nTechnical Specifications and Impact\nThe move to mass produce this hardware suggests that the industry is moving past the proof-of-concept stage for memory fabrics. The Fusion Switch is designed to handle the rigorous demands of AI training and inference, where the movement of terabytes of parameters between memory and compute is the primary constraint on speed.\n| Feature | Technical Impact | Business Value |\n|---|---|---|\n| CXL 3.2 Fabric | Multi-node memory sharing | Eliminates stranded memory |\n| PCIe 6.0 Speeds | High-bandwidth, low-latency data paths | Near-local memory performance |\n| Dynamic Allocation | Real-time resource shifting | Lower hardware CAPEX |\n| Fusion Architecture | Combined switching and pooling | Simplified data center cabling |\nWho Benefits from Memory Disaggregation?\nThe primary stakeholders for this technology are hyperscalers and enterprise AI labs. When training a model with trillions of parameters, the memory requirements often exceed what can be fit onto a single GPU or even a single node. Currently, this requires complex software-level sharding and massive amounts of inter-node communication, which consumes a large portion of the compute cycle.\nBy using a CXL-based fabric, the hardware handles much of this complexity. A cluster of GPUs can effectively “spot” a giant, shared pool of memory. This simplifies the software stack and allows researchers to run larger models on fewer physical machines. Beyond AI, high-performance computing (HPC) workloads—such as weather simulation and genomic sequencing—stand to benefit from the ability to scale memory independently of the number of CPUs in a rack.\nAlthough, the transition is not without challenges. Adopting a Fusion Switch requires a holistic update to the infrastructure. Both the CPUs and the accelerators must support the CXL 3.2 protocol to realize the full benefits of fabric-level sharing. While the hardware is now entering mass production, the ecosystem of supported processors is still catching up to the full potential of the 3.x specifications.\nThe Road to Data Center Efficiency\nFrom a sustainability perspective, the implications are noteworthy. Data centers are currently facing an energy crisis driven by the AI boom. A significant portion of energy is wasted by idling hardware that is kept online simply because it possesses the necessary memory for a specific task, even if its compute power is unused. Memory pooling allows for a more “liquid” infrastructure where resources are utilized at peak efficiency.\nThe ability to mass-produce these switches indicates that the supply chain is maturing. We are moving away from bespoke, expensive prototypes toward standardized components that can be integrated into standard rack architectures. This democratization of CXL fabric technology means that mid-sized enterprises, not just the giants like Google or Microsoft, may soon be able to deploy memory-pooled clusters.\nAs the industry looks toward the next phase of AI development, the focus will likely shift from “more GPUs” to “better interconnects.” The PCIe 6.4-CXL 3.2 Fusion Switch is a tangible step in that direction, treating memory as a utility rather than a fixed asset.\nThe next confirmed milestone for the technology will be the integration of these switches into first-generation CXL 3.0-compliant server platforms currently in testing by major OEM vendors. Further updates on deployment timelines and real-world performance benchmarks are expected as the first mass-produced units reach early-adopter data centers.\nDo you think memory pooling will finally solve the AI bottleneck, or is the industry still too reliant on HBM? Share your thoughts in the comments.",
+    "summary": "The introduction of a PCIe 6.4-CXL 3.2 Fusion Switch aims to solve this by treating memory not as a local peripheral, but as a pooled resource that can be dynamically allocated across a fabric of processors and GPUs. Instead of over-provisioning every server “just in case,” data center operators can maintain a centralized pool and allocate capacity in real-time based on the specific needs of the workload. The Fusion Switch is designed to handle the rigorous demands of AI training and inference, where the movement of terabytes of parameters between memory and compute is the primary constraint on speed.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.computeexpresslink.org/",
+        "https://pcisig.com/",
+        "https://www.pcisig.com/",
+        "https://www.computeexpresslink.org",
+        "https://pcisig.com",
+        "https://computeexpresslink.org/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Panmnesia",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:17:33.761+03:00",
+    "updated": "2026-04-16T07:17:33.761+03:00"
+}

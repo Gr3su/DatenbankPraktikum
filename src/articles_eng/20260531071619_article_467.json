@@ -1,0 +1,154 @@
+{
+    "thread": {
+        "uuid": "09ef0487565c5f2db2bf19d20b315233f537d457",
+        "url": "https://www.newsbreak.com/news/4675992537723-plainfield-township-home-significantly-damaged-following-large-fire",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/grand-rapids-mi",
+        "site_categories": [
+            "politics",
+            "under_construction",
+            "lifestyle and leisure",
+            "sport",
+            "crime, law and justice",
+            "economy, business and finance",
+            "human interest",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Grand Rapids, MI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Plainfield Township home 'significantly damaged' following large fire - NewsBreak",
+        "title_full": "Plainfield Township home 'significantly damaged' following large fire - NewsBreak",
+        "published": "2026-05-28T04:56:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4eLAPJ_1BndcTKO00",
+        "performance_score": 0,
+        "domain_rank": 3021,
+        "domain_rank_updated": "2026-05-25T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "09ef0487565c5f2db2bf19d20b315233f537d457",
+    "url": "https://www.newsbreak.com/news/4675992537723-plainfield-township-home-significantly-damaged-following-large-fire",
+    "ord_in_thread": 0,
+    "author": "Stephanie Forth",
+    "published": "2026-05-28T04:56:00.000+03:00",
+    "title": "Plainfield Township home 'significantly damaged' following large fire - NewsBreak",
+    "text": "By Stephanie Forth ,\n2 hours ago PLAINFIELD TOWNSHIP, Mich. — Crews in Plainfield Township responded to a large house fire Wednesday evening, according to the Kent County Dispatch Authority. The house, located on Kroes Street NE between Brewer Avenue NE and Childsdale Avenue NE near Rockford High School, caught fire shortly before 8:30 p.m., according to the Plainfield Township Fire Department. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->fire"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Stephanie Forth",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Plainfield Township",
+                "sentiment": "none"
+            },
+            {
+                "name": "Childsdale Avenue",
+                "sentiment": "none"
+            },
+            {
+                "name": "Brewer Avenue",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kroes Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Plainfield Township Fire Department",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Kent County Dispatch Authority",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Rockford High School",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Cutlerville",
+                "Jenison",
+                "Grand Rapids"
+            ],
+            "state": [
+                "Michigan"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-28T07:37:17.096+03:00",
+    "updated": "2026-05-28T07:40:52.000+03:00"
+}

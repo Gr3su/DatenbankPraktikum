@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "00973fd33688a63bbf8ffca0f7af016e978cc176",
+        "url": "https://m.youtube.com/watch?v=BVVNtG5dgks",
+        "site_full": "m.youtube.com",
+        "site": "youtube.com",
+        "site_section": "https://hn.algolia.com/latest.atom",
+        "site_categories": [
+            "television",
+            "",
+            "entertainment"
+        ],
+        "section_title": "HN's home page",
+        "site_title": "YouTube",
+        "title": "Microarchitecture: What Happens Beneath",
+        "title_full": "Microarchitecture: What Happens Beneath",
+        "published": "2025-12-23T23:25:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ytimg.com/vi/BVVNtG5dgks/maxresdefault.jpg",
+        "performance_score": 0,
+        "domain_rank": 9,
+        "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "00973fd33688a63bbf8ffca0f7af016e978cc176",
+    "url": "https://m.youtube.com/watch?v=BVVNtG5dgks",
+    "ord_in_thread": 0,
+    "author": "Jane Street",
+    "published": "2025-12-23T23:25:00.000+02:00",
+    "title": "Microarchitecture: What Happens Beneath",
+    "text": "Microarchitecture: What Happens BeneathMatt Godbolt goes deep into the actual implementation details of modern Intel microarchitecture. We'll explore how the execution engine really works - register files, schedulers, and memory disambiguation - and how branch predictors track history and correlate patterns. Through microbenchmarks and performance counter analysis, we'll demonstrate surprising behaviours and show how to investigate them when they appear in your code. Note: This talk assumes some familiarity with basic CPU concepts like out-of-order execution, branch prediction, and pipelining. The talk will start with a refresher, but for those wanting a more thorough grounding first, Matt suggests watching his previous talk, What Every Programmer Should Know about How CPUs Work: https://www.youtube.com/watch?v=-HNpim5x-IE",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->technology and engineering",
+        "Science and Technology->electronic engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "BeneathMatt Godbolt",
+                "sentiment": "positive"
+            }
+        ],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-25T07:51:35.911+02:00",
+    "updated": "2025-12-25T07:53:23.000+02:00"
+}

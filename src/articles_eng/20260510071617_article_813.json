@@ -1,0 +1,132 @@
+{
+    "thread": {
+        "uuid": "2e6b496f0c8af8ca11d9a7f30051339353f2237c",
+        "url": "https://www.newsbreak.com/news/4635188905916-local-vendor-village-prepares-to-host-mama-market-on-mother-s-day",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/phenix-city-al",
+        "site_categories": [
+            "under_construction",
+            "politics",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "sport",
+            "arts, culture and entertainment",
+            "human interest",
+            "crime, law and justice"
+        ],
+        "section_title": "Phenix City, AL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Local Vendor Village prepares to host 'Mama Market' on Mother's Day - NewsBreak",
+        "title_full": "Local Vendor Village prepares to host 'Mama Market' on Mother's Day - NewsBreak",
+        "published": "2026-05-06T19:11:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2XLTCh_1B8WOcs200",
+        "performance_score": 0,
+        "domain_rank": 2952,
+        "domain_rank_updated": "2026-05-04T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2e6b496f0c8af8ca11d9a7f30051339353f2237c",
+    "url": "https://www.newsbreak.com/news/4635188905916-local-vendor-village-prepares-to-host-mama-market-on-mother-s-day",
+    "ord_in_thread": 0,
+    "author": "WTVM",
+    "published": "2026-05-06T19:11:00.000+03:00",
+    "title": "Local Vendor Village prepares to host 'Mama Market' on Mother's Day - NewsBreak",
+    "text": "12 hours ago Chelsea with Local Vendor Village shares details of what to expect for an upcoming event celebrating mothers. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->lifestyle",
+        "Lifestyle and Leisure->holiday",
+        "Lifestyle and Leisure->party"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Local Vendor Village",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Chelsea",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Phenix City"
+            ],
+            "state": [
+                "Alabama"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-07T07:38:23.546+03:00",
+    "updated": "2026-05-07T07:42:29.000+03:00"
+}

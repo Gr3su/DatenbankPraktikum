@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "16572706a204e2629609507be7a42757b4ae02dd",
+        "url": "https://local.newsbreak.com/fox-16-news-1589947/4759361187734-hot-springs-man-accused-of-killing-grandparents-faces-capital-murder-charges",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/fox-16-news-1589947",
+        "site_categories": [
+            "politics",
+            "crime, law and justice",
+            "social issue",
+            "sport",
+            "lifestyle and leisure",
+            "disaster and accident",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "FOX 16 News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Hot Springs man accused of killing grandparents faces capital murder charges - NewsBreak",
+        "title_full": "Hot Springs man accused of killing grandparents faces capital murder charges - NewsBreak",
+        "published": "2026-07-09T01:55:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0AHu1Z_1D7dsOCK00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "16572706a204e2629609507be7a42757b4ae02dd",
+    "url": "https://local.newsbreak.com/fox-16-news-1589947/4759361187734-hot-springs-man-accused-of-killing-grandparents-faces-capital-murder-charges",
+    "ord_in_thread": 0,
+    "author": "Kathryn Thornberry",
+    "published": "2026-07-09T01:55:00.000+03:00",
+    "title": "Hot Springs man accused of killing grandparents faces capital murder charges - NewsBreak",
+    "text": "By Kathryn Thornberry FOX 16 News 5 hours ago 💬 0",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide",
+        "Crime, Law and Justice->assault"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kathryn Thornberry",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Hot Springs",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "FOX",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:21:36.755+03:00",
+    "updated": "2026-07-09T07:24:09.000+03:00"
+}

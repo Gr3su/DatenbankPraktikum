@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "1e3fd694f33489f10f3a842121eb83e94762ee9e",
+        "url": "https://www.newsbreak.com/news/4523124700289-utah-drivers-react-to-being-named-among-worst-us-drivers",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sutherland-ut",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Sutherland, UT Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Utah drivers react to being named among worst US drivers - NewsBreak",
+        "title_full": "Utah drivers react to being named among worst US drivers - NewsBreak",
+        "published": "2026-03-04T20:34:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2uT0Gl_19LbY3CK00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1e3fd694f33489f10f3a842121eb83e94762ee9e",
+    "url": "https://www.newsbreak.com/news/4523124700289-utah-drivers-react-to-being-named-among-worst-us-drivers",
+    "ord_in_thread": 0,
+    "author": "BRIAN CARLSON",
+    "published": "2026-03-04T20:34:00.000+02:00",
+    "title": "Utah drivers react to being named among worst US drivers - NewsBreak",
+    "text": "By BRIAN CARLSON ,\n10 hours ago SALT LAKE CITY — For anyone who’s ever heard that Utah drivers are some of the worst in the country, a recent report suggests there may be some truth to that. A study ranking the best and worst drivers in the U.S. put Utah as the third worst in America. Read full article\nRead in NewsBreak 7",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Human Interest"
+    ],
+    "topics": [
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "BRIAN CARLSON",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Utah",
+                "sentiment": "none"
+            },
+            {
+                "name": "US",
+                "sentiment": "none"
+            },
+            {
+                "name": "U. S.",
+                "sentiment": "none"
+            },
+            {
+                "name": "America",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Sutherland"
+            ],
+            "state": [
+                "Utah"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-05T07:22:29.133+02:00",
+    "updated": "2026-03-05T07:36:36.000+02:00"
+}

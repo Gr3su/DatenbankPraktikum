@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "f4d7c3bb3ece4c289a1568bb3c02686e82b99edb",
+        "url": "https://www.globaltimes.cn/page/202601/1353900.shtml",
+        "site_full": "www.globaltimes.cn",
+        "site": "globaltimes.cn",
+        "site_section": "https://news.google.com/search?q=from%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "media",
+            "politics",
+            "war, conflict and unrest",
+            "science and technology",
+            "economy, business and finance"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Global Times",
+        "title": "Chinese research team from Fudan University develops fiber-based chip, to boost brain-computer interface sector - Global Times",
+        "title_full": "Chinese research team from Fudan University develops fiber-based chip, to boost brain-computer interface sector - Global Times",
+        "published": "2026-01-21T19:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-01-22/e20032f8-a234-46ec-99bb-90ee53523601.jpeg",
+        "performance_score": 0,
+        "domain_rank": 7352,
+        "domain_rank_updated": "2026-01-18T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f4d7c3bb3ece4c289a1568bb3c02686e82b99edb",
+    "url": "https://www.globaltimes.cn/page/202601/1353900.shtml",
+    "ord_in_thread": 0,
+    "author": "Global Times",
+    "published": "2026-01-21T19:15:00.000+02:00",
+    "title": "Chinese research team from Fudan University develops fiber-based chip, to boost brain-computer interface sector - Global Times",
+    "text": "Fiber-based chip Photo: file\nConstructing high-density integrated circuits within a fiber thinner than a human hair — a Chinese research team from Fudan University has pioneered the development of a \"fiber-based chip\" and the results of which were published in the academic journal Nature on January 22.\nThe fiber-based chip's information processing capability is comparable to that of some classical commercial chips, while boasting unique advantages such as high flexibility, adaptability to complex deformations like stretching and twisting, and weavability.\nThis breakthrough holds promise as a key enabler for future industries like brain-computer interfaces, electronic textiles, and virtual reality, according to Jiefang Daily.\nThis achievement, developed by a team led by Peng Huisheng and Chen Peining from the Department of Macromolecular Science, and Laboratory of Advanced Materials at Fudan University, was published in the international academic journal Nature.\n\"The human body consists of soft tissues. Emerging fields like future brain-computer interfaces require electronic systems that are compatible with softness,\" Peng told Jiefang Daily.\nIntegrating chips into fibers presents a challenge akin to \"carving a flower on a single strand of hair.\"\nThe first major hurdle is spatial constraints. The team adopted a novel approach by tapping into the internal space's potential, constructing helical multi-layer circuits to maximize the utilization of the fiber's interior. Based on the lab's 1-micron lithography precision, a 1-mm-long fiber can currently integrate 10,000 transistors, comparable to some commercial medical implant chips. The transistor integration capacity of a 1-meter-long fiber could reach the level of a classical computer's central processing unit.\nThe second major hurdle was lithography compatibility. The team used plasma etching technology to reduce its surface roughness to below 1 nanometer, meeting commercial lithography requirements and shattering the traditional notion that \"chips can only be fabricated on silicon wafers.\"\nThe third major challenge was ensuring stability. The team deposited a dense polymer film on the substrate - akin to putting a \"sturdy armor\" on the circuit - enabling the fiber chip to function stably even under complex deformations.\nIn current brain-computer interface technologies, neural electrodes typically need to be connected to rigid external signal processing modules. With its softness comparable to brain tissue, the fiber chip, by establishing a closed-loop function of \"detection-processing-feedback,\" holds the potential to achieve more efficient signal detection and real-time intervention, Jiefang Daily reported.\nGlobal Times",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->biotechnology",
+        "Science and Technology->electronic engineering",
+        "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-22T07:34:33.521+02:00",
+    "updated": "2026-01-22T07:38:28.000+02:00"
+}

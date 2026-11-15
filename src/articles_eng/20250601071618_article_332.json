@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "b9e33e9715cf7c4dd384fef7a2cdeec1ed623269",
+        "url": "https://floridapolitics.com/archives/735662-senate-oks-measure-protecting-state-parks-from-development-but-changes-send-bill-back-to-house",
+        "site_full": "floridapolitics.com",
+        "site": "floridapolitics.com",
+        "site_section": "https://news.google.com/search?q=such%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Florida Politics",
+        "title": "Senate OKs measure protecting state parks from development, but changes send bill back to House",
+        "title_full": "Senate OKs measure protecting state parks from development, but changes send bill back to House",
+        "published": "2025-05-01T00:55:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://floridapolitics.com/wp-content/uploads/2025/04/park-development-protesters.jpg",
+        "performance_score": 0,
+        "domain_rank": 9539,
+        "domain_rank_updated": "2025-04-22T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b9e33e9715cf7c4dd384fef7a2cdeec1ed623269",
+    "url": "https://floridapolitics.com/archives/735662-senate-oks-measure-protecting-state-parks-from-development-but-changes-send-bill-back-to-house",
+    "ord_in_thread": 0,
+    "author": "Drew Dixon",
+    "published": "2025-05-01T00:55:00.000+03:00",
+    "title": "Senate OKs measure protecting state parks from development, but changes send bill back to House",
+    "text": "The House will have to take another look at a proposal to block further development in Florida state parks after the Senate amended language before signing off on the measure.\nThe Senate adopted the House bill ( HB 209 ), but added technical amendments, such as stipulating uplands and other limitations within parks as boundaries. Parks must also maintain wildlife views and exclude the addition of sporting facilities, other than the existing facilities.\nThe House approved its version earlier this month. But since the Senate tagged amendments to the bill, it now returns to the House for another review.\nThe bill is the result of a massive move against proposed additions in 2024 to parks, such as golf courses, hotels and pickleball courts. Those proposals prompted widespread protests by residents when the Gov. Ron DeSantis administration pitched increasing development on protected park land. The plans were abandoned as a result of the outcry.\nBoth chambers of the Legislature worked on measures to prevent any such repeat in the future.\nSen. Gayle Harrell , a Stuart Republican, sponsored the original Senate bill ( SB 80 ), called “The State Park Preservation Act.” It would require “public hearings for all updated conservation and non-conservation land management plans; requiring the Division of Recreation and Parks of the Department of Environmental Protection to comply with specified provisions when granting certain privileges, leases, concessions, and permits.”\nHarrell said the sizable protests to the plans from DeSantis and the uprising last year proved when it comes to protecting some 175 state parks, Floridians are not in the mood for messing around.\n“This has been such an incredible endeavor,” Harrell said. “This is democracy at work. This was really a grassroots endeavor.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "Environment"
+    ],
+    "topics": [
+        "Politics->government policy",
+        "Politics->local government and authority",
+        "Politics->environmental policy",
+        "Environment->parks",
+        "Environment->conservation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=80751&SessionId=105",
+        "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx",
+        "https://flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=80751&SessionId=105"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gayle Harrell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ron DeSantis",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Senate",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "House",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Legislature",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T01:02:56.506+03:00",
+    "updated": "2025-05-01T07:41:55.715+03:00"
+}

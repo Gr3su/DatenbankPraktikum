@@ -1,0 +1,126 @@
+{
+    "thread": {
+        "uuid": "1978d540b2a6af33b3a237822a8cc5ebc1d88948",
+        "url": "https://www.foxnews.com/video/6401259657112",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://moxie.foxnews.com/google-publisher/videos.xml",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "social issue",
+            "media",
+            "sport",
+            "politics"
+        ],
+        "section_title": "The Latest &amp; Breaking Videos on Fox News",
+        "site_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "US launches new evening strikes on Iran military targets",
+        "title_full": "US launches new evening strikes on Iran military targets",
+        "published": "2026-07-16T06:26:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef2495fe-f15c-40e3-bfe4-6ff2cb7d079c/46fcb12b-68b8-41b1-8c85-5d6235f19012/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+        "performance_score": 0,
+        "domain_rank": 505,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1978d540b2a6af33b3a237822a8cc5ebc1d88948",
+    "url": "https://www.foxnews.com/video/6401259657112",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-07-16T06:26:00.000+03:00",
+    "title": "US launches new evening strikes on Iran military targets",
+    "text": "Log in to comment on videos and join in on the fun.\nWatch the live stream of Fox News and full episodes.\nReduce eye strain and focus on the content that matters.\nThe latest strikes follow a two waves of attacks over 24 hours. Fox News correspondent Christina Coleman has the latest on 'Fox News @ Night.'",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->border disputes",
+        "Politics->government",
+        "Politics->international relations"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Christina Coleman",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Iran",
+                "sentiment": "none"
+            },
+            {
+                "name": "US",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Fox News",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": "FOX",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_us",
+            "top_news"
+        ],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:16:38.628+03:00",
+    "updated": "2026-07-16T07:19:59.000+03:00"
+}

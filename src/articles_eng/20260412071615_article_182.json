@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "0a2290c8cf7b98ee1f07331e7774bc3a1852ff68",
+        "url": "https://www.thedailybeast.com/america-first-donald-trump-caught-in-white-house-ballroom-blunder/",
+        "site_full": "www.thedailybeast.com",
+        "site": "thedailybeast.com",
+        "site_section": "https://www.thedailybeast.com/arc/outboundfeeds/sitemap/latest/?outputType=xml",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "politics",
+            "war, conflict and unrest",
+            "crime, law and justice",
+            "media",
+            "immigration",
+            "law_government_and_politics"
+        ],
+        "section_title": "",
+        "site_title": "The Daily Beast: The Latest in Politics, Media &amp; Entertainment News",
+        "title": "'America First' Donald Trump Caught in White House Ballroom Blunder",
+        "title_full": "'America First' Donald Trump Caught in White House Ballroom Blunder",
+        "published": "2026-04-09T07:21:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thedailybeast.com/resizer/v2/TA327BKFHBEEZHFQTDQMEGHANA.JPG?smart=true&amp;auth=b4865b7d2e57c85e2108f5c093835eef353f1e1035c24ccd582f79afd35ac392&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 2783,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0a2290c8cf7b98ee1f07331e7774bc3a1852ff68",
+    "url": "https://www.thedailybeast.com/america-first-donald-trump-caught-in-white-house-ballroom-blunder/",
+    "ord_in_thread": 0,
+    "author": "William Vaillancourt",
+    "published": "2026-04-09T07:21:00.000+03:00",
+    "title": "'America First' Donald Trump Caught in White House Ballroom Blunder",
+    "text": "Donald Trump’s pet project is only getting more controversial.\nTrump, who campaigned on and enacted tariffs under the notion of “America First,” is using tens of millions of dollars’ worth of foreign steel for his precious White House ballroom.\nThe New York Times reported",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government policy",
+        "Politics->political campaigns",
+        "Politics->international relations"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nytimes.com/2026/04/08/us/politics/white-house-foreign-steel-ballroom.html?unlocked_article_code=1.ZVA.efBz.8Go7uBsHGOV5&smid=url-share",
+        "https://nytimes.com/2026/04/08/us/politics/white-house-foreign-steel-ballroom.html?unlocked_article_code=1.ZVA.efBz.8Go7uBsHGOV5&smid=url-share",
+        "https://www.nytimes.com/2026/04/08/us/politics/white-house-foreign-steel-ballroom.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "White House",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "America First",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "The New York Times",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_us",
+            "top_news"
+        ],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:23:41.321+03:00",
+    "updated": "2026-04-09T07:28:08.000+03:00"
+}

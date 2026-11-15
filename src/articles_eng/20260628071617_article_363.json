@@ -1,0 +1,167 @@
+{
+    "thread": {
+        "uuid": "de27b099e979688466e12532ae3e220451a0eff3",
+        "url": "https://www.newsbreak.com/news/4727068832060-claremore-man-dead-after-boating-incident-on-oologah-lake",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/catoosa-ok",
+        "site_categories": [
+            "crime, law and justice",
+            "sport",
+            "economy, business and finance",
+            "disaster and accident",
+            "human interest",
+            "social issue",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "politics",
+            "under_construction"
+        ],
+        "section_title": "Catoosa, OK Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Claremore Man Dead After Boating Incident on Oologah Lake - NewsBreak",
+        "title_full": "Claremore Man Dead After Boating Incident on Oologah Lake - NewsBreak",
+        "published": "2026-06-23T12:27:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0SNp0r_1Cc5xFA800",
+        "performance_score": 0,
+        "domain_rank": 3030,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "de27b099e979688466e12532ae3e220451a0eff3",
+    "url": "https://www.newsbreak.com/news/4727068832060-claremore-man-dead-after-boating-incident-on-oologah-lake",
+    "ord_in_thread": 0,
+    "author": "Matt Jordan",
+    "published": "2026-06-23T12:27:00.000+03:00",
+    "title": "Claremore Man Dead After Boating Incident on Oologah Lake - NewsBreak",
+    "text": "By Matt Jordan ,\n1 days ago A Claremore man is dead following a boating incident on Oologah Lake. According to the Oklahoma Highway Patrol, the incident happened at around 11:00am yesterday morning in Will Rogers Cove on Oologah Lake in Rogers County. Troopers say 71-year-old Robert Johnson and his boat were reported missing to the Rogers County Sheriff's Office. A search involving the Oklahoma Highway Patrol Marine Division, Northwest Fire Department and the U.S. Army Corps of Engineers was launched. Read full article\n2",
+    "summary": "1 days ago A Claremore man is dead following a boating incident on Oologah Lake. According to the Oklahoma Highway Patrol, the incident happened at around 11:00am yesterday morning in Will Rogers Cove on Oologah Lake in Rogers County. Troopers say 71-year-old Robert Johnson and his boat were reported missing to the Rogers County Sheriff's Office. A search involving the Oklahoma Highway Patrol Marine Division, Northwest Fire Department and the U.S. Army Corps of Engineers was launched. Read full article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Human Interest"
+    ],
+    "topics": [
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://kggfradio.com/local-news/921408",
+        "https://www.kggfradio.com/local-news/921408"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Matt Jordan",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Robert Johnson",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Oologah Lake",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rogers County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Will Rogers Cove",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Northwest Fire Department",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Rogers County Sheriff ' s Office",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "U. S. Army Corps of Engineers",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Oklahoma Highway Patrol Marine Division",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Catoosa"
+            ],
+            "state": [
+                "Oklahoma"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:27:59.652+03:00",
+    "updated": "2026-06-25T07:31:04.000+03:00"
+}

@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "5f50ed1a22a82997125f20eb8f596303743fc251",
+        "url": "https://www.newsmax.com/politics/todd-blanche-trump-lawyer-deputy-attorney-general/2025/03/05/id/1201587",
+        "site_full": "www.newsmax.com",
+        "site": "newsmax.com",
+        "site_section": "https://newsmax.com/?vtype=mob",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "\r\n\tNewsmax – Breaking News | News Videos | Politics, Health, Finance\r\n",
+        "site_title": null,
+        "title": "Senate Confirms Todd Blanche as Deputy Attorney General",
+        "title_full": "Senate Confirms Todd Blanche as Deputy Attorney General",
+        "published": "2025-03-06T00:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=5faa0ba3-3d37-48df-a89a-2acd33f18595&amp;SiteName=Newsmax",
+        "performance_score": 0,
+        "domain_rank": 2492,
+        "domain_rank_updated": "2025-03-03T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5f50ed1a22a82997125f20eb8f596303743fc251",
+    "url": "https://www.newsmax.com/politics/todd-blanche-trump-lawyer-deputy-attorney-general/2025/03/05/id/1201587",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ALANNA DURKIN RICHER",
+    "published": "2025-03-06T00:12:00.000+02:00",
+    "title": "Senate Confirms Todd Blanche as Deputy Attorney General",
+    "text": "• The Republican-led Senate confirmed Todd Blanche as deputy attorney general on March 5, 2025.\n• Blanche was previously President Donald Trump's criminal defense attorney.\n• He was confirmed with a vote of 52-46.\n• Blanche will serve under Attorney General Pam Bondi, a close ally of Trump.\n• His confirmation comes amid turmoil in the Justice Department, including firings and resignations.\n• During his confirmation hearing, Blanche stated that politics would not influence his decisions.\n• He emphasized the need to restore public faith in the justice system.\n• Blanche was a key figure in Trump's defense against multiple criminal cases.\n• Special counsel Jack Smith has defended the cases against Trump regarding election interference and classified documents.\n• These cases were withdrawn after Trump's November presidential win due to Justice Department policy.\n• Emil Bove, acting as the Justice Department's second in command, will become the principal associate deputy attorney general.\n• Bove has taken controversial actions, including demanding names of FBI agents involved in the January 6 investigation.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government",
+        "Politics->political candidates",
+        "Politics->political process"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": true,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Todd Blanche",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jack Smith",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pam Bondi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Emil Bove",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Senate",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Justice Department",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "FBI",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ]
+    },
+    "rating": null,
+    "crawled": "2025-03-06T00:29:31.666+02:00",
+    "updated": "2025-03-06T00:29:31.666+02:00"
+}

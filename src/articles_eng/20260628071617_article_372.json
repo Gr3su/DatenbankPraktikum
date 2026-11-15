@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "0797bbdc4f23c654717c11a77c4db74fafe0994d",
+        "url": "https://www.newsbreak.com/news/4730946840504-torrential-rains-flooding-inundate-broken-arrow-area-some-residents-fuming",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/catoosa-ok",
+        "site_categories": [
+            "social issue",
+            "politics",
+            "economy, business and finance",
+            "disaster and accident",
+            "arts, culture and entertainment",
+            "human interest",
+            "under_construction",
+            "sport",
+            "crime, law and justice",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Catoosa, OK Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Torrential rains, flooding inundate Broken Arrow area, some residents fuming - NewsBreak",
+        "title_full": "Torrential rains, flooding inundate Broken Arrow area, some residents fuming - NewsBreak",
+        "published": "2026-06-25T05:10:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/342k2c_1Cg07Mbj00",
+        "performance_score": 0,
+        "domain_rank": 3030,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0797bbdc4f23c654717c11a77c4db74fafe0994d",
+    "url": "https://www.newsbreak.com/news/4730946840504-torrential-rains-flooding-inundate-broken-arrow-area-some-residents-fuming",
+    "ord_in_thread": 0,
+    "author": "John Dobberstein",
+    "published": "2026-06-25T05:10:00.000+03:00",
+    "title": "Torrential rains, flooding inundate Broken Arrow area, some residents fuming - NewsBreak",
+    "text": "By John Dobberstein ,\n2 hours ago Waves of thunderstorms and heavy rain over the last couple of days led to major flooding in parts of Broken Arrow and Wagoner County this week, which has left many residents — especially in more rural areas — wondering what more can be done to prevent it. A... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather",
+        "Human Interest"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://basentinel.com/torrential-rains-flooding-inundate-broken-arrow-area-some-residents-fuming/",
+        "https://basentinel.com/torrential-rains-flooding-inundate-broken-arrow-area-some-residents-fuming",
+        "https://www.basentinel.com/torrential-rains-flooding-inundate-broken-arrow-area-some-residents-fuming/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "John Dobberstein",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Broken Arrow",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wagoner County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Catoosa"
+            ],
+            "state": [
+                "Oklahoma"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:28:04.903+03:00",
+    "updated": "2026-06-25T07:31:46.000+03:00"
+}

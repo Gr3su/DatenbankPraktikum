@@ -1,0 +1,132 @@
+{
+    "thread": {
+        "uuid": "5b7984163ab4447c96a2f000ae5dd37d37d6a1e7",
+        "url": "https://www.newsbreak.com/wkyc-524557/4594345892777-firstenergy-reports-thousands-of-power-outages-in-greater-cleveland-akron-following-severe-storms-see-the-latest-reports",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/akron-oh",
+        "site_categories": [
+            "human interest",
+            "economy, business and finance",
+            "politics",
+            "crime, law and justice",
+            "under_construction",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "sport"
+        ],
+        "section_title": "Akron, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "FirstEnergy reports thousands of power outages in Greater Cleveland, Akron following severe storms: See the latest reports - NewsBreak",
+        "title_full": "FirstEnergy reports thousands of power outages in Greater Cleveland, Akron following severe storms: See the latest reports - NewsBreak",
+        "published": "2026-04-16T04:07:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/21Mlfm_1AUMgHAB00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5b7984163ab4447c96a2f000ae5dd37d37d6a1e7",
+    "url": "https://www.newsbreak.com/wkyc-524557/4594345892777-firstenergy-reports-thousands-of-power-outages-in-greater-cleveland-akron-following-severe-storms-see-the-latest-reports",
+    "ord_in_thread": 0,
+    "author": "WKYC",
+    "published": "2026-04-16T04:07:00.000+03:00",
+    "title": "FirstEnergy reports thousands of power outages in Greater Cleveland, Akron following severe storms: See the latest reports - NewsBreak",
+    "text": "3 hours ago CLEVELAND — Wednesday's severe storms, which included damage caused by hail strikes, has caused thousands of FirstEnergy customers to be without power across Northeast Ohio. According to FirstEnergy, as of 8 p.m., there are a total of 14,683 outages across Ohio. Here are the latest totals by county as of 8 p.m. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Greater Cleveland",
+                "sentiment": "none"
+            },
+            {
+                "name": "Akron",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ohio",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FirstEnergy",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "FE",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:21:19.501+03:00",
+    "updated": "2026-04-16T08:00:18.000+03:00"
+}

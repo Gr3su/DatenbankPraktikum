@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "c1f76581d17d3c6f16ff00384b95a4598b999fc8",
+        "url": "https://www.newsbreak.com/dpa-2102879/4173358129379-palestinians-report-one-death-after-settler-attack-near-nablus",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/dpa-2102879",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "DPA&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Palestinians report one death after settler attack near Nablus - NewsBreak",
+        "title_full": "Palestinians report one death after settler attack near Nablus - NewsBreak",
+        "published": "2025-08-14T07:14:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1Xyajc_13lAJklQ00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c1f76581d17d3c6f16ff00384b95a4598b999fc8",
+    "url": "https://www.newsbreak.com/dpa-2102879/4173358129379-palestinians-report-one-death-after-settler-attack-near-nablus",
+    "ord_in_thread": 0,
+    "author": "DPA",
+    "published": "2025-08-14T07:14:00.000+03:00",
+    "title": "Palestinians report one death after settler attack near Nablus - NewsBreak",
+    "text": "A Palestinian has been killed in a confrontation in the West Bank, Palestinian sources said on Wednesday. The Health Ministry in Ramallah stated that the 35-year-old man was severely injured by gunfire from Israeli settlers near the village of Duma, not far from Nablus, and later died from his injuries. Israel's military stated upon request that dozens of Palestinian terrorists had thrown stones at an off-duty soldier and an Israeli civilian during construction work near Duma. The soldier then fired warning shots. \"The terrorists continued to throw stones, whereupon the soldier fired to eliminate the threat,\" it said. The situation in the occupied West Bank has intensified since the massacre by the Palestinian Islamist movement Hamas in Israel on October 7, 2023, and the ensuing Gaza war. Since then, 967 Palestinians have been killed in the West Bank in Israeli military operations, armed confrontations and attacks, according to the Palestinian Health Ministry. At the same time, radical Israeli settlers have expanded their attacks on Palestinians in the West Bank. They repeatedly advance into Palestinian villages with firearms, baseball bats and stones, set houses and cars on fire, and ignite fields and olive groves. Human rights activists accuse Israel's military of often failing to intervene in such incidents.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Crime, Law and Justice",
+        "Human Interest"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->civil unrest",
+        "War, Conflict and Unrest->armed conflict",
+        "War, Conflict and Unrest->terrorist bombings",
+        "Crime, Law and Justice->homicide",
+        "Crime, Law and Justice->war crime",
+        "Crime, Law and Justice->investigation (criminal)",
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=1Xyajc_13lAJklQ00",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1Xyajc_13lAJklQ00",
+        "https://www.img.particlenews.com/image.php?url=1Xyajc_13lAJklQ00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1Xyajc_13lAJklQ00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "West Bank",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nablus",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Palestinian Health Ministry",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Hamas",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T07:18:54.049+03:00",
+    "updated": "2025-08-14T07:25:01.000+03:00"
+}

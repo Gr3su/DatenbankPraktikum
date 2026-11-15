@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "08e0bef53215637ddba2a52a6dd66e6911477abc",
+        "url": "https://www.newsbreak.com/news/4745105370153-one-dead-four-injured-in-two-car-crash-at-crown-point",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/fair-oaks-in",
+        "site_categories": [
+            "economy, business and finance",
+            "politics",
+            "crime, law and justice",
+            "under_construction",
+            "human interest",
+            "arts, culture and entertainment",
+            "disaster and accident",
+            "sport",
+            "social issue",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Fair Oaks, IN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "One dead, four injured in two-car crash at Crown Point - NewsBreak",
+        "title_full": "One dead, four injured in two-car crash at Crown Point - NewsBreak",
+        "published": "2026-07-02T05:02:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2VAeHo_1CuGuqQa00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "08e0bef53215637ddba2a52a6dd66e6911477abc",
+    "url": "https://www.newsbreak.com/news/4745105370153-one-dead-four-injured-in-two-car-crash-at-crown-point",
+    "ord_in_thread": 0,
+    "author": "Yahoo!",
+    "published": "2026-07-02T05:02:00.000+03:00",
+    "title": "One dead, four injured in two-car crash at Crown Point - NewsBreak",
+    "text": "2 hours ago A man from Baltimore, Maryland died while a woman is listed as being in critical condition at this time. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->emergency response",
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.yahoo.com/news/videos/one-dead-four-injured-two-020232429.html",
+        "https://yahoo.com/news/videos/one-dead-four-injured-two-020232429.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Baltimore",
+                "sentiment": "none"
+            },
+            {
+                "name": "Crown Point",
+                "sentiment": "none"
+            },
+            {
+                "name": "Maryland",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Fair Oaks"
+            ],
+            "state": [
+                "Oregon",
+                "Indiana",
+                "Georgia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:48:40.279+03:00",
+    "updated": "2026-07-02T07:50:50.000+03:00"
+}

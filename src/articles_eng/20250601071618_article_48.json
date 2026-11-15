@@ -1,0 +1,126 @@
+{
+    "thread": {
+        "uuid": "8d293bb0a3e934e684122941cfdb1b98b2571576",
+        "url": "https://www.newsmax.com/us/new-york-times-trump/2025/04/30/id/1209013",
+        "site_full": "www.newsmax.com",
+        "site": "newsmax.com",
+        "site_section": "https://www.newsmax.com/rss/us/18",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "Newsmax - America",
+        "site_title": "Newsmax – Breaking News | News Videos | Politics, Health, Finance",
+        "title": "NYT: 'Will Not Be Deterred by Trump's Intimidation Tactics'",
+        "title_full": "NYT: 'Will Not Be Deterred by Trump's Intimidation Tactics'",
+        "published": "2025-05-01T00:03:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=606c1e4d-c018-448b-9087-68c1d222350d&amp;SiteName=Newsmax",
+        "performance_score": 0,
+        "domain_rank": 2517,
+        "domain_rank_updated": "2025-04-22T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8d293bb0a3e934e684122941cfdb1b98b2571576",
+    "url": "https://www.newsmax.com/us/new-york-times-trump/2025/04/30/id/1209013",
+    "ord_in_thread": 0,
+    "author": "Solange Reyner",
+    "published": "2025-05-01T00:03:00.000+03:00",
+    "title": "NYT: 'Will Not Be Deterred by Trump's Intimidation Tactics'",
+    "text": "By Solange Reyner | Wednesday, 30 April 2025 05:14 PM EDT\nThe New York Times says it will \"not be deterred\" after President Donald Trump threatened the news outlet with legal action over its coverage of his legal suit against CBS owner Paramount.\n\"President Trump's post today follows a long list of legal threats aimed at discouraging or penalizing independent reporting about the administration. The law is clear and protects a strong free press and favors an informed American public,\" the Times said in a statement.\nThe Times \"will not be deterred by the administration's intimidation tactics. We will continue to pursue the facts without fear or favor and stand up for journalists' First Amendment right to ask questions on behalf of the American people,\" it added.\nTrump earlier Wednesday blasted the Times, saying it \"makes them liable for tortious interference, including in Elections, which we are intently studying.\"\n\"Tortious interference\" occurs when a contract or business relationship is intentionally damaged by another person's actions.\nThe board of Paramount Global, the parent company of CBS News, on Wednesday outlined acceptable financial terms for a potential settlement with Trump on his \"60 Minutes\" lawsuit, The New York Times reported Tuesday, citing three people with knowledge of the internal discussions.\nTrump filed a $10 billion lawsuit against CBS in October, alleging the network deceptively edited an interview with then-vice president and presidential candidate Kamala Harris to \"tip the scales in favor of the Democratic Party\" in the November election.\n© 2025 Newsmax. All rights reserved.\nReceive breaking news and original analysis - sent right to your inbox.\n|\nNewsmax, Moneynews, Newsmax Health, and Independent. American. are registered trademarks of Newsmax Media, Inc. Newsmax TV, and Newsmax World are trademarks of Newsmax Media, Inc.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->government",
+        "Politics->freedom of the press",
+        "Politics->political dissent",
+        "Social Issue->social problem",
+        "Social Issue->ethics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Solange Reyner",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "New York Times",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "NYT",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Paramount Global",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "CBS",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T00:19:38.060+03:00",
+    "updated": "2025-04-30T21:23:43.000+00:00"
+}

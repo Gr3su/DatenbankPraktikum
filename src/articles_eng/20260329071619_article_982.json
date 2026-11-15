@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "7eb6b01fc2adc785792e51ba06878b3b7fb26e58",
+        "url": "https://www.newsbreak.com/news/4558406482943-mckenzie-standoff-man-charged-after-threatening-officers-barricading-himself-in-garage",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/trenton-tn",
+        "site_categories": [
+            "human interest",
+            "sport",
+            "economy, business and finance",
+            "politics",
+            "arts, culture and entertainment",
+            "under_construction",
+            "crime, law and justice",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Trenton, TN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "McKenzie standoff: Man charged after threatening officers, barricading himself in garage - NewsBreak",
+        "title_full": "McKenzie standoff: Man charged after threatening officers, barricading himself in garage - NewsBreak",
+        "published": "2026-03-25T20:47:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1N2yEL_19v9EfEQ00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7eb6b01fc2adc785792e51ba06878b3b7fb26e58",
+    "url": "https://www.newsbreak.com/news/4558406482943-mckenzie-standoff-man-charged-after-threatening-officers-barricading-himself-in-garage",
+    "ord_in_thread": 0,
+    "author": "Jaxon Steward",
+    "published": "2026-03-25T20:47:00.000+02:00",
+    "title": "McKenzie standoff: Man charged after threatening officers, barricading himself in garage - NewsBreak",
+    "text": "By Jaxon Steward ,\n10 hours ago McKENZIE, Tenn. — A McKenzie man faces multiple charges after threatening officers and barricading himself in a garage for hours Tuesday, leading to a standoff that required a SWAT team response. Bryan Gearin was charged with three counts of aggravated assault and three counts of assault on a first... Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->assault"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jaxon Steward",
+                "sentiment": "negative"
+            },
+            {
+                "name": "McKenzie",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Bryan Gearin",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "McKENZIE",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Trenton"
+            ],
+            "state": [
+                "Tennessee"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-26T07:39:23.944+02:00",
+    "updated": "2026-03-26T07:44:21.000+02:00"
+}

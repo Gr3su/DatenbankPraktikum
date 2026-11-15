@@ -1,0 +1,151 @@
+{
+    "thread": {
+        "uuid": "2e740713eb2043d2035a5cb4b27854184737cfb3",
+        "url": "https://www.newsbreak.com/heatmap-news-1733655/4920388203850-the-senate-permitting-deal-contains-a-data-center-double-tap",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/heatmap-news-1733655",
+        "site_categories": [
+            "sport",
+            "under_construction",
+            "politics",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "human interest",
+            "crime, law and justice",
+            "science and technology"
+        ],
+        "section_title": "Heatmap News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "The Senate Permitting Deal Contains a Data Center Double Tap - NewsBreak",
+        "title_full": "The Senate Permitting Deal Contains a Data Center Double Tap - NewsBreak",
+        "published": "2026-10-02T04:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2dhFiE_1FhttNt700",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:05:59.808+03:00"
+        }
+    },
+    "uuid": "2e740713eb2043d2035a5cb4b27854184737cfb3",
+    "url": "https://www.newsbreak.com/heatmap-news-1733655/4920388203850-the-senate-permitting-deal-contains-a-data-center-double-tap",
+    "ord_in_thread": 0,
+    "author": "Robinson Meyer",
+    "published": "2026-10-02T04:00:00.000+03:00",
+    "title": "The Senate Permitting Deal Contains a Data Center Double Tap - NewsBreak",
+    "text": "By Robinson Meyer ,\n3 hours ago Heatmap Illustration/Getty Images Call it the data center double tap.\nA wonky set of provisions in the Senate’s bipartisan permitting deal would rewrite federal electricity law to allow states and utilities to discriminate against artificial intelligence data centers and crypto miners for the first time.\nThe proposal would force AI data centers to pay for any new transmission infrastructure required to serve them — while still paying full freight to use the rest of the power grid. It could even let states require the facilities to subsidize other customers’ power rates.\nSenator Martin Heinrich, the ranking Democrat on the Senate energy committee, mentioned the provisions during a press event announcing the deal on Wednesday, but they have so far attracted less attention than the bill’s other measures.\nIf enacted, the bill will “mean that we actually require big load centers — whether that’s a factory or a data center — to not pass those costs on to the American consumer by statute, not suggestion,” he said.\nThe bill arguably goes further than that summary. It creates new carve-outs in federal law that disadvantage data centers and crypto miners specifically, allowing states to discriminate against them as compared to other large-scale customers. It also protects electricity customers from the future risk of data centers failing to pay their bills.\nThe proposal comes at an auspicious time. Utilities are already gearing up to spend tens of billions of dollars building new transmission lines and power infrastructure to meet energy demand from AI data centers. The law would seek to ensure that tech companies and data center developers bear the cost of those upgrades.\nSince the data center boom got underway, just about everyone involved — tech companies, utilities, environmentalists, and even President Trump — has agreed on one thing: Normal Americans should not pay for data centers’ burden on the power system.\nThese expenses can be significant, especially for the transmission system. Because a single computing facility can guzzle gigawatts of energy at once, compressing a city’s worth of power demand into just a few acres, it often requires the construction of specialized new infrastructure, or it risks causing blackouts and brownouts for nearby customers.\nIn 2024, utility customers in the country’s largest power market paid $4.3 billion for transmission upgrades to supply data centers, according to a Union of Concerned Scientists report.\nTrump enshrined guarantees against these payments in his Ratepayer Protection Pledge in March. That document vowed that data center companies must pay for all of the electricity used to run their facilities, any new power plants required to generate that electricity, and any “new power delivery infrastructure upgrades.”\nThere’s just one issue: Under federal law, the last part of that pledge is nearly impossible.\nSince the early 1990s, federal law has prohibited utilities from charging customers for both the cost of using specific transmission infrastructure and the cost of using the rest of the power grid.\nThe origins of that ban go back to a 1992 case where a power plant in one utility’s service area wanted to sell electricity to a neighboring utility. The local utility wanted to charge it the “normal” cost of using its power grid, plus a special fee to cover the cost of crowding its own customers off the necessary transmission lines.\nThe Federal Energy Regulatory Commission ruled that was illegal. Instead, it said, utilities could make a customer pay for the “incremental” cost of using specific transmission lines, such as those built to service their facility. Or they could charge for the “embedded” costs of the existing power grid.\nUtilities could not charge customers for both “incremental and embedded” costs, it said; instead, utilities had to choose the higher of the two. FERC formalized the policy in 1994.\nElectricity law has changed significantly since then, and those FERC rules don’t apply to power plants, Ari Peskoe , the director of the Electricity Law Initiative at Harvard Law School, told me.\nBut the ban still applies to electricity customers — even very big ones, like data centers. Peskoe wrote a Utility Dive article in April credited with first identifying the clash between the FERC rules, the data center boom, and the White House’s pledge.\nThe rules have serious implications for energy affordability. In practice, virtually every utility today is charging data centers for the “embedded” cost of using the existing grid, Peskoe told me. That’s because utilities want to avoid fights with each data center about which transmission upgrade costs are “incremental” and which are “embedded.”\nInstead, utilities are forcing all of their customers to pay for the cost of transmission upgrades to serve those data centers. That means data centers will likely drive up normal Americans’ electricity rates for the next decade or so, even if officials, lawmakers, and tech companies say they don’t want that to happen.\nThe Senate proposal would change this, instructing FERC to require utilities to charge data centers for the cost of any new grid upgrades required to serve them as well as the costs of the underlying grid. In other words, it would mandate data centers pay for embedded and incremental costs.\nThese types of customers “should incur the full cost of the transmission service they require,” the bill says. This change would apply narrowly to data centers, crypto mining operations, and any facilities doing AI training — essentially discriminating against data centers under federal law.\nThe bill would also write a new section into the Federal Power Act that would require data centers, crypto miners, and other computing facilities larger than 20 megawatts to cover the entire cost of their service. The bill says utilities can’t spread the cost of providing energy or building infrastructure for data centers to any other customer.\nIf data centers leave a contract early, they will still have to pay for the full cost of those grid upgrades. And before a utility can upgrade any of their infrastructure to serve a data center, it must get “financial assurances or contributions” from that facility to cover the costs of doing so.\nThe bill also allows states to go further than these provisions — they can discriminate against data centers, set special rates by which data centers subsidize other customers’ power rates, and auction off the right to connect to the power grid.\nSince I’ve learned about these provisions, I’ve struggled with what to call them. They aren’t quite a new tax on data centers, because the government does not collect the revenue. But many of them have tax-like qualities: They impose significant new costs on future data centers that would then be used to pay for upgrades to the broader power grid, and they protect the power system from the downside risks of a data center bust. They also allow for cross-subsidy of the power system, where payments from data centers can reduce everyone else’s electricity rates.\nThe law would bring federal rules governing electricity somewhat closer to those that already exist for natural gas, though it goes much further than those rules, too. Since 1999, FERC has generally assumed new interstate natural gas pipelines should be entirely paid for in an “incremental” way, meaning that new shippers or customers are supposed to bear the costs of service expansion alone. Having customers pay for embedded and incremental pricing remains illegal under federal natural gas law.\nWhen combined with other provisions in the bill — such as those that make building new interstate transmission lines much easier — the new policies could help spur a large-scale buildout of electricity infrastructure paid for by the data center boom.\nBut even setting that more ambitious potential aside, the law would cover existing holes in the laws protecting Americans from paying for the data center boom.“I think it’s an improvement on the status quo,” Peskoe told me. “I think it’s consistent with data centers paying their ‘fair share,’ and consistent with the text of the Ratepayer Protection Pledge.”\nAnd it is also “consistent,” he added, “with how normal people might think about these issues.”\nRead more: This Is How You Die of Extreme Heat",
+    "summary": "A wonky set of provisions in the Senate’s bipartisan permitting deal would rewrite federal electricity law to allow states and utilities to discriminate against artificial intelligence data centers and crypto miners for the first time. Because a single computing facility can guzzle gigawatts of energy at once, compressing a city’s worth of power demand into just a few acres, it often requires the construction of specialized new infrastructure, or it risks causing blackouts and brownouts for nearby customers.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government",
+        "Politics->regulation of industry",
+        "Politics->government policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=2dhFiE_1FhttNt700",
+        "https://www.whitehouse.gov/presidential-actions/2026/03/ratepayer-protection-pledge-proclamation/?_sp=f3e550cb-1657-44c5-b5b8-b8eeb0e862e1.1790890010746",
+        "https://statepowerproject.wordpress.com/wp-content/uploads/2026/03/pennsylvania-electric-company.pdf?_sp=f3e550cb-1657-44c5-b5b8-b8eeb0e862e1.1790894548903",
+        "https://www.utilitydive.com/news/ferc-transmission-policy-white-house-ratepayer-protection-peskoe/815438/",
+        "https://heatmap.news/climate/heat-wave-stroke-death-die",
+        "https://blog.ucs.org/mike-jacobs/data-centers-are-already-increasing-your-energy-bills/",
+        "https://www.wsj.com/business/energy-oil/the-electric-grid-needs-huge-upgrades-no-one-knows-who-will-pay-for-them-2d9e2c11",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2dhFiE_1FhttNt700",
+        "https://www.blog.ucs.org/mike-jacobs/data-centers-are-already-increasing-your-energy-bills/",
+        "https://wsj.com/business/energy-oil/the-electric-grid-needs-huge-upgrades-no-one-knows-who-will-pay-for-them-2d9e2c11",
+        "https://statepowerproject.wordpress.com/wp-content/uploads/2026/03/pennsylvania-electric-company.pdf",
+        "https://www.utilitydive.com/news/ferc-transmission-policy-white-house-ratepayer-protection-peskoe/815438",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2dhFiE_1FhttNt700",
+        "https://www.statepowerproject.wordpress.com/wp-content/uploads/2026/03/pennsylvania-electric-company.pdf?_sp=f3e550cb-1657-44c5-b5b8-b8eeb0e862e1.1790894548903",
+        "https://whitehouse.gov/presidential-actions/2026/03/ratepayer-protection-pledge-proclamation/?_sp=f3e550cb-1657-44c5-b5b8-b8eeb0e862e1.1790890010746",
+        "https://www.heatmap.news/climate/heat-wave-stroke-death-die",
+        "https://blog.ucs.org/mike-jacobs/data-centers-are-already-increasing-your-energy-bills",
+        "https://utilitydive.com/news/ferc-transmission-policy-white-house-ratepayer-protection-peskoe/815438/",
+        "https://img.particlenews.com/image.php",
+        "https://www.whitehouse.gov/presidential-actions/2026/03/ratepayer-protection-pledge-proclamation/",
+        "https://www.img.particlenews.com/image.php?url=2dhFiE_1FhttNt700"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Robinson Meyer",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Getty Images",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Senate",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:05:59.808+03:00",
+    "updated": "2026-10-02T07:09:08.000+03:00",
+    "related_articles": null
+}

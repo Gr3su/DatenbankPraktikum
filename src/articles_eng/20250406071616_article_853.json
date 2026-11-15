@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "431ec2334c8f7e87d2c642543c48f9c40a2b38c6",
+        "url": "https://www.doyletimes.com/world/google-starts-watching-android-users-before-opening-applications",
+        "site_full": "www.doyletimes.com",
+        "site": "doyletimes.com",
+        "site_section": "https://www.doyletimes.com",
+        "site_categories": [],
+        "section_title": "Doyletimes",
+        "site_title": null,
+        "title": "Google starts watching Android users before opening applications",
+        "title_full": "Google starts watching Android users before opening applications",
+        "published": "2025-03-06T01:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "431ec2334c8f7e87d2c642543c48f9c40a2b38c6",
+    "url": "https://www.doyletimes.com/world/google-starts-watching-android-users-before-opening-applications",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sophia",
+    "published": "2025-03-06T01:13:00.000+02:00",
+    "title": "Google starts watching Android users before opening applications",
+    "text": "The study conducted by Professor Trinity in Dublin showed that Cuckoo and other identities used by Google to analyze and personalize ads appear on Android utilities before users open the first application.\nThese monitoring programs are provided (PDF) from Google servers, stored on the device and send data to Technigant through pre -installed applications, such as Google Play and Google Play Client services.\nAt the same time, no one requires the consent of the user and the refusal of monitoring is not provided. The researcher concluded that such a practice contrary to European data protection (GDPR).\nWhen it pops out, right after entering the Google account (when Android starts), the DSID file is downloaded to the Cuckoo smartphone that is stored in the Google Play service application folder and is used to track user websites for third-party websites.\nAfter the first connection of the Google Play service, another identification code was created on the device, attached to the Google – Android ID account. It is constantly moving data even in case the user comes out of the account and you can only remove this by dropping the installation into the factory.\nBefore publishing the research results, the author moved to Google for clarification. The respondent briefly: The legal aspects are affected – no comments, errors and false statements are not found; Questions about changes according to the plan related to cookies and so on. He has not been answered yet.\nIn a comment for the registration book, a company representative explained:\nThe discussion report on tools and technology on the basis of Google creates useful products and services. The author of the study mentioned that he did not have legal education and we did not agree with his legal assessment of the analysis results. User security is an important task for Android and we confirm the willingness to comply with the relevant laws and norms.\nFor the first time, Technigaut is not the first time to change the word and act in ensuring the user's privacy. Therefore, recently, users have new concerns related to the installation and launch of Android Safetycore ands system.\nThe developer hurriedly dispelled doubts, explaining that this system service did not scan the content on the customer's side, but only classified it for messages and results that were not shaved. However, the consent of the user is once again not asked and the ability to refuse is not provided.\nHowever, the new properties can be deleted or disabled through the settings: Application> Display all (or systems), choose safety in the list and click delete or stop or stop. Unfortunately, the imposition will return to the next extension of the OS.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Google",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ]
+    },
+    "rating": null,
+    "crawled": "2025-03-06T01:49:22.875+02:00",
+    "updated": "2025-03-06T01:49:22.875+02:00"
+}

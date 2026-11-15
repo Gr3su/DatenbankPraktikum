@@ -1,0 +1,151 @@
+{
+    "thread": {
+        "uuid": "ebb1394e0549d450e58b42ac950264a4a890a6db",
+        "url": "https://www.newsbreak.com/news/4989252206675-carbondale-man-facing-first-degree-murder-after-turning-himself-in-to-police",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/rockwood-il",
+        "site_categories": [
+            "politics",
+            "lifestyle and leisure",
+            "sport",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "social issue",
+            "crime, law and justice",
+            "under_construction"
+        ],
+        "section_title": "Rockwood, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Carbondale man facing first-degree murder after turning himself in to police - NewsBreak",
+        "title_full": "Carbondale man facing first-degree murder after turning himself in to police - NewsBreak",
+        "published": "2026-11-06T01:46:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3zDhwO_1GoHNci200",
+        "performance_score": 0,
+        "domain_rank": 2894,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-11-06T06:59:27.836+02:00"
+        }
+    },
+    "uuid": "ebb1394e0549d450e58b42ac950264a4a890a6db",
+    "url": "https://www.newsbreak.com/news/4989252206675-carbondale-man-facing-first-degree-murder-after-turning-himself-in-to-police",
+    "ord_in_thread": 0,
+    "author": "Elaina Seidelman",
+    "published": "2026-11-06T01:46:00.000+02:00",
+    "title": "Carbondale man facing first-degree murder after turning himself in to police - NewsBreak",
+    "text": "By Elaina Seidelman ,\n12 hours ago\nCARBONDALE, Ill. (Heartland News) - A Carbondale, Illinois man was arrested and charged with murder after he turned himself in to police on Thursday afternoon, November 5. According to the Carbondale Police Department, 39-year-old James Harris told police he was responsible for the death of a woman he was living with.\nRead full article\nAdd to Preferred Sources\n4",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.gstatic.com/images/branding/productlogos/googleg_gradient/v1/24px.svg",
+        "https://www.kfvs12.com/2026/11/05/carbondale-man-faces-first-degree-murder-after-turning-himself/?outputType=amp",
+        "https://www.google.com/preferences/source?q=newsbreak.com",
+        "https://kfvs12.com/2026/11/05/carbondale-man-faces-first-degree-murder-after-turning-himself/?outputType=amp",
+        "https://www.kfvs12.com/2026/11/05/carbondale-man-faces-first-degree-murder-after-turning-himself/",
+        "https://gstatic.com/images/branding/productlogos/googleg_gradient/v1/24px.svg",
+        "https://www.google.com/preferences/source",
+        "https://google.com/preferences/source?q=newsbreak.com"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "James Harris",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Elaina Seidelman",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "CARBONDALE",
+                "sentiment": "none"
+            },
+            {
+                "name": "Illinois",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Carbondale Police Department",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Heartland News",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Rockwood"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-11-06T06:59:27.836+02:00",
+    "updated": "2026-11-06T14:22:09.801+02:00",
+    "related_articles": null
+}

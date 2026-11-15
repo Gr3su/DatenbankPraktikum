@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "e667941052c1721a9b7375ab740a3061b99a66f0",
+        "url": "https://www.newsbreak.com/politico-560779/4811995390095-openai-s-models-shared-hacking-tips-on-a-secret-messaging-board-before-hugging-face-breach",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/politico-560779",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "sport",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "under_construction",
+            "social issue",
+            "human interest",
+            "health",
+            "lifestyle and leisure"
+        ],
+        "section_title": "POLITICO&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "OpenAI's models shared hacking tips on a secret messaging board before Hugging Face breach - NewsBreak",
+        "title_full": "OpenAI's models shared hacking tips on a secret messaging board before Hugging Face breach - NewsBreak",
+        "published": "2026-08-06T01:02:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2P8vg8_1Dyg5d3s00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e667941052c1721a9b7375ab740a3061b99a66f0",
+    "url": "https://www.newsbreak.com/politico-560779/4811995390095-openai-s-models-shared-hacking-tips-on-a-secret-messaging-board-before-hugging-face-breach",
+    "ord_in_thread": 0,
+    "author": "Dana Nickel",
+    "published": "2026-08-06T01:02:00.000+03:00",
+    "title": "OpenAI's models shared hacking tips on a secret messaging board before Hugging Face breach - NewsBreak",
+    "text": "By Dana Nickel John Sakellariadis ,\n9 hours ago\nLAS VEGAS — Weeks before they escaped a closed test and launched a cyberattack without any human prompting, some of OpenAI’s most advanced artificial intelligence agents secretly began sharing tips on how to cheat their way through an internal hacking evaluation, two of the AI company’s researchers said Wednesday.\n“This is a pivotal moment both for our company as well as the AI industry as a whole,” Michael Dalton, one of the AI-maker’s researchers, said during a presentation at the Black Hat cybersecurity conference in Las Vegas, Nevada.\nThe latest disclosure provides greater detail on the timeline and methods used by two of OpenAI’s models before they slipped outside a controlled environment and onto the open internet , allowing the models to breach AI developer platform Hugging Face undetected. OpenAI admitted its models were responsible for the hack late last month, roughly a week after Hugging Face said an autonomous AI system broke into its network.\nThe revelation is likely to spur fresh scrutiny of the measures leading AI labs such as OpenAI and Anthropic are taking to monitor the behavior of their most cyber-capable technology — especially during evaluations where agents are prompted to demonstrate their hacking skills in what is meant to be a controlled setting.\nOn Tuesday, the U.K.’s AI Safety and Security Institute disclosed that Anthropic’s most powerful AI model created fake online personas and sought to trick a human coder into abetting a cyberattack during a recent hacking test gone wrong. After the Hugging Face disclosure last month, Anthropic conducted a review and found models it was testing had breached three organizations in separate incidents dating back to April.\nDalton and Eric Wallace, another OpenAI researcher, said Wednesday the AI giant recently learned that multiple agents it was testing simultaneously began communicating over an internal message board in early May. There, different models shared advice about how to accomplish difficult hacking challenges they were struggling to surmount, including workarounds that required internet access.\nTwo OpenAI models ultimately strung together a series of sophisticated techniques to gain access to the internet and worm their way inside Hugging Face in mid-July. OpenAI has said the models were focused on completing a hacking evaluation they were prompted to solve, and that correct answers could be found on the AI developer platform.\nThe OpenAI researchers told conference attendees that since early May, the models created a message board inside OpenAI’s Artifactory internal file system. Without the company’s knowledge, the models spent months independently exchanging information and techniques to help each other complete difficult tasks.\nWallace said that when models get stuck, they often “try to game or cheat the task in order to get their reward.”\n“The beginning of this incident kind of traces back to this point where one agent realized it could communicate by uploading a note,” he added.\nBy late May, one model found a way to abuse Artifactory’s internet access to retrieve files from various websites — effectively giving the models indirect access to the internet. In June, the models were able to find and exploit a previously unknown zero-day vulnerability to gain administrative privileges on Artifactory, install remote software and expand their activity within the system.\nThese efforts eventually overloaded Artifactory, causing a system-wide outage in early July that alerted OpenAI’s engineers to the ploy. After investigating, the company revoked the model’s credentials, removed the message board and worked with Artifactory to fix any gaps before resuming training. But the models found another way to communicate inside Artifactory just days later and continued exchanging techniques to target additional vulnerabilities within OpenAI’s infrastructure and external systems, including Hugging Face.\nIn light of the incident, Dalton said OpenAI is “consciously slowing down research to enhance security and to upgrade the security principles and foundation of our environment, and dramatically scaling up the monitoring of our AI agents and improving our general security control environment across prevention, detection, and mitigation.\"",
+    "summary": "By Dana Nickel John Sakellariadis , LAS VEGAS — Weeks before they escaped a closed test and launched a cyberattack without any human prompting, some of OpenAI’s most advanced artificial intelligence agents secretly began sharing tips on how to cheat their way through an internal hacking evaluation, two of the AI company’s researchers said Wednesday.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Science and Technology->information science",
+        "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2P8vg8_1Dyg5d3s00",
+        "https://www.politico.com/news/2026/08/04/anthropic-openai-aisi-testing-01025042",
+        "https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572",
+        "https://img.particlenews.com/image.php?url=2P8vg8_1Dyg5d3s00",
+        "https://www.politico.com/news/2026/07/30/anthropic-ai-rogue-hacks-01018741",
+        "https://politico.com/news/2026/07/30/anthropic-ai-rogue-hacks-01018741",
+        "https://www.img.particlenews.com/image.php?url=2P8vg8_1Dyg5d3s00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2P8vg8_1Dyg5d3s00",
+        "https://politico.com/news/2026/08/04/anthropic-openai-aisi-testing-01025042",
+        "https://img.particlenews.com/image.php",
+        "https://politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "John Sakellariadis",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Michael Dalton",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Las Vegas",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nevada",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "OpenAI",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:10:10.932+03:00",
+    "updated": "2026-08-06T10:11:50.153+03:00"
+}

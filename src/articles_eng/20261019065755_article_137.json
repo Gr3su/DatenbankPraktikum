@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "4efd9e20d91fdee91bcebaadeed30cb50bb67284",
+        "url": "https://www.newsbreak.com/news/4947274252984-fire-bursts-into-flames-on-i-24-no-injuries-reported",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/murfreesboro-tn",
+        "site_categories": [
+            "politics",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "crime, law and justice",
+            "under_construction",
+            "lifestyle and leisure",
+            "sport"
+        ],
+        "section_title": "Murfreesboro, TN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Fire bursts into flames on I-24, no injuries reported - NewsBreak",
+        "title_full": "Fire bursts into flames on I-24, no injuries reported - NewsBreak",
+        "published": "2026-10-15T14:13:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1ReAQO_1G7zcMkn00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:04:24.640+03:00"
+        }
+    },
+    "uuid": "4efd9e20d91fdee91bcebaadeed30cb50bb67284",
+    "url": "https://www.newsbreak.com/news/4947274252984-fire-bursts-into-flames-on-i-24-no-injuries-reported",
+    "ord_in_thread": 0,
+    "author": "WZTV",
+    "published": "2026-10-15T14:13:00.000+03:00",
+    "title": "Fire bursts into flames on I-24, no injuries reported - NewsBreak",
+    "text": "By WZTV ,\n16 hours ago MURFREESBORO, Tenn. (WZTV) — A car crashed and burst into flames on Interstate 24 in Murfreesboro Wednesday night. Murfreesboro Fire Rescue Department personnel responded to the wreck at the 83 mile marker. The firefighters worked to extinguish the fire, and had to use foam to put it out. TRAFFIC... Read full article\n3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->fire"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://fox17.com/news/local/car-fire-on-i-24-left-wesbound-completely-shut-down-as-firefighters-responded",
+        "https://www.fox17.com/news/local/car-fire-on-i-24-left-wesbound-completely-shut-down-as-firefighters-responded"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwow.fc40898b.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Murfreesboro",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WZTV",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Interstat",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Murfreesboro Fire Rescue Department",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Murfreesboro"
+            ],
+            "state": [
+                "Tennessee"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:04:24.640+03:00",
+    "updated": "2026-10-16T07:06:00.000+03:00",
+    "related_articles": null
+}

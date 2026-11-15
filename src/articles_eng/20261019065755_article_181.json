@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "64b2354df0672c6d788493ab1b9e2630048ccf46",
+        "url": "https://www.newsbreak.com/news/4948590956536-police-searching-for-woman-with-medical-issues-missing-out-of-sparta",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/pikeville-tn",
+        "site_categories": [
+            "under_construction",
+            "sport",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "politics",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Pikeville, TN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Police searching for woman 'with medical issues' missing out of Sparta - NewsBreak",
+        "title_full": "Police searching for woman 'with medical issues' missing out of Sparta - NewsBreak",
+        "published": "2026-10-16T02:57:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1OduIC_1G9JCBgA00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:05:57.884+03:00"
+        }
+    },
+    "uuid": "64b2354df0672c6d788493ab1b9e2630048ccf46",
+    "url": "https://www.newsbreak.com/news/4948590956536-police-searching-for-woman-with-medical-issues-missing-out-of-sparta",
+    "ord_in_thread": 0,
+    "author": "WSMV",
+    "published": "2026-10-16T02:57:00.000+03:00",
+    "title": "Police searching for woman 'with medical issues' missing out of Sparta - NewsBreak",
+    "text": "4 hours ago SPARTA, Tenn. (WSMV) - The Sparta Police Department is asking for the public’s help in locating a woman who was last seen on Oct. 8. SPD said Nikkie Roberts Simmons was last seen around Swindell Street in Sparta on Thursday, Oct. 8. She has not been heard from and did not take her phone or belongings with her, police said. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->investigation (criminal)",
+        "Crime, Law and Justice->police"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wsmv.com/2026/10/15/police-searching-woman-with-medical-issues-missing-out-sparta/",
+        "https://wsmv.com/2026/10/15/police-searching-woman-with-medical-issues-missing-out-sparta/",
+        "https://www.wsmv.com/2026/10/15/police-searching-woman-with-medical-issues-missing-out-sparta"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nikkie Roberts Simmons",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Swindell Street",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sparta",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "SPD",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "SPD",
+                        "exchange": "NYSEARCA"
+                    }
+                ]
+            },
+            {
+                "name": "Sparta Police Department",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Pikeville"
+            ],
+            "state": [
+                "Tennessee"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:05:57.884+03:00",
+    "updated": "2026-10-16T07:08:38.000+03:00",
+    "related_articles": null
+}

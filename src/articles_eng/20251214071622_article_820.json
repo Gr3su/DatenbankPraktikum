@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "bab7c0c29f3dd82c94ae89120b666b13f2d3665d",
+        "url": "https://www.newsbreak.com/news/4390887035866-bulldogs-return-to-hinkle-to-face-indiana-state",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/jasonville-in?page=3",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Jasonville, IN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Bulldogs Return to Hinkle to Face Indiana State - NewsBreak",
+        "title_full": "Bulldogs Return to Hinkle to Face Indiana State - NewsBreak",
+        "published": "2025-12-10T17:26:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0LHy6r_17EM4pTw00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-12-07T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bab7c0c29f3dd82c94ae89120b666b13f2d3665d",
+    "url": "https://www.newsbreak.com/news/4390887035866-bulldogs-return-to-hinkle-to-face-indiana-state",
+    "ord_in_thread": 0,
+    "author": "John Flannery",
+    "published": "2025-12-10T17:26:00.000+02:00",
+    "title": "Bulldogs Return to Hinkle to Face Indiana State - NewsBreak",
+    "text": "By John Flannery ,\n14 hours ago INDIANAPOLIS - Butler returns to Hinkle Fieldhouse after opening BIG EAST play on the road last week with games at Seton Hall and Marquette. Indiana State and Eastern Illinois will visit Hinkle Fieldhouse this week as the Bulldogs finish nonconference action on Sunday. Thursday's game is the first of a four-game homestand for the Bulldogs that includes their BIG EAST home opener on Dec. 19 against Xavier and finishes with a visit from No. 1 UConn Dec. 28. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->basketball",
+        "Sport->sport event"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "John Flannery",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Hinkle",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Xavier",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Hinkle Fieldhouse",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Bulldogs",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "UConn",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "bab7c0c29f3dd82c94ae89120b666b13f2d3665d",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Jasonville"
+            ],
+            "state": [
+                "Indiana"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-11T07:40:44.900+02:00",
+    "updated": "2025-12-11T07:43:40.000+02:00"
+}

@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "c7ba775dfcb269d9cc76f5186c946d92a4ddada8",
+        "url": "https://www.world-today-news.com/samsung-viewfinity-s65tc-hits-50-off-at-amazon-per-pcworld-com/",
+        "site_full": "www.world-today-news.com",
+        "site": "world-today-news.com",
+        "site_section": "https://www.world-today-news.com/category/technology",
+        "site_categories": [
+            "politics",
+            "science and technology",
+            "arts, culture and entertainment",
+            "health",
+            "sport",
+            "economy, business and finance",
+            "media"
+        ],
+        "section_title": "Technology Archives - World Today News",
+        "site_title": "World Today News - Your Global News Source Directory",
+        "title": "Samsung ViewFinity S65TC Hits 50% Off at Amazon, per pcworld.com - World Today News",
+        "title_full": "Samsung ViewFinity S65TC Hits 50% Off at Amazon, per pcworld.com - World Today News",
+        "published": "2026-10-09T03:21:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.pcworld.com/wp-content/uploads/2026/10/3256290-0-79703900-1791477625-Samsung-ViewFinity-S65TC-productivity-monitor.jpg",
+        "performance_score": 0,
+        "domain_rank": 146948,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:07:20.942+03:00"
+        }
+    },
+    "uuid": "c7ba775dfcb269d9cc76f5186c946d92a4ddada8",
+    "url": "https://www.world-today-news.com/samsung-viewfinity-s65tc-hits-50-off-at-amazon-per-pcworld-com/",
+    "ord_in_thread": 0,
+    "author": "Rachel Kim - Technology Editor",
+    "published": "2026-10-09T03:21:00.000+03:00",
+    "title": "Samsung ViewFinity S65TC Hits 50% Off at Amazon, per pcworld.com - World Today News",
+    "text": "Samsung ViewFinity S65TC Hits 50% Off at Amazon, per pcworld.com\nAmazon Cuts Price of Samsung ViewFinity S65TC Ultrawide Monitor in Half\nAmazon is selling the 34-inch Samsung ViewFinity S65TC ultrawide monitor for 50 percent off, reducing the price to $399.99 following the end of Prime Day, according to a report by pcworld.com.\nThe Tech TL;DR:\n- The Samsung ViewFinity S65TC is discounted to $399.99 on Amazon.\n- The 34-inch display features a 21:9 aspect ratio and a 1000R curve.\n- Integrated hardware includes a Thunderbolt 4 port with 90W power delivery, a USB hub, and a built-in KVM switch.\nSamsung ViewFinity S65TC Offers Ultrawide Display with Thunderbolt 4\nThe Samsung ViewFinity S65TC moves away from standard 16:9 1080p form factors by offering a 21:9 ultrawide aspect ratio at a 34-inch diagonal. The panel utilizes an aggressive 1000R curvature designed to match the natural field of view of the human eye. Connectivity features include a Thunderbolt 4 port capable of delivering 90 watts of power to charge a connected laptop. The chassis also functions as a hardware dock, allowing users to plug peripherals such as keyboards, mice, and external storage drives directly into the monitor to interface with the host computer. The unit also includes a built-in KVM switch, enabling a single keyboard and mouse set to control both a laptop and a desktop PC.\n# Example cURL request for fetching monitor specifications via an API endpoint\ncurl -X GET \"https://api.example.com/v1/hardware/samsung-viewfinity-s65tc\"\n-H \"Accept: application/json\"\n-H \"Authorization: Bearer YOUR_API_KEY\"\nPerformance Limitations and Panel Caveats\npcworld.com notes several operational limitations associated with the hardware. While the display supports HDR10 for enhanced contrast in video playback, the panel lacks the color accuracy required for professional content creation. The 100Hz refresh rate combined with a VA panel does not meet the performance thresholds required for high-end gaming. The steep 1000R screen curve introduces geometric distortion on straight lines, making the monitor unsuitable for precision artwork or CAD drafting tasks.",
+    "summary": "- Integrated hardware includes a Thunderbolt 4 port with 90W power delivery, a USB hub, and a built-in KVM switch. The chassis also functions as a hardware dock, allowing users to plug peripherals such as keyboards, mice, and external storage drives directly into the monitor to interface with the host computer. The unit also includes a built-in KVM switch, enabling a single keyboard and mouse set to control both a laptop and a desktop PC. While the display supports HDR10 for enhanced contrast in video playback, the panel lacks the color accuracy required for professional content creation.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://pcworld.com/article/3256290/samsungs-34-inch-ultrawide-monitor-is-50-percent-off-and-its-also-a-dock.html",
+        "https://www.pcworld.com/article/3256290/samsungs-34-inch-ultrawide-monitor-is-50-percent-off-and-its-also-a-dock.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Samsung",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "SSNLF",
+                        "exchange": "OTC"
+                    }
+                ]
+            },
+            {
+                "name": "Amazon",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "AMZN",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "pcworld. com",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:07:20.942+03:00",
+    "updated": "2026-10-09T07:09:17.000+03:00",
+    "related_articles": null
+}

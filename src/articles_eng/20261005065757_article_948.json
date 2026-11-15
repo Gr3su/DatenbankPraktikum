@@ -1,0 +1,151 @@
+{
+    "thread": {
+        "uuid": "3dc81d6da0c039cb9f76e7aa3dce5cab68181669",
+        "url": "https://www.newsbreak.com/news/4919671091555-west-palm-beach-man-accused-of-beating-woman-stealing-her-car-after-20-demand",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/lake-worth-fl",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "science and technology",
+            "crime, law and justice",
+            "human interest",
+            "economy, business and finance",
+            "politics",
+            "lifestyle and leisure",
+            "sport",
+            "under_construction"
+        ],
+        "section_title": "Lake Worth, FL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "West Palm Beach man accused of beating woman, stealing her car after $20 demand - NewsBreak",
+        "title_full": "West Palm Beach man accused of beating woman, stealing her car after $20 demand - NewsBreak",
+        "published": "2026-10-01T20:35:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2xxsKi_1FhAMTYH00",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:36:30.270+03:00"
+        }
+    },
+    "uuid": "3dc81d6da0c039cb9f76e7aa3dce5cab68181669",
+    "url": "https://www.newsbreak.com/news/4919671091555-west-palm-beach-man-accused-of-beating-woman-stealing-her-car-after-20-demand",
+    "ord_in_thread": 0,
+    "author": "Gershon Harrell",
+    "published": "2026-10-01T20:35:00.000+03:00",
+    "title": "West Palm Beach man accused of beating woman, stealing her car after $20 demand - NewsBreak",
+    "text": "By Gershon Harrell ,\n11 hours ago WEST PALM BEACH, Fla. (CBS12) — West Palm Beach police say a man punched a woman in the face multiple times after she refused his request for $20 at a Raceway gas station, then stole her car. According to a Palm Beach County Sheriff’s Office arrest report, deputies were... Read full article\n5",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->robbery and theft",
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->assault"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://cbs12.com/news/local/west-palm-beach-man-punching-woman-raceway-gas-station-20-dispute-2020-nissan-pathfinder-palm-beach-county-sheriffs-office-florida-news",
+        "https://www.cbs12.com/news/local/west-palm-beach-man-punching-woman-raceway-gas-station-20-dispute-2020-nissan-pathfinder-palm-beach-county-sheriffs-office-florida-news"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwow.fc40898b.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fangry.da7a9102.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gershon Harrell",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "West Palm Beach",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Palm Beach County Sheriff ’ s Office",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "CBS",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "CBS",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:36:30.270+03:00",
+    "updated": "2026-10-02T07:38:37.000+03:00",
+    "related_articles": null
+}

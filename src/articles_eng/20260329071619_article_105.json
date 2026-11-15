@@ -1,0 +1,157 @@
+{
+    "thread": {
+        "uuid": "c0ac8c2835cc4beded4a46225539849f0ae04cf5",
+        "url": "https://www.newsbreak.com/news/4558930787685-one-dead-after-hit-and-run-crash-in-kalamazoo",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/kalamazoo-mi",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "under_construction",
+            "sport",
+            "human interest"
+        ],
+        "section_title": "Kalamazoo, MI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "One dead after hit-and-run crash in Kalamazoo - NewsBreak",
+        "title_full": "One dead after hit-and-run crash in Kalamazoo - NewsBreak",
+        "published": "2026-03-26T03:46:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/30vAfe_19vgWUBv00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c0ac8c2835cc4beded4a46225539849f0ae04cf5",
+    "url": "https://www.newsbreak.com/news/4558930787685-one-dead-after-hit-and-run-crash-in-kalamazoo",
+    "ord_in_thread": 0,
+    "author": "Stephanie Forth",
+    "published": "2026-03-26T03:46:00.000+02:00",
+    "title": "One dead after hit-and-run crash in Kalamazoo - NewsBreak",
+    "text": "By Stephanie Forth ,\n3 hours ago KALAMAZOO, Mich. — A portion of South Westnedge Avenue in Kalamazoo is shut down Wednesday night following a hit-and-run crash, according to the Kalamazoo Department of Public Safety (KDPS). A News Channel 3 crew observed a body in the street. The road is closed between Axtell Street and West... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide",
+        "Crime, Law and Justice->reckless driving"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Stephanie Forth",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "KALAMAZOO",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mich",
+                "sentiment": "none"
+            },
+            {
+                "name": "South Westnedge Avenue",
+                "sentiment": "none"
+            },
+            {
+                "name": "Axtell Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Kalamazoo Department of Public Safety",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "News Channel 3",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "KDPS",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-26T07:18:38.415+02:00",
+    "updated": "2026-03-26T07:21:56.000+02:00"
+}

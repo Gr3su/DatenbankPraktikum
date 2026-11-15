@@ -1,0 +1,132 @@
+{
+    "thread": {
+        "uuid": "b29493b46b49a01e76d497fbc584511aca4dadb2",
+        "url": "https://www.newsbreak.com/news/4811559430636-victims-in-new-haven-shooting-identified",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/new-haven-ct",
+        "site_categories": [
+            "health",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "human interest",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "social issue",
+            "under_construction",
+            "sport",
+            "politics"
+        ],
+        "section_title": "New Haven, CT Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Victims in New Haven shooting identified - NewsBreak",
+        "title_full": "Victims in New Haven shooting identified - NewsBreak",
+        "published": "2026-08-05T23:22:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4AT0Rz_1DyEQ6wS00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b29493b46b49a01e76d497fbc584511aca4dadb2",
+    "url": "https://www.newsbreak.com/news/4811559430636-victims-in-new-haven-shooting-identified",
+    "ord_in_thread": 0,
+    "author": "Eyewitness News",
+    "published": "2026-08-05T23:22:00.000+03:00",
+    "title": "Victims in New Haven shooting identified - NewsBreak",
+    "text": "7 hours ago Cierra Jordan is live in New Haven, sharing new details that have emerged in a shooting investigation. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wfsb.com/video/2026/08/05/victims-new-haven-shooting-identified/?outputType=amp",
+        "https://www.wfsb.com/video/2026/08/05/victims-new-haven-shooting-identified/",
+        "https://wfsb.com/video/2026/08/05/victims-new-haven-shooting-identified/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Cierra Jordan",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "New Haven",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "New Haven"
+            ],
+            "state": [
+                "Connecticut"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:12:12.536+03:00",
+    "updated": "2026-08-06T07:13:40.000+03:00"
+}

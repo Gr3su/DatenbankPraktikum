@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "36f55cd5ba1805e8c4722dc5bb1d9adb8d23a0ac",
+        "url": "https://www.newsbreak.com/news/4931173004194-former-dekalb-officer-linked-to-2011-assault-case",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/dunwoody-ga",
+        "site_categories": [
+            "politics",
+            "lifestyle and leisure",
+            "under_construction",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "economy, business and finance",
+            "science and technology",
+            "sport"
+        ],
+        "section_title": "Dunwoody, GA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Former DeKalb officer linked to 2011 assault case - NewsBreak",
+        "title_full": "Former DeKalb officer linked to 2011 assault case - NewsBreak",
+        "published": "2026-10-07T19:31:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/46CXSe_1FslVTjA00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:22:52.803+03:00"
+        }
+    },
+    "uuid": "36f55cd5ba1805e8c4722dc5bb1d9adb8d23a0ac",
+    "url": "https://www.newsbreak.com/news/4931173004194-former-dekalb-officer-linked-to-2011-assault-case",
+    "ord_in_thread": 0,
+    "author": "fox5atlanta.com",
+    "published": "2026-10-07T19:31:00.000+03:00",
+    "title": "Former DeKalb officer linked to 2011 assault case - NewsBreak",
+    "text": "1 days ago A former DeKalb County police sergeant has been indicted in a nearly 15-year-old case involving the sexual assaults of two teenage girls after authorities said DNA linked him to evidence collected in 2011. FOX 5 Atlanta's Eric Perry reporting. Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->assault",
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox5atlanta.com/video/fmc-ujz8vp1ssp2wamir.amp",
+        "https://fox5atlanta.com/video/fmc-ujz8vp1ssp2wamir.amp"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fangry.da7a9102.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Eric Perry",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "DeKalb County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FOX 5",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Dunwoody"
+            ],
+            "state": [
+                "Georgia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:22:52.803+03:00",
+    "updated": "2026-10-09T07:41:50.000+03:00",
+    "related_articles": null
+}

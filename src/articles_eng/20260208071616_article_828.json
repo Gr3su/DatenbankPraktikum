@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "06064bb0c716e9c42a7dbad1660bad9d92a97c06",
+        "url": "https://www.newsbreak.com/pennlive-com-512963/4477663161174-york-county-murder-suicide-victims-identified-by-coroner",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/gettysburg-pa",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Gettysburg, PA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "York County murder-suicide victims identified by coroner - NewsBreak",
+        "title_full": "York County murder-suicide victims identified by coroner - NewsBreak",
+        "published": "2026-02-05T05:32:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0gjM0U_18cne4jL00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "06064bb0c716e9c42a7dbad1660bad9d92a97c06",
+    "url": "https://www.newsbreak.com/pennlive-com-512963/4477663161174-york-county-murder-suicide-victims-identified-by-coroner",
+    "ord_in_thread": 0,
+    "author": "Madison Montag",
+    "published": "2026-02-05T05:32:00.000+02:00",
+    "title": "York County murder-suicide victims identified by coroner - NewsBreak",
+    "text": "By Madison Montag ,\n1 hours ago The York County Coroner’s Office on Wednesday night released the names of the man and woman who died after a Spring Grove murder-suicide last week. Police around 3:15 p.m. on Jan. 31 were called to the Spring Hollow Apartments along the first block of East Third Avenue in Spring Grove for a shooting. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "York County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Spring Grove",
+                "sentiment": "none"
+            },
+            {
+                "name": "East Third Avenue",
+                "sentiment": "none"
+            },
+            {
+                "name": "Spring Hollow Apartments",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "06064bb0c716e9c42a7dbad1660bad9d92a97c06",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Hunterstown",
+                "Gettysburg",
+                "Heidlersburg"
+            ],
+            "state": [
+                "Pennsylvania"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-05T07:30:00.886+02:00",
+    "updated": "2026-02-05T07:45:07.000+02:00"
+}

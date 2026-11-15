@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "8e7f7250185f4adfdb9a8aa39e33d5a071242ef0",
+        "url": "https://northraleightoday.com/stories/670140239-aws-introduces-ocelot-chip-for-cost-effective-quantum-computing",
+        "site_full": "northraleightoday.com",
+        "site": "northraleightoday.com",
+        "site_section": "https://northraleightoday.com/stories.rss",
+        "site_categories": [],
+        "section_title": "North Raleigh Today",
+        "site_title": null,
+        "title": "AWS introduces Ocelot chip for cost-effective quantum computing",
+        "title_full": "AWS introduces Ocelot chip for cost-effective quantum computing",
+        "published": "2025-02-27T08:34:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://s3.amazonaws.com/jnswire/jns-media/1f/ae/22200615/webp_8vb72kery1jdvdtv1nrzo9p9a29e.webp",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8e7f7250185f4adfdb9a8aa39e33d5a071242ef0",
+    "url": "https://northraleightoday.com/stories/670140239-aws-introduces-ocelot-chip-for-cost-effective-quantum-computing",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "North Raleigh Today",
+    "published": "2025-02-27T08:34:00.000+02:00",
+    "title": "AWS introduces Ocelot chip for cost-effective quantum computing",
+    "text": "Jeffrey P. Bezos | Executive Chair & founder of Amazon.com | Amazon website\nJeffrey P. Bezos | Executive Chair & founder of Amazon.com | Amazon website\nAmazon Web Services (AWS) has unveiled Ocelot, a new quantum computing chip designed to significantly reduce the costs associated with quantum error correction. Developed by the AWS Center for Quantum Computing at the California Institute of Technology, Ocelot aims to advance the development of fault-tolerant quantum computers capable of solving complex problems beyond the reach of conventional computers.\nOcelot's architecture incorporates error correction from its inception and utilizes 'cat qubits', which are named after Schrödinger's cat thought experiment. These qubits inherently suppress certain errors, minimizing resources needed for error correction. AWS researchers have successfully integrated cat qubit technology with additional error correction components onto a microchip that can be manufactured using scalable processes from the microelectronics industry.\nOskar Painter, AWS director of Quantum Hardware, stated, “With the recent advancements in quantum research, it is no longer a matter of if, but when practical, fault-tolerant quantum computers will be available for real-world applications. Ocelot is an important step on that journey.” He added that future chips built on this architecture could potentially cost as little as one-fifth of current approaches due to reduced resource requirements.\nThe sensitivity of quantum computers to environmental noise presents a significant challenge. Vibrations, heat, electromagnetic interference, and cosmic rays can disrupt qubits' states and cause computational errors. Painter emphasized that “the biggest challenge isn't just building more qubits; it's making them work reliably.”\nTo address these issues, AWS developed Ocelot with built-in error correction capabilities. Painter explained their approach: “We looked at how others were approaching quantum error correction and decided to take a different path.” The team estimates that scaling Ocelot could require only one-tenth of the resources compared to standard methods.\nAWS continues its commitment to advancing quantum research and refining its technology. Painter remarked on their ongoing efforts: “We’re just getting started and we believe we have several more stages of scaling to go through.”\nFor those interested in exploring quantum computing today, Amazon Braket offers a managed service allowing users access to various third-party hardware and software tools.\n###\nORGANIZATIONS IN THIS STORY\n!RECEIVE ALERTS\nSign-up\nDONATE\nDonate",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jeffrey P. Bezos",
+                "sentiment": "none"
+            },
+            {
+                "name": "Oskar Painter",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Amazon.com",
+                "sentiment": "none"
+            },
+            {
+                "name": "California Institute of Technology",
+                "sentiment": "none"
+            },
+            {
+                "name": "AWS Center for Quantum Computing",
+                "sentiment": "none"
+            },
+            {
+                "name": "Quantum Hardware",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ]
+    },
+    "rating": null,
+    "crawled": "2025-02-28T00:56:27.570+02:00",
+    "updated": "2025-02-28T00:56:27.570+02:00"
+}

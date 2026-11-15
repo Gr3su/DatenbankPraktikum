@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "5a0551d823c652f1d7967944bf74d9936f5facf0",
+        "url": "https://www.youtube.com/watch?v=Rjkl_t4cYTU",
+        "site_full": "www.youtube.com",
+        "site": "youtube.com",
+        "site_section": "https://rss.app/feeds/_esyqgiz0k4nzalgv.xml",
+        "site_categories": [
+            "television",
+            "",
+            "entertainment"
+        ],
+        "section_title": "Headline News",
+        "site_title": "YouTube",
+        "title": "YouTube",
+        "title_full": "YouTube",
+        "published": "2025-12-04T05:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ytimg.com/vi/Rjkl_t4cYTU/maxresdefault.jpg",
+        "performance_score": 0,
+        "domain_rank": 9,
+        "domain_rank_updated": "2025-11-30T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5a0551d823c652f1d7967944bf74d9936f5facf0",
+    "url": "https://www.youtube.com/watch?v=Rjkl_t4cYTU",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-12-04T05:00:00.000+02:00",
+    "title": "YouTube",
+    "text": "Global National: Dec. 3, 2025 | Air Transat pilots vote to strike if contract talks fail - YouTube",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+        "Arts, Culture and Entertainment->news media",
+        "Arts, Culture and Entertainment->online media outlet"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Air Transat",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-04T07:19:06.981+02:00",
+    "updated": "2025-12-04T07:23:40.000+02:00"
+}

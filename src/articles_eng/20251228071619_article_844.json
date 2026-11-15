@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "540dac3645efcde4fee0f4c151d2e248c690b5f3",
+        "url": "https://nomenugget.com/climate-watch/cutting-edge-storm-data",
+        "site_full": "nomenugget.com",
+        "site": "nomenugget.com",
+        "site_section": "https://nomenugget.com/climate-watch",
+        "site_categories": [],
+        "section_title": "Climate Watch | The Nome Nugget",
+        "site_title": "The Nome Nugget | Alaska's Oldest Newspaper",
+        "title": "Cutting Edge storm data | The Nome Nugget",
+        "title_full": "Cutting Edge storm data | The Nome Nugget",
+        "published": "2025-12-12T05:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://nomenugget.com/sites/default/files/styles/thumbnail/public/field/image/3c_Winter_Storms.jpg?itok=WkqQqgr_",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "540dac3645efcde4fee0f4c151d2e248c690b5f3",
+    "url": "https://nomenugget.com/climate-watch/cutting-edge-storm-data",
+    "ord_in_thread": 0,
+    "author": "Admin",
+    "published": "2025-12-12T05:02:00.000+02:00",
+    "title": "Cutting Edge storm data | The Nome Nugget",
+    "text": "Cutting Edge storm data\nBy Rick Thoman\nAlaska Climate Specialist\nAlaska Center for Climate Assessment and Preparedness\nInternational Arctic Research Center/University of Alaska Fairbanks\n“How is storminess changing in western Alaska?” is a common question, but for years I haven’t had a good answer.\nFrom the weather perspective, we usually think of a storm as a low pressure center that forms, is moved by the larger scale jet stream flow and eventually dissipates. These “storms” nearly always have clouds, weather fronts, winds and precipitation associated with them. However, the accounting of storms, including when storms form and dissipate, the track they take during their lifetime and the intensity through time is quite complex. For hurricanes and typhoons, vast amounts of time and effort go into documenting all these aspects of every named storm, but for non-tropical storms this has been mostly done for research purposes and not sustained over time.\nHowever, I'm thrilled to be able to now start to answer that question for western Alaska. Following ex-typhoon Halong in October and the very unusual track that storm took, my colleague Richard James with Prescient Weather alerted me to the Centre for Earth Observation Science at the University of Manitoba, Canada. Folks there have processed the ERA5 climate analysis model (which we use to do all sorts of regional analysis) to construct non-tropical storm tracks and intensity information for the entire Northern Hemisphere back to 1940, and they have made this detailed analysis publicly available.\nI'm happy to present right here in Climate Watch the very first results on up-to-date storm trends in the northern Bering and southern Chukchi region. Since 1970, there is no trend in the number of moderate to strong storms in spring, summer or fall. But winter is a different story. From the graphic, it's clear that over the past 55 years the number of winter storms has increased significantly, from an average of about nine storms in the early 1970s to 14 storms nowadays.\nOf course, not every storm impacts every area, and this analysis does not directly get at, for instance, strong winds and blowing snow in Seward Peninsula channeled areas produced not from low pressure systems but rather by strong high pressure systems centered over eastern Chukotka or the western Brooks Range. Nonetheless, this is an exciting development as we work for more fully understand how the meteorological aspects of storminess are (or are not) changing in our region.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology",
+        "Environment"
+    ],
+    "topics": [
+        "Science and Technology->meteorology",
+        "Science and Technology->natural science",
+        "Environment->climate change"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rick Thoman",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Alaska Climate Specialist\nAlaska Center for Climate Assessmen",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Nome"
+            ],
+            "state": [
+                "Alaska"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-25T07:47:28.218+02:00",
+    "updated": "2025-12-25T07:51:06.000+02:00"
+}

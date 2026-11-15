@@ -1,0 +1,117 @@
+{
+    "thread": {
+        "uuid": "e3b6f8064e33b9b2ff1cb769c66012226feb9941",
+        "url": "https://www.newsbreak.com/news/4402462068723-orion-picks-up-win-sherrard-falls-short",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/new-boston-il?page=2",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "New Boston, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Orion picks up win, Sherrard falls short - NewsBreak",
+        "title_full": "Orion picks up win, Sherrard falls short - NewsBreak",
+        "published": "2025-12-18T07:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2pAbEu_17Q0sFUC00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-12-14T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e3b6f8064e33b9b2ff1cb769c66012226feb9941",
+    "url": "https://www.newsbreak.com/news/4402462068723-orion-picks-up-win-sherrard-falls-short",
+    "ord_in_thread": 0,
+    "author": "Brianna Ballog",
+    "published": "2025-12-18T07:06:00.000+02:00",
+    "title": "Orion picks up win, Sherrard falls short - NewsBreak",
+    "text": "By Brianna Ballog ,\n16 minutes ago ORION, SHERRARD, Ill (KWQC) - Orion picks up a win against Erie-Prophetstown 80-76. Sherrard falls short to Illini West 66-60. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Sport->basketball"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sherrard",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Brianna Ballog",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "ORION",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "New Boston"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-18T07:22:43.092+02:00",
+    "updated": "2025-12-18T07:27:07.000+02:00"
+}

@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "6c7738e1087231e2c6087c0bc7590b5542eefd70",
+        "url": "https://www.newsbreak.com/news/4649211108242-vandalism-of-north-mississippi-high-school-results-in-18-arrests",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/oxford-ms",
+        "site_categories": [
+            "crime, law and justice",
+            "politics",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "under_construction",
+            "human interest",
+            "sport"
+        ],
+        "section_title": "Oxford, MS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Vandalism of North Mississippi high school results in 18 arrests - NewsBreak",
+        "title_full": "Vandalism of North Mississippi high school results in 18 arrests - NewsBreak",
+        "published": "2026-05-13T23:51:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1k9C8l_1BMeWtf800",
+        "performance_score": 0,
+        "domain_rank": 2965,
+        "domain_rank_updated": "2026-05-11T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6c7738e1087231e2c6087c0bc7590b5542eefd70",
+    "url": "https://www.newsbreak.com/news/4649211108242-vandalism-of-north-mississippi-high-school-results-in-18-arrests",
+    "ord_in_thread": 0,
+    "author": "Lydian Coombs",
+    "published": "2026-05-13T23:51:00.000+03:00",
+    "title": "Vandalism of North Mississippi high school results in 18 arrests - NewsBreak",
+    "text": "By Lydian Coombs ,\n7 hours ago SARDIS, Miss. (WMC) - Thirteen adults and five minors are charged after North Panola High School was broken into and vandalized in Sardis, Mississippi. Major Clint Roberson with the Panola County Sheriff’s Office says the adult suspects are former students of the school. They’ve been identified as:. Aaligiah... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->vandalism",
+        "Crime, Law and Justice->police"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lydian Coombs",
+                "sentiment": "negative"
+            },
+            {
+                "name": "SAR",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Clint Roberson",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "North Mississippi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sardis",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "North Panola High School",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Panola County Sheriff ’ s Office",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Oxford"
+            ],
+            "state": [
+                "Mississippi"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-14T07:34:57.188+03:00",
+    "updated": "2026-05-14T07:38:17.000+03:00"
+}

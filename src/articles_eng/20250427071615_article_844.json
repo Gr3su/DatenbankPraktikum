@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "884288b500042789b620cc95959ddfde312438f5",
+        "url": "https://www.breitbart.com/clips/2025/03/26/schiff-signal-chat-shows-trump-administration-is-drunk-with-power",
+        "site_full": "www.breitbart.com",
+        "site": "breitbart.com",
+        "site_section": "https://www.breitbart.com:443/news",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "All News - Breitbart News Network",
+        "site_title": "Breitbart News Network",
+        "title": "Schiff: Signal Chat Shows Trump Administration Is 'Drunk with Power'",
+        "title_full": "Schiff: Signal Chat Shows Trump Administration Is 'Drunk with Power'",
+        "published": "2025-03-27T02:11:00.000+02:00",
+        "replies_count": 2,
+        "participants_count": 3,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.breitbart.com/media/2024/11/sciff-640x335.jpg",
+        "performance_score": 0,
+        "domain_rank": 1709,
+        "domain_rank_updated": "2025-03-24T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "884288b500042789b620cc95959ddfde312438f5",
+    "url": "https://www.breitbart.com/clips/2025/03/26/schiff-signal-chat-shows-trump-administration-is-drunk-with-power",
+    "ord_in_thread": 0,
+    "author": "Pam Key",
+    "published": "2025-03-27T02:11:00.000+02:00",
+    "title": "Schiff: Signal Chat Shows Trump Administration Is 'Drunk with Power'",
+    "text": "Senator Adam Schiff (D-CA) said Wednesday on CNN’s “OutFront” that the Signal chat among senior national security officials shows President Donald Trump’s second administration was “drunk with power.”\nSchiff said, “There will be no accountability in his administration. He isn’t going to hold people responsible. He doesn’t want to fire people. He doesn’t even want to talk about it. He wants to put this off as another witch hunt, another hoax is kind of go to deflection. Don’t look at me whatever you do, America, I’m not responsible. That’s just going to breed further mistakes. We can’t have any confidence this is going to be rectified if all of those people on that chat are basically saying, there’s nothing to see here.”\nHe added, “It is the sign of both the inexperience and incompetence of a lot of these people. Hegseth way out of his depth. He passed by a single vote. That vote was JD Vance in the Senate coming in to break the tie. That has not aged well. But more than that, you know, I look at someone like Ratcliffe who does have at least some modicum of experience, and nowhere in that chat does he say, hey, people, we shouldn’t be talking about this on a commercial app. Tulsi Gabbard had no experience. She has no business being there either. But for for Ratcliffe it was even more inexcusable because he knows better than this. But none of them are willing to really contradict the misuse of power.”\nSchiff concluded, “There really seem like they’re drunk with power, and there’s a kind of arrogance about what we witness in this chat. Arrogance towards our allies, arrogance towards national security protocols that should be followed, just incompetence and arrogance, which is a dangerous mix for the country.”\nFollow Pam Key on X @pamkeyNEN",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Politics->political candidates",
+        "Politics->political debates",
+        "Politics->political campaigns",
+        "Crime, Law and Justice->corruption"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/pamkeyNEN/",
+        "https://www.twitter.com/pamkeyNEN/",
+        "https://twitter.com/pamkeyNEN"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ratcliffe",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Adam Schiff",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Hegseth",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "JD Vance",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Tulsi Gabbard",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "America",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CNN",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "OutFront",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Signal",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Senate",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ]
+    },
+    "rating": null,
+    "crawled": "2025-03-27T02:19:05.199+02:00",
+    "updated": "2025-03-27T03:52:43.322+02:00"
+}

@@ -1,0 +1,120 @@
+{
+    "thread": {
+        "uuid": "c62065f69487275bd6d50a88fb1eaa7a84a1b299",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4773038734149-flash-flood-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/nws-alerts-1671083",
+        "site_categories": [
+            "lifestyle and leisure",
+            "sport",
+            "politics",
+            "social issue",
+            "human interest",
+            "disaster and accident",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "economy, business and finance",
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Flash Flood Warning by NWS - NewsBreak",
+        "title_full": "Flash Flood Warning by NWS - NewsBreak",
+        "published": "2026-07-16T06:41:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/17g3G2_1DLQ7I1g00",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c62065f69487275bd6d50a88fb1eaa7a84a1b299",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4773038734149-flash-flood-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2026-07-16T06:41:00.000+03:00",
+    "title": "Flash Flood Warning by NWS - NewsBreak",
+    "text": "1 hours ago Check NWS updates here\nEffective: 2026-07-15 20:39:00 PDT Expires: 2026-07-15 20:49:00 PDT Urgency: Immediate Severity: Severe Certainty: Likely Target Area: Pinal, AZ The heavy rain has ended. Flooding is no longer expected to pose a threat. Please continue to heed remaining road closures. Lingering showers may persist for the next few hours.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.0a4bd2a6fa34c47320757c3d8f406f71e5fc73a3.001.1",
+        "https://img.particlenews.com/image.php?url=17g3G2_1DLQ7I1g00",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=17g3G2_1DLQ7I1g00",
+        "https://www.img.particlenews.com/image.php?url=17g3G2_1DLQ7I1g00",
+        "https://img.particlenews.com/image.php",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.0a4bd2a6fa34c47320757c3d8f406f71e5fc73a3.001.1",
+        "https://alerts.weather.gov/search",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=17g3G2_1DLQ7I1g00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Pinal",
+                "sentiment": "none"
+            },
+            {
+                "name": "AZ",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:46:11.874+03:00",
+    "updated": "2026-07-16T07:50:44.000+03:00"
+}

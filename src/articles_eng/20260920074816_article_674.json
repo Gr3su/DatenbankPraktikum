@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "98470a441bf91a5bf196d1a0a5bcee3a7f39b8ba",
+        "url": "https://www.newsbreak.com/news/4890371805063-maine-ag-says-office-does-not-have-jurisdiction-to-look-into-lewiston-shooting-donations",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/lewiston-me",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "politics",
+            "economy, business and finance",
+            "social issue",
+            "under_construction",
+            "sport",
+            "human interest"
+        ],
+        "section_title": "Lewiston, ME Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Maine AG says office does not have jurisdiction to look into Lewiston shooting donations - NewsBreak",
+        "title_full": "Maine AG says office does not have jurisdiction to look into Lewiston shooting donations - NewsBreak",
+        "published": "2026-09-17T00:10:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1DkFXv_1FDeRMAj00",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "98470a441bf91a5bf196d1a0a5bcee3a7f39b8ba",
+    "url": "https://www.newsbreak.com/news/4890371805063-maine-ag-says-office-does-not-have-jurisdiction-to-look-into-lewiston-shooting-donations",
+    "ord_in_thread": 0,
+    "author": "Max Williams, WGME",
+    "published": "2026-09-17T00:10:00.000+03:00",
+    "title": "Maine AG says office does not have jurisdiction to look into Lewiston shooting donations - NewsBreak",
+    "text": "By Max Williams, WGME ,\n7 hours ago PORTLAND (WGME) -- Maine's Attorney General answered questions Wednesday about how millions of dollars donated after the mass shooting in Lewiston were distributed. In total, the Maine Community Foundation raised nearly $7 million in the weeks after the shooting. Those funds were divided. The majority, $4.7 million, went to 162... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->investigation (criminal)"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://wgme.com/news/local/maine-ag-says-office-does-not-have-jurisdiction-to-look-into-lewiston-shooting-donations-attorney-general-mass-maine-community-foundation",
+        "https://www.wgme.com/news/local/maine-ag-says-office-does-not-have-jurisdiction-to-look-into-lewiston-shooting-donations-attorney-general-mass-maine-community-foundation"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Max Williams",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Lewiston",
+                "sentiment": "none"
+            },
+            {
+                "name": "PORTLAND",
+                "sentiment": "none"
+            },
+            {
+                "name": "Maine",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Maine AG",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Maine Community Foundation",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Lewiston",
+                "Auburn"
+            ],
+            "state": [
+                "Maine"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:15:07.711+03:00",
+    "updated": "2026-09-17T08:21:35.000+03:00"
+}

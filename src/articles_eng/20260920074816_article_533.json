@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "df00968c9aa66c295846a3e070e0a34dbecccd88",
+        "url": "https://www.newsbreak.com/news/4890698255467-colorado-s-western-slope-to-see-storms-flash-flooding-and-some-snow",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/rifle-co",
+        "site_categories": [
+            "economy, business and finance",
+            "social issue",
+            "sport",
+            "crime, law and justice",
+            "under_construction",
+            "human interest",
+            "politics",
+            "arts, culture and entertainment",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Rifle, CO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Colorado's Western Slope to see storms, flash flooding - and some snow - NewsBreak",
+        "title_full": "Colorado's Western Slope to see storms, flash flooding - and some snow - NewsBreak",
+        "published": "2026-09-17T03:56:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3nMzv3_1FDz9vDA00",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "df00968c9aa66c295846a3e070e0a34dbecccd88",
+    "url": "https://www.newsbreak.com/news/4890698255467-colorado-s-western-slope-to-see-storms-flash-flooding-and-some-snow",
+    "ord_in_thread": 0,
+    "author": "Summit Daily News",
+    "published": "2026-09-17T03:56:00.000+03:00",
+    "title": "Colorado's Western Slope to see storms, flash flooding - and some snow - NewsBreak",
+    "text": "4 hours ago Monsoonal moisture is persisting in Colorado, with showers, weak storms and flash flood risk forecast for the Western Slope through Saturday. Drier and warmer conditions are expected to return by Sunday. Most areas west of the Continental Divide are expected to receive 0.25-0.5 inches of rain from Wednesday, Sept. 16,... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Weather->weather forecast"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.summitdaily.com/news/western-slope-storms-flash-flooding-snow/",
+        "https://www.summitdaily.com/news/western-slope-storms-flash-flooding-snow",
+        "https://summitdaily.com/news/western-slope-storms-flash-flooding-snow/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Colorado",
+                "sentiment": "none"
+            },
+            {
+                "name": "Western Slope",
+                "sentiment": "none"
+            },
+            {
+                "name": "Continental Divide",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Rifle"
+            ],
+            "state": [
+                "Colorado"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:10:40.488+03:00",
+    "updated": "2026-09-17T08:31:10.000+03:00"
+}

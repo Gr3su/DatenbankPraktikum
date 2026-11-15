@@ -1,0 +1,105 @@
+{
+    "thread": {
+        "uuid": "c371fbcb0505cb14b8eedd3d9050da62537fb98e",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4058746110077-severe-thunderstorm-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "published": "2025-06-19T01:25:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/423Kfr_11vgjqjo00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c371fbcb0505cb14b8eedd3d9050da62537fb98e",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4058746110077-severe-thunderstorm-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-06-19T01:25:00.000+03:00",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here At 1024 PM CDT, a severe thunderstorm was located near T O Fuller State Park, moving northeast at 25 mph. HAZARD...60 mph wind gusts and quarter size hail. SOURCE...Radar indicated. IMPACT...Hail damage to vehicles is expected. Expect wind damage to roofs, siding, and trees. Locations impacted include... West Memphis, T O Fuller State Park, Memphis, Downtown Memphis, Southwest Memphis, Whitehaven, Midtown Memphis, Riceville, Mound City, Hulbert, Blanton, Amanea, Wyandoke, St Clair, Presidents Island, Briark, Benjestown, Galet, and Bridge Junction.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather",
+        "Environment"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Environment->parks",
+        "Environment->nature",
+        "Environment->environmental pollution"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.1ac2f8cf1f7f19fa8531ecc3b140e7d631b38f00.001.1",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.1ac2f8cf1f7f19fa8531ecc3b140e7d631b38f00.001.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hulbert",
+                "sentiment": "none"
+            },
+            {
+                "name": "Galet",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Fuller State Park",
+                "sentiment": "none"
+            },
+            {
+                "name": "City",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:32:31.786+03:00",
+    "updated": "2025-06-19T04:36:39.000+00:00"
+}

@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "e4e83b3ab3574c2435ff95215234fcf0c1c53948",
+        "url": "https://www.newsmax.com/politics/warning-hamas-trump/2025/03/05/id/1201585",
+        "site_full": "www.newsmax.com",
+        "site": "newsmax.com",
+        "site_section": "https://newsmax.com/?vtype=mob",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "\r\n\tNewsmax – Breaking News | News Videos | Politics, Health, Finance\r\n",
+        "site_title": null,
+        "title": "Trump Urges Hamas to Release Hostages in Gaza: 'Last Warning' | Newsmax.com",
+        "title_full": "Trump Urges Hamas to Release Hostages in Gaza: 'Last Warning' | Newsmax.com",
+        "published": "2025-03-06T00:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=d8779331-15e7-46a2-90f8-2788fee9ee18&amp;SiteName=Newsmax",
+        "performance_score": 0,
+        "domain_rank": 2492,
+        "domain_rank_updated": "2025-03-03T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e4e83b3ab3574c2435ff95215234fcf0c1c53948",
+    "url": "https://www.newsmax.com/politics/warning-hamas-trump/2025/03/05/id/1201585",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@newsmax",
+    "published": "2025-03-06T00:01:00.000+02:00",
+    "title": "Trump Urges Hamas to Release Hostages in Gaza: 'Last Warning' | Newsmax.com",
+    "text": "Wednesday, 05 March 2025 05:01 PM EST\nPresident Donald Trump asked Hamas militants to immediately release all hostages held in Gaza in what he called his \"last warning\" to them while also urging the group's leadership to leave the Palestinian enclave.\nTrump posted on Truth Social: \"This is your last warning! For the leadership, now is the time to leave Gaza, while you still have a chance.\n\"Also, to the People of Gaza: A beautiful Future awaits, but not if you hold Hostages. If you do, you are DEAD!\"\nTrump said there will be \"hell to pay later\" if hostages are not released.\n© 2025 Thomson/Reuters. All rights reserved.\nReceive breaking news and original analysis - sent right to your inbox.\n|\nNewsmax, Moneynews, Newsmax Health, and Independent. American. are registered trademarks of Newsmax Media, Inc. Newsmax TV, and Newsmax World are trademarks of Newsmax Media, Inc.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->international relations",
+        "Politics->political candidates",
+        "Politics->political campaigns",
+        "War, Conflict and Unrest->peace talks",
+        "Social Issue->discrimination",
+        "Social Issue->social condition",
+        "Social Issue->mankind"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Gaza",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hamas",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Newsmax Media, Inc",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Newsmax Health",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Newsmax TV",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ]
+    },
+    "rating": null,
+    "crawled": "2025-03-06T00:29:12.382+02:00",
+    "updated": "2025-03-06T00:29:12.382+02:00"
+}

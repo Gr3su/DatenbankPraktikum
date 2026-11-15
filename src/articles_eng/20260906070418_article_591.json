@@ -1,0 +1,148 @@
+{
+    "thread": {
+        "uuid": "551ab4d434e1969642579e4dcb8798164da26a9c",
+        "url": "https://www.newsbreak.com/news/4863379252826-alleged-burglary-spree-lands-st-lawrence-co-man-in-jail",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/malone-wa",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "under_construction",
+            "sport",
+            "crime, law and justice",
+            "social issue",
+            "human interest",
+            "politics",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Malone, NY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Alleged burglary spree lands St. Lawrence Co. man in jail - NewsBreak",
+        "title_full": "Alleged burglary spree lands St. Lawrence Co. man in jail - NewsBreak",
+        "published": "2026-09-02T21:27:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2tZJJl_1EnRxRZc00",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "551ab4d434e1969642579e4dcb8798164da26a9c",
+    "url": "https://www.newsbreak.com/news/4863379252826-alleged-burglary-spree-lands-st-lawrence-co-man-in-jail",
+    "ord_in_thread": 0,
+    "author": "Diane Rutherford",
+    "published": "2026-09-02T21:27:00.000+03:00",
+    "title": "Alleged burglary spree lands St. Lawrence Co. man in jail - NewsBreak",
+    "text": "By Diane Rutherford ,\n12 hours ago MASSENA, New York (WWNY) - A St. Lawrence County man is accused of going on a burglary spree that allegedly netted him thousands of dollars in stolen items. State police arrested Jon Larue, 35, of Winthrop, on Saturday night. Brasher burglaries. Troopers allege Larue stole a generator from a home... Read full article\n4",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->judiciary",
+        "Crime, Law and Justice->robbery and theft"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wwnytv.com/2026/09/02/alleged-burglary-spree-lands-st-lawrence-co-man-jail/?outputType=amp",
+        "https://www.wwnytv.com/2026/09/02/alleged-burglary-spree-lands-st-lawrence-co-man-jail/",
+        "https://wwnytv.com/2026/09/02/alleged-burglary-spree-lands-st-lawrence-co-man-jail/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Diane Rutherford",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Jon Larue",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "New York",
+                "sentiment": "none"
+            },
+            {
+                "name": "MASSENA",
+                "sentiment": "none"
+            },
+            {
+                "name": "St. Lawrence County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Winthrop",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Malone"
+            ],
+            "state": [
+                "Washington"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:24:06.609+03:00",
+    "updated": "2026-09-03T09:54:49.025+03:00"
+}

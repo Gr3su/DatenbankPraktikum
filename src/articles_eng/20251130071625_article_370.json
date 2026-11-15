@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "64b6099e72730c1df9659873da95b9111acf44e0",
+        "url": "https://time.news/pixel-notification-summaries-vs-iphone-which-is-better/",
+        "site_full": "time.news",
+        "site": "time.news",
+        "site_section": "https://time.news/feed/",
+        "site_categories": [],
+        "section_title": "TIme News",
+        "site_title": "TIme News - time.news",
+        "title": "Pixel Notification Summaries vs iPhone: Which is Better?",
+        "title_full": "Pixel Notification Summaries vs iPhone: Which is Better?",
+        "published": "2025-11-27T07:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/android-pixel-notification-summaries-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "performance_score": 0,
+        "domain_rank": 416973,
+        "domain_rank_updated": "2025-11-23T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "64b6099e72730c1df9659873da95b9111acf44e0",
+    "url": "https://time.news/pixel-notification-summaries-vs-iphone-which-is-better/",
+    "ord_in_thread": 0,
+    "author": "Priyanka Patel",
+    "published": "2025-11-27T07:13:00.000+02:00",
+    "title": "Pixel Notification Summaries vs iPhone: Which is Better?",
+    "text": "Google’s Android Notification Summaries: A Step Forward, But Not a Game Changer\nandroid users are now experiencing a feature once feared as a potential pitfall: AI-powered notification summaries. Following Apple’s widely criticized implementation in iOS 18 last year, Google has introduced a similar tool with its latest Pixel drop. After a week of testing, the verdict is mixed. While Google demonstrably improves upon Apple’s initial offering, the practical benefits of this feature remain questionable, leaving many users likely to disable it.\nThe initial concern stemmed from a fear of replicating Apple’s struggles.Last year’s iOS 18 rollout was plagued by bugs, inaccuracies – ranging from amusing to alarming – and prolonged lack of support for key apps like those delivering news. As one observer noted, Apple frequently enough positions itself as a “late to the party” innovator, claiming to perfect features after observing others’ missteps. However, notification summaries proved this strategy flawed.\nGoogle,in contrast,adopted a more measured approach. Currently, Android’s notification summaries are limited to messaging applications, a decision that ensures broad compatibility – the feature worked across every messaging app installed on a Pixel 10 in testing. Furthermore, the focus is on summarizing group chats and lengthy messages, theoretically maximizing the utility of the feature.\nEarly results are promising. the AI accurately condensed notifications into easily digestible cards, clearly labeling them as AI-powered summaries with italics and a sparkle emoji, mirroring Apple’s approach. this distinction is crucial; users need to immediately recognize AI-generated content to maintain trust and avoid confusion.\nA key advancement lies in maintaining a personable tone. A text message from a partner regarding a baking project, for example, retained the use of “I,” preserving the original sender’s voice. This contrasts sharply with Apple’s summaries, which often adopted a detached, third-person viewpoint, creating a sense of distance from the original dialog. Maintaining a human touch is paramount in the age of AI, and Google appears to recognize this.\nHowever, despite these improvements, the core question remains: does this feature offer a tangible benefit? While Google has addressed many of the issues plaguing Apple’s version, it hasn’t yet provided a compelling reason to keep notification summaries enabled. The pie-baking example, while accurate, only reduced the text length by 23 characters – a negligible saving.Does this translate to a more efficient or streamlined experience? Not demonstrably.\nSimilar results were observed across other scenarios. A summarized delivery notification from Walmart offered minimal time savings, as the full alert would have been visible regardless. An Instagram DM from podcast guest Ara wagoner, inquiring about audio recording options, was condensed but felt jumbled and lost the original first-person perspective.\nThe AI also struggles with recognizing errors in text messages. In one instance, a friend accidentally sent a message intended for a coworker to the tester.While easily identifiable by a human, Google’s AI included the erroneous message in a summary, potentially obscuring the mistake.\nInterestingly, the feature showed the most promise when condensing productivity-focused messages, especially within group chats. After nearly a week of testing, a single example emerged: a summary of to-do items shared between 9to5 writers Andrew Romero and Ben Schoon. This was the only instance where the feature genuinely felt helpful.\nGoogle’s implementation is undeniably superior to Apple’s, even with the latter’s year-long head start. Yet, the Pixel 10 failed to demonstrate a clear purpose for this tool. Perhaps a constant stream of notifications renders summaries redundant, but the vision remains unclear. Android’s existing notification system is already highly effective, and layering AI on top feels, at best, superficial and, at worst, superfluous. While this is highly likely just the beginning of Google’s plans for this feature, most users would likely be best served by keeping it disabled for now.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://news.mit.edu/2025/how-we-really-judge-ai-0610",
+        "https://www.news.mit.edu/2025/how-we-really-judge-ai-0610"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Google",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "GOOG",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Apple",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "AAPL",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-11-27T07:25:52.765+02:00",
+    "updated": "2025-11-27T07:25:52.765+02:00"
+}

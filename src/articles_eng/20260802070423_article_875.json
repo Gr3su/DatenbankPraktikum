@@ -1,0 +1,156 @@
+{
+    "thread": {
+        "uuid": "204aed502ab724c27288721bd76c3682e2b22a00",
+        "url": "https://www.yakimaherald.com/news/nation_and_world/business/most-of-wall-street-rises-as-oil-prices-continue-to-ease-even-as-chip-stocks/article_ae56157e-921d-517f-8b40-b03231823d5d.html",
+        "site_full": "www.yakimaherald.com",
+        "site": "yakimaherald.com",
+        "site_section": "https://www.yakimaherald.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=",
+        "site_categories": [
+            "social",
+            "media",
+            "sport",
+            "arts, culture and entertainment",
+            "politics",
+            "disaster and accident",
+            "crime, law and justice"
+        ],
+        "section_title": "www.yakimaherald.com - RSS Results",
+        "site_title": null,
+        "title": "Wall Street Rises Despite Computer Chipmakers' Decline",
+        "title_full": "Wall Street Rises Despite Computer Chipmakers' Decline",
+        "published": "2026-07-28T16:51:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/d/68/d68407d0-8b45-5071-ae42-ed045b8be823/6a684ac261483.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 82956,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "204aed502ab724c27288721bd76c3682e2b22a00",
+    "url": "https://www.yakimaherald.com/news/nation_and_world/business/most-of-wall-street-rises-as-oil-prices-continue-to-ease-even-as-chip-stocks/article_ae56157e-921d-517f-8b40-b03231823d5d.html",
+    "ord_in_thread": 0,
+    "author": "STAN CHOE - AP Business Writer",
+    "published": "2026-07-28T16:51:00.000+03:00",
+    "title": "Wall Street Rises Despite Computer Chipmakers' Decline",
+    "text": "• The S&P 500 was virtually unchanged in early trading.\n• The Dow Jones Industrial Average was up 385 points, or 0.7%, as of 9:35 a.m. Eastern time.\n• The Nasdaq composite was 0.6% lower.\n• Coca-Cola climbed 5.8% after its revenue rose 7% despite what CEO Henrique Braun called “a dynamic consumer landscape.”\n• Sherwin-Williams rallied 7%, and Illinois Tool Works rose 3.7% after both also reported stronger profits for the latest quarter than analysts expected.\n• Micron Technology’s stock has more than tripled this year following gangbuster growth.\n• Micron dropped 8.4% and was the heaviest weight on the S&P 500.\n• Advanced Micro Devices, down 7.7%, and Nvidia, down 1.1%, also contributed to the market's decline.\n• The losses were even sharper earlier in the day in other markets worldwide for AI chip stocks.\n• The price for a barrel of Brent crude to be delivered in October fell 2.2% to $83.97.\n• The yield on the 10-year Treasury fell to 4.62% from 4.65% late Monday.",
+    "summary": "NEW YORK (AP) — Most of Wall Street is rising Tuesday, even as stocks of computer chipmakers continue to tumble worldwide. The S&P 500 was virtually unchanged in early trading, but the modest move masked big swings underneath the surface. Such expectations are weighing particularly heavily on stocks of chipmakers and other companies that had been huge winners from the boom in artificial-intelligence technology. Big spenders on computer memory could pull back on their investments if AI does not produce as much profit or productivity as promised.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": true,
+    "external_links": [
+        "https://apnews.com/hub/artificial-intelligence",
+        "https://apnews.com/article/stocks-markets-iran-trump-ai-inflation-45b9165d6c518f5bea668b6ba7a89838",
+        "https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce",
+        "https://www.apnews.com/article/stocks-markets-iran-trump-ai-inflation-45b9165d6c518f5bea668b6ba7a89838",
+        "https://www.apnews.com/hub/artificial-intelligence",
+        "https://www.apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Henrique Braun",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Sherwin - Williams",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "SHW",
+                        "exchange": "New York Stock Exchange"
+                    }
+                ]
+            },
+            {
+                "name": "Coca - Cola",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "KO",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Illinois Tool Works",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "ITW",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Micron Technology",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "MU",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Yakima"
+            ],
+            "state": [
+                "Washington"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:28:37.192+03:00",
+    "updated": "2026-07-30T07:30:30.000+03:00"
+}

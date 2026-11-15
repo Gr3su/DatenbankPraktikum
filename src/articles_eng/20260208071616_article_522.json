@@ -1,0 +1,163 @@
+{
+    "thread": {
+        "uuid": "1b8ce69442d28195d2a14b21faff5d1d65722512",
+        "url": "https://www.newsbreak.com/news/4476782047007-ohio-man-wins-tractor-in-national-contest",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/strasburg-oh?page=2",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Strasburg, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Ohio man wins tractor in national contest - NewsBreak",
+        "title_full": "Ohio man wins tractor in national contest - NewsBreak",
+        "published": "2026-02-04T19:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3GDVKa_18buiHhB00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1b8ce69442d28195d2a14b21faff5d1d65722512",
+    "url": "https://www.newsbreak.com/news/4476782047007-ohio-man-wins-tractor-in-national-contest",
+    "ord_in_thread": 0,
+    "author": "Farm and Dairy Staff",
+    "published": "2026-02-04T19:00:00.000+02:00",
+    "title": "Ohio man wins tractor in national contest - NewsBreak",
+    "text": "By Farm and Dairy Staff ,\n12 hours ago A Harrison County, Ohio, man won a new tractor in a nationwide contest hosted by Outlaw Truck and Tractor Pulling Association and Case IH. George Albertson, of Bowerstown, Ohio, was the winner of the 2025 Superfan Contest, sponsored by Case IH. He received a Farmall 25SC and $4,000 cash, which he formally received Jan. 30 from Farmers Equipment, in Lisbon, Ohio. Read full article\nRead in NewsBreak 3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Human Interest"
+    ],
+    "topics": [
+        "Human Interest->award and prize",
+        "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "George Albertson",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Harrison County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ohio",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bowerstown",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lisbon",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Farm and Dairy Staff",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Farmers Equipment",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Case IH",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Outlaw Truck and Tractor Pulling Association",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Farmall",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Strasburg"
+            ],
+            "state": [
+                "Ohio"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-05T07:25:42.447+02:00",
+    "updated": "2026-02-05T07:28:05.000+02:00"
+}

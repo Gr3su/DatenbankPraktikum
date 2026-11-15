@@ -1,0 +1,132 @@
+{
+    "thread": {
+        "uuid": "53c1fe017fbcc8cc803c86aa92e1354a25fb24be",
+        "url": "https://www.newsbreak.com/news/4635852450609-person-rescued-from-woods-off-i-285",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/atlanta-ga",
+        "site_categories": [
+            "politics",
+            "crime, law and justice",
+            "sport",
+            "human interest",
+            "under_construction",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Atlanta, GA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Person rescued from woods off I-285 - NewsBreak",
+        "title_full": "Person rescued from woods off I-285 - NewsBreak",
+        "published": "2026-05-07T01:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0sBDcB_1B9BWIhU00",
+        "performance_score": 0,
+        "domain_rank": 2952,
+        "domain_rank_updated": "2026-05-04T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "53c1fe017fbcc8cc803c86aa92e1354a25fb24be",
+    "url": "https://www.newsbreak.com/news/4635852450609-person-rescued-from-woods-off-i-285",
+    "ord_in_thread": 0,
+    "author": "Atlanta News First staff",
+    "published": "2026-05-07T01:00:00.000+03:00",
+    "title": "Person rescued from woods off I-285 - NewsBreak",
+    "text": "By Atlanta News First staff ,\n8 hours ago ATLANTA, Ga. (Atlanta News First) — A person was rescued from the woods alongside I-285 on Wednesday afternoon. A spokesperson for the Atlanta Fire Rescue Department said crews responded to the area of James Jackson Parkway NW, located near the interstate, to assist in the rescue of a person in a wooded area near a creek. Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "ATLANTA",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ga",
+                "sentiment": "none"
+            },
+            {
+                "name": "James Jackson Parkway",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Atlanta News First",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Atlanta Fire Rescue Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-07T07:23:13.944+03:00",
+    "updated": "2026-05-07T09:28:03.772+03:00"
+}

@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "68b23cd07006fee36fc4bacf679cd4efa988ed90",
+        "url": "https://www.newsbreak.com/news/4838798545500-2-vehicle-crash-in-lexington-leaves-car-flipped",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/lexington-ky",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "economy, business and finance",
+            "science and technology",
+            "sport",
+            "under_construction",
+            "politics",
+            "social issue",
+            "human interest"
+        ],
+        "section_title": "Lexington, KY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "2-vehicle crash in Lexington leaves car flipped - NewsBreak",
+        "title_full": "2-vehicle crash in Lexington leaves car flipped - NewsBreak",
+        "published": "2026-08-20T05:06:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2ilxel_1EOgZ5e300",
+        "performance_score": 0,
+        "domain_rank": 3070,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "68b23cd07006fee36fc4bacf679cd4efa988ed90",
+    "url": "https://www.newsbreak.com/news/4838798545500-2-vehicle-crash-in-lexington-leaves-car-flipped",
+    "ord_in_thread": 0,
+    "author": "WKYT News Staff",
+    "published": "2026-08-20T05:06:00.000+03:00",
+    "title": "2-vehicle crash in Lexington leaves car flipped - NewsBreak",
+    "text": "By WKYT News Staff ,\n2 hours ago LEXINGTON, Ky. (WKYT) - A two-vehicle crash left one car flipped on its roof in Lexington on Wednesday night. According to the Lexington Fire Department, the crash happened at the intersection of Vine and Rose streets. By the time crews arrived on the scene, both drivers were out of their... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident",
+        "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wkyt.com/2026/08/20/2-vehicle-crash-lexington-leaves-car-flipped/",
+        "https://www.wkyt.com/2026/08/20/2-vehicle-crash-lexington-leaves-car-flipped",
+        "https://wkyt.com/2026/08/20/2-vehicle-crash-lexington-leaves-car-flipped/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Lexington",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ky",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vine",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rose",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WKYT",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Lexington Fire Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Lexington"
+            ],
+            "state": [
+                "Kentucky"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:17:40.011+03:00",
+    "updated": "2026-08-20T07:26:22.000+03:00"
+}

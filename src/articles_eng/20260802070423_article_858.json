@@ -1,0 +1,165 @@
+{
+    "thread": {
+        "uuid": "c6c20a5d41ab719b5dc27862a0ad104d189ae3a9",
+        "url": "https://www.newsbreak.com/news/4798377898497-first-energy-defends-request-for-new-gas-fired-plant-at-fort-martin",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/adah-pa",
+        "site_categories": [
+            "disaster and accident",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "under_construction",
+            "social issue",
+            "sport",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "politics",
+            "human interest"
+        ],
+        "section_title": "Adah, PA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "First Energy defends request for new gas fired plant at Fort Martin - NewsBreak",
+        "title_full": "First Energy defends request for new gas fired plant at Fort Martin - NewsBreak",
+        "published": "2026-07-29T21:33:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0G2inW_1DkxeuCa00",
+        "performance_score": 0,
+        "domain_rank": 3090,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c6c20a5d41ab719b5dc27862a0ad104d189ae3a9",
+    "url": "https://www.newsbreak.com/news/4798377898497-first-energy-defends-request-for-new-gas-fired-plant-at-fort-martin",
+    "ord_in_thread": 0,
+    "author": "Chris Lawrence",
+    "published": "2026-07-29T21:33:00.000+03:00",
+    "title": "First Energy defends request for new gas fired plant at Fort Martin - NewsBreak",
+    "text": "By Chris Lawrence ,\n9 hours ago CHARLESTON, W.Va. — First Energy continues to defend plans to build a gas fired power plant adjacent to a coal fired power plant in Monongalia County. Appearing on MetroNews Talkline Wednesday, First Energy President of Maryland and West Virginia operations, Chris Beam, said the company settled on a gas fired operation because it was the most feasible option for the future. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->debt market",
+        "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://wvmetronews.com/2026/07/29/first-energy-defends-request-for-new-gas-fired-plant-at-fort-martin/",
+        "https://www.wvmetronews.com/2026/07/29/first-energy-defends-request-for-new-gas-fired-plant-at-fort-martin/",
+        "https://wvmetronews.com/2026/07/29/first-energy-defends-request-for-new-gas-fired-plant-at-fort-martin"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Chris Lawrence",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Chris Beam",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "CHARLESTON",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fort Martin",
+                "sentiment": "none"
+            },
+            {
+                "name": "W. Va",
+                "sentiment": "none"
+            },
+            {
+                "name": "West Virginia",
+                "sentiment": "none"
+            },
+            {
+                "name": "Maryland",
+                "sentiment": "none"
+            },
+            {
+                "name": "Monongalia County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "First Energy",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "FE",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "MetroNews Talkline",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:28:18.092+03:00",
+    "updated": "2026-07-30T07:29:43.000+03:00"
+}

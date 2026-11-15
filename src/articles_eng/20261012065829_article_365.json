@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "3f2833050a6e828fb2bb7001466c11bc82571bb2",
+        "url": "https://www.newsbreak.com/news/4934013684977-an-email-scammer-stole-500k-from-alameda-county-its-insurer-says-tough-luck",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/san-jose-ca",
+        "site_categories": [
+            "sport",
+            "under_construction",
+            "science and technology",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "economy, business and finance",
+            "politics"
+        ],
+        "section_title": "San Jose, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "An email scammer stole $500K from Alameda County. Its insurer says tough luck - NewsBreak",
+        "title_full": "An email scammer stole $500K from Alameda County. Its insurer says tough luck - NewsBreak",
+        "published": "2026-10-09T00:54:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2R4VAK_1Fvcq3jK00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:09:46.338+03:00"
+        }
+    },
+    "uuid": "3f2833050a6e828fb2bb7001466c11bc82571bb2",
+    "url": "https://www.newsbreak.com/news/4934013684977-an-email-scammer-stole-500k-from-alameda-county-its-insurer-says-tough-luck",
+    "ord_in_thread": 0,
+    "author": "sfstandard.com",
+    "published": "2026-10-09T00:54:00.000+03:00",
+    "title": "An email scammer stole $500K from Alameda County. Its insurer says tough luck - NewsBreak",
+    "text": "6 hours ago In September 2024, staffers of the Alameda County Transportation Commission received an email from a contractor who was looking to get paid. The email, which appeared to be from the head of a Folsom-based company hired for a tree-planting project, directed the commission staff to send $500,000 to a bank account different from the one on file for the vendor. Despite being unable to verify the banking information, the county commission cut a check and sent it to a scammer in Illinois. Read full article\n1",
+    "summary": "6 hours ago In September 2024, staffers of the Alameda County Transportation Commission received an email from a contractor who was looking to get paid. The email, which appeared to be from the head of a Folsom-based company hired for a tree-planting project, directed the commission staff to send $500,000 to a bank account different from the one on file for the vendor. Despite being unable to verify the banking information, the county commission cut a check and sent it to a scammer in Illinois. Read full article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Crime, Law and Justice->fraud",
+        "Crime, Law and Justice->crime",
+        "Economy, Business and Finance->business information",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://sfstandard.com/2026/10/08/alameda-county-transportation-commission-fraud-payments/",
+        "https://www.sfstandard.com/2026/10/08/alameda-county-transportation-commission-fraud-payments/",
+        "https://sfstandard.com/2026/10/08/alameda-county-transportation-commission-fraud-payments"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Alameda County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Illinois",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Alameda County Transportation Commission",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "South San Jose Hills"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:09:46.338+03:00",
+    "updated": "2026-10-09T07:14:00.000+03:00",
+    "related_articles": null
+}

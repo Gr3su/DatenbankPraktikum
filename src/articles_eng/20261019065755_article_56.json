@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "dde0874b449ec39475296f96b2cbdb6999be3530",
+        "url": "https://www.newsbreak.com/cnn-510076/4948371928100-latest-details-surrounding-active-shooter-at-elementary-school-in-bend-oregon",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/trending/top/shooter",
+        "site_categories": [
+            "under_construction",
+            "sport",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "politics",
+            "lifestyle and leisure"
+        ],
+        "section_title": "The latest shooter news, videos &amp; comments | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Latest details surrounding active shooter at elementary school in Bend, Oregon - NewsBreak",
+        "title_full": "Latest details surrounding active shooter at elementary school in Bend, Oregon - NewsBreak",
+        "published": "2026-10-16T00:23:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0FZONL_1G95IEtK00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T06:59:26.152+03:00"
+        }
+    },
+    "uuid": "dde0874b449ec39475296f96b2cbdb6999be3530",
+    "url": "https://www.newsbreak.com/cnn-510076/4948371928100-latest-details-surrounding-active-shooter-at-elementary-school-in-bend-oregon",
+    "ord_in_thread": 0,
+    "author": "CNN",
+    "published": "2026-10-16T00:23:00.000+03:00",
+    "title": "Latest details surrounding active shooter at elementary school in Bend, Oregon - NewsBreak",
+    "text": "By CNN ,\n6 hours ago Multiple people were injured, including children, and a shooter is dead after an active shooter situation at an elementary school in Bend, Oregon, according to police. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cnn.com/2026/10/15/us/video/bend-oregon-shooter-elementary-school-digvid",
+        "https://cnn.com/2026/10/15/us/video/bend-oregon-shooter-elementary-school-digvid"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Bend",
+                "sentiment": "none"
+            },
+            {
+                "name": "Oregon",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "CNN",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "WBD",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T06:59:26.152+03:00",
+    "updated": "2026-10-16T07:00:38.000+03:00",
+    "related_articles": null
+}

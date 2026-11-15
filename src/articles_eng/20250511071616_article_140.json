@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "8e3eba6277ebfa740cfe3518e2290c9b3ea9eda6",
+        "url": "https://www.newsmax.com/newsfront/social-security-fraud-check/2025/04/09/id/1206316",
+        "site_full": "www.newsmax.com",
+        "site": "newsmax.com",
+        "site_section": "https://newsmax.com/politics",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "\r\n\tBalanced Politics, News Headlines, Breaking News, News Videos - Newsmax.com Politics\r\n",
+        "site_title": "Newsmax – Breaking News | News Videos | Politics, Health, Finance",
+        "title": "Social Security Administration Announces Anti-Fraud Check for Claims",
+        "title_full": "Social Security Administration Announces Anti-Fraud Check for Claims",
+        "published": "2025-04-10T00:21:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=ebb39222-4dcd-4fef-91f3-5b9d9d2156be&amp;SiteName=Newsmax",
+        "performance_score": 0,
+        "domain_rank": 2472,
+        "domain_rank_updated": "2025-04-08T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8e3eba6277ebfa740cfe3518e2290c9b3ea9eda6",
+    "url": "https://www.newsmax.com/newsfront/social-security-fraud-check/2025/04/09/id/1206316",
+    "ord_in_thread": 0,
+    "author": "Nick Koutsobinas",
+    "published": "2025-04-10T00:21:00.000+03:00",
+    "title": "Social Security Administration Announces Anti-Fraud Check for Claims",
+    "text": "• The Social Security Administration (SSA) announced plans for an 'anti-fraud check' on claims filed by phone.\n• The anti-fraud checks will begin on April 14, 2025.\n• Claims filed over the telephone will be flagged if they have fraud risk indicators.\n• The announcement follows findings of waste, fraud, and abuse by the Department of Government Efficiency.\n• Issues include noncitizens receiving Social Security numbers and payments to accounts that are '100, 200 and even 300 years old.'\n• Individuals whose accounts are flagged will need to prove their identity in person.\n• If no fraud is detected, individuals can continue processing their claims online.\n• The SSA conducts 100 percent ID proofing for all in-person claims.\n• Approximately 4.5 million telephone claims are made each year, with an estimated 70,000 potentially flagged.\n• Last month, the SSA announced that identity verification over the phone would no longer be allowed, but later reversed this decision, stating phone verification remains an option.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial service",
+        "Economy, Business and Finance->business governance",
+        "Politics->government policy",
+        "Social Issue->discrimination",
+        "Social Issue->social services",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": true,
+    "external_links": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Social Security Administration",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "SSA",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:42:30.609+03:00",
+    "updated": "2025-04-10T00:42:30.609+03:00"
+}

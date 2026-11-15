@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "ccb296beef7e7b2e95b7e21a95595f21e09d02f4",
+        "url": "https://www.newsbreak.com/news/4799019845098-man-shot-by-san-diego-police-during-stolen-car-investigation-in-san-ysidro",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/santee-ca",
+        "site_categories": [
+            "sport",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "politics",
+            "arts, culture and entertainment",
+            "disaster and accident",
+            "crime, law and justice",
+            "social issue",
+            "human interest",
+            "under_construction"
+        ],
+        "section_title": "Santee, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Man shot by San Diego Police during stolen car investigation in San Ysidro - NewsBreak",
+        "title_full": "Man shot by San Diego Police during stolen car investigation in San Ysidro - NewsBreak",
+        "published": "2026-07-30T03:24:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/13BkbR_1DlbPCLA00",
+        "performance_score": 0,
+        "domain_rank": 3090,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ccb296beef7e7b2e95b7e21a95595f21e09d02f4",
+    "url": "https://www.newsbreak.com/news/4799019845098-man-shot-by-san-diego-police-during-stolen-car-investigation-in-san-ysidro",
+    "ord_in_thread": 0,
+    "author": "NBC San Diego",
+    "published": "2026-07-30T03:24:00.000+03:00",
+    "title": "Man shot by San Diego Police during stolen car investigation in San Ysidro - NewsBreak",
+    "text": "3 hours ago Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "Crime, Law and Justice->investigation (criminal)",
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->assault",
+        "War, Conflict and Unrest->riot",
+        "War, Conflict and Unrest->armed conflict"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nbcsandiego.com/video/videos/man-shot-by-san-diego-police-during-stolen-car-investigation-in-san-ysidro/4054969/?amp=1",
+        "https://www.nbcsandiego.com/video/videos/man-shot-by-san-diego-police-during-stolen-car-investigation-in-san-ysidro/4054969/",
+        "https://nbcsandiego.com/video/videos/man-shot-by-san-diego-police-during-stolen-car-investigation-in-san-ysidro/4054969/?amp=1"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "San Ysidro",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "San Diego Police",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Santee"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:12:18.958+03:00",
+    "updated": "2026-07-30T07:18:17.000+03:00"
+}

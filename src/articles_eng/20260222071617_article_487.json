@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "cc985578959bde1f5537d9feaf6d6c65a6493ffd",
+        "url": "https://www.newsbreak.com/news/4500005043189-2-injured-after-shooting-at-hotel-in-sunnyvale",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/santa-clara-ca",
+        "site_categories": [
+            "crime, law and justice",
+            "human interest",
+            "sport",
+            "politics",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "under_construction"
+        ],
+        "section_title": "Santa Clara, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "2 injured after shooting at hotel in Sunnyvale - NewsBreak",
+        "title_full": "2 injured after shooting at hotel in Sunnyvale - NewsBreak",
+        "published": "2026-02-19T04:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cc985578959bde1f5537d9feaf6d6c65a6493ffd",
+    "url": "https://www.newsbreak.com/news/4500005043189-2-injured-after-shooting-at-hotel-in-sunnyvale",
+    "ord_in_thread": 0,
+    "author": "Victoria Meza",
+    "published": "2026-02-19T04:35:00.000+02:00",
+    "title": "2 injured after shooting at hotel in Sunnyvale - NewsBreak",
+    "text": "By Victoria Meza ,\n3 hours ago Two people were injured after a shooting at a Marriott hotel in Sunnyvale Wednesday afternoon, according to police. Police said they received a report of a shooting at the Marriott hotel located at 750 Lakeway Drive at around 3:55 p.m. There, authorities report officers initially found a man with at... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->shootings",
+        "Crime, Law and Justice->police"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Victoria Meza",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Sunnyvale",
+                "sentiment": "none"
+            },
+            {
+                "name": "Marriott",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lakeway Drive",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:27:45.880+02:00",
+    "updated": "2026-02-19T08:34:27.263+02:00"
+}

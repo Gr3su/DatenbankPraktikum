@@ -1,0 +1,148 @@
+{
+    "thread": {
+        "uuid": "f4ba1e17f6836a21046a9fbd3f4f34c252f44d04",
+        "url": "https://www.newsbreak.com/news/4465345140121-pensacola-police-seeking-to-locate-37-year-old-missing-woman",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/lillian-al",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Lillian, AL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Pensacola Police seeking to locate 37-year-old missing woman - NewsBreak",
+        "title_full": "Pensacola Police seeking to locate 37-year-old missing woman - NewsBreak",
+        "published": "2026-01-28T23:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2Rp66o_18QNhFte00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-25T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f4ba1e17f6836a21046a9fbd3f4f34c252f44d04",
+    "url": "https://www.newsbreak.com/news/4465345140121-pensacola-police-seeking-to-locate-37-year-old-missing-woman",
+    "ord_in_thread": 0,
+    "author": "WEAR staff",
+    "published": "2026-01-28T23:15:00.000+02:00",
+    "title": "Pensacola Police seeking to locate 37-year-old missing woman - NewsBreak",
+    "text": "By WEAR staff ,\n8 hours ago PENSACOLA, Fla. -- Pensacola Police are trying to locate a 37-year-old missing woman. Police say Robin Whitmire has not been seen since Friday in the area of Cypress Street and L Street. She is approximately 5’2” and 98 lbs. Whitmire was last seen wearing a matching brown jacket... Read full article\nRead in NewsBreak 2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->investigation (criminal)"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Robin Whitmire",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "PENSACOLA",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fla",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cypress Street",
+                "sentiment": "none"
+            },
+            {
+                "name": "L Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Pensacola",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Lillian"
+            ],
+            "state": [
+                "Alabama"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-29T07:19:49.014+02:00",
+    "updated": "2026-01-29T07:24:07.000+02:00"
+}

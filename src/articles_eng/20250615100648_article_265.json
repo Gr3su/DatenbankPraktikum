@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "37abc462c0208005b1a7f84cd73ad6c8bbc21513",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4048520612153-flood-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Flood Warning by NWS - NewsBreak",
+        "title_full": "Flood Warning by NWS - NewsBreak",
+        "published": "2025-06-12T04:47:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/02KjvW_11lNcXbx00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "37abc462c0208005b1a7f84cd73ad6c8bbc21513",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4048520612153-flood-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-06-12T04:47:00.000+03:00",
+    "title": "Flood Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here ...The National Weather Service in Austin/San Antonio TX has issued a Flood Warning for the following rivers in Texas... Leon Creek At I-35S near San Antonio affecting Bexar County. * WHAT...Moderate flooding is forecast. * WHERE...Leon Creek at I-35S near San Antonio. * WHEN...From early this morning to this afternoon. * IMPACTS...At 16.0 feet, Camargo Park near Nelson Wolff Stadium will begin to see water entering the park in areas that are close to the creek. Primary and secondary roads and bridges will begin to see flooding from above Kelly USA to below I-35. Flow approaches horse barns and homes below Kelly USA. * ADDITIONAL DETAILS... - At 1:15 AM CDT Thursday the stage was 2.1 feet. - Bankfull stage is 13.0 feet. - Forecast...The river will rise above flood stage early this morning to 16.5 feet this morning. It will then fall below flood stage this morning to 3.7 feet late Saturday morning. It will rise to 3.8 feet late Saturday morning. It will then fall again and remain below flood stage. - Flood stage is 15.0 feet. - Flood History...This crest compares to a previous crest of 17.8 feet on 10/14/2021. - http://www.weather.gov/safety/flood",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather",
+        "Disaster and Accident",
+        "Social Issue"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Disaster and Accident->natural disaster",
+        "Social Issue->demographics",
+        "Social Issue->social problem",
+        "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.72530aa378aa504f1d31b4daf2c59f7302cc1ea9.001.1",
+        "http://www.weather.gov/safety/flood",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.72530aa378aa504f1d31b4daf2c59f7302cc1ea9.001.1",
+        "https://alerts.weather.gov/search",
+        "http://weather.gov/safety/flood"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Wolff Stadium",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bexar County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kelly",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:15:19.783+03:00",
+    "updated": "2025-06-12T07:20:29.000+00:00"
+}

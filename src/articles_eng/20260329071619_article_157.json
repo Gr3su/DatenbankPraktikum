@@ -1,0 +1,150 @@
+{
+    "thread": {
+        "uuid": "e49f96a188f22fada32a729ad9af894e90f74c4a",
+        "url": "https://www.newsbreak.com/news/4555676246249-craven-community-college-hosting-ecu-transfer-event-in-havelock",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/gloucester-nc",
+        "site_categories": [
+            "crime, law and justice",
+            "economy, business and finance",
+            "sport",
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "politics",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Gloucester, NC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Craven Community College Hosting ECU Transfer Event in Havelock - NewsBreak",
+        "title_full": "Craven Community College Hosting ECU Transfer Event in Havelock - NewsBreak",
+        "published": "2026-03-24T13:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4AhfnY_19sOvlv200",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e49f96a188f22fada32a729ad9af894e90f74c4a",
+    "url": "https://www.newsbreak.com/news/4555676246249-craven-community-college-hosting-ecu-transfer-event-in-havelock",
+    "ord_in_thread": 0,
+    "author": "News 12 Staff",
+    "published": "2026-03-24T13:21:00.000+02:00",
+    "title": "Craven Community College Hosting ECU Transfer Event in Havelock - NewsBreak",
+    "text": "By News 12 Staff ,\n1 days ago CRAVEN COUNTY, NC — Students thinking about taking the next step in their education will have a chance to explore their options today in Havelock. Craven Community College is teaming up with East Carolina University to host “Craven: A Path to ECU,” a transfer-focused event on Tuesday, March 24, from 2 to 6 p.m. The event will be held inside the Institute of Aeronautical Technology hangar on Craven’s Havelock campus. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Education"
+    ],
+    "topics": [
+        "Education->college and university"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Havelock",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ECU",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Craven Community College",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Institute of Aeronautical Technology",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "East Carolina University",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Gloucester"
+            ],
+            "state": [
+                "North Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-26T07:21:12.705+02:00",
+    "updated": "2026-03-26T07:26:24.000+02:00"
+}

@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "bee2bed127e39ebadd4c3cbe0b08d84ae50b1427",
+        "url": "https://www.foxnews.com/video/6394840512112",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://moxie.foxnews.com/google-publisher/videos.xml",
+        "site_categories": [
+            "politics",
+            "crime, law and justice",
+            "war, conflict and unrest",
+            "arts, culture and entertainment",
+            "media",
+            "sport"
+        ],
+        "section_title": "The Latest &amp; Breaking Videos on Fox News",
+        "site_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "'Horrific' sanctuary policies put American lives at risk, former GOP spokeswoman says",
+        "title_full": "'Horrific' sanctuary policies put American lives at risk, former GOP spokeswoman says",
+        "published": "2026-05-07T06:35:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e56ec1d-a275-42d2-bfb2-c07baabf8952/08346c4e-b601-4626-83d3-7c033d8cbb25/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+        "performance_score": 0,
+        "domain_rank": 438,
+        "domain_rank_updated": "2026-05-04T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bee2bed127e39ebadd4c3cbe0b08d84ae50b1427",
+    "url": "https://www.foxnews.com/video/6394840512112",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-05-07T06:35:00.000+03:00",
+    "title": "'Horrific' sanctuary policies put American lives at risk, former GOP spokeswoman says",
+    "text": "Log in to comment on videos and join in on the fun.\nWatch the live stream of Fox News and full episodes.\nReduce eye strain and focus on the content that matters.\nRepublican strategist Luke Ball and former GOP national spokeswoman Elizabeth Pipko discuss a DOJ probe into a progressive Northern Virginia district attorney over the alleged handling of cases involving illegal immigrants on ‘Fox News @ Night.’",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Politics->government policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Luke Ball",
+                "sentiment": "none"
+            },
+            {
+                "name": "Elizabeth Pipko",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Northern Virginia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Fox News @ Night",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "DOJ",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_us",
+            "top_news"
+        ],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-07T07:41:45.353+03:00",
+    "updated": "2026-05-07T07:44:13.000+03:00"
+}

@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "9d9b3177b3c5fb84ef87cb9feb3392ac6008fcbb",
+        "url": "https://www.youtube.com/watch?v=WXPWqPPCwvY",
+        "site_full": "www.youtube.com",
+        "site": "youtube.com",
+        "site_section": "https://prelansare.ro/rss.xml",
+        "site_categories": [
+            "economy, business and finance",
+            "war, conflict and unrest",
+            "television",
+            "crime, law and justice",
+            "politics",
+            "entertainment"
+        ],
+        "section_title": "prelansare.ro",
+        "site_title": "YouTube",
+        "title": "China Has Done Its Best for Mideast Peace, Expert Says",
+        "title_full": "China Has Done Its Best for Mideast Peace, Expert Says",
+        "published": "2026-04-09T07:20:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ytimg.com/vi/WXPWqPPCwvY/maxresdefault.jpg",
+        "performance_score": 0,
+        "domain_rank": 9,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9d9b3177b3c5fb84ef87cb9feb3392ac6008fcbb",
+    "url": "https://www.youtube.com/watch?v=WXPWqPPCwvY",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-04-09T07:20:00.000+03:00",
+    "title": "China Has Done Its Best for Mideast Peace, Expert Says",
+    "text": "China Has Done Its Best for Mideast Peace, Expert Says - YouTube",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->peace process",
+        "Politics->international relations"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "China",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:25:15.444+03:00",
+    "updated": "2026-04-09T07:28:56.000+03:00"
+}

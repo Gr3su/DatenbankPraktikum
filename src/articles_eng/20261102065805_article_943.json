@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "139e845c8129b4a859c1ffbadc52c08cabf26bd8",
+        "url": "https://www.hindustantimes.com/world-news/north-korea-behind-6-3-billion-binance-crypto-theft-blockchain-analysis-firm-trm-says-101793336395870.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/astrology/horoscope",
+        "site_categories": [
+            "politics",
+            "media",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "social issue",
+            "crime, law and justice"
+        ],
+        "section_title": "Horoscope Today: Daily, Weekly, Monthly & Yearly Horoscope Predictions | Hindustan Times | Hindustan Times",
+        "site_title": "Hindustan Times: Breaking News, Latest News, India News, World News & Cricket Today's Headlines | Hindustan Times",
+        "title": "North Korea behind $6.3 billion Binance crypto theft, Blockchain analysis firm TRM says | World News",
+        "title_full": "North Korea behind $6.3 billion Binance crypto theft, Blockchain analysis firm TRM says | World News",
+        "published": "2026-10-30T07:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/10/30/1600x900/logo/photo-1760199789455-49098afd02f0_1793336628558_pRqo_1793336640452_8A16_5dc038ea-a971-4f0a-89c1-d92ff1ee7140_mQf7.jpg",
+        "performance_score": 0,
+        "domain_rank": 2735,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-30T05:25:05.000+00:00"
+        }
+    },
+    "uuid": "139e845c8129b4a859c1ffbadc52c08cabf26bd8",
+    "url": "https://www.hindustantimes.com/world-news/north-korea-behind-6-3-billion-binance-crypto-theft-blockchain-analysis-firm-trm-says-101793336395870.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-10-30T07:06:00.000+02:00",
+    "title": "North Korea behind $6.3 billion Binance crypto theft, Blockchain analysis firm TRM says | World News",
+    "text": "How North Korean hackers allegedly stole the crypto?\nTRM explained how the North Korean hackers allegedly stole cryptocurrency from Binance. “On Ethereum, the attacker used an EIP-7702 delegation to turn a Binance hot wallet into a sweeper it controlled, with 50 pre-signed authorizations prepared in advance. In the same window, Binance wallets on the other nine chains sent funds to the attacker through ordinary signed transfers,” they noted.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->cyber crime",
+        "Crime, Law and Justice->fraud"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "North Korea",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Ethereum",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Binance",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Blockchain",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "World News",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "TRM",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-30T07:23:06.799+02:00",
+    "updated": "2026-10-30T07:26:20.000+02:00",
+    "related_articles": null
+}

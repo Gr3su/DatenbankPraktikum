@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "0ea0f9c1ecb4b696e608dc852b388de434761d75",
+        "url": "https://www.newsbreak.com/new-york-mets-on-si-1731318/4730041934072-mets-playoff-hopes-unofficially-bashed-after-tuesday-s-loss-to-the-cubs",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/trending/top/mets&",
+        "site_categories": [
+            "disaster and accident",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "human interest",
+            "under_construction",
+            "social issue",
+            "politics",
+            "sport",
+            "economy, business and finance",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "The latest mets&amp; news, videos &amp; comments | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Mets' Playoff Hopes Unofficially Bashed After Tuesday's Loss to the Cubs - NewsBreak",
+        "title_full": "Mets' Playoff Hopes Unofficially Bashed After Tuesday's Loss to the Cubs - NewsBreak",
+        "published": "2026-06-24T20:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1LSVcw_1Cf5gQ2Z00",
+        "performance_score": 0,
+        "domain_rank": 3030,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0ea0f9c1ecb4b696e608dc852b388de434761d75",
+    "url": "https://www.newsbreak.com/new-york-mets-on-si-1731318/4730041934072-mets-playoff-hopes-unofficially-bashed-after-tuesday-s-loss-to-the-cubs",
+    "ord_in_thread": 0,
+    "author": "Jack Ramsey",
+    "published": "2026-06-24T20:00:00.000+03:00",
+    "title": "Mets' Playoff Hopes Unofficially Bashed After Tuesday's Loss to the Cubs - NewsBreak",
+    "text": "By Jack Ramsey ,\n11 hours ago The Mets lost another brutal game on Tuesday, this one to the Cubs, and it might have unofficially ended their season. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->american football"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.si.com/mlb/mets/onsi/mets-playoff-hopes-unofficially-bashed-tuesday-s-loss-cubs-01kvrkjsjavb",
+        "https://si.com/mlb/mets/onsi/mets-playoff-hopes-unofficially-bashed-tuesday-s-loss-cubs-01kvrkjsjavb"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jack Ramsey",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Mets",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "METS",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Cubs",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:25:03.942+03:00",
+    "updated": "2026-06-25T07:30:31.000+03:00"
+}

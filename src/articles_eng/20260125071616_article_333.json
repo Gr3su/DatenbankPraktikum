@@ -1,0 +1,140 @@
+{
+    "thread": {
+        "uuid": "760bc10a07a4a70cce222600e3e734268f9ae5e5",
+        "url": "https://www.newsbreak.com/news/4452724534685-police-searching-for-vehicle-involved-in-rt-422-crash",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/brookville-pa",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Brookville, PA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Police Searching For Vehicle Involved In Rt. 422 Crash - NewsBreak",
+        "title_full": "Police Searching For Vehicle Involved In Rt. 422 Crash - NewsBreak",
+        "published": "2026-01-21T13:26:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1kW6gy_18DfXK7E00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-18T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "760bc10a07a4a70cce222600e3e734268f9ae5e5",
+    "url": "https://www.newsbreak.com/news/4452724534685-police-searching-for-vehicle-involved-in-rt-422-crash",
+    "ord_in_thread": 0,
+    "author": "Tyler Friel",
+    "published": "2026-01-21T13:26:00.000+02:00",
+    "title": "Police Searching For Vehicle Involved In Rt. 422 Crash - NewsBreak",
+    "text": "By Tyler Friel ,\n17 hours ago State Police are asking for help in locating a vehicle involved in a crash in Armstrong County that sent several people to the hospital. On Sunday just before 4 p.m., a multi-vehicle crash happened along Route 422 in Plum Creek Township. According to state police, police are looking for a... Read full article\nRead in NewsBreak 4",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->reckless driving",
+        "Crime, Law and Justice->investigation (criminal)",
+        "Crime, Law and Justice->police"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tyler Friel",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Armstrong County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Plum Creek Township",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "State Police",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Brookville"
+            ],
+            "state": [
+                "Pennsylvania"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-22T07:20:45.653+02:00",
+    "updated": "2026-01-22T07:35:51.000+02:00"
+}

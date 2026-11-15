@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "d6728cf66c50b3344c0ad61fd60f4e77c31308fc",
+        "url": "https://www.newsbreak.com/news/4785604526272-rocky-mount-man-faces-multiple-charges-following-chase",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/jackson-nc",
+        "site_categories": [
+            "crime, law and justice",
+            "disaster and accident",
+            "politics",
+            "human interest",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "under_construction",
+            "social issue",
+            "sport"
+        ],
+        "section_title": "Jackson, NC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Rocky Mount man faces multiple charges following chase - NewsBreak",
+        "title_full": "Rocky Mount man faces multiple charges following chase - NewsBreak",
+        "published": "2026-07-22T23:03:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/27AS6i_1DY4o0RV00",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d6728cf66c50b3344c0ad61fd60f4e77c31308fc",
+    "url": "https://www.newsbreak.com/news/4785604526272-rocky-mount-man-faces-multiple-charges-following-chase",
+    "ord_in_thread": 0,
+    "author": "Lance Martin",
+    "published": "2026-07-22T23:03:00.000+03:00",
+    "title": "Rocky Mount man faces multiple charges following chase - NewsBreak",
+    "text": "By Lance Martin ,\n8 hours ago A Rocky Mount man with pending court cases was arrested and charged Tuesday evening following a chase that began in the Enfield area, according to the Halifax County Sheriff’s Office. Christopher Bakari Short, 26, faces charges of felony fleeing to elude arrest, conspiracy to sell/deliver a Schedule VI controlled... Read full article\n3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->out of court procedures",
+        "Crime, Law and Justice->hijacking",
+        "Crime, Law and Justice->court"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://rrspin.com/news/29194-rocky-mount-man-faces-multiple-charges-following-chase.html",
+        "https://www.rrspin.com/news/29194-rocky-mount-man-faces-multiple-charges-following-chase.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lance Martin",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Christopher Bakari Short",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Rocky Mount",
+                "sentiment": "none"
+            },
+            {
+                "name": "Enfield",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Halifax County Sheriff ’ s Office",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Jackson"
+            ],
+            "state": [
+                "North Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-23T07:19:13.249+03:00",
+    "updated": "2026-07-23T11:19:59.000+03:00"
+}

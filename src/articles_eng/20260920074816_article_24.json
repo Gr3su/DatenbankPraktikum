@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "eebc317dd2ce6290bdd93a1e3d9be7e81ec7f929",
+        "url": "https://developer.wordpress.com/studio/",
+        "site_full": "developer.wordpress.com",
+        "site": "wordpress.com",
+        "site_section": "https://hn.algolia.com/latest.atom",
+        "site_categories": [],
+        "section_title": "HN's home page",
+        "site_title": "WordPress.com: Everything You Need to Build Your Website",
+        "title": "Agentic local development tool for WordPress",
+        "title_full": "Agentic local development tool for WordPress",
+        "published": "2026-09-17T07:36:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://developer.wordpress.com/wp-content/uploads/2025/08/studio-featured-image.jpg",
+        "performance_score": 0,
+        "domain_rank": 103,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "eebc317dd2ce6290bdd93a1e3d9be7e81ec7f929",
+    "url": "https://developer.wordpress.com/studio/",
+    "ord_in_thread": 0,
+    "author": "soltanov",
+    "published": "2026-09-17T07:36:00.000+03:00",
+    "title": "Agentic local development tool for WordPress",
+    "text": "Click, type, or describe\nThree ways to use Studio. Pick what fits your workflow.\nStudio Desktop\nThe visual way. Point-and-click local site management on macOS and Windows.\nStudio CLI\nThe command-line way. Scriptable for CI, automation, and remote setups.\nStudio Code (beta)\nThe AI way on desktop and via the CLI. Describe what you want, and get blocks, themes, plugins, or a full site.\nStudio Code: the AI agent for WordPress\nYour WordPress expert on desktop and in the terminal. Describe what you want in natural language and Studio Code builds it based on WordPress best practices, tools, and skills.\nVibe code complete sites\nTell Studio Code what you want, point it at a reference URL, or hand it a folder of images. The agent builds it locally.\nFluent in WordPress\nWordPress best practices are baked in, so Studio Code validates every block against the real editor.\nSelf-correcting\nStudio Code screenshots its own work and iterates until the layout matches what you asked for.\nSync, preview, and ship\nMove your work between local and live with Studio Sync, share live preview sites with clients, and ship to WordPress.com or Pressable in one step.\nSelective sync\nPush or pull anything from a single theme or plugin to the database or full wp-content\nfolder.\nCloud-hosted previews\nGenerate a preview site from any local site. The link stays live whether or not your laptop is awake — no tunnels, no ngrok.\nSave once, reuse forever\nBundle a theme, plugin stack, demo content, and settings into a Blueprint, and spin up new sites from that template every time.\nUse your own agent\nStudio gives Claude Code, Cursor, VS Code, and Codex the WordPress context and access they’re missing — without any prompt engineering. Set up MCP and explore agent skills.\nSay it, see it, ship it\nStudio is WordPress, locally on your computer. Build and push live your way.\nDownload for free on desktop\nBy continuing with download, you agree to our Terms of Service and have read our Privacy Policy.\nDownload for free\nDownload for Mac, Windows, or Linux\nInstall the CLI\n$ curl -fsSL https://wordpress.studio/install.sh | bash\n$ curl -fsSL https://wordpress.studio/install.sh | bash\n$ irm https://wordpress.studio/install.ps1 | iex\nFrequently asked questions\nDo I need to have a WordPress.com account to use WordPress Studio?\nA WordPress.com account is required only if you want to leverage the preview sites feature for showcasing your projects and gathering feedback.\nWhat operating system do I need to use WordPress Studio?\nYou can run WordPress Studio on macOS, Windows, and Linux.\nHow can I export a theme from WordPress Studio?\nThemes created in WordPress Studio function in the same manner as themes created in traditional WordPress sites. Themes can be exported in the desktop app by clicking “Export” found within the “Options” menu in the top-right corner of the WordPress site editor. See our documentation for additional details on these steps.\nHow does Studio Sync work?\nStudio Sync lets you keep your local WordPress Studio sites in sync with a production or staging site in either direction. It’s available for all WordPress.com sites on paid plans, as well as Pressable sites with Jetpack enabled.\nLog in with your WordPress.com account to see all your available sites. From there, you can sync your entire local site with just a few clicks or choose specific items like a single plugin or theme. See our documentation for additional details on these steps.\nHow do preview sites work?\nAfter connecting WordPress Studio to your WordPress.com account, you can create hosted clones of your local sites. These clones, or “preview sites,” are powered by WordPress.com and hosted on a temporary domain, simplifying the process of gathering feedback from anyone, anywhere.\nThe ability to push updates from your local site to your hosted preview site adds further flexibility and potential for refining your project based on feedback. Your preview site remains active for seven days after the last update, and you can update as many times as you’d like, ensuring you have ample time to perfect your project.\nYou can have up to ten free preview sites associated with your account at any given time. Rest assured, we don’t include deleted or expired preview sites in the count!\nHow can I contribute to WordPress Studio?\nWordPress Studio is a free and open source app, and our mission is for Studio to be the fastest and simplest way for developers to build a WordPress site. We welcome all contributions in pursuit of this mission. Think fewer buttons, not more.\nFeel free to open a GitHub issue to discuss your proposed improvement. Pull requests are welcome for bug fixes and enhancements. New features will need to go through our internal vetting process before they are accepted.\nTo learn more about how to contribute, please read the Contributing Guidelines.\nFor information on setting up your development environment for contributing code, see the Code Contributions.",
+    "summary": "Describe what you want in natural language and Studio Code builds it based on WordPress best practices, tools, and skills. Bundle a theme, plugin stack, demo content, and settings into a Blueprint, and spin up new sites from that template every time. A WordPress.com account is required only if you want to leverage the preview sites feature for showcasing your projects and gathering feedback. From there, you can sync your entire local site with just a few clicks or choose specific items like a single plugin or theme.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://github.com/Automattic/studio/blob/trunk/CONTRIBUTING.md",
+        "https://github.com/Automattic/studio/blob/trunk/docs/code-contributions.md",
+        "https://github.com/Automattic/studio/issues/new/choose",
+        "https://automattic.com/privacy/",
+        "https://www.github.com/Automattic/studio/blob/trunk/CONTRIBUTING.md",
+        "https://automattic.com/privacy",
+        "https://www.github.com/Automattic/studio/issues/new/choose",
+        "https://www.github.com/Automattic/studio/blob/trunk/docs/code-contributions.md",
+        "https://www.automattic.com/privacy/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T07:49:00.631+03:00",
+    "updated": "2026-09-17T07:50:23.000+03:00"
+}

@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "3c317adbc6cea9e1a86cb5001528cd88853c901d",
+        "url": "https://www.world-today-news.com/new-study-refutes-link-between-tylenol-use-during-pregnancy-and-autism",
+        "site_full": "www.world-today-news.com",
+        "site": "world-today-news.com",
+        "site_section": "https://www.world-today-news.com/",
+        "site_categories": [
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "politics",
+            "science and technology",
+            "health",
+            "media",
+            "sport",
+            "economy, business and finance"
+        ],
+        "section_title": "World Today News - Your Global News Source Directory",
+        "site_title": "World Today News - Your Global News Source Directory",
+        "title": "New Study Refutes Link Between Tylenol Use During Pregnancy and Autism",
+        "title_full": "New Study Refutes Link Between Tylenol Use During Pregnancy and Autism",
+        "published": "2026-07-01T16:22:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 139516,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3c317adbc6cea9e1a86cb5001528cd88853c901d",
+    "url": "https://www.world-today-news.com/new-study-refutes-link-between-tylenol-use-during-pregnancy-and-autism",
+    "ord_in_thread": 0,
+    "author": "Rachel Kim - Technology Editor",
+    "published": "2026-07-01T16:22:00.000+03:00",
+    "title": "New Study Refutes Link Between Tylenol Use During Pregnancy and Autism",
+    "text": "A new large-scale study has found no link between the use of acetaminophen during pregnancy and the development of autism in children, according to recent medical research findings. The results refute claims made by President Trump and Robert F. Kennedy Jr., who previously asserted that the common pain reliever—marketed as Tylenol in the U.S.—contributes to autism spectrum disorders.\nThe Tech TL;DR: Clinical Finding: Large-scale data shows no causal link between acetaminophen and autism. Public Health Impact: Untreated maternal fever increases risks of miscarriage and birth defects. Market Volatility: Political rhetoric led to a 10% drop in emergency department acetaminophen use. Why the Tylenol-Autism Narrative Failed Scientific Scrutiny The conflict centers on a press conference held in September where President Trump and Robert F. Kennedy Jr. stated that acetaminophen causes autism in children. Trump advised pregnant individuals to “tough it out” regarding fever and pain rather than using the medication. This directive contradicted established medical protocols, which identify untreated fever during pregnancy as a known risk factor for autism, premature birth, and miscarriage.\nThe impact of this rhetoric moved beyond public discourse into measurable behavioral shifts. A study published in The Lancet in March documented a 10% decrease in acetaminophen use among pregnant patients in emergency departments following the press conference. This shift in patient behavior demonstrates the high latency between political messaging and clinical reality, where a non-evidence-based warning overrode standard medical guidance.\nFrom a data integrity perspective, the “link” claimed by the administration lacked a foundation in peer-reviewed benchmarks. While the administration pushed a narrative of risk, medical organizations responded by emphasizing the safety profile of the drug. For those managing large-scale health data systems or pharmaceutical compliance, this highlights the volatility of “sentiment-driven” healthcare trends versus empirical clinical data.\nThe Legal and Clinical Blast Radius The ripple effects of the administration’s claims triggered significant legal action, most notably a lawsuit filed by the state of Texas against the manufacturer of Tylenol. This legal maneuver attempted to codify the alleged connection between the drug and autism into a liability framework.\nTrump, RFK Jr. link autism to acetaminophen use in pregnancy; medical experts push back However, the latest research functions as a “patch” to this narrative, reinforcing the original safety data. In the same way a developer must rely on a verified CVE database to determine if a vulnerability is real or a false positive, medical professionals rely on large-cohort studies to filter out noise from anecdotal or political claims. The lack of a verified correlation suggests that the Texas litigation is based on flawed premises.\nFor organizations managing healthcare infrastructure, this volatility necessitates robust data auditing. Entities utilizing [Relevant Tech Firm/Service] for healthcare compliance and data auditing are seeing an increased need for real-time monitoring of pharmaceutical trends to counter misinformation-driven dips in critical care administration.\nData Analysis: Sentiment vs. Statistics To understand the divergence between the administration’s claims and the study’s findings, one can look at the “input” (political warnings) versus the “output” (clinical outcomes). The following matrix compares the two conflicting frameworks:\nMetric Administration Claim Clinical Study Finding Causal Link to Autism Asserted (No clear evidence provided) Not Found Recommended Action Avoid acetaminophen (“Tough it out”) Use as a safe fever/pain reliever Risk of Non-Use Not addressed Increased risk of birth defects/miscarriage Impact on Usage Decreased usage in EDs by 10% Consistent safety profile across cohorts For those analyzing these trends via data pipelines, the process of scraping public health sentiment often requires filtering through high-noise environments. If a researcher were to query the prevalence of these claims using a simple Python script to analyze social media spikes against clinical trial registries, the disconnect would be immediate.\n# Example: Analyzing sentiment spikes vs. clinical trial updates import requests import pandas as pd def check_clinical_trials(drug_name): api_url = f\"https://clinicaltrials.gov/api/v2/studies?condition=autism&term={drug_name}\" response = requests.get(api_url) return response.json() # Fetching data for Acetaminophen to verify study prevalence results = check_clinical_trials(\"acetaminophen\") print(f\"Found {len(results.get('studies', []))} relevant clinical studies.\")\nSystemic Risks of Medical Misinformation The “tough it out” approach advocated by the president introduces a systemic failure point in prenatal care. In technical terms, this is a failure of the “fail-safe” mechanism. Acetaminophen serves as a critical intervention to prevent the higher-order failures associated with high maternal fever. By removing the intervention, the administration increased the probability of adverse outcomes—miscarriage and birth defects—without providing a viable, evidence-based alternative.\nThis environment of misinformation forces healthcare providers to implement more rigorous “verification layers” before patient intake. Many clinics are now deploying [Relevant Tech Firm/Service] to help manage patient communication and ensure that evidence-based guidelines are delivered via secure, verified channels to counteract the influence of non-medical authorities.\nThe trajectory of this conflict suggests a growing divide between political directives and scientific consensus. As we move toward more AI-driven diagnostics and automated health recommendations, the integrity of the underlying data becomes paramount. If a model is trained on political rhetoric rather than The Lancet ‘s peer-reviewed data, the resulting “hallucination” could lead to actual clinical harm.\nDisclaimer: The technical analyses and security protocols detailed in this article are for informational purposes only. Always consult with certified IT and cybersecurity professionals before altering enterprise networks or handling sensitive data.",
+    "summary": "The results refute claims made by President Trump and Robert F. Kennedy Jr., who previously asserted that the common pain reliever—marketed as Tylenol in the U.S.—contributes to autism spectrum disorders. Why the Tylenol-Autism Narrative Failed Scientific Scrutiny The conflict centers on a press conference held in September where President Trump and Robert F. Kennedy Jr. stated that acetaminophen causes autism in children. Trump, RFK Jr. link autism to acetaminophen use in pregnancy; medical experts push back However, the latest research functions as a “patch” to this narrative, reinforcing the original safety data.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Health",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Health->prescription drug",
+        "Health->medical specialisation",
+        "Health->private health care",
+        "Health->medical staff",
+        "Health->non-prescription drug",
+        "Health->communicable disease",
+        "Health->cancer",
+        "Health->medical test",
+        "Health->health treatment and procedure",
+        "Health->public health",
+        "Health->health organisation",
+        "Health->disease and condition",
+        "Health->health insurance",
+        "Science and Technology->biomedical science",
+        "Science and Technology->medical research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://clinicaltrials.gov/api/v2/studies?condition=autism&term={drug_name}",
+        "https://www.youtube.com/embed/605buc8OduQ",
+        "https://youtube.com/embed/605buc8OduQ",
+        "https://www.clinicaltrials.gov/api/v2/studies?condition=autism&term={drug_name}",
+        "https://clinicaltrials.gov/api/v2/studies"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Robert F. Kennedy Jr",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "U. S.",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:36:43.211+03:00",
+    "updated": "2026-07-02T07:39:57.000+03:00"
+}

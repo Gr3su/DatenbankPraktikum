@@ -1,0 +1,150 @@
+{
+    "thread": {
+        "uuid": "8458d4e1284168400b0248ea17d9febadb389979",
+        "url": "https://www.newsbreak.com/news/4499822286569-the-delaware-tourism-office-will-try-to-capitalize-as-one-world-cup-team-will-stay-in-wilmington",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/wilmington-de",
+        "site_categories": [
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "sport",
+            "politics",
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest"
+        ],
+        "section_title": "Wilmington, DE Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "The Delaware Tourism Office will try to capitalize as one World Cup team will stay in Wilmington - NewsBreak",
+        "title_full": "The Delaware Tourism Office will try to capitalize as one World Cup team will stay in Wilmington - NewsBreak",
+        "published": "2026-02-19T01:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1xZlK2_18z7IviT00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8458d4e1284168400b0248ea17d9febadb389979",
+    "url": "https://www.newsbreak.com/news/4499822286569-the-delaware-tourism-office-will-try-to-capitalize-as-one-world-cup-team-will-stay-in-wilmington",
+    "ord_in_thread": 0,
+    "author": "Delaware Public Media",
+    "published": "2026-02-19T01:38:00.000+02:00",
+    "title": "The Delaware Tourism Office will try to capitalize as one World Cup team will stay in Wilmington - NewsBreak",
+    "text": "By Delaware Public Media ,\n5 hours ago The Delaware Tourism Office looks to put its best foot forward with the Ivory Coast‚Äôs national soccer team staying in Wilmington during this summer‚Äôs FIFA World Cup. With Ivory Coast‚Äôs players and delegation staying in Wilmington, the belief is any of their fans making the trip this summer for the team‚Äôs two games in Philadelphia might follow them to the First State. Read full article\nRead in NewsBreak 2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->travel and tourism",
+        "Economy, Business and Finance->tourism and leisure industry"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Wilmington",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ivory Coast",
+                "sentiment": "none"
+            },
+            {
+                "name": "Philadelphia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Delaware Tourism Office",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Delaware Public Media",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "First State",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Wilmington"
+            ],
+            "state": [
+                "Delaware"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:38:55.272+02:00",
+    "updated": "2026-02-19T07:44:06.000+02:00"
+}

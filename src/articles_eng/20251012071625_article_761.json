@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "dfdae9dda023b96587d96bcb4db3ffa535cb729d",
+        "url": "https://time.news/nvidia-ai-demand-china-vs-us-tech-race/",
+        "site_full": "time.news",
+        "site": "time.news",
+        "site_section": "https://time.news/feed/",
+        "site_categories": [],
+        "section_title": "TIme News",
+        "site_title": "TIme News - time.news",
+        "title": "Nvidia AI Demand & China vs US Tech Race",
+        "title_full": "Nvidia AI Demand & China vs US Tech Race",
+        "published": "2025-10-09T07:14:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://time.news/wp-content/uploads/2025/06/time.png",
+        "performance_score": 0,
+        "domain_rank": 416973,
+        "domain_rank_updated": "2025-10-06T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "dfdae9dda023b96587d96bcb4db3ffa535cb729d",
+    "url": "https://time.news/nvidia-ai-demand-china-vs-us-tech-race/",
+    "ord_in_thread": 0,
+    "author": "Priyanka Patel",
+    "published": "2025-10-09T07:14:00.000+03:00",
+    "title": "Nvidia AI Demand & China vs US Tech Race",
+    "text": "AI’s Insatiable Appetite for Power Threatens global Energy Capacity\nThe explosive growth of artificial intelligence is driving unprecedented demand for computing power, straining global energy resources and sparking a technological and geopolitical race between the United States and China.\nThe rapid evolution from basic chatbots to sophisticated reasoning machines has sent global demand for computing into overdrive. Data centers are expanding at an amazing pace, and semiconductor manufacturers are struggling to keep pace with the escalating needs of the AI industry.\n“In just the last six months, demand for computing has gone up substantially,” a leading industry executive told CNBC, adding that it’s the question investors are most focused on.Shares of Nvidia, a key player in the AI chip market, rose 2% on Wednesday as the company continues to underpin the world’s AI expansion.\nChina’s Power Play\nChina is aggressively pursuing dominance in the AI sector, and a critical component of that strategy is energy production. Beijing generated 10,000 terawatt hours of electricity in 2024, giving it a potential advantage that could reshape the global balance of power in the AI era.\nThe current moment represents “the beginning of a new buildout, a new industrial revolution,” driven by the convergence of clever machines and the immense energy required to operate them, according to the industry executive.\nThe Dual Exponential Growth of AI\nThe demand isn’t solely driven by the computational requirements of AI models; it’s also fueled by their increasing accuracy and utility. “The AIs are smart enough that everybody wants to use it,” the executive noted. “We now have two exponentials happening simultaneously occurring.”\ndemand for Nvidia’s most advanced graphics processing unit, Blackwell, is exceptionally high. “I think we’re at the beginning of a new buildout, beginning of a new industrial revolution,” the executive stated. Last month, Nvidia announced a $100 billion investment in OpenAI‘s data center expansion, securing OpenAI as a major customer and leveraging the company’s cutting-edge chips to build 10 gigawatts of new data center capacity.\nUS-China Competition heats Up\nDespite advancements from US companies like Nvidia, the executive cautioned that the United States is “not far ahead” of China in the AI race. Maintaining a competitive edge will require a “nuanced strategy,” especially in rapidly expanding the power infrastructure needed to support AI growth.\nWhile US innovation in chip design, exemplified by Nvidia’s Blackwell processor, provides a current advantage, Chinese tech giant Huawei is challenging this lead with plans to launch new computing systems for its Ascend chips as early as next year.\nDiversifying Energy Sources for AI\nTo meet the surging demand and mitigate rising electricity costs for consumers,the AI industry must develop new power generation sources independent of the existing electric grid. The executive suggested that data centers should eventually be powered by natural gas and, potentially, nuclear energy.\nNvidia recently reported record fourth-quarter revenue of $22.1 billion, a 126% increase year-over-year, driven by strong demand for its AI chips. The company’s success underscores the immense economic potential of AI, but also highlights the urgent need to address its energy demands. the race to power the future of",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.belmontforum.org/wp-content/uploads/2019/10/Data_Accessibility_Statement.pdf",
+        "https://belmontforum.org/wp-content/uploads/2019/10/Data_Accessibility_Statement.pdf"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Nvidia",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "NVDA",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "CNBC",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-09T07:35:59.489+03:00",
+    "updated": "2025-10-09T07:35:59.489+03:00"
+}

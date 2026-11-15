@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "fa895d93def8fcde29051123f94c129a2ef3af31",
+        "url": "https://guardian.ng/news/nigeria/metro/police-confirm-lynching-of-suspected-thief-in-cross-river",
+        "site_full": "guardian.ng",
+        "site": "guardian.ng",
+        "site_section": "https://guardian.ng/",
+        "site_categories": [
+            "politics",
+            "media",
+            "economy, business and finance",
+            "crime, law and justice"
+        ],
+        "section_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+        "site_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+        "title": "Police confirm lynching of suspected thief in Cross River",
+        "title_full": "Police confirm lynching of suspected thief in Cross River",
+        "published": "2026-02-12T03:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 15558,
+        "domain_rank_updated": "2026-02-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fa895d93def8fcde29051123f94c129a2ef3af31",
+    "url": "https://guardian.ng/news/nigeria/metro/police-confirm-lynching-of-suspected-thief-in-cross-river",
+    "ord_in_thread": 0,
+    "author": "Tina Agosi Todo",
+    "published": "2026-02-12T03:28:00.000+02:00",
+    "title": "Police confirm lynching of suspected thief in Cross River",
+    "text": "The Cross River State Police Command has confirmed the lynching of a suspected thief in Calabar South Local Council.\nPolice sources said the incident occurred on February 10, 2026, at about 7:00 a.m., when a surveillance patrol team from Atakpa Division received information from an informant about the body of an unidentified young man, believed to be about 22 years old, found burnt beyond recognition along Mayne Avenue by Nyong Edem Street in Calabar South Local Council, near the boundary between Atakpa and Efut divisions.\nPreliminary information indicated that the deceased allegedly attempted to vandalise an electricity transformer with two other suspects at an undisclosed location.\nHe was reportedly apprehended by a mob, lynched and set ablaze before his body was transported to the scene, where it was later discovered.\nPolice said there were no signs of struggle, weapons or burnt materials at the location where the corpse was found.\nPhotographs of the scene were taken, the remains evacuated, and an investigation has commenced.\nThe command added that efforts are ongoing to identify the victim and arrest those responsible for the mob action.",
+    "summary": "The Cross River State Police Command has confirmed the lynching of a suspected thief in Calabar South Local Council. Police sources said the incident occurred on February 10, 2026, at about 7:00 a.m., when a surveillance patrol team from Atakpa Division received information from an informant about the body of an unidentified young man, believed to be about 22 years old, found burnt beyond recognition along Mayne Avenue by Nyong Edem Street in Calabar South Local Council, near the boundary between Atakpa and Efut divisions.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->robbery and theft",
+        "Crime, Law and Justice->police"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Cross River",
+                "sentiment": "none"
+            },
+            {
+                "name": "Calabar Sout",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nyong Edem Street",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mayne Avenue",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Cross River State Police Command",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Efut",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Calabar South Local Council",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Atakpa Division",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "fa895d93def8fcde29051123f94c129a2ef3af31",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-12T07:22:23.374+02:00",
+    "updated": "2026-02-12T07:25:22.000+02:00"
+}

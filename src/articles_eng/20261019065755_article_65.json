@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "4f230aa2f724369f7d4fcf0445ff6b332daa3c04",
+        "url": "https://www.newsbreak.com/news/4948429433481-report-shooter-deceased-after-shots-fired-in-elementary-school",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/trending/top/shooter",
+        "site_categories": [
+            "economy, business and finance",
+            "sport",
+            "crime, law and justice",
+            "under_construction",
+            "politics",
+            "lifestyle and leisure",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "The latest shooter news, videos &amp; comments | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Report: Shooter Deceased After Shots Fired in Elementary School - NewsBreak",
+        "title_full": "Report: Shooter Deceased After Shots Fired in Elementary School - NewsBreak",
+        "published": "2026-10-16T00:53:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4BCa4X_1G98xDW900",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T06:59:37.293+03:00"
+        }
+    },
+    "uuid": "4f230aa2f724369f7d4fcf0445ff6b332daa3c04",
+    "url": "https://www.newsbreak.com/news/4948429433481-report-shooter-deceased-after-shots-fired-in-elementary-school",
+    "ord_in_thread": 0,
+    "author": "AWR Hawkins",
+    "published": "2026-10-16T00:53:00.000+03:00",
+    "title": "Report: Shooter Deceased After Shots Fired in Elementary School - NewsBreak",
+    "text": "By AWR Hawkins ,\n6 hours ago Myriad outlets are pointing to an active shooting situation that occurred at Bend, Oregon’s, Silver Rail Elementary School Thursday and FOX News reported live that the alleged shooter is deceased. Update: KPTV reported that police said the Silver Rail Elementary School shooter was “shot and killed inside the school”... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->shootings",
+        "Crime, Law and Justice->hijacking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.breitbart.com/2nd-amendment/2026/10/15/report-shooter-deceased-after-shots-fired-elementary-school/amp/",
+        "https://breitbart.com/2nd-amendment/2026/10/15/report-shooter-deceased-after-shots-fired-elementary-school/amp/",
+        "https://www.breitbart.com/2nd-amendment/2026/10/15/report-shooter-deceased-after-shots-fired-elementary-school/amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "##WR Hawkins",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Bend",
+                "sentiment": "none"
+            },
+            {
+                "name": "Oregon",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Silver Rail Elementary School",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "FOX News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "FOX",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "KPTV",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T06:59:37.293+03:00",
+    "updated": "2026-10-16T07:01:45.000+03:00",
+    "related_articles": null
+}

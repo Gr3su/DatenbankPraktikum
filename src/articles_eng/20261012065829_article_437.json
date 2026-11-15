@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "d888ba21139a27220c71b94413002466947a0a75",
+        "url": "https://www.newsbreak.com/fox-weather-1600354/4934261012614-scientists-can-no-longer-predict-when-kilauea-will-erupt-due-to-recent-volcanic-activity",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/fox-weather-1600354",
+        "site_categories": [
+            "lifestyle and leisure",
+            "science and technology",
+            "under_construction",
+            "sport",
+            "crime, law and justice",
+            "politics",
+            "economy, business and finance",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Fox Weather&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Scientists can no longer predict when Kilauea will erupt due to recent volcanic activity - NewsBreak",
+        "title_full": "Scientists can no longer predict when Kilauea will erupt due to recent volcanic activity - NewsBreak",
+        "published": "2026-10-09T04:33:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3UwHaO_1FvsXBZq00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:13:08.484+03:00"
+        }
+    },
+    "uuid": "d888ba21139a27220c71b94413002466947a0a75",
+    "url": "https://www.newsbreak.com/fox-weather-1600354/4934261012614-scientists-can-no-longer-predict-when-kilauea-will-erupt-due-to-recent-volcanic-activity",
+    "ord_in_thread": 0,
+    "author": "Hayley Vawter",
+    "published": "2026-10-09T04:33:00.000+03:00",
+    "title": "Scientists can no longer predict when Kilauea will erupt due to recent volcanic activity - NewsBreak",
+    "text": "By Hayley Vawter ,\n2 hours ago Recent activity beneath Kilauea's surface has made eruption prediction forecasting no longer possible. Scientists with the USGS said while lava flows that erupted from the north and south vents in Halemaʻumaʻu at the summit of Kīlauea on the night of Sept. 30, magma was also making a new path below the surface of the caldera. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->meteorology"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.foxweather.com/earth-space/scientists-cant-predict-kilauea-volcano-eruption-recent-activity",
+        "https://foxweather.com/earth-space/scientists-cant-predict-kilauea-volcano-eruption-recent-activity"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hayley Vawter",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kīlauea",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kilauea",
+                "sentiment": "none"
+            },
+            {
+                "name": "Halemaʻumaʻu",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "USGS",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:13:08.484+03:00",
+    "updated": "2026-10-09T07:14:48.000+03:00",
+    "related_articles": null
+}

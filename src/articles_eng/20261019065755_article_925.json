@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "2c668c47cecd070b2f6c408773c858b66de8b4e4",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261014072018.htm",
+        "site_full": "www.sciencedaily.com",
+        "site": "sciencedaily.com",
+        "site_section": "https://news.google.com/search?q=that%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+        "site_categories": [
+            "education",
+            "science",
+            "cold_and_flu",
+            "media",
+            "science and technology",
+            "space_astronomy",
+            "health"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "ScienceDaily: Your source for the latest research news",
+        "title": "A quantum highway just one atom high could transform superconductors | ScienceDaily",
+        "title_full": "A quantum highway just one atom high could transform superconductors | ScienceDaily",
+        "published": "2026-10-16T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.sciencedaily.com/images/1920/quantum-vortices-in-superconductors.webp",
+        "performance_score": 0,
+        "domain_rank": 1973,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T04:33:40.000+00:00"
+        }
+    },
+    "uuid": "2c668c47cecd070b2f6c408773c858b66de8b4e4",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261014072018.htm",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-10-16T03:00:00.000+03:00",
+    "title": "A quantum highway just one atom high could transform superconductors | ScienceDaily",
+    "text": "This post was originally published on here\nScientists in Japan have discovered that tiny steps just one atom high can act like microscopic railroad tracks, guiding the movement of quantum vortices inside an ultrathin superconductor. Under certain conditions, these vortices moved more than 1,000 times more easily along the steps than across them. Researchers also found that they could adjust this remarkable effect simply by changing the temperature or magnetic field.\nThe discovery was made by researchers at the Research Center for Materials Nanoarchitectonics (MANA), part of Japan’s National Institute for Materials Science (NIMS). Their findings offer a promising new approach to controlling quantum behavior and could eventually help engineers develop superconducting electronics that use far less energy while processing information more efficiently.\nWhy Controlling Quantum Vortices Matters\nSuperconductors are unusual materials that can carry electricity without electrical resistance when cooled below a critical temperature. This property makes them attractive for developing extremely energy-efficient electronics and other advanced technologies.\nHowever, superconductors also contain tiny quantum structures known as vortices. These form where magnetic fields penetrate the material, creating small regions surrounded by circulating electrical currents. When the vortices move, they can generate electrical resistance and affect the performance of the superconductor.\nBeing able to control where these vortices travel could therefore help scientists improve superconducting devices. Until now, directing their movement in extremely thin, two-dimensional superconductors has been particularly difficult.\nTo investigate this challenge, a team led by Takashi Uchihashi at MANA studied an ultrathin superconductor whose surface contained a series of regularly spaced atomic steps. Using scanning tunneling microscopy, a technique capable of imaging surfaces at the atomic level, the researchers confirmed that the steps ran parallel to one another and directly observed vortices positioned along them.\nThe findings were published in the journal Physical Review B .\nAtomic Steps Act Like Rails for Quantum Motion\nThe experiments revealed an extraordinary difference in how easily the vortices could move depending on their direction.\nUsing four-terminal resistance measurements, which allow researchers to precisely measure electrical resistance, the team found that vortices traveled more than 1,000 times more easily along the atomic steps than across them when exposed to intermediate magnetic fields.\nIn effect, the steps acted like tiny rails, creating preferred pathways for quantum vortices to follow.\n“Our study shows that atomic-scale steps can act as effective rails that guide superconducting vortices, and that this guiding effect can be tuned simply by changing the temperature or magnetic field,” said Uchihashi.\nThe researchers also identified a particularly interesting behavior when the magnetic field ranged from approximately 0.10 to 0.20 T (tesla, a unit used to measure magnetic field strength). Within this range, vortices could flow freely along the steps without becoming trapped by imperfections in the material.\nThis behavior, known as one-dimensional pinning-free vortex flow, means the vortices can travel along a defined path without encountering the usual obstacles that restrict their movement.\nAt the lowest temperatures, the researchers observed another unusual effect. Vortex motion was governed by quantum tunneling, a phenomenon in which quantum objects can pass through energy barriers that would normally prevent their movement under classical physics.\nA New Path Toward More Efficient Superconductors\nThe findings demonstrate that even a surface feature only one atom high can have a powerful influence on the movement of quantum vortices.\nBy using these atomic steps as natural guiding tracks, scientists may be able to control vortex motion with remarkable precision. The ability to adjust that motion through temperature and magnetic fields also provides an additional way to influence how superconductors behave.\nAlthough practical applications will require further development, this atomic-scale approach could eventually help researchers manage both vortex movement and heat flow in future superconducting technologies, potentially enabling more efficient devices that consume less power.",
+    "summary": "Scientists in Japan have discovered that tiny steps just one atom high can act like microscopic railroad tracks, guiding the movement of quantum vortices inside an ultrathin superconductor. Their findings offer a promising new approach to controlling quantum behavior and could eventually help engineers develop superconducting electronics that use far less energy while processing information more efficiently. To investigate this challenge, a team led by Takashi Uchihashi at MANA studied an ultrathin superconductor whose surface contained a series of regularly spaced atomic steps.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->physics",
+        "Science and Technology->materials science",
+        "Science and Technology->scientific research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "http://dx.doi.org/10.1103/b2j3-xj19",
+        "https://www.nims.go.jp/mana/research/researchactivities/highlights/vol96.html",
+        "https://nims.go.jp/mana/research/researchactivities/highlights/vol96.html",
+        "http://www.dx.doi.org/10.1103/b2j3-xj19"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Japan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Research Center for Materials Nanoarchitectonics",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "MANA",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "ScienceDaily",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_iq",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:30:49.792+03:00",
+    "updated": "2026-10-16T13:16:00.789+03:00",
+    "related_articles": null
+}

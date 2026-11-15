@@ -1,0 +1,150 @@
+{
+    "thread": {
+        "uuid": "3e8dae138eae6446fe0da01cfc3429b83c2f6141",
+        "url": "https://english.cctv.com/2026/07/22/VIDErDGJ6PAEwMzeg0iPgg56260722.shtml",
+        "site_full": "english.cctv.com",
+        "site": "cctv.com",
+        "site_section": "https://global.cctv.cn/",
+        "site_categories": [
+            "environment",
+            "science and technology",
+            "travel",
+            "media",
+            "economy, business and finance",
+            "politics",
+            "japan"
+        ],
+        "section_title": "海外频道_央视网(cctv.com)",
+        "site_title": "CCTV.com English - News, Video, Panview, This is China",
+        "title": "Chaka Salt Lake After the Rain: A Real-Life Sky Mirror_英语频道_央视网(cctv.com)",
+        "title_full": "Chaka Salt Lake After the Rain: A Real-Life Sky Mirror_英语频道_央视网(cctv.com)",
+        "published": "2026-07-22T17:07:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2277,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3e8dae138eae6446fe0da01cfc3429b83c2f6141",
+    "url": "https://english.cctv.com/2026/07/22/VIDErDGJ6PAEwMzeg0iPgg56260722.shtml",
+    "ord_in_thread": 0,
+    "author": "ar guid = \"c",
+    "published": "2026-07-22T17:07:00.000+03:00",
+    "title": "Chaka Salt Lake After the Rain: A Real-Life Sky Mirror_英语频道_央视网(cctv.com)",
+    "text": "Source:CCTV.com 22-07-26 02:07 Updated BJT Font size: A+ A- After the rain, Chaka Salt Lake turns into a mirror of the sky, reflecting crystal-clear mountains and drifting clouds. Walking across the salt crystals feels like wandering among the clouds, revealing the pure beauty of the Qinghai Plateau. Filmed by Wang Shengrong and Liu Chengye.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+        "Arts, Culture and Entertainment->culture",
+        "Arts, Culture and Entertainment->arts and entertainment"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "http://tv.cntv.cn/video/C18472/a28126e5e0424a44af6a9bc4c5a47742*/",
+        "https://www.facebook.com/plugins/video.php?height=${hvideo}&href=https%3A%2F%2Fwww.facebook.com%2facebook%2Fvideos%2F${facebookId||",
+        "http://english.cntv.cn/2026/07/22/VIDErDGJ6PAEwMzeg0iPgg56260722.shtml",
+        "https://www.facebook.com/plugins/video.php?height=${hvideo}&href=https%3A%2F%2Fwww.facebook.com%2facebook%2Fvideos%2F${",
+        "https://www.youtube.com/embed/${youtubeId||",
+        "https://www.facebook.com/plugins/video.php",
+        "http://tv.cntv.cn/video/C18472/a28126e5e0424a44af6a9bc4c5a47742*",
+        "https://youtube.com/embed/${youtubeId||",
+        "https://facebook.com/plugins/video.php?height=${hvideo}&href=https%3A%2F%2Fwww.facebook.com%2facebook%2Fvideos%2F${facebookId||",
+        "https://facebook.com/plugins/video.php?height=${hvideo}&href=https%3A%2F%2Fwww.facebook.com%2facebook%2Fvideos%2F${",
+        "http://www.tv.cntv.cn/video/C18472/a28126e5e0424a44af6a9bc4c5a47742*/",
+        "http://www.english.cntv.cn/2026/07/22/VIDErDGJ6PAEwMzeg0iPgg56260722.shtml"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Liu Chengye",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wang Shengrong",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Chaka Salt Lake",
+                "sentiment": "none"
+            },
+            {
+                "name": "Qinghai Plateau",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "央 视 网",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "CCTV. com",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-23T07:45:48.923+03:00",
+    "updated": "2026-07-23T11:26:12.000+03:00"
+}

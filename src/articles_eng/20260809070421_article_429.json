@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "d712d393664041757e99bb3aeb3b74eca60a7075",
+        "url": "https://www.newsbreak.com/news/4811646306852-sparks-police-conducting-distracted-driving-enforcement",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/fernley-nv",
+        "site_categories": [
+            "economy, business and finance",
+            "health",
+            "politics",
+            "under_construction",
+            "human interest",
+            "sport",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "social issue",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Fernley, NV Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Sparks police conducting distracted driving enforcement - NewsBreak",
+        "title_full": "Sparks police conducting distracted driving enforcement - NewsBreak",
+        "published": "2026-08-06T00:27:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0tnPwk_1DyJwYd000",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d712d393664041757e99bb3aeb3b74eca60a7075",
+    "url": "https://www.newsbreak.com/news/4811646306852-sparks-police-conducting-distracted-driving-enforcement",
+    "ord_in_thread": 0,
+    "author": "Kevin Sheridan",
+    "published": "2026-08-06T00:27:00.000+03:00",
+    "title": "Sparks police conducting distracted driving enforcement - NewsBreak",
+    "text": "By Kevin Sheridan ,\n6 hours ago SPARKS, Nev. (KOLO) - The Sparks Police Department will be conducting a distracted driving enforcement operation. The Joining Forces Distracted Driving campaign will take place from this Friday Aug. 31. The campaign aims to increase law enforcement participation by coordinating highly visible patrols around Sparks and the state of Nevada. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->reckless driving"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kolotv.com/2026/08/05/sparks-police-conducting-distracted-driving-enforcement/",
+        "https://www.kolotv.com/2026/08/05/sparks-police-conducting-distracted-driving-enforcement",
+        "https://kolotv.com/2026/08/05/sparks-police-conducting-distracted-driving-enforcement/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kevin Sheridan",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Sparks",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nevada",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Sparks Police Department",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Fernley"
+            ],
+            "state": [
+                "Nevada"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:21:42.747+03:00",
+    "updated": "2026-08-06T07:23:36.000+03:00"
+}

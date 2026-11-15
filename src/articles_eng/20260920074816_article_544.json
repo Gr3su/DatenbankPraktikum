@@ -1,0 +1,112 @@
+{
+    "thread": {
+        "uuid": "7ccb89b5aa88db16c4ecd005facb8e27cef4bd19",
+        "url": "http://business.newportvermontdailyexpress.com/newportvermontdailyexpress/article/globeprwire-2026-9-17-frontend-hiring-gets-harder-when-compliance-enters-the-picture",
+        "site_full": "business.newportvermontdailyexpress.com",
+        "site": "newportvermontdailyexpress.com",
+        "site_section": "http://business.newportvermontdailyexpress.com/newportvermontdailyexpress/markets/news",
+        "site_categories": [
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "financial_news",
+            "economy, business and finance",
+            "science and technology",
+            "finance",
+            "health"
+        ],
+        "section_title": "Stock Market News | NSDQ, NYSE, and AMEX Stock Market News, Market News Categories, Market Indicators",
+        "site_title": "newportvermontdailyexpress.com | Newport Daily Express",
+        "title": "Frontend Hiring Gets Harder When Compliance Enters the Picture",
+        "title_full": "Frontend Hiring Gets Harder When Compliance Enters the Picture",
+        "published": "2026-09-17T07:32:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 304870,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7ccb89b5aa88db16c4ecd005facb8e27cef4bd19",
+    "url": "http://business.newportvermontdailyexpress.com/newportvermontdailyexpress/article/globeprwire-2026-9-17-frontend-hiring-gets-harder-when-compliance-enters-the-picture",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-09-17T07:32:00.000+03:00",
+    "title": "Frontend Hiring Gets Harder When Compliance Enters the Picture",
+    "text": "Hiring a frontend developer used to be relatively easy to frame. Does the candidate know JavaScript or TypeScript? Can they work with React? Can they build responsive interfaces, manage state, integrate APIs, and write tests?\nThose questions still matter, but they do not tell you how someone will work on a patient portal, banking dashboard, insurance platform, or payment flow. Once sensitive data and regulatory requirements enter the product, frontend decisions carry more weight. Companies looking to hire vetted frontend talent need to evaluate more than framework knowledge.\nA developer may be perfectly capable of building a React form and still make poor decisions about where its data is stored, what gets sent to analytics, how authorization failures are handled, or whether the form can be completed without a mouse. In regulated industries, these are engineering concerns, not details to clean up before release.\nThe Browser Is No Longer Just the Presentation Layer Modern frontend applications do a lot of work.\nThey maintain application state, communicate with APIs, handle authentication flows, render data based on user permissions, execute third-party scripts, validate input, and sometimes cache information locally. React development has also grown more complex as applications have moved more business logic into the browser.\nTraditional interviews can miss skills that matter in day-to-day frontend work. Algorithm exercises may test problem-solving ability, but they reveal less about how a developer structures a UI, handles application state, or troubleshoots problems in the browser.\nFor regulated products, the interview also needs to test whether a developer understands the limits of frontend controls. Hiding an action in the UI, for example, does not replace server-side authorization, and routine choices around browser storage or third-party scripts can introduce security or privacy risks.\nA common example is role-based access. React can hide an “Edit” button when a user lacks permission, but the API still has to enforce that restriction. Otherwise, the request could be sent directly without going through the interface.\nExperienced frontend engineers should recognize that distinction without treating the browser as a security boundary.\nA Patient Portal Changes the Meaning of a Routine Frontend Decision Healthcare provides a useful example because many of the screens involved look ordinary: login pages, forms, appointment details, search fields, dashboards.\nThe data behind them is not ordinary.\nThe HIPAA Security Rule requires covered entities and business associates to protect electronic protected health information through administrative, physical, and technical safeguards. Its technical safeguards include areas such as access control, audit controls, integrity, authentication, and transmission security.\nHIPAA does not prescribe a React architecture, nor does hiring developers with healthcare experience automatically make a product HIPAA-compliant. Compliance depends on the wider system, organizational processes, vendors, infrastructure, and also how the applicable requirements are implemented.\nFrontend code still affects that system.\nImagine a developer adding analytics to understand where users abandon a patient-registration form. With tools such as Google Analytics, Mixpanel, or FullStory, the technical integration itself may be straightforward. The harder question is what information the application exposes to the tool through page content, URLs, event properties, form fields, or session-replay features.\nThat is the kind of question a generic React interview is unlikely to uncover.\nThe same applies to browser storage. localStorage is convenient because data persists between sessions and is easy for JavaScript to access. Those properties can also make it the wrong place for sensitive information. A developer needs to think about the data being stored, how long it remains there, who or what can access it, and whether it needs to be in the browser at all.\nThis does not require every frontend developer to become a privacy lawyer. It requires them to recognize when a routine technical choice has implications outside the component they are building.\nPayment Pages Make Third-Party JavaScript a Security Question Third-party scripts are normal on the modern web. Teams use them for analytics, support chat, experimentation, fraud detection, advertising, and performance monitoring.\nOn a payment page, that convenience comes with additional scrutiny.\nPCI DSS 4.x introduced requirements aimed specifically at protecting payment pages from script-based attacks. The PCI Security Standards Council’s guidance covers authorization of payment-page scripts, checking their integrity, and also detecting unauthorized changes to HTTP headers and payment-page content as received by the consumer browser.\nThe reason is practical. Magecart-style attacks and web skimming have shown that malicious JavaScript running in a customer’s browser can capture payment information without compromising the merchant’s backend database.\nA frontend engineer working on checkout therefore needs a different instinct from someone building a low-risk marketing page. Adding another package or third-party script cannot be evaluated only in terms of functionality and bundle size.\nThat difference should appear in the vetting process.\nInstead of asking a candidate to define PCI DSS, an interviewer could describe a checkout page and ask how they would approach a request to add a new customer-support widget. A useful answer would explore what the script can access, whether it is necessary on that page, how it is loaded, and which existing security or compliance controls need to be considered.\nMemorizing the acronym proves very little.\nAccessibility Is Hard to Judge From a Portfolio A polished portfolio can hide poor accessibility surprisingly well.\nA modal may look correct while trapping keyboard users. A custom dropdown can work perfectly with a mouse but expose no useful semantics to a screen reader. A form can highlight an invalid field in red without explaining the error programmatically.\nAutomated tools such as axe, Lighthouse, and Accessibility Insights can catch some problems. They cannot prove that a complex workflow is accessible.\nWCAG 2.2 became a W3C Recommendation in October 2023 and added nine success criteria to WCAG 2.1. Which version and conformance level matters legally depends on the organization and jurisdiction. In the US, for example, HHS’s Section 504 rule requires covered web content and mobile apps to meet WCAG 2.1 Level AA, subject to the rule’s scope, exceptions, and compliance dates.\nAccessibility experience is easier to judge from actual frontend work. A modal, for instance, shows whether a developer knows how to manage focus, while a form with asynchronous validation reveals how they handle errors for screen-reader and keyboard users. A custom dropdown or similar interactive component can expose gaps that would be easy to miss in a conventional technical interview.\nThese tasks are closer to the work than asking candidates whether they “know WCAG.”\nFive Years of React Does Not Mean Five Years of the Same Work Years of experience are a crude filter.\nTwo developers may each have five years of React development behind them. One spent that time building e-commerce storefronts and content-heavy consumer applications. The other worked on healthcare products where role-based access, audit requirements, sensitive records, and accessibility reviews were part of normal delivery.\nNeither background is inherently better. They prepare engineers for different problems.\nThis matters when a company needs more engineering capacity quickly. A strong senior frontend developer may still need time to learn the constraints of a regulated product, just as an engineer coming from healthcare may need time to understand the performance demands of a high-traffic consumer application.\nJob descriptions often flatten those differences into the same requirements: React, TypeScript, REST or GraphQL, Jest, five years of experience.\nThat makes the interview do more work.\nCompliance Knowledge Is Useful Only When It Changes Engineering Decisions There is little value in turning the interview into a regulatory exam.\nFrontend engineers are not compliance officers, and expecting them to interpret every provision of HIPAA, PCI DSS, GDPR, or accessibility law would select for the wrong skill set. Regulations also change, and their application depends on the organization, product, jurisdiction, and data involved.\nWhat matters is how the candidate reasons when those constraints affect code.\nFor an application with role-based access, ask what happens when the server returns 403 Forbidden even though the UI believed the action was available. For a healthcare form, ask how they would investigate a request to add session replay. For an application handling sensitive data, discuss what should and should not end up in client-side logs.\nGood candidates will not necessarily have immediate answers to every scenario. In fact, someone who knows when to involve a security engineer, compliance specialist, backend developer, or product owner may be showing better judgment than someone who confidently invents a rule.\nThat distinction is important. Regulated software is collaborative by nature.\nThe Right Experience Depends on Where the Frontend Sits There is no universal “compliance-ready frontend engineer.”\nA developer working on a hospital patient portal faces different constraints from someone maintaining an online store’s checkout. A public-sector application may put much greater emphasis on accessibility. An internal financial dashboard can have strict authorization requirements without ever processing cardholder data.\nArchitecture changes the picture again. A frontend that displays limited, already-filtered information has a different risk profile from a browser application that handles sensitive records across dozens of workflows.\nBefore designing the interview, the hiring team should look at what the developer will actually work with. A role that involves sensitive data, third-party browser scripts, or accessibility-critical workflows calls for different experience than one focused on lower-risk parts of the application. Existing security and compliance controls matter too, especially when deciding how much responsibility the new engineer will have.\nThe role itself should set the hiring criteria. A healthcare company, for example, may not need years of HIPAA-related experience from a developer who will have limited contact with protected health information. With established security practices and experienced people already on the project, a strong frontend engineer can learn the requirements relevant to their work.\nThe opposite is also true. If a new hire will immediately own high-risk workflows with little internal guidance, general React expertise may not be enough.\nFrontend hiring gets harder under compliance because the framework is no longer the most informative part of the candidate’s background. The real question is whether the engineer can see the boundaries around the code they write and make sound decisions when those boundaries matter.",
+    "summary": "They maintain application state, communicate with APIs, handle authentication flows, render data based on user permissions, execute third-party scripts, validate input, and sometimes cache information locally. Hiding an action in the UI, for example, does not replace server-side authorization, and routine choices around browser storage or third-party scripts can introduce security or privacy risks. A Patient Portal Changes the Meaning of a Routine Frontend Decision Healthcare provides a useful example because many of the screens involved look ordinary: login pages, forms, appointment details, search fields, dashboards.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->human resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://sysgears.com/tech/hire-react-developers/",
+        "https://tracking.newsrpm.com/pixel?slug=globeprwire-2026-9-17-frontend-hiring-gets-harder-when-compliance-enters-the-picture",
+        "https://www.sysgears.com/tech/hire-react-developers/",
+        "https://www.tracking.newsrpm.com/pixel?slug=globeprwire-2026-9-17-frontend-hiring-gets-harder-when-compliance-enters-the-picture",
+        "https://sysgears.com/tech/hire-react-developers",
+        "https://tracking.newsrpm.com/pixel"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Newport Center",
+                "Derby Center",
+                "Newport"
+            ],
+            "state": [
+                "Vermont"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:11:16.766+03:00",
+    "updated": "2026-09-17T08:14:02.000+03:00"
+}

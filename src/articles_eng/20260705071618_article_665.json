@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "2b4dc709ca1f859d0a08040a2339e7deffc4bbe3",
+        "url": "https://local.newsbreak.com/bbc-2085458/4745005703949-russia-launches-deadly-large-scale-missile-and-drone-strikes-on-kyiv",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/bbc-2085458",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "sport",
+            "politics",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "human interest"
+        ],
+        "section_title": "BBC&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Russia launches deadly large-scale missile and drone strikes on Kyiv - NewsBreak",
+        "title_full": "Russia launches deadly large-scale missile and drone strikes on Kyiv - NewsBreak",
+        "published": "2026-07-02T05:55:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2YLvmq_1CuAaFGL00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2b4dc709ca1f859d0a08040a2339e7deffc4bbe3",
+    "url": "https://local.newsbreak.com/bbc-2085458/4745005703949-russia-launches-deadly-large-scale-missile-and-drone-strikes-on-kyiv",
+    "ord_in_thread": 0,
+    "author": "Sarah Rainsford",
+    "published": "2026-07-02T05:55:00.000+03:00",
+    "title": "Russia launches deadly large-scale missile and drone strikes on Kyiv - NewsBreak",
+    "text": "By Sarah Rainsford Harry Sekulich ,\n1 hours ago Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->armed conflict",
+        "War, Conflict and Unrest->massacre"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.bbc.com/news/articles/c4gyv05gk4do?xtor=AL-72-%5Bpartner%5D-%5Bnewsbreak.com%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "https://bbc.com/news/articles/c4gyv05gk4do?xtor=AL-72-%5Bpartner%5D-%5Bnewsbreak.com%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "https://www.bbc.com/news/articles/c4gyv05gk4do"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Harry Sekulich",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Sarah Rainsford",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kyiv",
+                "sentiment": "none"
+            },
+            {
+                "name": "Russia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:39:32.514+03:00",
+    "updated": "2026-07-02T07:43:15.000+03:00"
+}

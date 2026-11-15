@@ -1,0 +1,116 @@
+{
+    "thread": {
+        "uuid": "1f3195e0ab0217736eec77e03925ed3b460197c8",
+        "url": "https://www.newsbreak.com/news/4412588623137-driver-arrested-on-dui-charge-in-williamstown",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/peacham-vt",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Peacham, VT Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Driver arrested on DUI charge in Williamstown - NewsBreak",
+        "title_full": "Driver arrested on DUI charge in Williamstown - NewsBreak",
+        "published": "2025-12-25T06:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3ewvt1_17aDhrX900",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1f3195e0ab0217736eec77e03925ed3b460197c8",
+    "url": "https://www.newsbreak.com/news/4412588623137-driver-arrested-on-dui-charge-in-williamstown",
+    "ord_in_thread": 0,
+    "author": "Daniel Duric",
+    "published": "2025-12-25T06:22:00.000+02:00",
+    "title": "Driver arrested on DUI charge in Williamstown - NewsBreak",
+    "text": "By Daniel Duric ,\n1 hours ago WILLIAMSTOWN, VT — Vermont State Police arrested a motorist on suspicion of driving under the influence following a single-vehicle crash on Vermont Route 64 on Tuesday afternoon. Larry Ellison, 74, of Williamstown, was driving west on Route 64 near Henry Road at 5:13 p.m. when his 2009 Toyota Corolla... Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->reckless driving",
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->arrest"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Daniel Duric",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Larry Ellison",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Henry Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Route 64",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Peacham"
+            ],
+            "state": [
+                "Vermont"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-25T07:48:02.907+02:00",
+    "updated": "2025-12-25T07:50:27.000+02:00"
+}

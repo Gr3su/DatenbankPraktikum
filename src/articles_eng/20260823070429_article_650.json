@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "bc3fbec3f5507d3edc6cc4fed853f84f86c5d63e",
+        "url": "https://www.newsbreak.com/news/4838297960071-rare-bacterial-infection-in-edgartown-prompts-warnings",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/falmouth-ma",
+        "site_categories": [
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "science and technology",
+            "social issue",
+            "human interest",
+            "crime, law and justice",
+            "politics",
+            "under_construction",
+            "sport",
+            "economy, business and finance"
+        ],
+        "section_title": "Falmouth, MA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Rare bacterial infection in Edgartown prompts warnings - NewsBreak",
+        "title_full": "Rare bacterial infection in Edgartown prompts warnings - NewsBreak",
+        "published": "2026-08-19T22:24:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3BG8y9_1EOAn7pb00",
+        "performance_score": 0,
+        "domain_rank": 3070,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bc3fbec3f5507d3edc6cc4fed853f84f86c5d63e",
+    "url": "https://www.newsbreak.com/news/4838297960071-rare-bacterial-infection-in-edgartown-prompts-warnings",
+    "ord_in_thread": 0,
+    "author": "Sarah Shaw Dawson",
+    "published": "2026-08-19T22:24:00.000+03:00",
+    "title": "Rare bacterial infection in Edgartown prompts warnings - NewsBreak",
+    "text": "By Sarah Shaw Dawson ,\n9 hours ago The Edgartown Board of Health is urging residents to exercise caution when swimming after a Vineyard resident over the age of 65 contracted a bacterial infection called Vibrio vulnificus, a type of flesh-eating bacteria, after swimming in multiple bodies of water in the town with an open cut on their foot. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Health",
+        "Environment"
+    ],
+    "topics": [
+        "Health->medical condition",
+        "Health->communicable disease",
+        "Health->healthcare clinic",
+        "Environment->water pollution"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.mvtimes.com/2026/08/19/rare-bacterial-infection-in-edgartown-prompts-warnings/",
+        "https://mvtimes.com/2026/08/19/rare-bacterial-infection-in-edgartown-prompts-warnings/",
+        "https://www.mvtimes.com/2026/08/19/rare-bacterial-infection-in-edgartown-prompts-warnings"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sarah Shaw Dawson",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Edgartown",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Edgartown Board of Health",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "East Falmouth",
+                "North Falmouth"
+            ],
+            "state": [
+                "Massachusetts"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:35:08.759+03:00",
+    "updated": "2026-08-20T07:42:28.000+03:00"
+}

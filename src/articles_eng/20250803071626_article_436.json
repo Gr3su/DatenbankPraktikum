@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "5a6474b0cc589ddfd0789bcef683648042ca5da5",
+        "url": "https://www.hindustantimes.com/cities/chandigarh-news/13yrold-electrocuted-to-death-while-trying-to-retrieve-kite-101753902612213.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://hindustantimes.com/cities",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "City News: City Latest News, Metro City News Today and Headlines | Hindustan Times",
+        "site_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+        "title": "13-yr-old electrocuted to death while trying to retrieve kite - Hindustan Times",
+        "title_full": "13-yr-old electrocuted to death while trying to retrieve kite - Hindustan Times",
+        "published": "2025-07-31T06:24:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2025/07/30/1600x900/The-incident-took-place-in-Dharamkot-village-on-Tu_1753902609083.jpg",
+        "performance_score": 0,
+        "domain_rank": 862,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5a6474b0cc589ddfd0789bcef683648042ca5da5",
+    "url": "https://www.hindustantimes.com/cities/chandigarh-news/13yrold-electrocuted-to-death-while-trying-to-retrieve-kite-101753902612213.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2025-07-31T06:24:00.000+03:00",
+    "title": "13-yr-old electrocuted to death while trying to retrieve kite - Hindustan Times",
+    "text": "A 13-year-old boy died due to electrocution while trying to retrieve a kite that got stuck in high-tension electric wires in Yamunanagar police said on Wednesday.The incident took place in Dharamkot village on Tuesday, they said, adding that two other boys had a narrow escape.Police said the victim died due to severe burns caused by an electric shock.He was immediately taken to a hospital where doctors declared him dead.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->accident and emergency incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Dharamkot",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hindustan Times",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:28:27.714+03:00",
+    "updated": "2025-08-01T08:04:40.000+03:00"
+}

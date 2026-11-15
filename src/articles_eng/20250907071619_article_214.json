@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "4f9aca02a67bd9e9aaa6bcc94af698c9db7ca155",
+        "url": "https://www.swoknews.com/ap/national/fact-focus-desantis-misleading-claims-about-why-florida-missed-out-on-a-congressional-seat/article_f2391e43-fc52-56df-a4ee-00a12d9fbc74.html",
+        "site_full": "www.swoknews.com",
+        "site": "swoknews.com",
+        "site_section": "https://www.swoknews.com/search/?f=rss&amp",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "www.swoknews.com - RSS Results",
+        "site_title": "swoknews.com | Your Source For Information In Southwest Oklahoma",
+        "title": "DeSantis Calls for Census Re-evaluation in Florida",
+        "title_full": "DeSantis Calls for Census Re-evaluation in Florida",
+        "published": "2025-09-04T07:04:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 86704,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4f9aca02a67bd9e9aaa6bcc94af698c9db7ca155",
+    "url": "https://www.swoknews.com/ap/national/fact-focus-desantis-misleading-claims-about-why-florida-missed-out-on-a-congressional-seat/article_f2391e43-fc52-56df-a4ee-00a12d9fbc74.html",
+    "ord_in_thread": 0,
+    "author": "MIKE SCHNEIDER - Associated Press",
+    "published": "2025-09-04T07:04:00.000+03:00",
+    "title": "DeSantis Calls for Census Re-evaluation in Florida",
+    "text": "• Governor Ron DeSantis claims the 2020 census numbers for Florida need 'fixing'.\n• DeSantis argues that Florida deserves an additional congressional seat.\n• The governor attributes the issue to the U.S. Census Bureau, stating Florida was shortchanged.\n• Florida is the third-most populous state in the United States.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->government policy",
+        "Politics->voting",
+        "Social Issue->population and census",
+        "Social Issue->demographics",
+        "Social Issue->social condition",
+        "Economy, Business and Finance->economy",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": true,
+    "external_links": [
+        "https://apnews.com/article/census-congressional-districts-7dd29f02c7d68038920c7e1a23f842a1",
+        "https://apnews.com/hub/us-census-bureau",
+        "https://apnews.com/hub/ron-desantis",
+        "https://www.apnews.com/hub/ron-desantis",
+        "https://www.apnews.com/article/census-congressional-districts-7dd29f02c7d68038920c7e1a23f842a1",
+        "https://www.apnews.com/hub/us-census-bureau"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ron DeSantis",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "U.S. Census Bureau",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "4f9aca02a67bd9e9aaa6bcc94af698c9db7ca155",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Lawton"
+            ],
+            "state": [
+                "Oklahoma"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-04T07:20:43.925+03:00",
+    "updated": "2025-09-04T07:23:09.000+03:00"
+}

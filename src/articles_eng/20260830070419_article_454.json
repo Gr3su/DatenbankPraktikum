@@ -1,0 +1,158 @@
+{
+    "thread": {
+        "uuid": "32a542634de593a6ca40391eb8f0d6208b044991",
+        "url": "https://local.newsbreak.com/fox-news-510075/4851662192233-tcu-football-pulls-credentials-from-local-newspaper-for-reporting-on-locker-room-assault-story",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/fox-news-510075",
+        "site_categories": [
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "disaster and accident",
+            "crime, law and justice",
+            "social issue",
+            "politics",
+            "sport",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Fox News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "TCU football pulls credentials from local newspaper for reporting on locker room assault story - NewsBreak",
+        "title_full": "TCU football pulls credentials from local newspaper for reporting on locker room assault story - NewsBreak",
+        "published": "2026-08-27T06:08:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2dnbL7_1Ebe90Iq00",
+        "performance_score": 0,
+        "domain_rank": 3157,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "32a542634de593a6ca40391eb8f0d6208b044991",
+    "url": "https://local.newsbreak.com/fox-news-510075/4851662192233-tcu-football-pulls-credentials-from-local-newspaper-for-reporting-on-locker-room-assault-story",
+    "ord_in_thread": 0,
+    "author": "Ian Miller",
+    "published": "2026-08-27T06:08:00.000+03:00",
+    "title": "TCU football pulls credentials from local newspaper for reporting on locker room assault story - NewsBreak",
+    "text": "By Ian Miller ,\n1 hours ago TCU athletics rescinded the Fort Worth Star-Telegram's media credentials days before the Horned Frogs face Bill Belichick's North Carolina team in Dublin. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Sport",
+        "Education"
+    ],
+    "topics": [
+        "Sport->american football",
+        "Education->school"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.foxnews.com/outkick-sports/tcu-football-pulls-credentials-local-newspaper-reporting-locker-room-assault-story",
+        "https://foxnews.com/outkick-sports/tcu-football-pulls-credentials-local-newspaper-reporting-locker-room-assault-story"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ian Miller",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Bill Belichick",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Dublin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "TCU",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "TCU",
+                        "exchange": "SGX"
+                    }
+                ]
+            },
+            {
+                "name": "Fort Worth Star - Telegram",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Horned Frogs",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:20:30.509+03:00",
+    "updated": "2026-08-27T07:32:27.000+03:00"
+}

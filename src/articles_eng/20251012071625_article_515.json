@@ -1,0 +1,124 @@
+{
+    "thread": {
+        "uuid": "f30ce40e5c19abb8e4acb00d08e3ace54d009d75",
+        "url": "https://www.albawaba.com/news/hamas-israel-agree-ceasefire-deal-1614066",
+        "site_full": "www.albawaba.com",
+        "site": "albawaba.com",
+        "site_section": "https://albawaba.com/rss/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": " Al Bawaba - News ",
+        "site_title": "Al Bawaba | Middle East News &amp; Arab Headlines From A Local Perspective",
+        "title": "Hamas, Israel agree ceasefire deal, hostages to be released Monday",
+        "title_full": "Hamas, Israel agree ceasefire deal, hostages to be released Monday",
+        "published": "2025-10-09T06:47:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.albawaba.com/sites/default/files/styles/default/public/2025-10/AFP__20251006__77TX7WR__v1__MidRes__PalestinianIsraelConflictGazaDisplaced.jpg?itok=tMWx1Izu",
+        "performance_score": 0,
+        "domain_rank": 32207,
+        "domain_rank_updated": "2025-10-06T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f30ce40e5c19abb8e4acb00d08e3ace54d009d75",
+    "url": "https://www.albawaba.com/news/hamas-israel-agree-ceasefire-deal-1614066",
+    "ord_in_thread": 0,
+    "author": "sally",
+    "published": "2025-10-09T06:47:00.000+03:00",
+    "title": "Hamas, Israel agree ceasefire deal, hostages to be released Monday",
+    "text": "ALBAWABA - U.S. President Donald Trump said that both Hamas and Israel agreed on the first phase of the ceasefire agreement in Gaza.\nIn statements to Fox News, Trump indicated that the \"hostages\" held in Gaza would likely be released next Monday, as well as the bodies of the dead.\nTrump stressed that \"this means that all hostages will be released very soon,\" and that Israel will withdraw its forces to an agreed-upon line as the first steps toward a strong and lasting peace.\nDropSite quoted a source close to the mediators as saying that Trump offered assurances that Israel would not be allowed to resume the war after the prisoners were returned.\nTrump indicated in a post on Truth Social that all parties would be treated fairly, and called the announcement \"a great day for the Arab and Islamic world, Israel, and the United States. We thank the mediators from Qatar, Egypt, and Turkey.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "Politics->political crisis",
+        "Politics->international relations",
+        "War, Conflict and Unrest->peace talks"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Gaza",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hamas",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Fox News",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "FOX",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "f30ce40e5c19abb8e4acb00d08e3ace54d009d75",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-09T07:29:49.327+03:00",
+    "updated": "2025-10-09T07:33:16.000+03:00"
+}

@@ -1,0 +1,157 @@
+{
+    "thread": {
+        "uuid": "b62982a0ffaff6a654456cef5b34127eea1fb165",
+        "url": "https://www.newsbreak.com/news/4838200758367-air-quality-advisory-reissued-for-wallowa-county",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/shaniko-or",
+        "site_categories": [
+            "politics",
+            "crime, law and justice",
+            "social issue",
+            "arts, culture and entertainment",
+            "human interest",
+            "sport",
+            "economy, business and finance",
+            "under_construction",
+            "lifestyle and leisure",
+            "science and technology"
+        ],
+        "section_title": "Shaniko, OR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Air quality advisory reissued for Wallowa County - NewsBreak",
+        "title_full": "Air quality advisory reissued for Wallowa County - NewsBreak",
+        "published": "2026-08-19T21:47:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3DesHg_1EO4cObP00",
+        "performance_score": 0,
+        "domain_rank": 3070,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b62982a0ffaff6a654456cef5b34127eea1fb165",
+    "url": "https://www.newsbreak.com/news/4838200758367-air-quality-advisory-reissued-for-wallowa-county",
+    "ord_in_thread": 0,
+    "author": "Garrett Christensen",
+    "published": "2026-08-19T21:47:00.000+03:00",
+    "title": "Air quality advisory reissued for Wallowa County - NewsBreak",
+    "text": "By Garrett Christensen ,\n1 days ago WALLOWA COUNTY — Attention Wallowa County residents, the Oregon Department of Environmental Quality (DEQ) has issued another air quality advisory for portions of the county. As of the morning, Wallowa County along with Crook, Jefferson, and southern Wasco Counties are now under the new advisory through at least Friday afternoon. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://elkhornmediagroup.com/air-quality-advisory-reissued-for-wallowa-county/",
+        "https://elkhornmediagroup.com/air-quality-advisory-reissued-for-wallowa-county",
+        "https://www.elkhornmediagroup.com/air-quality-advisory-reissued-for-wallowa-county/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Garrett Christensen",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Oregon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wallowa County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wasco Counties",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jefferson",
+                "sentiment": "none"
+            },
+            {
+                "name": "Crook",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "DEQ",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Department of Environmental Quality",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Shaniko"
+            ],
+            "state": [
+                "Oregon"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:35:59.235+03:00",
+    "updated": "2026-08-21T15:58:21.115+03:00"
+}

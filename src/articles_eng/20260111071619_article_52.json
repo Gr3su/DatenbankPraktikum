@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "59a3c3cd5c22c8a6e25e984e9f7eb9837c88658c",
+        "url": "https://www.sciencedaily.com/releases/2026/01/260101160849.htm",
+        "site_full": "www.sciencedaily.com",
+        "site": "sciencedaily.com",
+        "site_section": "https://www.sciencedaily.com/",
+        "site_categories": [
+            "science",
+            "space_astronomy",
+            "education",
+            "environment",
+            "science and technology",
+            "health"
+        ],
+        "section_title": "ScienceDaily: Your source for the latest research news",
+        "site_title": "ScienceDaily: Your source for the latest research news",
+        "title": "Less than a trillionth of a second: Ultrafast UV light could transform communications and imaging | ScienceDaily",
+        "title_full": "Less than a trillionth of a second: Ultrafast UV light could transform communications and imaging | ScienceDaily",
+        "published": "2026-01-07T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.sciencedaily.com/images/1920/ultrafast-photonics-telecommunications.webp",
+        "performance_score": 0,
+        "domain_rank": 1805,
+        "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "59a3c3cd5c22c8a6e25e984e9f7eb9837c88658c",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260101160849.htm",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-01-07T02:00:00.000+02:00",
+    "title": "Less than a trillionth of a second: Ultrafast UV light could transform communications and imaging | ScienceDaily",
+    "text": "Less than a trillionth of a second: Ultrafast UV light could transform communications and imaging\n- Date:\n- January 7, 2026\n- Source:\n- Light Publishing Center, Changchun Institute of Optics, Fine Mechanics And Physics, CAS\n- Summary:\n- Researchers have built a new platform that produces ultrashort UV-C laser pulses and detects them at room temperature using atom-thin materials. The light flashes last just femtoseconds and can be used to send encoded messages through open space. The system relies on efficient laser generation and highly responsive sensors that scale well for manufacturing. Together, these advances could accelerate the development of next-generation photonic technologies.\n- Share:\nPhotonic technologies that operate in the ultraviolet UV-C range (100−280 nm) play an important role in fields ranging from super-resolution microscopy to optical communications. As these technologies improve, they are expected to open new pathways across science and engineering. One of UV-C light's most valuable traits is how strongly it scatters in the atmosphere, which makes it especially useful for non-line-of-sight communication. This property allows data to be transmitted even when obstacles block a direct path between sender and receiver. However, despite this promise, progress has been slowed by the lack of practical components capable of working reliably with UV-C light.\nResearchers have now addressed this challenge in a study published in Light: Science & Applications. The work was led by Professor Amalia Patané (University of Nottingham) and Professor John W. G. Tisch (Imperial College London). Their team developed a new platform that can both generate and detect extremely short UV-C laser pulses.\nThe system combines an ultrafast UV-C laser source with UV-C detectors made from atomically-thin (two-dimensional) semiconductors (2DSEM). To create the laser pulses, the researchers used phase-matched second-order nonlinear processes. This approach relies on cascaded second-harmonic generation within nonlinear crystals, producing UV-C pulses that last only femtoseconds, less than 1 trillionth of a second.\nDetecting Femtosecond Pulses at Room Temperature\nThe ultrashort pulses are detected at room temperature using photodetectors based on the 2DSEM gallium selenide (GaSe) and its wideband gap oxide layer (Ga2O3). Importantly, all of the materials used in the system are compatible with scalable manufacturing techniques, making the approach practical beyond the laboratory.\nTo demonstrate the system's capabilities, the researchers built a free-space communication setup. In this proof of concept, information was encoded into the UV-C laser by the source-transmitter and then successfully decoded by the 2D semiconductor sensor acting as the receiver.\nUnexpected Sensor Behavior\nProfessor Patané, who led the sensor development, explains what makes the results stand out: \"This work combines for the first time the generation of femtosecond UV-C laser pulses with their fast detection by 2D semiconductors. Unexpectedly, the new sensors exhibit a linear to super-linear photocurrent response to pulse energy, a highly desirable property, laying the foundation for UV-C-based photonics operating on femtosecond timescales over a wide range of pulse energies and repetition rates.\"\nBen Dewes, a PhD student at Nottingham, points out that this area of research is still emerging: \"The detection of UV-C radiation with 2D materials is still in its infancy. The ability to detect ultrashort pulses, as well as to combine the generation and detection of pulses in free-space, helps pave the way for the further development of UV-C photonic components.\"\nEfficient Laser Generation and Future Scaling\nProfessor Tisch, who led the work on the laser source, highlights the importance of efficiency: \"We have exploited phase matched second-order processes in nonlinear optical crystals for the efficient generation of UV-C laser light. The high conversion efficiency marks a significant milestone and provides a foundation for further optimization and scaling of the system into a compact UV-C source.\"\nTim Klee, a PhD student at Imperial, adds that ease of use and accessibility will be critical moving forward: \"A compact, efficient and simple UV-C source will benefit the wider scientific and industrial community, stimulating further research on UV-C photonics.\"\nWhat This Means for Future Technologies\nTogether, the ability to generate and detect femtosecond UV-C laser pulses could have far-reaching effects across many advanced applications. The strong sensing performance of 2D materials supports the development of integrated platforms that combine light sources and detectors into a single system. Such platforms could be especially useful for free-space communication between autonomous systems and robotic technologies.\nBecause these components are compatible with monolithic integration in photonic integrated circuits, they may also enable a wide range of future technologies, including broad-band imaging and ultrafast spectroscopy operating on femtosecond timescales.\nStory Source:\nMaterials provided by Light Publishing Center, Changchun Institute of Optics, Fine Mechanics And Physics, CAS. Note: Content may be edited for style and length.\nJournal Reference:\n- Benjamin T. Dewes, Tim Klee, Nathan D. Cottam, Joseph J. Broughton, Mustaqeem Shiffa, Tin S. Cheng, Sergei V. Novikov, Oleg Makarovsky, John W. G. Tisch, Amalia Patané. Fast ultraviolet-C photonics: generating and sensing laser pulses on femtosecond timescales. Light: Science, 2025; 14 (1) DOI:\n10.1038/s41377-025-02042-2\nCite This Page:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->scientific innovation",
+        "Science and Technology->technology and engineering",
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "http://dx.doi.org/10.1038/s41377-025-02042-2",
+        "http://www.dx.doi.org/10.1038/s41377-025-02042-2"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Changchun Institute of Optics",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Light Publishing Center",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-08T07:18:01.667+02:00",
+    "updated": "2026-01-08T07:29:03.000+02:00"
+}

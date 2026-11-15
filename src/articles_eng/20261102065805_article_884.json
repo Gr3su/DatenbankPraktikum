@@ -1,0 +1,114 @@
+{
+    "thread": {
+        "uuid": "539209335dd22bfe98dd8258ddb050c23de471d6",
+        "url": "https://raisingnews.whatfinger.com/crypto-giant-binance-reports-6-3-billion-potential-security-incident/",
+        "site_full": "raisingnews.whatfinger.com",
+        "site": "whatfinger.com",
+        "site_section": "https://raisingnews.whatfinger.com/",
+        "site_categories": [
+            "economy, business and finance",
+            "social issue",
+            "politics",
+            "science and technology",
+            "crime, law and justice"
+        ],
+        "section_title": "Whatfinger News Quick Hits &#8211; Get your nonstop fix of breaking news as it drops—straight from the sources, timestamped and unfiltered 24/7",
+        "site_title": "Whatfinger News Quick Hits &#8211; Get your nonstop fix of breaking news as it drops—straight from the sources, timestamped and unfiltered 24/7",
+        "title": "Crypto giant Binance reports $6.3 billion potential 'security incident' - Whatfinger News Quick Hits",
+        "title_full": "Crypto giant Binance reports $6.3 billion potential 'security incident' - Whatfinger News Quick Hits",
+        "published": "2026-10-30T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 116046,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-30T07:20:18.202+02:00"
+        }
+    },
+    "uuid": "539209335dd22bfe98dd8258ddb050c23de471d6",
+    "url": "https://raisingnews.whatfinger.com/crypto-giant-binance-reports-6-3-billion-potential-security-incident/",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-10-30T02:00:00.000+02:00",
+    "title": "Crypto giant Binance reports $6.3 billion potential 'security incident' - Whatfinger News Quick Hits",
+    "text": "Binance reported late Thursday it suffered a “security incident” involving as much as $6.3 billion in cryptocurrency, and it has frozen affected assets and plans to cover any losses after a full investigation.The world’s largest cryptocurrency exchange said the episode “may involve a compromised DevOps engineer’s laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions.\n“We have found no evidence of any wallet private key leak. We will share a detailed technical post-mortem once the investigation is complete and the facts are fully verified,” the company said. “The estimated total impact sits at around $6.3B. We have worked with blockchain partners to freeze affected assets, with ~$3 billion frozen on-chain so far.\nIt promised to make amends if any losses are discovered.\n“Binance will cover all losses from the SAFU fund and the company’s funds. User funds are safe. We will also publish an updated Proof of Reserves once the remediation is complete,” it said.\nBinance said it took several precautions, including:\ntemporarily suspending deposits and withdrawals while security checks are completed;\nrevoking the impacted address authorization;\nengaging police and blockchain intelligence partners to trace and recover funds.\nRead Full Article: https://justthenews.com/government/security/crypto-giant-binance-reports-63-billion-potential-security-incident?utm_source=justthenews.com&utm_medium=feed&utm_campaign=external-news-aggregators",
+    "summary": "Binance reported late Thursday it suffered a “security incident” involving as much as $6.3 billion in cryptocurrency, and it has frozen affected assets and plans to cover any losses after a full investigation.The world’s largest cryptocurrency exchange said the episode “may involve a compromised DevOps engineer’s laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions. “We have found no evidence of any wallet private key leak. We will share a detailed technical post-mortem once the investigation is complete and the facts are fully verified,” the company said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->fraud",
+        "Crime, Law and Justice->cyber crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Binance",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Whatfinger News",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "DevOps",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-30T07:20:18.202+02:00",
+    "updated": "2026-10-30T11:47:05.575+02:00",
+    "related_articles": null
+}

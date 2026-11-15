@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "9a192409ccc85192b539a3725378f92bfe926108",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4147210337777-air-quality-alert-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Air Quality Alert by NWS - NewsBreak",
+        "title_full": "Air Quality Alert by NWS - NewsBreak",
+        "published": "2025-07-31T02:10:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0RjJ4r_13KpSEpH00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9a192409ccc85192b539a3725378f92bfe926108",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4147210337777-air-quality-alert-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-07-31T02:10:00.000+03:00",
+    "title": "Air Quality Alert by NWS - NewsBreak",
+    "text": "Check NWS updates here The Connecticut Department of Environmental Protection has issued a Air Quality Action Day for Fine Particulates...from 11 AM to 11 PM EDT Thursday. An Air Quality Action Day means that Fine Particulates concentrations within the region may approach or exceed unhealthy standards. For additional information...please visit the Connecticut Air Quality Web site at http://www.ct.gov/deep/aqi",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Environment",
+        "Health",
+        "Social Issue"
+    ],
+    "topics": [
+        "Environment->environmental pollution",
+        "Environment->sustainability",
+        "Environment->air pollution",
+        "Health->public health",
+        "Social Issue->social services",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.a35764151bbd8ae26ff1bf60cb33dc3f29bc5225.001.1",
+        "http://www.ct.gov/deep/aqi",
+        "http://ct.gov/deep/aqi",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.a35764151bbd8ae26ff1bf60cb33dc3f29bc5225.001.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Connecticut Department of Environmental Protection",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:21:45.402+03:00",
+    "updated": "2025-07-31T07:24:15.000+03:00"
+}

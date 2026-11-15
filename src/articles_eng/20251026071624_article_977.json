@@ -1,0 +1,106 @@
+{
+    "thread": {
+        "uuid": "9a56fe40839e0470ec9a2a2f9840786ea47ba4a5",
+        "url": "https://www.newsbreak.com/news/4307783986921-1-dead-after-crash-on-hwy-87-in-san-jose",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://newsbreak.com/sunnyvale-ca",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Sunnyvale, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "1 dead after crash on Hwy. 87 in San Jose - NewsBreak",
+        "title_full": "1 dead after crash on Hwy. 87 in San Jose - NewsBreak",
+        "published": "2025-10-23T06:11:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-10-20T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9a56fe40839e0470ec9a2a2f9840786ea47ba4a5",
+    "url": "https://www.newsbreak.com/news/4307783986921-1-dead-after-crash-on-hwy-87-in-san-jose",
+    "ord_in_thread": 0,
+    "author": "Victoria Meza",
+    "published": "2025-10-23T06:11:00.000+03:00",
+    "title": "1 dead after crash on Hwy. 87 in San Jose - NewsBreak",
+    "text": "By Victoria Meza ,\n1 hours ago A person died following a solo-vehicle crash in a San Jose highway Wednesday night, the CHP said. CHP reports they responded to a crash northbound Highway 87, north of the 280 connector, at around 7:20 p.m. Authorities report a vehicle crashed into the center divide, and the person inside died... Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Victoria Meza",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "CHP",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "CHP",
+                        "exchange": "JSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-23T07:48:36.585+03:00",
+    "updated": "2025-10-23T07:52:36.000+03:00"
+}

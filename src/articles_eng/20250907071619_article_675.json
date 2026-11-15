@@ -1,0 +1,119 @@
+{
+    "thread": {
+        "uuid": "e7295fbaeee479274c6106c1fcbe9859e6a0e225",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4213356844412-flash-flood-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Flash Flood Warning by NWS - NewsBreak",
+        "title_full": "Flash Flood Warning by NWS - NewsBreak",
+        "published": "2025-09-04T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/17g3G2_14OTRXK200",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e7295fbaeee479274c6106c1fcbe9859e6a0e225",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4213356844412-flash-flood-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2025-09-04T06:59:00.000+03:00",
+    "title": "Flash Flood Warning by NWS - NewsBreak",
+    "text": "34 minutes ago Check NWS updates here\nEffective: 2025-09-03 20:54:00 PDT Expires: 2025-09-03 22:45:00 PDT Urgency: Immediate Severity: Severe Certainty: Likely Instruction: Turn around, don't drown when encountering flooded roads. Most flood deaths occur in vehicles. Be especially cautious at night when it is harder to recognize the dangers of flooding. Target Area: Maricopa, AZ FFWPSR\nThe National Weather Service in Phoenix has issued a\n* Flash Flood Warning for... Maricopa County in south central Arizona...\n* Until 1045 PM MST.\n* At 854 PM MST, Doppler radar indicated thunderstorms producing heavy rain across the warned area. Up to 0.5 inches of rain have fallen. Additional rainfall amounts up to 1 inch are possible in the warned area. Flash flooding is ongoing or expected to begin shortly.\nHAZARD...Flash flooding caused by thunderstorms.\nSOURCE...Radar.\nIMPACT...Flash flooding of small creeks and streams, urban areas, highways, streets and underpasses as well as other poor drainage and low-lying areas.\n* Some locations that will experience flash flooding include... Phoenix, Mesa, Chandler, Scottsdale, Gilbert, Tempe, Tempe Marketplace, Fiesta Mall, Mesa Riverview Mall, Arizona State University, Downtown Mesa, Arizona Mills Mall, Papago Park and Guadalupe.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather",
+        "Social Issue"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Social Issue->social services",
+        "Social Issue->social problem",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=17g3G2_14OTRXK200",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=17g3G2_14OTRXK200",
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.54779ad8fc6cba76c61715786569e3ba06553d65.001.1",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?url=17g3G2_14OTRXK200",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=17g3G2_14OTRXK200",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.54779ad8fc6cba76c61715786569e3ba06553d65.001.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Maricopa County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-04T07:33:27.117+03:00",
+    "updated": "2025-09-04T07:37:15.000+03:00"
+}

@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "c4ec2218cca60955f23079c87271801e5ef248a6",
+        "url": "https://www.newsbreak.com/wusa9-524569/4281910112802-hamas-israel-on-pace-for-first-phase-of-peace-deal-trump",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/wusa9-524569",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "WUSA9&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Hamas, Israel on pace for first phase of peace deal: Trump - NewsBreak",
+        "title_full": "Hamas, Israel on pace for first phase of peace deal: Trump - NewsBreak",
+        "published": "2025-10-09T07:01:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3wsItV_15UYD3nL00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-10-06T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c4ec2218cca60955f23079c87271801e5ef248a6",
+    "url": "https://www.newsbreak.com/wusa9-524569/4281910112802-hamas-israel-on-pace-for-first-phase-of-peace-deal-trump",
+    "ord_in_thread": 0,
+    "author": "WUSA9",
+    "published": "2025-10-09T07:01:00.000+03:00",
+    "title": "Hamas, Israel on pace for first phase of peace deal: Trump - NewsBreak",
+    "text": "7 hours ago President Donald Trump announced on Wednesday that Hamas and Israel had agreed to the first phase of a plan to end the Gaza conflict. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->international relations"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Gaza",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hamas",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-09T07:31:22.662+03:00",
+    "updated": "2025-10-09T15:01:33.686+03:00"
+}

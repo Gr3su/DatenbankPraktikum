@@ -1,0 +1,119 @@
+{
+    "thread": {
+        "uuid": "13e9d0afb22ad2d3c873c09e77d7cbf405813295",
+        "url": "https://www.ntd.com/ntdplus/trump-admin-doubles-down-on-mail-in-ballot-plan_1165974.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://api.ntd.com/feed",
+        "site_categories": [
+            "war, conflict and unrest",
+            "media",
+            "disaster and accident",
+            "real_estate",
+            "economy, business and finance",
+            "politics",
+            "health",
+            "architects",
+            "crime, law and justice"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "Trump Admin Doubles Down on Mail-In Ballot Plan",
+        "title_full": "Trump Admin Doubles Down on Mail-In Ballot Plan",
+        "published": "2026-08-13T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2026/07/id1158623-GettyImages-2283374353.jpg-600x400.webp",
+        "performance_score": 0,
+        "domain_rank": 64838,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "13e9d0afb22ad2d3c873c09e77d7cbf405813295",
+    "url": "https://www.ntd.com/ntdplus/trump-admin-doubles-down-on-mail-in-ballot-plan_1165974.html",
+    "ord_in_thread": 0,
+    "author": "NTD Newsroom",
+    "published": "2026-08-13T06:59:00.000+03:00",
+    "title": "Trump Admin Doubles Down on Mail-In Ballot Plan",
+    "text": "Trailer\nTrump Admin Doubles Down on Mail-In Ballot Plan\nThe Trump administration on Wednesday again asked the Supreme Court to clear the way for new restrictions on mail-in voting. It comes after a federal judge blocked the administration's plan for a secon...\nRead More",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->civil rights",
+        "Politics->election",
+        "Politics->national elections",
+        "Politics->government",
+        "Politics->voting"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Supreme Court",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:26:21.749+03:00",
+    "updated": "2026-08-13T07:28:54.000+03:00"
+}

@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "564293023ef93451f8f573a802184757b20a4eae",
+        "url": "https://www.newsbreak.com/news/4730113362663-woman-accused-of-killing-93-year-old-clay-county-woman-after-body-found-in-shower",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/polo-mo",
+        "site_categories": [
+            "crime, law and justice",
+            "economy, business and finance",
+            "disaster and accident",
+            "sport",
+            "social issue",
+            "politics",
+            "lifestyle and leisure",
+            "under_construction",
+            "human interest",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Polo, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Woman accused of killing 93-year-old Clay County woman after body found in shower - NewsBreak",
+        "title_full": "Woman accused of killing 93-year-old Clay County woman after body found in shower - NewsBreak",
+        "published": "2026-06-24T20:29:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2cf21d_1CfAD4fj00",
+        "performance_score": 0,
+        "domain_rank": 3030,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "564293023ef93451f8f573a802184757b20a4eae",
+    "url": "https://www.newsbreak.com/news/4730113362663-woman-accused-of-killing-93-year-old-clay-county-woman-after-body-found-in-shower",
+    "ord_in_thread": 0,
+    "author": "Julia Scammahorn",
+    "published": "2026-06-24T20:29:00.000+03:00",
+    "title": "Woman accused of killing 93-year-old Clay County woman after body found in shower - NewsBreak",
+    "text": "By Julia Scammahorn ,\n11 hours ago LIBERTY, Mo. (KCTV) - A 27-year-old woman has been charged with first-degree murder in the death of a 93-year-old woman found dead in a shower at a home in Clay County. Kelisha Reeves is accused of the killing. The elderly victim was found June 9 after a caretaker went to... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kctv5.com/2026/06/24/woman-accused-killing-93-year-old-after-body-found-shower/?outputType=amp",
+        "https://www.kctv5.com/2026/06/24/woman-accused-killing-93-year-old-after-body-found-shower/",
+        "https://kctv5.com/2026/06/24/woman-accused-killing-93-year-old-after-body-found-shower/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Julia Scammahorn",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Kelisha Reeves",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Clay County",
+                "sentiment": "none"
+            },
+            {
+                "name": "LIBERTY",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "KCTV",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Polo"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:42:59.703+03:00",
+    "updated": "2026-06-25T07:45:35.000+03:00"
+}

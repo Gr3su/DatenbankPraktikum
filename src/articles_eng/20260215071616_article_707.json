@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "86d4b0747e3547828ffe54b0bdb1d1d42f10e178",
+        "url": "http://mannion.house.gov/media/press-releases",
+        "site_full": "mannion.house.gov",
+        "site": "house.gov",
+        "site_section": "https://mannion.house.gov/media",
+        "site_categories": [
+            "politics",
+            "health"
+        ],
+        "section_title": "Media | Congressman John Mannion",
+        "site_title": "Congressman John Mannion | Representing New York&#039;s 22nd District",
+        "title": "Press Releases | Congressman John Mannion",
+        "title_full": "Press Releases | Congressman John Mannion",
+        "published": "2026-01-30T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://mannion.house.gov/profiles/evo/assets/images/Seal_of_the_United_States_House_of_Representatives.png",
+        "performance_score": 0,
+        "domain_rank": 2134,
+        "domain_rank_updated": "2026-02-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "86d4b0747e3547828ffe54b0bdb1d1d42f10e178",
+    "url": "http://mannion.house.gov/media/press-releases",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-01-30T02:00:00.000+02:00",
+    "title": "Press Releases | Congressman John Mannion",
+    "text": "Press Releases\nONEIDA, NY — Representative John W. Mannion today announced $358,000 in federal Community Project Funding to support critical infrastructure improvements at Oneida Health, helping ensure reliable hospital operations and continued access to care for patients across Madison County and the Mohawk Valley.\nWASHINGTON, D.C. — Representative John W. Mannion (NY-22) today introduced the Restarting Education After Disasters Act, legislation to strengthen federal support for communities with schools forced to close due to natural disasters and severe weather.\nWASHINGTON, D.C. - Representative John W. Mannion (NY-22) today released the following statement on the Department of Homeland Security funding bill:\nWASHINGTON, D.C. – Representative John W.\nWASHINGTON, D.C. — Representative John W. Mannion (NY-22) today announced that 11 more of his Community Project Funding priorities totaling $11,249,000 for Central New York and the Mohawk Valley were approved by the House of Representatives and are expected to pass the Senate.\nSYRACUSE, N.Y. - Representative John W. Mannion (NY-22) today released the following statement on his vote to extend the Affordable Care Act tax credits for three years:\nSYRACUSE, N.Y. - Representative John W. Mannion (NY-22) today released the following statement on U.S. military action in Venezuela:\n“I commend the men and women of the United States military for carrying out a brave, highly complex, and precision operation.\nWhat comes next is just as important as understanding how we got here. The American people deserve transparency, accountability, and a clear assessment of U.S. interests.\nCongress\nSYRACUSE, NY — Representative John W. Mannion (NY-22) today announced the winners of the 2025 Congressional App Challenge, a nationwide competition that encourages middle and high school students to explore computer science by designing and coding original software applications.",
+    "summary": "ONEIDA, NY — Representative John W. Mannion today announced $358,000 in federal Community Project Funding to support critical infrastructure improvements at Oneida Health, helping ensure reliable hospital operations and continued access to care for patients across Madison County and the Mohawk Valley. WASHINGTON, D.C. — Representative John W. Mannion (NY-22) today introduced the Restarting Education After Disasters Act, legislation to strengthen federal support for communities with schools forced to close due to natural disasters and severe weather.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government budget",
+        "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "John Mannion",
+                "sentiment": "negative"
+            },
+            {
+                "name": "John W. Mannion",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "NY",
+                "sentiment": "none"
+            },
+            {
+                "name": "D. C.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Madison County",
+                "sentiment": "none"
+            },
+            {
+                "name": "WASHINGTON",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mohawk Valley",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Oneida Health",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "gov_news",
+            "city": [
+                "Washington"
+            ],
+            "state": [
+                "DC"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": "Federal - Legislative",
+            "agency": "The Legislative Branch",
+            "organization_name": "US House of Representatives"
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-12T07:27:45.239+02:00",
+    "updated": "2026-02-12T07:29:26.000+02:00"
+}

@@ -1,0 +1,119 @@
+{
+    "thread": {
+        "uuid": "d0dc76a57724abb590ec8d2bcc4f9d4942cdb333",
+        "url": "https://www.foxnews.com/video/6394832614112",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://moxie.foxnews.com/google-publisher/videos.xml",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "media",
+            "politics",
+            "war, conflict and unrest",
+            "crime, law and justice",
+            "sport"
+        ],
+        "section_title": "The Latest &amp; Breaking Videos on Fox News",
+        "site_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "'S4: The Bob Lazar Story' executive producer details the government's alleged possession of a UFO",
+        "title_full": "'S4: The Bob Lazar Story' executive producer details the government's alleged possession of a UFO",
+        "published": "2026-05-07T05:24:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a81c2e-9aa1-44b7-8722-a4f6628fb83c/5c9c791c-f946-4d42-8f77-2e6e234d77b6/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+        "performance_score": 0,
+        "domain_rank": 438,
+        "domain_rank_updated": "2026-05-04T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d0dc76a57724abb590ec8d2bcc4f9d4942cdb333",
+    "url": "https://www.foxnews.com/video/6394832614112",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-05-07T05:24:00.000+03:00",
+    "title": "'S4: The Bob Lazar Story' executive producer details the government's alleged possession of a UFO",
+    "text": "Log in to comment on videos and join in on the fun.\nWatch the live stream of Fox News and full episodes.\nReduce eye strain and focus on the content that matters.\nExecutive producer of 'S4: The Bob Lazar Story' Luigi Vendittelli explores Area 51 claims and government UFO possession on 'Hang Out with Sean Hannity.'",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->aerospace engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Luigi Vendittelli",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bob Lazar",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Fox News",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": "FOX",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_us",
+            "top_news"
+        ],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-07T07:41:21.207+03:00",
+    "updated": "2026-05-07T07:44:28.000+03:00"
+}

@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "7e0eff05f8080d497b8775aa904a428a484375e5",
+        "url": "https://www.republicworld.com/business/openai-to-access-up-to-1-gw-ai-compute-capacity-through-tata-group",
+        "site_full": "www.republicworld.com",
+        "site": "republicworld.com",
+        "site_section": "https://www.republicworld.com/shows/the-debate",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "sport",
+            "politics",
+            "economy, business and finance",
+            "media",
+            "science and technology",
+            "exercise",
+            "health",
+            "crime, law and justice"
+        ],
+        "section_title": "The debate | Republic World",
+        "site_title": "Latest News, News Today, Breaking News, India News and Current News  | Republic World",
+        "title": "OpenAI to Access Up to 1 GW AI Compute Capacity Through Tata Group",
+        "title_full": "OpenAI to Access Up to 1 GW AI Compute Capacity Through Tata Group",
+        "published": "2026-02-19T07:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://img.republicworld.com/all_images/openai-has-entered-into-a-partnership-with-tata-group-1771477954270-16_9.webp",
+        "performance_score": 0,
+        "domain_rank": 15718,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7e0eff05f8080d497b8775aa904a428a484375e5",
+    "url": "https://www.republicworld.com/business/openai-to-access-up-to-1-gw-ai-compute-capacity-through-tata-group",
+    "ord_in_thread": 0,
+    "author": "Shourya Jha",
+    "published": "2026-02-19T07:12:00.000+02:00",
+    "title": "OpenAI to Access Up to 1 GW AI Compute Capacity Through Tata Group",
+    "text": "Updated 19 February 2026 at 10:42 IST\nOpenAI to Access Up to 1 GW AI Compute Capacity Through Tata Group\nOpenAI has entered into a partnership with Tata Group under its global Stargate initiative to build AI infrastructure in India. The project will begin with 100 MW of compute capacity through TCS’s HyperVault platform, with plans to scale up to 1 GW. The collaboration also includes enterprise AI deployment and joint development of sector-specific AI solutions.\nRepublic Business- 2 min read\nOpenAI has partnered with the Tata Group as part of its global Stargate initiative to expand artificial intelligence infrastructure, with plans to develop large-scale AI compute capacity in India.\nUnder the arrangement, Tata Consultancy Services will provide AI-ready data centre infrastructure to OpenAI through its HyperVault platform. The initial phase involves 100 megawatts (MW) of capacity, with provisions to scale up to 1 gigawatt (GW) in subsequent phases.\nThe infrastructure is intended to support high-intensity AI workloads, including training and inference of large-scale artificial intelligence models.\nIndia Positioned As A Key Market For AI Compute\nThe partnership comes amid rising demand for AI compute capacity in India, driven by increased enterprise adoption and expanding use of generative AI tools. OpenAI has identified India as one of its fastest-growing user markets globally, with over 100 million weekly users of ChatGPT.\nAdvertisement\nThe Stargate initiative is OpenAI’s global programme focused on building AI-specific data centres capable of supporting next-generation AI systems. The initiative involves partnerships with infrastructure providers to ensure access to reliable, high-capacity compute resources across key regions.\nAs part of the broader collaboration, OpenAI is expected to deploy ChatGPT Enterprise across multiple Tata Group companies. The rollout aims to enable AI-based productivity tools for internal operations and enterprise clients. TCS and OpenAI will also work together on developing AI solutions tailored for sectors including financial services, retail, manufacturing, and consumer services, leveraging TCS’s industry expertise alongside OpenAI’s model capabilities.\nAdvertisement\nExpansion Roadmap\nThe planned scale-up to 1 GW positions the Tata-OpenAI partnership among the largest proposed AI infrastructure developments in India. The facilities will be designed to meet requirements related to data security, latency, and enterprise-grade AI workloads.\nFurther details regarding timelines, locations, and investment size are expected to be announced as the project progresses.\nPublished By : Shourya Jha\nPublished On: 19 February 2026 at 10:42 IST",
+    "summary": "Republic Business- 2 min read OpenAI has partnered with the Tata Group as part of its global Stargate initiative to expand artificial intelligence infrastructure, with plans to develop large-scale AI compute capacity in India. The infrastructure is intended to support high-intensity AI workloads, including training and inference of large-scale artificial intelligence models. The Stargate initiative is OpenAI’s global programme focused on building AI-specific data centres capable of supporting next-generation AI systems. The initiative involves partnerships with infrastructure providers to ensure access to reliable, high-capacity compute resources across key regions.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->computing and information technology",
+        "Economy, Business and Finance->business financing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "India",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Tata Group",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "TATA",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "TCS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TCS",
+                        "exchange": "NSE"
+                    }
+                ]
+            },
+            {
+                "name": "OpenAI",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:21:29.739+02:00",
+    "updated": "2026-02-19T07:24:57.000+02:00"
+}

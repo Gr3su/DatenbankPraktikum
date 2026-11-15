@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "c09221b9039869e05a460fdb2f247339bd2deafb",
+        "url": "https://www.newsbreak.com/news/4756571488134-road-closure-of-mountain-drive-on-july-8-and-9",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/santa-barbara-ca",
+        "site_categories": [
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "social issue",
+            "under_construction",
+            "politics",
+            "human interest",
+            "sport",
+            "economy, business and finance",
+            "disaster and accident"
+        ],
+        "section_title": "Santa Barbara, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Road Closure of Mountain Drive on July 8 and 9 - NewsBreak",
+        "title_full": "Road Closure of Mountain Drive on July 8 and 9 - NewsBreak",
+        "published": "2026-07-07T20:27:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0K526L_1D4pmh2I00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c09221b9039869e05a460fdb2f247339bd2deafb",
+    "url": "https://www.newsbreak.com/news/4756571488134-road-closure-of-mountain-drive-on-july-8-and-9",
+    "ord_in_thread": 0,
+    "author": "CityofSantaBarbara",
+    "published": "2026-07-07T20:27:00.000+03:00",
+    "title": "Road Closure of Mountain Drive on July 8 and 9 - NewsBreak",
+    "text": "By CityofSantaBarbara ,\n1 days ago On Wednesday, July 8, the southbound lane of Mountain Drive will be closed between the intersection of Mountain Drive and Los Olivos Street/Mission Canyon Road. On Thursday, July 9, both lanes of Mountain Drive will be closed between the intersection of Mountain Drive and Los Olivos Street/Mission Canyon Road, as well as the intersection of Mountain Drive and Mission Ridge Road. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident",
+        "Human Interest"
+    ],
+    "topics": [
+        "Disaster and Accident->drowning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.edhat.com/news/road-closure-of-mountain-drive-on-july-8-and-9/",
+        "https://edhat.com/news/road-closure-of-mountain-drive-on-july-8-and-9/",
+        "https://www.edhat.com/news/road-closure-of-mountain-drive-on-july-8-and-9"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Mountain Drive",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mission Ridge Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Los Olivos Street",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mission Canyon Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CityofSantaBarbara",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:37:18.220+03:00",
+    "updated": "2026-07-09T07:43:06.000+03:00"
+}

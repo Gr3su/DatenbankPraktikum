@@ -1,0 +1,124 @@
+{
+    "thread": {
+        "uuid": "fa549e55bbea0bdb2fc799b242e6c3ddf3bcbafb",
+        "url": "https://www.wallstreetsentinel.news/video/us-president-donald-trump-showers-high-praise-outgoing-dni-tulsi-gabbard-during-cabinet-meet",
+        "site_full": "www.wallstreetsentinel.news",
+        "site": "wallstreetsentinel.news",
+        "site_section": "https://www.wallstreetsentinel.news/videos/world",
+        "site_categories": [],
+        "section_title": "",
+        "site_title": null,
+        "title": "",
+        "title_full": "",
+        "published": "2026-05-28T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://worldnewsn.s3.amazonaws.com/media/images/wall_street_sentinel.png",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fa549e55bbea0bdb2fc799b242e6c3ddf3bcbafb",
+    "url": "https://www.wallstreetsentinel.news/video/us-president-donald-trump-showers-high-praise-outgoing-dni-tulsi-gabbard-during-cabinet-meet",
+    "ord_in_thread": 0,
+    "author": "May",
+    "published": "2026-05-28T03:00:00.000+03:00",
+    "title": "",
+    "text": "Washington D. C. (USA), May 28, 2026 (ANI): US President Donald Trump showers high praise to outgoing DNI Tulsi Gabbard during the cabinet meeting.\nWashington D. C. (USA), May 28, 2026 (ANI): US President Donald Trump showers high praise to outgoing DNI Tulsi Gabbard during the cabinet meeting.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tulsi Gabbard",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Washington D. C.",
+                "sentiment": "none"
+            },
+            {
+                "name": "USA",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ANI",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "DNI",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-28T07:32:54.282+03:00",
+    "updated": "2026-05-28T07:32:54.282+03:00"
+}

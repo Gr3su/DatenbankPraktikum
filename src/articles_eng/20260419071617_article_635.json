@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "1f3d00409a26dc35b113c984edd3919aef2bdc75",
+        "url": "https://www.newsbreak.com/the-ann-arbor-news-512973/4594392278101-confirmed-tornadoes-in-ann-arbor-lincoln-park-bring-total-to-7-overnight-across-michigan",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/the-ann-arbor-news-512973",
+        "site_categories": [
+            "crime, law and justice",
+            "sport",
+            "economy, business and finance",
+            "under_construction",
+            "lifestyle and leisure",
+            "human interest",
+            "arts, culture and entertainment",
+            "politics"
+        ],
+        "section_title": "The Ann Arbor News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Confirmed tornadoes in Ann Arbor, Lincoln Park bring total to 7 overnight across Michigan - NewsBreak",
+        "title_full": "Confirmed tornadoes in Ann Arbor, Lincoln Park bring total to 7 overnight across Michigan - NewsBreak",
+        "published": "2026-04-16T03:48:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2ypJXt_1AUPcn4A00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1f3d00409a26dc35b113c984edd3919aef2bdc75",
+    "url": "https://www.newsbreak.com/the-ann-arbor-news-512973/4594392278101-confirmed-tornadoes-in-ann-arbor-lincoln-park-bring-total-to-7-overnight-across-michigan",
+    "ord_in_thread": 0,
+    "author": "The Ann Arbor News",
+    "published": "2026-04-16T03:48:00.000+03:00",
+    "title": "Confirmed tornadoes in Ann Arbor, Lincoln Park bring total to 7 overnight across Michigan - NewsBreak",
+    "text": "6 hours ago DETROIT, MI — The National Weather Service in Detroit has confirmed two additional tornadoes overnight, bringing the total to seven across the state. The most recent tornadoes confirmed were in Ann Arbor and Lincoln Park. Estimated peak winds reached 110 mph in Ann Arbor as an EF-1 tornado hit... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Weather->weather phenomena",
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Detroit",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ann Arbor",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lincoln Park",
+                "sentiment": "none"
+            },
+            {
+                "name": "Michigan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:35:03.001+03:00",
+    "updated": "2026-04-16T10:03:59.929+03:00"
+}

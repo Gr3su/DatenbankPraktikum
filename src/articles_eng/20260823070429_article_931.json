@@ -1,0 +1,154 @@
+{
+    "thread": {
+        "uuid": "a0a52d242c1f480d07f7391b038be13bd4959e06",
+        "url": "https://www.newsbreak.com/news/4838312136389-man-sentenced-to-life-in-prison-for-deadly-shooting-outside-dekalb-county-gas-station",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/lithonia-ga",
+        "site_categories": [
+            "politics",
+            "crime, law and justice",
+            "social issue",
+            "arts, culture and entertainment",
+            "human interest",
+            "sport",
+            "economy, business and finance",
+            "under_construction",
+            "lifestyle and leisure",
+            "science and technology"
+        ],
+        "section_title": "Lithonia, GA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Man sentenced to life in prison for deadly shooting outside DeKalb County gas station - NewsBreak",
+        "title_full": "Man sentenced to life in prison for deadly shooting outside DeKalb County gas station - NewsBreak",
+        "published": "2026-08-19T22:44:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2Bz7AH_1EOBgpaW00",
+        "performance_score": 0,
+        "domain_rank": 3070,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a0a52d242c1f480d07f7391b038be13bd4959e06",
+    "url": "https://www.newsbreak.com/news/4838312136389-man-sentenced-to-life-in-prison-for-deadly-shooting-outside-dekalb-county-gas-station",
+    "ord_in_thread": 0,
+    "author": "Atlanta News First staff",
+    "published": "2026-08-19T22:44:00.000+03:00",
+    "title": "Man sentenced to life in prison for deadly shooting outside DeKalb County gas station - NewsBreak",
+    "text": "By Atlanta News First staff ,\n8 hours ago ATLANTA, Ga. (Atlanta News First) — A man was sentenced to life in prison for a deadly shooting outside a DeKalb County gas station last year, prosecutors announced Wednesday. On the morning of March 6, 2025, DeKalb County police were called to a Chevron on the 7000 block of... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.atlantanewsfirst.com/2026/08/19/man-sentenced-life-prison-deadly-shooting-outside-dekalb-county-gas-station/",
+        "https://atlantanewsfirst.com/2026/08/19/man-sentenced-life-prison-deadly-shooting-outside-dekalb-county-gas-station/",
+        "https://www.atlantanewsfirst.com/2026/08/19/man-sentenced-life-prison-deadly-shooting-outside-dekalb-county-gas-station"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "DeKalb County",
+                "sentiment": "none"
+            },
+            {
+                "name": "ATLANTA",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ga",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Atlanta News First",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Chevron",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "CVX",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Lithonia"
+            ],
+            "state": [
+                "Georgia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:47:24.029+03:00",
+    "updated": "2026-08-20T07:56:05.000+03:00"
+}

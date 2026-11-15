@@ -1,0 +1,171 @@
+{
+    "thread": {
+        "uuid": "e0618d7a39f020e2492a7cf5ac9227198f3f13d2",
+        "url": "https://www.newsbreak.com/gadget-review-324582152/4908114350571-netherlands-builds-linux-government-workplace-after-cloud-access-fears",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sitemap-news-34.xml",
+        "site_categories": [
+            "politics",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "sport",
+            "crime, law and justice"
+        ],
+        "section_title": "",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Netherlands Builds Linux Government Workplace After Cloud Access Fears - NewsBreak",
+        "title_full": "Netherlands Builds Linux Government Workplace After Cloud Access Fears - NewsBreak",
+        "published": "2026-09-25T20:14:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1j2mIl_1FVWkCEC00",
+        "performance_score": 0,
+        "domain_rank": 3126,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-09-27T12:48:08.458+03:00"
+        }
+    },
+    "uuid": "e0618d7a39f020e2492a7cf5ac9227198f3f13d2",
+    "url": "https://www.newsbreak.com/gadget-review-324582152/4908114350571-netherlands-builds-linux-government-workplace-after-cloud-access-fears",
+    "ord_in_thread": 0,
+    "author": "Annemarije de Boer",
+    "published": "2026-09-25T20:14:00.000+03:00",
+    "title": "Netherlands Builds Linux Government Workplace After Cloud Access Fears - NewsBreak",
+    "text": "By Annemarije de Boer ,\n1 days ago Image: Cybernews Reports that Microsoft access was cut for the ICC chief prosecutor intensified European concerns about dependence on U.S. technology . That widely cited episode gave governments a concrete example of what they had quietly feared: a foreign company, operating under foreign law, holds the keys to infrastructure that public institutions depend on every day.\nThe Dutch government’s structured response is DAWO , short for Digitaal Autonome Werkomgeving Overheid , or Digital Autonomous Government Work Environment. Eight municipalities are currently participating in a pilot through the Association of Netherlands Municipalities, according to Tweakers’ review of the project. This is not a nationwide Windows replacement; it is a test of whether one could exist.\nWhat DAWO Actually Is A full-stack rebuild, not just a different desktop wallpaper.\nDAWO’s scope covers the operating system, office software, collaboration tools, cloud storage, backups, and IT management systems, according to project documentation at code.overheid.nl and reporting by Tweakers. That is an attempt to reduce dependence on a broad proprietary ecosystem, not simply a question of which OS boots on government hardware.\nThe operating system layer is built on NixOS , a Linux distribution that uses declarative configuration. Administrators describe the desired system state in code, allowing systems to be built consistently and reproducibly from that description. For large government deployments, that kind of repeatability and auditability is an operational rationale, not a luxury.\nNo nationwide deployment timetable has been confirmed. Developers have discussed a version 1.0 milestone, but broader rollout depends on pilot results and community consensus, according to Tweakers.\nWhy Sovereignty Moved Up the Agenda When your cloud provider answers to someone else’s government, that is a policy problem.\nIn early 2025, U.S. sanctions connected to the International Criminal Court led to reports that Microsoft access was disrupted for the ICC chief prosecutor. Microsoft President Brad Smith later said the company did not cease or suspend services to the ICC as an institution, and the episode remains disputed. Dutch members of parliament nonetheless cited it as a reason to reduce dependence on U.S.-hosted cloud services, urging ministers to act , according to DutchNews.nl.\nThe strategic argument is narrower than a claim that Dutch government systems are about to be disconnected. If a foreign government’ s legal obligations can restrict access to tools that public institutions rely on, analysts argue that vulnerability belongs on a risk register.\nEurope Is Moving, but Not in Lockstep Similar direction, very different distances traveled.\nDenmark, France, and Switzerland have each taken steps toward Linux, LibreOffice, or broader open-source strategies, though the scope and commitment of those initiatives vary considerably. Presenting any of them as having completed a full Windows exit would overstate the available evidence.\nThe Dutch case is the most structurally documented of the current wave, and it remains a pilot.\nThe Real Obstacles Ahead Linux booting on a government PC is the easy part.\nAnticipated challenges include legacy application compatibility, Microsoft Office interoperability, staff training, hardware support, security accreditation, and the sustained cost of maintaining a complete alternative stack. A credible deployment will require ordinary civil servants to perform their jobs without meaningful productivity loss, not only a successful installation in a controlled test environment.\nSuccess at that scale could increase demand for European open-source support companies, sovereign cloud hosting, and Linux engineering talent. That outcome is a potential implication, not a measured result of the current pilot.\nWhat to Watch Next The pilot results will tell you more than the ambition does.\nMeaningful signals to track include a stable DAWO release, documented outcomes from the municipal pilots, application compatibility assessments, and evidence from public-sector employees using the system in daily work. Whether the project becomes a replicable model depends on what those results show.",
+    "summary": "By Annemarije de Boer , 1 days ago Image: Cybernews Reports that Microsoft access was cut for the ICC chief prosecutor intensified European concerns about dependence on U.S. technology . If a foreign government’ s legal obligations can restrict access to tools that public institutions rely on, analysts argue that vulnerability belongs on a risk register. Anticipated challenges include legacy application compatibility, Microsoft Office interoperability, staff training, hardware support, security accreditation, and the sustained cost of maintaining a complete alternative stack.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.gadgetreview.com/84-of-europeans-dont-trust-u-s-tech-companies-with-their-data",
+        "https://cybernews.com/tech/dutch-government-sovereignty/",
+        "https://img.particlenews.com/image.php?url=1j2mIl_1FVWkCEC00",
+        "https://www.gadgetreview.com/us-operatives-built-a-surveillance-app-to-target-alberta-separatists",
+        "https://dawo.community/en/",
+        "https://www.gadgetreview.com/europe-restricts-microsoft-amazon-and-google-from-handling-government-health-financial-and-legal-data",
+        "https://code.overheid.nl/MinBZK/DAWO-NixOS",
+        "https://www.gadgetreview.com/tech-leaders-warn-u-n-ai-is-risk-to-humanity-as-a-whole",
+        "https://tweakers.net/reviews/15334/nederland-maakt-soeverein-alternatief-voor-windows-en-office-op-basis-van-linux.html",
+        "https://www.politico.eu/article/microsoft-did-not-cut-services-international-criminal-court-president-american-sanctions-trump-tech-icc-amazon-google/",
+        "https://apnews.com/article/icc-trump-sanctions-karim-khan-court-a4b4c02751ab84c09718b1b95cbd5db3",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1j2mIl_1FVWkCEC00",
+        "https://www.dutchnews.nl/2025/05/mps-urge-ministers-to-take-action-and-end-us-cloud-reliance/",
+        "https://www.gadgetreview.com/microsofts-copilot-retreat-continues-office-now-lets-you-move-its-button-to-the-ribbon",
+        "https://administrator.de/forum/europas-digitalen-souveraenitaet-battle-678221.html",
+        "https://gadgetreview.com/microsofts-copilot-retreat-continues-office-now-lets-you-move-its-button-to-the-ribbon",
+        "https://www.img.particlenews.com/image.php?url=1j2mIl_1FVWkCEC00",
+        "https://img.particlenews.com/image.php",
+        "https://gadgetreview.com/europe-restricts-microsoft-amazon-and-google-from-handling-government-health-financial-and-legal-data",
+        "https://www.tweakers.net/reviews/15334/nederland-maakt-soeverein-alternatief-voor-windows-en-office-op-basis-van-linux.html",
+        "https://www.apnews.com/article/icc-trump-sanctions-karim-khan-court-a4b4c02751ab84c09718b1b95cbd5db3",
+        "https://www.politico.eu/article/microsoft-did-not-cut-services-international-criminal-court-president-american-sanctions-trump-tech-icc-amazon-google",
+        "https://www.dawo.community/en/",
+        "https://www.cybernews.com/tech/dutch-government-sovereignty/",
+        "https://cybernews.com/tech/dutch-government-sovereignty",
+        "https://www.administrator.de/forum/europas-digitalen-souveraenitaet-battle-678221.html",
+        "https://dawo.community/en",
+        "https://www.code.overheid.nl/MinBZK/DAWO-NixOS",
+        "https://politico.eu/article/microsoft-did-not-cut-services-international-criminal-court-president-american-sanctions-trump-tech-icc-amazon-google/",
+        "https://dutchnews.nl/2025/05/mps-urge-ministers-to-take-action-and-end-us-cloud-reliance/",
+        "https://gadgetreview.com/us-operatives-built-a-surveillance-app-to-target-alberta-separatists",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1j2mIl_1FVWkCEC00",
+        "https://gadgetreview.com/84-of-europeans-dont-trust-u-s-tech-companies-with-their-data",
+        "https://gadgetreview.com/tech-leaders-warn-u-n-ai-is-risk-to-humanity-as-a-whole",
+        "https://www.dutchnews.nl/2025/05/mps-urge-ministers-to-take-action-and-end-us-cloud-reliance"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Annemarije de Boer",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "U. S.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Netherlands",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "DAWO",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Microsoft",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "MSFT",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Digitaal Autonome Werkomgeving Overheid",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-27T12:48:08.458+03:00",
+    "updated": "2026-09-27T12:54:32.000+03:00",
+    "related_articles": null
+}

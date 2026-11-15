@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "70a6e60f3f7946257e0abca943bdb06cc9ffdc33",
+        "url": "https://www.newsbreak.com/news/4908129284373-nor-easter-gaining-strength-along-east-coast",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sitemap-news-34.xml",
+        "site_categories": [
+            "sport",
+            "economy, business and finance",
+            "under_construction",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "human interest",
+            "politics"
+        ],
+        "section_title": "",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Nor'easter gaining strength along East Coast - NewsBreak",
+        "title_full": "Nor'easter gaining strength along East Coast - NewsBreak",
+        "published": "2026-09-25T20:17:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1ROYrH_1FVXgvqg00",
+        "performance_score": 0,
+        "domain_rank": 3126,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-09-27T12:48:02.974+03:00"
+        }
+    },
+    "uuid": "70a6e60f3f7946257e0abca943bdb06cc9ffdc33",
+    "url": "https://www.newsbreak.com/news/4908129284373-nor-easter-gaining-strength-along-east-coast",
+    "ord_in_thread": 0,
+    "author": "UPI",
+    "published": "2026-09-25T20:17:00.000+03:00",
+    "title": "Nor'easter gaining strength along East Coast - NewsBreak",
+    "text": "By UPI ,\n1 days ago Sept. 25 (UPI) — A nor-easter is picking up steam on the East Coast on Friday, setting the stage for a stormy weekend with strong winds, rain and potential flooding. Boston and New York City can expect rain, wind and coastal flooding beginning Friday into early Saturday. The central East Coast is already feeling those strong winds with North Carolina and Virginia facing the threat of coastal floods and coastal erosion. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather forecast"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.breitbart.com/news/noreaster-gaining-strength-along-east-coast/amp/",
+        "https://www.breitbart.com/news/noreaster-gaining-strength-along-east-coast/amp",
+        "https://breitbart.com/news/noreaster-gaining-strength-along-east-coast/amp/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "New York City",
+                "sentiment": "none"
+            },
+            {
+                "name": "North Carolina",
+                "sentiment": "none"
+            },
+            {
+                "name": "East Coast",
+                "sentiment": "none"
+            },
+            {
+                "name": "Virginia",
+                "sentiment": "none"
+            },
+            {
+                "name": "Boston",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "UPI",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-27T12:48:02.974+03:00",
+    "updated": "2026-09-27T12:55:48.000+03:00",
+    "related_articles": null
+}

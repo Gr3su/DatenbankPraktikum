@@ -1,0 +1,115 @@
+{
+    "thread": {
+        "uuid": "064a90bf04e6453f82127b332461a16a6a939550",
+        "url": "https://www.ntd.com/ntdplus/sbi-agent-testifies-in-robinson-hearing_1158072.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://api.ntd.com/feed",
+        "site_categories": [
+            "architects",
+            "disaster and accident",
+            "economy, business and finance",
+            "war, conflict and unrest",
+            "crime, law and justice",
+            "media",
+            "real_estate",
+            "politics"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "SBI Agent Testifies in Robinson Hearing",
+        "title_full": "SBI Agent Testifies in Robinson Hearing",
+        "published": "2026-07-09T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2026/07/id1158141-GettyImages-2280589723.jpg-578x400.webp",
+        "performance_score": 0,
+        "domain_rank": 62868,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "064a90bf04e6453f82127b332461a16a6a939550",
+    "url": "https://www.ntd.com/ntdplus/sbi-agent-testifies-in-robinson-hearing_1158072.html",
+    "ord_in_thread": 0,
+    "author": "NTD Newsroom",
+    "published": "2026-07-09T06:59:00.000+03:00",
+    "title": "SBI Agent Testifies in Robinson Hearing",
+    "text": "SBI Agent Testifies in Robinson Hearing\nIt's day three of the preliminary hearing for Tyler Robinson, the man accused of assassinating Charlie Kirk. On Wednesday, prosecutors calling to the stand an agent with the Utah State Bureau of Invest...\nRead More",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide",
+        "Crime, Law and Justice->prosecution and prosecutors",
+        "Crime, Law and Justice->kidnapping"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tyler Robinson",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Charlie Kirk",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Utah State Bureau of Invest",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:21:08.390+03:00",
+    "updated": "2026-07-09T07:27:23.000+03:00"
+}

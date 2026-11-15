@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "74e5fdb0ccb652fe1a336de72f3affddb104e4c2",
+        "url": "https://www.newsbreak.com/news/4917902801245-the-art-of-developing-and-preserving-the-stockyards",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/fort-worth-tx",
+        "site_categories": [
+            "politics",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "human interest",
+            "science and technology",
+            "under_construction",
+            "crime, law and justice",
+            "sport"
+        ],
+        "section_title": "Fort Worth, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "The Art of Developing - and Preserving - the Stockyards - NewsBreak",
+        "title_full": "The Art of Developing - and Preserving - the Stockyards - NewsBreak",
+        "published": "2026-09-30T23:40:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0Qyei0_1FfO6e9700",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:14:10.349+03:00"
+        }
+    },
+    "uuid": "74e5fdb0ccb652fe1a336de72f3affddb104e4c2",
+    "url": "https://www.newsbreak.com/news/4917902801245-the-art-of-developing-and-preserving-the-stockyards",
+    "ord_in_thread": 0,
+    "author": "Brian Kendall",
+    "published": "2026-09-30T23:40:00.000+03:00",
+    "title": "The Art of Developing - and Preserving - the Stockyards - NewsBreak",
+    "text": "By Brian Kendall ,\n1 days ago Some wooden posts on a fence behind the Livestock Exchange don’t match. It’s in a location where few venture unless they’re lost or working for The Herd — the middle of Mule Alley this ain’t — but the low traffic isn’t stopping the mismatch from bugging the hell out of Kayla Wilkie-Kinne and Craig Cavileer on this rare overcast morning. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Arts, Culture and Entertainment",
+        "Environment"
+    ],
+    "topics": [
+        "Arts, Culture and Entertainment->culture",
+        "Arts, Culture and Entertainment->arts and entertainment",
+        "Environment->environmental clean-up",
+        "Environment->conservation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://fwtx.com/news/art-of-developing-stockyards-craig-cavileer/",
+        "https://fwtx.com/news/art-of-developing-stockyards-craig-cavileer",
+        "https://www.fwtx.com/news/art-of-developing-stockyards-craig-cavileer/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brian Kendall",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Kayla Wilkie - Kinne",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Craig Cavileer",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Mule Alley",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "The Herd",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Livestock Exchange",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:14:10.349+03:00",
+    "updated": "2026-10-02T07:17:50.000+03:00",
+    "related_articles": null
+}

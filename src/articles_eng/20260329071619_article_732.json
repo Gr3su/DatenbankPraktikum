@@ -1,0 +1,157 @@
+{
+    "thread": {
+        "uuid": "08b9f8eb38b5a7704933f919dcc84035f05afe73",
+        "url": "https://www.newsbreak.com/news/4548665015460-barry-bonds-reportedly-joins-netflix-as-mlb-analyst-for-2026-season",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/trending/top/analyst&",
+        "site_categories": [
+            "crime, law and justice",
+            "politics",
+            "economy, business and finance",
+            "under_construction",
+            "lifestyle and leisure",
+            "human interest",
+            "arts, culture and entertainment",
+            "sport"
+        ],
+        "section_title": "The latest analyst&amp; news, videos &amp; comments | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Barry Bonds reportedly joins Netflix as MLB analyst for 2026 season - NewsBreak",
+        "title_full": "Barry Bonds reportedly joins Netflix as MLB analyst for 2026 season - NewsBreak",
+        "published": "2026-03-19T20:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1au0WA_19lKr6rR00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "08b9f8eb38b5a7704933f919dcc84035f05afe73",
+    "url": "https://www.newsbreak.com/news/4548665015460-barry-bonds-reportedly-joins-netflix-as-mlb-analyst-for-2026-season",
+    "ord_in_thread": 0,
+    "author": "Chris Cwik",
+    "published": "2026-03-19T20:33:00.000+02:00",
+    "title": "Barry Bonds reportedly joins Netflix as MLB analyst for 2026 season - NewsBreak",
+    "text": "By Chris Cwik ,\n6 days ago MLB’s all-time home run leader is taking on a new post-career challenge. Former San Francisco Giants legend Barry Bonds is reportedly joining Netflix as a baseball analyst for the 2026 season, per Sports Media Watch. Bonds, 61, is expected to appear on pre- and post-game programs ahead of Netflix’s... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport",
+        "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+        "Sport->sports transaction",
+        "Sport->sport industry",
+        "Arts, Culture and Entertainment->television",
+        "Arts, Culture and Entertainment->mass media"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Barry Bonds",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Chris Cwik",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "MLB",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Netflix",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "NFLX",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "San Francisco Giants",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Sports Media Watch",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-26T07:34:16.935+02:00",
+    "updated": "2026-03-26T07:38:06.000+02:00"
+}

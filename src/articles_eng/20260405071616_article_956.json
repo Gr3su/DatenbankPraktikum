@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "79fad4d68d63de37f8da4edfd5c6f05da1e81de6",
+        "url": "https://www.newsbreak.com/masslive-com-513123/4571753820254-man-stabbed-in-worcester-suspect-in-custody",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/worcester-ma",
+        "site_categories": [
+            "politics",
+            "under_construction",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "sport",
+            "human interest",
+            "arts, culture and entertainment",
+            "crime, law and justice"
+        ],
+        "section_title": "Worcester, MA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Man stabbed in Worcester; Suspect in custody - NewsBreak",
+        "title_full": "Man stabbed in Worcester; Suspect in custody - NewsBreak",
+        "published": "2026-04-02T04:09:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/15hbt1_1A7bWz0Q00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "79fad4d68d63de37f8da4edfd5c6f05da1e81de6",
+    "url": "https://www.newsbreak.com/masslive-com-513123/4571753820254-man-stabbed-in-worcester-suspect-in-custody",
+    "ord_in_thread": 0,
+    "author": "Susannah Sudborough",
+    "published": "2026-04-02T04:09:00.000+03:00",
+    "title": "Man stabbed in Worcester; Suspect in custody - NewsBreak",
+    "text": "By Susannah Sudborough ,\n3 hours ago Worcester police arrested a suspect after a man was stabbed Wednesday afternoon, according to the police department. The man was stabbed on Wildwood Avenue, a Worcester police spokesperson said in an email. The victim was alive when he was taken to a hospital. It is unclear what condition the man who was stabbed is in as of Wednesday night. Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->assault"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Susannah Sudborough",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Worcester",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wildwood Avenue",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Worcester"
+            ],
+            "state": [
+                "Massachusetts"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-02T07:30:28.611+03:00",
+    "updated": "2026-04-02T07:33:07.000+03:00"
+}

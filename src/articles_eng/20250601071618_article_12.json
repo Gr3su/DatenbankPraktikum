@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "e009ae02238ef0304760b9e4becaf765ee7cd1f9",
+        "url": "https://floridapolitics.com/archives/735622-lawmakers-approve-bill-that-restricts-oil-activity-within-10-miles-of-big-bend-panhandle-shores",
+        "site_full": "floridapolitics.com",
+        "site": "floridapolitics.com",
+        "site_section": "https://www.floridapolitics.com",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics"
+        ],
+        "section_title": "Florida Politics",
+        "site_title": "Florida Politics",
+        "title": "Lawmakers approve bill that restricts oil activity within 10 miles of Big Bend, Panhandle shores",
+        "title_full": "Lawmakers approve bill that restricts oil activity within 10 miles of Big Bend, Panhandle shores",
+        "published": "2025-05-01T00:03:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://floridapolitics.com/wp-content/uploads/2022/01/Oil-Gulf-of-Mexico.jpeg",
+        "performance_score": 0,
+        "domain_rank": 9539,
+        "domain_rank_updated": "2025-04-22T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e009ae02238ef0304760b9e4becaf765ee7cd1f9",
+    "url": "https://floridapolitics.com/archives/735622-lawmakers-approve-bill-that-restricts-oil-activity-within-10-miles-of-big-bend-panhandle-shores",
+    "ord_in_thread": 0,
+    "author": "Drew Dixon",
+    "published": "2025-05-01T00:03:00.000+03:00",
+    "title": "Lawmakers approve bill that restricts oil activity within 10 miles of Big Bend, Panhandle shores",
+    "text": "The House has approved a bill that calls for limiting oil activity in certain environmentally sensitive areas of Florida.\nRepresentatives had already approved the measure, but had to revisit the bill ( HB 1143 ) after the Senate took up the issue last week . Senators adopted the House bill language, but added amendment language before approving it, kicking it back to the House for another review.\nThe House bill was sponsored by Rep. Jason Shoaf , a St. Joe Republican whose House District 7 includes multiple counties in the Big Bend area along the northern Gulf Coast.\n“When I filed the bill, the intent was to protect the Apalachicola Bay area. That is what this does,” Shoaf said, adding the main purpose of the measure was to prevent any repeat of the Deepwater Horizon oil spill in 2010.\n“Florida has some of the most beautiful coastlines, springs and rivers. We experienced an oil spill 15 years ago, I believe last week,” Shoaf said. “It became a real grassroots effort to prohibit this activity this close to an area of critical state concern, an area that the state is investing millions and millions (of dollars) trying to restore the oyster industry. I felt it was our duty to step in and stop this and protect this area.”\nSen. Corey Simon , a Tallahassee Republican, sponsored his own bill that called for limiting oil drilling and exploration in certain environmentally sensitive areas in his original measure ( SB 1300 ). But that bill called for an oil ban within 1 mile of shore.\nCritics charged that it should match the House bill that stipulates that oil activities can’t get closer than 10 miles of a national estuarine research reserve.\nSimon compared the two measures during debate on the Senate floor last week. The Senate approved the amendment to adopt the 10-mile range and adopted the House bill. But the Senate modified the measure to ensure it only applies to counties that are state-designated rural areas of opportunity.\nSome Representatives asked Shoaf Wednesday why the Senate amendment dropped protection of shores along Collier and St. Johns counties.\nShoaf said he didn’t know. Regardless, he said he’s focused on the northern Gulf shore regions and liked the bill as it was amended. Other House members agreed, and the measure was approved Wednesday.\nThe bill is now headed to Gov. Ron DeSantis for review.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Politics"
+    ],
+    "topics": [
+        "Environment->environmental pollution",
+        "Environment->energy resources",
+        "Environment->natural resources",
+        "Politics->government policy",
+        "Politics->environmental policy",
+        "Politics->regulation of industry"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.flsenate.gov/Session/Bill/2025/1300/?Tab=BillHistory",
+        "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=81818&SessionId=105",
+        "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx",
+        "https://flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=81818&SessionId=105",
+        "https://flsenate.gov/Session/Bill/2025/1300/?Tab=BillHistory",
+        "https://www.flsenate.gov/Session/Bill/2025/1300/"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jason Shoaf",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Apalachicola",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gulf Coast",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "House",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T00:10:19.431+03:00",
+    "updated": "2025-05-01T07:41:50.452+03:00"
+}

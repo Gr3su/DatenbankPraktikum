@@ -1,0 +1,150 @@
+{
+    "thread": {
+        "uuid": "c0a95abcda0346c3f53d91baa9a07ae3badeb9ae",
+        "url": "https://guardian.ng/news/south-africa-fg-delays-evacuation-flight-over-faulty-aircraft/",
+        "site_full": "guardian.ng",
+        "site": "guardian.ng",
+        "site_section": "https://news.google.com/search?q=over%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "crime, law and justice",
+            "social issue",
+            "economy, business and finance",
+            "media",
+            "politics"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+        "title": "South Africa: FG delays evacuation flight over faulty aircraft",
+        "title_full": "South Africa: FG delays evacuation flight over faulty aircraft",
+        "published": "2026-07-09T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "https://cdn.guardian.ng/wp-content/uploads/2026/01/Abike-Dabiri-Erewa.webp",
+        "performance_score": 0,
+        "domain_rank": 16111,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c0a95abcda0346c3f53d91baa9a07ae3badeb9ae",
+    "url": "https://guardian.ng/news/south-africa-fg-delays-evacuation-flight-over-faulty-aircraft/",
+    "ord_in_thread": 0,
+    "author": "Joel Oladele",
+    "published": "2026-07-09T07:00:00.000+03:00",
+    "title": "South Africa: FG delays evacuation flight over faulty aircraft",
+    "text": "Federal Government has postponed the fourth evacuation flight for stranded Nigerians in South Africa after a fault was detected on the aircraft scheduled for the operation.\nThe development was announced yesterday by the spokesperson for the Ministry of Foreign Affairs, Kimiebi Ebienfa, who said the flight could not depart Johannesburg after engineers discovered cracks on the cockpit windscreen.\nAccording to him, the affected aircraft was grounded as a safety precaution, while Air Peace has been directed to deploy another aircraft to complete the evacuation.\n“We have a situation in Johannesburg, South Africa regarding the operation of the fourth evacuation flight. The flight couldn’t take off because cracks were discovered on the windscreen in the cockpit. Air Peace will deploy another aircraft to South Africa later today to bring the returnees,” Ebienfa said, while apologising for the inconvenience caused by the delay.\nThe postponement comes barely a day after the Federal Government announced what it described as the final phase of its evacuation exercise for Nigerians stranded in South Africa amid renewed xenophobic attacks and growing security concerns.\nEarlier, the Minister of Foreign Affairs, Bianca Odumegwu-Ojukwu, had urged Nigerians who believed their lives were at risk to take advantage of the remaining evacuation flights, warning that the security situation in South Africa had shown no sign of improving.\nShe disclosed that the evacuation programme had been extended beyond the June 30 deadline earlier approved by President Bola Tinubu because of the continued attacks.\nThe minister said three evacuation operations had already been completed, while the fourth flight, initially scheduled to depart Johannesburg on Tuesday night with about 270 Nigerians, was expected to bring home another batch of returnees.\nDespite the delay, officials said another aircraft would be dispatched to Johannesburg to ensure the stranded Nigerians are evacuated as soon as possible.\nMEANWHILE, the Oodua Youth Coalition (OYC), a socio-cultural group, has threatened to stage peaceful picketing at MTN Nigeria offices nationwide over the company’s alleged failure to strongly condemn recent xenophobic attacks against Nigerians in South Africa.\nThe coalition said the planned action followed MTN Nigeria’s alleged failure to respond to its earlier letters and a seven-day ultimatum demanding a public position on the attacks.\nThe development comes despite comments by MTN Nigeria Chief Executive Officer Karl Toriola, who recently opposed calls to nationalise MTN Nigeria as part of retaliatory measures over xenophobic attacks on Nigerians in South Africa.\nIn a statement jointly signed yesterday by its Vice President, Olatunji Adejuwon, and National Secretary, Olaoye Abolaji, the OYC described MTN Nigeria’s silence as unacceptable, given the company’s South African roots and the patronage it enjoys from Nigerians.\nThe coalition said it would proceed with a peaceful protest if the telecommunications company continued to ignore its demands, stressing that the action was intended to draw attention to the need for corporate responsibility and moral leadership in condemning xenophobic attacks against fellow Africans.",
+    "summary": "The postponement comes barely a day after the Federal Government announced what it described as the final phase of its evacuation exercise for Nigerians stranded in South Africa amid renewed xenophobic attacks and growing security concerns. Earlier, the Minister of Foreign Affairs, Bianca Odumegwu-Ojukwu, had urged Nigerians who believed their lives were at risk to take advantage of the remaining evacuation flights, warning that the security situation in South Africa had shown no sign of improving.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->accident and emergency incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kimiebi Ebienfa",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "South Africa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Johannesburg",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FG",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Federal Government",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Air Peace",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Ministry of Foreign Affairs",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:30:02.809+03:00",
+    "updated": "2026-07-09T07:32:48.000+03:00"
+}

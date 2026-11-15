@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "84996dcce8cb0feb517bd48d0034e076bf7d8fd9",
+        "url": "https://www.ntd.com/ntdplus/us-air-force-flight-to-antarctica-turns-back-after-russian-warning_1167339.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://api.ntd.com/feed",
+        "site_categories": [
+            "economy, business and finance",
+            "disaster and accident",
+            "architects",
+            "science and technology",
+            "war, conflict and unrest",
+            "politics",
+            "health",
+            "real_estate",
+            "media",
+            "crime, law and justice"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "US Air Force Flight to Antarctica Turns Back After Russian Warning",
+        "title_full": "US Air Force Flight to Antarctica Turns Back After Russian Warning",
+        "published": "2026-08-20T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2019/01/antarctica-lakes-711x400.jpg",
+        "performance_score": 0,
+        "domain_rank": 66011,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "84996dcce8cb0feb517bd48d0034e076bf7d8fd9",
+    "url": "https://www.ntd.com/ntdplus/us-air-force-flight-to-antarctica-turns-back-after-russian-warning_1167339.html",
+    "ord_in_thread": 0,
+    "author": "NTD Newsroom",
+    "published": "2026-08-20T06:59:00.000+03:00",
+    "title": "US Air Force Flight to Antarctica Turns Back After Russian Warning",
+    "text": "Trailer10100:00/0:00US Air Force Flight to Antarctica Turns Back After Russian WarningAug-19-2026Officials say a U.S. Air Force flight to Antarctica turned back due to a missile warning from Russia.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->international military intervention",
+        "War, Conflict and Unrest->armed conflict"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Antarctica",
+                "sentiment": "none"
+            },
+            {
+                "name": "Russia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "U. S. Air Force",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:28:34.964+03:00",
+    "updated": "2026-08-20T07:36:19.000+03:00"
+}

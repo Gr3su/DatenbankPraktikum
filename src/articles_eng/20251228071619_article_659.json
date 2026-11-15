@@ -1,0 +1,113 @@
+{
+    "thread": {
+        "uuid": "eabada0c086c35939fabaca48260ca5f430c1ec7",
+        "url": "https://www.newsbreak.com/news/4402377954033-bkc-glance",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/trending/top/wilks-blasts-mayfield%26",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "The latest wilks blasts mayfield&amp; news, videos &amp; comments | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "College Basketball Games Scheduled",
+        "title_full": "College Basketball Games Scheduled",
+        "published": "2025-12-18T01:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "eabada0c086c35939fabaca48260ca5f430c1ec7",
+    "url": "https://www.newsbreak.com/news/4402377954033-bkc-glance",
+    "ord_in_thread": 0,
+    "author": "Sportradar",
+    "published": "2025-12-18T01:06:00.000+02:00",
+    "title": "College Basketball Games Scheduled",
+    "text": "• The Citadel at Charleston game is scheduled for 7 p.m.\n• Quinnipiac at Monmouth game is scheduled for 7 p.m.\n• Albany at Stony Brook game is scheduled for 7 p.m.\n• Campbell at Gonzaga game is scheduled for 9 p.m.\n• Jackson State vs. Hampton game is scheduled at College Park, Ga., for 5 p.m.\n• Radford at William & Mary game is scheduled for 7 p.m.\n• Hampton vs. Grambling State game is scheduled at College Park, Ga., for 5 p.m.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->regular competition",
+        "Sport->sport event",
+        "Sport->basketball"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": true,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Quinnipiac",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "William & Mary",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-25T07:39:49.376+02:00",
+    "updated": "2025-12-25T07:45:09.000+02:00"
+}

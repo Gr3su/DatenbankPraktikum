@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "fb6dfdb1f56c2914d8ab9516d8e45c0455dd93be",
+        "url": "https://arxiviq.substack.com/p/recirculation",
+        "site_full": "arxiviq.substack.com",
+        "site": "substack.com",
+        "site_section": "https://arxiviq.substack.com/feed",
+        "site_categories": [
+            "science and technology"
+        ],
+        "section_title": "ArXivIQ",
+        "site_title": "Substack",
+        "title": "Recirculation",
+        "title_full": "Recirculation",
+        "published": "2026-09-17T08:05:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://substackcdn.com/image/fetch/$s_!QlXU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa21c5848-056a-48bc-9457-1d987734e7f3_2497x1394.png",
+        "performance_score": 0,
+        "domain_rank": 452,
+        "domain_rank_updated": null,
+        "licensing_agency": [
+            "NLA"
+        ],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fb6dfdb1f56c2914d8ab9516d8e45c0455dd93be",
+    "url": "https://arxiviq.substack.com/p/recirculation",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-09-17T08:05:00.000+03:00",
+    "title": "Recirculation",
+    "text": "Authors: Michael C. Mozer, Shoaib Ahmed Siddiqui, Danny Sawyer, Sunny Sanyal, Rosanne Liu\nAffiliations: Google DeepMind, University of Texas at Austin\nPaper: https://arxiv.org/abs/2608.17981\nCode: N/A\nModel: N/A\nTL;DR\nWHAT was done? The authors introduce recirculation, an architectural intervention that converts standard feedforward transformers into dynamical systems at inference time by leaking a normalized fraction of deep-layer latent activations back into shallower layers at subsequent sequence steps without altering pretrained weights.\nWHY it matters? Standard feedforward transformers cannot perform arbitrary state tracking over extended sequences because state propagation is fundamentally bounded by depth. Recirculation provides a computationally cheap, training-free mechanism that exploits the linear alignment of the residual stream to maintain persistent belief states, producing marked perplexity improvements and downstream accuracy gains such as a 21% relative boost on GSM8k.\nExecutive summary: Modern large language models often struggle to keep track of evolving facts, conversational context, and shifting meanings because their underlying architecture calculates representations in a strictly feedforward manner across layers. To fix this, researchers typically resort to expensive architectural redesigns or fine-tuning. This work proves that existing, off-the-shelf foundation models already contain the internal representational alignment needed to support memory feedback loops. By recycling a small fraction of deep representations back into early layers as the model reads text, models exhibit significantly better contextual stability, problem-solving, and instruction adherence at inference time without requiring parameter retraining.\nDetails\nThe Depth-Bounded Horizon of Transformer State Tracking\nAutoregressive transformers process input sequences with remarkable parallel efficiency, yet their feedforward topology imposes a hard computational ceiling on state tracking. Theoretical analyses show that recognizing regular languages and resolving graph-connectivity problems require circuit depth that scales with sequence complexity, as formally bounded in Merrill and Sabharwal (2025) and discussed by Liu et al. (2026). In a standard transformer, every token’s representation can only be updated across L layers before generating an output. When a context demands tracking an evolving latent state—such as tracking game moves, theory-of-mind interactions, or resolving polysemous ambiguity—the representation of that state tends to migrate to the upper layers of the network. Because information cannot travel backward in depth, subsequent tokens in the sequence ingest shallow, uncontextualized embeddings that lack access to the deep semantic decisions made previously.\nThis architectural failure mode is vividly illustrated in Figure 1, where Gemini 2.5 Flash falls victim to a contextualization error. When Fred arrives at a river bank with fishing gear, deep layers resolve the ambiguous word “bank” into a river-edge concept. However, when subsequently prompted about the presence of an ATM, the initial processing stages for the new query only receive the uncontextualized lexical representation of “bank,” triggering an associative retrieval that hallucinates an automated teller machine next to a fishing spot. See also the authors’ previous work.\nAs depicted schematically in Figure 2a, the delayed disambiguation creates an internal race condition where token generation outpaces internal semantic convergence, an issue diagnosed through activation patching in the Racing Thoughts study by Lepori et al. (2025).\nWhile existing solutions attempt to remediate this via chain-of-thought generation or architectural looping, these paradigms either expand token budgets or remain confined to depth recurrence alone. As shown in Figure 2b, the core premise of recirculation is to bridge this temporal and spatial disconnect by projecting contextualized representations from deep layers back to shallow layers at the next step, allowing the network to operate as an evolving dynamical system.",
+    "summary": "The authors introduce recirculation, an architectural intervention that converts standard feedforward transformers into dynamical systems at inference time by leaking a normalized fraction of deep-layer latent activations back into shallower layers at subsequent sequence steps without altering pretrained weights. Recirculation provides a computationally cheap, training-free mechanism that exploits the linear alignment of the residual stream to maintain persistent belief states, producing marked perplexity improvements and downstream accuracy gains such as a 21% relative boost on GSM8k.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Science and Technology->information science",
+        "Science and Technology->scientific research",
+        "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://arxiv.org/abs/2503.03961",
+        "https://arxiv.org/abs/2608.17981",
+        "https://arxiv.org/abs/2410.02102",
+        "https://arxiv.org/abs/2507.12549",
+        "https://www.arxiv.org/abs/2503.03961",
+        "https://www.arxiv.org/abs/2608.17981",
+        "https://www.arxiv.org/abs/2410.02102",
+        "https://www.arxiv.org/abs/2507.12549"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Shoaib Ahmed Siddiqui",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Danny Sawyer",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Sunny Sanyal",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Michael C. Mozer",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Rosanne Liu Af",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "University of Texas at Austin",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Google DeepMind",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:13:01.076+03:00",
+    "updated": "2026-09-17T08:17:01.000+03:00"
+}

@@ -1,0 +1,158 @@
+{
+    "thread": {
+        "uuid": "089edbe91996dde6452dd0e8da58f57d16b04f68",
+        "url": "https://www.newsbreak.com/news/4743829780445-villanova-football-officially-joins-patriot-league-on-july-1",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/philadelphia-pa-sports",
+        "site_categories": [
+            "human interest",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "disaster and accident",
+            "arts, culture and entertainment",
+            "social issue",
+            "sport",
+            "under_construction",
+            "politics",
+            "economy, business and finance"
+        ],
+        "section_title": "Philadelphia, PA Sports and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Villanova Football Officially Joins Patriot League on July 1 - NewsBreak",
+        "title_full": "Villanova Football Officially Joins Patriot League on July 1 - NewsBreak",
+        "published": "2026-07-01T17:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2OamUU_1CszwREu00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "089edbe91996dde6452dd0e8da58f57d16b04f68",
+    "url": "https://www.newsbreak.com/news/4743829780445-villanova-football-officially-joins-patriot-league-on-july-1",
+    "ord_in_thread": 0,
+    "author": "villanova.com",
+    "published": "2026-07-01T17:00:00.000+03:00",
+    "title": "Villanova Football Officially Joins Patriot League on July 1 - NewsBreak",
+    "text": "14 hours ago VILLANOVA, Pa.—A new era has officially arrived for Villanova Football as the Wildcats join the Patriot League as an associate member. The conference affiliation, which was announced on June 5, 2025, is effective today (July 1) and Villanova is set to play its inaugural season in the Patriot League this Fall. The season opener at home against William & Mary on August 28 will mark the Patriot League debut for both teams. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->american football"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://villanova.com/news/2026/7/1/villanova-football-officially-joins-patriot-league-on-july-1.aspx",
+        "https://www.villanova.com/news/2026/7/1/villanova-football-officially-joins-patriot-league-on-july-1.aspx"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Pa",
+                "sentiment": "none"
+            },
+            {
+                "name": "VILLANOVA",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Villanova",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Wildcats",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Patriot League",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "William & Mary",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:30:41.615+03:00",
+    "updated": "2026-07-02T07:32:28.000+03:00"
+}

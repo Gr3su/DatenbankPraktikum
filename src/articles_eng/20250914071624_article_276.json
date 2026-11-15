@@ -1,0 +1,162 @@
+{
+    "thread": {
+        "uuid": "2fa8b6b4c25ded3c5bd8c2132c707d2b6241fb40",
+        "url": "https://www.news18.com/business/real-estate/rbi-acquires-4-6-acre-nariman-point-land-from-mmrcl-for-rs-3472-crore-9564071.html",
+        "site_full": "www.news18.com",
+        "site": "news18.com",
+        "site_section": "https://www.news18.com/commonfeeds/v1/eng/rss/text.xml",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Text News in news18.com, Text Latest News, Text News",
+        "site_title": "News: Get Latest News Today, Breaking News, Top News Headlines, India and World News | News18",
+        "title": "RBI Acquires 4.6-Acre Nariman Point Land From MMRCL For Rs 3,472 Crore | Real Estate News - News18",
+        "title_full": "RBI Acquires 4.6-Acre Nariman Point Land From MMRCL For Rs 3,472 Crore | Real Estate News - News18",
+        "published": "2025-09-11T06:45:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.news18.com/ibnlive/uploads/2025/09/Chhatrapati-Shivaji-Terminus-in-Mumbai-10-2025-09-b6a5a9495c20ec02113b22ff13389584-16x9.jpg",
+        "performance_score": 1,
+        "domain_rank": 2068,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 13,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2fa8b6b4c25ded3c5bd8c2132c707d2b6241fb40",
+    "url": "https://www.news18.com/business/real-estate/rbi-acquires-4-6-acre-nariman-point-land-from-mmrcl-for-rs-3472-crore-9564071.html",
+    "ord_in_thread": 0,
+    "author": "@cnnnews18",
+    "published": "2025-09-11T06:45:00.000+03:00",
+    "title": "RBI Acquires 4.6-Acre Nariman Point Land From MMRCL For Rs 3,472 Crore | Real Estate News - News18",
+    "text": "The Reserve Bank of India (RBI) has bought a 4.61-acre land parcel at Nariman Point in South Mumbai from the Mumbai Metro Rail Corporation Ltd (MMRCL) for ₹3,472 crore, in what is among the largest land transactions in India this year, The Economic Times reported. The prime plot lies close to Mantralaya, the Bombay High Court, and several corporate headquarters, reinforcing its long-term institutional value. According to ET, MMRCL had initially planned to auction the land through a global tender, as first reported by the publication in October last year. It was set to be the first-ever auction of land in Nariman Point since its emergence as a planned commercial district in the 1970s. However, the tender was cancelled after the central bank expressed interest in January to expand its headquarters. The deal, registered on September 5, also attracted stamp duty of over ₹208 crore, according to documents accessed via CRE Matrix. For RBI, the purchase represents a significant expansion of its real estate footprint in Mumbai, where it already owns its Mint Road headquarters and other properties. The newly acquired site is expected to be developed for institutional purposes, strengthening the central bank’s presence in India’s financial hub. ET noted that MMRCL, tasked with developing metro projects in Mumbai, has been monetising land parcels in south and central Mumbai to fund the city’s metro expansion. Despite the rise of newer business hubs such as Bandra-Kurla Complex and Lower Parel, property consultants told ET that the scale and location of the RBI deal highlight Nariman Point’s enduring premium in Mumbai’s commercial real estate market.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business financing",
+        "Economy, Business and Finance->construction and property",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->construction and property",
+        "Politics->economic policy",
+        "Politics->regulation of industry",
+        "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Nariman Point",
+                "sentiment": "none"
+            },
+            {
+                "name": "South",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reserve Bank of India",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Mumbai Metro Rail Corporation Ltd",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Bombay High Court",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Economic Times",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-11T07:24:58.303+03:00",
+    "updated": "2025-09-12T08:05:14.000+03:00"
+}

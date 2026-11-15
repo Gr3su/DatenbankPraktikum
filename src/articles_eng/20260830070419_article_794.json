@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "9bc8b4bd027c13aba31e0084b049c2ca70ab0252",
+        "url": "https://tass.com/economy/2178131",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/rss/v2.xml",
+        "site_categories": [
+            "media",
+            "politics",
+            "science and technology",
+            "war, conflict and unrest",
+            "economy, business and finance"
+        ],
+        "section_title": "TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Russia adds over 100 mln carats to diamond reserves since start of year",
+        "title_full": "Russia adds over 100 mln carats to diamond reserves since start of year",
+        "published": "2026-08-27T07:05:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260827/1484765.jpg",
+        "performance_score": 0,
+        "domain_rank": 13468,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9bc8b4bd027c13aba31e0084b049c2ca70ab0252",
+    "url": "https://tass.com/economy/2178131",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-08-27T07:05:00.000+03:00",
+    "title": "Russia adds over 100 mln carats to diamond reserves since start of year",
+    "text": "MOSCOW, August 27. /TASS/. Russia’s diamond reserves increased by more than 100 mln carats in the first half of the year, while platinum group metal reserves grew by more than 12 metric tons, and gold reserves - by nearly 180 metric tons, head of Rosnedra Oleg Kazanov told TASS in an interview ahead of the Eastern Economic Forum (EEF).\n\"As a result, significant reserve additions were recorded for a number of major solid minerals: 102.4 mln carats of diamonds, 12.1 metric tons of platinum group metals, 176.6 metric tons of gold, 1,400 metric tons of silver, 340,000 metric tons of copper, 273,100 metric tons of zinc, 48,800 metric tons of lead, 133.3 mln metric tons of iron ore, 163.4 mln metric tons of coal, among others,\" he said.\nKazanov noted that reserve additions are driven not only, or even primarily, by new deposits but by additional geological exploration and the reassessment of existing deposits.",
+    "summary": "MOSCOW, August 27. /TASS/. Russia’s diamond reserves increased by more than 100 mln carats in the first half of the year, while platinum group metal reserves grew by more than 12 metric tons, and gold reserves - by nearly 180 metric tons, head of Rosnedra Oleg Kazanov told TASS in an interview ahead of the Eastern Economic Forum (EEF).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Oleg Kazanov",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Russia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "EEF",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Rosnedra",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "TASS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TAS",
+                        "exchange": "KLSE"
+                    }
+                ]
+            },
+            {
+                "name": "Eastern Economic Forum",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:33:34.927+03:00",
+    "updated": "2026-08-27T07:41:22.000+03:00"
+}

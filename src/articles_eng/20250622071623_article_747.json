@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "9249d7997e6cd987d2cbf45eddf4e775a68d48db",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4058740881121-special-weather-statement-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Special Weather Statement by NWS - NewsBreak",
+        "title_full": "Special Weather Statement by NWS - NewsBreak",
+        "published": "2025-06-19T01:19:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1Dx5HM_11vgOwHV00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9249d7997e6cd987d2cbf45eddf4e775a68d48db",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4058740881121-special-weather-statement-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-06-19T01:19:00.000+03:00",
+    "title": "Special Weather Statement by NWS - NewsBreak",
+    "text": "Check NWS updates here At 1018 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 6 miles southeast of Greenway to near Arbyrd to near Monette to near Lake City to Greenfield. Movement was east at 50 mph. HAZARD...Wind gusts up to 50 mph and half inch hail. SOURCE...Radar indicated. IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to vegetation is possible. Locations impacted include... Dyersburg, Blytheville, Kennett, Osceola, Trumann, Caruthersville, Gosnell, Manila, Hayti, Steele, Lake City, Leachville, Bay, Senath, Monette, Caraway, Luxora, Keiser, Reelfoot Lake State Park, and Tiptonville.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Disaster and Accident->emergency response",
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.cc0c390ad972bee3d86e36e5cdec67f2dcd9f060.001.1",
+        "https://alerts.weather.gov/search",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.cc0c390ad972bee3d86e36e5cdec67f2dcd9f060.001.1"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Monette",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gosnell",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Reelfoot Lake State Park",
+                "sentiment": "none"
+            },
+            {
+                "name": "Caruthersville",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tiptonville",
+                "sentiment": "none"
+            },
+            {
+                "name": "Greenway",
+                "sentiment": "none"
+            },
+            {
+                "name": "Osceola",
+                "sentiment": "none"
+            },
+            {
+                "name": "Arbyrd",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hayti",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Dyersburg",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:32:35.285+03:00",
+    "updated": "2025-06-19T04:36:44.000+00:00"
+}

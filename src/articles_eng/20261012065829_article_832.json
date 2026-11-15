@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "a0b0d7159c04f9c6de9c72ea3c187125ce7e923a",
+        "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+        "site_full": "www.coindesk.com",
+        "site": "coindesk.com",
+        "site_section": "https://www.coindesk.com/de/tech",
+        "site_categories": [
+            "science and technology",
+            "politics",
+            "economy, business and finance",
+            "finance"
+        ],
+        "section_title": "Technologie | CoinDesk",
+        "site_title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
+        "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+        "title_full": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+        "published": "2026-10-09T07:21:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?auto=format&amp;fit=crop&amp;crop=focalpoint&amp;w=1200&amp;h=675&amp;q=75",
+        "performance_score": 0,
+        "domain_rank": 3920,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:28:42.681+03:00"
+        }
+    },
+    "uuid": "a0b0d7159c04f9c6de9c72ea3c187125ce7e923a",
+    "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+    "ord_in_thread": 0,
+    "author": "Shaurya Malwa",
+    "published": "2026-10-09T07:21:00.000+03:00",
+    "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+    "text": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds\nThe feature lets businesses give separate accounts limited powers such as approving customers or making payments, while keeping the keys that control their main holdings offline.\nMake preferred on\nMake preferred on\n- The XRP Ledger activated PermissionDelegationV1_1 on Oct. 8, allowing account owners to authorize other accounts to perform specific tasks without sharing their primary keys.\n- The feature lets businesses enforce divisions between functions such as payments and compliance, though each delegated account is limited by action type rather than a spending cap.\n- Users are advised not to delegate the PaymentBurn permission until a separate fix activates because a flaw could allow helpers to create issued tokens instead of only destroying them.\nThe XRP Ledger switched on a feature late Thursday that lets an account owner give another account permission to do specific jobs without handing over the keys that control the account.\nThe feature, called PermissionDelegationV1_1, activated on Oct. 8, according to monitoring site XRPL Dashboard. Upgrades require more than 80% support from trusted validators, the operators who confirm transactions, for two straight weeks. With the current list of 35, that means at least 29 supporters.\nDelegation’s countdown reset in September after support slipped below that level, as CoinDesk reported.\nBusinesses making routine crypto transactions need signing keys available throughout the day, but keeping keys with broad powers on an internet-connected computer increases the damage a hacker could cause if that computer is compromised.\nA concept called delegation lets them divide that authority by job. A stablecoin issuer can allow a compliance account to approve new customers while keeping its main keys offline. The helper signs with its own keys, can perform only the actions it has been granted, and the owner can change or withdraw those permissions.\nEach helper can receive up to 10 permissions. These restrict the kinds of actions it can perform, rather than automatically imposing a spending cap.\nBanks already separate payment and compliance duties among staff. The upgrade gives businesses a way to make those divisions enforceable on the ledger itself. coindesk.com\nThe network held an average of $3.72 billion in tokenized assets and $539 million in Ripple’s RLUSD stablecoin during the second quarter, according to a report shared with CoinDesk by Evernorth, an XRP treasury company. Together, those balances amounted to about $4.26 billion.\nRead More: XRP Ledger retries upgrade that lets banks split payment and compliance duties\nMeanwhile, official guidance tells users not to delegate PaymentBurn, which is intended to let a helper destroy tokens, until a separate fix activates. Under certain conditions, that permission also allows the helper to create new tokens. The warning concerns tokens issued on the ledger, rather than newly minted XRP. Other granular permissions are unaffected.\nDevelopers are also looking at a bug in how some XRP Ledger servers keep score during these votes. A report filed on Oct. 8 found that some servers can drop a validator from their count after it changes a routine security key, even though it is still online and voting.\nA server that loses track of two validators would measure support against 33 instead of 35, which can make a proposal look closer to passing on that server’s count than it really is. A proposed patch would have servers identify validators by a permanent ID instead, and is still under review.\nThe fix for the PaymentBurn issue had 27 of 35 validator votes on Friday. It needs 29 to start the two-week countdown that would lift the warning.\nAs stablecoins move into regulated finance, APAC is becoming a key proving ground. This report maps the region’s rules, use cases, and RLUSD’s role.\nAs stablecoins move into regulated finance, APAC is becoming a key proving ground. This report maps the region’s rules, use cases, and RLUSD’s role.\nWhy it matters:\nAs stablecoins move into regulated finance, APAC is becoming a key proving ground. This report maps the region’s rules, use cases, and RLUSD’s role.",
+    "summary": "- The feature lets businesses enforce divisions between functions such as payments and compliance, though each delegated account is limited by action type rather than a spending cap. - Users are advised not to delegate the PaymentBurn permission until a separate fix activates because a flaw could allow helpers to create issued tokens instead of only destroying them. A stablecoin issuer can allow a compliance account to approve new customers while keeping its main keys offline.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->biotechnology",
+        "Science and Technology->economics",
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://github.com/XRPLF/rippled/pull/8540",
+        "https://xrpl.org/resources/known-amendments#permissiondelegationv1_1",
+        "https://xrpldashboard.com/amendments",
+        "https://www.google.com/preferences/source?q=coindesk.com",
+        "https://github.com/XRPLF/rippled/issues/8534",
+        "https://www.github.com/XRPLF/rippled/pull/8540",
+        "https://www.xrpldashboard.com/amendments",
+        "https://www.google.com/preferences/source",
+        "https://www.github.com/XRPLF/rippled/issues/8534",
+        "https://google.com/preferences/source?q=coindesk.com",
+        "https://www.xrpl.org/resources/known-amendments#permissiondelegationv1_1"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F180ecf8b7c2aaa497fc6db7e248f390a35171717-2400x1254.png%3Fauto%3Dformat&w=1200&q=75",
+        "https://www.coindesk.com/images/bg/brand-squares.png",
+        "https://www.coindesk.com/images/bg/dots-grid.png",
+        "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fa0a7940835c9275731c2adf69015343cc4a850ac-1024x683.jpg%3Frect%3D0%2C54%2C1024%2C576%26w%3D1920%26h%3D1080%26auto%3Dformat&w=1200&q=75",
+        "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg%3Frect%3D0%2C316%2C6016%2C3384%26w%3D1920%26h%3D1080%26auto%3Dformat&w=1200&q=75",
+        "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Ff849c0a9167b7c6ad26a634f02b3fd8630fb848f-3287x1944.jpg%3Frect%3D0%2C48%2C3287%2C1849%26w%3D1920%26h%3D1080%26auto%3Dformat&w=1200&q=75",
+        "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Faf945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg%3Frect%3D0%2C300%2C5760%2C3240%26w%3D1920%26h%3D1080%26auto%3Dformat&w=1200&q=75"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "XRP Ledger",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:28:42.681+03:00",
+    "updated": "2026-10-09T07:36:24.000+03:00",
+    "related_articles": null
+}

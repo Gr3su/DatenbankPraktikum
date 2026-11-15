@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "47fad3367c0bf170595784b0a6488c5e5aaa33e5",
+        "url": "https://www.news18.com/cities/new-delhi-news/delhi-aqi-breaches-300-mark-in-several-areas-likely-to-remain-very-poor-till-december-13-ws-l-9763061.html",
+        "site_full": "www.news18.com",
+        "site": "news18.com",
+        "site_section": "https://news.google.com/search?q=very%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "News: Get Latest News Today, Breaking News, Top News Headlines, India and World News | News18",
+        "title": "Delhi AQI Breaches 300 Mark In Several Areas, Likely To Remain 'Very Poor' Till December 13 | New-delhi-news News - News18",
+        "title_full": "Delhi AQI Breaches 300 Mark In Several Areas, Likely To Remain 'Very Poor' Till December 13 | New-delhi-news News - News18",
+        "published": "2025-12-11T07:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.news18.com/ibnlive/uploads/2025/11/newdelhiaqitoday-2025-11-57d72653f73d2104f7574b4c5cf108a0-16x9.jpg",
+        "performance_score": 0,
+        "domain_rank": 3556,
+        "domain_rank_updated": "2025-12-07T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "47fad3367c0bf170595784b0a6488c5e5aaa33e5",
+    "url": "https://www.news18.com/cities/new-delhi-news/delhi-aqi-breaches-300-mark-in-several-areas-likely-to-remain-very-poor-till-december-13-ws-l-9763061.html",
+    "ord_in_thread": 0,
+    "author": "News Desk",
+    "published": "2025-12-11T07:37:00.000+02:00",
+    "title": "Delhi AQI Breaches 300 Mark In Several Areas, Likely To Remain 'Very Poor' Till December 13 | New-delhi-news News - News18",
+    "text": "After two-three days of respite, Delhi air quality has begun to deteriorate again. On Thursday, the air quality of recorded in the ‘poor’ category with an AQI reading of 288, according to the Central Pollution Control Board (CPCB). Visuals showed a thin layer of smog covering parts of the city and limiting visibility. As per the data by central government’s Air Quality Early Warning System for Delhi, the air quality in the national capital will remain ‘very poor’ between December 11 and 13. Several monitoring stations across the city reported pollution levels in the ‘poor’ category. At 8 am, Aya Nagar recorded an AQI of 246, Burari 295, Dwarka 289, and Lodhi Road 233. In Anand Vihar and Delhi Cantonment, pollution levels were significantly higher, with the AQI reaching 302, placing it in the ‘Very Poor’ category. Other key stations, including Ashok Vihar (332), Bawana (335), ITO Delhi (310), Chandani Chowk (309), and Alipur (315), also remained in the ‘very poor’ category, underscoring the widespread pollution across Delhi. As per the CPCB, an AQI between zero and 50 is considered ‘good’, 51 to 100 ‘satisfactory’, 101 to 200 ‘moderate’, 201 to 300 ‘poor’, 301 to 400 ‘very poor’ and 401 to 500 ‘severe’. Delhi Weather Today The IMD has forecasted mainly clear skies on Thursday, followed by shallow to moderate fog on Friday and Saturday. On the weather front, the minimum temperature settled at 8.6 degrees Celsius, which is 1.0 degree below the season’s average, while the maximum temperature is expected to be around 24 degrees Celsius. The relative humidity was 91 per cent at 8.30 am, the IMD said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather statistic"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Chandani Chowk",
+                "sentiment": "none"
+            },
+            {
+                "name": "Anand Vihar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ashok Vihar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Aya Nagar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dwarka",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Central Pollution Control Board",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-11T07:43:26.355+02:00",
+    "updated": "2025-12-12T08:05:21.000+02:00"
+}

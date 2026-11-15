@@ -1,0 +1,117 @@
+{
+    "thread": {
+        "uuid": "9268397fb88625d30783989b0419203e4086f37d",
+        "url": "https://www.foxnews.com/video/6401259969112",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://moxie.foxnews.com/google-publisher/videos.xml",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "sport",
+            "media",
+            "politics",
+            "social issue"
+        ],
+        "section_title": "The Latest &amp; Breaking Videos on Fox News",
+        "site_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "President Donald Trump: Iran has freed detained American citizen",
+        "title_full": "President Donald Trump: Iran has freed detained American citizen",
+        "published": "2026-07-16T06:34:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5726f98-f6ab-46ee-95ab-14c96227a91f/988727cc-d337-48de-af85-228bf88d19f8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+        "performance_score": 0,
+        "domain_rank": 505,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9268397fb88625d30783989b0419203e4086f37d",
+    "url": "https://www.foxnews.com/video/6401259969112",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-07-16T06:34:00.000+03:00",
+    "title": "President Donald Trump: Iran has freed detained American citizen",
+    "text": "Log in to comment on videos and join in on the fun.\nWatch the live stream of Fox News and full episodes.\nReduce eye strain and focus on the content that matters.\n'Fox News @ Night' has the latest on the commander-in-chief's announcement on the Middle East conflict.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Iran",
+                "sentiment": "none"
+            },
+            {
+                "name": "Middle East",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Fox News @ Night",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_us",
+            "top_news"
+        ],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:16:48.477+03:00",
+    "updated": "2026-07-16T07:52:05.000+03:00"
+}

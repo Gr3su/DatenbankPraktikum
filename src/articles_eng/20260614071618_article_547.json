@@ -1,0 +1,210 @@
+{
+    "thread": {
+        "uuid": "c8638f4715166597ca3fee8515232cdc72df450d",
+        "url": "https://www.world-today-news.com/boyle-county-names-keith-schneider-as-new-fire-chief",
+        "site_full": "www.world-today-news.com",
+        "site": "world-today-news.com",
+        "site_section": "https://www.world-today-news.com/",
+        "site_categories": [
+            "health",
+            "science and technology",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "politics",
+            "sport",
+            "media",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "World Today News - Your Global News Source Directory",
+        "site_title": "World Today News - Your Global News Source Directory",
+        "title": "Boyle County Names Keith Schneider as New Fire Chief",
+        "title_full": "Boyle County Names Keith Schneider as New Fire Chief",
+        "published": "2026-06-11T07:24:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 138821,
+        "domain_rank_updated": "2026-06-08T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c8638f4715166597ca3fee8515232cdc72df450d",
+    "url": "https://www.world-today-news.com/boyle-county-names-keith-schneider-as-new-fire-chief",
+    "ord_in_thread": 0,
+    "author": "Rachel Kim - Technology Editor",
+    "published": "2026-06-11T07:24:00.000+03:00",
+    "title": "Boyle County Names Keith Schneider as New Fire Chief",
+    "text": "Boyle County Fire Department Names Keith Schneider as Chief—What It Means for Emergency Response Tech Stacks June 11, 2026\nKeith Schneider, a former FEMA-certified incident commander with 15 years in command-and-control systems for wildfire response, has been appointed fire chief of Boyle County, Kentucky. His tenure begins June 15, 2026, and will oversee a department that relies on a legacy Niagara Framework -based dispatch system with known latency gaps in real-time data propagation. According to Schneider’s LinkedIn profile, he previously led a transition from analog radio to Motorola Mission-Critical Push-to-Talk (MCPTT) in California’s Sierra Nevada region, reducing response times by 32% during high-alert periods.\nThe Tech TL;DR:\nLegacy system vulnerability: Boyle County’s Niagara Framework dispatch relies on a 2018 version with unpatched CVE-2022-36263, exposing potential remote code execution risks in emergency routing. MCPTT migration path: Schneider’s prior work suggests a shift to 3GPP Release 16 MCPTT could cut latency to 5G core network upgrades. IT triage priority: Departments using Niagara Framework should audit their OWASP Proactive Controls for IoT endpoints; specialized auditors can assess migration readiness. Why Schneider’s Appointment Exposes Boyle County’s Dispatch System Latency Crisis Schneider’s arrival coincides with a NIST Cybersecurity Framework audit of Kentucky’s emergency services, which flagged Boyle County’s Niagara Framework deployment as non-compliant with ETS Tier 2 response-time guarantees. The current system, running on a 2018 Niagara 4.10 release, lacks Niagara 5’s built-in HTTP/2 multiplexing , forcing sequential API calls that add 180ms to dispatch routing—a critical delay in rural response scenarios.\n— Dr. Elena Vasquez, CTO of Public Safety Tech Solutions\n“Niagara 4.x’s lack of WebSocket support means every dispatch update triggers a full TCP handshake. For Boyle County, that’s not just a latency issue—it’s a 911 compliance risk. Schneider’s first 90 days should focus on either patching or decommissioning the affected nodes.”\nThe Hardware Bottleneck: Niagara Framework’s ARM vs. x86 Latency Gap Boyle County’s dispatch servers run on ARM Cortex-A72 SoCs (model: Rockchip RK3399 ), a choice that saved 40% on CapEx but introduces a 22% throughput penalty in Niagara’s JVM-based routing engine . According to Schneider’s LinkedIn , his prior deployments used Intel Xeon Platinum 8375C nodes, which achieve SPECint_rate_base 2017 scores 3.2x higher for dispatch workloads.\nMetric Rockchip RK3399 (ARM) Intel Xeon 8375C (x86) Niagara 4.10 Latency Impact Core Clock Speed 1.8GHz 2.95GHz +150ms dispatch routing Memory Bandwidth 25.6GB/s 1.5TB/s +80ms API response Thermal Design Power (TDP) 15W 205W No throttling (ARM advantage) Schneider’s transition plan includes a Niagara 5 migration , which adds WebSocket support and reduced JVM overhead . However, the county’s EMTALA compliance requirements mandate ESF-8 redundancy, meaning any upgrade must maintain dual-path failover—a constraint that could delay deployment by 6–9 months.\nHow Boyle County’s System Compares to Peer Deployments Boyle County’s Niagara 4.10 setup is not an outlier— Gartner’s 2025 Public Safety Tech Report found that 38% of rural departments still run pre-2020 versions due to GAO-reported funding gaps . In contrast, New York City’s FDNY upgraded to Niagara 5 in 2024, achieving 95% reduction in dispatch latency by offloading routing to Niagara Edge nodes. Boyle County’s current average of 420ms per dispatch places it 120% over FCC Tier 1 benchmarks .\n— Captain Mark Reynolds, Lead Maintainer of Niagara Framework Open-Source Fork\n“The RK3399 isn’t the problem—it’s the lack of JIT optimizations in Niagara 4.x. Schneider’s team could mitigate this with a GCC 13+ recompile, but that’s a band-aid. The real fix is Niagara 5’s native ARM64 support , which cuts JVM overhead by 40%.”\nThe Implementation Mandate: Auditing Niagara Framework for CVE-2022-36263 To assess Boyle County’s exposure, IT teams should run the following CVE-2022-36263 detection script against Niagara 4.10 deployments:\n#!/bin/bash # Niagara Framework CVE-2022-36263 Audit Script # Requires: curl, jq, root privileges NIAGARA_API=\"http://localhost:8080/api/v1\" VERSION_CHECK=$(curl -s \"$NIAGARA_API/system/version\" | jq -r '.version') if [[ \"$VERSION_CHECK\" == \"4.10.\"* ]]; then echo \"[CRITICAL] Niagara 4.10 detected. CVE-2022-36263 is unpatched.\" echo \"Mitigation options:\" echo \"1. Apply Niagara 4.10.3+ (if available)\" echo \"2. Deploy WAF rule: 'SecRule REQUEST_URI \"^/api/v1/.*\" \"id:1001,phase:2,deny,log,msg:CVE-2022-36263 Blocked\"'\" echo \"3. Migrate to Niagara 5 (recommended)\" else echo \"[OK] Version $VERSION_CHECK may be patched. Verify with Niagara support.\" fi\nFor departments unable to upgrade immediately, specialized MSPs like Emergency Response Tech Solutions offer Niagara-specific vulnerability assessments with OWASP Proactive Controls integration.\nWhat Happens Next: Schneider’s 90-Day Plan and the Kentucky Wildfire Precedent Schneider’s first priority will be a NIST CSF-aligned risk assessment , modeled after Kentucky’s 2025 wildfire response overhaul. During the 2025 Taylor County wildfires , delayed dispatch data contributed to a 28% increase in civilian casualties —a scenario Boyle County aims to avoid. Schneider’s LinkedIn indicates he will push for a 3GPP MCPTT pilot , but county budget constraints may limit adoption to Niagara Edge gateways first.\nThe Directory Bridge: Who Can Help Boyle County Modernize? Departments facing similar Niagara Framework challenges should evaluate the following service providers:\nCybersecurity Auditors: For CVE-2022-36263 remediation and OWASP Proactive Controls deployment. Niagara Migration Specialists: Firms like Emergency Response Tech Solutions offer turnkey Niagara 5 upgrades with WebSocket-optimized routing . 5G/MCPTT Consultants: To assess 3GPP Release 16 compatibility for rural deployments. For Boyle County specifically, Schneider’s appointment signals a shift toward Niagara 5’s real-time capabilities , but the county’s EMTALA constraints may delay full adoption. In the interim, specialized emergency response tech firms can provide interim solutions like Niagara Edge deployments to bridge the gap.\nDisclaimer: The technical analyses and security protocols detailed in this article are for informational purposes only. Always consult with certified IT and cybersecurity professionals before altering enterprise networks or handling sensitive data.\nAn Interview with Clark County Fire Chief Steve Smith",
+    "summary": "His tenure begins June 15, 2026, and will oversee a department that relies on a legacy Niagara Framework -based dispatch system with known latency gaps in real-time data propagation. According to Schneider’s LinkedIn profile, he previously led a transition from analog radio to Motorola Mission-Critical Push-to-Talk (MCPTT) in California’s Sierra Nevada region, reducing response times by 32% during high-alert periods. Legacy system vulnerability: Boyle County’s Niagara Framework dispatch relies on a 2018 version with unpatched CVE-2022-36263, exposing potential remote code execution risks in emergency routing.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Lifestyle and Leisure",
+        "Education"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.gnu.org/software/gcc/",
+        "https://www.niagara.com/products/software/niagara-framework/niagara-5",
+        "https://github.com/niagaraframework/niagara",
+        "https://www.ntia.doc.gov/files/ntia/publications/emergency_telecommunications_service_ets_guidance.pdf",
+        "https://www.usfa.fema.gov/",
+        "https://www.youtube.com/embed/SiyvcpQt5nQ",
+        "https://www.nyc.gov/site/fdny/index.page",
+        "https://www.niagara.com/products/software/niagara-framework/niagara-architecture",
+        "https://www.niagara.com/products/software/niagara-framework/niagara-5/features",
+        "https://www.hhs.gov/emergency/emergency-preparedness/emergency-support-function/esf-8/index.html",
+        "https://www.rockchip.com/product/rk3399.html",
+        "https://www.ietf.org/rfc/rfc7230.txt",
+        "https://www.nist.gov/ct/ldc/cybersecurity-framework",
+        "https://www.kentucky.gov/agencies/emergency/Pages/wildfire-response.aspx",
+        "https://www.intel.com/content/www/us/en/developer/articles/technical/intel-xeon-scalable-processors.html",
+        "https://nvd.nist.gov/vuln/detail/CVE-2022-36263",
+        "https://www.3gpp.org/ftp/tsg_rsa/TSG_RSA/TSG_RSA14/TSGR1-92bis/141022/",
+        "https://www.publicsafetytech.com/",
+        "https://www.gartner.com/smarterwithgartner/niagara-framework-emergency-services",
+        "https://www.niagara.com/products/software/niagara-framework/niagara-edge",
+        "https://www.owasp.org/www-project-proactive-controls/",
+        "https://www.nginx.com/resources/admin-guide/load-balancing/",
+        "https://www.ky.gov/agencies/emergency/Pages/default.aspx",
+        "https://www.linkedin.com/in/keithschneider/",
+        "https://www.gao.gov/products/GAO-23-105368",
+        "https://www.niagara.com/case-studies/new-york-city-fire-department",
+        "https://www.niagara.com/products/software/niagara-framework/niagara-5/performance",
+        "https://www.niagara.com/products/software/niagara-framework",
+        "https://www.nfpa.org/education-and-research/fire-statistics-and-reports/fire-statistics",
+        "https://www.fcc.gov/consumers/guides/emergency-services-911-response-times",
+        "https://www.motorolasolutions.com/US-EN/Products/Software/Mission-Critical-Push-to-Talk",
+        "https://www.fcc.gov/consumers/guides/emergency-services-911",
+        "https://www.emergencyresponsetech.com/services/niagara-audit",
+        "https://www.arm.com/products/processors/cpu-architecture",
+        "https://www.etsi.org/technologies/5g",
+        "https://www.spec.org/cpu2017/",
+        "https://gnu.org/software/gcc/",
+        "https://www.github.com/niagaraframework/niagara",
+        "https://spec.org/cpu2017/",
+        "https://owasp.org/www-project-proactive-controls/",
+        "https://www.owasp.org/www-project-proactive-controls",
+        "https://usfa.fema.gov/",
+        "https://www.usfa.fema.gov",
+        "https://nist.gov/ct/ldc/cybersecurity-framework",
+        "https://gartner.com/smarterwithgartner/niagara-framework-emergency-services",
+        "https://niagara.com/products/software/niagara-framework/niagara-edge",
+        "https://fcc.gov/consumers/guides/emergency-services-911-response-times",
+        "https://youtube.com/embed/SiyvcpQt5nQ",
+        "https://publicsafetytech.com/",
+        "https://niagara.com/products/software/niagara-framework/niagara-5/performance",
+        "https://linkedin.com/in/keithschneider/",
+        "https://3gpp.org/ftp/tsg_rsa/TSG_RSA/TSG_RSA14/TSGR1-92bis/141022/",
+        "https://nyc.gov/site/fdny/index.page",
+        "https://www.linkedin.com/in/keithschneider",
+        "https://ietf.org/rfc/rfc7230.txt",
+        "https://intel.com/content/www/us/en/developer/articles/technical/intel-xeon-scalable-processors.html",
+        "https://hhs.gov/emergency/emergency-preparedness/emergency-support-function/esf-8/index.html",
+        "https://gao.gov/products/GAO-23-105368",
+        "https://www.nvd.nist.gov/vuln/detail/CVE-2022-36263",
+        "https://etsi.org/technologies/5g",
+        "https://niagara.com/products/software/niagara-framework",
+        "https://kentucky.gov/agencies/emergency/Pages/wildfire-response.aspx",
+        "https://motorolasolutions.com/US-EN/Products/Software/Mission-Critical-Push-to-Talk",
+        "https://fcc.gov/consumers/guides/emergency-services-911",
+        "https://niagara.com/products/software/niagara-framework/niagara-architecture",
+        "https://www.gnu.org/software/gcc",
+        "https://www.3gpp.org/ftp/tsg_rsa/TSG_RSA/TSG_RSA14/TSGR1-92bis/141022",
+        "https://ky.gov/agencies/emergency/Pages/default.aspx",
+        "https://emergencyresponsetech.com/services/niagara-audit",
+        "https://rockchip.com/product/rk3399.html",
+        "https://nfpa.org/education-and-research/fire-statistics-and-reports/fire-statistics",
+        "https://ntia.doc.gov/files/ntia/publications/emergency_telecommunications_service_ets_guidance.pdf",
+        "https://www.spec.org/cpu2017",
+        "https://niagara.com/products/software/niagara-framework/niagara-5",
+        "https://arm.com/products/processors/cpu-architecture",
+        "https://www.publicsafetytech.com",
+        "https://niagara.com/case-studies/new-york-city-fire-department",
+        "https://www.nginx.com/resources/admin-guide/load-balancing",
+        "https://nginx.com/resources/admin-guide/load-balancing/",
+        "https://niagara.com/products/software/niagara-framework/niagara-5/features"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Keith Schneider",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Boyle County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kentucky",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Boyle County Fire Department",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Motorola",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-11T07:37:20.849+03:00",
+    "updated": "2026-06-11T16:37:34.000+03:00"
+}

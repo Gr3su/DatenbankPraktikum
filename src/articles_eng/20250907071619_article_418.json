@@ -1,0 +1,122 @@
+{
+    "thread": {
+        "uuid": "f4436e0a48367553924879dc24f80389e8a0d19f",
+        "url": "https://www.newsbreak.com/news/4213349027624-lake-drawdown-to-begin-sept-22",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sandpoint-id",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Sandpoint, ID Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Lake drawdown to begin Sept. 22 - NewsBreak",
+        "title_full": "Lake drawdown to begin Sept. 22 - NewsBreak",
+        "published": "2025-09-04T05:40:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f4436e0a48367553924879dc24f80389e8a0d19f",
+    "url": "https://www.newsbreak.com/news/4213349027624-lake-drawdown-to-begin-sept-22",
+    "ord_in_thread": 0,
+    "author": "Ben Olson",
+    "published": "2025-09-04T05:40:00.000+03:00",
+    "title": "Lake drawdown to begin Sept. 22 - NewsBreak",
+    "text": "Sandpoint Reader\nwebsite\nClark Fork\nLake drawdown to begin Sept. 22\nBy Ben Olson,\n1 hours agoLake Pend Oreille will remain at summer pool elevation — 2,062-2,062.5 feet — through Sunday, Sept. 21, with the gradual fall drawdown to begin Monday, Sept. 22. The U.S. Army Corps of Engineers set a target of 2,060-2061 feet by Sept. 30 and 2,051-2,051.5 feet no later than Nov. 15.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Environment",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Environment->natural resources",
+        "Environment->water",
+        "Environment->environmental clean-up",
+        "Economy, Business and Finance->energy and resource",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->utilities",
+        "Social Issue->social condition",
+        "Social Issue->social services",
+        "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ben Olson",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "U.S. Army Corps of Engineers",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Sandpoint"
+            ],
+            "state": [
+                "Idaho"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-04T07:26:47.286+03:00",
+    "updated": "2025-09-04T07:30:47.000+03:00"
+}

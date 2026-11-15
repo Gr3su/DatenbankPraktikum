@@ -1,0 +1,151 @@
+{
+    "thread": {
+        "uuid": "51c4234bac1e2744c2b532297722194da184cf9a",
+        "url": "https://www.newsbreak.com/news/4593380081689-blackwell-high-school-senior-pages-for-pfeiffer",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/ponca-city-ok",
+        "site_categories": [
+            "crime, law and justice",
+            "politics",
+            "under_construction",
+            "sport",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Ponca City, OK Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Blackwell High School senior pages for Pfeiffer - NewsBreak",
+        "title_full": "Blackwell High School senior pages for Pfeiffer - NewsBreak",
+        "published": "2026-04-15T17:05:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1Af5z9_1ATOMlWS00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "51c4234bac1e2744c2b532297722194da184cf9a",
+    "url": "https://www.newsbreak.com/news/4593380081689-blackwell-high-school-senior-pages-for-pfeiffer",
+    "ord_in_thread": 0,
+    "author": "kaynewscow.com",
+    "published": "2026-04-15T17:05:00.000+03:00",
+    "title": "Blackwell High School senior pages for Pfeiffer - NewsBreak",
+    "text": "14 hours ago OKLAHOMA CITY – Bodie Jeffries, a senior at Blackwell High School, served as a page for Rep. John Pfeiffer, R-Orlando, from April 6-9 at the Oklahoma State Capitol. Bodie is the son of Justin and Heather Jeffries of Newkirk. The Oklahoma House Page Program offers current high school juniors... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Education"
+    ],
+    "topics": [
+        "Education->school",
+        "Education->students"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bodie",
+                "sentiment": "negative"
+            },
+            {
+                "name": "John Pfeiffer",
+                "sentiment": "none"
+            },
+            {
+                "name": "Justin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Heather Jeffries",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Orlando",
+                "sentiment": "none"
+            },
+            {
+                "name": "Newkirk",
+                "sentiment": "none"
+            },
+            {
+                "name": "Oklahoma State Capitol",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Blackwell High School",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Ponca City"
+            ],
+            "state": [
+                "Oklahoma"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:30:56.682+03:00",
+    "updated": "2026-04-16T07:34:02.000+03:00"
+}

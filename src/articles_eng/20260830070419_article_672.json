@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "e8d6628f26071dc279685b1eac7c6fbaf5d09084",
+        "url": "https://www.newsbreak.com/news/4851271074017-this-is-our-safe-place-fire-destroys-home-of-weslaco-family-of-6",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/mcallen-tx",
+        "site_categories": [
+            "crime, law and justice",
+            "under_construction",
+            "social issue",
+            "science and technology",
+            "sport",
+            "human interest",
+            "politics",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "McAllen, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "'This is our safe place': Fire destroys home of Weslaco family of 6 - NewsBreak",
+        "title_full": "'This is our safe place': Fire destroys home of Weslaco family of 6 - NewsBreak",
+        "published": "2026-08-26T19:42:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0ZDcMQ_1EbFJq2B00",
+        "performance_score": 0,
+        "domain_rank": 3157,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e8d6628f26071dc279685b1eac7c6fbaf5d09084",
+    "url": "https://www.newsbreak.com/news/4851271074017-this-is-our-safe-place-fire-destroys-home-of-weslaco-family-of-6",
+    "ord_in_thread": 0,
+    "author": "Armando Gomez",
+    "published": "2026-08-26T19:42:00.000+03:00",
+    "title": "'This is our safe place': Fire destroys home of Weslaco family of 6 - NewsBreak",
+    "text": "By Armando Gomez ,\n11 hours ago A Weslaco family of six lost their home and all their belongings in a fire that destroyed a house they had lived in for nearly 40 years. The Monday fire destroyed the home on Flores Street near Sugarcane Drive. What's left of the home is a giant hole in the... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->fire"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.krgv.com/news/this-is-our-safe-place-fire-destroys-home-of-weslaco-family-of-6",
+        "https://krgv.com/news/this-is-our-safe-place-fire-destroys-home-of-weslaco-family-of-6"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Weslaco",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Armando Gomez",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Flores Street",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sugarcane Drive",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "McAllen"
+            ],
+            "state": [
+                "Texas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:29:36.776+03:00",
+    "updated": "2026-08-27T07:32:52.000+03:00"
+}

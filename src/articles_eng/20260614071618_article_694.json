@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "f1623f201102f34208e19f9f991a71da25902d88",
+        "url": "https://www.newsbreak.com/news/4703672574209-spokane-city-councilmembers-introduce-ordinance-to-impose-data-center-moratorium",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/spokane-wa",
+        "site_categories": [
+            "crime, law and justice",
+            "human interest",
+            "disaster and accident",
+            "arts, culture and entertainment",
+            "politics",
+            "under_construction",
+            "economy, business and finance",
+            "sport",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Spokane, WA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Spokane city councilmembers introduce ordinance to impose data center moratorium - NewsBreak",
+        "title_full": "Spokane city councilmembers introduce ordinance to impose data center moratorium - NewsBreak",
+        "published": "2026-06-11T02:34:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2OneOz_1CEWkoOu00",
+        "performance_score": 0,
+        "domain_rank": 2951,
+        "domain_rank_updated": "2026-06-08T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f1623f201102f34208e19f9f991a71da25902d88",
+    "url": "https://www.newsbreak.com/news/4703672574209-spokane-city-councilmembers-introduce-ordinance-to-impose-data-center-moratorium",
+    "ord_in_thread": 0,
+    "author": "KREM",
+    "published": "2026-06-11T02:34:00.000+03:00",
+    "title": "Spokane city councilmembers introduce ordinance to impose data center moratorium - NewsBreak",
+    "text": "5 hours ago SPOKANE, Wash. — On Wednesday, Spokane City Councilmembers introduced an ordinance imposing an immediate one-year citywide moratorium on the acceptance, processing, review and approval of building permit applications for the construction of new computer data centers after Avista confirmed Tuesday that a project to build a data center is in the early development stages. Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.krem.com/article/news/local/spokane-city-councilmembers-ordinance-data-center-moratorium/293-df18e317-e4c3-43fd-9718-adce5ac7eb87",
+        "https://krem.com/article/news/local/spokane-city-councilmembers-ordinance-data-center-moratorium/293-df18e317-e4c3-43fd-9718-adce5ac7eb87"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Wash",
+                "sentiment": "none"
+            },
+            {
+                "name": "Spokane",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Avista",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "AVA",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Spokane",
+                "Spokane Valley"
+            ],
+            "state": [
+                "Washington"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-11T07:39:39.295+03:00",
+    "updated": "2026-06-11T14:08:52.000+03:00"
+}

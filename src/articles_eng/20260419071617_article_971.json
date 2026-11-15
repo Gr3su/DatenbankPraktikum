@@ -1,0 +1,114 @@
+{
+    "thread": {
+        "uuid": "a3a0eccdf795a4032e56b64bcdb029917358d718",
+        "url": "https://tass.com/science/2117875",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/rss/v2.xml",
+        "site_categories": [
+            "media",
+            "economy, business and finance",
+            "war, conflict and unrest",
+            "politics"
+        ],
+        "section_title": "TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "ISS orbit raised by 440 meters - Roscosmos",
+        "title_full": "ISS orbit raised by 440 meters - Roscosmos",
+        "published": "2026-04-16T06:41:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 14623,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a3a0eccdf795a4032e56b64bcdb029917358d718",
+    "url": "https://tass.com/science/2117875",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-04-16T06:41:00.000+03:00",
+    "title": "ISS orbit raised by 440 meters - Roscosmos",
+    "text": "MOSCOW, April 16. /TASS/. The International Space Station’s (ISS) orbit has been raised by 440 meters, the Russian state space corporation Roscosmos said.\n\"Today, at 5:34 a.m. Moscow time (02:34 a.m. GMT), engines of the Progress MS-32 cargo spaceship, which is docked to the International Space Station, were switched on for 303 seconds and generated a 0.25 m/s impulse. As a result, the station’s orbit altitude was raised by 440 meter, to 420.09 kilometers above Earth surface,\" it said.\nAccording to Roscosmos, the orbit adjustment maneuver was carried out to create ballistic conditions for the arrival of the Soyuz MS-29 and landing the Soyuz MS-28.\nThe current ISS crew are Roscosmos cosmonauts Sergey Kud-Sverchkov (a TASS’ special correspondent), Sergey Mikayev, and Andrey Fedyaev, NASA astronauts Christopher Williams, Jessica Meir, and Jack Hathaway, and European Space Agency astronaut Sophie Adenot .",
+    "summary": "The International Space Station’s (ISS) orbit has been raised by 440 meters, the Russian state space corporation Roscosmos said. \"Today, at 5:34 a.m. Moscow time (02:34 a.m. GMT), engines of the Progress MS-32 cargo spaceship, which is docked to the International Space Station, were switched on for 303 seconds and generated a 0.25 m/s impulse. As a result, the station’s orbit altitude was raised by 440 meter, to 420.09 kilometers above Earth surface,\" it said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->aerospace engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "International Space Station",
+                "sentiment": "none"
+            },
+            {
+                "name": "Earth",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Roscosmos",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "a3a0eccdf795a4032e56b64bcdb029917358d718",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:45:39.199+03:00",
+    "updated": "2026-04-16T07:48:50.000+03:00"
+}

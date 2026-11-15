@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "caa7419f330dcd4e48a7b03d4082fb15184a9d3d",
+        "url": "https://www.chinadaily.com.cn/a/202511/27/WS6927e050a310d6866eb2bb30.html",
+        "site_full": "www.chinadaily.com.cn",
+        "site": "chinadaily.com.cn",
+        "site_section": "https://news.google.com/search?q=about%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "media",
+            "travel",
+            "japan"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "China Daily Website - Connecting China Connecting the World",
+        "title": "Shenzhen Fire Department dismisses speculation about cross-border assistance - Chinadaily.com.cn",
+        "title_full": "Shenzhen Fire Department dismisses speculation about cross-border assistance - Chinadaily.com.cn",
+        "published": "2025-11-27T07:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "http://img2.chinadaily.com.cn/images/202511/27/6927e050a310d68600f3192e.jpeg",
+        "performance_score": 0,
+        "domain_rank": 2555,
+        "domain_rank_updated": "2025-11-23T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "caa7419f330dcd4e48a7b03d4082fb15184a9d3d",
+    "url": "https://www.chinadaily.com.cn/a/202511/27/WS6927e050a310d6866eb2bb30.html",
+    "ord_in_thread": 0,
+    "author": "global.chinadaily.com.cn",
+    "published": "2025-11-27T07:23:00.000+02:00",
+    "title": "Shenzhen Fire Department dismisses speculation about cross-border assistance - Chinadaily.com.cn",
+    "text": "The Shenzhen Fire Department has confirmed that the assembly of fire vehicles at Liantang Port was part of a routine readiness drill exercise, dismissing online speculation about cross-border assistance, Shenzhen Evening News reported on Thursday morning.\nThe clarification came after social media users noted multiple fire engines gathering near the port on Wednesday night, coinciding with a severe residential fire at Wang Fuk Court, a residential area in Tai Po of the Hong Kong Special Administrative Region.\nThe Shenzhen fire brigade has not been deployed to assist Hong Kong, it reported.\nThe Hong Kong Fire Services Department also confirmed on Wednesday that no request for assistance from the mainland had been made.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arson",
+        "Crime, Law and Justice->law enforcement",
+        "Disaster and Accident->emergency response",
+        "Disaster and Accident->fire"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Liantang Port",
+                "sentiment": "none"
+            },
+            {
+                "name": "Special Administrative Region",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Shenzhen Fire Department",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Hong Kong Fire Services Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Wang Fuk Court",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "caa7419f330dcd4e48a7b03d4082fb15184a9d3d",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-11-27T07:31:03.471+02:00",
+    "updated": "2025-11-27T07:35:09.000+02:00"
+}

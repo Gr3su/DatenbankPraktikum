@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "c520e40e0ce90bd3ae4fa48ac735fc33be3b12f5",
+        "url": "https://www.newsbreak.com/news/4690328283677-domestic-disturbance-leads-to-manhunt-for-man-and-woman-in-pulaski-county",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/blacksburg-va",
+        "site_categories": [
+            "under_construction",
+            "economy, business and finance",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "human interest",
+            "sport",
+            "politics",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Blacksburg, VA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Domestic disturbance leads to manhunt for man and woman in Pulaski County - NewsBreak",
+        "title_full": "Domestic disturbance leads to manhunt for man and woman in Pulaski County - NewsBreak",
+        "published": "2026-06-04T03:35:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0zhuxn_1C14egGT00",
+        "performance_score": 0,
+        "domain_rank": 2981,
+        "domain_rank_updated": "2026-06-01T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c520e40e0ce90bd3ae4fa48ac735fc33be3b12f5",
+    "url": "https://www.newsbreak.com/news/4690328283677-domestic-disturbance-leads-to-manhunt-for-man-and-woman-in-pulaski-county",
+    "ord_in_thread": 0,
+    "author": "WDBJ7 Staff",
+    "published": "2026-06-04T03:35:00.000+03:00",
+    "title": "Domestic disturbance leads to manhunt for man and woman in Pulaski County - NewsBreak",
+    "text": "By WDBJ7 Staff ,\n3 hours ago PULASKI COUNTY, Va. (WDBJ) - Pulaski County emergency officials are asking people in the Fairlawn area to shelter in place Wednesday night as they search for a man and a woman. The emergency manager confirmed there is a large police presence in an area from Madison Street north to Brooklyn... Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->assault"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Pulaski County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Madison Street",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fairlawn",
+                "sentiment": "none"
+            },
+            {
+                "name": "Brooklyn",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "WDBJ",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Blacksburg"
+            ],
+            "state": [
+                "Virginia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-04T07:21:03.083+03:00",
+    "updated": "2026-06-04T07:27:53.000+03:00"
+}

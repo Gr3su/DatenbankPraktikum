@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "0e9e8d0da03ebf5cec578efc30f7b54951930cea",
+        "url": "https://local.newsbreak.com/news/4961362777138-crews-contain-large-fire-near-downtown-huntington-teen-arrested",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/converse-in",
+        "site_categories": [
+            "sport",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "politics",
+            "crime, law and justice"
+        ],
+        "section_title": "Converse, IN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Crews contain large fire near downtown Huntington; teen arrested - NewsBreak",
+        "title_full": "Crews contain large fire near downtown Huntington; teen arrested - NewsBreak",
+        "published": "2026-10-21T07:18:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/096afN_1GMAxsVJ00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T07:09:43.336+03:00"
+        }
+    },
+    "uuid": "0e9e8d0da03ebf5cec578efc30f7b54951930cea",
+    "url": "https://local.newsbreak.com/news/4961362777138-crews-contain-large-fire-near-downtown-huntington-teen-arrested",
+    "ord_in_thread": 0,
+    "author": "Clayton McMahan",
+    "published": "2026-10-21T07:18:00.000+03:00",
+    "title": "Crews contain large fire near downtown Huntington; teen arrested - NewsBreak",
+    "text": "By Clayton McMahan Lydia Reuille ,\n1 days ago HUNTINGTON COUNTY, Ind. (WANE) — Tuesday night’s large fire west of downtown Huntington has been contained, and a teenager was arrested following an overnight investigation. The fire happened around 6:10 p.m. at 238 Polk St. near downtown Huntington. The first responding firefighters found heavy smoke coming from the... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->arson"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wane.com/top-stories/crews-respond-to-large-fire-near-downtown-huntington/amp/",
+        "https://wane.com/top-stories/crews-respond-to-large-fire-near-downtown-huntington/amp/",
+        "https://www.wane.com/top-stories/crews-respond-to-large-fire-near-downtown-huntington/amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Clayton McMahan",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Lydia Reuille",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Huntington",
+                "sentiment": "none"
+            },
+            {
+                "name": "Polk St",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Converse"
+            ],
+            "state": [
+                "Indiana"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:09:43.336+03:00",
+    "updated": "2026-10-23T07:12:07.000+03:00",
+    "related_articles": null
+}

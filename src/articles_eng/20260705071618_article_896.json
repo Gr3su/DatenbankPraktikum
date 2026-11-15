@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "9cc1cb870df4a18841b243fe3c75206aef700823",
+        "url": "https://www.newsbreak.com/news/4744567556553-dls-installs-ledmax-cinema-screen-at-icon-cinemas",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/ratcliff-ar",
+        "site_categories": [
+            "lifestyle and leisure",
+            "under_construction",
+            "disaster and accident",
+            "human interest",
+            "sport",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "arts, culture and entertainment",
+            "social issue"
+        ],
+        "section_title": "Ratcliff, AR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "DLS Installs LEDMax Cinema Screen at Icon Cinemas - NewsBreak",
+        "title_full": "DLS Installs LEDMax Cinema Screen at Icon Cinemas - NewsBreak",
+        "published": "2026-07-01T16:33:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3sAlpj_1Ctjlzsm00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9cc1cb870df4a18841b243fe3c75206aef700823",
+    "url": "https://www.newsbreak.com/news/4744567556553-dls-installs-ledmax-cinema-screen-at-icon-cinemas",
+    "ord_in_thread": 0,
+    "author": "digitalcinemareport.com",
+    "published": "2026-07-01T16:33:00.000+03:00",
+    "title": "DLS Installs LEDMax Cinema Screen at Icon Cinemas - NewsBreak",
+    "text": "15 hours ago Digital Light Sources has installed a DCI-compliant 10-meter 4K Cine LEDMax Cinema LED Screen by Lopu Tech with a 2.5mm pixel pitch at the Icon 14 Plex VIP Cinemas in Fort Smith, Arkansas. “We are thrilled to support this milestone as Icon Cinemas embraces Lopu Tech’s most advanced and future-ready... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+        "Arts, Culture and Entertainment->cinema"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.digitalcinemareport.com/dls-installs-ledmax-cinema-screen-at-icon-cinemas/",
+        "https://www.digitalcinemareport.com/dls-installs-ledmax-cinema-screen-at-icon-cinemas",
+        "https://digitalcinemareport.com/dls-installs-ledmax-cinema-screen-at-icon-cinemas/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Fort Smith",
+                "sentiment": "none"
+            },
+            {
+                "name": "Arkansas",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "DLS",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Digital Light Sources",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Lopu Tech",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Icon Cinemas",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Ratcliff"
+            ],
+            "state": [
+                "Arkansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:48:50.411+03:00",
+    "updated": "2026-07-02T07:50:57.000+03:00"
+}

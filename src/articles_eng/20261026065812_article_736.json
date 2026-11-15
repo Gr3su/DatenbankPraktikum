@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "475ff845e0cb91a4ba9f89ef29af8d8f9aeff384",
+        "url": "https://www.newsbreak.com/news/4961497865622-60-year-old-passenger-dies-after-mustang-jeep-collide-in-hempstead",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/oyster-bay-ny",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "politics",
+            "sport",
+            "under_construction",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice"
+        ],
+        "section_title": "Oyster Bay, NY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "60-Year-Old Passenger Dies After Mustang, Jeep Collide in Hempstead - NewsBreak",
+        "title_full": "60-Year-Old Passenger Dies After Mustang, Jeep Collide in Hempstead - NewsBreak",
+        "published": "2026-10-22T21:04:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1Ktr3w_1GMJX7Oy00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T07:24:03.264+03:00"
+        }
+    },
+    "uuid": "475ff845e0cb91a4ba9f89ef29af8d8f9aeff384",
+    "url": "https://www.newsbreak.com/news/4961497865622-60-year-old-passenger-dies-after-mustang-jeep-collide-in-hempstead",
+    "ord_in_thread": 0,
+    "author": "Holden Draper",
+    "published": "2026-10-22T21:04:00.000+03:00",
+    "title": "60-Year-Old Passenger Dies After Mustang, Jeep Collide in Hempstead - NewsBreak",
+    "text": "By Holden Draper ,\n10 hours ago Long Beach Rd. & Windsor Pkwy. — Reported Intersection of Fatal Collision. A 60-year-old man riding in a Ford Mustang was killed after the car collided with a Jeep Wrangler at the intersection of Long Beach Road and Windsor Parkway in Hempstead. The passenger, who has not been publicly identified, was pronounced dead at a hospital, while both drivers survived with only minor injuries. Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://hoodline.com/2026/10/60-year-old-passenger-dies-after-mustang-jeep-collide-in-hempstead/?utm=newsbreak",
+        "https://hoodline.com/2026/10/60-year-old-passenger-dies-after-mustang-jeep-collide-in-hempstead/",
+        "https://www.hoodline.com/2026/10/60-year-old-passenger-dies-after-mustang-jeep-collide-in-hempstead/?utm=newsbreak"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsad.38f2c935.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Holden Draper",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Hempstead",
+                "sentiment": "none"
+            },
+            {
+                "name": "Long Beach Rd",
+                "sentiment": "none"
+            },
+            {
+                "name": "Long Beach Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Windsor Pkwy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Windsor Parkway",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Oyster Bay Cove"
+            ],
+            "state": [
+                "New York"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:24:03.264+03:00",
+    "updated": "2026-10-23T07:25:30.000+03:00",
+    "related_articles": null
+}

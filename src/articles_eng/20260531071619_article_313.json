@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "deb367f97be0fed062ba31ad2592e4280b04874b",
+        "url": "https://www.newsbreak.com/news/4674954970994-2026-farm-technology-days-coming-to-redetzke-s-no-joke-dairy-in-stratford-july-14th-16th",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/dorchester-wi",
+        "site_categories": [
+            "human interest",
+            "sport",
+            "arts, culture and entertainment",
+            "under_construction",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "politics",
+            "economy, business and finance"
+        ],
+        "section_title": "Dorchester, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "2026 Farm Technology Days Coming to Redetzke's No Joke Dairy in Stratford July 14th-16th - NewsBreak",
+        "title_full": "2026 Farm Technology Days Coming to Redetzke's No Joke Dairy in Stratford July 14th-16th - NewsBreak",
+        "published": "2026-05-27T17:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3m9rLu_1BmakzfE00",
+        "performance_score": 0,
+        "domain_rank": 3021,
+        "domain_rank_updated": "2026-05-25T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "deb367f97be0fed062ba31ad2592e4280b04874b",
+    "url": "https://www.newsbreak.com/news/4674954970994-2026-farm-technology-days-coming-to-redetzke-s-no-joke-dairy-in-stratford-july-14th-16th",
+    "ord_in_thread": 0,
+    "author": "cwbradio.com",
+    "published": "2026-05-27T17:00:00.000+03:00",
+    "title": "2026 Farm Technology Days Coming to Redetzke's No Joke Dairy in Stratford July 14th-16th - NewsBreak",
+    "text": "14 hours ago (Blake Jackson, Wisconsin Ag Connection) The 2026 Wisconsin Farm Technology Days will take place July 14-16 at Redetzke's No Joke Dairy near Stratford, Wisconsin. According to Blake Jackson with the Wisconsin Ag Connection, the annual agricultural event will highlight modern farming practices, technology, and innovations while giving visitors an inside look at one of the state’s long-standing dairy operations. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Environment"
+    ],
+    "topics": [
+        "Environment->energy saving",
+        "Environment->sustainability"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Blake Jackson",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Stratford",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wisconsin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Redetzke",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "No Joke Dairy",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Wisconsin Ag Connection",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Dorchester"
+            ],
+            "state": [
+                "Wisconsin"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-28T07:30:30.926+03:00",
+    "updated": "2026-05-28T07:36:08.000+03:00"
+}

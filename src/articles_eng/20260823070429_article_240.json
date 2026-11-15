@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "ad201623a423cc5bf4da9eb67673ea11b07db702",
+        "url": "https://www.newsbreak.com/news/4837397527978-severe-weather-rolls-across-nebraska",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/dunbar-ne",
+        "site_categories": [
+            "politics",
+            "sport",
+            "crime, law and justice",
+            "human interest",
+            "arts, culture and entertainment",
+            "social issue",
+            "under_construction",
+            "science and technology",
+            "economy, business and finance",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Dunbar, NE Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Weather Rolls Across Nebraska - NewsBreak",
+        "title_full": "Severe Weather Rolls Across Nebraska - NewsBreak",
+        "published": "2026-08-19T13:42:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0Oddtn_1ENGd4ah00",
+        "performance_score": 0,
+        "domain_rank": 3070,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ad201623a423cc5bf4da9eb67673ea11b07db702",
+    "url": "https://www.newsbreak.com/news/4837397527978-severe-weather-rolls-across-nebraska",
+    "ord_in_thread": 0,
+    "author": "Emily Roehler",
+    "published": "2026-08-19T13:42:00.000+03:00",
+    "title": "Severe Weather Rolls Across Nebraska - NewsBreak",
+    "text": "By Emily Roehler Jaret Lansford Matt Serwe ,\n17 hours ago OMAHA, Neb. (WOWT) - The First Alert 6 Weather team is monitoring severe weather in our coverage area on Wednesday. Here are the latest updates:. 2:55PM Update - A new Severe T-Storm Watch until 8:00 PM includes far southeastern Nebraska and northwest Missouri. 2:15PM Update - Outdoor warning sirens have... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->emergency response",
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wowt.com/2026/08/19/jarets-first-alert-6-forecast-scattered-storms-around-much-our-wednesday/?outputType=amp",
+        "https://wowt.com/2026/08/19/jarets-first-alert-6-forecast-scattered-storms-around-much-our-wednesday/?outputType=amp",
+        "https://www.wowt.com/2026/08/19/jarets-first-alert-6-forecast-scattered-storms-around-much-our-wednesday/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jaret Lansford",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Emily Roehler",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Matt Serwe",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "OMAHA",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nebraska",
+                "sentiment": "none"
+            },
+            {
+                "name": "Missouri",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Dunbar"
+            ],
+            "state": [
+                "Nebraska"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:15:08.643+03:00",
+    "updated": "2026-08-20T07:31:03.000+03:00"
+}

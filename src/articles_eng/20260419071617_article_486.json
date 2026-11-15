@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "f4ee6e736a93db386a784ac2e2b570cba87beac1",
+        "url": "https://justthenews.com/world/middle-east/trump-cheers-historic-talks-between-israel-lebanon-amid-hope-hezbollah-ceasefire",
+        "site_full": "justthenews.com",
+        "site": "justthenews.com",
+        "site_section": "https://news.google.com/search?q=between%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "crime, law and justice",
+            "politics",
+            "war, conflict and unrest",
+            "under_construction",
+            "economy, business and finance"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Just The News",
+        "title": "Trump cheers on historic talks between Israel, Lebanon amid hope of Hezbollah ceasefire",
+        "title_full": "Trump cheers on historic talks between Israel, Lebanon amid hope of Hezbollah ceasefire",
+        "published": "2026-04-16T07:15:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2025-12/GettyImages-2253971050.jpg?h=cbae5a8b&amp;itok=KVts5I8G",
+        "performance_score": 0,
+        "domain_rank": 36493,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f4ee6e736a93db386a784ac2e2b570cba87beac1",
+    "url": "https://justthenews.com/world/middle-east/trump-cheers-historic-talks-between-israel-lebanon-amid-hope-hezbollah-ceasefire",
+    "ord_in_thread": 0,
+    "author": "John Solomon",
+    "published": "2026-04-16T07:15:00.000+03:00",
+    "title": "Trump cheers on historic talks between Israel, Lebanon amid hope of Hezbollah ceasefire",
+    "text": "Trump cheers on historic talks between Israel, Lebanon amid hope of Hezbollah ceasefire\nThe Financial Times reported Lebanese officials have hopes a ceasefire could be reached this week between Israel and the terror group Hezbollah.\nPresident Donald Trump announced late Wednesday that Israel's and Lebanon's leaders would be talking to each other for the first time in decades, cheering on historic talks that could raise hopes of a ceasefire soon with Hezbollah.\n\"Trying to get a little breathing room between Israel and Lebanon,\" Trump wrote in his Truth Social account shortly before midnight.\n\"It has been a long time since the two leaders have spoken, like 34 years. It will happen tomorrow. Nice!\" he added.\nThe talks come as a ceasefire between the United States and Iran continued to hold, and the Financial Times reported Lebanese officials have hopes a similar ceasefire could be reached this week between Israel and the terror group Hezbollah.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->peace talks",
+        "Politics->political crisis",
+        "Politics->international relations",
+        "Politics->political campaigns"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Lebanon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Israel",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hezbollah",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "l Times",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:30:04.435+03:00",
+    "updated": "2026-04-16T07:45:43.000+03:00"
+}

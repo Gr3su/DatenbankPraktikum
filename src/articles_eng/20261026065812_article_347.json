@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "443e36a0c62eb2be17ed36df5441e5a0361ca660",
+        "url": "https://www.newsbreak.com/news/4961366432370-fbi-agent-returns-to-the-stand-in-sheng-thao-corruption-trial",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/san-mateo-ca",
+        "site_categories": [
+            "politics",
+            "economy, business and finance",
+            "sport",
+            "under_construction",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "lifestyle and leisure"
+        ],
+        "section_title": "San Mateo, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "FBI agent returns to the stand in Sheng Thao corruption trial - NewsBreak",
+        "title_full": "FBI agent returns to the stand in Sheng Thao corruption trial - NewsBreak",
+        "published": "2026-10-22T22:07:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2bVhbT_1GMBBURs00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T07:09:29.286+03:00"
+        }
+    },
+    "uuid": "443e36a0c62eb2be17ed36df5441e5a0361ca660",
+    "url": "https://www.newsbreak.com/news/4961366432370-fbi-agent-returns-to-the-stand-in-sheng-thao-corruption-trial",
+    "ord_in_thread": 0,
+    "author": "Velena Jones",
+    "published": "2026-10-22T22:07:00.000+03:00",
+    "title": "FBI agent returns to the stand in Sheng Thao corruption trial - NewsBreak",
+    "text": "By Velena Jones ,\n9 hours ago An FBI agent was back on the stand Thursday in the federal corruption trial of former Oakland Mayor Sheng Thao, laying out evidence prosecutors say connects Thao and her co-defendants to a bribery and wire fraud scheme. Thao, her longtime partner Andre Jones, and businessmen David and Andy Duong are... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->corruption"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nbcbayarea.com/news/local/ethics-tip-sheng-thao-corruption-trial/4162942/",
+        "https://www.nbcbayarea.com/news/local/ethics-tip-sheng-thao-corruption-trial/4162942",
+        "https://nbcbayarea.com/news/local/ethics-tip-sheng-thao-corruption-trial/4162942/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sheng Thao",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Velena Jones",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Andre Jones",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "David",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Andy Duong",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Oakland",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FBI",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "San Mateo"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:09:29.286+03:00",
+    "updated": "2026-10-23T07:10:56.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "c50c236bb2f272e47a6aa9bd87543305569ca2a4",
+        "url": "https://time.news/mirothinker-1-5-trillion-parameter-performance-at-1-20th-the-cost/",
+        "site_full": "time.news",
+        "site": "time.news",
+        "site_section": "https://time.news/feed/",
+        "site_categories": [],
+        "section_title": "TIme News",
+        "site_title": "TIme News - time.news",
+        "title": "MiroThinker 1.5: Trillion-Parameter Performance at 1/20th the Cost",
+        "title_full": "MiroThinker 1.5: Trillion-Parameter Performance at 1/20th the Cost",
+        "published": "2026-01-08T07:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.ctfassets.net/jdtwqhzvc2n1/4JZCpN5sylmpNpKz7jO5bV/ff3e503930eca5d2ffa19af2850655d7/2b3QFPO19j-jSAfp4COGk.jpg?w=800&q=75",
+        "performance_score": 0,
+        "domain_rank": 416973,
+        "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c50c236bb2f272e47a6aa9bd87543305569ca2a4",
+    "url": "https://time.news/mirothinker-1-5-trillion-parameter-performance-at-1-20th-the-cost/",
+    "ord_in_thread": 0,
+    "author": "Priyanka Patel",
+    "published": "2026-01-08T07:20:00.000+02:00",
+    "title": "MiroThinker 1.5: Trillion-Parameter Performance at 1/20th the Cost",
+    "text": "MiroMind’s MiroThinker 1.5 Challenges AI Norms with Powerful Research Capabilities in a Smaller Package\nA new contender has emerged in the rapidly evolving landscape of artificial intelligence, offering enterprises a compelling alternative to the costly adn complex world of large language models (LLMs).MiroThinker 1.5, developed by MiroMind, delivers agentic research capabilities rivaling those of trillion-parameter models like Kimi K2 and DeepSeek, but with a significantly smaller footprint of just 30 billion parameters.\nThe release marks a pivotal moment in the push for efficient and deployable AI agents. For years, businesses have faced a tough choice: invest in expensive API access to leading-edge models or settle for subpar performance with locally hosted solutions. MiroThinker 1.5 proposes a third way – open-weight models specifically designed for extensive tool use and multi-step reasoning.\nOne key trend shaping the industry is a shift away from highly specialized AI agents toward more generalized ones. Until recently, this level of versatility was largely confined to proprietary systems. MiroThinker 1.5 is positioned as a serious open-weight competitor in this space, offering a viable path for broader adoption.\nAddressing the Hallucination Problem with “Scientist Mode”\nA major obstacle to deploying open-source models in production environments has been the risk of hallucinations – instances where the AI generates inaccurate or misleading information. MiroMind tackles this challenge with a novel architectural approach dubbed “scientist mode.”\nRather than relying on statistical probabilities derived from memorized data – the root cause of most hallucinations – MiroThinker is trained to execute a verifiable research loop. This process involves proposing hypotheses,querying external sources for evidence,identifying discrepancies,revising conclusions,and re-verifying findings.During training,the model is actively penalized for generating high-confidence outputs lacking supporting evidence.\nAccording to a company release, this approach provides a crucial benefit for enterprise deployment: auditability. When MiroThinker produces an answer, it can reveal both the reasoning chain and the external sources it consulted.This transparency is notably valuable for regulated industries like financial services, healthcare, and legal, where detailed documentation is essential for compliance. “Compliance teams can review not just what the model concluded, but how it arrived there,” one analyst noted.\nThis focus on verification also significantly reduces the prevalence of “confident hallucinations” – a common issue in production AI systems. By prioritizing evidence-based reasoning, the model is less likely to extrapolate when uncertain, leading to fewer costly errors.\nBenchmark Performance: A Punch Above Its Weight\nMiroThinker-v1.5-30B has demonstrated performance comparable to models with up to 30 times more parameters, including the trillion-parameter Kimi-K2-Thinking model. In a key test of web research capabilities,the BrowseComp-ZH benchmark,the 30 billion parameter model actually outperformed its larger competi",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kimi",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Powerful Research Capabilities",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-08T07:27:15.787+02:00",
+    "updated": "2026-01-08T07:27:15.787+02:00"
+}

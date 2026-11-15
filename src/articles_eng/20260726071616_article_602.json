@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "4085e001df55eb76505529c14428eeab4bfcc920",
+        "url": "https://tass.com/emergencies/2163923",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/world/1874627",
+        "site_categories": [
+            "war, conflict and unrest",
+            "economy, business and finance",
+            "politics",
+            "media"
+        ],
+        "section_title": "German defense minister says wrong time to discuss peace in Ukraine -  World - TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Ukraine's attack on Voronezh Region causes casualties, serious consequences",
+        "title_full": "Ukraine's attack on Voronezh Region causes casualties, serious consequences",
+        "published": "2026-07-23T07:20:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260723/1481477.jpg",
+        "performance_score": 0,
+        "domain_rank": 13729,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4085e001df55eb76505529c14428eeab4bfcc920",
+    "url": "https://tass.com/emergencies/2163923",
+    "ord_in_thread": 0,
+    "author": "TASS",
+    "published": "2026-07-23T07:20:00.000+03:00",
+    "title": "Ukraine's attack on Voronezh Region causes casualties, serious consequences",
+    "text": "VORONEZH, July 23. /TASS/. Air defense forces spent the night repelling an attack on civilian targets in the Voronezh Region, with casualties and serious consequences recorded, Governor Alexander Gusev said on Max.\n\"Air defense forces spent the night repelling an enemy attack on civilian targets. Unfortunately, there are casualties and serious consequences. We will provide full details once emergency services have finished their work,\" he wrote.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Max",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alexander Gusev",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Voronezh Region",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ukraine",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "4085e001df55eb76505529c14428eeab4bfcc920",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-23T07:37:26.081+03:00",
+    "updated": "2026-07-23T07:37:26.081+03:00"
+}

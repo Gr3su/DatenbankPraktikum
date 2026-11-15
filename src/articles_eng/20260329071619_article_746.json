@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "779facfead7e8f0817797b7da3bf61f66887d2ca",
+        "url": "https://tass.com/world/2107215",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/world/1842599",
+        "site_categories": [
+            "politics",
+            "economy, business and finance",
+            "media",
+            "war, conflict and unrest"
+        ],
+        "section_title": "Ukraine is running low on Storm Shadow missiles — The Daily Telegraph -  World - TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Kim Jong Un expresses solidarity with Minsk, full support - news agency",
+        "title_full": "Kim Jong Un expresses solidarity with Minsk, full support - news agency",
+        "published": "2026-03-26T07:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 14623,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "779facfead7e8f0817797b7da3bf61f66887d2ca",
+    "url": "https://tass.com/world/2107215",
+    "ord_in_thread": 0,
+    "author": "TASS",
+    "published": "2026-03-26T07:28:00.000+02:00",
+    "title": "Kim Jong Un expresses solidarity with Minsk, full support - news agency",
+    "text": "MINSK, March 26. /TASS/. During talks with Belarusian President Alexander Lukashenko in Pyongyang, North Korean leader Kim Jong Un expressed his full support for Minsk and solidarity with it.\n\"We express solidarity and full support for Belarus, which is striving to pursue an independent policy in line with its reality, to achieve peace and development, while continuing to strengthen relations with traditionally friendly countries,\" the BelTA news agency quoted him as saying.\nKim Jong Un also pointed out that North Korea opposes \"unjustified Western pressure.\" \"We support and understand the measures taken by the Belarusian leadership to promote socio-political stability and economic development,\" he said.",
+    "summary": "MINSK, March 26. During talks with Belarusian President Alexander Lukashenko in Pyongyang, North Korean leader Kim Jong Un expressed his full support for Minsk and solidarity with it. \"We express solidarity and full support for Belarus, which is striving to pursue an independent policy in line with its reality, to achieve peace and development, while continuing to strengthen relations with traditionally friendly countries,\" the BelTA news agency quoted him as saying. Kim Jong Un also pointed out that North Korea opposes \"unjustified Western pressure.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->international relations"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://eng.belta.by/",
+        "https://www.eng.belta.by/",
+        "https://eng.belta.by"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kim Jong Un",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Alexander Lukashenko",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Minsk",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pyongyang",
+                "sentiment": "none"
+            },
+            {
+                "name": "Belarus",
+                "sentiment": "none"
+            },
+            {
+                "name": "North Korea",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BelTA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-26T07:34:36.014+02:00",
+    "updated": "2026-03-26T07:39:27.000+02:00"
+}

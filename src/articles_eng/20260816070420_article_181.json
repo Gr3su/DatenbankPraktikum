@@ -1,0 +1,150 @@
+{
+    "thread": {
+        "uuid": "dc89efda2f53f6db8116b8e4d048a157d6a4920a",
+        "url": "https://www.newsbreak.com/news/4825766438469-marines-identify-west-coast-recruit-who-died-after-physical-fitness-test",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/temecula-ca",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "human interest",
+            "social issue",
+            "under_construction",
+            "science and technology",
+            "lifestyle and leisure",
+            "health",
+            "sport",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "Temecula, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Marines identify West Coast recruit who died after physical fitness test - NewsBreak",
+        "title_full": "Marines identify West Coast recruit who died after physical fitness test - NewsBreak",
+        "published": "2026-08-13T00:33:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2b7ehJ_1EBYHSyI00",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "dc89efda2f53f6db8116b8e4d048a157d6a4920a",
+    "url": "https://www.newsbreak.com/news/4825766438469-marines-identify-west-coast-recruit-who-died-after-physical-fitness-test",
+    "ord_in_thread": 0,
+    "author": "Yahoo!",
+    "published": "2026-08-13T00:33:00.000+03:00",
+    "title": "Marines identify West Coast recruit who died after physical fitness test - NewsBreak",
+    "text": "6 hours ago Marine Pvt. Aiden Craig, 18, died after a medical emergency during a physical fitness test at Camp Pendleton, California. The Marine Corps has identified Pvt. Aiden Craig as the recruit who died on Aug. 5 after a medical emergency four days earlier during a physical fitness test at Camp Pendleton, California. Read full article\n84",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->armed conflict",
+        "War, Conflict and Unrest->civil unrest"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.yahoo.com/news/us/articles/marines-identify-west-coast-recruit-213333423.html",
+        "https://yahoo.com/news/us/articles/marines-identify-west-coast-recruit-213333423.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Craig",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "West Coast",
+                "sentiment": "none"
+            },
+            {
+                "name": "California",
+                "sentiment": "none"
+            },
+            {
+                "name": "Camp Pendleton",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Marine Corps",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Temecula"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:13:11.740+03:00",
+    "updated": "2026-08-13T07:21:08.000+03:00"
+}

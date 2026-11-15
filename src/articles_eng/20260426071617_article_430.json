@@ -1,0 +1,122 @@
+{
+    "thread": {
+        "uuid": "d67060c5b1cbbb173ddbc8e6bdb4a0969df6b4a6",
+        "url": "https://www.ntd.com/ntdplus/us-debunks-reports-that-ships-with-iran-ties-passed-american-blockade_1140552.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://api.ntd.com/feed",
+        "site_categories": [
+            "architects",
+            "politics",
+            "media",
+            "real_estate",
+            "economy, business and finance",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "war, conflict and unrest"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "US Debunks Reports That Ships With Iran Ties Passed American Blockade",
+        "title_full": "US Debunks Reports That Ships With Iran Ties Passed American Blockade",
+        "published": "2026-04-23T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2026/04/id1139643-9621605.jpg-600x400.webp",
+        "performance_score": 0,
+        "domain_rank": 59249,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d67060c5b1cbbb173ddbc8e6bdb4a0969df6b4a6",
+    "url": "https://www.ntd.com/ntdplus/us-debunks-reports-that-ships-with-iran-ties-passed-american-blockade_1140552.html",
+    "ord_in_thread": 0,
+    "author": "NTD Newsroom",
+    "published": "2026-04-23T06:59:00.000+03:00",
+    "title": "US Debunks Reports That Ships With Iran Ties Passed American Blockade",
+    "text": "Open menu\nNTD Television\nsearch\nUS Debunks Reports That Ships With Iran Ties Passed American Blockade\nYou May Also like\nNTD Television\n© Copyright 2016 - 2026 All Rights Reserved",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "Politics->international relations",
+        "Politics->government",
+        "War, Conflict and Unrest->armed conflict"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Iran",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "US Debunks",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NTD Television",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-23T07:26:13.338+03:00",
+    "updated": "2026-04-23T07:29:59.000+03:00"
+}

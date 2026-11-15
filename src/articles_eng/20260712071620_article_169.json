@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "55cf1060543e591e361aa54f37317d3f5c729190",
+        "url": "https://local.newsbreak.com/fox-16-news-1589947/4759246254745-absolute-end-to-aaron-spencer-case-as-prosecutor-will-not-appeal-dismissal",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/fox-16-news-1589947",
+        "site_categories": [
+            "politics",
+            "social issue",
+            "lifestyle and leisure",
+            "disaster and accident",
+            "sport",
+            "arts, culture and entertainment",
+            "crime, law and justice"
+        ],
+        "section_title": "FOX 16 News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Absolute end to Aaron Spencer case as prosecutor will not appeal dismissal - NewsBreak",
+        "title_full": "Absolute end to Aaron Spencer case as prosecutor will not appeal dismissal - NewsBreak",
+        "published": "2026-07-09T00:39:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2WTWdn_1D7WZkXA00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "55cf1060543e591e361aa54f37317d3f5c729190",
+    "url": "https://local.newsbreak.com/fox-16-news-1589947/4759246254745-absolute-end-to-aaron-spencer-case-as-prosecutor-will-not-appeal-dismissal",
+    "ord_in_thread": 0,
+    "author": "Alex Kienlen",
+    "published": "2026-07-09T00:39:00.000+03:00",
+    "title": "Absolute end to Aaron Spencer case as prosecutor will not appeal dismissal - NewsBreak",
+    "text": "By Alex Kienlen FOX 16 News 6 hours ago 💬 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->court",
+        "Crime, Law and Justice->prosecution and prosecutors"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Aaron Spencer",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Alex Kienlen",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "FOX",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:21:26.144+03:00",
+    "updated": "2026-07-09T07:23:42.000+03:00"
+}

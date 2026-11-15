@@ -1,0 +1,118 @@
+{
+    "thread": {
+        "uuid": "4c70de3c9cbc058db2b896b70178b191ac8195cf",
+        "url": "https://www.newsbreak.com/cbs19-524547/4240925332794-abc-pulling-jimmy-kimmel-indefinitely-after-charlie-kirk-comments",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/cbs19-524547",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "CBS19&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "ABC pulling Jimmy Kimmel indefinitely after Charlie Kirk comments - NewsBreak",
+        "title_full": "ABC pulling Jimmy Kimmel indefinitely after Charlie Kirk comments - NewsBreak",
+        "published": "2025-09-18T07:17:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3O3Ogj_14qFUlYj00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4c70de3c9cbc058db2b896b70178b191ac8195cf",
+    "url": "https://www.newsbreak.com/cbs19-524547/4240925332794-abc-pulling-jimmy-kimmel-indefinitely-after-charlie-kirk-comments",
+    "ord_in_thread": 0,
+    "author": "CBS19",
+    "published": "2025-09-18T07:17:00.000+03:00",
+    "title": "ABC pulling Jimmy Kimmel indefinitely after Charlie Kirk comments - NewsBreak",
+    "text": "12 minutes ago The comedian's late-night talk show \"will be preempted indefinitely,\" an ABC spokesperson said. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Politics->political dissent",
+        "Politics->freedom of the press",
+        "Politics->censorship and freedom of speech",
+        "Social Issue->discrimination",
+        "Social Issue->social problem",
+        "Social Issue->values",
+        "Crime, Law and Justice->court"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jimmy Kimmel",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Charlie Kirk",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "ABC",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-18T07:30:28.316+03:00",
+    "updated": "2025-09-18T07:35:31.000+03:00"
+}

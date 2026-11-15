@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "00dc02f9bef938ab4371265aacf9972ce6f1cb2c",
+        "url": "https://www.hindustantimes.com/sports/football/new-world-cup-clip-shows-egypt-coach-screaming-in-scalonis-face-as-argentina-boss-refuses-to-react-after-var-storm-101783568205505.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/product-hub",
+        "site_categories": [
+            "politics",
+            "lifestyle and leisure",
+            "sport",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "crime, law and justice",
+            "media",
+            "social issue"
+        ],
+        "section_title": "Latest News and Updates on Product Hub | Product Hub Updates | Product Hub News | Hindustan Times",
+        "site_title": "Hindustan Times: Breaking News, Latest News, India News, World News & Cricket Today's Headlines | Hindustan Times",
+        "title": "New World Cup clip shows Egypt coach screaming in Scaloni's face as Argentina boss refuses to react after VAR storm | Football News",
+        "title_full": "New World Cup clip shows Egypt coach screaming in Scaloni's face as Argentina boss refuses to react after VAR storm | Football News",
+        "published": "2026-07-09T07:37:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/07/09/550x309/SOCCER-WORLDCUP-ARG-EGY--759_1783570794635_1783570804747_46c1e0a9-2199-4ee9-9e23-f7f0004d159e.JPG",
+        "performance_score": 0,
+        "domain_rank": 2631,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "00dc02f9bef938ab4371265aacf9972ce6f1cb2c",
+    "url": "https://www.hindustantimes.com/sports/football/new-world-cup-clip-shows-egypt-coach-screaming-in-scalonis-face-as-argentina-boss-refuses-to-react-after-var-storm-101783568205505.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-07-09T07:37:00.000+03:00",
+    "title": "New World Cup clip shows Egypt coach screaming in Scaloni's face as Argentina boss refuses to react after VAR storm | Football News",
+    "text": "What happened?\nEgypt thought they had doubled their lead in the 58th minute when Mostafa Ziko finished off a brilliant counterattack after excellent work from Mohamed Salah. However, VAR intervened and ruled out the goal for a foul by Marwan Attia on Lisandro Martínez nearly 100 yards from the Argentina goal during the attacking build-up.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sport event"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scaloni",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mostafa Ziko",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Marwan Attia",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lisandro Martínez",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mohamed Salah",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Argentina",
+                "sentiment": "none"
+            },
+            {
+                "name": "Egypt",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "VAR",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "VAR",
+                        "exchange": "ASX"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:42:01.632+03:00",
+    "updated": "2026-07-09T07:44:28.000+03:00"
+}

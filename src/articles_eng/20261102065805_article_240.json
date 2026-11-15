@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "a01dcb295d8d42cd217d607d8f8b9c5185315fcb",
+        "url": "https://www.newsbreak.com/news/4975355993944-liquor-permits-revoked-for-2-garfield-heights-bars-police-say",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/cleveland-oh",
+        "site_categories": [
+            "politics",
+            "sport",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "under_construction",
+            "social issue"
+        ],
+        "section_title": "Cleveland, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Liquor permits revoked for 2 Garfield Heights bars, police say - NewsBreak",
+        "title_full": "Liquor permits revoked for 2 Garfield Heights bars, police say - NewsBreak",
+        "published": "2026-10-30T02:26:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2jSkhY_1GaHFDJn00",
+        "performance_score": 0,
+        "domain_rank": 3021,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-30T07:07:01.447+02:00"
+        }
+    },
+    "uuid": "a01dcb295d8d42cd217d607d8f8b9c5185315fcb",
+    "url": "https://www.newsbreak.com/news/4975355993944-liquor-permits-revoked-for-2-garfield-heights-bars-police-say",
+    "ord_in_thread": 0,
+    "author": "cleveland19.com",
+    "published": "2026-10-30T02:26:00.000+02:00",
+    "title": "Liquor permits revoked for 2 Garfield Heights bars, police say - NewsBreak",
+    "text": "4 hours ago\nGARFIELD HEIGHTS, Ohio (WOIO) - The Garfield Heights Police Department said Thursday that liquor permits have been revoked for two Garfield Heights bars. In a release shared on social media, the department said liquor permits for the following bars have been revoked:. Iconic Ultra Lounge (4912 Turney Road) Aries Lounge...\nRead full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->police",
+        "Crime, Law and Justice->out of court procedures",
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->court"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cleveland19.com/2026/10/30/liquor-permits-revoked-2-garfield-heights-bars-police-say/",
+        "https://cleveland19.com/2026/10/30/liquor-permits-revoked-2-garfield-heights-bars-police-say/",
+        "https://www.cleveland19.com/2026/10/30/liquor-permits-revoked-2-garfield-heights-bars-police-say"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Garfield Heights",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ohio",
+                "sentiment": "none"
+            },
+            {
+                "name": "Turney Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Iconic Ultra Lounge",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Garfield Heights Police Department",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-30T07:07:01.447+02:00",
+    "updated": "2026-10-30T07:10:29.000+02:00",
+    "related_articles": null
+}

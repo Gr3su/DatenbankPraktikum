@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "574ebc7ec410862f39a1bc4b838e5e2b2c2fbd47",
+        "url": "https://english.cctv.com/2026/01/15/VIDEaLmBxJAmQRk8xXMgkWu8260115.shtml",
+        "site_full": "english.cctv.com",
+        "site": "cctv.com",
+        "site_section": "https://english.cctv.com/news/index.shtml",
+        "site_categories": [
+            "media",
+            "travel",
+            "japan",
+            "top_news_hk",
+            "top_news_my",
+            "top_news_sg",
+            "top_news_tw",
+            "top_news",
+            "arts, culture and entertainment",
+            "war, conflict and unrest",
+            "lifestyle and leisure",
+            "environment",
+            "science and technology",
+            "economy, business and finance",
+            "politics",
+            "sport"
+        ],
+        "section_title": "News - CCTV.com English",
+        "site_title": "央视网_世界就在眼前",
+        "title": "China's AS700 manned airship completes first commercial flight_英语频道_央视网(cctv.com)",
+        "title_full": "China's AS700 manned airship completes first commercial flight_英语频道_央视网(cctv.com)",
+        "published": "2026-01-15T03:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2604,
+        "domain_rank_updated": "2026-01-11T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "574ebc7ec410862f39a1bc4b838e5e2b2c2fbd47",
+    "url": "https://english.cctv.com/2026/01/15/VIDEaLmBxJAmQRk8xXMgkWu8260115.shtml",
+    "ord_in_thread": 0,
+    "author": "ar guid = \"",
+    "published": "2026-01-15T03:15:00.000+02:00",
+    "title": "China's AS700 manned airship completes first commercial flight_英语频道_央视网(cctv.com)",
+    "text": "Source:CCTV.com 15-01-26 09:15 Updated BJT Font size: A+ A- China's first domestically developed AS700 manned airship completed its maiden commercial flight on January 9 in Hubei Province. Taking off from Wuhan Hannan Airport, the airship performed low-altitude demonstration flights over urban districts before returning safely.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->aerospace engineering",
+        "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "http://tv.cntv.cn/video/C18472/a28126e5e0424a44af6a9bc4c5a47742*/",
+        "http://english.cntv.cn/2026/01/15/VIDEaLmBxJAmQRk8xXMgkWu8260115.shtml",
+        "https://www.facebook.com/plugins/video.php?height=${hvideo}&href=https%3A%2F%2Fwww.facebook.com%2facebook%2Fvideos%2F${facebookId||",
+        "https://www.youtube.com/embed/${youtubeId||",
+        "https://www.facebook.com/plugins/video.php?height=${hvideo}&href=https%3A%2F%2Fwww.facebook.com%2facebook%2Fvideos%2F${",
+        "https://facebook.com/plugins/video.php?height=${hvideo}&href=https%3A%2F%2Fwww.facebook.com%2facebook%2Fvideos%2F${",
+        "http://www.english.cntv.cn/2026/01/15/VIDEaLmBxJAmQRk8xXMgkWu8260115.shtml",
+        "https://facebook.com/plugins/video.php?height=${hvideo}&href=https%3A%2F%2Fwww.facebook.com%2facebook%2Fvideos%2F${facebookId||",
+        "http://tv.cntv.cn/video/C18472/a28126e5e0424a44af6a9bc4c5a47742*",
+        "http://www.tv.cntv.cn/video/C18472/a28126e5e0424a44af6a9bc4c5a47742*/",
+        "https://www.facebook.com/plugins/video.php",
+        "https://youtube.com/embed/${youtubeId||"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "China",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wuhan Hannan Airport",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hubei Province",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "央 视 网",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "CCTV. com",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "574ebc7ec410862f39a1bc4b838e5e2b2c2fbd47",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_hk",
+            "top_news_my",
+            "top_news_sg",
+            "top_news_tw",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-15T07:20:02.341+02:00",
+    "updated": "2026-01-15T07:23:54.000+02:00"
+}

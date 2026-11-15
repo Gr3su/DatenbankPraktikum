@@ -1,0 +1,170 @@
+{
+    "thread": {
+        "uuid": "9706e00fd0270fa8cf466cdbc5a0cadab5439539",
+        "url": "https://www.newsbreak.com/news/4523655993869-dol-finds-wage-and-hour-violations-pizza-company-pays-409k",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/mountain-view-ca",
+        "site_categories": [
+            "economy, business and finance",
+            "human interest",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "politics",
+            "crime, law and justice",
+            "sport",
+            "under_construction"
+        ],
+        "section_title": "Mountain View, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "DOL Finds Wage and Hour Violations: Pizza Company Pays $409K - NewsBreak",
+        "title_full": "DOL Finds Wage and Hour Violations: Pizza Company Pays $409K - NewsBreak",
+        "published": "2026-03-04T19:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3fFdSL_19M8Gq0l00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9706e00fd0270fa8cf466cdbc5a0cadab5439539",
+    "url": "https://www.newsbreak.com/news/4523655993869-dol-finds-wage-and-hour-violations-pizza-company-pays-409k",
+    "ord_in_thread": 0,
+    "author": "Carol Warner",
+    "published": "2026-03-04T19:24:00.000+02:00",
+    "title": "DOL Finds Wage and Hour Violations: Pizza Company Pays $409K - NewsBreak",
+    "text": "By Carol Warner ,\n12 hours ago Carol Warner has been writing about the latest trends in human resources, employment law, education law, safety and security, employee training, and emergency response plans for more than 15 years. She attended East Carolina University and earned a Bachelor's degree from New York Institute of Technology. Outside of work, she spends free time listening to audiobooks and solving crossword puzzles. Connect with her on LinkedIn. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Economy, Business and Finance->human resources",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->business financing",
+        "Crime, Law and Justice->court",
+        "Crime, Law and Justice->law"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Carol Warner",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "DOL",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "DOL",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Pizza Company",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "LinkedIn",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "East Carolina University",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "New York Institute of Technology",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Mountain View"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-05T07:33:02.731+02:00",
+    "updated": "2026-03-05T07:34:34.000+02:00"
+}

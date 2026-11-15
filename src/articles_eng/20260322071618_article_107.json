@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "73918bcc94883fd14eff7c55d9cad66a1b597b78",
+        "url": "https://www.newsbreak.com/news/4544042822170-google-requests-permit-for-third-phase-of-fort-wayne-data-center",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/fort-wayne-in",
+        "site_categories": [
+            "crime, law and justice",
+            "economy, business and finance",
+            "human interest",
+            "politics",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "sport",
+            "under_construction"
+        ],
+        "section_title": "Fort Wayne, IN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Google requests permit for third phase of Fort Wayne data center - NewsBreak",
+        "title_full": "Google requests permit for third phase of Fort Wayne data center - NewsBreak",
+        "published": "2026-03-17T10:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2icII8_19ggQp4z00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "73918bcc94883fd14eff7c55d9cad66a1b597b78",
+    "url": "https://www.newsbreak.com/news/4544042822170-google-requests-permit-for-third-phase-of-fort-wayne-data-center",
+    "ord_in_thread": 0,
+    "author": "Jacob Newlin",
+    "published": "2026-03-17T10:55:00.000+02:00",
+    "title": "Google requests permit for third phase of Fort Wayne data center - NewsBreak",
+    "text": "By Jacob Newlin ,\n1 days ago FORT WAYNE, Ind. (WPTA) - Google has filed a permit application with the Indiana Department of Environmental Management for the third phase of its Fort Wayne data center campus. In the application, the tech giant seeks state approval to disturb legally protected waterways to build three new data center buildings,... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology",
+        "Environment"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science",
+        "Environment->energy resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jacob Newlin",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Fort Wayne",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Google",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "GOOG",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Indiana Department of Environmental Management",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:20:04.106+02:00",
+    "updated": "2026-03-19T07:24:18.000+02:00"
+}

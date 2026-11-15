@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "1450e2a2d491cab2ad52a59f9d8e83d89ced2bb9",
+        "url": "https://www.newsbreak.com/news/4582101895677-scsd-2-announces-new-principal-of-sagebrush-elementary",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/arvada-wy",
+        "site_categories": [
+            "under_construction",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "sport",
+            "human interest",
+            "politics"
+        ],
+        "section_title": "Arvada, WY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "SCSD#2 Announces New Principal of Sagebrush Elementary - NewsBreak",
+        "title_full": "SCSD#2 Announces New Principal of Sagebrush Elementary - NewsBreak",
+        "published": "2026-04-08T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2W82rW_1AI1QUrs00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1450e2a2d491cab2ad52a59f9d8e83d89ced2bb9",
+    "url": "https://www.newsbreak.com/news/4582101895677-scsd-2-announces-new-principal-of-sagebrush-elementary",
+    "ord_in_thread": 0,
+    "author": "cvannoy",
+    "published": "2026-04-08T07:00:00.000+03:00",
+    "title": "SCSD#2 Announces New Principal of Sagebrush Elementary - NewsBreak",
+    "text": "By cvannoy ,\n1 days ago At its board meeting on April 6, the Sheridan County School District No. 2 Board of Trustees approved Drew Gallagher as Sagebrush Elementary School principal. Gallagher will take the reins at Sagebrush in early August. Gallagher’s career in education includes three years as a teacher at Sagebrush Elementary School. For... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Education"
+    ],
+    "topics": [
+        "Education->school"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Drew Gallagher",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Sheridan County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "SCSD",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Sagebrush Elementary School",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Arvada"
+            ],
+            "state": [
+                "Wyoming"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:31:33.284+03:00",
+    "updated": "2026-04-09T07:36:12.000+03:00"
+}

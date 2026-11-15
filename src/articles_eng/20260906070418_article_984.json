@@ -1,0 +1,165 @@
+{
+    "thread": {
+        "uuid": "ff4fe3ace1bdd60313324a820d285e82d732e495",
+        "url": "https://www.newsbreak.com/news/4862003513441-u-c-davis-to-bring-five-football-games-to-broadcast-tv-in-sacramento",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sacramento-ca",
+        "site_categories": [
+            "sport",
+            "human interest",
+            "under_construction",
+            "arts, culture and entertainment",
+            "social issue",
+            "crime, law and justice",
+            "economy, business and finance",
+            "politics",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Sacramento, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "U.C. Davis to bring five football games to broadcast TV in Sacramento - NewsBreak",
+        "title_full": "U.C. Davis to bring five football games to broadcast TV in Sacramento - NewsBreak",
+        "published": "2026-09-02T04:54:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/35K98v_1Em3cWPW00",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ff4fe3ace1bdd60313324a820d285e82d732e495",
+    "url": "https://www.newsbreak.com/news/4862003513441-u-c-davis-to-bring-five-football-games-to-broadcast-tv-in-sacramento",
+    "ord_in_thread": 0,
+    "author": "Matthew Keys",
+    "published": "2026-09-02T04:54:00.000+03:00",
+    "title": "U.C. Davis to bring five football games to broadcast TV in Sacramento - NewsBreak",
+    "text": "By Matthew Keys ,\n1 days ago U.C. Davis Intercollegiate Athletics has struck a deal with Paramount‘s CBS News & Stations to bring at least five games to local broadcast television during its upcoming season. The five games will air on KMAX-TV (Channel 31), an independent station that already offers locally-televised sports from the Sacramento Rivercats... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->american football"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://thedesk.net/2026/09/uc-davis-football-kmax-tv-broadcast-deal/",
+        "https://www.thedesk.net/2026/09/uc-davis-football-kmax-tv-broadcast-deal/",
+        "https://thedesk.net/2026/09/uc-davis-football-kmax-tv-broadcast-deal"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Matthew Keys",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Sacramento",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Paramount",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "U. C. Davis Intercollegiate Athletics",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "Channel 31",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "KMAX - TV",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "CBS News & Stations",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Sacramento Rivercats",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Sacramento"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:35:42.136+03:00",
+    "updated": "2026-09-03T07:40:13.000+03:00"
+}

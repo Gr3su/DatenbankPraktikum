@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "f881defc34fa21299d5e9d63206054ec3df7eb7b",
+        "url": "https://local.newsbreak.com/abc-7-chicago-560941/4759282119714-rahm-emanuel-speaks-in-tel-aviv-proposes-23-state-plan-in-call-for-new-middle-east-peace-strategy",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/abc-7-chicago-560941",
+        "site_categories": [
+            "sport",
+            "arts, culture and entertainment",
+            "disaster and accident",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "social issue"
+        ],
+        "section_title": "ABC 7 Chicago&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Rahm Emanuel speaks in Tel Aviv, proposes 23-state plan in call for new Middle East peace strategy - NewsBreak",
+        "title_full": "Rahm Emanuel speaks in Tel Aviv, proposes 23-state plan in call for new Middle East peace strategy - NewsBreak",
+        "published": "2026-07-09T01:01:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0Gpq6w_1D7YrAoO00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f881defc34fa21299d5e9d63206054ec3df7eb7b",
+    "url": "https://local.newsbreak.com/abc-7-chicago-560941/4759282119714-rahm-emanuel-speaks-in-tel-aviv-proposes-23-state-plan-in-call-for-new-middle-east-peace-strategy",
+    "ord_in_thread": 0,
+    "author": "Craig Wall",
+    "published": "2026-07-09T01:01:00.000+03:00",
+    "title": "Rahm Emanuel speaks in Tel Aviv, proposes 23-state plan in call for new Middle East peace strategy - NewsBreak",
+    "text": "By Craig Wall ABC 7 Chicago 6 hours ago 💬 0",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government",
+        "Politics->political development",
+        "Politics->heads of government",
+        "Politics->international relations"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Craig Wall",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Middle East",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tel Aviv",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chicago",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "ABC",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:26:45.051+03:00",
+    "updated": "2026-07-09T07:30:30.000+03:00"
+}

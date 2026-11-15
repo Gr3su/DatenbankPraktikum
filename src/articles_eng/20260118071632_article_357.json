@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "749c66f8d8a4627b3f023b9c373a0223b9c5e32d",
+        "url": "https://local.newsbreak.com/newsweek-500152/4442935155983-mike-tomlin-receives-steelers-tribute-after-stepping-down-as-head-coach",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/newsweek-500152",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Newsweek&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Mike Tomlin Receives Steelers Tribute After Stepping Down as Head Coach - NewsBreak",
+        "title_full": "Mike Tomlin Receives Steelers Tribute After Stepping Down as Head Coach - NewsBreak",
+        "published": "2026-01-15T01:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/14LWe6_183o6ANi00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-11T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "749c66f8d8a4627b3f023b9c373a0223b9c5e32d",
+    "url": "https://local.newsbreak.com/newsweek-500152/4442935155983-mike-tomlin-receives-steelers-tribute-after-stepping-down-as-head-coach",
+    "ord_in_thread": 0,
+    "author": "Matthew Couden",
+    "published": "2026-01-15T01:28:00.000+02:00",
+    "title": "Mike Tomlin Receives Steelers Tribute After Stepping Down as Head Coach - NewsBreak",
+    "text": "By Matthew Couden ,\n5 hours ago The Pittsburgh Steelers paid tribute to Mike Tomlin several days after he stepped down as the team's head coach. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sports coaching",
+        "Sport->sports honour"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mike Tomlin",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Matthew Couden",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Pittsburgh Steelers",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-15T07:24:13.437+02:00",
+    "updated": "2026-01-15T07:25:59.000+02:00"
+}

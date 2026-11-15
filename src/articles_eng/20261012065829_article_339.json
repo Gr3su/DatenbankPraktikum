@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "059082245ec98b09d40f3965b4731244e1ba0a5b",
+        "url": "https://www.newsbreak.com/news/4934416658390-tony-romo-was-disqualified-from-a-golf-tournament-on-the-same-day-cbs-announced-his-exit",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/headlines",
+        "site_categories": [
+            "sport",
+            "under_construction",
+            "crime, law and justice",
+            "politics",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "science and technology",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Headlines | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Tony Romo was disqualified from a golf tournament, on the same day CBS announced his exit - NewsBreak",
+        "title_full": "Tony Romo was disqualified from a golf tournament, on the same day CBS announced his exit - NewsBreak",
+        "published": "2026-10-09T06:31:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3HcQqn_1Fw1Pewi00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:08:28.956+03:00"
+        }
+    },
+    "uuid": "059082245ec98b09d40f3965b4731244e1ba0a5b",
+    "url": "https://www.newsbreak.com/news/4934416658390-tony-romo-was-disqualified-from-a-golf-tournament-on-the-same-day-cbs-announced-his-exit",
+    "ord_in_thread": 0,
+    "author": "Mike Florio",
+    "published": "2026-10-09T06:31:00.000+03:00",
+    "title": "Tony Romo was disqualified from a golf tournament, on the same day CBS announced his exit - NewsBreak",
+    "text": "By Mike Florio ,\n47 minutes ago Last Friday was a very strange day for Tony Romo. It started with CBS and Romo announcing that he had parted ways with the network where he had served as the top NFL game analyst. It ended with Romo being disqualified from a golf tournament for submitting an erroneous scorecard. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->golf"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tony-romo-was-disqualified-from-a-golf-tournament-on-the-same-day-cbs-announced-his-exit",
+        "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/tony-romo-was-disqualified-from-a-golf-tournament-on-the-same-day-cbs-announced-his-exit"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "S",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mike Florio",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Tony Romo",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "CBS",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "CBS",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "NFL",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:08:28.956+03:00",
+    "updated": "2026-10-09T07:19:06.634+03:00",
+    "related_articles": null
+}

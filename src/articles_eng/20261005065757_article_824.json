@@ -1,0 +1,164 @@
+{
+    "thread": {
+        "uuid": "5860f62226973b3edefc0295eb572ae753e6b7cb",
+        "url": "https://www.newsbreak.com/inewsource-513184/4919184269866-federal-prosecutors-access-san-diego-county-voter-records-as-trump-alleges-us-voter-fraud",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/el-cajon-ca",
+        "site_categories": [
+            "economy, business and finance",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "politics",
+            "science and technology",
+            "lifestyle and leisure",
+            "sport"
+        ],
+        "section_title": "El Cajon, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Federal prosecutors access San Diego County voter records as Trump alleges US voter fraud - NewsBreak",
+        "title_full": "Federal prosecutors access San Diego County voter records as Trump alleges US voter fraud - NewsBreak",
+        "published": "2026-10-01T16:30:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/20r9GZ_1FggSYXt00",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:33:58.701+03:00"
+        }
+    },
+    "uuid": "5860f62226973b3edefc0295eb572ae753e6b7cb",
+    "url": "https://www.newsbreak.com/inewsource-513184/4919184269866-federal-prosecutors-access-san-diego-county-voter-records-as-trump-alleges-us-voter-fraud",
+    "ord_in_thread": 0,
+    "author": "Jake Kincaid",
+    "published": "2026-10-01T16:30:00.000+03:00",
+    "title": "Federal prosecutors access San Diego County voter records as Trump alleges US voter fraud - NewsBreak",
+    "text": "By Jake Kincaid ,\n15 hours ago San Diego County election officials received five grand jury subpoenas from the U.S. Justice Department for voter information this year, the county Registrar of Voters Office said. Sarah Sweeney, a spokesperson for the county, and Antonia Hutzell, a spokesperson for the registrar’s office, said that they do not know what... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->election",
+        "Politics->voting"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://inewsource.org/2026/10/01/san-diego-county-doj-voter-information-subpoenas/",
+        "https://www.inewsource.org/2026/10/01/san-diego-county-doj-voter-information-subpoenas/",
+        "https://inewsource.org/2026/10/01/san-diego-county-doj-voter-information-subpoenas"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Antonia Hutzell",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Jake Kincaid",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Sarah Sweeney",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "San Diego County",
+                "sentiment": "none"
+            },
+            {
+                "name": "US",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Registrar of Voters Office",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "U. S. Justice Department",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "El Cajon"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:33:58.701+03:00",
+    "updated": "2026-10-02T07:36:31.000+03:00",
+    "related_articles": null
+}

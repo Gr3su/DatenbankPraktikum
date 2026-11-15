@@ -1,0 +1,124 @@
+{
+    "thread": {
+        "uuid": "47c38878610390774a82e3ef95dbac32355f3216",
+        "url": "https://westlatimes.com/stories/674440755-ucla-researchers-identify-dopamine-pathway-key-for-threadworm-infection-prevention",
+        "site_full": "westlatimes.com",
+        "site": "westlatimes.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "site_title": "West La Times",
+        "title": "UCLA researchers identify dopamine pathway key for threadworm infection prevention",
+        "title_full": "UCLA researchers identify dopamine pathway key for threadworm infection prevention",
+        "published": "2025-08-13T10:20:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://s3.amazonaws.com/jnswire/jns-media/8d/88/25568748/webp_qmavwcogthku9xv57t0qt7el8bkd.webp",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "47c38878610390774a82e3ef95dbac32355f3216",
+    "url": "https://westlatimes.com/stories/674440755-ucla-researchers-identify-dopamine-pathway-key-for-threadworm-infection-prevention",
+    "ord_in_thread": 0,
+    "author": "West LA Times",
+    "published": "2025-08-13T10:20:00.000+03:00",
+    "title": "UCLA researchers identify dopamine pathway key for threadworm infection prevention",
+    "text": "Dr. Michael Drake, President | Official website\nDr. Michael Drake, President | Official website\nResearchers at the University of California, Los Angeles (UCLA) have identified a dopamine-sensing pathway in threadworms that is crucial for their ability to penetrate human skin. The findings, published in Nature Communications, suggest that blocking this pathway could prevent infections caused by these parasitic nematodes.\nThreadworms, specifically Strongyloides stercoralis, infect over 600 million people worldwide, mainly in tropical and subtropical regions with poor sanitation. The worms are excreted in feces and enter the ground to await a new host. When humans or animals come into contact with contaminated soil, the larvae penetrate the skin to continue their life cycle.\nElissa Hallem, professor of microbiology, immunology and molecular genetics at UCLA and corresponding author of the study, explained: “Before we started this, the worms were known to go into the skin headfirst. But beyond that, basically nothing was known about the behaviors that they execute to allow them to get into the skin.”\nThe research team observed genetically modified fluorescent threadworms on samples of rat and human skin under a microscope. They found that while rat-parasitic nematodes could penetrate both types of skin but were less effective on human tissue—succeeding only 40% of the time—threadworms spent up to 10 minutes exploring human skin before finding an entry point.\n“It seems like some parts of the human skin are easier for them to get into than others, and it looks like they’re kind of sampling the skin surface, trying to find a spot where they can get in more easily,” said Ruhi Patel, UCLA postdoctoral researcher. “Without these skin-probing behaviors, the parasites are less successful at entering the skin.”\nWhen researchers disrupted a gene encoding an ion channel called TRP-4—present in neurons releasing dopamine—the worms almost entirely failed to penetrate either rat or human skin. This channel is also found in hookworms but not in humans.\nBased on these results, scientists believe topical treatments targeting this dopamine pathway could act as repellents against infection without affecting humans’ own dopamine systems.\nHallem noted that her lab’s work has been supported exclusively by grants from the National Institutes of Health (NIH), which have now been suspended: “All of the research in my lab was funded by the NIH, and Dr. Patel also had an individual postdoctoral fellowship from NIH that supported her salary. Without NIH funding, there is no way for us to continue this research or even keep our nematode strains alive. The impact of the grant suspensions has been truly devastating,” said Hallem.\nORGANIZATIONS IN THIS STORY\n!RECEIVE ALERTS\nSign-up\nDONATE\nDonate",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael Drake",
+                "sentiment": "none"
+            },
+            {
+                "name": "Elissa Hallem",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "UCLA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "University of California",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Nature Communications",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T07:17:09.128+03:00",
+    "updated": "2025-08-14T07:17:09.128+03:00"
+}

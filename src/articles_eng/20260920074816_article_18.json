@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "c2804bd9b61ffd99dd94b02df2883598fc78437a",
+        "url": "https://www.newsbreak.com/news/4887976913943-tesla-kills-pedestrian-on-curtner-avenue-san-jose-s-35th-traffic-death-this-year",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/mountain-view-ca",
+        "site_categories": [
+            "human interest",
+            "lifestyle and leisure",
+            "under_construction",
+            "politics",
+            "social issue",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "sport"
+        ],
+        "section_title": "Mountain View, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Tesla Kills Pedestrian on Curtner Avenue, San Jose's 35th Traffic Death This Year - NewsBreak",
+        "title_full": "Tesla Kills Pedestrian on Curtner Avenue, San Jose's 35th Traffic Death This Year - NewsBreak",
+        "published": "2026-09-15T22:10:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4cy9MJ_1FBEPb2y00",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c2804bd9b61ffd99dd94b02df2883598fc78437a",
+    "url": "https://www.newsbreak.com/news/4887976913943-tesla-kills-pedestrian-on-curtner-avenue-san-jose-s-35th-traffic-death-this-year",
+    "ord_in_thread": 0,
+    "author": "Eileen Vargas",
+    "published": "2026-09-15T22:10:00.000+03:00",
+    "title": "Tesla Kills Pedestrian on Curtner Avenue, San Jose's 35th Traffic Death This Year - NewsBreak",
+    "text": "By Eileen Vargas ,\n1 days ago A pedestrian crossing Curtner Avenue outside a marked crosswalk was struck and killed by a Tesla Model X just after midnight on Saturday, making him San Jose's 35th traffic fatality and 18th pedestrian death of 2026. Officers responded to the area of Curtner and Stone avenues in South San Jose, and he was pronounced dead at the scene. Read full article\n5",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://hoodline.com/2026/09/tesla-kills-pedestrian-on-curtner-avenue-san-jose-s-35th-traffic-death-this-year/?utm=newsbreak",
+        "https://www.hoodline.com/2026/09/tesla-kills-pedestrian-on-curtner-avenue-san-jose-s-35th-traffic-death-this-year/?utm=newsbreak",
+        "https://hoodline.com/2026/09/tesla-kills-pedestrian-on-curtner-avenue-san-jose-s-35th-traffic-death-this-year/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Eileen Vargas",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Curtner Avenue",
+                "sentiment": "none"
+            },
+            {
+                "name": "San Jose",
+                "sentiment": "none"
+            },
+            {
+                "name": "Stone",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Tesla",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "TSLA",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Mountain View"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T07:48:58.293+03:00",
+    "updated": "2026-09-17T09:43:11.031+03:00"
+}

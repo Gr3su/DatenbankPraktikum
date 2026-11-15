@@ -1,0 +1,126 @@
+{
+    "thread": {
+        "uuid": "ac6ffafb39cbed01d3f693c8618c0fc257a860d4",
+        "url": "https://www.newsbreak.com/news/4307812412043-hudson-school-district-parents-face-uncertainty-with-upcoming-school-closures",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/hammond-wi",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Hammond, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Hudson School District parents face uncertainty with upcoming school closures - NewsBreak",
+        "title_full": "Hudson School District parents face uncertainty with upcoming school closures - NewsBreak",
+        "published": "2025-10-23T06:30:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4NZFWB_15ueUnHL00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-10-20T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ac6ffafb39cbed01d3f693c8618c0fc257a860d4",
+    "url": "https://www.newsbreak.com/news/4307812412043-hudson-school-district-parents-face-uncertainty-with-upcoming-school-closures",
+    "ord_in_thread": 0,
+    "author": "Soyoung Kim",
+    "published": "2025-10-23T06:30:00.000+03:00",
+    "title": "Hudson School District parents face uncertainty with upcoming school closures - NewsBreak",
+    "text": "By Soyoung Kim ,\n2 hours ago HUDSON, Wis. (FOX 9) - Now that the Hudson School District has decided to shutter two of its elementary schools, families impacted are asking, \"what comes next?\" The school board voted 6-1 on Oct. 13th in favor of closing both Willow River and Houlton Elementary Schools. District leaders said this... Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Education",
+        "Social Issue"
+    ],
+    "topics": [
+        "Education->parents group",
+        "Education->school",
+        "Social Issue->children",
+        "Social Issue->family",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Soyoung Kim",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "HUDSON",
+                "sentiment": "none"
+            },
+            {
+                "name": "Willow",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hudson School District",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Houlton Elementary Schools",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Hammond"
+            ],
+            "state": [
+                "Wisconsin"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-23T07:46:46.417+03:00",
+    "updated": "2025-10-23T08:35:11.698+03:00"
+}

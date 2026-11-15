@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "198407249b2adbf51058833b334ede3fbcf35bf7",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4636284461966-special-weather-statement-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/nws-alerts-1671083",
+        "site_categories": [
+            "politics",
+            "crime, law and justice",
+            "sport",
+            "human interest",
+            "under_construction",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Special Weather Statement by NWS - NewsBreak",
+        "title_full": "Special Weather Statement by NWS - NewsBreak",
+        "published": "2026-05-07T07:01:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1Dx5HM_1B9cx15c00",
+        "performance_score": 0,
+        "domain_rank": 2952,
+        "domain_rank_updated": "2026-05-04T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "198407249b2adbf51058833b334ede3fbcf35bf7",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4636284461966-special-weather-statement-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2026-05-07T07:01:00.000+03:00",
+    "title": "Special Weather Statement by NWS - NewsBreak",
+    "text": "23 minutes ago Check NWS updates here\nEffective: 2026-05-07 00:00:00 EDT Expires: 2026-05-07 00:30:00 EDT Urgency: Expected Severity: Moderate Certainty: Observed Instruction: If outdoors, consider seeking shelter inside a building. Target Area: Buncombe; Henderson; Rutherford Mountains; Greater Rutherford; Polk Mountains; Eastern Polk At 1200 AM EDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Downtown Asheville, or near Asheville Airport, moving east at 60 mph.\nHAZARD...Wind gusts up to 40 mph and pea size hail.\nSOURCE...Radar indicated.\nIMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.\nLocations impacted include... Arden, Mills River, Fletcher, Fairview In Buncombe County, Mountain Home, Bent Creek, Lake Lure, Chimney Rock Village, Chimney Rock State Park, and Bat Cave.\n1",
+    "summary": "23 minutes ago Check NWS updates here Effective: 2026-05-07 00:00:00 EDT Expires: 2026-05-07 00:30:00 EDT Urgency: Expected Severity: Moderate Certainty: Observed Instruction: If outdoors, consider seeking shelter inside a building. Target Area: Buncombe; Henderson; Rutherford Mountains; Greater Rutherford; Polk Mountains; Eastern Polk At 1200 AM EDT, Doppler radar was tracking a strong thunderstorm 10 miles south of Downtown Asheville, or near Asheville Airport, moving east at 60 mph. HAZARD...Wind gusts up to 40 mph and pea size hail. IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1Dx5HM_1B9cx15c00",
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.32b5531d2a3fce0f42fb24b7105289bd56046a3b.001.1",
+        "https://img.particlenews.com/image.php?url=1Dx5HM_1B9cx15c00",
+        "https://img.particlenews.com/image.php",
+        "https://alerts.weather.gov/search",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.32b5531d2a3fce0f42fb24b7105289bd56046a3b.001.1",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1Dx5HM_1B9cx15c00",
+        "https://www.img.particlenews.com/image.php?url=1Dx5HM_1B9cx15c00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Rutherford Mountains",
+                "sentiment": "none"
+            },
+            {
+                "name": "Asheville Airport",
+                "sentiment": "none"
+            },
+            {
+                "name": "Buncombe",
+                "sentiment": "none"
+            },
+            {
+                "name": "Henderson",
+                "sentiment": "none"
+            },
+            {
+                "name": "Greater Rutherford",
+                "sentiment": "none"
+            },
+            {
+                "name": "Polk Mountains",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Doppler",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-07T07:26:26.660+03:00",
+    "updated": "2026-05-07T07:32:46.000+03:00"
+}

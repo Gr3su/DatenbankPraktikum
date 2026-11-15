@@ -1,0 +1,140 @@
+{
+    "thread": {
+        "uuid": "892cf36604238cbc650ac1d86ca3726427420478",
+        "url": "https://www.newsbreak.com/news/4838275729169-driver-admits-drinking-driving-153-mph-before-deadly-tempe-crash",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/tempe-az",
+        "site_categories": [
+            "human interest",
+            "under_construction",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "social issue",
+            "arts, culture and entertainment",
+            "science and technology",
+            "politics",
+            "economy, business and finance",
+            "sport"
+        ],
+        "section_title": "Tempe, AZ Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Driver admits drinking, driving 153 mph before deadly Tempe crash - NewsBreak",
+        "title_full": "Driver admits drinking, driving 153 mph before deadly Tempe crash - NewsBreak",
+        "published": "2026-08-19T22:40:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1vUCr4_1EO9NDh800",
+        "performance_score": 0,
+        "domain_rank": 3070,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "892cf36604238cbc650ac1d86ca3726427420478",
+    "url": "https://www.newsbreak.com/news/4838275729169-driver-admits-drinking-driving-153-mph-before-deadly-tempe-crash",
+    "ord_in_thread": 0,
+    "author": "AZFamily",
+    "published": "2026-08-19T22:40:00.000+03:00",
+    "title": "Driver admits drinking, driving 153 mph before deadly Tempe crash - NewsBreak",
+    "text": "8 hours ago Derek Gray has pleaded guilty to two counts of manslaughter in connection with the deadly 2023 Tempe crash. Investigators say Gray admitted to drinking and driving 153 mph in a 35 mph zone. His car crashed into a power pole and two palm trees. Gray survived, but passengers Jesse Ruiz and Maria Rangel were thrown from the vehicle and died. Gray is scheduled to be sentenced next month. Read full article\n5",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->assault",
+        "Crime, Law and Justice->reckless driving"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.azfamily.com/video/2026/08/19/driver-admits-drinking-driving-153-mph-before-deadly-tempe-crash/?outputType=amp",
+        "https://azfamily.com/video/2026/08/19/driver-admits-drinking-driving-153-mph-before-deadly-tempe-crash/?outputType=amp",
+        "https://www.azfamily.com/video/2026/08/19/driver-admits-drinking-driving-153-mph-before-deadly-tempe-crash/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Derek Gray",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Maria Rangel",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jesse Ruiz",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Tempe",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Tempe"
+            ],
+            "state": [
+                "Arizona"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:16:05.175+03:00",
+    "updated": "2026-08-20T07:34:06.000+03:00"
+}

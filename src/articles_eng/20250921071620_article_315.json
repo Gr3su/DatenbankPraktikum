@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "34f72193768f27490be8e769d79b8f90198eb3fa",
+        "url": "https://www.newsbreak.com/news/4240995601415-utah-weather-alert-first-freeze-dates-arrive-soon-across-state",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/howell-ut",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Howell, UT Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Utah Weather Alert: First Freeze Dates Arrive Soon Across State - NewsBreak",
+        "title_full": "Utah Weather Alert: First Freeze Dates Arrive Soon Across State - NewsBreak",
+        "published": "2025-09-18T05:03:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3Q1IWj_14qJxmvf00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "34f72193768f27490be8e769d79b8f90198eb3fa",
+    "url": "https://www.newsbreak.com/news/4240995601415-utah-weather-alert-first-freeze-dates-arrive-soon-across-state",
+    "ord_in_thread": 0,
+    "author": "County Herald Weather Center",
+    "published": "2025-09-18T05:03:00.000+03:00",
+    "title": "Utah Weather Alert: First Freeze Dates Arrive Soon Across State - NewsBreak",
+    "text": "By County Herald Weather Center ,\n7 hours ago Salt Lake City, UT – Winter’s first chill is approaching, and Utahns are being reminded to prepare for the season’s first freeze. According to the National Weather Service in Salt Lake City, the first fall freeze typically arrives between late September and October, depending on elevation. The... Read full article\nRead in NewsBreak 2",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather",
+        "Environment"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Environment->climate change",
+        "Environment->energy resources",
+        "Environment->nature"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Howell"
+            ],
+            "state": [
+                "Utah"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-18T07:23:35.097+03:00",
+    "updated": "2025-09-18T12:54:39.973+03:00"
+}

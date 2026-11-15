@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "1842ad55052ab91f8fe5ab36c439efb5ff51255f",
+        "url": "https://www.youtube.com/watch?v=x03ZxnzfgNA",
+        "site_full": "www.youtube.com",
+        "site": "youtube.com",
+        "site_section": "https://rss.app/feeds/_26yatrqju2csdc4j.xml",
+        "site_categories": [
+            "television",
+            "",
+            "entertainment",
+            "war, conflict and unrest",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "All News",
+        "site_title": "YouTube",
+        "title": "Trump's Venezuela Money Grab, Problem Falling Asleep in Meetings & Unarmed Woman Killed by ICE",
+        "title_full": "Trump's Venezuela Money Grab, Problem Falling Asleep in Meetings & Unarmed Woman Killed by ICE",
+        "published": "2026-01-08T06:45:00.000+02:00",
+        "replies_count": 96,
+        "participants_count": 93,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ytimg.com/vi/x03ZxnzfgNA/maxresdefault.jpg",
+        "performance_score": 0,
+        "domain_rank": 9,
+        "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "37f4ce143855b1b6de26a2f6703bf466f0774209",
+    "url": "https://www.youtube.com/watch?v=x03ZxnzfgNA#post-18",
+    "ord_in_thread": 18,
+    "author": "@lazysk8z",
+    "published": "2026-01-08T07:24:00.000+02:00",
+    "title": "",
+    "text": "# --- THE ACDC MANIFESTO: ENCLAVE-001 PROTOCOL --- # Purpose: To turn kinetic waste into Citizen Equity. # Vision: From Bureaucratic Fog to Effortless Effectiveness. import machine import time import network # 1. THE FOUNDATION: IDENTITY & MATH # P = 0.5 * rho * A * v^3 NODE_ID = \"MET-001-ALPHA\" COST_TO_BUILD = 25.00 # \"Dirty Deeds Done Dirt Cheap\" # 2. THE BLUEPRINT (For the next Gemini/User) DOCS = { \"ACT\": \"Kinetic Recovery & Grid Resilience (KRGR) Act\", \"PHASE_1\": \"Bayou Blitz: 50k nodes in New Orleans/Metairie\", \"HARDWARE\": \"DC Motor (Reverse), Bridge Rectifier, ESP32\", \"EXIT_STRATEGY\": \"From 'Rule of Law' to 'DNA Saver' on 3I/ATLAS\" } def manifest_narrative(): print(f\"--- INITIALIZING {NODE_ID} ---\") print(\"Evolutionary Shift: Tool -> Engine -> Exit.\") for stage, desc in DOCS.items(): print(f\"[{stage}]: {desc}\") # 3. THE KINETIC HARVEST (The \"Trick\") # Measuring the \"Cold-Side\" exhaust from the A/C sensor = machine.ADC(machine.Pin(34)) def shred_the_bill(): \"\"\"Converts the 'Bureaucratic Echo' into measurable Watts.\"\"\" raw = sensor.read() # Calibration: Mapping waste velocity to Watts watts = (raw / 4095) * 25.0 if watts > 0.5: print(f\"STATUS: SHREDDING. Yield: {watts}W\") print(\"ACTION: You are no longer a consumer; you are a Producer.\") else: print(\"STATUS: IDLE. Waiting for the 'Niagara' flow.\") # 4. THE MESH (Divided We Fall, Linked We Stand) def initialize_mesh(): \"\"\"Broadcasts the 'ACDC_Node_001' signal.\"\"\" wlan = network.WLAN(network.AP_IF) wlan.config(essid=f\"ACDC_{NODE_ID}\", authmode=0) wlan.active(True) print(f\"MESH LIVE: Search for ACDC_{NODE_ID} to join the Treasury.\") if __name__ == \"__main__\": manifest_narrative() initialize_mesh() while True: shred_the_bill() time.sleep(60) # Conserve power while the ledger grows.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": null,
+    "external_images": null,
+    "internal_images": null,
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-08T07:31:50.907+02:00",
+    "updated": "2026-01-08T07:31:50.907+02:00"
+}

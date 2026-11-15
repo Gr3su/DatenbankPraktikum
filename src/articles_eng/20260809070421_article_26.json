@@ -1,0 +1,140 @@
+{
+    "thread": {
+        "uuid": "de02951a84cb85b664ae4c68b8fdb1ed015d1e48",
+        "url": "https://www.world-today-news.com/meta-launches-muse-code-ai-agent-and-muse-spark-1-2-to-rival-claude-and-openai/",
+        "site_full": "www.world-today-news.com",
+        "site": "world-today-news.com",
+        "site_section": "https://www.world-today-news.com/category/technology",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "politics",
+            "sport",
+            "science and technology",
+            "lifestyle and leisure",
+            "media",
+            "economy, business and finance",
+            "health"
+        ],
+        "section_title": "Technology Archives - World Today News",
+        "site_title": "World Today News - Your Global News Source Directory",
+        "title": "Meta Launches Muse Code AI Agent and Muse Spark 1.2 to Rival Claude and OpenAI - World Today News",
+        "title_full": "Meta Launches Muse Code AI Agent and Muse Spark 1.2 to Rival Claude and OpenAI - World Today News",
+        "published": "2026-08-06T06:22:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 128307,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "de02951a84cb85b664ae4c68b8fdb1ed015d1e48",
+    "url": "https://www.world-today-news.com/meta-launches-muse-code-ai-agent-and-muse-spark-1-2-to-rival-claude-and-openai/",
+    "ord_in_thread": 0,
+    "author": "Rachel Kim - Technology Editor",
+    "published": "2026-08-06T06:22:00.000+03:00",
+    "title": "Meta Launches Muse Code AI Agent and Muse Spark 1.2 to Rival Claude and OpenAI - World Today News",
+    "text": "Meta Launches Muse Code AI Agent and Muse Spark 1.2 to Rival Claude and OpenAI\nMeta Enters AI Coding Wars With Muse Code and Muse Spark 1.2\nMeta released Muse Code, a terminal-based AI coding agent currently in beta, alongside Muse Spark 1.2, a coding-focused update to its Muse Spark family of frontier models, according to an announcement. This release positions the company against Anthropic’s Claude Code, OpenAI’s Codex, and other agentic coding harnesses. Meta co-founder and CEO Mark Zuckerberg announced the rollout on the social network X, noting that the terminal agent handles software engineering tasks across large repositories, including planning, writing, and validation.\nThe Tech TL;DR:\n- What dropped: Muse Code (a terminal harness) and Muse Spark 1.2 (a proprietary coding model).\n- Architectural bet: Persistent background agents and parallel sub-agents running inside isolated Git worktrees.\n- Pricing and data tradeoff: A standard API tier at $1.25/$4.25 per million tokens versus a contributor tier at $0.10/$0.20 per million tokens where user prompts train future Meta models.\nArchitectural Mechanics: Persistent Background Agents and Parallel Git Worktrees\nUnlike helper agents that spin up fresh for every prompt, Muse Code maintains a set of specialized background agents active for an entire session. According to Meta’s technical documentation, this persistence prevents redundant repository exploration. When tasks scale up, Muse Code fans out to isolated sub-agents running in parallel git worktrees, preventing modifications to the user’s active workspace. Zuckerberg noted in his X post that testing successfully built six game features simultaneously without file collisions.\nFor engineering teams integrating these tools into existing CI/CD pipelines, architectural stability matters just as much as parallel throughput.\nCLI Installation and Setup\nDevelopers can install the terminal harness directly via a shell script provided in Meta’s documentation. Execution requires an active Meta account and billing information on file:\ncurl -fsSL https://dev.meta.ai/install.sh | bash\nModel Benchmarks and Training Methodologies for Muse Spark 1.2\nUnder the hood, Muse Spark 1.2 features scaled-up training compute on coding tasks. Meta co-trained the model directly with Muse Code using rejection-sampled harness trajectories, ensuring the model is tuned specifically for the terminal harness. In a self-improvement loop, Muse Spark 1.1 generated challenging coding environments and validated candidate solutions to build training data for version 1.2.\nPerformance data published by Meta shows Muse Spark 1.2 trailing Anthropic’s Claude Opus 5 across multiple benchmarks. On Terminal-Bench 2.1, Muse Spark 1.2 scored 82.9%, compared to OpenAI’s GPT-5.6 Terra at 81.8% and Anthropic’s Claude Code running Opus 5 at 86.7%. On DeepSWE 1.1, Muse Spark 1.2 achieved 59.3%, sitting behind Claude Opus 5 (65.0%) and GPT-5.6 Terra (64.8%). Meta’s internal coding benchmark placed Muse Spark 1.2 at 70.6%, ahead of GPT-5.6 Terra (65.4%) but behind Opus 5’s 79.4%.\nIn a long-horizon demonstration, Meta directed Muse Spark 1.2 at GPU kernel optimization on NVIDIA Hopper hardware. Running over 1,000 tool calls across 24 hours in Triton, the agent generated optimizations for KDA and MLA kernels, including chunk midpoint re-centering for gated cumulative decay.\nAPI Pricing Tiers and Enterprise Data Governance\nMeta structured the Meta Model API release around two distinct pricing tiers. The standard tier costs $1.25 per million input tokens and $4.25 per million output tokens, with cached input priced at $0.15, guaranteeing that prompt data is not used for model training. The contributor tier prices input tokens at $0.10 and output tokens at $0.20, with cached input at $0.002, in exchange for explicit permission for Meta to use prompt completions for future model training.\nSecurity teams managing SOC 2 compliance and proprietary source code must evaluate whether the contributor tier aligns with internal data governance policies.\nThe Shift Away From Open Weights\nThe release marks a departure from Meta’s previous open-source strategy established by the Llama family, which accumulated roughly 1.2 billion downloads. Muse Spark 1.2 and Muse Code are entirely proprietary, cloud-only offerings with no downloadable weights. When asked on X about an open-source release for Muse Code, Zuckerberg replied, “I’ll have more to share on that soon.”\nEditorial Kicker\nAs agentic harnesses become standard developer tooling, the real bottleneck is no longer raw model reasoning, but trustworthy execution states and secure audit logging. When integrating proprietary repositories with autonomous agents, enterprises must ensure their infrastructure partners maintain strict code isolation.\n*Disclaimer: The technical analyses and security protocols detailed in this article are for informational purposes only. Always consult with certified IT and cybersecurity professionals before altering enterprise networks or handling sensitive data.*",
+    "summary": "Meta co-founder and CEO Mark Zuckerberg announced the rollout on the social network X, noting that the terminal agent handles software engineering tasks across large repositories, including planning, writing, and validation. When tasks scale up, Muse Code fans out to isolated sub-agents running in parallel git worktrees, preventing modifications to the user’s active workspace. Running over 1,000 tool calls across 24 hours in Triton, the agent generated optimizations for KDA and MLA kernels, including chunk midpoint re-centering for gated cumulative decay.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->scientific research",
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mark Zuckerberg",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Meta",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "META",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Rival Claude",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "OpenAI",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Anthropic",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:05:27.789+03:00",
+    "updated": "2026-08-06T07:07:30.000+03:00"
+}

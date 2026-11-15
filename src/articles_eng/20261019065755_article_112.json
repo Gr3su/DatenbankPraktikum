@@ -1,0 +1,148 @@
+{
+    "thread": {
+        "uuid": "26269e0a57f11f96581151a07b1b0932b1fd6f86",
+        "url": "https://www.newsbreak.com/news/4948421311760-zebras-to-leave-sedgwick-county-zoo-this-month",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/argonia-ks",
+        "site_categories": [
+            "politics",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "under_construction",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "sport"
+        ],
+        "section_title": "Argonia, KS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Zebras to leave Sedgwick County Zoo this month - NewsBreak",
+        "title_full": "Zebras to leave Sedgwick County Zoo this month - NewsBreak",
+        "published": "2026-10-16T01:09:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1fC7xg_1G98QkDx00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:03:23.500+03:00"
+        }
+    },
+    "uuid": "26269e0a57f11f96581151a07b1b0932b1fd6f86",
+    "url": "https://www.newsbreak.com/news/4948421311760-zebras-to-leave-sedgwick-county-zoo-this-month",
+    "ord_in_thread": 0,
+    "author": "Maya Daniels",
+    "published": "2026-10-16T01:09:00.000+03:00",
+    "title": "Zebras to leave Sedgwick County Zoo this month - NewsBreak",
+    "text": "By Maya Daniels ,\n5 hours ago WICHITA, Kan. (KWCH) - The Sedgwick County Zoo is set to say goodbye to its two zebras. Honey and Louise, the only two Grevy’s zebras at the zoo, will be moving to another zoo later this month. They’ve been at Sedgwick County Zoo for nearly six years. Back in 2020, they arrived from Zoo Miami on Halloween weekend, where they were born just three days apart. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kwch.com/2026/10/15/zebras-leave-sedgwick-county-zoo-october/?outputType=amp",
+        "https://www.kwch.com/2026/10/15/zebras-leave-sedgwick-county-zoo-october/",
+        "https://kwch.com/2026/10/15/zebras-leave-sedgwick-county-zoo-october/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Honey",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Louise",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Maya Daniels",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "WICHITA",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sedgwick County Zoo",
+                "sentiment": "none"
+            },
+            {
+                "name": "Zoo Miami",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Zebras",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "K",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Argonia"
+            ],
+            "state": [
+                "Kansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:03:23.500+03:00",
+    "updated": "2026-10-16T07:03:29.000+03:00",
+    "related_articles": null
+}

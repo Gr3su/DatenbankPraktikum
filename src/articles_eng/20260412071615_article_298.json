@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "15a7809c0f6e45751c318a83ca32f38d5ef5585f",
+        "url": "https://guardian.ng/news/northeast-states-risk-darkness-as-yedc-plans-maintenance-of-330kv-line/",
+        "site_full": "guardian.ng",
+        "site": "guardian.ng",
+        "site_section": "https://news.google.com/search?q=as%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "media",
+            "economy, business and finance",
+            "social issue",
+            "human interest",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+        "title": "Northeast states risk darkness as YEDC plans maintenance of 330kV line",
+        "title_full": "Northeast states risk darkness as YEDC plans maintenance of 330kV line",
+        "published": "2026-04-09T07:05:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "https://cdn.guardian.ng/wp-content/uploads/2025/12/The-Yola-Electricity-Distribution-Company-YEDC.webp",
+        "performance_score": 0,
+        "domain_rank": 15558,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "15a7809c0f6e45751c318a83ca32f38d5ef5585f",
+    "url": "https://guardian.ng/news/northeast-states-risk-darkness-as-yedc-plans-maintenance-of-330kv-line/",
+    "ord_in_thread": 0,
+    "author": "Charles Akpeji",
+    "published": "2026-04-09T07:05:00.000+03:00",
+    "title": "Northeast states risk darkness as YEDC plans maintenance of 330kV line",
+    "text": "Yola Electricity Distribution Company (YEDC) has again announced a scheduled power outage that would impact several states in the Northeast region as part of ongoing efforts to upgrade critical transmission infrastructure.\nIn a notice issued yesterday, the company disclosed that the outage would occur along the Jos–Bauchi–Gombe 330kv transmission line, identified as 2JOS-BAU-GMB1, from today to May 22.\nAccording to the statement, contractors from the Transmission Company of Nigeria (TCN) would undertake maintenance work across the 276-kilometre stretch of the power line. The project is aimed at improving electricity supply reliability in the region.\nConsequently, residents of Adamawa, Taraba and Yobe states are to experience intermittent daytime outage for at least four days weekly. The disruptions would occur between 9:00 a.m. and 6:00 p.m. throughout the maintenance period.\nYEDC urged customers to take precautionary measures, particularly by safeguarding electrical infrastructure such as transformers within their communities against vandalism during the outage window.\nThe company expressed regret over the inconvenience and appealed for public understanding, noting that the maintenance work is essential for long-term improvements to the power supply network.\nCustomers seeking further information or wishing to report issues were advised to contact YEDC through its official customer service channels.",
+    "summary": "Yola Electricity Distribution Company (YEDC) has again announced a scheduled power outage that would impact several states in the Northeast region as part of ongoing efforts to upgrade critical transmission infrastructure. According to the statement, contractors from the Transmission Company of Nigeria (TCN) would undertake maintenance work across the 276-kilometre stretch of the power line. Consequently, residents of Adamawa, Taraba and Yobe states are to experience intermittent daytime outage for at least four days weekly. YEDC urged customers to take precautionary measures, particularly by safeguarding electrical infrastructure such as transformers within their communities against vandalism during the outage window.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Environment"
+    ],
+    "topics": [
+        "Environment->energy resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Northeast",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "YEDC",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Yola Electricity Distribution Company",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Transmission Company of Nigeria",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "TCN",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:28:29.636+03:00",
+    "updated": "2026-04-09T07:30:56.000+03:00"
+}

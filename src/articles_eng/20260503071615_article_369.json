@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "5abea4333c920c3c3b99025a2dc5c2d7ac1db554",
+        "url": "https://www.newsbreak.com/whas11-524556/4620046417065-louisville-man-wins-first-prize-at-1-million-dollar-hole-in-one-golf-contest",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/shepherdsville-ky",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "sport",
+            "economy, business and finance",
+            "under_construction",
+            "crime, law and justice",
+            "human interest",
+            "politics",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Shepherdsville, KY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Louisville man wins first prize at $1 Million Dollar Hole-In-One Golf Contest - NewsBreak",
+        "title_full": "Louisville man wins first prize at $1 Million Dollar Hole-In-One Golf Contest - NewsBreak",
+        "published": "2026-04-29T15:33:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0aG5WJ_1AuG92w900",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5abea4333c920c3c3b99025a2dc5c2d7ac1db554",
+    "url": "https://www.newsbreak.com/whas11-524556/4620046417065-louisville-man-wins-first-prize-at-1-million-dollar-hole-in-one-golf-contest",
+    "ord_in_thread": 0,
+    "author": "WHAS11",
+    "published": "2026-04-29T15:33:00.000+03:00",
+    "title": "Louisville man wins first prize at $1 Million Dollar Hole-In-One Golf Contest - NewsBreak",
+    "text": "15 hours ago LOUISVILLE, Ky. — A Louisville man won $5,000 Tuesday evening after he came the closest to winning the Kentucky Derby Festival $1 Million Dollar Hole-In-One Golf Contest. Though no one aced hole #8 at Seneca Golf Course, Jeremy Milam was nearest to the pin, hitting his tee 5 feet 2 1/4 inches from the cup. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Sport->sports medal and trophy",
+        "Sport->golf"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jeremy Milam",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Louisville",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Shepherdsville"
+            ],
+            "state": [
+                "Kentucky"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:26:19.614+03:00",
+    "updated": "2026-04-30T07:30:59.000+03:00"
+}

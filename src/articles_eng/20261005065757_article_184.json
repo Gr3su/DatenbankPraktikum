@@ -1,0 +1,156 @@
+{
+    "thread": {
+        "uuid": "114fc78680651c09dac8a88fab23d0a055c6cba1",
+        "url": "https://www.newsbreak.com/news/4920244148492-duke-energy-over-1k-left-without-power-after-crash-damages-power-pole-in-spartanburg-co",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/blacksburg-sc",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "sport",
+            "lifestyle and leisure",
+            "politics",
+            "crime, law and justice",
+            "economy, business and finance",
+            "science and technology"
+        ],
+        "section_title": "Blacksburg, SC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Duke Energy: Over 1K left without power after crash damages power pole in Spartanburg Co. - NewsBreak",
+        "title_full": "Duke Energy: Over 1K left without power after crash damages power pole in Spartanburg Co. - NewsBreak",
+        "published": "2026-10-02T02:17:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2TQ1tg_1FhkkGl800",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:06:26.435+03:00"
+        }
+    },
+    "uuid": "114fc78680651c09dac8a88fab23d0a055c6cba1",
+    "url": "https://www.newsbreak.com/news/4920244148492-duke-energy-over-1k-left-without-power-after-crash-damages-power-pole-in-spartanburg-co",
+    "ord_in_thread": 0,
+    "author": "Tyler Scott",
+    "published": "2026-10-02T02:17:00.000+03:00",
+    "title": "Duke Energy: Over 1K left without power after crash damages power pole in Spartanburg Co. - NewsBreak",
+    "text": "By Tyler Scott ,\n4 hours ago SPARTANBURG COUNTY, S.C. (FOX Carolina) - The Spartanburg County Sheriff’s Office said a multi-vehicle crash has damaged a power pole on Thursday. Deputies said the wreck took place on East Blackstock Road near Paradise Lanes. All lanes were closed after the crash until the pole was cleared from the roadway at 8:20 p.m. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Politics"
+    ],
+    "topics": [
+        "Disaster and Accident->accident and emergency incident",
+        "Disaster and Accident->transportation accident and incident",
+        "Politics->civil and public service",
+        "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.foxcarolina.com/2026/10/01/duke-energy-over-1k-without-power-after-crash-damages-power-pole-spartanburg-co/?outputType=amp",
+        "https://www.foxcarolina.com/2026/10/01/duke-energy-over-1k-without-power-after-crash-damages-power-pole-spartanburg-co/",
+        "https://foxcarolina.com/2026/10/01/duke-energy-over-1k-without-power-after-crash-damages-power-pole-spartanburg-co/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tyler Scott",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Paradise Lanes",
+                "sentiment": "none"
+            },
+            {
+                "name": "Spartanburg Co",
+                "sentiment": "none"
+            },
+            {
+                "name": "East Blackstock Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Duke Energy",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "DUK",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Blacksburg"
+            ],
+            "state": [
+                "South Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:06:26.435+03:00",
+    "updated": "2026-10-02T07:09:04.000+03:00",
+    "related_articles": null
+}

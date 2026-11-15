@@ -1,0 +1,125 @@
+{
+    "thread": {
+        "uuid": "c85fa9654fe4a00b47c3edc7151cc8566581deb1",
+        "url": "https://www.newsbreak.com/news/4569873373729-first-alert-fantastic-evening-quiet-night-on-the-way",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/moncks-corner-sc",
+        "site_categories": [
+            "politics",
+            "crime, law and justice",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "under_construction",
+            "sport",
+            "human interest"
+        ],
+        "section_title": "Moncks Corner, SC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "FIRST ALERT: Fantastic Evening & Quiet Night on the Way! - NewsBreak",
+        "title_full": "FIRST ALERT: Fantastic Evening & Quiet Night on the Way! - NewsBreak",
+        "published": "2026-04-01T04:35:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/19sd5Y_1A5i9bYt00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c85fa9654fe4a00b47c3edc7151cc8566581deb1",
+    "url": "https://www.newsbreak.com/news/4569873373729-first-alert-fantastic-evening-quiet-night-on-the-way",
+    "ord_in_thread": 0,
+    "author": "Bill Walsh",
+    "published": "2026-04-01T04:35:00.000+03:00",
+    "title": "FIRST ALERT: Fantastic Evening & Quiet Night on the Way! - NewsBreak",
+    "text": "By Bill Walsh ,\n1 days ago CHARLESTON, S.C. (WCSC) — Our fine looking weather continues as we head into tonight and for the rest of the Easter week. Above-average temperatures will continue into the end of the week with highs in the low to mid 80s inland (upper 60s and low 70s at our beaches); similar daytime temperatures are also in the forecast through Saturday. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bill Walsh",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "S. C.",
+                "sentiment": "none"
+            },
+            {
+                "name": "CHARLESTON",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WCSC",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Moncks Corner"
+            ],
+            "state": [
+                "South Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-02T07:24:27.016+03:00",
+    "updated": "2026-04-02T07:24:27.016+03:00"
+}

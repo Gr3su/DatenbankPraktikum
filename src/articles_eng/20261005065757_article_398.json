@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "58fca7dc4688980b22fc4ec05765c85e2feec2a3",
+        "url": "https://www.newsbreak.com/news/4919670924019-a-p-instructor-added-at-iv",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/standard-il",
+        "site_categories": [
+            "lifestyle and leisure",
+            "human interest",
+            "sport",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "politics",
+            "crime, law and justice",
+            "under_construction",
+            "science and technology"
+        ],
+        "section_title": "Standard, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "A&P instructor added at IV - NewsBreak",
+        "title_full": "A&P instructor added at IV - NewsBreak",
+        "published": "2026-10-01T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0pKU7r_1FhALoKz00",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:13:35.851+03:00"
+        }
+    },
+    "uuid": "58fca7dc4688980b22fc4ec05765c85e2feec2a3",
+    "url": "https://www.newsbreak.com/news/4919670924019-a-p-instructor-added-at-iv",
+    "ord_in_thread": 0,
+    "author": "Cooper Lamps",
+    "published": "2026-10-01T07:00:00.000+03:00",
+    "title": "A&P instructor added at IV - NewsBreak",
+    "text": "By Cooper Lamps ,\n1 days ago Dr. Wendy Lamboley is a new full-time faculty member in the Natural Science and Business Division at Illinois Valley Community College. She grew up in La Salle and is an IVCC alumna who began her education here. She possesses multiple degrees, but the ones that apply currently are her Master... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Education"
+    ],
+    "topics": [
+        "Education->curriculum"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://ivleader.com/news/2026/10/01/ap-instructor-added-at-iv/",
+        "https://www.ivleader.com/news/2026/10/01/ap-instructor-added-at-iv/",
+        "https://ivleader.com/news/2026/10/01/ap-instructor-added-at-iv"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Wendy Lamboley",
+                "sentiment": "positive"
+            }
+        ],
+        "locations": [
+            {
+                "name": "La Salle",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "A & P",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Illinois Valley Community College",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "IVCC",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Standard"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:13:35.851+03:00",
+    "updated": "2026-10-02T07:15:23.000+03:00",
+    "related_articles": null
+}

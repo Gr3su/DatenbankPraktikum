@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "902f80eff00bbd06065191d92e62cee5089fe547",
+        "url": "https://www.presstv.ir/Detail/2025/10/01/756073/Pro-Palestinian-protesters-demonstrate-outside-EU-summit-in-Copenhagen",
+        "site_full": "www.presstv.ir",
+        "site": "presstv.ir",
+        "site_section": "https://www.presstv.ir",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "PressTV",
+        "site_title": "PressTV",
+        "title": "Pro-Palestinian protesters demonstrate outside EU summit in Copenhagen",
+        "title_full": "Pro-Palestinian protesters demonstrate outside EU summit in Copenhagen",
+        "published": "2025-10-01T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IR",
+        "main_image": "https://cdn.presstv.ir/Photo/2025/10/1/ccb89de7-0289-415c-8ec1-e2fd02746ad2.jpg",
+        "performance_score": 0,
+        "domain_rank": 7228,
+        "domain_rank_updated": "2025-09-29T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "902f80eff00bbd06065191d92e62cee5089fe547",
+    "url": "https://www.presstv.ir/Detail/2025/10/01/756073/Pro-Palestinian-protesters-demonstrate-outside-EU-summit-in-Copenhagen",
+    "ord_in_thread": 0,
+    "author": "Presstv",
+    "published": "2025-10-01T03:00:00.000+03:00",
+    "title": "Pro-Palestinian protesters demonstrate outside EU summit in Copenhagen",
+    "text": "Pro-Palestinian demonstrators call for the EU to boycott and impose sanctions on the Israeli regime as European leaders hold talks in Copenhagen.\nOne protester says the EU has a responsibility to maintain international law and human rights, which can be done by boycotting and sanctioning the regime.\n(Source: AFP)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->political dissent",
+        "Politics->international relations",
+        "Politics->political campaigns",
+        "War, Conflict and Unrest->demonstration",
+        "War, Conflict and Unrest->civil unrest",
+        "Social Issue->demographics",
+        "Social Issue->social problem",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "EU",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "EU",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-02T07:19:20.175+03:00",
+    "updated": "2025-10-02T07:26:52.000+03:00"
+}

@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "832f6656cdd42ed666053b6dc2f46b43915f3387",
+        "url": "https://www.newsbreak.com/news/4569078467791-ksp-seeking-details-in-29-year-old-missing-person-case",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/providence-ky",
+        "site_categories": [
+            "human interest",
+            "economy, business and finance",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "sport",
+            "arts, culture and entertainment",
+            "politics",
+            "under_construction"
+        ],
+        "section_title": "Providence, KY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "KSP seeking details in 29-year-old missing person case - NewsBreak",
+        "title_full": "KSP seeking details in 29-year-old missing person case - NewsBreak",
+        "published": "2026-03-31T19:46:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0xivgf_1A4uhZvJ00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "832f6656cdd42ed666053b6dc2f46b43915f3387",
+    "url": "https://www.newsbreak.com/news/4569078467791-ksp-seeking-details-in-29-year-old-missing-person-case",
+    "ord_in_thread": 0,
+    "author": "WNKY Staff",
+    "published": "2026-03-31T19:46:00.000+03:00",
+    "title": "KSP seeking details in 29-year-old missing person case - NewsBreak",
+    "text": "By WNKY Staff ,\n1 days ago HOPKINS COUNTY, Ky. – The Kentucky State Police is seeking information in a 29-year-old missing person case. According to troopers, Monday marked 29 years since 29-year-old Charles C. Massey of Madisonville disappeared in Hopkins County. Authorities say the Kentucky State Police is requesting information from the public relevant to... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->investigation (criminal)"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Charles C. Massey",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Madisonville",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hopkins County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Kentucky State Police",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "KSP",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Providence"
+            ],
+            "state": [
+                "Kentucky"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-02T07:23:52.447+03:00",
+    "updated": "2026-04-02T07:30:16.000+03:00"
+}

@@ -1,0 +1,115 @@
+{
+    "thread": {
+        "uuid": "c1f414276af61c47d04a3a4c3e62c0ac5e39699c",
+        "url": "https://www.hindustantimes.com/business/as-ai-agents-go-shopping-cashfree-wants-to-link-intent-and-payments-101793940474801.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/web-stories/lifestyle",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "politics",
+            "economy, business and finance",
+            "social issue",
+            "media",
+            "crime, law and justice",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Lifestyle Web Stories: Check out the latest visual stories on fashion trends, beauty tips, health, travel and food. | Hindustan Times",
+        "site_title": "Hindustan Times: Breaking News, Latest News, India News, World News & Cricket Today's Headlines | Hindustan Times",
+        "title": "As AI agents go shopping, Cashfree wants to link intent and payments | Business News",
+        "title_full": "As AI agents go shopping, Cashfree wants to link intent and payments | Business News",
+        "published": "2026-11-06T06:47:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/11/06/1600x900/logo/People-who-start-shopping-through-AI-agents-tend-t_1793940466735_ovOm.jpg",
+        "performance_score": 0,
+        "domain_rank": 2756,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-11-06T07:00:29.289+02:00"
+        }
+    },
+    "uuid": "c1f414276af61c47d04a3a4c3e62c0ac5e39699c",
+    "url": "https://www.hindustantimes.com/business/as-ai-agents-go-shopping-cashfree-wants-to-link-intent-and-payments-101793940474801.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-11-06T06:47:00.000+02:00",
+    "title": "As AI agents go shopping, Cashfree wants to link intent and payments | Business News",
+    "text": "As AI agents go shopping, Cashfree wants to link intent and payments\nCashfree’s Checkout for Agents is adapting the process for AI agents which often struggle to select payment options or fill fields on websites designed for human usage\nA bridge that simply had to be crossed at some point. Digital payments completed by artificial intelligence (AI) agents have long been viewed as a regulatory north star, and payment platforms are now confident these can be enabled with little risk. Indian financial services and digital payments platform Cashfree has announced the launch of Checkout for Agents, making it the first payments company in India to use the WebMCP standard.\nThis development comes as personal AI agents, including Grok Bot and Instinct, have gained traction, particularly with users who want to see if these agents fit into their workflows or lifestyle. The way an AI agent works with digital payment scenarios is that a user can potentially set the rules to follow regarding price and payment types, what exactly the agent has to shop or search for, and the agent does the work based on these guidelines. A user can set flags for manual intervention, such as before finalising a payment.\nUsage scenarios cover everything from groceries to travel bookings, for users who may be comfortable handing over control of a financial transaction to an AI model.\n“People who start shopping through AI agents tend to keep using them, and that habit is forming quickly. For merchants, this means a growing share of customers will arrive at checkout through an agent. Our approach to agentic payments is to make sure every place these customers shop has a payments layer that works for them, so merchants do not lose those sales,” says Reeju Datta, Co-founder, Cashfree, in a statement shared with HT.\nAccording to tech strategy firm Juniper Research’s agentic commerce study, purchases made using AI agents will be valued at around $1.5 trillion worldwide by 2030. Datta insists he is a regular user of AI agents and has often noticed that the payment step is where most agents get stuck for different reasons. “We spoke to more than 50 founders building AI agents, and bringing WebMCP to our checkout was the clearest way to solve this for every merchant on Cashfree at once, without forcing them to make changes to the integration,” he points out.\nWebMCP is a browser-native web standard that lets websites make structured JavaScript functions and declarative HTML tools available directly to AI agents, allowing the agents to select payment options, fill form fields via structured inputs and not necessarily need a separate authentication page. Cashfree says the WebMCP standard can potentially reduce token consumption for AI agents by more than 40% to complete a checkout.\nCashfree says that Checkout for Agents is automatically enabled for all merchants on the platform, and no separate integration is required. Generally, most websites are designed for human usage and navigation, which tends to make them cumbersome for agents to navigate. As a result, they can use many tokens (as many as 2 million to complete a single checkout, they say) and a lot of time to understand what each button or field does.\nAgentic payments have been in focus for a while now. Earlier this year, Rahul Kothari, who is chief operating officer at Razorpay, told HT, “Commerce is being re-architected”. Razorpay’s Agentic Payments feature was enabled with Anthropic’s Claude conversational intelligence and OpenAI’s ChatGPT as part of the foundation, later adding Sarvam’s models for conversational checkout. Mastercard demonstrated India’s first authenticated agentic commerce transactions, working alongside AI developers, fintechs, and merchants earlier, at the India AI Impact Summit.\nPopular websites and apps in India that use Cashfree’s payment services include Nykaa, Zepto, CRED, tech company Primebook, Tata Cliq and Ixigo.\n- ABOUT THE AUTHOR\nVishal MathurVishal Mathur is Technology Editor for Hindustan Times. When not making sense of technology, he often searches for an elusive analog space in a digital world.\nStock Market Todayupdates and check your\nNSE IPO Allotment Status Today. Stay informed with the latest business news like\nN Chandrasekaran, petrol and diesel prices, gold and silver rates, income tax updates, and major economic developments across India and globally.",
+    "summary": "Usage scenarios cover everything from groceries to travel bookings, for users who may be comfortable handing over control of a financial transaction to an AI model. “We spoke to more than 50 founders building AI agents, and bringing WebMCP to our checkout was the clearest way to solve this for every merchant on Cashfree at once, without forcing them to make changes to the integration,” he points out.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Science and Technology->scientific innovation",
+        "Science and Technology->biotechnology",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->business information"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [
+        "https://www.hindustantimes.com/ht-img/img/2026/11/06/960x540/People-who-start-shopping-through-AI-agents-tend-t_1793940466735_ovOm.jpg",
+        "https://www.hindustantimes.com/ht-img/img/2026/11/06/400x225/People-who-start-shopping-through-AI-agents-tend-t_1793940466735_ovOm.jpg"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Cashfree",
+                "sentiment": "positive",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-11-06T07:00:29.289+02:00",
+    "updated": "2026-11-06T07:04:11.000+02:00",
+    "related_articles": null
+}

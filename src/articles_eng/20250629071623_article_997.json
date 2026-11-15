@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "3f50a7cce99190f2457527f4caaf6d74e4ffad91",
+        "url": "https://www.newsbreak.com/cbs-la-500220/4073594418293-police-arrest-suspect-who-shot-officer-near-santa-monica-place",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/cbs-la-500220",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "CBS LA&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Police arrest suspect who shot officer near Santa Monica Place - NewsBreak",
+        "title_full": "Police arrest suspect who shot officer near Santa Monica Place - NewsBreak",
+        "published": "2025-06-25T23:58:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4JvGfM_129eIv4o00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3f50a7cce99190f2457527f4caaf6d74e4ffad91",
+    "url": "https://www.newsbreak.com/cbs-la-500220/4073594418293-police-arrest-suspect-who-shot-officer-near-santa-monica-place",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-06-25T23:58:00.000+03:00",
+    "title": "Police arrest suspect who shot officer near Santa Monica Place - NewsBreak",
+    "text": "The Santa Monica Police Department arrested a man who allegedly shot an officer Wednesday afternoon. Santa Monica Police Chief Ramon Batista said officers located the suspect at 4:20 p.m. at Palisades Park, a few hours after the shooting. The officer was wounded near Santa Monica Place, located near 4th Street and Colorado Avenue. Investigators said the man who opened fire on the officer is also suspected of shooting two juveniles riding in a self-driving Waymo car Sunday night. The officer approached the suspect after recognizing him from a wanted bulletin connected to Sunday's shooting, according to Santa Monica PD. The suspect opened fire when the officer moved closer and ran away. The suspected shooter remains at large, SMPD said. The department asked the public to avoid the area near Santa Monica Place while the search continues. Around 3 p.m., police said, \"Santa Monica Place has been cleared and orders to shelter in place have been lifted throughout the downtown area.\" The officer was seriously injured but is in stable condition, according to Santa Monica PD. The department said the suspect is in his 30s, wearing a dark-colored jacket and black jeans, and that a coordinated search continues.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Politics"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->shootings",
+        "Social Issue->social services",
+        "Social Issue->social problem",
+        "Social Issue->discrimination",
+        "Politics->safety of citizens",
+        "Politics->civil rights",
+        "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=4JvGfM_129eIv4o00",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=4JvGfM_129eIv4o00",
+        "https://www.cbsnews.com/losangeles/news/shooting-waymo-santa-monica/",
+        "https://www.img.particlenews.com/image.php?url=4JvGfM_129eIv4o00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=4JvGfM_129eIv4o00",
+        "https://cbsnews.com/losangeles/news/shooting-waymo-santa-monica/",
+        "https://www.cbsnews.com/losangeles/news/shooting-waymo-santa-monica"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ramon Batista",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Place - NewsBreak",
+                "sentiment": "none"
+            },
+            {
+                "name": "4th Street",
+                "sentiment": "none"
+            },
+            {
+                "name": "Avenue",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Santa Monica Police Department",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-26T07:42:40.427+03:00",
+    "updated": "2025-06-26T04:47:35.000+00:00"
+}

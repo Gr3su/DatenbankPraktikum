@@ -1,0 +1,161 @@
+{
+    "thread": {
+        "uuid": "39f5884e97ea8a8b37825d7cccc9cb96e3c2bf62",
+        "url": "https://www.newsbreak.com/news/4730334534320-uw-lays-off-13-in-the-department-of-health-systems-and-population-health-just-four-days-after-graduation",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/seattle-wa",
+        "site_categories": [
+            "economy, business and finance",
+            "sport",
+            "disaster and accident",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "human interest",
+            "social issue",
+            "under_construction",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "Seattle, WA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "UW lays off 13 in the Department of Health Systems and Population Health, just four days after graduation - NewsBreak",
+        "title_full": "UW lays off 13 in the Department of Health Systems and Population Health, just four days after graduation - NewsBreak",
+        "published": "2026-06-24T21:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3Dryg7_1CfOFbRx00",
+        "performance_score": 0,
+        "domain_rank": 3030,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "39f5884e97ea8a8b37825d7cccc9cb96e3c2bf62",
+    "url": "https://www.newsbreak.com/news/4730334534320-uw-lays-off-13-in-the-department-of-health-systems-and-population-health-just-four-days-after-graduation",
+    "ord_in_thread": 0,
+    "author": "Sophia Sostrin The Daily",
+    "published": "2026-06-24T21:00:00.000+03:00",
+    "title": "UW lays off 13 in the Department of Health Systems and Population Health, just four days after graduation - NewsBreak",
+    "text": "By Sophia Sostrin The Daily ,\n13 hours ago The University of Washington laid off 13 employees in the Department of Health Systems and Population Health June 16 — four days after commencement — including six graduate program advisers whose union contract remains under negotiation. The advisers, represented by SEIU 925, strongly believe the timing was no... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Labor"
+    ],
+    "topics": [
+        "Labor->employee",
+        "Labor->unemployment"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.dailyuw.com/article/uw-lays-off-13-in-the-department-of-health-systems-and-population-health-just-four-days-after-graduation-20260624",
+        "https://dailyuw.com/article/uw-lays-off-13-in-the-department-of-health-systems-and-population-health-just-four-days-after-graduation-20260624"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sophia Sostri",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Department of Health Systems and Population Health",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "UW",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "The Daily",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "University of Washington",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "SEIU",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Seattle"
+            ],
+            "state": [
+                "Washington"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:20:17.420+03:00",
+    "updated": "2026-06-25T10:38:26.431+03:00"
+}

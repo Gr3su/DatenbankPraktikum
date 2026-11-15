@@ -1,0 +1,167 @@
+{
+    "thread": {
+        "uuid": "3b21992d91852b506e52ea1109b2894cb16c6644",
+        "url": "https://www.newsbreak.com/news/4811640270148-woman-killed-in-crash-with-big-rig-in-rural-collin-county",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/quinlan-tx",
+        "site_categories": [
+            "politics",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "health",
+            "arts, culture and entertainment",
+            "human interest",
+            "under_construction",
+            "social issue",
+            "sport",
+            "crime, law and justice"
+        ],
+        "section_title": "Quinlan, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Woman killed in crash with big rig in rural Collin County - NewsBreak",
+        "title_full": "Woman killed in crash with big rig in rural Collin County - NewsBreak",
+        "published": "2026-08-05T23:57:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2Rj8gy_1DyJYPfJ00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3b21992d91852b506e52ea1109b2894cb16c6644",
+    "url": "https://www.newsbreak.com/news/4811640270148-woman-killed-in-crash-with-big-rig-in-rural-collin-county",
+    "ord_in_thread": 0,
+    "author": "Juan Carlos Chaoui",
+    "published": "2026-08-05T23:57:00.000+03:00",
+    "title": "Woman killed in crash with big rig in rural Collin County - NewsBreak",
+    "text": "By Juan Carlos Chaoui ,\n1 days ago A woman died Tuesday after running a stop sign and colliding with a big rig in Collin County near Lucas, the Texas Department of Public Safety says. According to the DPS, the driver of a 2020 Chevrolet Spark headed east on Osage Lane didn't stop at the intersection and collided with a big rig headed north on Farm-to-Market Road 1378/Southview Drive. Read full article\n5",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nbcdfw.com/news/local/woman-killed-in-crash-with-big-rig-in-rural-collin-county/4058886/?amp=1",
+        "https://nbcdfw.com/news/local/woman-killed-in-crash-with-big-rig-in-rural-collin-county/4058886/?amp=1",
+        "https://www.nbcdfw.com/news/local/woman-killed-in-crash-with-big-rig-in-rural-collin-county/4058886/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Juan Carlos Chaoui",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Collin County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Southview Drive",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lucas",
+                "sentiment": "none"
+            },
+            {
+                "name": "Farm - to - Market Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Osage Lane",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "DPS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Texas Department of Public Safety",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Quinlan"
+            ],
+            "state": [
+                "Texas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:14:28.757+03:00",
+    "updated": "2026-08-07T11:40:11.348+03:00"
+}

@@ -1,0 +1,124 @@
+{
+    "thread": {
+        "uuid": "fedec60689d2c12ac7223a510ad36fc4e56c8132",
+        "url": "https://www.foxnews.com/video/6403313603112",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://moxie.foxnews.com/google-publisher/videos.xml",
+        "site_categories": [
+            "social issue",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "politics",
+            "sport",
+            "media"
+        ],
+        "section_title": "The Latest &amp; Breaking Videos on Fox News",
+        "site_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "Caitlyn Jenner: I don't want government involved here",
+        "title_full": "Caitlyn Jenner: I don't want government involved here",
+        "published": "2026-08-13T07:10:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/905072a6-629e-4cf8-96e1-4b4f16328e35/24261566-a8c7-4abb-b000-7f866868fca8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+        "performance_score": 0,
+        "domain_rank": 502,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fedec60689d2c12ac7223a510ad36fc4e56c8132",
+    "url": "https://www.foxnews.com/video/6403313603112",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-08-13T07:10:00.000+03:00",
+    "title": "Caitlyn Jenner: I don't want government involved here",
+    "text": "Log in to comment on videos and join in on the fun.\nWatch the live stream of Fox News and full episodes.\nReduce eye strain and focus on the content that matters.\nFormer Olympian Caitlyn Jenner discusses the debate over President Donald Trump stopping Medicaid funds for child sex changes on 'Fox News @ Night.'\nFox News contributor Caitlyn Jenner joins 'Fox News @ Night' host Trace Gallagher to react to President Trump halting Medicaid funds for youth sex-change procedures.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue",
+        "Politics"
+    ],
+    "topics": [
+        "Social Issue->social condition",
+        "Social Issue->values",
+        "Social Issue->ethics",
+        "Politics->government",
+        "Politics->censorship and freedom of speech",
+        "Politics->civil rights"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Caitlyn Jenner",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trace Gallagher",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Fox News @ Night",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_us",
+            "top_news"
+        ],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:28:16.100+03:00",
+    "updated": "2026-08-13T07:31:57.000+03:00"
+}

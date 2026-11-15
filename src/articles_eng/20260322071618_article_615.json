@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "3a4cc7bd0a0d278447736131fe8432a624ffcac1",
+        "url": "https://www.newsbreak.com/news/4546932256886-guest-commentary-fairfax-county-plans-sidewalk-to-nowhere-on-justice-park",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/annandale-va",
+        "site_categories": [
+            "sport",
+            "lifestyle and leisure",
+            "under_construction",
+            "human interest",
+            "arts, culture and entertainment",
+            "politics",
+            "economy, business and finance",
+            "crime, law and justice"
+        ],
+        "section_title": "Annandale, VA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Guest Commentary: Fairfax County Plans Sidewalk to Nowhere on Justice Park - NewsBreak",
+        "title_full": "Guest Commentary: Fairfax County Plans Sidewalk to Nowhere on Justice Park - NewsBreak",
+        "published": "2026-03-18T21:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2v1Cm8_19jarNm500",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3a4cc7bd0a0d278447736131fe8432a624ffcac1",
+    "url": "https://www.newsbreak.com/news/4546932256886-guest-commentary-fairfax-county-plans-sidewalk-to-nowhere-on-justice-park",
+    "ord_in_thread": 0,
+    "author": "FCNP.com",
+    "published": "2026-03-18T21:52:00.000+02:00",
+    "title": "Guest Commentary: Fairfax County Plans Sidewalk to Nowhere on Justice Park - NewsBreak",
+    "text": "By FCNP.com ,\n9 hours ago How is it that Fairfax County Department of Transportation (FCDOT), a DECADE after a Seven Corners community request for “a” sidewalk, spends extensive staff time, planning, construction mapping, and soil grading studies for this sidewalk with a price tag of nearly $1 million in a county park without reaching out to the originally requesting community for a check in? Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->local government policy",
+        "Politics->local government and authority"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Fairfax County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Justice Park",
+                "sentiment": "none"
+            },
+            {
+                "name": "Seven Corners",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "FCDOT",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Fairfax County Department of Transportation",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "FCNP. com",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Annandale"
+            ],
+            "state": [
+                "Virginia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:32:02.379+02:00",
+    "updated": "2026-03-19T07:37:36.000+02:00"
+}

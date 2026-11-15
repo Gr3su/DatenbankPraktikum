@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "ae0928d69961b215e87c5aed0299940ec3e5c4bf",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4799136372787-severe-thunderstorm-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/nws-alerts-1671083",
+        "site_categories": [
+            "politics",
+            "under_construction",
+            "arts, culture and entertainment",
+            "social issue",
+            "disaster and accident",
+            "lifestyle and leisure",
+            "sport",
+            "economy, business and finance",
+            "human interest",
+            "crime, law and justice"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "published": "2026-07-30T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/423Kfr_1DlioDo100",
+        "performance_score": 0,
+        "domain_rank": 3090,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ae0928d69961b215e87c5aed0299940ec3e5c4bf",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4799136372787-severe-thunderstorm-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2026-07-30T06:59:00.000+03:00",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "text": "15 minutes ago Check NWS updates here\nEffective: 2026-07-29 21:58:00 MDT Expires: 2026-07-29 22:08:00 MDT Urgency: Immediate Severity: Severe Certainty: Observed Target Area: Haakon, SD; Jackson, SD; Mellette, SD; Ziebach, SD The storms which prompted the warning have moved east out of the area. Therefore, the warning will be allowed to expire. However, gusty winds and heavy rain are still possible over the next hour.\nIf you observed hail, wind damage, or flooding, please report your observations to the National Weather Service office in Rapid City via phone, email, or social media, as soon as it is safe to do so.",
+    "summary": "15 minutes ago Check NWS updates here Effective: 2026-07-29 21:58:00 MDT Expires: 2026-07-29 22:08:00 MDT Urgency: Immediate Severity: Severe Certainty: Observed Target Area: Haakon, SD; Jackson, SD; Mellette, SD; Ziebach, SD The storms which prompted the warning have moved east out of the area. Therefore, the warning will be allowed to expire. However, gusty winds and heavy rain are still possible over the next hour.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.eda1465bce3b85e02f5373e7f4e080b3dd8165ba.001.1",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=423Kfr_1DlioDo100",
+        "https://img.particlenews.com/image.php?url=423Kfr_1DlioDo100",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=423Kfr_1DlioDo100",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.eda1465bce3b85e02f5373e7f4e080b3dd8165ba.001.1",
+        "https://www.img.particlenews.com/image.php?url=423Kfr_1DlioDo100",
+        "https://img.particlenews.com/image.php",
+        "https://alerts.weather.gov/search"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Ziebach",
+                "sentiment": "none"
+            },
+            {
+                "name": "SD",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rapid City",
+                "sentiment": "none"
+            },
+            {
+                "name": "Haakon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mellette",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jackson",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service office",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:22:49.518+03:00",
+    "updated": "2026-07-30T07:26:00.000+03:00"
+}

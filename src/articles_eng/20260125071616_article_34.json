@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "960220a536eda408e1fef27e7fb75653466c0c54",
+        "url": "https://www.newsbreak.com/news/4450786600941-medina-county-park-district-announces-full-slate-of-february-programs",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/ashland-oh",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Ashland, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Medina County Park District announces full slate of February programs - NewsBreak",
+        "title_full": "Medina County Park District announces full slate of February programs - NewsBreak",
+        "published": "2026-01-20T12:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1G8TzQ_18BiW2c900",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-18T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "960220a536eda408e1fef27e7fb75653466c0c54",
+    "url": "https://www.newsbreak.com/news/4450786600941-medina-county-park-district-announces-full-slate-of-february-programs",
+    "ord_in_thread": 0,
+    "author": "ODNR, Nina Harfmann",
+    "published": "2026-01-20T12:37:00.000+02:00",
+    "title": "Medina County Park District announces full slate of February programs - NewsBreak",
+    "text": "By ODNR, Nina Harfmann ,\n1 days ago Medina County Park District is offering a full slate of programs in February, ranging from fossil discoveries and birding events to guided hikes and family-friendly nature programs. Dozens of activities are planned throughout the month. The complete schedule – and registration for some events – can be found at www.medinacountyparks.com.... Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Environment",
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Environment->parks",
+        "Lifestyle and Leisure->outdoor recreational activities",
+        "Lifestyle and Leisure->leisure venue"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nina Harfmann",
+                "sentiment": "positive"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "ODNR",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Ashland"
+            ],
+            "state": [
+                "Ohio"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-22T07:17:43.649+02:00",
+    "updated": "2026-01-22T07:23:37.000+02:00"
+}

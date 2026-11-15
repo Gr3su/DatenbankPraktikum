@@ -1,0 +1,154 @@
+{
+    "thread": {
+        "uuid": "f3f19e890d552dd7608f173e739e7d69fc708940",
+        "url": "https://www.newsbreak.com/news/4989198649816-st-johns-river-flooding-expected-to-worsen-in-parts-of-central-florida-forecasters-say",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/port-orange-fl",
+        "site_categories": [
+            "economy, business and finance",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "politics",
+            "lifestyle and leisure",
+            "social issue",
+            "sport",
+            "under_construction"
+        ],
+        "section_title": "Port Orange, FL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "St. Johns River flooding expected to worsen in parts of Central Florida, forecasters say - NewsBreak",
+        "title_full": "St. Johns River flooding expected to worsen in parts of Central Florida, forecasters say - NewsBreak",
+        "published": "2026-11-06T01:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2Evs2P_1GoDzQvA00",
+        "performance_score": 0,
+        "domain_rank": 2894,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-11-06T06:58:04.161+02:00"
+        }
+    },
+    "uuid": "f3f19e890d552dd7608f173e739e7d69fc708940",
+    "url": "https://www.newsbreak.com/news/4989198649816-st-johns-river-flooding-expected-to-worsen-in-parts-of-central-florida-forecasters-say",
+    "ord_in_thread": 0,
+    "author": "fox35orlando.com",
+    "published": "2026-11-06T01:22:00.000+02:00",
+    "title": "St. Johns River flooding expected to worsen in parts of Central Florida, forecasters say - NewsBreak",
+    "text": "5 hours ago\nThe St. Johns River has reached flood stage near DeLand, with levels expected to rise to 4.6 feet early next week, potentially approaching moderate flooding. Flood concerns also extend to Astor, Lake Harney, Sanford and Cocoa, where some areas face moderate to major flooding. The National Weather Service urges residents...\nRead full article\nAdd to Preferred Sources\n9",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Weather->weather statistic"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox35orlando.com/news/st-johns-river-flooding-expected-worsen-parts-central-florida-forecasters-say.amp",
+        "https://www.google.com/preferences/source?q=newsbreak.com",
+        "https://www.gstatic.com/images/branding/productlogos/googleg_gradient/v1/24px.svg",
+        "https://google.com/preferences/source?q=newsbreak.com",
+        "https://fox35orlando.com/news/st-johns-river-flooding-expected-worsen-parts-central-florida-forecasters-say.amp",
+        "https://www.google.com/preferences/source",
+        "https://gstatic.com/images/branding/productlogos/googleg_gradient/v1/24px.svg"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsad.38f2c935.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwow.fc40898b.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "St. Johns River",
+                "sentiment": "none"
+            },
+            {
+                "name": "Central Florida",
+                "sentiment": "none"
+            },
+            {
+                "name": "Astor",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lake Harney",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sanford",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cocoa",
+                "sentiment": "none"
+            },
+            {
+                "name": "DeLand",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Port Orange"
+            ],
+            "state": [
+                "Florida"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-11-06T06:58:04.161+02:00",
+    "updated": "2026-11-06T06:59:40.000+02:00",
+    "related_articles": null
+}

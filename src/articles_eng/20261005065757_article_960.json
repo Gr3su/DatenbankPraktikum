@@ -1,0 +1,151 @@
+{
+    "thread": {
+        "uuid": "13c2ccff43e9ed78d387efbc87a02230f40d02bb",
+        "url": "https://www.newsbreak.com/news/4920209219182-police-2-teenagers-crash-parent-s-suv-into-row-of-beaverton-townhouses",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/portland-or",
+        "site_categories": [
+            "crime, law and justice",
+            "sport",
+            "science and technology",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "under_construction",
+            "politics",
+            "human interest"
+        ],
+        "section_title": "Portland, OR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Police: 2 teenagers crash parent's SUV into row of Beaverton townhouses - NewsBreak",
+        "title_full": "Police: 2 teenagers crash parent's SUV into row of Beaverton townhouses - NewsBreak",
+        "published": "2026-10-02T01:53:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2xSE5w_1FhiWaDe00",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:37:22.405+03:00"
+        }
+    },
+    "uuid": "13c2ccff43e9ed78d387efbc87a02230f40d02bb",
+    "url": "https://www.newsbreak.com/news/4920209219182-police-2-teenagers-crash-parent-s-suv-into-row-of-beaverton-townhouses",
+    "ord_in_thread": 0,
+    "author": "FOX 12 Staff",
+    "published": "2026-10-02T01:53:00.000+03:00",
+    "title": "Police: 2 teenagers crash parent's SUV into row of Beaverton townhouses - NewsBreak",
+    "text": "By FOX 12 Staff ,\n5 hours ago BEAVERTON Ore. (KPTV) - A teenager is facing charges related to reckless driving and running from police after an SUV crashed into two Beaverton townhouses early Thursday morning, according to police. At about 2 a.m., an officer with the Beaverton Police Department said they saw a Toyota Sequoia driving recklessly... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kptv.com/2026/10/01/police-2-teenagers-crash-parents-suv-into-row-beaverton-townhouses/?outputType=amp",
+        "https://kptv.com/2026/10/01/police-2-teenagers-crash-parents-suv-into-row-beaverton-townhouses/?outputType=amp",
+        "https://www.kptv.com/2026/10/01/police-2-teenagers-crash-parents-suv-into-row-beaverton-townhouses/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "BEAVERTON Ore",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "KPTV",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "FOX 12",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Beaverton Police Department",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:37:22.405+03:00",
+    "updated": "2026-10-02T07:39:25.000+03:00",
+    "related_articles": null
+}

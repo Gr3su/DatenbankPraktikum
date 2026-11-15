@@ -1,0 +1,156 @@
+{
+    "thread": {
+        "uuid": "63609821ac8e6533345e9c87736123033dd4f4e9",
+        "url": "https://www.newsbreak.com/news/4581243034157-tigers-bust-out-bats-in-win-at-waynesville",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/waynesville-mo",
+        "site_categories": [
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "sport",
+            "human interest",
+            "under_construction",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "Waynesville, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Tigers Bust Out Bats in Win at Waynesville - NewsBreak",
+        "title_full": "Tigers Bust Out Bats in Win at Waynesville - NewsBreak",
+        "published": "2026-04-08T06:25:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3Q2FXl_1AH9uhRK00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "63609821ac8e6533345e9c87736123033dd4f4e9",
+    "url": "https://www.newsbreak.com/news/4581243034157-tigers-bust-out-bats-in-win-at-waynesville",
+    "ord_in_thread": 0,
+    "author": "David",
+    "published": "2026-04-08T06:25:00.000+03:00",
+    "title": "Tigers Bust Out Bats in Win at Waynesville - NewsBreak",
+    "text": "By David ,\n1 days ago Nolan Lashley legged out an inside-the-park home run to cap a four-run second inning, and Preston McCracken went 3-for-4 with three stolen bases as Republic rolled past Waynesville 10-2 on Monday. The Tigers (5-7) scored in five of seven innings and never trailed after plating two runs in the first.... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Sport->sport achievement",
+        "Sport->baseball"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nolan Lashley",
+                "sentiment": "negative"
+            },
+            {
+                "name": "David",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Preston McCracken",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Waynesville",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Tigers",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Republic",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Wardsville",
+                "Waynesville"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:35:02.894+03:00",
+    "updated": "2026-04-09T07:39:06.000+03:00"
+}

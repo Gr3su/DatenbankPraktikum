@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "1a6fda52d5339e1639c76a9f9fe2987b6f670622",
+        "url": "https://www.newsbreak.com/news/4255327543951-city-officials-expecting-a-rise-in-traffic-amid-jmu-s-family-weekend",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/moorefield-wv",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Moorefield, WV Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "City officials expecting a rise in traffic amid JMU's Family Weekend - NewsBreak",
+        "title_full": "City officials expecting a rise in traffic amid JMU's Family Weekend - NewsBreak",
+        "published": "2025-09-25T06:41:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3m1a8Q_153lkma100",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-09-22T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1a6fda52d5339e1639c76a9f9fe2987b6f670622",
+    "url": "https://www.newsbreak.com/news/4255327543951-city-officials-expecting-a-rise-in-traffic-amid-jmu-s-family-weekend",
+    "ord_in_thread": 0,
+    "author": "WHSV",
+    "published": "2025-09-25T06:41:00.000+03:00",
+    "title": "City officials expecting a rise in traffic amid JMU's Family Weekend - NewsBreak",
+    "text": "WHSV\nwebsite\nRockingham County, Virginia\nCity officials expecting a rise in traffic amid JMU’s Family Weekend\n1 hours ago\nHARRISONBURG, Va. (WHSV) - The Rockingham County Board of Supervisors has approved the Sunoco station located just off of I-81 at Exit 251 to add travel center amenities like showers, after its request to rezone was approved. ROCKINGHAM COUNTY, Va. (WHSV) - As heavy rain makes its way into the...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Social Issue",
+        "Politics",
+        "Human Interest"
+    ],
+    "topics": [
+        "Social Issue->family",
+        "Social Issue->social condition",
+        "Social Issue->demographics",
+        "Politics->local government and authority",
+        "Politics->government policy",
+        "Politics->citizens' initiative and recall",
+        "Human Interest->high society"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            },
+            {
+                "name": "City",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "JMU",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Rockingham County Board of Supervisors",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Sunoco",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "SUN",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Moorefield"
+            ],
+            "state": [
+                "West Virginia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-25T07:42:33.317+03:00",
+    "updated": "2025-09-25T07:48:50.000+03:00"
+}

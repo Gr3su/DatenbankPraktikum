@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "4b41400e27aa4fdb822b240452b8f0020955a7cb",
+        "url": "https://www.newsbreak.com/news/4442460693439-2-harrison-county-women-arrested-for-illicit-drugs-firearms",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/worthville-ky",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Worthville, KY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "2 Harrison County women arrested for illicit drugs, firearms - NewsBreak",
+        "title_full": "2 Harrison County women arrested for illicit drugs, firearms - NewsBreak",
+        "published": "2026-01-14T23:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1hMr1M_183JzgID00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-11T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4b41400e27aa4fdb822b240452b8f0020955a7cb",
+    "url": "https://www.newsbreak.com/news/4442460693439-2-harrison-county-women-arrested-for-illicit-drugs-firearms",
+    "ord_in_thread": 0,
+    "author": "TOM LATEK, Kentucky Today",
+    "published": "2026-01-14T23:37:00.000+02:00",
+    "title": "2 Harrison County women arrested for illicit drugs, firearms - NewsBreak",
+    "text": "By TOM LATEK, Kentucky Today ,\n7 hours ago DRY RIDGE, Ky. (KT) – The Kentucky State Police (KSP) Post 6, Dry Ridge, has arrested two women in Harrison County after an investigation and search warrant resulted in the discovery of a large quantity of illicit drugs and firearms. The investigation began on Jan. 9 after Post 6... Read full article\nRead in NewsBreak 1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->drug related crimes",
+        "Crime, Law and Justice->law enforcement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Harrison County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kentucky",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dry Ridge",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "KSP",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Kentucky State Police",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Worthville"
+            ],
+            "state": [
+                "Kentucky"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-15T07:28:18.213+02:00",
+    "updated": "2026-01-15T07:31:31.000+02:00"
+}

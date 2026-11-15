@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "9f3aca5b3e75131702b27d24f71bc47a85eaf960",
+        "url": "https://patientdaily.com/stories/680997096-researchers-identify-mechanism-driving-pediatric-brain-tumor-development-in-nature-study",
+        "site_full": "patientdaily.com",
+        "site": "patientdaily.com",
+        "site_section": "https://patientdaily.com/stories/tag/517-pharmaceuticals",
+        "site_categories": [
+            "health"
+        ],
+        "section_title": "Pharmaceuticals Stories | Patient Daily",
+        "site_title": "Patient Daily",
+        "title": "Researchers identify mechanism driving pediatric brain tumor development in Nature study",
+        "title_full": "Researchers identify mechanism driving pediatric brain tumor development in Nature study",
+        "published": "2026-03-25T13:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://s3.amazonaws.com/jnswire/jns-media/41/cf/27710290/webp_tscho7agzqva4dt7umge3dkctiqu.webp",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9f3aca5b3e75131702b27d24f71bc47a85eaf960",
+    "url": "https://patientdaily.com/stories/680997096-researchers-identify-mechanism-driving-pediatric-brain-tumor-development-in-nature-study",
+    "ord_in_thread": 0,
+    "author": "Patient Daily",
+    "published": "2026-03-25T13:02:00.000+02:00",
+    "title": "Researchers identify mechanism driving pediatric brain tumor development in Nature study",
+    "text": "A research team from Baylor College of Medicine, St. Jude Children’s Research Hospital, Texas Children’s Hospital, and other institutions reported on Mar. 25 that they have uncovered a new mechanism behind the development of pediatric supratentorial ependymoma, a common brain tumor in children. The findings were published in the journal Nature and suggest possible new treatment strategies for these aggressive tumors.\nThe discovery is significant because it sheds light on how normal developing brain cells transform into cancer cells during early childhood. Alisha Kardian, first author and graduate student at Baylor’s Cancer and Cell Biology program, said, “Pediatric brain tumors are often thought to originate early during brain development but what drives the transformation of normal developing brain cells into cancer cells is incompletely understood. We discovered a mechanism that taps into normal brain development to drive tumor growth.”\nThe researchers focused on ZFTA-RELA (ZR) fusion-positive ependymoma, which mainly occurs in the cortex of young children’s brains. This type results from a fusion between two genes—ZFTA and RELA—creating an abnormal protein that activates genes promoting cancer growth. Despite this knowledge, it was unclear why these tumors form only during early childhood and only affect certain cell types.\nKardian said their investigation led them to consider how rapidly dividing stem-like cells during fetal and postnatal life might play a role: “We reasoned that the answer might lie in the developmental plan of the brain.” Dr. Stephen Mack from St. Jude added that their work showed ZR does not open DNA itself but instead uses already accessible DNA regions present in dividing cells to alter gene expression: “Instead, ZR takes advantage of the open DNA that already exists in rapidly dividing cells to interact with the genetic material and alter its expression in ways that drive the generation of tumors.”\nFurther experiments revealed that once activated by ZR, a dominant founder clone leads to diverse tumor cell populations resembling aspects of normal development but remaining immature. Dr. Benjamin Deneen from Baylor said this understanding could guide future therapies: “Understanding these developmental vulnerabilities opens the door to new therapeutic approaches aimed at pushing tumor cells toward full differentiation or targeting the early progenitor population that fuels tumor growth.”\nBaylor College of Medicine contributes to community service as one of its core missions according to its official website. The institution functions independently while engaging in clinical partnerships according to its official website. As an independent health sciences university, Baylor focuses on advancing research, education, patient care, and community service according to its official website. Paul Klotman holds positions as president, chief executive officer, and executive dean at Baylor College of Medicine according to its official website. The college also collaborates within integrated health sciences environments according to its official website and provides education across schools while advancing biomedical research through partnerships according to its official website.",
+    "summary": "25 that they have uncovered a new mechanism behind the development of pediatric supratentorial ependymoma, a common brain tumor in children. The findings were published in the journal Nature and suggest possible new treatment strategies for these aggressive tumors.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.bcm.edu/news",
+        "https://bcm.edu/news"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alisha Kardian",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Nature",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Baylor College of Medicine",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "St. Jude Children ’ s Research Hospital",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "en ’ s Hospital",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-26T07:39:38.522+02:00",
+    "updated": "2026-03-26T07:39:38.522+02:00"
+}

@@ -1,0 +1,157 @@
+{
+    "thread": {
+        "uuid": "9cbe58712914d31c8814aeeaf6022c106b217f7d",
+        "url": "https://www.newsbreak.com/news/4973115281972-city-council-member-monica-robinson-looks-to-bridge-the-gap-between-jmu-and-harrisonburg",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/harrisonburg-va",
+        "site_categories": [
+            "under_construction",
+            "economy, business and finance",
+            "social issue",
+            "sport",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "politics"
+        ],
+        "section_title": "Harrisonburg, VA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "City Council member Monica Robinson looks to bridge the gap between JMU and Harrisonburg - NewsBreak",
+        "title_full": "City Council member Monica Robinson looks to bridge the gap between JMU and Harrisonburg - NewsBreak",
+        "published": "2026-10-29T02:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0rXNsb_1GY1032500",
+        "performance_score": 0,
+        "domain_rank": 3021,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-30T07:07:30.566+02:00"
+        }
+    },
+    "uuid": "9cbe58712914d31c8814aeeaf6022c106b217f7d",
+    "url": "https://www.newsbreak.com/news/4973115281972-city-council-member-monica-robinson-looks-to-bridge-the-gap-between-jmu-and-harrisonburg",
+    "ord_in_thread": 0,
+    "author": "Sara Helwe Paget",
+    "published": "2026-10-29T02:30:00.000+02:00",
+    "title": "City Council member Monica Robinson looks to bridge the gap between JMU and Harrisonburg - NewsBreak",
+    "text": "By Sara Helwe Paget ,\n1 days ago\nLongtime Harrisonburg resident and Double Duke, incumbent councilmember Monica Robinson works at the intersection of Harrisonburg and JMU. Looking to serve a second term, Robinson is up for reelection in the Nov. 3 midterm City Council election, running against incumbent Dany Fleming, Sal Romero and write-in candidate Heri Cortes for two open seats.\nRead full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.breezejmu.org/news/city-council-member-monica-robinson-looks-to-bridge-the-gap-between-jmu-and-harrisonburg/article_03fd684d-032a-42bc-83bb-ff5896e63cf3.html",
+        "https://breezejmu.org/news/city-council-member-monica-robinson-looks-to-bridge-the-gap-between-jmu-and-harrisonburg/article_03fd684d-032a-42bc-83bb-ff5896e63cf3.html"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Monica Robinson",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Sal Romero",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Sara Helwe Paget",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Dany Fleming",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Heri Cortes",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Harrisonburg",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "City Council",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "JMU",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "Harrisonburg",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Harriston",
+                "Harrisonburg"
+            ],
+            "state": [
+                "Virginia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-30T07:07:30.566+02:00",
+    "updated": "2026-10-30T07:07:45.000+02:00",
+    "related_articles": null
+}

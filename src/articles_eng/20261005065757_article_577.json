@@ -1,0 +1,188 @@
+{
+    "thread": {
+        "uuid": "aea071bb643ae976803f979cc362372901135853",
+        "url": "https://www.newsbreak.com/news/4919320387612-weather-flash-flood-warning-issued-for-parts-of-lyon-osage-wabaunsee-counties",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/elmdale-ks",
+        "site_categories": [
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "human interest",
+            "arts, culture and entertainment",
+            "sport",
+            "politics",
+            "under_construction",
+            "science and technology",
+            "crime, law and justice"
+        ],
+        "section_title": "Elmdale, KS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "WEATHER: Flash flood warning issued for parts of Lyon, Osage, Wabaunsee counties - NewsBreak",
+        "title_full": "WEATHER: Flash flood warning issued for parts of Lyon, Osage, Wabaunsee counties - NewsBreak",
+        "published": "2026-10-01T17:10:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4O2NAX_1Fgp5vm100",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:19:25.333+03:00"
+        }
+    },
+    "uuid": "aea071bb643ae976803f979cc362372901135853",
+    "url": "https://www.newsbreak.com/news/4919320387612-weather-flash-flood-warning-issued-for-parts-of-lyon-osage-wabaunsee-counties",
+    "ord_in_thread": 0,
+    "author": "Chuck Samples and Tagan Trahoon",
+    "published": "2026-10-01T17:10:00.000+03:00",
+    "title": "WEATHER: Flash flood warning issued for parts of Lyon, Osage, Wabaunsee counties - NewsBreak",
+    "text": "By Chuck Samples and Tagan Trahoon ,\n14 hours ago Heavy rain so far this week and a prospect of additional rainfall has led to several flood alerts for area counties. *Flash flood warning: North Lyon, Osage, southeast Wabaunsee counties until 9:45 pm. Warning follows 1-3 inches of rain already with another 1-3 inches of rainfall possible through the warning. Includes Admire, Allen, Americus, Burlingame, Bushong, Carbondale, Harveyville, Lyndon, Quenemo, Reading and Scranton. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://kvoe.com/2026/10/01/2-flood-watch-expands-to-include-lyon-most-surrounding-counties/",
+        "https://kvoe.com/2026/10/01/2-flood-watch-expands-to-include-lyon-most-surrounding-counties",
+        "https://www.kvoe.com/2026/10/01/2-flood-watch-expands-to-include-lyon-most-surrounding-counties/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tagan Trahoon",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Chuck Samples",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "North Lyon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bushong",
+                "sentiment": "none"
+            },
+            {
+                "name": "Harveyville",
+                "sentiment": "none"
+            },
+            {
+                "name": "Allen",
+                "sentiment": "none"
+            },
+            {
+                "name": "Burlingame",
+                "sentiment": "none"
+            },
+            {
+                "name": "Admire",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lyndon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wabaunsee",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reading",
+                "sentiment": "none"
+            },
+            {
+                "name": "Osage",
+                "sentiment": "none"
+            },
+            {
+                "name": "Americus",
+                "sentiment": "none"
+            },
+            {
+                "name": "Carbondale",
+                "sentiment": "none"
+            },
+            {
+                "name": "Quenemo",
+                "sentiment": "none"
+            },
+            {
+                "name": "Scranton",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Elmdale"
+            ],
+            "state": [
+                "Kansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:19:25.333+03:00",
+    "updated": "2026-10-02T07:21:20.000+03:00",
+    "related_articles": null
+}

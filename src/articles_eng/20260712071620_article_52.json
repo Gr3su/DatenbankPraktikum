@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "1e6df97656d2f252472ceb3231c64813b3bea981",
+        "url": "https://hemantpatil.substack.com/p/i-fact-checked-15-stats-from-a-12m",
+        "site_full": "hemantpatil.substack.com",
+        "site": "substack.com",
+        "site_section": "https://hn.algolia.com/latest.atom",
+        "site_categories": [
+            "science and technology",
+            "social issue",
+            "politics"
+        ],
+        "section_title": "HN's home page",
+        "site_title": "Substack - A new economic engine for culture",
+        "title": "I fact-checked 15 stats from a 1.2M-subscriber creator against primary sources",
+        "title_full": "I fact-checked 15 stats from a 1.2M-subscriber creator against primary sources",
+        "published": "2026-07-09T07:11:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://substackcdn.com/image/fetch/$s_!bItC!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fhemantpatil.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1575877409%26version%3D9",
+        "performance_score": 0,
+        "domain_rank": 463,
+        "domain_rank_updated": null,
+        "licensing_agency": [
+            "NLA"
+        ],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1e6df97656d2f252472ceb3231c64813b3bea981",
+    "url": "https://hemantpatil.substack.com/p/i-fact-checked-15-stats-from-a-12m",
+    "ord_in_thread": 0,
+    "author": "HPatil7",
+    "published": "2026-07-09T07:11:00.000+03:00",
+    "title": "I fact-checked 15 stats from a 1.2M-subscriber creator against primary sources",
+    "text": "I fact-checked 15 stats from a 1.2M-subscriber creator. Six failed.\nHow true statistics get bent: a primary-source audit of a creator I trust, the STRIP framework, and the autopsy of \"85% of jobs are filled through networking.\"\nIssue #3 of The Second Brain Dispatch — real builds and systems for learning with AI, written by someone who actually ships them.\nGPT-5 “exceeded expert-level performance in 50% of cases across 40+ occupations.” That claim aired ten months ago, from a creator I trust. It went into my notes, and from my notes into how I thought about my own career exposure. Last week I traced it to its source.\nThere is no source. The claim aired in August 2025 — a month before any benchmark measuring that even existed. When OpenAI’s GDPval landed that September, it scored GPT-5 at 38.8% “as good as or better than” industry experts. The number closest to 50%? It belonged to a competitor’s model, and it counted ties.\nI didn’t hear this claim from a grifter. I heard it from an ex-CEO with 1.2M subscribers who cites more named research than almost anyone in the genre. He’s also the creator whose 58 videos became my second brain in issue #1 — meaning my notes, and the decisions downstream of them, run on his digits. So this week’s build was an audit: 15 headline statistics from his catalog, each chased back to its primary source.\nThe build: an audit with teeth\nThe method matters, because “I fact-checked it” usually means “I googled it and found a blog agreeing.”\nSample honestly. I took headline stats across his whole range — learning science, career advice, AI economics — not just the ones that smelled wrong. Cherry-picking your targets is its own distortion. (Issue #1’s spot-check had already caught three errors; those aren’t recounted here — these are fifteen fresh claims.)\nPrimary sources only. A creator citing a study is not a source. A journalist citing the study is not a source. The rule from issue #2 applies to the auditor too: chase the digits to the paper, the pricing page, the transcript.\nFour verdicts, no vibes. TRUE (matches the source within rounding), DISTORTED (real study, materially bent number or framing), UNVERIFIABLE (no primary source findable), FALSE (the source contradicts it). Three research agents ran in parallel — the fan-out from issue #2, pointed at its own supply chain.\nCheck yourself before you check him. My notes are AI distillations, and issue #2 established that unsupervised summarizers hallucinate. Before pinning the worst verdict on Swadia, I queried the raw transcript. His exact words: “GPT-5 exceeded expert-level performance in 50% of the cases in 40-plus occupations... it’s happening already.” No attribution, no hedge. The error was his. But I had to prove it wasn’t mine first.\nThe scoreboard\n9 TRUE. 5 DISTORTED. 1 FALSE. A 40% failure rate — from one of the best-sourced creators on the platform.\nThe clean ones were genuinely clean. “Tested learners retained 80% vs. 34% for re-readers” — that’s Karpicke & Roediger, Science, 2008, and the real numbers (81% vs. 33–36%) are almost exactly as quoted. “Story-wrapped words recalled at 93% vs. 13%” — Bower & Clark, 1969, and yes, actually Stanford. Federer really did win only 54% of his points.\nThe failures had a fingerprint. Look at what actually broke:\n“$75 to $1.25 per million words, a 98% drop in a year.” Real prices — but they’re per million tokens, the gap was 5.5 months, and the $75 baseline was GPT-4.5, an admitted research-preview outlier. Compare flagship to flagship and it’s ~96% over 2.4 years. Still a collapse; no longer his sentence.\n“Top performers deliver 800% more impact (McKinsey).” McKinsey’s figure is 400% — the 800% applies only to high-complexity roles. He quoted the ceiling as the average.\n“AI hit 85% accuracy on the toughest cases vs. 20% for doctors.” Both numbers exact (Microsoft’s MAI-DxO, 304 NEJM cases). Omitted: the physicians were barred from search engines, textbooks, colleagues, and AI — conditions no working doctor practices under.\n“Only 4% of students can monetize their passion.” The real study (Vallerand, 2003 — genuinely Canadian) found <4% of students’ passions related to work or education. It never tested whether anyone could monetize anything.\n“85% of jobs are filled through networking.” A 2016 non-scientific LinkedIn poll, whose own author got to 85% by adding two survey categories together. The only rigorous study anyone can point to — Granovetter, 1974 — says ~56%.\nThe framework: STRIP\nHere’s the finding that reorganized how I read everything now: only one claim out of fifteen invented a number. The other five failures took a true number and bent it. Fabrication is rare. Degradation is the industry standard. And it degrades in exactly five ways — what I now check for, in order:\nS — Swapped units. Tokens become words. Contact rates become conversion rates.\nT — Trimmed conditions. The doctors lose their tools; the lab constraint vanishes; “in training exams” becomes “at work.”\nR — Rounded to the ceiling. The best-case subgroup (800%, high-complexity roles) becomes everyone’s number.\nI — Inflated inference. “4% of passions are job-related” becomes “4% can monetize their passion” — the study’s noun survives, its verb gets upgraded.\nP — Pinned to the wrong thing. A control group’s failure rate gets attributed to goal-setters; a competitor’s benchmark score gets handed to GPT-5.\nA stat almost never dies by murder. It dies by STRIP — one caveat at a time, each strip making it more viral and less true, until a real 2008 study is load-bearing for a sentence its authors never wrote.\nWhat this changes\nTwo honest complications. First: Swadia passed better than the genre baseline — most of his numbers trace to real studies with unusual fidelity, and the distortions he repeats are mostly the ecosystem’s zombie stats, not his inventions. This isn’t a takedown; by his own standard it’s the point. His most recent video teaches viewers to ask of any claim: “What needs to be true for this to be real?” I just aimed his question at his catalog.\nSecond: even the TRUE verdicts hide fragility. The phone-on-your-desk study (real, 2017, even powered off) got a 2023 meta-analysis of 22 studies: pooled effect g = −0.14 — real for memory, null for attention. The if-then planning result (accurately quoted) is an outlier; the average across 94 studies is a medium d = 0.65. A single dramatic study, faithfully cited, can still mislead you about the world. The frameworks survived my audit far better than the digits — which is why the rule stays: trust the frameworks, verify the digits.\nThe receipts\nKarpicke & Roediger, Science (2008): repeated testing → ~80% recall at one week vs. 33–36% for restudying.\nscience.org/doi/abs/10.1126/science.1152408Bower & Clark, Psychonomic Science (1969, Stanford): narrative encoding → 93% vs. 13% median recall across 120 words.\nlink.springer.com/article/10.3758/BF03332778Di Stefano, Gino, Pisano & Staats, HBS WP 14-093 (2014): 15 min end-of-day reflection → 22.8% better training performance.\nssrn.com/abstract=2414478Milne, Orbell & Sheeran, Br. J. Health Psych. (2002): implementation intentions → 91% exercised vs. 35% motivation-only.\nrepository.essex.ac.uk/12693Ward, Duke, Gneezy & Bos, JACR (2017): phone presence reduces working memory, even powered off.\nsciencedaily.com/releases/2017/06/170623133039.htmBöttger et al., meta-analysis of 22 smartphone-presence studies (2023): pooled effect g = −0.14; significant for memory, null for attention.\npmc.ncbi.nlm.nih.gov/articles/PMC10525686Oldroyd/InsideSales (2007) + HBR (2011) + Drift (2017): 5-min lead response → 100x contact odds vs. 30 min; only 7% of 433 audited firms did it. Vendor-funded — treat direction, not decimals.\nhbr.org/2011/03/the-short-life-of-online-sales-leadsGartner/Sun Microsystems (2006): mentees promoted 5x more often (correlational, one company).\nknowledge.wharton.upenn.eduGallup–Workhuman (2022): strong recognition → 4x as likely engaged, 56% less likely job-hunting.\ngallup.com/analytics/472658McKinsey (2017) / O’Boyle & Aguinis (2012): high performers 400% more productive; 800% only in high-complexity occupations.\nmckinsey.comOpenAI GDPval (Sept 2025): GPT-5: 38.8% win+tie vs. experts across 44 occupations; best model: 47.6%.\nopenai.com/index/gdpvalMicrosoft MAI-DxO (2025): 85.5% vs. physicians’ 20% on 304 NEJM cases — physicians denied tools and colleagues; preprint.\nmicrosoft.ai/news/the-path-to-medical-superintelligenceOpenAI pricing: GPT-4.5 (Feb 2025) $75/M input tokens → GPT-5 (Aug 2025) $1.25/M. GPT-4.5 was later retired from the API; per-launch coverage:\ntechcrunch.com (Aug 2025)Federer, Dartmouth commencement (2024): 1,526 matches, ~80% won; 54% of points.\nhome.dartmouth.eduVallerand et al., JPSP (2003): 84% of students had a passion; <4% of passions related to work/education. Sample size unconfirmed by me (paywalled).\nAdler LinkedIn poll (2016) vs. Granovetter, Getting a Job (1974): the 85% networking stat is a category-sum artifact; rigorous figure ~56% via personal contacts.\npress.uchicago.edu\nTry it this week\nAudit one number you repeat. Pick the statistic you cite most confidently. Chase it to a primary source tonight. If the trail dies at a blog, you now know something about your own brain.\nRun the STRIP check on the next viral stat you see: whose units, whose conditions, whose subgroup, whose verb, whose comparison group? One strip is usually visible within two minutes.\nAdd the meta-analysis question. When a single study sounds too clean (91% vs. 35%!), search “[topic] meta-analysis.” The average effect is the boring number — and the one to bet on.\nHere’s what the audit actually taught me, and it isn’t gotcha journalism. Checking someone’s numbers is the most serious form of attention you can pay them. I nodded along to those videos for months — that was consumption wearing respect’s clothes. The evening I spent tracing Swadia’s claims to their sources was the first time I genuinely engaged with what he’d built. Verification is a bet: that the truth is worth an evening, that a creator you admire deserves better than your blind trust — and that your own mind, fed for months on unexamined digits, deserves better too.\nThis week’s kit\nThe audit is packaged to run on any source you trust — a creator, a book, your own notes. What’s in the kit: the claim-extraction prompt, the fact-check agent brief with the four-verdict rubric and primary-source rules, the printable STRIP checklist, and the setup runbook with our honest cost/time numbers (15 claims, ~45 minutes, ~200K tokens). 15 minutes to running.\nHow to get it: subscribe (free) — the welcome email in your inbox has the link to the full Vault: this kit, plus every kit from past and future issues. One ask in return: when you run it on a source you trust, reply and tell me the worst thing you find. The best finding gets featured (credited) in a future issue.\nNext issue: the style decompiler — how I extracted a writer’s complete craft blueprint from his catalog, and what it exposed about my own writing.",
+    "summary": "How true statistics get bent: a primary-source audit of a creator I trust, the STRIP framework, and the autopsy of \"85% of jobs are filled through networking.\" The build: an audit with teeth The method matters, because “I fact-checked it” usually means “I googled it and found a blog agreeing.” Sample honestly. First: Swadia passed better than the genre baseline — most of his numbers trace to real studies with unusual fidelity, and the distortions he repeats are mostly the ecosystem’s zombie stats, not his inventions.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Human Interest",
+        "Social Issue"
+    ],
+    "topics": [
+        "Human Interest->award and prize",
+        "Social Issue->discrimination",
+        "Social Issue->values",
+        "Social Issue->demographics",
+        "Social Issue->pornography",
+        "Social Issue->population and census",
+        "Social Issue->social condition",
+        "Social Issue->abusive behaviour"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://openai.com/index/gdpval/",
+        "https://knowledge.wharton.upenn.edu/article/workplace-loyalties-change-but-the-value-of-mentoring-doesnt/",
+        "https://repository.essex.ac.uk/12693/",
+        "https://www.science.org/doi/abs/10.1126/science.1152408",
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2414478",
+        "https://hbr.org/2011/03/the-short-life-of-online-sales-leads",
+        "https://www.sciencedaily.com/releases/2017/06/170623133039.htm",
+        "https://techcrunch.com/2025/08/08/openai-priced-gpt-5-so-low-it-may-spark-a-price-war/",
+        "https://home.dartmouth.edu/news/2024/06/2024-commencement-address-roger-federer",
+        "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/attracting-and-retaining-the-right-talent",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10525686/",
+        "https://microsoft.ai/news/the-path-to-medical-superintelligence/",
+        "https://link.springer.com/article/10.3758/BF03332778",
+        "https://press.uchicago.edu/ucp/books/book/chicago/G/bo3636056.html",
+        "https://www.gallup.com/analytics/472658/workplace-recognition-research.aspx",
+        "https://www.knowledge.wharton.upenn.edu/article/workplace-loyalties-change-but-the-value-of-mentoring-doesnt/",
+        "https://techcrunch.com/2025/08/08/openai-priced-gpt-5-so-low-it-may-spark-a-price-war",
+        "https://www.papers.ssrn.com/sol3/papers.cfm?abstract_id=2414478",
+        "https://microsoft.ai/news/the-path-to-medical-superintelligence",
+        "https://knowledge.wharton.upenn.edu/article/workplace-loyalties-change-but-the-value-of-mentoring-doesnt",
+        "https://papers.ssrn.com/sol3/papers.cfm",
+        "https://openai.com/index/gdpval",
+        "https://www.home.dartmouth.edu/news/2024/06/2024-commencement-address-roger-federer",
+        "https://www.repository.essex.ac.uk/12693/",
+        "https://gallup.com/analytics/472658/workplace-recognition-research.aspx",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10525686",
+        "https://science.org/doi/abs/10.1126/science.1152408",
+        "https://www.link.springer.com/article/10.3758/BF03332778",
+        "https://www.hbr.org/2011/03/the-short-life-of-online-sales-leads",
+        "https://mckinsey.com/capabilities/people-and-organizational-performance/our-insights/attracting-and-retaining-the-right-talent",
+        "https://www.openai.com/index/gdpval/",
+        "https://www.pmc.ncbi.nlm.nih.gov/articles/PMC10525686/",
+        "https://repository.essex.ac.uk/12693",
+        "https://sciencedaily.com/releases/2017/06/170623133039.htm",
+        "https://www.techcrunch.com/2025/08/08/openai-priced-gpt-5-so-low-it-may-spark-a-price-war/",
+        "https://www.press.uchicago.edu/ucp/books/book/chicago/G/bo3636056.html",
+        "https://www.microsoft.ai/news/the-path-to-medical-superintelligence/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:18:27.001+03:00",
+    "updated": "2026-07-09T07:21:51.000+03:00"
+}

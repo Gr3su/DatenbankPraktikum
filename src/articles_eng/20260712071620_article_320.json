@@ -1,0 +1,156 @@
+{
+    "thread": {
+        "uuid": "3c1bc0c266e6032de16b36b73c122486652864b0",
+        "url": "https://www.newsbreak.com/news/4756880215855-pine-island-man-drowns-while-kayaking",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/goshen-ny",
+        "site_categories": [
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "under_construction",
+            "social issue",
+            "disaster and accident",
+            "economy, business and finance",
+            "human interest",
+            "lifestyle and leisure",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Goshen, NY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Pine Island man drowns while kayaking - NewsBreak",
+        "title_full": "Pine Island man drowns while kayaking - NewsBreak",
+        "published": "2026-07-07T09:22:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/18V6cv_1D58NMoJ00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3c1bc0c266e6032de16b36b73c122486652864b0",
+    "url": "https://www.newsbreak.com/news/4756880215855-pine-island-man-drowns-while-kayaking",
+    "ord_in_thread": 0,
+    "author": "Bryan Fumagalli",
+    "published": "2026-07-07T09:22:00.000+03:00",
+    "title": "Pine Island man drowns while kayaking - NewsBreak",
+    "text": "By Bryan Fumagalli ,\n1 days ago Pine Island resident Scott N. Meyer lost his life on July 4 in what police believe was a drowning accident while kayaking in the Sullivan County town of Rockland. On July 4, at approximately 8:48 p.m., New York State Police assigned to Liberty responded to a report of an overturned kayaker at Mongaup Pond Campground, located at 231 Mongaup Pond Road. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue"
+    ],
+    "topics": [
+        "Social Issue->death and dying",
+        "Social Issue->mankind",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.warwickadvertiser.com/news/local-news/pine-island-man-drowns-while-kayaking-BH6009535",
+        "https://warwickadvertiser.com/news/local-news/pine-island-man-drowns-while-kayaking-BH6009535"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bryan Fumagalli",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Scott N. Meyer",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Pine Island",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sullivan County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mongaup Pond Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mongaup Pond Campground",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rockland",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "New York State Police",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:25:49.558+03:00",
+    "updated": "2026-07-09T07:32:36.000+03:00"
+}

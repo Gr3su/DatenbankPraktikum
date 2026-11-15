@@ -1,0 +1,163 @@
+{
+    "thread": {
+        "uuid": "db19c9e5f6d23c9574f82c86784f3d8f33ab1406",
+        "url": "https://www.newsbreak.com/news/4933063328990-recent-rains-delay-highway-2-project-completion",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/dunbar-ne",
+        "site_categories": [
+            "economy, business and finance",
+            "sport",
+            "politics",
+            "crime, law and justice",
+            "science and technology",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "under_construction"
+        ],
+        "section_title": "Dunbar, NE Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Recent rains delay Highway 2 project completion - NewsBreak",
+        "title_full": "Recent rains delay Highway 2 project completion - NewsBreak",
+        "published": "2026-10-08T16:24:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/48NAYU_1FufVM1f00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:36:45.843+03:00"
+        }
+    },
+    "uuid": "db19c9e5f6d23c9574f82c86784f3d8f33ab1406",
+    "url": "https://www.newsbreak.com/news/4933063328990-recent-rains-delay-highway-2-project-completion",
+    "ord_in_thread": 0,
+    "author": "Mike Peterson",
+    "published": "2026-10-08T16:24:00.000+03:00",
+    "title": "Recent rains delay Highway 2 project completion - NewsBreak",
+    "text": "By Mike Peterson ,\n15 hours ago (Shenandoah) -- Iowa Department of Transportation officials say it'll be the end of this month before a portion of Highway 2 in Fremont County is reopened to traffic. DOT officials closed the highway between County Roads L-68 and L-40 in April to allow for extensive repairs from the floods of 2011 and 2019. Plans originally called for 2 to reopen in September. Scott Suhr is the DOT's District 4 planner. Under a revised timeline, Suhr tells KMA News the project won't be finished and the highway reopened until October 29. Read full article",
+    "summary": "15 hours ago (Shenandoah) -- Iowa Department of Transportation officials say it'll be the end of this month before a portion of Highway 2 in Fremont County is reopened to traffic. DOT officials closed the highway between County Roads L-68 and L-40 in April to allow for extensive repairs from the floods of 2011 and 2019. Plans originally called for 2 to reopen in September. Scott Suhr is the DOT's District 4 planner. Under a revised timeline, Suhr tells KMA News the project won't be finished and the highway reopened until October 29.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kmaland.com/news/recent-rains-delay-highway-2-project-completion/article_51fe603c-d16d-4cca-9e6d-afc4cf8cced6.html",
+        "https://kmaland.com/news/recent-rains-delay-highway-2-project-completion/article_51fe603c-d16d-4cca-9e6d-afc4cf8cced6.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mike Peterson",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Scott Suhr",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Fremont County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shenandoah",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "KMA News",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "DOT",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Iowa Department of Transportation",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Dunbar"
+            ],
+            "state": [
+                "Nebraska"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:36:45.843+03:00",
+    "updated": "2026-10-09T07:46:13.000+03:00",
+    "related_articles": null
+}

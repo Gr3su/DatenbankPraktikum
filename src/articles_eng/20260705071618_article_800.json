@@ -1,0 +1,152 @@
+{
+    "thread": {
+        "uuid": "0b896dcae5398ab3f9ff8c2aa4fc407bb366c2c2",
+        "url": "https://www.newsbreak.com/news/4744878749501-endangered-missing-adult-alert-issued-for-hamilton-co-man-last-seen-leaving-home",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/cincinnati-oh",
+        "site_categories": [
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "disaster and accident",
+            "crime, law and justice",
+            "under_construction",
+            "sport",
+            "human interest",
+            "politics",
+            "social issue",
+            "economy, business and finance"
+        ],
+        "section_title": "Cincinnati, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Endangered missing adult alert issued for Hamilton Co. man last seen leaving home - NewsBreak",
+        "title_full": "Endangered missing adult alert issued for Hamilton Co. man last seen leaving home - NewsBreak",
+        "published": "2026-07-02T03:14:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2EZxpg_1Cu2WWlN00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0b896dcae5398ab3f9ff8c2aa4fc407bb366c2c2",
+    "url": "https://www.newsbreak.com/news/4744878749501-endangered-missing-adult-alert-issued-for-hamilton-co-man-last-seen-leaving-home",
+    "ord_in_thread": 0,
+    "author": "WKRC",
+    "published": "2026-07-02T03:14:00.000+03:00",
+    "title": "Endangered missing adult alert issued for Hamilton Co. man last seen leaving home - NewsBreak",
+    "text": "By WKRC ,\n4 hours ago HAMILTON COUNTY, Ohio (WKRC) - Authorities in Hamilton County are asking the public to be on the lookout for an 81-year-old man who was reported missing after driving away from his home in Harrison. Dennis Westendorf, a white man with blonde hair and blue eyes, drove away from his residence... Read full article\n4",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://local12.com/news/local/ohio-police-seek-missing-dennis-westendorf-last-seen-harrison-hamilton-county-lost-deerfield-drive-harrison-chevrolet-silverado-license-plate-cincinnati-ohio",
+        "https://www.local12.com/news/local/ohio-police-seek-missing-dennis-westendorf-last-seen-harrison-hamilton-county-lost-deerfield-drive-harrison-chevrolet-silverado-license-plate-cincinnati-ohio"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dennis Westendorf",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Ohio",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hamilton County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Harrison",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "WKRC",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "HAMILTON COUNTY",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:44:05.345+03:00",
+    "updated": "2026-07-02T07:45:32.000+03:00"
+}

@@ -1,0 +1,148 @@
+{
+    "thread": {
+        "uuid": "f79269ac17ba5852bf226614b3e6bec9952928ae",
+        "url": "https://www.newsbreak.com/news/4825384460556-large-sinkhole-collapses-section-of-i-196-near-holland",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/holland-mi",
+        "site_categories": [
+            "sport",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "politics",
+            "health",
+            "social issue",
+            "science and technology",
+            "under_construction",
+            "human interest"
+        ],
+        "section_title": "Holland, MI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Large sinkhole collapses section of I-196 near Holland - NewsBreak",
+        "title_full": "Large sinkhole collapses section of I-196 near Holland - NewsBreak",
+        "published": "2026-08-12T21:51:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1nvXiB_1EBA1qcp00",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f79269ac17ba5852bf226614b3e6bec9952928ae",
+    "url": "https://www.newsbreak.com/news/4825384460556-large-sinkhole-collapses-section-of-i-196-near-holland",
+    "ord_in_thread": 0,
+    "author": "WGVU News",
+    "published": "2026-08-12T21:51:00.000+03:00",
+    "title": "Large sinkhole collapses section of I-196 near Holland - NewsBreak",
+    "text": "By WGVU News ,\n9 hours ago Drivers between Grand Rapids, Holland and South Haven will find the westbound lanes of I-196 completely blocked off at Lincoln Road (M-40) near West Michigan Regional Airport at the 45-mile marker. According to the Michigan Department of Transportation, the sinkhole is about six feet across and eight feet deep, created... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wgvunews.org/news/2026-08-12/large-sinkhole-collapses-section-of-i-196-near-holland?_amp=true",
+        "https://www.wgvunews.org/news/2026-08-12/large-sinkhole-collapses-section-of-i-196-near-holland",
+        "https://wgvunews.org/news/2026-08-12/large-sinkhole-collapses-section-of-i-196-near-holland?_amp=true"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "none"
+            },
+            {
+                "name": "Grand Rapids",
+                "sentiment": "none"
+            },
+            {
+                "name": "South Haven",
+                "sentiment": "none"
+            },
+            {
+                "name": "Holland",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lincoln Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "West Michigan Regional Airport",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WGVU News",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Michigan Department of Transportation",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Holland"
+            ],
+            "state": [
+                "Michigan"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:04:32.154+03:00",
+    "updated": "2026-08-13T07:09:15.000+03:00"
+}

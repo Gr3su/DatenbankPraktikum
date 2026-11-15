@@ -1,0 +1,150 @@
+{
+    "thread": {
+        "uuid": "b47a1bf98323f3ca743c80bcc14beee690600d23",
+        "url": "https://www.newsbreak.com/news/4920271814782-helen-foley-new-executive-director-of-cba",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/mountain-view-ca-poi_arts_culture",
+        "site_categories": [
+            "sport",
+            "science and technology",
+            "human interest",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "under_construction",
+            "politics",
+            "arts, culture and entertainment",
+            "economy, business and finance"
+        ],
+        "section_title": "Mountain View, CA Arts &amp; Culture and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Helen Foley new Executive Director of CBA - NewsBreak",
+        "title_full": "Helen Foley new Executive Director of CBA - NewsBreak",
+        "published": "2026-10-02T02:07:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/323K3F_1FhmUvLb00",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:02:08.436+03:00"
+        }
+    },
+    "uuid": "b47a1bf98323f3ca743c80bcc14beee690600d23",
+    "url": "https://www.newsbreak.com/news/4920271814782-helen-foley-new-executive-director-of-cba",
+    "ord_in_thread": 0,
+    "author": "John Lawless",
+    "published": "2026-10-02T02:07:00.000+03:00",
+    "title": "Helen Foley new Executive Director of CBA - NewsBreak",
+    "text": "By John Lawless ,\n7 hours ago The California Bluegrass Association in San Francisco has announced the appointment of Helen Foley as their new Executive Director. She succeeds Pete Ludé, who had served in this position since 2020, and is now retiring. Helen brings a wealth of experience to the job, and a love and respect... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+        "Arts, Culture and Entertainment->news media",
+        "Arts, Culture and Entertainment->arts and entertainment"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://bluegrasstoday.com/helen-foley-new-executive-director-of-cba/",
+        "https://bluegrasstoday.com/helen-foley-new-executive-director-of-cba",
+        "https://www.bluegrasstoday.com/helen-foley-new-executive-director-of-cba/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Helen Foley",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Pete Ludé",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "John Lawless",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "San Francisco",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBA",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "CBA",
+                        "exchange": "ASX"
+                    }
+                ]
+            },
+            {
+                "name": "California Bluegrass Association",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:02:08.436+03:00",
+    "updated": "2026-10-02T09:50:20.970+03:00",
+    "related_articles": null
+}

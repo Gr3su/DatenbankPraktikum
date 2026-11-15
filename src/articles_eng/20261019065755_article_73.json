@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "d649a54379f8ef27eebfc47a274fb7177bf192f1",
+        "url": "https://www.newsbreak.com/news/4948025999666-man-indicted-in-abilene-woman-s-fentanyl-linked-death",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/abilene-tx",
+        "site_categories": [
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "politics",
+            "crime, law and justice",
+            "sport",
+            "under_construction"
+        ],
+        "section_title": "Abilene, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Man indicted in Abilene woman's fentanyl-linked death - NewsBreak",
+        "title_full": "Man indicted in Abilene woman's fentanyl-linked death - NewsBreak",
+        "published": "2026-10-15T20:55:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1drEwD_1G8kKnIo00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:00:13.783+03:00"
+        }
+    },
+    "uuid": "d649a54379f8ef27eebfc47a274fb7177bf192f1",
+    "url": "https://www.newsbreak.com/news/4948025999666-man-indicted-in-abilene-woman-s-fentanyl-linked-death",
+    "ord_in_thread": 0,
+    "author": "Alex Webb",
+    "published": "2026-10-15T20:55:00.000+03:00",
+    "title": "Man indicted in Abilene woman's fentanyl-linked death - NewsBreak",
+    "text": "By Alex Webb ,\n10 hours ago ABILINE, Texas — A man accused of supplying fentanyl pills linked to the death of an Abilene woman has been indicted, according to court documents. Aaron McVea is accused of delivering a controlled substance that resulted in the woman's death in May of 2025. According to a probable cause... Read full article\n3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->drug related crimes",
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->fraud"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://ktxs.com/news/local/man-indicted-in-abilene-womans-fentanyl-linked-death",
+        "https://www.ktxs.com/news/local/man-indicted-in-abilene-womans-fentanyl-linked-death"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alex Webb",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Aaron McVea",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Abilene",
+                "sentiment": "none"
+            },
+            {
+                "name": "Texas",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Abilene"
+            ],
+            "state": [
+                "Texas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:00:13.783+03:00",
+    "updated": "2026-10-16T07:06:07.000+03:00",
+    "related_articles": null
+}

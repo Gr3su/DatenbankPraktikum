@@ -1,0 +1,205 @@
+{
+    "thread": {
+        "uuid": "1df3e2b1cabedfebcac306404df2e335c781c9d3",
+        "url": "https://benn.substack.com/p/what-will-startups-do-in-2030",
+        "site_full": "benn.substack.com",
+        "site": "substack.com",
+        "site_section": "https://tldr.tech/",
+        "site_categories": [
+            "science and technology"
+        ],
+        "section_title": "TLDR - A Byte Sized Daily Tech Newsletter",
+        "site_title": "Substack - A new economic engine for culture",
+        "title": "What will startups do in 2030?",
+        "title_full": "What will startups do in 2030?",
+        "published": "2026-06-12T23:22:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://substackcdn.com/image/fetch/$s_!rmC0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbc92bf0-6c41-412a-9162-ea096f61c298_1100x733.jpeg",
+        "performance_score": 0,
+        "domain_rank": 476,
+        "domain_rank_updated": null,
+        "licensing_agency": [
+            "NLA"
+        ],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1df3e2b1cabedfebcac306404df2e335c781c9d3",
+    "url": "https://benn.substack.com/p/what-will-startups-do-in-2030",
+    "ord_in_thread": 0,
+    "author": "Benn Stancil",
+    "published": "2026-06-12T23:22:00.000+03:00",
+    "title": "What will startups do in 2030?",
+    "text": "What will startups do in 2030?\nEvery era needs its everymen.\nA high schooler is out there, somewhere. She is in tenth grade, sending Snaps, communicating in foreign tongues. She debates; she shops at Sephora; she posts about it; she is paid to post about it. She does not know how to read.1\nNext year, she will apply to college, probably Stanford. She will write an essay; she will talk about intellectual vitality; her essay will get run through an AI detector. It will be marked as mostly human. Good enough, they will say; better than most.\nThe year after that, she’ll go to Stanford; the year after that; she’ll drop out. She’ll post on Instagram: Stanford has taught me you can learn more from doing than you can learn from learning. She will take an internship at an AI company, or a robotics company, or a crypto company, or a social media marketing company that creates clips for creators.\nAnd then, the year after that, in 2030, she will start her own startup. She will do it for genuine reasons, because she believes in her idea, in herself, and in the urgency of what she’s building. She will apply to YC. She will tell them that the future of western democracy depends on what she is building. She will mean it.\nShe will build. She will grind. She will post about grinding. She will raise money; hire people; raise more money. She will become a prominent personality on Twitter. She will go to VC dinners; she will speak at conferences. She will get written about in the Wall Street Journal. Her parents will wonder when she’s going to go back to Stanford.\nIn 2040, when she’s 30 years old, she will fly to New York, stand atop the New York Stock Exchange, and, under a cannon of confetti, ring the opening bell, and become a (mere) billionaire.2 She will be heralded as one of tech’s new wunderkinds. Strong buy, the analysts will say.3\nHere, then, is the question:\nWhat does her company do?\n—\nTwo days ago, Anthropic released Fable 5, their most advanced large language model. The reviews were breathless: It can build more complicated stuff than prior models; it can work for longer; it can fill in more unspecified details, with better defaults.4 It is a new era. And this, as everyone always says, is still just the beginning. OpenAI is allegedly testing a model that might be even better; Anthropic is allegedly building a model that can nearly build itself.5\nA few days before Fable came out, I was at a dinner with a handful of engineers from a major AI lab. They worked on “harness engineering,” and were building technologies to make large language models better completing work, using tools, and running persistently. These universal harnesses were getting very good, they said. You can give them tasks, and they can research what they need and use third-party services and APIs to gather data and files. Better compaction methods made it possible for agents to run for hours without getting lost. And the models are now smart enough that they can understand very specialized tasks and deal with messy, ambiguous prompts.\nThe technology was generalizing. So long as the agent had access to the right things—so long as it could read the files it wanted, or reach the websites it needed to work on—it usually worked.6\nSo I asked them: If that progress continues, what space will be left for other companies? If a general harness and a general model is increasingly able to gather its own context, construct its own prompts, and use its own tools, what products still need get built on top? The whole point of a managed agent platform is to host the agents other people build. And surely, there will still be startups in 2030. But given that there are more days between today and the start of 2030 than there were between today and when ChatGPT came out, what will those companies have left to do?\nNone of us had much of an answer.\n—\nIt’s easy to imagine the enormous industrial businesses of the future, like chip manufacturers and infrastructure providers and rocket ship, AI, and social media conglomerates that build data centers on Mars. The next decade’s trillion dollar companies will probably do stuff like that.\nBut what about the next billion dollar companies? What about the normal IPOs? The mobile generation produced Apple and Facebook, and a bunch of huge-but-not-that-huge app companies. Cloud computing produced Amazon, Google, and Microsoft, and a bunch of huge-but-not-that-huge SaaS businesses. The first few years of AI development will likely produce OpenAI and Anthropic, and a bunch of huge-but-not-that-huge “agentic” tools. But what will come out of the next few years? When we are done “agentifying” everything—especially if that happens because the models get better and the generalized harnesses can do more—what will the next wave of huge-but-not-that-huge companies do?\nBecause it’s also easy to talk about the future in broad generalities, and to point out what AI can’t do. It doesn’t have taste; it can’t be taught on human judgement; it can’t be held accountable for its actions; it can’t be trained on the untrainable. It still can’t write.7 It has no intention or intrinsic motivations.\nFine, sure. But then what? If the most valued people are those with good taste and judgement, what are the most valuable products? Do the IPOs in 2040 sell taste? Is YC’s 2030 class full of carefully crafted SaaS apps?\nThough huge IPOs get most the headlines, the promise of Silicon Valley has always been in its everyman potential. Any computer whiz could make something valuable, because knowing how to use a computer used to be a valuable thing:\nA lot of today’s technology is the levered ideas of technologists. It is a\n[book store], run by an engineer from a hedge fund; it is[computerized]cash[registers], from a[social media founder]and[Oracle employees]; it is[fitness classes], built by a Bain consultant and an[MIT grad]; it is a note-taking app, built by someone who knows enough Typescript to build a note-taking app. But if these products succeed, it’s often more because of the technology than the idea of the technologist. It’s not that the idea was bad; it’s that the idea was not the transformational advantage. A fine CAD program beats a drafting table. A fine banking app beats driving to a branch. Even my app beats hand-written note cards. And because people who are technologists first, and architects or bankers or writers second, are the only people who can lever their ideas with technology, their ideas win.Moreover, this isn’t just some accidental selection bias; this is the whole point of Silicon Valley. Flagship incubators like Y Combinator are built on the thesis that a smart kid with a computer and summer internship at Goldman Sachs can outwit all of American Express. That’s not because the kid understands the needs of payment processors better than people at American Express, or has better ideas than they do; it’s because the kid can build their idea.\nBut when you can buy a computer whiz in box, what’s left for the whiz kids to build?\n2\nAs of this afternoon, Forbes says Elon Musk is worth $1.2 trillion dollars. So—four years later, how much is $1.2 trillion dollars? Here are a few ways to count it:\n—\nPeople are worried about how much water data centers use. Colossus 2, SpaceX’s largest AI data center, uses an estimated 346 million gallons of water a year. Pappy Van Winkle is one of the world’s most expensive bourbons, and costs $849.99 for one bottle. With $1.2 trillion dollars, Elon Musk could cool his Colossus 2 data center with Old Rip Van Winkle 10 Year Bourbon for more than ten months.\n—\nIn The Dark Knight, the Joker sets a 13-foot pile of $100 bills on fire. One analysis estimated that the pile was worth $4.6 billion. If the Joker stole Elon Musk’s money, the pyramid of bills would be 130 feet wide, 130 feet deep, and 85 feet tall.\n—\nCurrently on Stubhub, Row 1 seats to Game 6 of the NBA Finals at Madison Square Garden are available for $109,483. Over 21 months and 149 shows, the Eras Tour—the largest grossing concert tour in history—sold 10,168,008 tickets, for an average of $204 a ticket. Had Taylor Swift sold every single Eras Tour ticket for the same price as courtside seats to Game 6 of the NBA Finals at Madison Square Garden, she would still not have as much money as Elon Musk. Without raising ticket prices, to make as much money as Elon Musk has, Taylor Swift would have to continue touring for 1,010 more years.\n—\nPatrick Mahomes recently signed a new contract worth $505 million. Beginning in 2027, he will make $64 million per year, or $3.8 million per game, which is an NFL record. NFL rosters have 53 players, and the NFL plays 285 games per year. If every player made the same amount of money as Patrick Mahomes, Elon Musk could personally pay every NFL player for more than ten seasons.\n—\nThe median household in the United States is worth $192,000. It costs about 21 cents to generate a high quality image on GPT Image 2. The median household could generate 960,000 images of houses, at a cost of one-ten-thousandth of a percent of their net worth to generate one image. Elon Musk is worth $1.2 trillion. The median house in the United States costs $403,000. Elon Musk could afford to buy 2,977,000 houses with his money, at a cost of one third of one-ten-thousandths of a percent of his net worth to buy a house.\n—\nAn Uber costs about $1.50 per mile driven, plus 30 cents per minute. LA traffic averages 17 miles per hour. Therefore, driving a mile in LA traffic would cost about $2.56, and take 3.6 minutes. Elon Musk could call an Uber and ride in it through LA traffic for 3.2 million years, traveling a distance of 469 billion miles. Over the last five thousand years, Pluto has orbited the sun twenty times, and traveled a total of approximately 460 billion miles.\n3\nLater, she will get fired by her board, start a new company, get hired back by her board, and eventually step down to spend more time with her family. She will become a venture capitalist; she will launch a podcast; she will launch a “new media” show that is smart and edgy. She will veer into politics; she will mostly invest in “freedom” companies; she will self-fund a Senate campaign. She will lose, and she will start a Substack instead.\n5\nOne other note about Fable: According to Anthropic, the model is also communicating in foreign tongues:\nNotably, we saw examples of illegible reasoning in a few reinforcement learning environments over long rollouts. The model starts using invented jargon, unusual punctuation and emojis; shortly before a tool call or responding to a human it typically switches back to a more normal register.\nWe’ve talked about this a year ago:\nToday, chain-of-thought models “think” in English: When they iteratively loop through some question, they answer it in English, and then use that output to prompt themselves again. Some people are worried about AI models thinking in “\n[neuralese],” in which the outputs are written in some highly complex language (or, more likely, in mathematical structures) that contain much more information than English but are incomprehensible to humans.\nBut it makes you wonder: If models are able to reason this way—and presumably do so because it’s somehow more efficient or understandable to them than English—wouldn’t agents eventually optimize themselves by writing the output in the same invented language? As that footnote continued:\nYou could imagine agents writing code in some analogous way. Rather than writing Python or Typescript, which is highly optimized for human understanding, they could begin writing in denser languages that are optimized for them.\nIf engineers aren’t going to read a lot of the code that AI generates—and they aren’t—then how much does it really matter if they can read it?\n6\nThis echoes the conclusions of Meta research paper that we talked about last week:\nOur findings reflect a recurring pattern in machine learning: once a search space becomes accessible, stronger general-purpose agents can outperform hand-engineered solutions. A natural next step for future work is to co-evolve the harness and the model weights, letting the strategy shape what the model learns and vice versa.",
+    "summary": "It’s easy to imagine the enormous industrial businesses of the future, like chip manufacturers and infrastructure providers and rocket ship, AI, and social media conglomerates that build data centers on Mars. Had Taylor Swift sold every single Eras Tour ticket for the same price as courtside seats to Game 6 of the NBA Finals at Madison Square Garden, she would still not have as much money as Elon Musk. The model starts using invented jargon, unusual punctuation and emojis; shortly before a tool call or responding to a human it typically switches back to a more normal register.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->information science",
+        "Science and Technology->philosophy"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.reuters.com/technology/openai-ceo-sam-altman-step-down-2023-11-17/",
+        "http://www.youtube.com/watch?v=-Bsa30TLKac",
+        "https://arxiv.org/pdf/2603.28052",
+        "https://www.newyorker.com/magazine/2026/05/11/the-very-american-very-intense-world-of-high-school-debate",
+        "https://www.groupon.com/coupons/blog/how-much-does-uber-cost",
+        "https://x.com/deedydas/status/2064519826333397149",
+        "https://developers.openai.com/api/docs/guides/image-generation#calculating-costs",
+        "https://www.businessinsider.com/how-apple-bought-next-and-steve-jobs-for-400-million-2016-12",
+        "https://www.vulture.com/article/social-media-feeds-chaotic-good-projects-clipping.html",
+        "https://www.theinformation.com/newsletters/ai-agenda/anthropics-new-model-targets-power-users-cuts-ai-rivals?rc=wxwupy#:~:text=One%20developer%20who%20gets%20early%20access%20to%20Anthropic%20and%20OpenAI%20models%20said%20that%20an%20upcoming%20OpenAI%20model%20they%E2%80%99re%20testing%20could%20be%20just%20as%20capable%2C%20if%20not%20more%2C%20compared%20to%20Claude%20Fable.",
+        "https://developers.openai.com/api/docs/guides/agents",
+        "https://moviesfilmsandflix.com/2019/09/20/mff-dumb-data-how-long-did-it-take-to-setup-the-jokers-cash-pyramid-in-the-dark-knight/",
+        "https://fortune.com/article/gen-z-college-students-struggling-to-read-books-professors-forced-to-rethink-standards-warn-of-anxiety-lack-of-workplace-prepardness/",
+        "https://every.to/vibe-check/anthropic-mythos-our-fable-vibe-check",
+        "https://www.nerdwallet.com/finance/learn/average-net-worth-by-age",
+        "https://platform.claude.com/docs/en/managed-agents/overview",
+        "https://science.nasa.gov/dwarf-planets/pluto/facts/#h-orbit-and-rotation",
+        "https://www.nytimes.com/2023/11/06/business/bumble-ceo-whitney-wolfe-herd-step-down.html",
+        "https://x.com/saranormous/status/2064510215056400652",
+        "https://www.timeanddate.com/date/durationresult.html?m1=6&d1=12&y1=2026&m2=01&d2=01&y2=2030",
+        "https://www.timeanddate.com/date/durationresult.html?m1=11&d1=30&y1=2022&m2=6&d2=12&y2=2026",
+        "https://www.forbes.com/real-time-billionaires/",
+        "https://www.thecorporategovernanceinstitute.com/insights/case-studies/why-did-apples-board-fire-steve-jobs-in-1985/?srsltid=AfmBOopd1UYjGJaYOQ1lKs1Uq30Nw0OOQVCPZKjloxd3mdaHz4ogEGqD",
+        "https://cursor.com/blog/typescript-sdk",
+        "https://newsletter.semianalysis.com/p/from-tokens-to-burgers-a-water-footprint",
+        "https://wwd.com/beauty-industry-news/beauty-features/sephora-tween-teen-girls-beauty-favorite-brands-1238986253/",
+        "https://www.anthropic.com/institute/recursive-self-improvement",
+        "https://www.espn.com/nfl/story/_/id/49021927/sources-chiefs-patrick-mahomes-make-500m-reworked-deal",
+        "https://www.fool.com/money/research/average-house-price-state/",
+        "https://whiskeycaviar.com/products/old-rip-van-winkle-10-year-bourbon?variant=44402669027519",
+        "https://fortune.com/2025/03/26/bumble-whitney-wolfe-herd-founder-back-as-ceo-interview-love-company/",
+        "https://www.theguardian.com/money/2026/may/28/gen-z-using-social-media-in-struggling-job-market",
+        "https://admission.stanford.edu/apply/overview/index.html#",
+        "https://www.nytimes.com/2026/06/04/us/social-media-schools.html",
+        "https://www.latimes.com/california/story/2025-12-11/la-traffic-is-getting-better-thats-not-entirely-good-thing",
+        "https://www.stubhub.com/new-york-knicks-new-york-tickets-6-16-2026/event/160286423/?backUrl=%2Fnew-york-knicks-tickets%2Fperformer%2F2742<=40.712776&lg=-74.005974&quantity=0§ions=1526302&ticketClasses=17400&rows=2161968&seats=&seatTypes=&listingQty=",
+        "https://www.nytimes.com/2026/06/12/briefing/a-trillionaire.html",
+        "https://www.economist.com/the-americas/2026/04/06/the-strange-multicultural-slang-of-torontos-teenagers",
+        "https://www.cbsnews.com/news/microsoft-hires-fired-openai-ceo-sam-altman/",
+        "https://www.nytimes.com/2024/12/09/arts/music/taylor-swift-eras-tour-ticket-sales.html",
+        "https://fool.com/money/research/average-house-price-state/",
+        "https://reuters.com/technology/openai-ceo-sam-altman-step-down-2023-11-17/",
+        "https://cbsnews.com/news/microsoft-hires-fired-openai-ceo-sam-altman/",
+        "https://www.fool.com/money/research/average-house-price-state",
+        "https://www.whiskeycaviar.com/products/old-rip-van-winkle-10-year-bourbon?variant=44402669027519",
+        "https://anthropic.com/institute/recursive-self-improvement",
+        "https://www.developers.openai.com/api/docs/guides/image-generation#calculating-costs",
+        "https://newyorker.com/magazine/2026/05/11/the-very-american-very-intense-world-of-high-school-debate",
+        "https://groupon.com/coupons/blog/how-much-does-uber-cost",
+        "http://www.youtube.com/watch",
+        "https://www.timeanddate.com/date/durationresult.html",
+        "https://forbes.com/real-time-billionaires/",
+        "https://nytimes.com/2026/06/04/us/social-media-schools.html",
+        "https://stubhub.com/new-york-knicks-new-york-tickets-6-16-2026/event/160286423/?backUrl=%2Fnew-york-knicks-tickets%2Fperformer%2F2742<=40.712776&lg=-74.005974&quantity=0§ions=1526302&ticketClasses=17400&rows=2161968&seats=&seatTypes=&listingQty=",
+        "https://www.theinformation.com/newsletters/ai-agenda/anthropics-new-model-targets-power-users-cuts-ai-rivals",
+        "https://businessinsider.com/how-apple-bought-next-and-steve-jobs-for-400-million-2016-12",
+        "https://latimes.com/california/story/2025-12-11/la-traffic-is-getting-better-thats-not-entirely-good-thing",
+        "https://nytimes.com/2026/06/12/briefing/a-trillionaire.html",
+        "https://www.cursor.com/blog/typescript-sdk",
+        "https://nytimes.com/2024/12/09/arts/music/taylor-swift-eras-tour-ticket-sales.html",
+        "https://vulture.com/article/social-media-feeds-chaotic-good-projects-clipping.html",
+        "https://www.developers.openai.com/api/docs/guides/agents",
+        "https://www.x.com/deedydas/status/2064519826333397149",
+        "https://www.x.com/saranormous/status/2064510215056400652",
+        "https://www.admission.stanford.edu/apply/overview/index.html#",
+        "https://economist.com/the-americas/2026/04/06/the-strange-multicultural-slang-of-torontos-teenagers",
+        "https://www.science.nasa.gov/dwarf-planets/pluto/facts/#h-orbit-and-rotation",
+        "https://theguardian.com/money/2026/may/28/gen-z-using-social-media-in-struggling-job-market",
+        "https://theinformation.com/newsletters/ai-agenda/anthropics-new-model-targets-power-users-cuts-ai-rivals?rc=wxwupy#:~:text=One%20developer%20who%20gets%20early%20access%20to%20Anthropic%20and%20OpenAI%20models%20said%20that%20an%20upcoming%20OpenAI%20model%20they%E2%80%99re%20testing%20could%20be%20just%20as%20capable%2C%20if%20not%20more%2C%20compared%20to%20Claude%20Fable.",
+        "https://www.reuters.com/technology/openai-ceo-sam-altman-step-down-2023-11-17",
+        "https://www.thecorporategovernanceinstitute.com/insights/case-studies/why-did-apples-board-fire-steve-jobs-in-1985/",
+        "https://www.every.to/vibe-check/anthropic-mythos-our-fable-vibe-check",
+        "https://www.fortune.com/2025/03/26/bumble-whitney-wolfe-herd-founder-back-as-ceo-interview-love-company/",
+        "https://timeanddate.com/date/durationresult.html?m1=6&d1=12&y1=2026&m2=01&d2=01&y2=2030",
+        "https://www.platform.claude.com/docs/en/managed-agents/overview",
+        "https://www.moviesfilmsandflix.com/2019/09/20/mff-dumb-data-how-long-did-it-take-to-setup-the-jokers-cash-pyramid-in-the-dark-knight/",
+        "https://www.stubhub.com/new-york-knicks-new-york-tickets-6-16-2026/event/160286423/",
+        "https://thecorporategovernanceinstitute.com/insights/case-studies/why-did-apples-board-fire-steve-jobs-in-1985/?srsltid=AfmBOopd1UYjGJaYOQ1lKs1Uq30Nw0OOQVCPZKjloxd3mdaHz4ogEGqD",
+        "https://www.cbsnews.com/news/microsoft-hires-fired-openai-ceo-sam-altman",
+        "https://timeanddate.com/date/durationresult.html?m1=11&d1=30&y1=2022&m2=6&d2=12&y2=2026",
+        "https://wwd.com/beauty-industry-news/beauty-features/sephora-tween-teen-girls-beauty-favorite-brands-1238986253",
+        "https://www.fortune.com/article/gen-z-college-students-struggling-to-read-books-professors-forced-to-rethink-standards-warn-of-anxiety-lack-of-workplace-prepardness/",
+        "https://fortune.com/article/gen-z-college-students-struggling-to-read-books-professors-forced-to-rethink-standards-warn-of-anxiety-lack-of-workplace-prepardness",
+        "https://whiskeycaviar.com/products/old-rip-van-winkle-10-year-bourbon",
+        "https://www.forbes.com/real-time-billionaires",
+        "https://www.newsletter.semianalysis.com/p/from-tokens-to-burgers-a-water-footprint",
+        "https://nytimes.com/2023/11/06/business/bumble-ceo-whitney-wolfe-herd-step-down.html",
+        "https://www.wwd.com/beauty-industry-news/beauty-features/sephora-tween-teen-girls-beauty-favorite-brands-1238986253/",
+        "http://youtube.com/watch?v=-Bsa30TLKac",
+        "https://moviesfilmsandflix.com/2019/09/20/mff-dumb-data-how-long-did-it-take-to-setup-the-jokers-cash-pyramid-in-the-dark-knight",
+        "https://nerdwallet.com/finance/learn/average-net-worth-by-age",
+        "https://fortune.com/2025/03/26/bumble-whitney-wolfe-herd-founder-back-as-ceo-interview-love-company",
+        "https://www.arxiv.org/pdf/2603.28052",
+        "https://espn.com/nfl/story/_/id/49021927/sources-chiefs-patrick-mahomes-make-500m-reworked-deal"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Sephora",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Stanford",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:46:39.248+03:00",
+    "updated": "2026-06-25T07:50:26.000+03:00"
+}

@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "0736eb282fa31f60c018bff96580c71d145c9616",
+        "url": "https://www.newsbreak.com/news/4798613897678-roads-trails-recreation-sites-are-off-limits-in-okanogan-wenatchee-forest",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/chelan-wa",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "human interest",
+            "under_construction",
+            "economy, business and finance",
+            "sport",
+            "disaster and accident",
+            "politics",
+            "lifestyle and leisure",
+            "social issue"
+        ],
+        "section_title": "Chelan, WA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Roads, trails, recreation sites are off limits in Okanogan-Wenatchee Forest - NewsBreak",
+        "title_full": "Roads, trails, recreation sites are off limits in Okanogan-Wenatchee Forest - NewsBreak",
+        "published": "2026-07-29T16:03:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3090,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0736eb282fa31f60c018bff96580c71d145c9616",
+    "url": "https://www.newsbreak.com/news/4798613897678-roads-trails-recreation-sites-are-off-limits-in-okanogan-wenatchee-forest",
+    "ord_in_thread": 0,
+    "author": "kozi.com",
+    "published": "2026-07-29T16:03:00.000+03:00",
+    "title": "Roads, trails, recreation sites are off limits in Okanogan-Wenatchee Forest - NewsBreak",
+    "text": "15 hours ago Emergency road, trail and recreation site closures are in place on the Okanogan-Wenatchee National Forest to ensure safety from the Little Giant Fire, burning west of Entiat. In the Wenatchee and Entiat Ranger districts nearly 100 roads, trailheads and recreation sites are off limits for the time being allowing firefighters on the Little Giant fire to do their job. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Environment"
+    ],
+    "topics": [
+        "Environment->conservation",
+        "Environment->environmental clean-up"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kozi.com/post/roads-trails-recreation-sites-are-off-limits-in-okanogan-wenatchee-forest",
+        "https://kozi.com/post/roads-trails-recreation-sites-are-off-limits-in-okanogan-wenatchee-forest"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Okanogan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wenatchee",
+                "sentiment": "none"
+            },
+            {
+                "name": "Entiat",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Chelan",
+                "Chelan Falls"
+            ],
+            "state": [
+                "Washington"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:18:10.885+03:00",
+    "updated": "2026-07-30T07:21:18.000+03:00"
+}

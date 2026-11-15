@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "78c86bd8f39487756f827394cb548ff53c0107f3",
+        "url": "https://www.newsbreak.com/news/4379324218382-xcel-energy-data-centers-won-t-increase-energy-rates",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sioux-falls-sd",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Sioux Falls, SD Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Xcel Energy: Data centers won't increase energy rates - NewsBreak",
+        "title_full": "Xcel Energy: Data centers won't increase energy rates - NewsBreak",
+        "published": "2025-12-03T20:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4OXtpE_172i4FAT00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-11-30T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "78c86bd8f39487756f827394cb548ff53c0107f3",
+    "url": "https://www.newsbreak.com/news/4379324218382-xcel-energy-data-centers-won-t-increase-energy-rates",
+    "ord_in_thread": 0,
+    "author": "Michael Doorn",
+    "published": "2025-12-03T20:07:00.000+02:00",
+    "title": "Xcel Energy: Data centers won't increase energy rates - NewsBreak",
+    "text": "By Michael Doorn ,\n11 hours ago SIOUX FALLS, S.D. (KELO)– With the largest potential data center in the state seeking to build in Sioux Falls, city councilors heard from Xcel Energy regarding data centers and their energy rates. Previously, 160 acres of land was bought by Gemini of South Dakota LLC for a possible data... Read full article\nRead in NewsBreak 3",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance",
+        "Environment"
+    ],
+    "topics": [
+        "Economy, Business and Finance->energy and resource",
+        "Economy, Business and Finance->utilities",
+        "Environment->energy resources",
+        "Environment->energy saving",
+        "Environment->sustainability"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael Doorn",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "KELO",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Xcel Energy",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "XEL",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-04T07:33:55.576+02:00",
+    "updated": "2025-12-04T07:39:42.000+02:00"
+}

@@ -1,0 +1,152 @@
+{
+    "thread": {
+        "uuid": "2c8b3438fc02d86a2ccc2cebc801918e7822f37c",
+        "url": "https://www.newsbreak.com/news/4744576517710-st-cloud-news-a-whole-weekend-of-fourth-fun-at-the-lakefront",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/kissimmee-fl",
+        "site_categories": [
+            "economy, business and finance",
+            "politics",
+            "social issue",
+            "disaster and accident",
+            "lifestyle and leisure",
+            "under_construction",
+            "sport",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "human interest"
+        ],
+        "section_title": "Kissimmee, FL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "ST. CLOUD NEWS - A whole weekend of Fourth fun at the Lakefront! - NewsBreak",
+        "title_full": "ST. CLOUD NEWS - A whole weekend of Fourth fun at the Lakefront! - NewsBreak",
+        "published": "2026-07-01T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1Zxyl5_1CtkKpfM00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2c8b3438fc02d86a2ccc2cebc801918e7822f37c",
+    "url": "https://www.newsbreak.com/news/4744576517710-st-cloud-news-a-whole-weekend-of-fourth-fun-at-the-lakefront",
+    "ord_in_thread": 0,
+    "author": "aroundosceola.com",
+    "published": "2026-07-01T07:00:00.000+03:00",
+    "title": "ST. CLOUD NEWS - A whole weekend of Fourth fun at the Lakefront! - NewsBreak",
+    "text": "1 days ago Don’t let the fun end on the 4th! Head back to Lakeshore Boulevard for the Stars & Stripes Summer Seafood Boil at the beach on Sunday, July 5 from 5-8 p.m. Presented by St. Cloud Main Street, celebrate summer, community and America’s 250th. There will be live music by Mauricio Comacho, great Crabby Bill's food and cold drinks. To pre-order your meals, call Crabby’s at the Lakefront at 407-979-4001. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->leisure"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.aroundosceola.com/lifestyle/st-cloud-news-whole-weekend-fourth-fun-lakefront",
+        "https://aroundosceola.com/lifestyle/st-cloud-news-whole-weekend-fourth-fun-lakefront"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mauricio Comacho",
+                "sentiment": "none"
+            },
+            {
+                "name": "Crabby Bill",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Lakefront",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lakeshore Boulevard",
+                "sentiment": "none"
+            },
+            {
+                "name": "America",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ST. CLOUD",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Stars & Stripe",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Crabby",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Kissimmee"
+            ],
+            "state": [
+                "Florida"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:31:54.765+03:00",
+    "updated": "2026-07-02T07:35:12.000+03:00"
+}

@@ -1,0 +1,157 @@
+{
+    "thread": {
+        "uuid": "616d7c29bd3a6a141fcda62f03dffd61ed9f8026",
+        "url": "https://www.newsbreak.com/news/4535085604562-gdot-seeks-public-input-on-proposed-3-5m-roundabout-project-at-s-r-30-and-midland-road",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/furman-sc",
+        "site_categories": [
+            "crime, law and justice",
+            "sport",
+            "under_construction",
+            "human interest",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "politics",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Furman, SC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "GDOT seeks public input on proposed $3.5M roundabout project at S.R. 30 and Midland Road - NewsBreak",
+        "title_full": "GDOT seeks public input on proposed $3.5M roundabout project at S.R. 30 and Midland Road - NewsBreak",
+        "published": "2026-03-11T21:48:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2yKdLe_19XepgWi00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "616d7c29bd3a6a141fcda62f03dffd61ed9f8026",
+    "url": "https://www.newsbreak.com/news/4535085604562-gdot-seeks-public-input-on-proposed-3-5m-roundabout-project-at-s-r-30-and-midland-road",
+    "ord_in_thread": 0,
+    "author": "Joe Hennessy",
+    "published": "2026-03-11T21:48:00.000+02:00",
+    "title": "GDOT seeks public input on proposed $3.5M roundabout project at S.R. 30 and Midland Road - NewsBreak",
+    "text": "By Joe Hennessy ,\n9 hours ago GUYTON, Ga. (WTOC) - The Georgia Department of Transportation is asking the public to weigh in on a proposed single-lane roundabout to ease congestion and decrease crashes at State Route 30 and Midland Road. According to GDOT, 29 crashes were reported at the busy Effingham County intersection between 2019 and... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->construction and property"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joe Hennessy",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Midland Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "GUYTON",
+                "sentiment": "none"
+            },
+            {
+                "name": "S. R. 30",
+                "sentiment": "none"
+            },
+            {
+                "name": "Effingham County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "GDOT",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "WTOC",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Georgia Department of Transportation",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Furman"
+            ],
+            "state": [
+                "South Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-12T07:24:32.733+02:00",
+    "updated": "2026-03-12T07:27:12.000+02:00"
+}

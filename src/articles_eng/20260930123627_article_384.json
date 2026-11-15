@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "def11b58147cc84131b3ef4b425714ee1e10229b",
+        "url": "https://www.newsbreak.com/news/4909541093866-chicago-crime-1-year-old-girl-shot-critically-hurt-sw-side-police-say",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sitemap-news-87.xml",
+        "site_categories": [
+            "lifestyle and leisure",
+            "under_construction",
+            "sport",
+            "crime, law and justice",
+            "politics",
+            "human interest",
+            "economy, business and finance",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Chicago crime: 1-year-old girl shot, critically hurt SW Side, police say - NewsBreak",
+        "title_full": "Chicago crime: 1-year-old girl shot, critically hurt SW Side, police say - NewsBreak",
+        "published": "2026-09-26T15:03:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1I0gxL_1FWyJ5yA00",
+        "performance_score": 0,
+        "domain_rank": 3126,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-09-27T12:48:20.009+03:00"
+        }
+    },
+    "uuid": "def11b58147cc84131b3ef4b425714ee1e10229b",
+    "url": "https://www.newsbreak.com/news/4909541093866-chicago-crime-1-year-old-girl-shot-critically-hurt-sw-side-police-say",
+    "ord_in_thread": 0,
+    "author": "Alex Ortiz",
+    "published": "2026-09-26T15:03:00.000+03:00",
+    "title": "Chicago crime: 1-year-old girl shot, critically hurt SW Side, police say - NewsBreak",
+    "text": "By Alex Ortiz ,\n21 hours ago CHICAGO - A 1-year-old girl was shot and critically hurt inside a home on Chicago’s Southwest Side overnight. What we know: — Officers responded to the scene in the 6400 block of S. Mozart St. in theChicago Lawn neighborhood, according to the Chicago Police Department. Police found the... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->civil unrest",
+        "Crime, Law and Justice->homicide",
+        "Crime, Law and Justice->assault"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox32chicago.com/news/1-year-old-girl-shot-chicago.amp",
+        "https://fox32chicago.com/news/1-year-old-girl-shot-chicago.amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alex Ortiz",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "the",
+                "sentiment": "none"
+            },
+            {
+                "name": "S. Mozart St",
+                "sentiment": "none"
+            },
+            {
+                "name": "Southwest Side",
+                "sentiment": "none"
+            },
+            {
+                "name": "##Chicago Lawn",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Chicago Police Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-27T12:48:20.009+03:00",
+    "updated": "2026-09-27T12:54:27.000+03:00",
+    "related_articles": null
+}

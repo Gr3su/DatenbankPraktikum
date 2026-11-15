@@ -1,0 +1,148 @@
+{
+    "thread": {
+        "uuid": "32b02ac15f51061f20ffb900439eeb1e9128fb5e",
+        "url": "https://www.newsbreak.com/news/4581968966594-san-ramon-council-endorses-new-neighborhood-with-rejection-of-appeal",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/oakland-ca",
+        "site_categories": [
+            "economy, business and finance",
+            "crime, law and justice",
+            "under_construction",
+            "lifestyle and leisure",
+            "politics",
+            "human interest",
+            "arts, culture and entertainment",
+            "sport"
+        ],
+        "section_title": "Oakland, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "San Ramon council endorses new neighborhood with rejection of appeal - NewsBreak",
+        "title_full": "San Ramon council endorses new neighborhood with rejection of appeal - NewsBreak",
+        "published": "2026-04-08T19:32:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/06ecIY_1AHtzt1Q00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "32b02ac15f51061f20ffb900439eeb1e9128fb5e",
+    "url": "https://www.newsbreak.com/news/4581968966594-san-ramon-council-endorses-new-neighborhood-with-rejection-of-appeal",
+    "ord_in_thread": 0,
+    "author": "Silicon Valley",
+    "published": "2026-04-08T19:32:00.000+03:00",
+    "title": "San Ramon council endorses new neighborhood with rejection of appeal - NewsBreak",
+    "text": "11 hours ago SAN RAMON — A mixed-use project proposed for downtown San Ramon landed a crucial municipal endorsement after the City Council rejected an appeal Tuesday to stop the new neighborhood. With the denial, work can continue on Orchards, a 144-acre development that would be on the site of Chevron’s former... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->local government and authority",
+        "Economy, Business and Finance->business and market analysis",
+        "Economy, Business and Finance->construction and property",
+        "Economy, Business and Finance->business strategy and marketing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "San Ramon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Orchards",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Chevron",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "CVX",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "City Council",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Oakland"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:27:44.733+03:00",
+    "updated": "2026-04-09T07:35:54.000+03:00"
+}

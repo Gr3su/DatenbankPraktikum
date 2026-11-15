@@ -1,0 +1,156 @@
+{
+    "thread": {
+        "uuid": "83211b6352f57bbdfd7f7c4675369fb3d97a08c5",
+        "url": "https://www.digitalinformationworld.com/2025/09/ai-models-match-human-coders-at-global.html",
+        "site_full": "www.digitalinformationworld.com",
+        "site": "digitalinformationworld.com",
+        "site_section": "https://news.google.com/search?q=at%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "marketing",
+            "business"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Digital Information World",
+        "title": "AI Models Match Human Coders at Global Contest",
+        "title_full": "AI Models Match Human Coders at Global Contest",
+        "published": "2025-09-18T07:12:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvUeC0BUYQvO48-_T85cnnZID8gLYznDSlVS7mUL7J0tsAd8i3bEFTMGuBaMcctRpmkeOerthETSc1BKy5uJNWyGau_G3BwMB6FAx5EXW0XvzzAjD6Id5SbFbgMdSg3FHGyuJJBKo8IdWXcfsOnWXOAx96AStJlb6QDCjOfM3ibb-ApYihneroWJWj0BCw/w1600/g.webp",
+        "performance_score": 0,
+        "domain_rank": 65578,
+        "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "83211b6352f57bbdfd7f7c4675369fb3d97a08c5",
+    "url": "https://www.digitalinformationworld.com/2025/09/ai-models-match-human-coders-at-global.html",
+    "ord_in_thread": 0,
+    "author": "Asim BN",
+    "published": "2025-09-18T07:12:00.000+03:00",
+    "title": "AI Models Match Human Coders at Global Contest",
+    "text": "Artificial intelligence systems from OpenAI and Google DeepMind showed they can keep pace with the world’s best student programmers. At the International Collegiate Programming Contest (ICPC) World Finals, both labs tested their latest models in conditions usually reserved for university teams.\nWhat the competition involves\nThe ICPC sets 12 algorithmic problems. Each team has five hours to solve them on a single shared computer. Rankings depend on accuracy and how quickly solutions are submitted. This year’s finals brought together 139 universities from more than 100 countries. Four human teams won gold medals, including St. Petersburg State University, the University of Tokyo, Beijing Jiaotong University, and Tsinghua University. None completed all 12 tasks.\nHow the AI systems performed\nOpenAI entered GPT-5. The model produced correct solutions for every problem, with 11 accepted on the first attempt. That result would have placed it at the top of the rankings. Google DeepMind tested Gemini 2.5 Deep Think. It solved 10 problems within the time limit, including one that no human competitor managed to finish.\nThat specific task involved distributing liquid through a set of ducts. Gemini approached the challenge by assigning priority values to reservoirs and using dynamic programming to find the best flow. It then searched for the optimal configuration in the solution space. The method differed from the approaches used by human teams and showed how AI can develop strategies outside standard patterns.\nTraining background\nNeither OpenAI nor DeepMind built their models solely for ICPC. GPT-5 had been trained for broad reasoning and problem-solving, while Gemini was strengthened with reinforcement learning across advanced math and coding tasks. Both companies have previously tested their systems in other high-level competitions, including mathematics contests where they matched or surpassed top human scores.\nWhy it matters\nThe contest results suggest that AI models now handle abstract reasoning under strict conditions, not just knowledge recall. They showed the ability to adapt, to test multiple paths, and to deliver answers within time pressure. Human participants still bring collaboration and long-term design skills that models lack, but the technical performance of AI systems is becoming harder to separate from elite coding talent.\nBroader implications\nPerformances like this fuel debate about artificial general intelligence. Many researchers see success in coding competitions as evidence of steady progress toward machine systems that reason in ways closer to people. For industries that depend on mathematical analysis and software design, the ICPC outcome adds weight to the idea that AI will take on more complex tasks in the near future.\nNotes: This post was edited/created using GenAI tools.\nRead next: China Tightens Grip on AI Hardware, Nvidia Caught in the Crossfire",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Science and Technology->scientific research",
+        "Science and Technology->technology and engineering",
+        "Science and Technology->biomedical science",
+        "Economy, Business and Finance->computing and information technology",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->investment and opinion pieces",
+        "Social Issue->demographics",
+        "Social Issue->social services",
+        "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+        "https://deepmind.google/discover/blog/gemini-achieves-gold-level-performance-at-the-international-collegiate-programming-contest-world-finals/",
+        "https://icpc.global/",
+        "https://x.com/MostafaRohani/status/1968360976379703569",
+        "https://www.deepmind.google/discover/blog/gemini-achieves-gold-level-performance-at-the-international-collegiate-programming-contest-world-finals/",
+        "https://www.icpc.global/",
+        "https://www.x.com/MostafaRohani/status/1968360976379703569",
+        "https://deepmind.google/discover/blog/gemini-achieves-gold-level-performance-at-the-international-collegiate-programming-contest-world-finals",
+        "https://icpc.global"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Google",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "GOOG",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "International Collegiate Programming Contest",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "St. Petersburg State University",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Tsinghua University",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "University of Tokyo",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-18T07:20:00.644+03:00",
+    "updated": "2025-09-18T07:25:49.000+03:00"
+}

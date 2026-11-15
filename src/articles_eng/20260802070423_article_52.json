@@ -1,0 +1,152 @@
+{
+    "thread": {
+        "uuid": "8b816c649d78460ba50c5ab09e4c91ea35aa982f",
+        "url": "https://www.newsbreak.com/news/4798010896896-daphne-pd-investigating-stabbing-suspect-at-large",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/theodore-al",
+        "site_categories": [
+            "economy, business and finance",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "sport",
+            "crime, law and justice",
+            "politics",
+            "arts, culture and entertainment",
+            "disaster and accident",
+            "social issue"
+        ],
+        "section_title": "Theodore, AL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Daphne PD investigating stabbing; suspect at large - NewsBreak",
+        "title_full": "Daphne PD investigating stabbing; suspect at large - NewsBreak",
+        "published": "2026-07-29T17:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3yClxr_1DkaMABL00",
+        "performance_score": 0,
+        "domain_rank": 3090,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8b816c649d78460ba50c5ab09e4c91ea35aa982f",
+    "url": "https://www.newsbreak.com/news/4798010896896-daphne-pd-investigating-stabbing-suspect-at-large",
+    "ord_in_thread": 0,
+    "author": "Robert Ristaneo",
+    "published": "2026-07-29T17:59:00.000+03:00",
+    "title": "Daphne PD investigating stabbing; suspect at large - NewsBreak",
+    "text": "By Robert Ristaneo ,\n12 hours ago DAPHNE, Ala. (WALA) - The Daphne Police Department is investigating a stabbing that occurred early Wednesday morning, according to police. Officers said they responded at approximately 12:30 a.m. to an address off Adams Avenue following reports of a dispute between two male subjects. Police said during the altercation, the victim... Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Crime, Law and Justice->assault",
+        "Disaster and Accident->accident and emergency incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox10tv.com/2026/07/29/daphne-pd-investigating-stabbing-suspect-large/",
+        "https://fox10tv.com/2026/07/29/daphne-pd-investigating-stabbing-suspect-large/",
+        "https://www.fox10tv.com/2026/07/29/daphne-pd-investigating-stabbing-suspect-large"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Robert Ristaneo",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "DAPHNE",
+                "sentiment": "none"
+            },
+            {
+                "name": "Adams Avenue",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Daphne PD",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Daphne Police Department",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Theodore"
+            ],
+            "state": [
+                "Alabama"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:06:01.669+03:00",
+    "updated": "2026-07-30T07:12:53.000+03:00"
+}

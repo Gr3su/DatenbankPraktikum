@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "e08023ceb5cb4ac616e611c8dbcdd7fb98618ba5",
+        "url": "https://www.newsbreak.com/wibc-1608515/4582684102682-officer-involved-shooting-on-indy-s-south-side",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/wibc-1608515",
+        "site_categories": [
+            "sport",
+            "politics",
+            "human interest",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "under_construction",
+            "economy, business and finance"
+        ],
+        "section_title": "WIBC&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Officer-Involved Shooting on Indy's South Side - NewsBreak",
+        "title_full": "Officer-Involved Shooting on Indy's South Side - NewsBreak",
+        "published": "2026-04-09T04:27:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3tn9mC_1AIcNtRu00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e08023ceb5cb4ac616e611c8dbcdd7fb98618ba5",
+    "url": "https://www.newsbreak.com/wibc-1608515/4582684102682-officer-involved-shooting-on-indy-s-south-side",
+    "ord_in_thread": 0,
+    "author": "Staff",
+    "published": "2026-04-09T04:27:00.000+03:00",
+    "title": "Officer-Involved Shooting on Indy's South Side - NewsBreak",
+    "text": "By Staff ,\n3 hours ago\nSource: PHOTO: WISH-TV INDIANAPOLIS — The Indianapolis Metropolitan Police Department says there was an officer-involved shooting on the south side of Indianapolis Wednesday evening.\nIt happened in a neighborhood in the 1200 block of Sumner Avenue before 8 p.m. That’s between Harding Street and Bluff Road. When police arrived, they found a man in a home with a gunshot wound to the neck. Officers say there was another adult and two children in the home.\nPolice say a suspect fired their weapon at officers as they were attempting to help out the man they spotted at the scene. Police then shot back at the suspect.\nThe suspect was taken to a hospital in serious condition. The man police responded to help out was taken to a hospital, where he is stable.\nNo officers were injured in the shooting, and they recovered a gun.",
+    "summary": "It happened in a neighborhood in the 1200 block of Sumner Avenue before 8 p.m. That’s between Harding Street and Bluff Road. When police arrived, they found a man in a home with a gunshot wound to the neck. Police say a suspect fired their weapon at officers as they were attempting to help out the man they spotted at the scene. The man police responded to help out was taken to a hospital, where he is stable. No officers were injured in the shooting, and they recovered a gun.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->shootings",
+        "Crime, Law and Justice->police"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3tn9mC_1AIcNtRu00",
+        "https://img.particlenews.com/image.php?url=3tn9mC_1AIcNtRu00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3tn9mC_1AIcNtRu00",
+        "https://www.img.particlenews.com/image.php?url=3tn9mC_1AIcNtRu00",
+        "https://img.particlenews.com/image.php"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Indy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Harding Street",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bluff Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Indianapolis",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sumner Avenue",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Indianapolis Metropolitan Police",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:31:37.851+03:00",
+    "updated": "2026-04-09T07:34:39.000+03:00"
+}

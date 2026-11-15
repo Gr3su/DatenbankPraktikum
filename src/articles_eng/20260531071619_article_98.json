@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "7288fff3ee289fa97ea8b65c8243fc444c6d4a2b",
+        "url": "https://tass.com/world/2137633",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/rss/v2.xml",
+        "site_categories": [
+            "media",
+            "economy, business and finance",
+            "war, conflict and unrest",
+            "politics"
+        ],
+        "section_title": "TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "US Congresswoman Luna slams Zelensky for holding out on peace deal",
+        "title_full": "US Congresswoman Luna slams Zelensky for holding out on peace deal",
+        "published": "2026-05-28T07:05:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 13871,
+        "domain_rank_updated": "2026-05-25T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7288fff3ee289fa97ea8b65c8243fc444c6d4a2b",
+    "url": "https://tass.com/world/2137633",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-05-28T07:05:00.000+03:00",
+    "title": "US Congresswoman Luna slams Zelensky for holding out on peace deal",
+    "text": "WASHINGTON, May 28. /TASS/. Anna Paulina Luna, a Republican member of the US House of Representatives from Florida, has slammed Vladimir Zelensky for being unwilling to move toward a peaceful settlement of the Ukrainian conflict.\n\"The President [of the US Donald Trump] wants a peace deal and you are the one holding out. The entire world should know that,\" she wrote on he X page, commenting on Zelensky’s remarks. \"There is a US negotiated deal on the table and the only person holding out on the deal is Zelensky and yes it would greatly benefit Ukraine (as well as other parties involved to include the US).\"\n\"You are holding up the peace deal Vladimir. It is time to accept it. Not to mention, you are refusing to hold elections and your government funneled money the U.S. sent to Ukraine back into [46th US President] Joe Biden’s re-election campaign,\" she emphasized.\nCommenting on Zelensky’s allegations that both Democrats and Republicans in Congress support Ukraine, she noted, \"This is literally propaganda and not even true. There is not broad support for an endless war and we are not your piggy bank.\"",
+    "summary": "Anna Paulina Luna, a Republican member of the US House of Representatives from Florida, has slammed Vladimir Zelensky for being unwilling to move toward a peaceful settlement of the Ukrainian conflict. \"The President [of the US Donald Trump] wants a peace deal and you are the one holding out. The entire world should know that,\" she wrote on he X page, commenting on Zelensky’s remarks. Not to mention, you are refusing to hold elections and your government funneled money the U.S. sent to Ukraine back into [46th US President] Joe Biden’s re-election campaign,\" she emphasized.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "Politics->political parties and movements",
+        "Politics->political campaigns",
+        "Politics->international relations",
+        "War, Conflict and Unrest->peace talks"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Anna Paulina Luna",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Vladimir Zelensky",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "WASHINGTON",
+                "sentiment": "none"
+            },
+            {
+                "name": "US",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ukraine",
+                "sentiment": "none"
+            },
+            {
+                "name": "Florida",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "US",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-28T07:21:19.444+03:00",
+    "updated": "2026-05-28T07:26:58.000+03:00"
+}

@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "b706b67d9f87323a4d644ad8a22c2692b4631487",
+        "url": "https://www.newsbreak.com/news/4607453861900-central-entrance-partially-closed-due-to-road-work",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/duluth-mn",
+        "site_categories": [
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "human interest",
+            "politics",
+            "arts, culture and entertainment",
+            "under_construction",
+            "crime, law and justice",
+            "sport"
+        ],
+        "section_title": "Duluth, MN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Central Entrance partially closed due to road work - NewsBreak",
+        "title_full": "Central Entrance partially closed due to road work - NewsBreak",
+        "published": "2026-04-23T01:49:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2bKB6U_1AhZmIV800",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b706b67d9f87323a4d644ad8a22c2692b4631487",
+    "url": "https://www.newsbreak.com/news/4607453861900-central-entrance-partially-closed-due-to-road-work",
+    "ord_in_thread": 0,
+    "author": "Northern News Now staff",
+    "published": "2026-04-23T01:49:00.000+03:00",
+    "title": "Central Entrance partially closed due to road work - NewsBreak",
+    "text": "By Northern News Now staff ,\n5 hours ago DULUTH, Minn. (Northern News Now) - A heads up to anyone driving on Duluth’s central entrance Wednesday. Two lanes are closed for a utility repair, meaning traffic is down to one lane in each direction. City leaders say that could lead to slower traffic in the area. Work is... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Duluth",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Northern News Now",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "b706b67d9f87323a4d644ad8a22c2692b4631487",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Duluth"
+            ],
+            "state": [
+                "Minnesota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-23T07:23:33.030+03:00",
+    "updated": "2026-04-23T07:57:08.000+03:00"
+}

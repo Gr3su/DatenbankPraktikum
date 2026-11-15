@@ -1,0 +1,162 @@
+{
+    "thread": {
+        "uuid": "3cdf416e917bc3b58c11fe8edf7166a1beeafc25",
+        "url": "https://www.newsbreak.com/news/4582246184526-the-washoe-tribe-of-nevada-and-california-secures-ancestral-land-with-plans-of-restoration-and-preservation",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/loyalton-ca",
+        "site_categories": [
+            "economy, business and finance",
+            "crime, law and justice",
+            "sport",
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "politics",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Loyalton, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "The Washoe Tribe of Nevada and California secures ancestral land with plans of restoration and preservation - NewsBreak",
+        "title_full": "The Washoe Tribe of Nevada and California secures ancestral land with plans of restoration and preservation - NewsBreak",
+        "published": "2026-04-08T22:33:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4d8xtl_1AIAaXp300",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3cdf416e917bc3b58c11fe8edf7166a1beeafc25",
+    "url": "https://www.newsbreak.com/news/4582246184526-the-washoe-tribe-of-nevada-and-california-secures-ancestral-land-with-plans-of-restoration-and-preservation",
+    "ord_in_thread": 0,
+    "author": "Jayde Ryan",
+    "published": "2026-04-08T22:33:00.000+03:00",
+    "title": "The Washoe Tribe of Nevada and California secures ancestral land with plans of restoration and preservation - NewsBreak",
+    "text": "By Jayde Ryan ,\n8 hours ago Reno, Nev. (KOLO) -In our America 250 segment, we took a closer look at the ancestral land acquired by the Washoe Tribe. About 10,274 acres of land north of Lake Tahoe have been transferred to the Washoe Tribe of Nevada and California. Around 20 miles north of Reno, the land was formerly known as the Loyalton Ranch. Read full article\nRead in NewsBreak 28",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Environment",
+        "Human Interest"
+    ],
+    "topics": [
+        "Environment->land resources",
+        "Environment->conservation",
+        "Human Interest->ceremony"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jayde Ryan",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Reno",
+                "sentiment": "none"
+            },
+            {
+                "name": "KOLO",
+                "sentiment": "none"
+            },
+            {
+                "name": "America",
+                "sentiment": "none"
+            },
+            {
+                "name": "California",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nevada",
+                "sentiment": "none"
+            },
+            {
+                "name": "Loyalton Ranch",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lake Tahoe",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Washoe Tribe",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Loyalton"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:19:14.736+03:00",
+    "updated": "2026-04-09T07:24:09.000+03:00"
+}

@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "ee25c263a5954afae8b36a378bf6d4be76618395",
+        "url": "https://www.newsbreak.com/news/4988683864550-woman-killed-in-head-on-crash-on-state-road-9-in-grant-county",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/fowlerton-in",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "social issue",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "politics",
+            "under_construction",
+            "economy, business and finance",
+            "sport"
+        ],
+        "section_title": "Fowlerton, IN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Woman killed in head-on crash on State Road 9 in Grant County - NewsBreak",
+        "title_full": "Woman killed in head-on crash on State Road 9 in Grant County - NewsBreak",
+        "published": "2026-11-05T20:32:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2vvya4_1GniIgPT00",
+        "performance_score": 0,
+        "domain_rank": 2894,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-11-06T07:04:13.005+02:00"
+        }
+    },
+    "uuid": "ee25c263a5954afae8b36a378bf6d4be76618395",
+    "url": "https://www.newsbreak.com/news/4988683864550-woman-killed-in-head-on-crash-on-state-road-9-in-grant-county",
+    "ord_in_thread": 0,
+    "author": "WOWO News",
+    "published": "2026-11-05T20:32:00.000+02:00",
+    "title": "Woman killed in head-on crash on State Road 9 in Grant County - NewsBreak",
+    "text": "By WOWO News ,\n2 days ago\nGRANT COUNTY, Ind. (WOWO) — A woman was killed in a two-vehicle head-on crash north of Marion Tuesday night, according to the Grant County Sheriff’s Office. Deputies were dispatched around 8:35 p.m. Nov. 3 to the 4300 block of North Huntington Road, also known as State Highway 9, after 911 calls reported a crash.\nRead full article\nAdd to Preferred Sources\n3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident",
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.gstatic.com/images/branding/productlogos/googleg_gradient/v1/24px.svg",
+        "https://wowo.com/woman-killed-in-head-on-crash-on-state-road-9-in-grant-county/",
+        "https://www.google.com/preferences/source?q=newsbreak.com",
+        "https://www.google.com/preferences/source",
+        "https://www.wowo.com/woman-killed-in-head-on-crash-on-state-road-9-in-grant-county/",
+        "https://gstatic.com/images/branding/productlogos/googleg_gradient/v1/24px.svg",
+        "https://google.com/preferences/source?q=newsbreak.com",
+        "https://wowo.com/woman-killed-in-head-on-crash-on-state-road-9-in-grant-county"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Marion",
+                "sentiment": "none"
+            },
+            {
+                "name": "Grant County",
+                "sentiment": "none"
+            },
+            {
+                "name": "North Huntington Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "State Highway 9",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Grant County Sheriff ’ s Office",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "WOWO News",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Fowlerton"
+            ],
+            "state": [
+                "Indiana"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-11-06T07:04:13.005+02:00",
+    "updated": "2026-11-07T22:52:14.622+02:00",
+    "related_articles": null
+}

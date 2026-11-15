@@ -1,0 +1,195 @@
+{
+    "thread": {
+        "uuid": "e3331c4f2f3e57599e87c1eed9fdfd6d3e6920b4",
+        "url": "https://www.newsbreak.com/weht-wtvw-1590002/4649798154840-seiler-spins-shutout-tecumseh-takes-control-in-pac",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/weht-wtvw-1590002",
+        "site_categories": [
+            "sport",
+            "politics",
+            "crime, law and justice",
+            "human interest",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "under_construction",
+            "economy, business and finance"
+        ],
+        "section_title": "WEHT/WTVW&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Seiler spins shutout, Tecumseh takes control in PAC - NewsBreak",
+        "title_full": "Seiler spins shutout, Tecumseh takes control in PAC - NewsBreak",
+        "published": "2026-05-14T06:44:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2965,
+        "domain_rank_updated": "2026-05-11T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e3331c4f2f3e57599e87c1eed9fdfd6d3e6920b4",
+    "url": "https://www.newsbreak.com/weht-wtvw-1590002/4649798154840-seiler-spins-shutout-tecumseh-takes-control-in-pac",
+    "ord_in_thread": 0,
+    "author": "Ayden Crowley",
+    "published": "2026-05-14T06:44:00.000+03:00",
+    "title": "Seiler spins shutout, Tecumseh takes control in PAC - NewsBreak",
+    "text": "By Ayden Crowley ,\n58 minutes ago LYNNVILLE, Ind. (WEHT) — The Tecumseh Braves pick up a big win in the PAC with a 10-0 victory over the Gibson Southern Titans.\nTecumseh’s ace Audrey Seiler spun a complete game shutout with 10 strikeouts in the effort.\nThe Braves are back in action on May 14 against Southridge. The Titans hope to bounce back on on May 14 against Tell City.\nCopyright 2026 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. For the latest news, weather, sports, and streaming video, head to Eyewitness News (WEHT/WTVW).",
+    "summary": "(WEHT) — The Tecumseh Braves pick up a big win in the PAC with a 10-0 victory over the Gibson Southern Titans. Tecumseh’s ace Audrey Seiler spun a complete game shutout with 10 strikeouts in the effort. The Titans hope to bounce back on on May 14 against Tell City. Copyright 2026 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->baseball",
+        "Sport->sport event"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.tristatehomepage.com",
+        "https://www.tristatehomepage.com/nxs-video/vid-anvato-11790859/embed/?post_id=2414340&injected_via=feed&autoplay=false&preroll=true&autoplay=0",
+        "https://www.tristatehomepage.com/nxs-video/vid-anvato-11790859/embed/",
+        "https://tristatehomepage.com/nxs-video/vid-anvato-11790859/embed/?post_id=2414340&injected_via=feed&autoplay=false&preroll=true&autoplay=0",
+        "https://tristatehomepage.com"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ayden Crowley",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Audrey Seiler",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "LYNNVILLE",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Tecumseh Braves",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Tell City",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "WEHT",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "PAC",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "PAC",
+                        "exchange": "NYSE American"
+                    }
+                ]
+            },
+            {
+                "name": "Gibson Southern Titans",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Braves",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Nexstar Media, Inc",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "NXST",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "WTV",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Southridge",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Eyewitness News",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-14T07:44:04.515+03:00",
+    "updated": "2026-05-14T07:45:12.000+03:00"
+}

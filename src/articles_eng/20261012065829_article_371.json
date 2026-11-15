@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "a1e3d2ea9e73b78aba37b7fa6986867bf3568b9a",
+        "url": "https://mexicodailypost.com/mazatlan-activates-shelters-as-tropical-storm-simon-threatens-to-become-category-1-hurricane/",
+        "site_full": "mexicodailypost.com",
+        "site": "mexicodailypost.com",
+        "site_section": "https://mexicodailypost.com/feed",
+        "site_categories": [],
+        "section_title": "Mexico Daily Post",
+        "site_title": "Mexico Daily Post",
+        "title": "Mazatlán Activates Shelters as Tropical Storm \"Simón\" Threatens to Become Category 1 Hurricane",
+        "title_full": "Mazatlán Activates Shelters as Tropical Storm \"Simón\" Threatens to Become Category 1 Hurricane",
+        "published": "2026-10-09T05:25:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 513899,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:09:50.099+03:00"
+        }
+    },
+    "uuid": "a1e3d2ea9e73b78aba37b7fa6986867bf3568b9a",
+    "url": "https://mexicodailypost.com/mazatlan-activates-shelters-as-tropical-storm-simon-threatens-to-become-category-1-hurricane/",
+    "ord_in_thread": 0,
+    "author": "Mexico Daily Post",
+    "published": "2026-10-09T05:25:00.000+03:00",
+    "title": "Mazatlán Activates Shelters as Tropical Storm \"Simón\" Threatens to Become Category 1 Hurricane",
+    "text": "MAZATLÁN, MEXICO — Municipal authorities in Mazatlán have activated seven temporary shelters in preparation for the potential impact of Tropical Storm “Simón.” The storm, which formed in the Pacific Ocean, is currently forecasted to intensify into a Category 1 hurricane as it moves toward the Sinaloa coastline.\nIn a coordinated emergency response, personnel from Civil Protection, the Mexican Army, and the National Guard are currently conducting inspections of the seven designated facilities. These rounds of inspection are intended to verify that each shelter meets safety standards and is fully equipped to receive evacuees.\nMeteorological projections indicate that the cyclone will approach the Pacific coast, with a high probability of making landfall in Sinaloa. Local residents are being advised to stay informed as authorities continue to monitor the storm’s trajectory and expected path of destruction.",
+    "summary": "The storm, which formed in the Pacific Ocean, is currently forecasted to intensify into a Category 1 hurricane as it moves toward the Sinaloa coastline. In a coordinated emergency response, personnel from Civil Protection, the Mexican Army, and the National Guard are currently conducting inspections of the seven designated facilities. These rounds of inspection are intended to verify that each shelter meets safety standards and is fully equipped to receive evacuees. Meteorological projections indicate that the cyclone will approach the Pacific coast, with a high probability of making landfall in Sinaloa.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Mazatlán",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sinaloa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pacific Ocean",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Guard",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Civil Protection",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Mexican Army",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:09:50.099+03:00",
+    "updated": "2026-10-09T07:09:50.099+03:00",
+    "related_articles": null
+}

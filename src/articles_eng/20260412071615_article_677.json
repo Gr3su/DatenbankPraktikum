@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "4b9643e1de34455be60e1fcceb343808a7d36184",
+        "url": "https://www.newsbreak.com/fox-weather-1600354/4582650099324-noaa-uses-ai-and-satellites-to-map-out-global-algae-bloom-over-millions-of-miles",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/fox-weather-1600354",
+        "site_categories": [
+            "economy, business and finance",
+            "politics",
+            "crime, law and justice",
+            "under_construction",
+            "lifestyle and leisure",
+            "human interest",
+            "sport",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Fox Weather&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "NOAA uses AI and satellites to map out global algae bloom over millions of miles - NewsBreak",
+        "title_full": "NOAA uses AI and satellites to map out global algae bloom over millions of miles - NewsBreak",
+        "published": "2026-04-09T04:49:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/035WcL_1AIaDuD300",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4b9643e1de34455be60e1fcceb343808a7d36184",
+    "url": "https://www.newsbreak.com/fox-weather-1600354/4582650099324-noaa-uses-ai-and-satellites-to-map-out-global-algae-bloom-over-millions-of-miles",
+    "ord_in_thread": 0,
+    "author": "Alexandra Myers",
+    "published": "2026-04-09T04:49:00.000+03:00",
+    "title": "NOAA uses AI and satellites to map out global algae bloom over millions of miles - NewsBreak",
+    "text": "By Alexandra Myers ,\n2 hours ago Scientists from NOAA are using artificial intelligence and satellite imagery to map global algae blooms just as sargassum reaches peak bloom season in Florida and the U.S. Caribbean. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology",
+        "Environment"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science",
+        "Science and Technology->scientific research",
+        "Science and Technology->marine science",
+        "Environment->water pollution"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alexandra Myers",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "U. S. Caribbean",
+                "sentiment": "none"
+            },
+            {
+                "name": "Florida",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NOAA",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:40:35.195+03:00",
+    "updated": "2026-04-09T07:45:48.000+03:00"
+}

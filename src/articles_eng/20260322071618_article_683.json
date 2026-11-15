@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "d1b9c25e687509df1d26cb8c80ce1fcb03ffb426",
+        "url": "https://www.newsbreak.com/news/4546506334505-new-volusia-fire-station-15-to-break-ground-in-april",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/daytona-beach-fl",
+        "site_categories": [
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "politics",
+            "human interest",
+            "under_construction",
+            "sport",
+            "economy, business and finance"
+        ],
+        "section_title": "Daytona Beach, FL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "New Volusia Fire Station 15 to Break Ground in April - NewsBreak",
+        "title_full": "New Volusia Fire Station 15 to Break Ground in April - NewsBreak",
+        "published": "2026-03-18T17:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0Jgf5s_19j9p0VN00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d1b9c25e687509df1d26cb8c80ce1fcb03ffb426",
+    "url": "https://www.newsbreak.com/news/4546506334505-new-volusia-fire-station-15-to-break-ground-in-april",
+    "ord_in_thread": 0,
+    "author": "Chris Gollon",
+    "published": "2026-03-18T17:40:00.000+02:00",
+    "title": "New Volusia Fire Station 15 to Break Ground in April - NewsBreak",
+    "text": "By Chris Gollon ,\n13 hours ago The groundbreaking on a new fire station in Volusia County is set for early next month, the county government announced Tuesday. Fire Station 15 in Daytona Beach will be rebuilt starting on Thursday, April 2. The project will be moving the existing Fire Station 15 from Tiger Bay Road to... Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->fire"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Chris Gollon",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Volusia County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Daytona Beach",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tiger Bay Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Daytona Beach"
+            ],
+            "state": [
+                "Florida"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:33:18.649+02:00",
+    "updated": "2026-03-19T07:36:38.000+02:00"
+}

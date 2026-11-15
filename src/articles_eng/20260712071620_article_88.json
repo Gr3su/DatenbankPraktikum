@@ -1,0 +1,140 @@
+{
+    "thread": {
+        "uuid": "de1be1cb349b3c9ea19850eb3af6bd84f77f3062",
+        "url": "https://www.newsbreak.com/news/4758708496683-silver-alert-issued-for-missing-87-year-old-dyersburg-man",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/newbern-tn",
+        "site_categories": [
+            "under_construction",
+            "economy, business and finance",
+            "sport",
+            "disaster and accident",
+            "human interest",
+            "politics",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "social issue"
+        ],
+        "section_title": "Newbern, TN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Silver Alert issued for missing 87-year-old Dyersburg man - NewsBreak",
+        "title_full": "Silver Alert issued for missing 87-year-old Dyersburg man - NewsBreak",
+        "published": "2026-07-08T18:58:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3LxxOm_1D6zR6yv00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "de1be1cb349b3c9ea19850eb3af6bd84f77f3062",
+    "url": "https://www.newsbreak.com/news/4758708496683-silver-alert-issued-for-missing-87-year-old-dyersburg-man",
+    "ord_in_thread": 0,
+    "author": "WBBJ Staff",
+    "published": "2026-07-08T18:58:00.000+03:00",
+    "title": "Silver Alert issued for missing 87-year-old Dyersburg man - NewsBreak",
+    "text": "By WBBJ Staff ,\n12 hours ago DYERSBURG, Tenn. (WBBJ) - A #TNSilverAlert has been issued on behalf of the Dyersburg Police Department for 87-year-old James Humphreys. He was last seen on July 4th, traveling to Arizona in a 2005 Ford F-350 with TN tag 924BBZV. James is 5′11″, 160 lbs., with blue eyes and gray hair.... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wbbjtv.com/2026/07/08/silver-alert-issued-missing-87-year-old-dyersburg-man/?outputType=amp",
+        "https://www.wbbjtv.com/2026/07/08/silver-alert-issued-missing-87-year-old-dyersburg-man/",
+        "https://wbbjtv.com/2026/07/08/silver-alert-issued-missing-87-year-old-dyersburg-man/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "James Humphreys",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Dyersburg",
+                "sentiment": "none"
+            },
+            {
+                "name": "Arizona",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WBBJ",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Dyersburg Police Department",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Newbern"
+            ],
+            "state": [
+                "Tennessee"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:19:50.929+03:00",
+    "updated": "2026-07-09T07:23:30.000+03:00"
+}

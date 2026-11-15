@@ -1,0 +1,169 @@
+{
+    "thread": {
+        "uuid": "d5214a0cc51e3aa2c0a08b4aacde7c45a9824d7c",
+        "url": "https://guardian.ng/news/nigeria/national/2-4m-nigerians-complete-voter-registration-inec-declares/",
+        "site_full": "guardian.ng",
+        "site": "guardian.ng",
+        "site_section": "https://news.google.com/search?q=while%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+        "title": "2.4m Nigerians complete voter registration, INEC declares",
+        "title_full": "2.4m Nigerians complete voter registration, INEC declares",
+        "published": "2025-11-27T07:29:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "https://cdn.guardian.ng/wp-content/uploads/2022/07/inec-6.jpg",
+        "performance_score": 0,
+        "domain_rank": 15558,
+        "domain_rank_updated": "2025-11-23T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d5214a0cc51e3aa2c0a08b4aacde7c45a9824d7c",
+    "url": "https://guardian.ng/news/nigeria/national/2-4m-nigerians-complete-voter-registration-inec-declares/",
+    "ord_in_thread": 0,
+    "author": "Guardian Nigeria",
+    "published": "2025-11-27T07:29:00.000+02:00",
+    "title": "2.4m Nigerians complete voter registration, INEC declares",
+    "text": "The Independent National Electoral Commission (INEC) has disclosed that 2,449,475 Nigerians have so far completed their registration both online and through physical capture.\nAccording to a report by the commission, 1,425,898 applicants finalised their online pre-registration, while 1,023,577 completed the process at physical registration centres nationwide.\nThe report released yesterday noted that Osun State led the exercise with 193,026 completed registrations, followed by Imo with 144,209 and Kano with 142,433.\nSokoto recorded 132,584, while Lagos posted 115,334. Borno followed with 112,226 and the Federal Capital Territory (FCT) with 106,855.\nKogi recorded 97,012 registrations, ahead of Jigawa’s 95,543 and Zamfara’s 90,739.\nKatsina registered 87,661, while Kaduna posted 82,421.\nDelta recorded 79,495 completed registrations, followed by Kebbi with 77,721 and Ogun with 77,014. Niger State posted 73,745, while Oyo and Akwa Ibom recorded 68,559 and 68,464, respectively. Rivers followed with 63,621.\nAdamawa reported 52,381 completed registrations, Kwara 50,221 and Yobe 49,766. Benue posted 46,802, while Bayelsa recorded 41,856. Bauchi followed with 37,749.\nEkiti registered 33,393, Gombe 32,890 and Nasarawa 31,862. Ebonyi recorded 29,102, Edo 27,602 and Plateau 25,301. Taraba posted 18,731, Enugu 17,234 and Ondo 16,709. Cross River recorded 15,339, while Abia registered 13,875.\nINEC noted that Anambra remained at zero, as voter registration in the state was still suspended in line with Section 9(6) of the Electoral Act 2022, following the conclusion of the recent governorship election.\nThe CVR, which commenced on August 18, 2025, is expected to run until August 2026.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->voting"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+        "https://cvr.inecnigeria.org/Public/getStarted",
+        "https://www.cvr.inecnigeria.org/Public/getStarted"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Zamfara",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jigawa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Borno",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kwara",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kebbi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ogun",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Independent National Electoral Commission",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "INEC",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Federal Capital Territory",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Niger State",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Osun State",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-11-27T07:35:18.536+02:00",
+    "updated": "2025-11-27T07:35:55.000+02:00"
+}

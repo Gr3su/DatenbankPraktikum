@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "c0365bcfa39e73fbc4f847e6becbc43b899df770",
+        "url": "https://www.newsbreak.com/news/4811416857003-reno-based-medical-helicopter-joins-fight-against-wildfires",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/fernley-nv",
+        "site_categories": [
+            "lifestyle and leisure",
+            "human interest",
+            "sport",
+            "under_construction",
+            "economy, business and finance",
+            "politics",
+            "crime, law and justice",
+            "health",
+            "social issue",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Fernley, NV Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Reno-based medical helicopter joins fight against wildfires - NewsBreak",
+        "title_full": "Reno-based medical helicopter joins fight against wildfires - NewsBreak",
+        "published": "2026-08-05T21:57:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1UnPGQ_1Dy5Mw7v00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c0365bcfa39e73fbc4f847e6becbc43b899df770",
+    "url": "https://www.newsbreak.com/news/4811416857003-reno-based-medical-helicopter-joins-fight-against-wildfires",
+    "ord_in_thread": 0,
+    "author": "2 News Nevada digital team",
+    "published": "2026-08-05T21:57:00.000+03:00",
+    "title": "Reno-based medical helicopter joins fight against wildfires - NewsBreak",
+    "text": "By 2 News Nevada digital team ,\n9 hours ago A Reno-based EMS helicopter will be helping the fight against wildfires in northern Nevada and eastern California. REACH Air Medical Services says when the helicopter is not doing medical transport, crews have the ability to quickly transform the aircraft and support firefighters by securing medical equipment and attaching the water bucket in just 10 minutes. Read full article\n3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->emergency response",
+        "Disaster and Accident->accident and emergency incident",
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.2news.com/news/local/reno-based-medical-helicopter-joins-fight-against-wildfires/article_80c44b5d-9d60-4963-b311-116b28f209ef.html",
+        "https://2news.com/news/local/reno-based-medical-helicopter-joins-fight-against-wildfires/article_80c44b5d-9d60-4963-b311-116b28f209ef.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "California",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nevada",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "2 News Nevada",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "REACH Air Medical Services",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Fernley"
+            ],
+            "state": [
+                "Nevada"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:21:36.625+03:00",
+    "updated": "2026-08-06T07:23:48.000+03:00"
+}

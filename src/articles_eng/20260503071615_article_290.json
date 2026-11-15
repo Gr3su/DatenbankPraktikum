@@ -1,0 +1,156 @@
+{
+    "thread": {
+        "uuid": "ca3539f135a59d96f6f2b8d91ad169c44a9fb761",
+        "url": "https://www.newsbreak.com/news/4621336571213-dfw-weather-national-weather-service-confirms-5-tornadoes-from-tuesday-s-storms",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/dallas-tx",
+        "site_categories": [
+            "economy, business and finance",
+            "sport",
+            "arts, culture and entertainment",
+            "politics",
+            "under_construction",
+            "crime, law and justice",
+            "human interest",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Dallas, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "DFW Weather: National Weather Service confirms 5 tornadoes from Tuesday's storms - NewsBreak",
+        "title_full": "DFW Weather: National Weather Service confirms 5 tornadoes from Tuesday's storms - NewsBreak",
+        "published": "2026-04-30T01:01:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4I78GP_1AvZ2hfQ00",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ca3539f135a59d96f6f2b8d91ad169c44a9fb761",
+    "url": "https://www.newsbreak.com/news/4621336571213-dfw-weather-national-weather-service-confirms-5-tornadoes-from-tuesday-s-storms",
+    "ord_in_thread": 0,
+    "author": "Carter Freemon",
+    "published": "2026-04-30T01:01:00.000+03:00",
+    "title": "DFW Weather: National Weather Service confirms 5 tornadoes from Tuesday's storms - NewsBreak",
+    "text": "By Carter Freemon ,\n6 hours ago The National Weather Service has confirmed at least five tornadoes touched down in North Texas during Tuesday's bout of severe weather. An EF-3 tornado caused severe damage across Mineral Wells in Parker County, while three touched down in Johnson County and one tornado formed in Montague County. The NWS investigation... Read full article\nRead in NewsBreak 5",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather phenomena",
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Carter Freemon",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Parker County",
+                "sentiment": "none"
+            },
+            {
+                "name": "North Texas",
+                "sentiment": "none"
+            },
+            {
+                "name": "Johnson County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Montague County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mineral Wells",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NWS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:24:39.114+03:00",
+    "updated": "2026-04-30T07:28:35.000+03:00"
+}

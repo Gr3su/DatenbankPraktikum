@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "d030f28b00a9faf13f0cc2a383ec545fbf313f5e",
+        "url": "https://www.newsbreak.com/news/4547026057598-walnut-ridge-amtrak-depot-undergoing-4-5m-renovation",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/lynn-ar",
+        "site_categories": [
+            "crime, law and justice",
+            "human interest",
+            "economy, business and finance",
+            "sport",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "politics",
+            "under_construction"
+        ],
+        "section_title": "Lynn, AR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Walnut Ridge Amtrak depot undergoing $4.5M renovation - NewsBreak",
+        "title_full": "Walnut Ridge Amtrak depot undergoing $4.5M renovation - NewsBreak",
+        "published": "2026-03-18T23:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3puz0t_19jgoW6H00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d030f28b00a9faf13f0cc2a383ec545fbf313f5e",
+    "url": "https://www.newsbreak.com/news/4547026057598-walnut-ridge-amtrak-depot-undergoing-4-5m-renovation",
+    "ord_in_thread": 0,
+    "author": "Bryant Kwilecki",
+    "published": "2026-03-18T23:22:00.000+02:00",
+    "title": "Walnut Ridge Amtrak depot undergoing $4.5M renovation - NewsBreak",
+    "text": "By Bryant Kwilecki ,\n7 hours ago WALNUT RIDGE, Ark. (KAIT) - The historic Missouri-Pacific train depot in Walnut Ridge is undergoing renovations to bring the building up to standards and improve accessibility for Amtrak passengers. The depot, built in 1908, serves as the only Amtrak stop in the region between Little Rock and Poplar Bluff. It... Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->travel and tourism"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bryant Kwilecki",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Walnut Ridge",
+                "sentiment": "none"
+            },
+            {
+                "name": "Poplar Bluff",
+                "sentiment": "none"
+            },
+            {
+                "name": "Little Rock",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Amtrak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Lynn"
+            ],
+            "state": [
+                "Arkansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:17:41.162+02:00",
+    "updated": "2026-03-19T07:20:19.000+02:00"
+}

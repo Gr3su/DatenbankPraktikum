@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "e88ed39c6bdde5736b00e00584b0c9fb364274ea",
+        "url": "https://www.jamestownpress.com/articles/san-diego-wins-cup/",
+        "site_full": "www.jamestownpress.com",
+        "site": "jamestownpress.com",
+        "site_section": "https://news.google.com/search?q=whom%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "The Jamestown Press",
+        "title": "SAN DIEGO WINS CUP",
+        "title_full": "SAN DIEGO WINS CUP",
+        "published": "2025-09-18T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.jamestownpress.com/wp-content/uploads/images/2025-09-18/14p1.jpg",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e88ed39c6bdde5736b00e00584b0c9fb364274ea",
+    "url": "https://www.jamestownpress.com/articles/san-diego-wins-cup/",
+    "ord_in_thread": 0,
+    "author": "ohtadmin",
+    "published": "2025-09-18T07:00:00.000+03:00",
+    "title": "SAN DIEGO WINS CUP",
+    "text": "Thursday, September 18, 2025\nThe fleet of the 2025 Rolex Invitational Cup sails downwind Sunday on Narragansett Bay. The regatta, sailed on the New York Yacht Club’s fleet of IC37 yachts, was won by the San Diego Yacht Club. The host team, helmed by Jamestown resident Hannah Swett, finished ninth from 20 teams after winning the 12th and final race. ROLEX/DANIEL FORSTER",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Lifestyle and Leisure",
+        "Human Interest"
+    ],
+    "topics": [
+        "Sport->sailing",
+        "Lifestyle and Leisure->lifestyle",
+        "Lifestyle and Leisure->outdoor recreational activities",
+        "Lifestyle and Leisure->travel and tourism",
+        "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "DANIEL FORSTER",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hannah Swett",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "San Diego Yacht Club",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "New York Yacht Club",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Jamestown"
+            ],
+            "state": [
+                "Indiana",
+                "Colorado"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-18T07:22:21.385+03:00",
+    "updated": "2025-09-18T07:28:46.000+03:00"
+}

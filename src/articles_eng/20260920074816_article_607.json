@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "8ba6dcf9257bab2fdbacd4316d1d83837440513f",
+        "url": "https://gulfnews.com/living-in-uae/banking/uae-banking-explained-how-online-payment-verification-works-without-sms-otps-1.500677143",
+        "site_full": "gulfnews.com",
+        "site": "gulfnews.com",
+        "site_section": "https://gulfnews.com/latest-news",
+        "site_categories": [
+            "politics",
+            "car_culture",
+            "sport",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "science and technology",
+            "media",
+            "vehicles"
+        ],
+        "section_title": "Gulf News: Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema",
+        "site_title": "Gulf News: Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema",
+        "title": "UAE Banks Ditch SMS OTPs: How In-App and Biometric Verification Now Secure Online Payments",
+        "title_full": "UAE Banks Ditch SMS OTPs: How In-App and Biometric Verification Now Secure Online Payments",
+        "published": "2026-09-17T08:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AE",
+        "main_image": "https://media.assettype.com/gulfnews%2F2024-11-16%2Fhxmkcech%2FDigital_banking_resources1_16a085160c0_original_ratio.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 4377,
+        "domain_rank_updated": null,
+        "licensing_agency": [
+            "NLA"
+        ],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8ba6dcf9257bab2fdbacd4316d1d83837440513f",
+    "url": "https://gulfnews.com/living-in-uae/banking/uae-banking-explained-how-online-payment-verification-works-without-sms-otps-1.500677143",
+    "ord_in_thread": 0,
+    "author": "Zainab Husain",
+    "published": "2026-09-17T08:00:00.000+03:00",
+    "title": "UAE Banks Ditch SMS OTPs: How In-App and Biometric Verification Now Secure Online Payments",
+    "text": "Dubai: UAE banks are moving away from traditional SMS and email-based One-Time Passwords (OTPs) , with secure in-app approvals and biometric verification becoming the preferred way to authenticate online payments.\nThe shift followed guidelines from the Central Bank of the UAE (CBUAE) , which required banks to phase out traditional authentication methods by March 31, 2026 . Many UAE banks began rolling out the new systems to customers on a wider scale during 2025, while some continued introducing the new authentication methods to customers.\nHow do UAE banks verify online purchases now? When you make an online purchase, you may no longer receive an SMS containing a one-time password to enter on the payment page.\nInstead, after you enter your card details, the payment screen may ask you to approve the transaction through your bank’s official mobile app.\nThe bank may also send an SMS alert telling you that an online card payment requires confirmation and directing you to open the banking app. Depending on the bank, you may then need to navigate to a section such as ‘Activities’ or ‘Pending Transactions’ to find the payment awaiting approval.\nOnce you open the transaction, the app will show details of the purchase and may give you a limited amount of time to approve or decline it.\nHow does biometric verification work? Many UAE banking apps use biometric authentication, such as fingerprint or facial recognition, to confirm the transaction.\nIf you have not previously registered your biometrics with your bank’s app, you may first need to set this up. Some banks may also require you to create or activate a digital PIN or other security feature before you can use in-app transaction approvals.\nFor example, with Dubai Islamic Bank (DIB) , customers can currently choose between receiving an SMS OTP or authenticating an online purchase through an in-app push notification. If customers choose the in-app option, they can use registered facial recognition or fingerprint authentication to verify the payment.\nThe exact process differs between banks. Some may require biometric registration, while others may use a Smart Pass PIN or additional security steps.\nWhat happens when you approve a payment? After reviewing the transaction details in your banking app, you can choose to approve or decline the payment.\nIf approval is required, the app may ask you to verify your identity using your registered biometric or security PIN. Once authentication is completed, the transaction is authorised without requiring you to enter or share an SMS OTP.\nImportant: The steps vary from one UAE bank to another. Customers should follow the instructions displayed in their bank’s official mobile app or contact their bank if they are unsure how to activate or use the new authentication method.\nWhy are SMS OTPs being replaced? SMS and email OTPs are considered more vulnerable to interception and fraud than authentication methods built directly into banking apps .\nCybercriminals can use techniques such as SIM swapping to move a victim’s mobile number to another SIM card, potentially giving them access to SMS messages and OTPs. Phishing attacks can also trick customers into revealing their codes.\nIn-app authentication and biometric verification are designed to reduce these risks by keeping the approval process within the bank’s secure mobile application.\nRelated Topics: UAE banks",
+    "summary": "Dubai: UAE banks are moving away from traditional SMS and email-based One-Time Passwords (OTPs) , with secure in-app approvals and biometric verification becoming the preferred way to authenticate online payments. Once you open the transaction, the app will show details of the purchase and may give you a limited amount of time to approve or decline it. For example, with Dubai Islamic Bank (DIB) , customers can currently choose between receiving an SMS OTP or authenticating an online purchase through an in-app push notification.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->biotechnology"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "UAE",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dubai",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBUAE",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Central Bank of the UAE",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_ae",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:13:17.540+03:00",
+    "updated": "2026-09-17T08:26:12.000+03:00"
+}

@@ -1,0 +1,158 @@
+{
+    "thread": {
+        "uuid": "399c186fe144f289921c15953bde5e062ea849a1",
+        "url": "https://local.newsbreak.com/the-denver-gazette-1590430/4785973242678-aspen-acres-fire-rye-residents-scheduled-to-return-home",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/the-denver-gazette-1590430",
+        "site_categories": [
+            "disaster and accident",
+            "arts, culture and entertainment",
+            "politics",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "economy, business and finance",
+            "sport"
+        ],
+        "section_title": "The Denver Gazette&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Aspen Acres fire: Rye residents scheduled to return home - NewsBreak",
+        "title_full": "Aspen Acres fire: Rye residents scheduled to return home - NewsBreak",
+        "published": "2026-07-23T03:14:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3JKKUI_1DYSCbVs00",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "399c186fe144f289921c15953bde5e062ea849a1",
+    "url": "https://local.newsbreak.com/the-denver-gazette-1590430/4785973242678-aspen-acres-fire-rye-residents-scheduled-to-return-home",
+    "ord_in_thread": 0,
+    "author": "The Gazette",
+    "published": "2026-07-23T03:14:00.000+03:00",
+    "title": "Aspen Acres fire: Rye residents scheduled to return home - NewsBreak",
+    "text": "By The Gazette ,\n3 hours ago Bill Peyton looks down the burned slope he escaped down as he evacuated from the Aspen Acres fire in Beulah on Friday, July 17, 2026. (Michael G. Seamans, The Gazette) Residents in the town of Rye are planning for a return home Thursday after officials announced a scheduled change in evacuation status.\nThe mandatory evacuation order for two areas known as zone P-8 and P-11, which includes Rye, will move to pre-evacuation status at 8 a.m. Thursday, according to the Pueblo County Sheriff’s Office, which made the decision in consultation with the Northern Rockies Complex Incident Management Team.\nAlso, zones P-9 and P-12, which include the Colorado City area, will be taken off pre-evacuation on Thursday.\nThe Aspen Acres fire in Pueblo and Custer counties has burned 101,546 acres and remained at 61% contained early Wednesday. The fire started June 29 and it grew to become the seventh-largest in state history. More than 850 structures have burned, including 337 residences that have been lost.\nReentry cards are required to return to all properties. In Pueblo County, they are available at the Recovery Assistance Center, located at Beulah Heights Elementary School, 2670 Delphinium St., in Pueblo. It is open from noon to 6 p.m. Monday through Friday.\nReentry cards in Custer County can be obtained at the Disaster Assistance Center at Lange Hall, 310 S. Third St., in Westcliffe.\n1",
+    "summary": "3 hours ago Bill Peyton looks down the burned slope he escaped down as he evacuated from the Aspen Acres fire in Beulah on Friday, July 17, 2026. (Michael G. Seamans, The Gazette) Residents in the town of Rye are planning for a return home Thursday after officials announced a scheduled change in evacuation status.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Disaster and Accident",
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Disaster and Accident->fire",
+        "Lifestyle and Leisure->leisure venue"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3JKKUI_1DYSCbVs00",
+        "https://img.particlenews.com/image.php?url=3JKKUI_1DYSCbVs00",
+        "https://www.img.particlenews.com/image.php?url=3JKKUI_1DYSCbVs00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3JKKUI_1DYSCbVs00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bill Peyton",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Michael G. Seamans",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Aspen Acres",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rye",
+                "sentiment": "none"
+            },
+            {
+                "name": "Beulah",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "The Gazette",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Northern Rockies Compl",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Pueblo County Sheriff ’ s Office",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-23T07:17:01.587+03:00",
+    "updated": "2026-07-23T11:21:35.000+03:00"
+}

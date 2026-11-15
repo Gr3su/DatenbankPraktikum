@@ -1,0 +1,157 @@
+{
+    "thread": {
+        "uuid": "0d48f2a0c75986beb7b6da24255a04b1e2279c75",
+        "url": "https://www.newsbreak.com/news/4961533749549-watch-ayotte-and-warmington-spar-over-taxes-data-centers-and-affordability",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/manchester-nh",
+        "site_categories": [
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "under_construction",
+            "sport",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "Manchester, NH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "WATCH: Ayotte and Warmington spar over taxes, data centers and affordability - NewsBreak",
+        "title_full": "WATCH: Ayotte and Warmington spar over taxes, data centers and affordability - NewsBreak",
+        "published": "2026-10-22T23:45:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/28Moji_1GMLodS600",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T07:09:35.224+03:00"
+        }
+    },
+    "uuid": "0d48f2a0c75986beb7b6da24255a04b1e2279c75",
+    "url": "https://www.newsbreak.com/news/4961533749549-watch-ayotte-and-warmington-spar-over-taxes-data-centers-and-affordability",
+    "ord_in_thread": 0,
+    "author": "New Hampshire Public Radio",
+    "published": "2026-10-22T23:45:00.000+03:00",
+    "title": "WATCH: Ayotte and Warmington spar over taxes, data centers and affordability - NewsBreak",
+    "text": "By New Hampshire Public Radio ,\n7 hours ago In front of a live audience at Harpoon Brewery at the Queen City Center in Manchester, Republican incumbent Gov. Kelly Ayotte and Democrat Cinde Warmington sparred over issues ranging from affordability, data centers, and education. NHPR's Rick Ganley and Jackie Harris hosted the forum, which was produced in partnership with... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->election",
+        "Politics->government policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nhpr.org/politics/2026-10-22/newhampshire-governor-republican-democrat-kelly-cinde-election-voting",
+        "https://nhpr.org/politics/2026-10-22/newhampshire-governor-republican-democrat-kelly-cinde-election-voting"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kelly Ayotte",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Cinde Warmington",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Rick Ganley",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Jackie Harris",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Manchester",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "##otte",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "New Hampshire Public Radio",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Harpoon Brewery",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "NHPR",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Manchester"
+            ],
+            "state": [
+                "New Hampshire"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:09:35.224+03:00",
+    "updated": "2026-10-23T07:20:53.000+03:00",
+    "related_articles": null
+}

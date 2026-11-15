@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "52b84f9ddd87372bdbf5950ef7198f1e571c89ed",
+        "url": "https://www.newsbreak.com/news/4523075484312-missing-henry-county-girl-found-safe",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/martinsville-va",
+        "site_categories": [
+            "sport",
+            "human interest",
+            "crime, law and justice",
+            "politics",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "under_construction"
+        ],
+        "section_title": "Martinsville, VA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Missing Henry County girl found safe - NewsBreak",
+        "title_full": "Missing Henry County girl found safe - NewsBreak",
+        "published": "2026-03-04T20:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2IE2v4_19LYQE6L00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "52b84f9ddd87372bdbf5950ef7198f1e571c89ed",
+    "url": "https://www.newsbreak.com/news/4523075484312-missing-henry-county-girl-found-safe",
+    "ord_in_thread": 0,
+    "author": "Jeff Singer",
+    "published": "2026-03-04T20:06:00.000+02:00",
+    "title": "Missing Henry County girl found safe - NewsBreak",
+    "text": "By Jeff Singer ,\n11 hours ago HENRY COUNTY, Va. (WDBJ) - UPDATE: The girl has been found safe, according to the Henry County Sheriff’s Office. ORIGINAL STORY: Deputies are in search of a missing girl, identified as “Lyons”. She was reported missing Saturday, Feb. 28, 2026, according to the Henry County Sheriff’s Office, which has not released her age. Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Crime, Law and Justice",
+        "Human Interest"
+    ],
+    "topics": [
+        "Crime, Law and Justice->kidnapping",
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jeff Singer",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Lyons",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Henry County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Va",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Henry County Sheriff ’ s Office",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Martinsville"
+            ],
+            "state": [
+                "Virginia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-05T07:25:38.734+02:00",
+    "updated": "2026-03-05T07:32:32.000+02:00"
+}

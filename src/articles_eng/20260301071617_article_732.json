@@ -1,0 +1,106 @@
+{
+    "thread": {
+        "uuid": "12e715958c1e69edab7de2625fa4ea6762d05c84",
+        "url": "https://www.coindesk.com/markets/2026/02/25/solo-bitcoin-miner-turns-usd75-of-rented-hashrate-into-a-usd200-000-block-reward",
+        "site_full": "www.coindesk.com",
+        "site": "coindesk.com",
+        "site_section": "https://www.coindesk.com/arc/outboundfeeds/rss?outputType=xml",
+        "site_categories": [
+            "science and technology",
+            "finance",
+            "economy, business and finance"
+        ],
+        "section_title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "site_title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "title": "Solo bitcoin miner turns $75 of rented hashrate into a $200,000 block reward",
+        "title_full": "Solo bitcoin miner turns $75 of rented hashrate into a $200,000 block reward",
+        "published": "2026-02-25T21:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.sanity.io/images/s3y3vcno/production/58e935863e39605892acf3fca91ceba74c90f9c9-1920x1080.png?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
+        "performance_score": 0,
+        "domain_rank": 4242,
+        "domain_rank_updated": "2026-02-22T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "12e715958c1e69edab7de2625fa4ea6762d05c84",
+    "url": "https://www.coindesk.com/markets/2026/02/25/solo-bitcoin-miner-turns-usd75-of-rented-hashrate-into-a-usd200-000-block-reward",
+    "ord_in_thread": 0,
+    "author": "Shaurya Malwa",
+    "published": "2026-02-25T21:30:00.000+02:00",
+    "title": "Solo bitcoin miner turns $75 of rented hashrate into a $200,000 block reward",
+    "text": "Solo bitcoin miner turns $75 of rented hashrate into a $200,000 block reward\nThe miner rented 1 petahash per second through on-demand cloud mining and got lucky on block 938,092, one of 21 solo-mined blocks in the past year.\nWhat to know:\n- A solo bitcoin miner who rented about $75 worth of cloud computing power validated block 938,092 and earned the full 3.125 BTC reward, worth more than $200,000.\n- The miner used 1 petahash per second of rented hashrate via CKPool, turning what is essentially a long-shot lottery ticket into a roughly 2,600-fold return.\n- Solo-mined blocks, while still rare, are becoming more common as on-demand hashrate rentals lower barriers to entry, with 21 individual miners earning a combined 66 BTC over the past year despite rising network difficulty.\nTalk about winning the lottery. A solo miner walked away with over $200,000 in bitcoin while renting just $75 of hash power.\nA solo miner validated block 938,092 around 8:04 a.m. UTC on Tuesday, earning the full 3.125 BTC block reward using hashrate rented through on-demand cloud services, according to blockchain data from Mempool.space.\nThe miner spent roughly 119,000 satoshis, about $75, to rent 1 petahash per second of computing power and used CKPool, a service that lets individual miners work independently while relying on a pool server to broadcast and submit solutions.\nThe math on that return is absurd. It's a 2,600x payoff on what amounts to a lottery ticket with better odds than most actual lotteries.\nBitcoin's network processes transactions by bundling them into blocks, which are added to the blockchain roughly every 10 minutes. Miners compete to solve a cryptographic puzzle for the right to add each block, and the winner collects the reward.\nThe competition is measured in hashrate, the amount of computing power a miner throws at the puzzle. More hashrate means more guesses per second and better odds.\nStatistically rare\nA solo miner renting 1 petahash is like bringing a slingshot to a gunfight. The odds of that single petahash solving a block before the industrial operations do are vanishingly small, roughly equivalent to finding one specific grain of sand on a beach.\nBut someone has to win each block, and probability doesn't care about scale. As such, while solo-mined blocks remain statistically rare, they're not as rare as they used to be.\nData from solo mining aggregator Bennet shows 21 individual miners have successfully validated blocks over the past year, earning a combined 66 BTC worth $4.1 million at current prices. That's a 17% increase in solo blocks found year-over-year, with one landing roughly every 17 days on average.\nThe rise of on-demand hashrate rental has lowered the barrier to entry.\nMiners no longer need to own physical hardware to take a shot. Cloud-based services let anyone rent computing power for as little as a few dollars, turning solo mining from an infrastructure-heavy operation into something closer to a scratch-off card with transparent odds.\nMeanwhile, the lucky block landed during an interesting moment for bitcoin mining economics.\nNetwork difficulty just climbed to 144.4 trillion after the latest adjustment, a 15% increase that reversed an 11% drop caused by severe U.S. winter storms earlier this month. The climb means miners now need on the order of 144.4 trillion hash attempts, on average, to find a valid block, compared with the very first blocks in 2009.\nThat storm-driven decline was the sharpest hashrate drop since China's 2021 mining ban, temporarily making blocks easier to find before the network recalibrated.\nAnd for one miner with $75 and good timing, the window was enough.\nMore For You\nBitcoin snaps back near $69,000 but analysts warn the market may not be out of the woods yet\nCrypto rebounds sharply from Tuesday's lows, yet traders question whether the move marks a lasting turn or another range-bound bounce.\nWhat to know:\n- Bitcoin jumped back to $69,000 in a sharp short squeeze that jolted altcoins such as ETH, SOL, DOGE, and ADA, as well as crypto-related stocks like Circle, Coinbase, Strategy, and BitMine, after weeks of selling pressure.\n- The rebound appears to be a technical bounce driven by bearish positioning and thin liquidity rather than by clear fundamental catalysts, and LMAX Group's Joel Kruger urged caution about its durability.\n- Some funds are chasing the rally, rotating to volatile altcoins and options, FalconX's Joshua Lim said.\n- Key resistance levels for bitcoin around $72,000 and $78,000 must be broken on a sustained basis to signal a stronger structural uptrend.",
+    "summary": "- Solo-mined blocks, while still rare, are becoming more common as on-demand hashrate rentals lower barriers to entry, with 21 individual miners earning a combined 66 BTC over the past year despite rising network difficulty. Data from solo mining aggregator Bennet shows 21 individual miners have successfully validated blocks over the past year, earning a combined 66 BTC worth $4.1 million at current prices.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->cryptocurrency"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://x.com/Braiins/status/2026257137010106412",
+        "https://bennet.org/resources/solo-block-tracker/",
+        "https://www.bennet.org/resources/solo-block-tracker/",
+        "https://www.x.com/Braiins/status/2026257137010106412",
+        "https://bennet.org/resources/solo-block-tracker"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "CKPool",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-26T07:32:03.104+02:00",
+    "updated": "2026-02-26T07:33:54.000+02:00"
+}

@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "fe7a7cc39de6d28a9fa6948b85c123ab9f7c763d",
+        "url": "https://www.newsbreak.com/news/4863439101118-carol-price-receives-golden-hoosier-award",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/bunker-hill-in",
+        "site_categories": [
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "sport",
+            "politics",
+            "under_construction",
+            "human interest",
+            "social issue",
+            "crime, law and justice"
+        ],
+        "section_title": "Bunker Hill, IN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Carol Price Receives Golden Hoosier Award - NewsBreak",
+        "title_full": "Carol Price Receives Golden Hoosier Award - NewsBreak",
+        "published": "2026-09-02T21:53:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1JPPaV_1EnVknVV00",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fe7a7cc39de6d28a9fa6948b85c123ab9f7c763d",
+    "url": "https://www.newsbreak.com/news/4863439101118-carol-price-receives-golden-hoosier-award",
+    "ord_in_thread": 0,
+    "author": "Russ Kaspar",
+    "published": "2026-09-02T21:53:00.000+03:00",
+    "title": "Carol Price Receives Golden Hoosier Award - NewsBreak",
+    "text": "By Russ Kaspar ,\n9 hours ago INDIANAPOLIS — Carol Price of Clinton County was recognized Wednesday with the 2026 Golden Hoosier Award, a statewide honor presented to senior Hoosiers whose lives reflect outstanding service to their communities and the state of Indiana. Price, founder and past president of the Clinton County Republican Women’s Club, Clinton... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+        "Arts, Culture and Entertainment->news media"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://clintoncountydailynews.com/carol-price-receives-golden-hoosier-award/",
+        "https://www.clintoncountydailynews.com/carol-price-receives-golden-hoosier-award/",
+        "https://clintoncountydailynews.com/carol-price-receives-golden-hoosier-award"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Carol Price",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Russ Kaspar",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Clinton",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Clinton County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Indiana",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Clinton County Republican Women ’ s Club",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Bunker Hill"
+            ],
+            "state": [
+                "Indiana"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:27:39.102+03:00",
+    "updated": "2026-09-03T07:40:48.000+03:00"
+}

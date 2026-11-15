@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "e3bbc48bddac5f89959ce17ea956a6053d60a6ab",
+        "url": "https://www.newsbreak.com/ktar-news-560325/4934212741672-apache-junction-police-seek-public-s-help-after-woman-kidnapped-at-gunpoint",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/ktar-news-560325",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "sport",
+            "economy, business and finance",
+            "politics",
+            "science and technology",
+            "under_construction"
+        ],
+        "section_title": "KTAR News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Apache Junction police seek public's help after woman kidnapped at gunpoint - NewsBreak",
+        "title_full": "Apache Junction police seek public's help after woman kidnapped at gunpoint - NewsBreak",
+        "published": "2026-10-09T03:40:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2i5Be5_1FvpT8aP00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:16:30.251+03:00"
+        }
+    },
+    "uuid": "e3bbc48bddac5f89959ce17ea956a6053d60a6ab",
+    "url": "https://www.newsbreak.com/ktar-news-560325/4934212741672-apache-junction-police-seek-public-s-help-after-woman-kidnapped-at-gunpoint",
+    "ord_in_thread": 0,
+    "author": "DAVID IVERSEN",
+    "published": "2026-10-09T03:40:00.000+03:00",
+    "title": "Apache Junction police seek public's help after woman kidnapped at gunpoint - NewsBreak",
+    "text": "By DAVID IVERSEN ,\n17 hours ago Apache Junction police are looking for other possible victims of a man accused of kidnapping an 18-year-old woman at gunpoint and assaulting her. Pedro Torres, 32, was arrested Sept. 25 and faces eight felony charges, including kidnapping, aggravated assault, sexual abuse and first-degree burglary, police said. Police said the woman... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->kidnapping"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://ktar.com/arizona-news/apache-junction-kidnapping-arrest-tips",
+        "https://www.ktar.com/arizona-news/apache-junction-kidnapping-arrest-tips"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "DAVID IVERSEN",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Pedro Torres",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Apache Junction",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:16:30.251+03:00",
+    "updated": "2026-10-09T21:29:43.652+03:00",
+    "related_articles": null
+}

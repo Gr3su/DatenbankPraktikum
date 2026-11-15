@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "885cca5c346e9a91e8eebde05bef7c6791383e79",
+        "url": "https://www.ntd.com/ntdplus/amazon-expands-drone-delivery-to-nearly-500-us-cities_1167334.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://api.ntd.com/feed",
+        "site_categories": [
+            "politics",
+            "disaster and accident",
+            "science and technology",
+            "health",
+            "crime, law and justice",
+            "architects",
+            "real_estate",
+            "economy, business and finance",
+            "war, conflict and unrest",
+            "media"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "Amazon Expands Drone Delivery to Nearly 500 US Cities",
+        "title_full": "Amazon Expands Drone Delivery to Nearly 500 US Cities",
+        "published": "2026-08-20T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2024/04/id988193-2-ed_GettyImages-1244689982.jpeg-711x400.webp",
+        "performance_score": 0,
+        "domain_rank": 66011,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "885cca5c346e9a91e8eebde05bef7c6791383e79",
+    "url": "https://www.ntd.com/ntdplus/amazon-expands-drone-delivery-to-nearly-500-us-cities_1167334.html",
+    "ord_in_thread": 0,
+    "author": "NTD Newsroom",
+    "published": "2026-08-20T06:59:00.000+03:00",
+    "title": "Amazon Expands Drone Delivery to Nearly 500 US Cities",
+    "text": "Trailer\nAmazon Expands Drone Delivery to Nearly 500 US Cities\nAmazon Prime is expanding its air drone delivery service. The online retail giant says nearly 500 American towns and cities should have the service by the end of the year.\nWhat would you like to watch today?",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->aerospace engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Amazon Prime",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "AMZN",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:28:29.374+03:00",
+    "updated": "2026-08-20T07:37:31.000+03:00"
+}

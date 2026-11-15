@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "e568ffcaaa903c1d576a09779f4a092ab26c527f",
+        "url": "https://www.newsbreak.com/news/4533612452381-school-bus-involved-in-crash-on-i-480-west",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/bay-village-oh",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "human interest",
+            "politics",
+            "crime, law and justice",
+            "under_construction",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "sport"
+        ],
+        "section_title": "Bay Village, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "School bus involved in crash on I-480 West - NewsBreak",
+        "title_full": "School bus involved in crash on I-480 West - NewsBreak",
+        "published": "2026-03-10T18:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2Dfn5I_19WAJAxl00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e568ffcaaa903c1d576a09779f4a092ab26c527f",
+    "url": "https://www.newsbreak.com/news/4533612452381-school-bus-involved-in-crash-on-i-480-west",
+    "ord_in_thread": 0,
+    "author": "Emily Smith",
+    "published": "2026-03-10T18:21:00.000+02:00",
+    "title": "School bus involved in crash on I-480 West - NewsBreak",
+    "text": "By Emily Smith ,\n1 days ago CLEVELAND (WJW) — Traffic along the Valley View Bridge on I-480 West was affected during the morning commute Tuesday morning after a crash involving a school bus. According to ODOT, the right lane of I-480 West was blocked beyond Transportation Blvd/E 98th St. due to the crash which was first reported around 8 a.m. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Emily Smith",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Valley View Bridge",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CLEVELAND",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "ODOT",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Bay Village"
+            ],
+            "state": [
+                "Ohio"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-12T07:17:22.400+02:00",
+    "updated": "2026-03-12T07:20:41.000+02:00"
+}

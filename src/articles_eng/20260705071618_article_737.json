@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "a15ce8de9b64784c310aa22efbf99634c89f0eb5",
+        "url": "https://www.newsbreak.com/news/4744499705400-highland-county-teens-accused-of-throwing-kittens-into-creek",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/cherry-fork-oh",
+        "site_categories": [
+            "human interest",
+            "lifestyle and leisure",
+            "disaster and accident",
+            "under_construction",
+            "politics",
+            "sport",
+            "crime, law and justice",
+            "social issue",
+            "arts, culture and entertainment",
+            "economy, business and finance"
+        ],
+        "section_title": "Cherry Fork, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Highland County teens accused of throwing kittens into creek - NewsBreak",
+        "title_full": "Highland County teens accused of throwing kittens into creek - NewsBreak",
+        "published": "2026-07-01T23:07:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4YnyD8_1CtfSdbL00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a15ce8de9b64784c310aa22efbf99634c89f0eb5",
+    "url": "https://www.newsbreak.com/news/4744499705400-highland-county-teens-accused-of-throwing-kittens-into-creek",
+    "ord_in_thread": 0,
+    "author": "Brenda Ordonez",
+    "published": "2026-07-01T23:07:00.000+03:00",
+    "title": "Highland County teens accused of throwing kittens into creek - NewsBreak",
+    "text": "By Brenda Ordonez ,\n8 hours ago HIGHLAND COUNTY, Ohio (WXIX) - Two teenagers are facing possible animal cruelty and unruly juvenile charges after a resident said she watched them throw kittens into a creek in a Lynchburg-area community on June 16. The witness said she observed two teens carrying what appeared to be a loaded box... Read full article\n6",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->animal abuse"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox19.com/2026/07/01/highland-county-teens-accused-throwing-kittens-into-creek/?outputType=amp",
+        "https://www.fox19.com/2026/07/01/highland-county-teens-accused-throwing-kittens-into-creek/",
+        "https://fox19.com/2026/07/01/highland-county-teens-accused-throwing-kittens-into-creek/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brenda Ordonez",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Highland County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ohio",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "a15ce8de9b64784c310aa22efbf99634c89f0eb5",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Cherry Fork"
+            ],
+            "state": [
+                "Ohio"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:42:05.146+03:00",
+    "updated": "2026-07-02T07:49:06.000+03:00"
+}

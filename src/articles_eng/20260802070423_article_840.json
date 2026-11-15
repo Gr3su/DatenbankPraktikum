@@ -1,0 +1,177 @@
+{
+    "thread": {
+        "uuid": "56930962bf3381048dd612dc2a0a66aec051ef83",
+        "url": "https://www.newsbreak.com/news/4798275874908-colliers-negotiates-sale-of-the-ridge-apartments-in-merrillville",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/fair-oaks-in",
+        "site_categories": [
+            "human interest",
+            "arts, culture and entertainment",
+            "politics",
+            "crime, law and justice",
+            "under_construction",
+            "lifestyle and leisure",
+            "disaster and accident",
+            "economy, business and finance",
+            "sport",
+            "social issue"
+        ],
+        "section_title": "Fair Oaks, IN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Colliers negotiates sale of The Ridge Apartments in Merrillville - NewsBreak",
+        "title_full": "Colliers negotiates sale of The Ridge Apartments in Merrillville - NewsBreak",
+        "published": "2026-07-29T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3sGtpU_1DkrAt5X00",
+        "performance_score": 0,
+        "domain_rank": 3090,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "56930962bf3381048dd612dc2a0a66aec051ef83",
+    "url": "https://www.newsbreak.com/news/4798275874908-colliers-negotiates-sale-of-the-ridge-apartments-in-merrillville",
+    "ord_in_thread": 0,
+    "author": "rejournals.com",
+    "published": "2026-07-29T07:00:00.000+03:00",
+    "title": "Colliers negotiates sale of The Ridge Apartments in Merrillville - NewsBreak",
+    "text": "1 days ago Colliers brokered the sale of The Ridge Apartments at 1718 W. 55th Ave. in Merrillville, Indiana. The sale was led by the Colliers team of Bryce Wetzel, Tyler Hague, Lauren Stoliar and Ryan Roegner, who represented the owner, Parkmont Group, a real estate investment and operating firm based in New York. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business information"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://rejournals.com/colliers-negotiates-sale-of-the-ridge-apartments-in-merrillville/",
+        "https://www.rejournals.com/colliers-negotiates-sale-of-the-ridge-apartments-in-merrillville/",
+        "https://rejournals.com/colliers-negotiates-sale-of-the-ridge-apartments-in-merrillville"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lauren Stoliar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ryan Roegner",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bryce Wetzel",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tyler Hague",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "W. 55th Ave",
+                "sentiment": "none"
+            },
+            {
+                "name": "Merrillville",
+                "sentiment": "none"
+            },
+            {
+                "name": "New York",
+                "sentiment": "none"
+            },
+            {
+                "name": "Indiana",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "The Ridge Apartments",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Colliers",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "CIGI",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Parkmont Group",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Fair Oaks"
+            ],
+            "state": [
+                "Oregon",
+                "Indiana",
+                "Georgia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:28:05.342+03:00",
+    "updated": "2026-07-30T07:29:53.000+03:00"
+}

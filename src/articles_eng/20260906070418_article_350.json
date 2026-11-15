@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "e3f28c66f01a85b301ace88a53e5234ca4c21368",
+        "url": "https://tass.com/economy/2181603",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/rss/v2.xml",
+        "site_categories": [
+            "media",
+            "science and technology",
+            "economy, business and finance",
+            "politics",
+            "war, conflict and unrest"
+        ],
+        "section_title": "TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Manturov says Russian-made cars' market share rises to 63.5%",
+        "title_full": "Manturov says Russian-made cars' market share rises to 63.5%",
+        "published": "2026-09-03T06:54:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 13728,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e3f28c66f01a85b301ace88a53e5234ca4c21368",
+    "url": "https://tass.com/economy/2181603",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-09-03T06:54:00.000+03:00",
+    "title": "Manturov says Russian-made cars' market share rises to 63.5%",
+    "text": "VLADIVOSTOK, September 3. /TASS/. The share of Russian-made cars on the domestic auto market reached 63.5% in the first eight months of this year, rising by more than 8 percentage points year-on-year, Russian First Deputy Prime Minister Denis Manturov told TASS in an interview on the sidelines of the Eastern Economic Forum (EEF).\nAccording to him, sales of domestically produced cars also increased significantly, rising by more than 23% in January-August to 597,500 vehicles.\n\"As a result, the share of Russian cars on the market increased by more than 8 percentage points in the first eight months and reached 63.5%,\" he said.\nThe first deputy prime minister earlier said that the share of Russian products on the domestic market for new motor vehicles is expected to reach 80%. This target is included in Russia's updated automotive industry development strategy through 2035.\nThe Eastern Economic Forum is being held on September 1-4 in Vladivostok on the campus of Far Eastern Federal University. The forum is organized by the Roscongress Foundation with the support of the Russian government. TASS is the general information partner.",
+    "summary": "The share of Russian-made cars on the domestic auto market reached 63.5% in the first eight months of this year, rising by more than 8 percentage points year-on-year, Russian First Deputy Prime Minister Denis Manturov told TASS in an interview on the sidelines of the Eastern Economic Forum (EEF). According to him, sales of domestically produced cars also increased significantly, rising by more than 23% in January-August to 597,500 vehicles. \"As a result, the share of Russian cars on the market increased by more than 8 percentage points in the first eight months and reached 63.5%,\" he said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business information"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Denis Manturov",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "VLADIVOSTOK",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "EEF",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "TASS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TAS",
+                        "exchange": "KLSE"
+                    }
+                ]
+            },
+            {
+                "name": "Eastern Economic Forum",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:14:51.504+03:00",
+    "updated": "2026-09-03T07:18:00.000+03:00"
+}

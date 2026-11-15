@@ -1,0 +1,112 @@
+{
+    "thread": {
+        "uuid": "ebe4579d22a67d10e7cd1e38c6116503824d2d2c",
+        "url": "https://dataengineeringcentral.substack.com/p/review-of-databricks-data-ai-summit",
+        "site_full": "dataengineeringcentral.substack.com",
+        "site": "substack.com",
+        "site_section": "https://tldr.tech/",
+        "site_categories": [
+            "science and technology"
+        ],
+        "section_title": "TLDR - A Byte Sized Daily Tech Newsletter",
+        "site_title": "Substack - A new economic engine for culture",
+        "title": "Review of Databricks Data + AI Summit 2026",
+        "title_full": "Review of Databricks Data + AI Summit 2026",
+        "published": "2026-06-19T21:52:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://substackcdn.com/image/fetch/$s_!LnEr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb329723-cf91-4789-8151-d87197833453_1672x941.png",
+        "performance_score": 0,
+        "domain_rank": 476,
+        "domain_rank_updated": null,
+        "licensing_agency": [
+            "NLA"
+        ],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ebe4579d22a67d10e7cd1e38c6116503824d2d2c",
+    "url": "https://dataengineeringcentral.substack.com/p/review-of-databricks-data-ai-summit",
+    "ord_in_thread": 0,
+    "author": "Daniel Beach",
+    "published": "2026-06-19T21:52:00.000+03:00",
+    "title": "Review of Databricks Data + AI Summit 2026",
+    "text": "Review of Databricks Data + AI Summit 2026\nfrom someone who wasn't there.\nWell, it’s that time of year again. My feed has been full of a little bit of this, little bit of that from the Databricks Data and AI Summit 2026. It’s kinda hard to miss, although this year, I must say, it seemed a little on the quiet side as compared to others.\nWho knows, 2026 has been a busy year in the world in all ya know, wars, rumors of wars, layoffs, and generally it’s either the beginning of a new world or the end of our current one.\nLike any good hunter of technology, I keep my veteran ear to the ground, ruffling through the fluff and litter, trying to find out what is actually worth your time, and what is just another layer on the AI cake we are all too tired to choke down.\nSo I’m just going to give you my take on the important announcements and products released or announced at this years Databricks Data and AI Summit 2026. I mean I wasn’t there, so take me with a grain of salt.\nHere’s my list, and I will then follow it up with my take on each one.\nZach Wilson went after blowing a raspberry at them last year.\nLakehouse//RT aka “Reyden”\nLTAP - OLAP + OLTP on a single copy of data in the lake\nYeah, I’m giving a big ho-hum to the plethora of AI shiny rocks released, like Genie Ontology, Genie ZeroOps, Omnigent, Unity AI Gateway, etc. The world of Agents and AI is still in flux, no clear winners, everyone is throwing stuff at the wall to see what sticks.\nFor my part, I’m a big believer in Databricks, they have a propensity to fundamentally change technology and how we use it. Truly ground breaking technical solutions and products they bring to market. If you can’t admit that, then check yourself. That being said, I’m just reviewing what I consider products or announcements that meet that critera. Ground breaking and game changing.\nIf you think I’m full of it about something, or I missed something big, drop a comment.\nZach showed up.\nHey, I like a little spice in my life, the hot stuff keeps everyone on their toes. I regularly get on the wrong side of powerful people, much to my joy. Nothing like free head space to bring me more followers.\nAnywho, last year Zach was throwing rocks at Databricks, as you can see below. Good Lord you gotta love seeing behind the curtain sometimes. We need our own data Netflix series on this sorta thing ya know?\nBut, Zach attended this years Summit, which I was glad to see. I think Zach is one of the smartest and hard working engineers I’ve ever scene, and I love Databricks because they make the best products. I’m glad they are getting along now.\nAnywho, enough on that, next.\nLakehouse//RT: Databricks Brings Real-Time Analytics to the Lakehouse\nThis one caught my poor little ears as soon as the words dripped out onto LinkedIn. Again, all this stuff is new so who knows what the future holds or if anything will come of it, but it solves some major pain points we’ve been dealing with in a new and novel way.\nI’m excited for this one.\nOne of the biggest challenges in modern data architecture has been serving real-time applications from a Data Lake or Lake House. When we adopted technologies like Delta Lake and Apache Iceberg, aka file storage with ACID, we gained some stuff and lost others. Well lost isn’t a good word. Delta Lake + Spark ain’t no Postgres + Python ya know??\nTraditional LakeHouses excel at ETL, analytics, machine learning, and business intelligence, but when teams need dashboards that refresh in milliseconds or applications serving thousands of users simultaneously, they often introduce an entirely separate serving database such as ClickHouse, Pinot, Druid, or Redis.\nThat second system brings another copy of the data, another synchronization pipeline, another set of security policies, and another operational burden.\nIt brings complexity and overhead. These technologies just had a difficult time jiving.\nLakehouse//RT is Databricks’ attempt to eliminate that architecture altogether. Instead of exporting data into a specialized serving database, Lakehouse//RT delivers millisecond query performance directly against Delta Lake while keeping the data inside the governed Lakehouse.\nWhat is Lakehouse//RT?\nLakehouse//RT is a new real-time compute designed specifically for workloads that require both very low latency and extremely high concurrency. It is powered by a new execution engine called Reyden, which Databricks says was built from the ground up for operational analytics, application serving, observability, dashboards, and AI agents.\nI’m still unsure if we are dealing with two things, or one … read this closely …\nPowered by Reyden, a “new engine for realtime workloads”\nLakehouse/RT, “real time data warehouse”\nAre these two separate things you can use, or you use them both at the same time? I don’t know. Time will tell the details.\nUnlike traditional analytical warehouses that optimize long-running reports, Reyden focuses on thousands of simultaneous interactive queries while maintaining consistent response times. According to Databricks, preview customers have seen:\nUp to 16× faster performance than existing real-time serving layers\nQuery latencies as low as 10 milliseconds\nSub-100 ms performance on much larger datasets\nAround 12,000 queries per second while maintaining low latency\nEliminating the Serving Layer\nThe biggest architectural shift isn’t simply that queries are faster, we’ve been hearing people say “My thing is faster,” for a decade or more. The difference is that Databricks wants to remove an entire layer of infrastructure.\nToday’s architecture often looks like this:\nDelta Lake\n│\nETL / CDC\n│\nClickHouse / Pinot / Druid / Redis\n│\nApplications & Dashboards\nWith Lakehouse//RT, Databricks wants applications to query the Lakehouse directly:\nDelta Lake\n│\nLakehouse//RT\n│\nApplications\nDashboards\nAI Agents\nThat means:\nno duplicate storage\nno synchronization pipelines\nno additional serving clusters\nno proprietary storage formats\nno duplicated governance\nEverything continues to use Delta Lake and Unity Catalog. Some will argue that this isn’t new technology, and that Databricks sees the growth of ClickHouse for example, and decided they needed to do something about that.\nI agree, but I also think that Databricks providing this sort of extremely fast Compute option is ground breaking inside the Data Platform they provide. You simply CANNOT discount the reduction in complexity and code when you\nBuilt for Operational Analytics\nDatabricks positions Lakehouse//RT for workloads that have traditionally been difficult to run directly from a data lake:\ncustomer-facing SaaS applications\noperational dashboards\nobservability platforms\nsecurity analytics\nembedded analytics\nAI agent retrieval\ninteractive business intelligence\nThese are all scenarios where thousands of users—or AI agents—may issue queries simultaneously and expect responses in tens of milliseconds rather than seconds. It takes something tradtionally done outside Databricks, or at the minimum with third party tools, and brings it back inside the MotherShip.\nAll the chickens coming home to roost so to speak.\nSimpler Operations\nLakehouse//RT also introduces a different compute model. Instead of selecting warehouse sizes manually, Databricks automatically determines the appropriate baseline compute. Rather than scaling by duplicating entire warehouse clusters, it incrementally adds or removes nodes as concurrency changes, aiming to improve utilization while reducing costs.\nGovernance Doesn’t Change\nOne of the more compelling aspects of Lakehouse//RT is that governance remains centralized. Since the data never leaves the Lakehouse:\nUnity Catalog permissions stay intact\nsecurity policies are defined once\nbusiness logic isn’t duplicated\ndata lineage remains consistent\nOrganizations no longer need to recreate governance rules inside a separate serving database. Governance is indeed the next big topic in the world of data and AI. Security breaches every work, Claude 100X Engineers releasing buggy code left and right.\nCan’t be too careful these days.\nHow It Fits Into Databricks’ Bigger Picture\nLakehouse//RT makes even more sense when viewed alongside Databricks’ other announcements this year.\nLakebase provides a PostgreSQL-compatible operational database.\nLTAP unifies transactional and analytical storage on a single copy of data.\nLakehouse//RT provides millisecond analytical serving directly from that same data.\nTogether, Databricks is attempting to collapse what has historically been three separate systems:\nOLTP databases\nanalytical warehouses\nreal-time serving databases\ninto a single platform built around Delta Lake, Unity Catalog, and specialized execution engines.\nMy Take on RT\nThis feels like one of the most strategically important announcements from this year’s Data + AI Summit. The performance numbers are certainly impressive, but the bigger story is architectural simplification.\nFor decades, data teams have accepted that customer-facing applications require a separate serving database. Lakehouse//RT challenges that assumption by making the lakehouse itself fast enough to serve those workloads. Will it catch? I don’t know. We will all find out in a year I guess.\nThe remaining question is whether those benchmark results translate to the wide variety of real-world production environments that rely on ClickHouse, Pinot, Druid, Elasticsearch, and similar systems today. If they do, Lakehouse//RT could remove an entire category of infrastructure from many modern data platforms.\nLake Transactional/Analytical Processing Architecture\nI’ve been waiting for this one since I was knee high to a grasshopper. Jezz, even Forbes is writing about this one, what the heck do they know about anything??\nThis is the one thing I wasn’t ready for, although it makes total sense. It was LTAP, short for Lake Transactional/Analytical Processing, and if you spend your days building data platforms instead of making keynote slides, this is the announcement that deserves your attention.\nThe elevator pitch sounds almost suspiciously simple. Databricks wants operational databases and analytical workloads to operate on the same copy of data, eliminating CDC pipelines, ETL jobs, replicas, synchronization processes, and the collection of brittle plumbing that has somehow become accepted as “modern data architecture.”\nAfter reading both the press release and Ali Ghodsi’s interview explaining the thinking behind it, I don’t think this is really a story about ETL at all. It’s a story about removing a 40 year old architectural assumption that everyone stopped questioning years ago.\nToday's architecture\nApplication\n│\nPostgreSQL\n│\nCDC / ETL\n│\nData Lake\n│\nAnalytics\nFor decades we’ve accepted that applications belong in one database while analytics belong somewhere else, usually connected together by a growing pile of Kafka topics, replication jobs, Airflow DAGs, managed CDC services, and a Slack channel dedicated entirely to asking why yesterday’s pipeline failed again.\nThe industry has spent years trying to make this architecture less painful instead of asking whether the architecture itself is the problem.\nDatabricks thinks it is.\nThe obvious comparison is HTAP, which promised to unify transactional and analytical workloads years ago. The problem was that HTAP largely tried to shove both workloads into the same engine, which meant eventually your dashboard and your checkout page were competing for the same resources.\nDatabricks is taking a different approach. Instead of building one engine that tries to do everything, they’re building one storage layer that multiple specialized engines can operate against.\nLakebase handles PostgreSQL transactions, the Lakehouse handles analytics, Lakehouse//RT handles low latency serving, and they all operate on the same governed copy of Delta or Iceberg data.\nLTAP\nDelta / Iceberg\n│\n┌────────────┼────────────┐\n│ │ │\nLakebase Lakehouse Lakehouse//RT\nOLTP OLAP Real Time\nThat distinction is important because LTAP isn’t replacing PostgreSQL with Spark, and it isn’t asking Spark to become an operational database. It’s saying the engines can stay specialized while the storage becomes unified. That is a much bigger architectural shift than “we removed ETL.”\nThe other piece that clicked for me came from Ghodsi’s explanation of why they’re doing this now. His argument is that the real pressure isn’t coming from human developers anymore. It’s coming from AI agents. Humans create applications relatively slowly. Agents don’t.\nThey create databases, clone environments, test ideas, throw them away, and repeat the process constantly. Databricks claims roughly 80 percent of the databases on Lakebase are already being created by agents rather than people.\nWhether that number surprises you or makes you instinctively reach for a fact check, the direction is hard to argue with. Infrastructure built around dozens of data copies and endless synchronization simply doesn’t scale when your primary users become software instead of humans.\nThe real takeaway here isn’t that Databricks found a clever way to remove another Airflow DAG. They’re trying to remove entire categories of infrastructure. No operational database replica feeding analytics. No warehouse copy that’s always fifteen minutes behind production. No “Zero ETL” marketing that quietly hides another synchronization service behind the curtain.\nOne copy of the data, multiple engines reading and writing it, and governance living in one place.\nWill it work? That’s the billion dollar question, or perhaps the hundred billion dollar question given Databricks’ valuation. Lakebase still has to prove it can be a production operational database at massive scale, and LTAP has to demonstrate that this elegant architecture survives contact with messy enterprise workloads.\nBut if Databricks pulls it off, we may eventually look back at maintaining separate OLTP and OLAP systems the same way we now look at nightly FTP jobs and hand-written shell scripts. Necessary once, painful always, and eventually replaced by something that made us wonder why we tolerated the old way for so long.",
+    "summary": "Like any good hunter of technology, I keep my veteran ear to the ground, ruffling through the fluff and litter, trying to find out what is actually worth your time, and what is just another layer on the AI cake we are all too tired to choke down. Unlike traditional analytical warehouses that optimize long-running reports, Reyden focuses on thousands of simultaneous interactive queries while maintaining consistent response times.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->information science"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.linkedin.com/posts/ritchievink_we-tried-to-reproduce-ops-post-and-couldnt-share-7466112259820433408-1DGU/",
+        "https://www.databricks.com/company/newsroom/press-releases/databricks-launches-ltap-first-lake-transactionalanalytical",
+        "https://www.databricks.com/blog/introducing-lakehousert-real-time-performance-unified-lakehouse",
+        "https://www.forbes.com/sites/victordey/2026/06/16/databricks-ceo-says-hes-cracked-a-40-year-old-database-problem-with-ltap/",
+        "https://clickhouse.com/cloud?utm_campaign=google-brand-na-tier-1&utm_source=google&utm_medium=paid-search&utm_source=google.com&utm_medium=paid_search&utm_campaign=21862172345_169330245029&utm_content=764403839947&utm_term=clickhouse_g_c&gad_source=1&gad_campaignid=21862172345&gbraid=0AAAAAocOPCbtFWZH1GWrTR98um9mtF-hk&gclid=Cj0KCQjwrs7RBhDuARIsAIVfBD3ibg5Mjr8pE6n0Ek_rMzC-N0U9B8cnuYQz6yVM79VYMP_DkonGBf8aAjZnEALw_wcB",
+        "https://www.linkedin.com/posts/eczachly_i-wont-be-at-the-databricks-ai-summit-this-share-7337871019052789761-OaEr/",
+        "https://en.wikipedia.org/wiki/Hybrid_transactional/analytical_processing",
+        "https://www.en.wikipedia.org/wiki/Hybrid_transactional/analytical_processing",
+        "https://databricks.com/company/newsroom/press-releases/databricks-launches-ltap-first-lake-transactionalanalytical",
+        "https://clickhouse.com/cloud",
+        "https://www.linkedin.com/posts/ritchievink_we-tried-to-reproduce-ops-post-and-couldnt-share-7466112259820433408-1DGU",
+        "https://linkedin.com/posts/ritchievink_we-tried-to-reproduce-ops-post-and-couldnt-share-7466112259820433408-1DGU/",
+        "https://forbes.com/sites/victordey/2026/06/16/databricks-ceo-says-hes-cracked-a-40-year-old-database-problem-with-ltap/",
+        "https://www.linkedin.com/posts/eczachly_i-wont-be-at-the-databricks-ai-summit-this-share-7337871019052789761-OaEr",
+        "https://linkedin.com/posts/eczachly_i-wont-be-at-the-databricks-ai-summit-this-share-7337871019052789761-OaEr/",
+        "https://databricks.com/blog/introducing-lakehousert-real-time-performance-unified-lakehouse",
+        "https://www.clickhouse.com/cloud?utm_campaign=google-brand-na-tier-1&utm_source=google&utm_medium=paid-search&utm_source=google.com&utm_medium=paid_search&utm_campaign=21862172345_169330245029&utm_content=764403839947&utm_term=clickhouse_g_c&gad_source=1&gad_campaignid=21862172345&gbraid=0AAAAAocOPCbtFWZH1GWrTR98um9mtF-hk&gclid=Cj0KCQjwrs7RBhDuARIsAIVfBD3ibg5Mjr8pE6n0Ek_rMzC-N0U9B8cnuYQz6yVM79VYMP_DkonGBf8aAjZnEALw_wcB",
+        "https://www.forbes.com/sites/victordey/2026/06/16/databricks-ceo-says-hes-cracked-a-40-year-old-database-problem-with-ltap"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:46:38.475+03:00",
+    "updated": "2026-06-25T07:49:28.000+03:00"
+}

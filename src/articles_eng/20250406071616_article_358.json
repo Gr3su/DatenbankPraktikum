@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "af13e49951e99f5ae88c6bb009527eb508a79bb1",
+        "url": "https://www.breitbart.com/news/us-senate-confirms-ex-trump-lawyer-to-number-two-justice-job",
+        "site_full": "www.breitbart.com",
+        "site": "breitbart.com",
+        "site_section": "https://www.breitbart.com:443/news",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "All News - Breitbart News Network",
+        "site_title": null,
+        "title": "US Senate confirms ex-Trump lawyer to number two Justice job - Breitbart",
+        "title_full": "US Senate confirms ex-Trump lawyer to number two Justice job - Breitbart",
+        "published": "2025-03-06T00:58:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.breitbart.com/media/2025/03/wi/afp/todd-blanche-listens-donald-trump-speaks-reporters-at-hush-money-trial-manhattan-afp-getty-images-640x335.jpg",
+        "performance_score": 0,
+        "domain_rank": 1733,
+        "domain_rank_updated": "2025-03-03T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "af13e49951e99f5ae88c6bb009527eb508a79bb1",
+    "url": "https://www.breitbart.com/news/us-senate-confirms-ex-trump-lawyer-to-number-two-justice-job",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP",
+    "published": "2025-03-06T00:58:00.000+02:00",
+    "title": "US Senate confirms ex-Trump lawyer to number two Justice job - Breitbart",
+    "text": "The US Senate on Wednesday confirmed Todd Blanche, President Donald Trump’s former personal lawyer, to be deputy attorney general, the second-highest ranking job in the Justice Department.\nBlanche, who defended Trump in his hush money trial in New York and his two federal cases, was approved by a 52-46 vote in the Republican-dominated Senate.\nTrump, the first US president ever to be convicted of a crime, has named three of his former lawyers to top jobs in the Justice Department.\nEmil Bove, who also defended Trump in the hush money trial and the federal cases, has been named principal associate deputy attorney general, the third-ranking position.\nJohn Sauer, who successfully argued Trump’s presidential immunity case before the Supreme Court, was named Solicitor General, the lawyer in the Justice Department who represents the federal government in cases before the nation’s highest court.\nPam Bondi, a former Florida prosecutor and Trump loyalist, was named to head the Justice Department as attorney general.\nBlanche and Bove, both former federal prosecutors in New York, defended Trump in the New York case that ended in his conviction on 34 counts of falsifying business records to cover up hush money payments to a porn star.\nThey also represented Trump in the two federal cases brought against him by Special Counsel Jack Smith.\nTrump was charged with conspiracy to defraud the United States over his efforts to overturn the results of the 2020 presidential election and with mishandling classified documents after leaving the White House.\nBoth cases were dismissed after Trump won the November election, in light of a Justice Department policy of not prosecuting a sitting president.\nObjecting to Blanche’s nomination, Democratic Senator Dick Durbin expressed concern that he would be a willing party to Trump’s calls for retribution against his political foes.\n“Since the president has taken office we’ve already witnessed the weaponization of justice,” Durbin said. “Mr. Blanche will not provide the necessary independence to avoid that.”\nA number of top Justice Department officials have been fired, demoted or reassigned since Trump took office along with senior agents at the FBI.\nBove has also been embroiled in controversy after seeking the dismissal of corruption charges against New York Mayor Eric Adams.\nBove’s bid to drop the charges prompted allegations that it was a quid pro quo in exchange for Adams, a Democrat, agreeing to enforce Trump’s immigration crackdown — a claim denied by the mayor.\nThe unusual request triggered a wave of protest resignations in the Manhattan district attorney’s office and in Washington.\nPolitics",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->government",
+        "Politics->political candidates",
+        "Economy, Business and Finance->corporate news and profiles",
+        "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Todd Blanche",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "John Sauer",
+                "sentiment": "none"
+            },
+            {
+                "name": "Emil Bove",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pam Bondi",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "US Senate",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Justice Department",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Supreme Court",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ]
+    },
+    "rating": null,
+    "crawled": "2025-03-06T01:02:11.594+02:00",
+    "updated": "2025-03-06T01:02:11.594+02:00"
+}

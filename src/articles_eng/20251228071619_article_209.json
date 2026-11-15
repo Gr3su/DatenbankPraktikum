@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "72f1f71bd89cdbf9c2c50ad039827460f32c5fd5",
+        "url": "https://www.newsbreak.com/news/4412588596531-inmate-dies-at-southern-state-correctional-facility-in-springfield",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/springfield-vt",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Springfield, VT Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Inmate dies at Southern State Correctional Facility in Springfield - NewsBreak",
+        "title_full": "Inmate dies at Southern State Correctional Facility in Springfield - NewsBreak",
+        "published": "2025-12-25T06:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0ySbSv_17aDhkpq00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "72f1f71bd89cdbf9c2c50ad039827460f32c5fd5",
+    "url": "https://www.newsbreak.com/news/4412588596531-inmate-dies-at-southern-state-correctional-facility-in-springfield",
+    "ord_in_thread": 0,
+    "author": "Daniel Duric",
+    "published": "2025-12-25T06:22:00.000+02:00",
+    "title": "Inmate dies at Southern State Correctional Facility in Springfield - NewsBreak",
+    "text": "By Daniel Duric ,\n1 hours ago SPRINGFIELD, VT — The Vermont State Police is investigating the death of an inmate in the custody of Southern State Correctional Facility. Police were notified at 1:15 p.m. on Dec. 24 that Robert Labonte, 60, of Enosburgh, was sent to Springfield Hospital Emergency Department and was pronounced deceased by the medical staff upon arrival. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->judiciary"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Daniel Duric",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Robert Labonte",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Vermont State Police",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Springfield Hospital Emergency Department",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "North Springfield"
+            ],
+            "state": [
+                "Vermont"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-25T07:22:56.584+02:00",
+    "updated": "2025-12-25T07:23:56.000+02:00"
+}

@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "d29ccc51c4d6ed30384028be9ac42b6d86f4e68b",
+        "url": "https://www.newsbreak.com/news/4948362989843-three-day-pilgrimage-on-razorback-greenway-spotlights-homelessness",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/bentonville-ar",
+        "site_categories": [
+            "sport",
+            "politics",
+            "under_construction",
+            "crime, law and justice",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Bentonville, AR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Three-day pilgrimage on Razorback Greenway spotlights homelessness - NewsBreak",
+        "title_full": "Three-day pilgrimage on Razorback Greenway spotlights homelessness - NewsBreak",
+        "published": "2026-10-16T00:16:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4b0u86_1G94jUsE00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:28:23.657+03:00"
+        }
+    },
+    "uuid": "d29ccc51c4d6ed30384028be9ac42b6d86f4e68b",
+    "url": "https://www.newsbreak.com/news/4948362989843-three-day-pilgrimage-on-razorback-greenway-spotlights-homelessness",
+    "ord_in_thread": 0,
+    "author": "Kyle Kellams",
+    "published": "2026-10-16T00:16:00.000+03:00",
+    "title": "Three-day pilgrimage on Razorback Greenway spotlights homelessness - NewsBreak",
+    "text": "By Kyle Kellams ,\n7 hours ago A three-day-long pilgrimage from Bentonville to Fayetteville to raise awareness about homelessness is underway. The walk, organized by the Fayetteville nonprofit New Beginnings, started this morning and is scheduled to make it to Walker Park in Fayetteville around 3:30 Saturday afternoon. Solomon Burchfield, executive director of New Beginnings, says the walk’s route is simple and direct. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest"
+    ],
+    "topics": [
+        "Human Interest->anniversary",
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kuaf.com/show/ozarks-at-large/2026-10-15/three-day-pilgrimage-on-razorback-greenway-spotlights-homelessness?_amp=true",
+        "https://kuaf.com/show/ozarks-at-large/2026-10-15/three-day-pilgrimage-on-razorback-greenway-spotlights-homelessness?_amp=true",
+        "https://www.kuaf.com/show/ozarks-at-large/2026-10-15/three-day-pilgrimage-on-razorback-greenway-spotlights-homelessness"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kyle Kellams",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Solomon Burchfield",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Bentonville",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fayetteville",
+                "sentiment": "none"
+            },
+            {
+                "name": "Walker Park",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "New Beginnings",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Anthonyville",
+                "Bentonville"
+            ],
+            "state": [
+                "Arkansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:28:23.657+03:00",
+    "updated": "2026-10-16T07:29:33.000+03:00",
+    "related_articles": null
+}

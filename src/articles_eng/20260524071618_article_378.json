@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "c1b61751626150034f93d22a8f8556e3dcfa1256",
+        "url": "https://www.newsbreak.com/news/4661052685346-umatilla-county-primary-election-results",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/ukiah-or",
+        "site_categories": [
+            "human interest",
+            "sport",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "under_construction",
+            "politics",
+            "economy, business and finance"
+        ],
+        "section_title": "Ukiah, OR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Umatilla County Primary Election Results - NewsBreak",
+        "title_full": "Umatilla County Primary Election Results - NewsBreak",
+        "published": "2026-05-20T07:07:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2964,
+        "domain_rank_updated": "2026-05-18T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c1b61751626150034f93d22a8f8556e3dcfa1256",
+    "url": "https://www.newsbreak.com/news/4661052685346-umatilla-county-primary-election-results",
+    "ord_in_thread": 0,
+    "author": "Terry Murry",
+    "published": "2026-05-20T07:07:00.000+03:00",
+    "title": "Umatilla County Primary Election Results - NewsBreak",
+    "text": "By Terry Murry ,\n1 days ago UMATILLA COUNTY – Preliminary results are in from Umatilla County. As far as taxing requests, it’s a mixed bag. The local option tax for Pendleton Fire & Ambulance is failing. Early returns show 54.95 percent of the voters have turned it down. Things are better in Echo, where that fire district’s local option tax has 63.39 percent of the voters saying yes to 36.61 percent saying no. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->primary elections",
+        "Politics->government budget"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Terry Murry",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Umatilla County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "UMATILLA COUNTY",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Pendleton Fire & Ambulance",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Echo",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Ukiah"
+            ],
+            "state": [
+                "Oregon"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-21T07:26:29.396+03:00",
+    "updated": "2026-05-21T07:31:11.000+03:00"
+}

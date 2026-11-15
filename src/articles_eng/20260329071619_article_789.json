@@ -1,0 +1,159 @@
+{
+    "thread": {
+        "uuid": "17d9db0ce01a20f0c02e2c25157a9873b5c91751",
+        "url": "https://www.chinadaily.com.cn/a/202603/26/WS69c4c494a310d6866eb4004f.html",
+        "site_full": "www.chinadaily.com.cn",
+        "site": "chinadaily.com.cn",
+        "site_section": "https://www.chinadaily.com.cn/china/environment",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "media",
+            "travel",
+            "war, conflict and unrest",
+            "economy, business and finance",
+            "science and technology",
+            "politics",
+            "japan"
+        ],
+        "section_title": "Environment - Chinadaily.com.cn",
+        "site_title": "China Daily Website - Connecting China Connecting the World",
+        "title": "China's experimental satellite constellation lays foundation for future lunar exploration - Chinadaily.com.cn",
+        "title_full": "China's experimental satellite constellation lays foundation for future lunar exploration - Chinadaily.com.cn",
+        "published": "2026-03-26T07:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "http://img2.chinadaily.com.cn/images/202603/26/69c4c494a310d68600fa7790.jpeg",
+        "performance_score": 0,
+        "domain_rank": 2555,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "17d9db0ce01a20f0c02e2c25157a9873b5c91751",
+    "url": "https://www.chinadaily.com.cn/a/202603/26/WS69c4c494a310d6866eb4004f.html",
+    "ord_in_thread": 0,
+    "author": "global.chinadaily.com.cn",
+    "published": "2026-03-26T07:30:00.000+02:00",
+    "title": "China's experimental satellite constellation lays foundation for future lunar exploration - Chinadaily.com.cn",
+    "text": "BEIJING -- The Technology and Engineering Center for Space Utilization (CSU) of the Chinese Academy of Sciences (CAS) announced on Wednesday that the three-satellite constellation based on the Distant Retrograde Orbit (DRO) in the Earth-moon space has been operating in orbit for two years, providing a foundation for future lunar exploration.\nThe announcement was made at the SciTech Forum on the Development and Utilization of Earth-Moon Space, a sub-forum of the 2026 Zhongguancun Forum (ZGC Forum), which kicked off in Beijing on Wednesday.\nThis constellation project successfully completed the world's first low-energy insertion into the DRO. DRO-A and DRO-B, two satellites developed by the CAS and deployed in the DRO, have established inter-satellite measurement and communication links with DRO-L, a previously launched near-Earth orbit satellite.\nThe DRO is a highly stable orbit located in the Earth-moon space, which refers to the region extending outward from near-Earth and near-lunar orbits to a distance of up to 2 million kilometers from Earth.\nAccording to the CSU, the project has verified stable residency and low-energy maneuvering of spacecraft in the DRO. The project became the first to tour all Lagrange points in the Earth-moon space in a single flight, and its technologies are expected to play an important role in future lunar exploration.\nThe forum brought together more than 200 representatives from over 20 institutions. Discussions focused on key issues such as Earth-moon space infrastructure, low-cost access to the Earth-moon space, and sustainable resource utilization.\nDing Chibiao, vice-president of the CAS, said the Earth-moon space is a strategic hub connecting Earth to deep space and a new frontier for scientific and industrial transformation.\nDing added that the CAS will continue to strengthen cooperation with research institutions, universities and companies to support China's goal of becoming a space power.\nHou Junshu, deputy director of the Standing Committee of the Beijing Municipal People's Congress, said in his speech that global space activities are shifting from pure exploration to a balance of exploration and utilization.\nHou noted that Beijing is home to more than half of the country's core space research units and is building itself into a hub for commercial aerospace innovation. He called for stronger innovation, deeper integration between technology and industry, and more open international cooperation.\nThe 2026 ZGC Forum, running in Beijing through Sunday, is focused on the theme of \"Full Integration Between Technological and Industrial Innovation.\" Since its founding in 2007, this forum has become a major international event for advancing science and technology innovation.",
+    "summary": "BEIJING -- The Technology and Engineering Center for Space Utilization (CSU) of the Chinese Academy of Sciences (CAS) announced on Wednesday that the three-satellite constellation based on the Distant Retrograde Orbit (DRO) in the Earth-moon space has been operating in orbit for two years, providing a foundation for future lunar exploration. The project became the first to tour all Lagrange points in the Earth-moon space in a single flight, and its technologies are expected to play an important role in future lunar exploration.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->aerospace engineering",
+        "Science and Technology->scientific exploration"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "China",
+                "sentiment": "none"
+            },
+            {
+                "name": "Beijing",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Chinadaily",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "CSU",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Technology and Engineering Center for Space Utilization",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Chinese Academy",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "CAS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "CAS",
+                        "exchange": "TSE"
+                    }
+                ]
+            },
+            {
+                "name": "of Sciences",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "17d9db0ce01a20f0c02e2c25157a9873b5c91751",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-26T07:35:29.835+02:00",
+    "updated": "2026-03-26T07:39:10.000+02:00"
+}

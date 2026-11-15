@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "aea9394c3b9749c9e50b0480c8c0faf2d56837cc",
+        "url": "https://www.newsbreak.com/news/4975189062924-intersection-floods-in-northeast-el-paso-police-ask-drivers-to-stay-away",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/el-paso-tx",
+        "site_categories": [
+            "politics",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "social issue",
+            "crime, law and justice",
+            "sport",
+            "economy, business and finance",
+            "under_construction"
+        ],
+        "section_title": "El Paso, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Intersection floods in Northeast El Paso; police ask drivers to stay away - NewsBreak",
+        "title_full": "Intersection floods in Northeast El Paso; police ask drivers to stay away - NewsBreak",
+        "published": "2026-10-30T00:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1OKx9n_1Ga6ecc300",
+        "performance_score": 0,
+        "domain_rank": 3021,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-30T07:24:31.262+02:00"
+        }
+    },
+    "uuid": "aea9394c3b9749c9e50b0480c8c0faf2d56837cc",
+    "url": "https://www.newsbreak.com/news/4975189062924-intersection-floods-in-northeast-el-paso-police-ask-drivers-to-stay-away",
+    "ord_in_thread": 0,
+    "author": "David Ibave",
+    "published": "2026-10-30T00:22:00.000+02:00",
+    "title": "Intersection floods in Northeast El Paso; police ask drivers to stay away - NewsBreak",
+    "text": "By David Ibave ,\n7 hours ago\nEL PASO, Texas (KFOX14/CBS4) — Police are asking drivers to avoid a flooded intersection in Northeast El Paso after Thursday afternoon's rain. According to the El Paso Police Department, as of 3:50 p.m., flooding has been reported at the intersection of Gateway North and Vulcan (near Chapin High School).\nRead full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather phenomena"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://cbs4local.com/newsletter-daily/intersection-floods-in-northeast-el-paso-police-ask-drivers-to-stay-away",
+        "https://www.cbs4local.com/newsletter-daily/intersection-floods-in-northeast-el-paso-police-ask-drivers-to-stay-away"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "David Ibave",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "El Paso",
+                "sentiment": "none"
+            },
+            {
+                "name": "Texas",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gateway North",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vulcan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "El Paso Police Department",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Chapin High School",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-30T07:24:31.262+02:00",
+    "updated": "2026-10-30T07:26:00.000+02:00",
+    "related_articles": null
+}

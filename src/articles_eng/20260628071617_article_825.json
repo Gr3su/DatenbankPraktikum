@@ -1,0 +1,122 @@
+{
+    "thread": {
+        "uuid": "02cf14e62ca8aaa7bb1eaaad0596f972d5d0430f",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4731090011066-severe-thunderstorm-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/nws-alerts-1671083",
+        "site_categories": [
+            "social issue",
+            "crime, law and justice",
+            "politics",
+            "human interest",
+            "under_construction",
+            "economy, business and finance",
+            "sport",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "disaster and accident"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "published": "2026-06-25T07:15:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/423Kfr_1Cg9CwoK00",
+        "performance_score": 0,
+        "domain_rank": 3030,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "02cf14e62ca8aaa7bb1eaaad0596f972d5d0430f",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4731090011066-severe-thunderstorm-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2026-06-25T07:15:00.000+03:00",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "text": "28 minutes ago Check NWS updates here\nEffective: 2026-06-24 22:13:00 MDT Expires: 2026-06-24 22:23:00 MDT Urgency: Immediate Severity: Severe Certainty: Observed Target Area: Jefferson, CO The storm which prompted the warning has moved out of the area. Therefore, the warning will be allowed to expire. However, small hail and frequent lightning is still possible with a thunderstorm over Evergreen.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.8e58d8b94251b631211d342cd3bb48c653fb99d1.001.1",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=423Kfr_1Cg9CwoK00",
+        "https://img.particlenews.com/image.php?url=423Kfr_1Cg9CwoK00",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.8e58d8b94251b631211d342cd3bb48c653fb99d1.001.1",
+        "https://www.img.particlenews.com/image.php?url=423Kfr_1Cg9CwoK00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=423Kfr_1Cg9CwoK00",
+        "https://alerts.weather.gov/search"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Jefferson",
+                "sentiment": "none"
+            },
+            {
+                "name": "CO",
+                "sentiment": "none"
+            },
+            {
+                "name": "Evergreen",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:44:17.954+03:00",
+    "updated": "2026-06-25T07:47:31.000+03:00"
+}

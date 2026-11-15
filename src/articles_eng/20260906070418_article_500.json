@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "b3ef7bcfb32371af77a8afa3258f4fa4937f1966",
+        "url": "https://www.newsbreak.com/news/4861443189824-rv-smashes-into-building-and-shears-fire-hydrant",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/el-monte-ca",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "human interest",
+            "lifestyle and leisure",
+            "social issue",
+            "sport",
+            "under_construction",
+            "politics",
+            "crime, law and justice"
+        ],
+        "section_title": "El Monte, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "RV Smashes Into Building And Shears Fire Hydrant - NewsBreak",
+        "title_full": "RV Smashes Into Building And Shears Fire Hydrant - NewsBreak",
+        "published": "2026-09-01T22:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/06702t_1ElV2eOr00",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b3ef7bcfb32371af77a8afa3258f4fa4937f1966",
+    "url": "https://www.newsbreak.com/news/4861443189824-rv-smashes-into-building-and-shears-fire-hydrant",
+    "ord_in_thread": 0,
+    "author": "Nathan Holguin",
+    "published": "2026-09-01T22:00:00.000+03:00",
+    "title": "RV Smashes Into Building And Shears Fire Hydrant - NewsBreak",
+    "text": "By Nathan Holguin ,\n1 days ago Three people escaped with minor injuries after a large RV crashed into a vacant building Monday morning in West Whittier. At approximately 8:32 a.m. on August 31, 2026, emergency crews responded to the 11900 block of Washington Boulevard in unincorporated West Whittier following reports of a vehicle into a structure. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Crime, Law and Justice->hijacking",
+        "Crime, Law and Justice->reckless driving",
+        "Disaster and Accident->accident and emergency incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://onscene.tv/rv-smashes-into-building-and-shears-fire-hydrant/",
+        "https://www.onscene.tv/rv-smashes-into-building-and-shears-fire-hydrant/",
+        "https://onscene.tv/rv-smashes-into-building-and-shears-fire-hydrant"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nathan Holguin",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Washington Boulevard",
+                "sentiment": "none"
+            },
+            {
+                "name": "West Whittier",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "North El Monte",
+                "El Monte"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:21:10.315+03:00",
+    "updated": "2026-09-03T07:28:07.000+03:00"
+}

@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "3f41143d20c386b213a26c55885170613e23162b",
+        "url": "https://www.newsbreak.com/bbc-2085458/4798946038798-us-launches-heavy-strikes-on-iran-after-attempted-attack-on-american-troops",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/bbc-2085458",
+        "site_categories": [
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "under_construction",
+            "disaster and accident",
+            "human interest",
+            "sport",
+            "politics",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "social issue"
+        ],
+        "section_title": "BBC&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops - NewsBreak",
+        "title_full": "US launches 'heavy' strikes on Iran after attempted attack on American troops - NewsBreak",
+        "published": "2026-07-30T05:02:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0nuAaP_1DlWj1eb00",
+        "performance_score": 0,
+        "domain_rank": 3090,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3f41143d20c386b213a26c55885170613e23162b",
+    "url": "https://www.newsbreak.com/bbc-2085458/4798946038798-us-launches-heavy-strikes-on-iran-after-attempted-attack-on-american-troops",
+    "ord_in_thread": 0,
+    "author": "Jude Sheerin",
+    "published": "2026-07-30T05:02:00.000+03:00",
+    "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops - NewsBreak",
+    "text": "By Jude Sheerin Helen Sullivan ,\n1 hours ago The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->armed conflict",
+        "War, Conflict and Unrest->international military intervention",
+        "War, Conflict and Unrest->armed conflict"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.bbc.com/news/articles/c74gwdzywmeo?xtor=AL-72-%5Bpartner%5D-%5Bnewsbreak.com%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "https://bbc.com/news/articles/c74gwdzywmeo?xtor=AL-72-%5Bpartner%5D-%5Bnewsbreak.com%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "https://www.bbc.com/news/articles/c74gwdzywmeo"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jude Sheerin",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Iran",
+                "sentiment": "none"
+            },
+            {
+                "name": "US",
+                "sentiment": "none"
+            },
+            {
+                "name": "Middle East",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:09:37.631+03:00",
+    "updated": "2026-07-30T07:13:16.000+03:00"
+}

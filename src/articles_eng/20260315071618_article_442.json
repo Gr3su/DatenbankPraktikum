@@ -1,0 +1,197 @@
+{
+    "thread": {
+        "uuid": "97302589dd46f9530aa761b950036396ab129825",
+        "url": "https://www.youtube.com/watch?v=Am1qCZwyn2Q",
+        "site_full": "www.youtube.com",
+        "site": "youtube.com",
+        "site_section": "https://rss.app/feeds/_aekwnwont1vd8hjh.xml",
+        "site_categories": [
+            "television",
+            "entertainment",
+            "war, conflict and unrest",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "Israel and the Middle East",
+        "site_title": "YouTube",
+        "title": "Hezbollah and Iran trade blows with Israel as Middle East conflict continues",
+        "title_full": "Hezbollah and Iran trade blows with Israel as Middle East conflict continues",
+        "published": "2026-03-12T04:15:00.000+02:00",
+        "replies_count": 59,
+        "participants_count": 58,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ytimg.com/vi/Am1qCZwyn2Q/maxresdefault.jpg",
+        "performance_score": 0,
+        "domain_rank": 9,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "97302589dd46f9530aa761b950036396ab129825",
+    "url": "https://www.youtube.com/watch?v=Am1qCZwyn2Q",
+    "ord_in_thread": 0,
+    "author": "LiveNOW from FOX",
+    "published": "2026-03-12T04:15:00.000+02:00",
+    "title": "Hezbollah and Iran trade blows with Israel as Middle East conflict continues",
+    "text": "Hezbollah and Iran trade blows with Israel as Middle East conflict continuesLiveNOW’s Andy Mac is speaking with Joe Truzman, a senior research analyst and editor at FDD's Long War Journal, as Israel retaliates against coordinated strikes from Hezbollah and Iran. \"Hezbollah has fully joined the war, and it looks like they are now very well coordinated with Iran,\" Kobi Michael, a senior researcher at the Institute for National Security Studies and the Misgav Institute, recently told Fox News Digital. According to a recent social media post from US Central Command, Iranian ballistic missile and drone attacks have dropped. \"Since the first 24 hours of Operation Epic Fury, Iranian ballistic missile and drone attacks have dropped drastically,\" the post said. This also comes as the Pentagon said about 140 U.S. service members have been wounded in the conflict with Iran. Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1 Where to watch LiveNOW from FOX: https://www.livenowfox.com Follow us @LiveNOWFOX on TikTok: https://www.tiktok.com/@livenowfox Raw and unfiltered. Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. No opinion. Experience LiveNOW from FOX. Live news streaming channel when and where you need it.",
+    "summary": "Hezbollah and Iran trade blows with Israel as Middle East conflict continuesLiveNOW’s Andy Mac is speaking with Joe Truzman, a senior research analyst and editor at FDD's Long War Journal, as Israel retaliates against coordinated strikes from Hezbollah and Iran. \"Hezbollah has fully joined the war, and it looks like they are now very well coordinated with Iran,\" Kobi Michael, a senior researcher at the Institute for National Security Studies and the Misgav Institute, recently told Fox News Digital. According to a recent social media post from US Central Command, Iranian ballistic missile and drone attacks have dropped.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->war",
+        "Politics->international relations",
+        "Politics->political crisis"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.tiktok.com/@livenowfox",
+        "https://www.livenowfox.com",
+        "https://livenowfox.com",
+        "https://tiktok.com/@livenowfox"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Andy Mac",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Joe Truzman",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Middle East",
+                "sentiment": "none"
+            },
+            {
+                "name": "Iran",
+                "sentiment": "none"
+            },
+            {
+                "name": "Israel",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hezbollah",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "##iveNOW",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "FDD",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Institute for National Security Studies",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "US Central Command",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Long War Journal",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Misgav Institute",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Fox News Digital",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-12T07:26:00.214+02:00",
+    "updated": "2026-03-12T07:28:15.000+02:00"
+}

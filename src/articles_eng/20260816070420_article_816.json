@@ -1,0 +1,152 @@
+{
+    "thread": {
+        "uuid": "aa0cce91bd642b9a4590e6eb4240474c5f179592",
+        "url": "https://www.newsbreak.com/news/4825428029380-air-quality-advisory-extended-again-for-eastern-oregon",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/mount-vernon-or",
+        "site_categories": [
+            "health",
+            "economy, business and finance",
+            "human interest",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "sport",
+            "science and technology",
+            "arts, culture and entertainment",
+            "politics",
+            "under_construction",
+            "social issue"
+        ],
+        "section_title": "Mount Vernon, OR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Air quality advisory extended again for Eastern Oregon - NewsBreak",
+        "title_full": "Air quality advisory extended again for Eastern Oregon - NewsBreak",
+        "published": "2026-08-12T21:50:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3DesHg_1EBCo4uS00",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aa0cce91bd642b9a4590e6eb4240474c5f179592",
+    "url": "https://www.newsbreak.com/news/4825428029380-air-quality-advisory-extended-again-for-eastern-oregon",
+    "ord_in_thread": 0,
+    "author": "Garrett Christensen",
+    "published": "2026-08-12T21:50:00.000+03:00",
+    "title": "Air quality advisory extended again for Eastern Oregon - NewsBreak",
+    "text": "By Garrett Christensen ,\n9 hours ago EASTERN OREGON — While some areas of Oregon are receiving a reprieve from smoke, the Oregon Department of Environmental Quality has again extended the regional air quality advisory for several areas across the state, including in Eastern Oregon. The full update from the DEQ is as follows:. (Press release... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Environment"
+    ],
+    "topics": [
+        "Environment->air pollution"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://elkhornmediagroup.com/air-quality-advisory-extended-again-for-eastern-oregon/",
+        "https://www.elkhornmediagroup.com/air-quality-advisory-extended-again-for-eastern-oregon/",
+        "https://elkhornmediagroup.com/air-quality-advisory-extended-again-for-eastern-oregon"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Garrett Christensen",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Eastern Oregon",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Oregon Department of Environmental Quality",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "DEQ",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Mount Vernon"
+            ],
+            "state": [
+                "Oregon"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:39:05.059+03:00",
+    "updated": "2026-08-13T07:41:09.000+03:00"
+}

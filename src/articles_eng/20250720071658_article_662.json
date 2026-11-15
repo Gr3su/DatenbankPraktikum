@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "e58ec9d14f550b793963adf3eaff5a5f2c79227b",
+        "url": "https://english.cctv.com/2025/07/15/VIDE3PBBTYALAiuS61ZVQQAH250715.shtml",
+        "site_full": "english.cctv.com",
+        "site": "cctv.com",
+        "site_section": "http://english.cctv.com/",
+        "site_categories": [
+            "media",
+            "travel",
+            "japan",
+            "top_news_hk",
+            "top_news_my",
+            "top_news_sg",
+            "top_news_tw",
+            "top_news"
+        ],
+        "section_title": "CCTV.com English - News, Video, Panview, This is China",
+        "site_title": "央视网_世界就在眼前",
+        "title": "China completes 'power expressway loop' around southern Xinjiang desert_英语频道_央视网(cctv.com)",
+        "title_full": "China completes 'power expressway loop' around southern Xinjiang desert_英语频道_央视网(cctv.com)",
+        "published": "2025-07-15T02:53:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 697,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e58ec9d14f550b793963adf3eaff5a5f2c79227b",
+    "url": "https://english.cctv.com/2025/07/15/VIDE3PBBTYALAiuS61ZVQQAH250715.shtml",
+    "ord_in_thread": 0,
+    "author": "ar guid = \"",
+    "published": "2025-07-15T02:53:00.000+03:00",
+    "title": "China completes 'power expressway loop' around southern Xinjiang desert_英语频道_央视网(cctv.com)",
+    "text": "Source:CCTV.com 15-07-25 07:53 Updated BJT Font size: A+ A- China has finished construction of a 4,197-km extra-high voltage power transmission loop around the Tarim Basin, home to the country's largest desert, marking a major infrastructure milestone in southern Xinjiang Uygur Autonomous Region in northwest China.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Environment"
+    ],
+    "topics": [
+        "Science and Technology->technology and engineering",
+        "Science and Technology->geography",
+        "Environment->energy resources",
+        "Environment->sustainability",
+        "Environment->environmental clean-up"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "http://tv.cntv.cn/video/C18472/a28126e5e0424a44af6a9bc4c5a47742*/",
+        "https://www.youtube.com/embed/${youtubeId||",
+        "https://www.facebook.com/plugins/video.php?height=${hvideo}&href=https%3A%2F%2Fwww.facebook.com%2facebook%2Fvideos%2F${facebookId||",
+        "http://english.cntv.cn/2025/07/15/VIDE3PBBTYALAiuS61ZVQQAH250715.shtml",
+        "https://www.facebook.com/plugins/video.php?height=${hvideo}&href=https%3A%2F%2Fwww.facebook.com%2facebook%2Fvideos%2F${",
+        "https://facebook.com/plugins/video.php?height=${hvideo}&href=https%3A%2F%2Fwww.facebook.com%2facebook%2Fvideos%2F${",
+        "http://www.english.cntv.cn/2025/07/15/VIDE3PBBTYALAiuS61ZVQQAH250715.shtml",
+        "https://facebook.com/plugins/video.php?height=${hvideo}&href=https%3A%2F%2Fwww.facebook.com%2facebook%2Fvideos%2F${facebookId||",
+        "http://tv.cntv.cn/video/C18472/a28126e5e0424a44af6a9bc4c5a47742*",
+        "http://www.tv.cntv.cn/video/C18472/a28126e5e0424a44af6a9bc4c5a47742*/",
+        "https://youtube.com/embed/${youtubeId||",
+        "https://www.facebook.com/plugins/video.php"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Uygur Autonomous Region",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tarim Basin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_hk",
+            "top_news_my",
+            "top_news_sg",
+            "top_news_tw",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:34:35.705+03:00",
+    "updated": "2025-07-17T04:39:26.000+00:00"
+}

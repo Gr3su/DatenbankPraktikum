@@ -1,0 +1,148 @@
+{
+    "thread": {
+        "uuid": "123e82c50b8c647bac013095ef211b92f6546fe6",
+        "url": "https://www.newsbreak.com/abcny-560940/4582689932321-car-crashes-into-warehouse-at-floyd-bennett-field-in-brooklyn-1-killed-2-injured",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/abcny-560940",
+        "site_categories": [
+            "politics",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "human interest",
+            "arts, culture and entertainment",
+            "under_construction",
+            "sport",
+            "crime, law and justice"
+        ],
+        "section_title": "ABCNY&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Car crashes into warehouse at Floyd Bennett Field in Brooklyn; 1 killed, 2 injured - NewsBreak",
+        "title_full": "Car crashes into warehouse at Floyd Bennett Field in Brooklyn; 1 killed, 2 injured - NewsBreak",
+        "published": "2026-04-09T04:35:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3GxTcX_1AIclCEr00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "123e82c50b8c647bac013095ef211b92f6546fe6",
+    "url": "https://www.newsbreak.com/abcny-560940/4582689932321-car-crashes-into-warehouse-at-floyd-bennett-field-in-brooklyn-1-killed-2-injured",
+    "ord_in_thread": 0,
+    "author": "Eyewitness News",
+    "published": "2026-04-09T04:35:00.000+03:00",
+    "title": "Car crashes into warehouse at Floyd Bennett Field in Brooklyn; 1 killed, 2 injured - NewsBreak",
+    "text": "By Eyewitness News ,\n3 hours ago\nOne person was killed and two others were injured after a car crashed into a warehouse in Brooklyn on Wednesday.\nIt happened just after 6 p.m. on Flatbush Avenue at Floyd Bennett Field on the southern tip of Brooklyn.\nPolice say a 33-year-old woman was driving a 2022 Toyota SUV and collided with a building.\nShe was taken to Brookdale University Hospital in critical condition. A 45-year-old passenger was taken in stable condition, and a 76-year-old woman was pronounced dead.\nSources told Eyewitness News that the crash stemmed from one of the victims learning how to drive.\nOfficials say one civilian suffered moderate injuries and was also taken to Brookdale.\nThe building suffered significant structural damage, according to FDNY officials.",
+    "summary": "One person was killed and two others were injured after a car crashed into a warehouse in Brooklyn on Wednesday. It happened just after 6 p.m. on Flatbush Avenue at Floyd Bennett Field on the southern tip of Brooklyn. Police say a 33-year-old woman was driving a 2022 Toyota SUV and collided with a building. Sources told Eyewitness News that the crash stemmed from one of the victims learning how to drive. The building suffered significant structural damage, according to FDNY officials.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident",
+        "Crime, Law and Justice->assault",
+        "Crime, Law and Justice->reckless driving"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://abc7ny.com/video/embed/?pid=18858941",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3GxTcX_1AIclCEr00",
+        "https://img.particlenews.com/image.php?url=3GxTcX_1AIclCEr00",
+        "https://abc7ny.com/video/embed/",
+        "https://www.abc7ny.com/video/embed/?pid=18858941",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3GxTcX_1AIclCEr00",
+        "https://www.img.particlenews.com/image.php?url=3GxTcX_1AIclCEr00",
+        "https://img.particlenews.com/image.php"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Brooklyn",
+                "sentiment": "none"
+            },
+            {
+                "name": "Floyd Bennett Field",
+                "sentiment": "none"
+            },
+            {
+                "name": "Flatbush Avenue",
+                "sentiment": "none"
+            },
+            {
+                "name": "Brookdale University Hospital",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Eyewitness News",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:37:42.348+03:00",
+    "updated": "2026-04-09T07:44:47.000+03:00"
+}

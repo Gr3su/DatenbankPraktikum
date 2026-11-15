@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "01f38e95dc0935704046f49096841eb6167924fa",
+        "url": "https://local.newsbreak.com/fox-news-510075/4786214335592-watch-missouri-suspect-dives-headfirst-off-bridge-in-wild-bid-to-evade-deputies",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/fox-news-510075",
+        "site_categories": [
+            "disaster and accident",
+            "arts, culture and entertainment",
+            "politics",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "economy, business and finance",
+            "sport"
+        ],
+        "section_title": "Fox News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Watch: Missouri suspect dives headfirst off bridge in wild bid to evade deputies - NewsBreak",
+        "title_full": "Watch: Missouri suspect dives headfirst off bridge in wild bid to evade deputies - NewsBreak",
+        "published": "2026-07-23T07:41:39.255+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/103q4U_1DYhVnVW00",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "01f38e95dc0935704046f49096841eb6167924fa",
+    "url": "https://local.newsbreak.com/fox-news-510075/4786214335592-watch-missouri-suspect-dives-headfirst-off-bridge-in-wild-bid-to-evade-deputies",
+    "ord_in_thread": 0,
+    "author": "Michael Sinkewicz",
+    "published": "2026-07-23T07:41:39.255+03:00",
+    "title": "Watch: Missouri suspect dives headfirst off bridge in wild bid to evade deputies - NewsBreak",
+    "text": "By Michael Sinkewicz ,\nnow Video captures a Missouri man sprinting across a bridge and diving headfirst into Table Rock Lake after leading Stone County deputies on a chase. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Human Interest"
+    ],
+    "topics": [
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.foxnews.com/us/missouri-suspect-dives-headfirst-off-bridge-wild-bid-evade-deputies",
+        "https://foxnews.com/us/missouri-suspect-dives-headfirst-off-bridge-wild-bid-evade-deputies"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael Sinkewicz",
+                "sentiment": "positive"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Missouri",
+                "sentiment": "none"
+            },
+            {
+                "name": "Table Rock Lake",
+                "sentiment": "none"
+            },
+            {
+                "name": "Stone County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-23T07:41:39.255+03:00",
+    "updated": "2026-07-23T11:25:44.000+03:00"
+}

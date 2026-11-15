@@ -1,0 +1,122 @@
+{
+    "thread": {
+        "uuid": "c284c0acbac31c9f6bdc0c9387cee44840e26bb7",
+        "url": "https://northwakenews.com/red-hat-streamlines-access-to-ai-accelerator-drivers-in-latest-rhel-updates/",
+        "site_full": "northwakenews.com",
+        "site": "northwakenews.com",
+        "site_section": "https://northwakenews.com",
+        "site_categories": [],
+        "section_title": "North Wake News",
+        "site_title": "North Wake News",
+        "title": "Red Hat streamlines access to AI accelerator drivers in latest RHEL updates",
+        "title_full": "Red Hat streamlines access to AI accelerator drivers in latest RHEL updates",
+        "published": "2025-11-12T17:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c284c0acbac31c9f6bdc0c9387cee44840e26bb7",
+    "url": "https://northwakenews.com/red-hat-streamlines-access-to-ai-accelerator-drivers-in-latest-rhel-updates/",
+    "ord_in_thread": 0,
+    "author": "r. e. jackson",
+    "published": "2025-11-12T17:07:00.000+02:00",
+    "title": "Red Hat streamlines access to AI accelerator drivers in latest RHEL updates",
+    "text": "Red Hat announced on November 12, 2025, that it is providing a more streamlined experience for customers using Red Hat Enterprise Linux (RHEL) to access and install AI accelerators from AMD, Intel, and NVIDIA. This move aims to support organizations running AI workloads by offering validated hardware and software solutions designed to reduce downtime and speed up deployment.\nThe update enables RHEL users to access the latest drivers and software development toolkits for these accelerators directly from Red Hat repositories. The available components include the AMD GPU kernel mode driver with AMD ROCm, Intel Neural Processing Unit kernel mode driver, NVIDIA GPU OpenRM kernel mode driver, and the NVIDIA CUDA toolkit.\nAccording to Gunnar Hellekson, vice president and general manager of Red Hat Enterprise Linux at Red Hat: “As the world’s leading enterprise Linux platform, Red Hat Enterprise Linux provides the foundational infrastructure for thousands of market-leading organizations globally. With the rise of AI, organizations need to move faster than ever to carry their business into the future, so we are pleased to extend our collaboration with AMD, Intel and NVIDIA to deliver a more streamlined experience for Red Hat Enterprise Linux customers to unlock validated AI accelerators for smoother innovation, faster deployments and easier AI scaling.”\nDan McNamara, senior vice president and general manager of Server and Enterprise AI at AMD stated: “Enterprises are looking for trusted platforms that combine the performance of modern accelerators with the reliability of certified enterprise software. With AMD Instinct accelerators, the AMD ROCm open software platform, and AMD EPYC processors validated on Red Hat Enterprise Linux, organizations gain an enterprise-ready AI foundation that scales across x86 environments with openness, flexibility, and proven performance. Together with Red Hat, we are enabling customers to accelerate AI adoption with confidence and efficiency, preparing them for the future of enterprise computing.”\nMichael Masci, vice president of Edge Product Management at Intel added: “Expanding a longstanding relationship with Red Hat, this collaboration will further empower organizations with a more streamlined experience for Intel’s AI accelerators and powerful integrated AI acceleration within Intel Core Ultra processors running on Red Hat Enterprise Linux. This will enable organizations to more easily keep pace in today’s AI-centric landscape with greater confidence in their hardware and software capabilities.”\nWith this launch alongside versions 10.1 and 9.7 of RHEL, customers can now integrate these accelerator technologies more efficiently into their production environments.\nFurther information about these developments can be found on resources such as:\n– Details about the Red Hat Enterprise Linux Extensions Repository\n– Information about Red Hat Enterprise Linux 10.1 and 9.7\n– Coverage from the Red Hat newsroom during KubeCon North America 2025",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/extensions",
+        "https://www.redhat.com/en/about/press-room/red-hat-newsroom-kubecon-na-2025",
+        "https://www.redhat.com/en/blog/red-hat-enterprise-linux-101-and-97-deliver-optimized-ai-infrastructure",
+        "https://redhat.com/en/blog/red-hat-enterprise-linux-101-and-97-deliver-optimized-ai-infrastructure",
+        "https://redhat.com/en/technologies/linux-platforms/enterprise-linux/extensions",
+        "https://redhat.com/en/about/press-room/red-hat-newsroom-kubecon-na-2025"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gunnar Hellekson",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Red Hat Enterprise Linux",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "NVIDIA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "NVDA",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Intel",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "INTC",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-11-13T07:20:20.969+02:00",
+    "updated": "2025-11-13T07:20:20.969+02:00"
+}

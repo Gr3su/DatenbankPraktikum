@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "d3d9e14688a6514f010809fbb00a9b294d99bac4",
+        "url": "https://tass.com/economy/2196425",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/rss/v2.xml",
+        "site_categories": [
+            "economy, business and finance",
+            "science and technology",
+            "politics",
+            "war, conflict and unrest",
+            "media"
+        ],
+        "section_title": "TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Russian-US economic cooperation to overcome Biden's short-sightedness - envoy",
+        "title_full": "Russian-US economic cooperation to overcome Biden's short-sightedness - envoy",
+        "published": "2026-10-02T07:16:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 14571,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:37:03.439+03:00"
+        }
+    },
+    "uuid": "d3d9e14688a6514f010809fbb00a9b294d99bac4",
+    "url": "https://tass.com/economy/2196425",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-10-02T07:16:00.000+03:00",
+    "title": "Russian-US economic cooperation to overcome Biden's short-sightedness - envoy",
+    "text": "MOSCOW, October 2. /TASS/. Economic cooperation between Moscow and Washington will help to overcome \"Biden-think shortsightedness,\" said Kirill Dmitriev, Russian special presidential envoy for investment and economic cooperation with foreign countries and director general of the Russian Direct Investment Fund (RDIF).\n\"Economic cooperation will overcome Biden-think shortsightedness,\" he wrote on the X social network.\nEarlier, Russian Presidential Press Secretary Dmitry Peskov told reporters that Dmitriev continues to discuss with US representatives prospects for resuming bilateral economic cooperation.",
+    "summary": "MOSCOW, October 2. /TASS/. Economic cooperation between Moscow and Washington will help to overcome \"Biden-think shortsightedness,\" said Kirill Dmitriev, Russian special presidential envoy for investment and economic cooperation with foreign countries and director general of the Russian Direct Investment Fund (RDIF). \"Economic cooperation will overcome Biden-think shortsightedness,\" he wrote on the X social network. Earlier, Russian Presidential Press Secretary Dmitry Peskov told reporters that Dmitriev continues to discuss with US representatives prospects for resuming bilateral economic cooperation.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->international relations",
+        "Economy, Business and Finance->business information"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dmitry Peskov",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Biden",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Kirill Dmitriev",
+                "sentiment": "positive"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Moscow",
+                "sentiment": "none"
+            },
+            {
+                "name": "US",
+                "sentiment": "none"
+            },
+            {
+                "name": "Washington",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Russian Direct Investment Fund",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "RDIF",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:37:03.439+03:00",
+    "updated": "2026-10-02T07:40:08.000+03:00",
+    "related_articles": null
+}

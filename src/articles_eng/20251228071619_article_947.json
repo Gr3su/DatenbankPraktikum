@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "511090df81a42ed8b2f34b65351e9dc3c24a7ed6",
+        "url": "https://datamethods.substack.com/p/querying-160-gb-of-parquet-files",
+        "site_full": "datamethods.substack.com",
+        "site": "substack.com",
+        "site_section": "https://hn.algolia.com/latest.atom",
+        "site_categories": [],
+        "section_title": "HN's home page",
+        "site_title": "Data Methods | Jordan Goodman | Substack",
+        "title": "Querying 160 GB of Parquet Files with DuckDB in 15 Minutes",
+        "title_full": "Querying 160 GB of Parquet Files with DuckDB in 15 Minutes",
+        "published": "2025-12-24T10:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://substackcdn.com/image/fetch/$s_!vPuv!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21854f0d-11ab-4c64-8eb2-54f1ee2875eb_1223x555.png",
+        "performance_score": 0,
+        "domain_rank": 662,
+        "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "511090df81a42ed8b2f34b65351e9dc3c24a7ed6",
+    "url": "https://datamethods.substack.com/p/querying-160-gb-of-parquet-files",
+    "ord_in_thread": 0,
+    "author": "Jordan Goodman",
+    "published": "2025-12-24T10:01:00.000+02:00",
+    "title": "Querying 160 GB of Parquet Files with DuckDB in 15 Minutes",
+    "text": "Querying 160 GB of Parquet Files with DuckDB in 15 Minutes\nI keep being surprised by DuckDB.\nIn today’s experiment, I will be doing the following:\ngenerating 100 parquet files at 50M rows each in a folder.\ntesting to see how long it takes to query all of the parquet files.\nAfter running my gen_data py script for about an hour, 100 parquet files were created in my volumes/data folder.\nThen, I ran the query.py file, which uses DuckDB to scan the parquet files, and gets the sum of a random value column and row count for each date.\nDuckDB allows you to enable progress bars which is super neat.\nAfter roughly 15 minutes passed, the query returned the results. Not bad for 5B rows! :)\nWhile this experiment was interesting, integrating this into existing data environments requires extra development. For example, it’s common to have application writes going to an existing sql server, oracle or postgresql database. If you want to plug in DuckDB into your stack, you could mimic the schema, table organization as folders, enable cdc in the transactional database, then do a full load + cdc into each folder, allowing parquet files to stream in. After that, you can set up jobs to materialize tables periodically.\nIn summary, DuckDB is proving to be a scalable analytics solution. I can’t wait to see it continue to grow in popularity and use cases.\nGithub repo here.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://github.com/jordansgoodman/duckdbparquet",
+        "https://www.github.com/jordansgoodman/duckdbparquet"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-25T07:51:24.954+02:00",
+    "updated": "2025-12-25T07:53:51.000+02:00"
+}

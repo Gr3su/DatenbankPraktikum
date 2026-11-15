@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "d1751ada3fedef30bdeb6f44a036d86ec316ff4a",
+        "url": "https://www.newsbreak.com/news/4838559694949-paradise-fire-raises-evacuation-levels-along-mill-creek-road-highway-204-reopens",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/cayuse-or",
+        "site_categories": [
+            "lifestyle and leisure",
+            "politics",
+            "under_construction",
+            "sport",
+            "human interest",
+            "arts, culture and entertainment",
+            "social issue",
+            "crime, law and justice",
+            "science and technology",
+            "economy, business and finance"
+        ],
+        "section_title": "Cayuse, OR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Paradise Fire raises evacuation levels along Mill Creek Road, Highway 204 reopens - NewsBreak",
+        "title_full": "Paradise Fire raises evacuation levels along Mill Creek Road, Highway 204 reopens - NewsBreak",
+        "published": "2026-08-20T01:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1n0V2C_1EOROscT00",
+        "performance_score": 0,
+        "domain_rank": 3070,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d1751ada3fedef30bdeb6f44a036d86ec316ff4a",
+    "url": "https://www.newsbreak.com/news/4838559694949-paradise-fire-raises-evacuation-levels-along-mill-creek-road-highway-204-reopens",
+    "ord_in_thread": 0,
+    "author": "nbcrightnow.com",
+    "published": "2026-08-20T01:00:00.000+03:00",
+    "title": "Paradise Fire raises evacuation levels along Mill Creek Road, Highway 204 reopens - NewsBreak",
+    "text": "6 hours ago UPDATE: August 19 at 4:35 p.m. Oregon Highway 204 near Tollgate has reopened as of 4:00 p.m. after a long closure, while fire-related forest closures remain in place in the Hagen Fire area. The sheriff’s office warned that conditions could change quickly and the road could close again with little... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nbcrightnow.com/fires/paradise-fire-raises-evacuation-levels-along-mill-creek-road/article_ef77c0b4-e06d-4c77-aad7-1c5362f038ff.html",
+        "https://nbcrightnow.com/fires/paradise-fire-raises-evacuation-levels-along-mill-creek-road/article_ef77c0b4-e06d-4c77-aad7-1c5362f038ff.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Oregon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tollgate",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mill Creek Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hagen Fire",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Cayuse"
+            ],
+            "state": [
+                "Oregon"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:40:20.542+03:00",
+    "updated": "2026-08-20T07:49:16.000+03:00"
+}

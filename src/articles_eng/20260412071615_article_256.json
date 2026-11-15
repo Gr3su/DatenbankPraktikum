@@ -1,0 +1,126 @@
+{
+    "thread": {
+        "uuid": "7c987b587066899a619e1f3a149c08f9050bf6b7",
+        "url": "https://tass.com/world/2114117",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/world/1872605",
+        "site_categories": [
+            "war, conflict and unrest",
+            "economy, business and finance",
+            "politics",
+            "media"
+        ],
+        "section_title": "One third of Mariupol residents, who fled to Ukraine, already returned -  World - TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "US forces to remain at Iran's borders until agreement terms are met - Trump",
+        "title_full": "US forces to remain at Iran's borders until agreement terms are met - Trump",
+        "published": "2026-04-09T07:24:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260409/1470627.jpg",
+        "performance_score": 0,
+        "domain_rank": 14623,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7c987b587066899a619e1f3a149c08f9050bf6b7",
+    "url": "https://tass.com/world/2114117",
+    "ord_in_thread": 0,
+    "author": "TASS",
+    "published": "2026-04-09T07:24:00.000+03:00",
+    "title": "US forces to remain at Iran's borders until agreement terms are met - Trump",
+    "text": "WASHINGTON, April 9. /TASS/. US troops and military equipment will remain along Iran’s borders until all terms of the agreement are met, President Donald Trump said.\n\"All US ships, aircraft, and military personnel, with additional ammunition, weaponry, and anything else that is appropriate and necessary for the lethal prosecution and destruction of an already substantially degraded enemy, will remain in place in, and around, Iran, until such time as the real agreement reached is fully complied with,\" the US leader wrote on Truth Social.",
+    "summary": "WASHINGTON, April 9. /TASS/. US troops and military equipment will remain along Iran’s borders until all terms of the agreement are met, President Donald Trump said. \"All US ships, aircraft, and military personnel, with additional ammunition, weaponry, and anything else that is appropriate and necessary for the lethal prosecution and destruction of an already substantially degraded enemy, will remain in place in, and around, Iran, until such time as the real agreement reached is fully complied with,\" the US leader wrote on Truth Social.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "Politics->defence",
+        "Politics->international relations",
+        "War, Conflict and Unrest->war"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Iran",
+                "sentiment": "none"
+            },
+            {
+                "name": "WASHINGTON",
+                "sentiment": "none"
+            },
+            {
+                "name": "US",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Truth Social",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:27:05.448+03:00",
+    "updated": "2026-04-09T07:29:58.000+03:00"
+}

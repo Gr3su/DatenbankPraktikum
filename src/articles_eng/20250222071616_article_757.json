@@ -1,0 +1,125 @@
+{
+    "thread": {
+        "uuid": "945a3394949cfbad40862a4e75275002a033220a",
+        "url": "https://www.world-today-news.com/delhi-election-results-kejriwals-focus-on-power-and-liquor-led-to-aaps-defeat-says-anna-hazare",
+        "site_full": "www.world-today-news.com",
+        "site": "world-today-news.com",
+        "site_section": "https://www.world-today-news.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World Today News - www.world-today-news.com/",
+        "title": "Delhi Election Results: Kejriwal's Focus on Power and Liquor Led to AAP's Defeat, Says Anna Hazare",
+        "title_full": "Delhi Election Results: Kejriwal's Focus on Power and Liquor Led to AAP's Defeat, Says Anna Hazare",
+        "published": "2025-02-09T14:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.toiimg.com/thumb/msid-118089252,width-1070,height-580,imgsize-1170278,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 29586,
+        "domain_rank_updated": "2025-02-03T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "945a3394949cfbad40862a4e75275002a033220a",
+    "url": "https://www.world-today-news.com/delhi-election-results-kejriwals-focus-on-power-and-liquor-led-to-aaps-defeat-says-anna-hazare",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "world today news",
+    "published": "2025-02-09T14:51:00.000+02:00",
+    "title": "Delhi Election Results: Kejriwal's Focus on Power and Liquor Led to AAP's Defeat, Says Anna Hazare",
+    "text": "Anna Hazare, a renowned Indian social activist and former soldier in‍ the Indian ⁣Army, ‍is known for his‌ notable ‌contributions to the development of Ralegaon Siddhi village‌ in the drought-prone Ahmednagar district⁢ of Maharashtra.⁤ he gained‌ widespread recognition‍ for his role in ‌the 2011⁢ Indian anti-corruption movement, ‍which aimed to combat corruption and promote ​transparency ‌in ⁢governance.\nIn ⁤recent political developments, Anna​ hazare made notable remarks regarding the performance of the Aam ​Aadmi Party (AAP)⁣ in the Delhi ⁣assembly​ elections held in 2025. following⁢ AAPS crushing‌ defeat,​ where the Bharatiya ‍Janata⁢ Party (BJP) secured over two-thirds of the​ seats, Hazare commented⁣ on the party’s downfall.He attributed the defeat to the ⁤party’s⁢ deviation from its initial ‍principles,⁤ stating​ that Arvind Kejriwal, the founder of ‍AAP, had moved away from his original path of integrity ⁢and social service. Hazare ‌noted that kejriwal had initially gained the trust and⁤ support of ⁣the people but⁢ later became involved in promoting liquor and pursuing money, which ultimately led to the party’s decline.\nPrime Minister Narendra Modi also ⁢addressed the BJP’s historic victory ⁢in Delhi, describing it as a significant ⁢moment where the people of Delhi‌ had “driven out” ⁤AAP.⁤ He‌ credited‍ the victory to the BJP’s commitment to development and ​governance, emphasizing that the people of Delhi had ⁢chosen the party’s vision ⁢for the⁤ city’s future.\nFor more live ⁢updates on the Delhi‍ election results, you can ‍follow the link ⁤provided: Delhi Election Results: Follow live updates .\nRevolutionizing Digital Marketing: integrating Advanced Analytics and‍ User⁤ Engagement Tools In⁣ the rapidly evolving⁤ digital landscape, businesses are constantly seeking ​innovative ways to enhance user engagement and optimize ⁢their marketing strategies. One such approach involves leveraging advanced analytics⁢ and user engagement tools to gain deeper ‍insights into ⁤customer behavior​ and preferences. This article delves into the integration of⁣ Facebook‌ Events, Google Campaigns, and Survicate, highlighting their importance and how ‍they⁣ can be​ seamlessly incorporated into​ a digital marketing strategy.\nFacebook‌ Events: Tracking User ​Interactions Facebook Events is a powerful tool ⁣that allows⁣ businesses⁤ to track user interactions on‍ their website. By integrating Facebook Events, marketers can‌ gain ⁤valuable insights into​ how users ‌engage with their⁤ content, enabling them⁢ to tailor their strategies‍ accordingly. The integration process involves embedding a script‌ into the website, which ​tracks various actions such ‌as page views, button clicks, ⁤and form submissions.\njavascript function loadFBEvents(isFBCampaignActive) { if (!isFBCampaignActive) { return; } (function(f, b, e, v, n, t, s) { if (f.fbq) return; n = f.fbq = function() { n.callMethod ? n.callMethod(...arguments) : n.queue.push(arguments); }; if (!f. fbq) f. fbq = n; n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0; t.defer = !0; t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s); })(f, b, e, 'https://connect.facebook.net/en US/fbevents.js', n, t, s); fbq('init', '593671331875494'); fbq('track', 'PageView'); }\nBy initializing ⁤Facebook Events,​ businesses can⁢ collect data ‌on user interactions, which can be used to create more targeted⁢ and effective marketing⁤ campaigns. This data-driven approach ensures ‍that marketing efforts ⁣are aligned with user behavior,​ leading to​ higher engagement⁣ and conversion rates.\nGoogle Campaigns: Measuring Ad Performance Google Campaigns play a⁤ crucial role in ⁤measuring the performance of digital advertising efforts. ‍By integrating Google ⁣Analytics, businesses can track the effectiveness of their ⁣ad campaigns, gain‍ insights into user demographics, and⁤ optimize their strategies for better results.The integration involves embedding a Google⁣ Analytics tracking code ⁣into‍ the website, which collects data on user interactions ​and ad performance.\njavascript function loadGtagEvents(isGoogleCampaignActive) { if (!isGoogleCampaignActive) { return; } var id = document.getElementById('toi-plus-google-campaign'); if (id) { return; } (function(f, b, e, v, n, t, s) { t = b.createElement(e); t.async = !0; t.defer = !0; t.src = v; t.id = 'toi-plus-google-campaign'; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s); })(f, b, e, 'https://www.googletagmanager.com/gtag/js?id=AW-877820074', n, t, s); }\nGoogle campaigns provide a comprehensive view of ad performance, allowing businesses to identify ‍which campaigns are driving the most traffic and conversions. This⁣ data can ⁣be used to refine⁣ marketing strategies, allocate resources more effectively, and improve​ overall ‍campaign performance.\nSurvicate: Enhancing User Feedback Survicate is a ‍user feedback and survey⁣ tool that‍ helps businesses ‍gather⁢ insights into customer satisfaction and preferences. ⁣By integrating Survicate,​ businesses ‌can create targeted surveys and collect valuable⁢ feedback from users, enabling them to make data-driven decisions to improve their products and services.\njavascript function loadSurvicateJs(allowedSurvicateSections = []) { const section = window.location.pathname.split('/')[1]; const isHomePageAllowed = window.location.pathname === '/' && allowedSurvicateSections.includes('homepage'); if (allowedSurvicateSections.includes(section) || isHomePageAllowed) { (function(w) { function setAttributes() { var primeuser status = window.isPrime ? 'paid' : 'free'; w. sva.setVisitorTraits({ toi user subscription status: prime user status }); } })(w); } }\nSurvicate allows⁢ businesses to create‌ customized surveys that⁤ can be targeted to specific user⁤ segments, ensuring that‌ feedback is relevant and actionable.By integrating Survicate,businesses can gain a deeper understanding of their customers’ needs and preferences,leading ‌to improved customer satisfaction and loyalty.\nsummary of Integration Tools | Tool ⁣ ⁢ ​ ​ | Purpose​ ‍ ‍ ‌ ‍ ⁢ ‍ ‌ ⁤ ‌ | ‌Integration Script ⁤ ‌ ​ ⁣ ‌ ⁢ ⁣ ⁣ ‌ ‍ ​ ⁣ ​ ‌ ‍ ⁣ ‍ ⁢ ⁣ ⁣ ⁢ ‍ ⁤ ⁣ ⁤ |\n| –| -| -|\n| Facebook ⁤Events | Track user interactions ‌ ⁢ ​ ​ ⁣ ​ |\njavascriptfunction loadFBEvents(isFBCampaignActive) { if (!isFBCampaignActive) { return; } (function(f, b, e, v, n, t, s) { if (f.fbq) return; n = f.fbq = function() { n.callMethod ? n.callMethod(...arguments) : n.queue.push(arguments); }; if (!f.fbq) f. fbq = n; n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0; t.defer = !0; t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s); }); fbq('init', '593671331875494'); fbq('track', 'PageView'); }\n|\n| Google Campaigns ‌| Measure⁢ ad performance ​ ⁤ ‌ ​|\njavascriptfunction loadGtagEvents(isGoogleCampaignActive) { if (!isGoogleCampaignActive) { return; } var id = document.getElementById('toi-plus-google-campaign'); if (id) { return; } (function(f, b, e, v, n, t, s) { t = b.createElement(e); t.async = !0; t.defer = !0; t.src = v; t.id = 'toi-plus-google-campaign'; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s); })(f, b, e, 'https://www.googletagmanager.com/gtag/js?id=AW-877820074', n, t, s); }\n|\n| Survicate | Enhance user feedback ​ ⁤ ⁣ ⁤ ‍ ⁢‌ ⁢ ⁣ |\njavascriptfunction loadSurvicateJs(allowedSurvicateSections = []) { const section = window.location.pathname.split('/')[1]; const isHomePageAllowed = window.location.pathname === '/' && allowedSurvicateSections.includes('homepage'); if (allowedSurvicateSections.includes(section) || isHomePageAllowed) { (function(w) { function setAttributes() { var primeuser status = window.isPrime ? 'paid' : 'free'; w. sva.setVisitorTraits({ toi user subscription status: prime user_status }); } })(w); } }\n|\nconclusion Integrating advanced analytics and user engagement tools like Facebook Events, Google Campaigns, and Survicate can significantly ⁣enhance a business’s digital marketing ⁢strategy. By leveraging these tools, businesses can gain⁢ valuable ⁢insights⁢ into user⁣ behavior, measure ad⁢ performance, and‍ gather user feedback, ⁤enabling them to create more effective and targeted marketing campaigns. Embracing these technologies can lead to improved customer engagement, higher conversion rates, and ultimately, greater business success.\nFor‌ more facts on ⁤how to⁢ integrate these tools into your digital marketing⁣ strategy, visit the facebook Events documentation , Google analytics documentation , and ⁤ Survicate documentation .\nRevolutionizing User Engagement: TimesApps’ Advanced Survey⁣ Integration In the ever-evolving digital landscape, user engagement is paramount ‌for any online platform. TimesApps, ⁤a ​leading ‌innovator in digital media, has recently unveiled a sophisticated approach to enhance user interaction through ⁤advanced survey integration. This ​cutting-edge technology aims to provide a seamless and personalized experience for users, leveraging data-driven insights to optimize engagement strategies.\ndynamic Survey Integration TimesApps has integrated⁣ a dynamic survey system ‍that adapts to user ‌behavior and preferences. By embedding surveys strategically across various sections of their platform, TimesApps ensures that‍ users are consistently⁢ engaged and‌ their feedback is collected efficiently.This approach not only boosts user participation but also provides‌ valuable data for continuous advancement.\nLeveraging Data ​for‍ Personalization The integration of surveys is part of‍ a broader strategy to ⁣personalize ⁤user experiences. By analyzing the data ​collected ‍from⁤ these surveys,‍ TimesApps can tailor content ⁢and features to individual user preferences. This level​ of personalization enhances user satisfaction and loyalty, creating a more engaging‍ and interactive environment.\nCollaborative Campaigns‌ with⁤ Facebook and Google TimesApps has also partnered ⁤with major tech giants,facebook and‌ Google,to ⁤run collaborative campaigns. These campaigns are designed to maximize user engagement and gather insights through targeted surveys. By leveraging the extensive reach⁢ and advanced analytics of these platforms, TimesApps can ensure that their surveys are‌ seen by the right audience at the ⁣right time.\nReal-Time Data Collection One ​of the standout ⁣features of TimesApps’ ⁢survey integration is its real-time data collection capability. surveys⁣ are ⁢loaded asynchronously, ensuring minimal impact ​on ​website performance.this real-time data ‌collection‍ allows ​for immediate analysis and swift decision-making, enabling TimesApps ⁣to stay agile and responsive to user⁤ feedback.\nEnhancing User Experience The surveys are not‍ just about collecting data; ‌they are designed to enhance the ⁤user experience. By asking relevant questions and providing immediate ⁣feedback, TimesApps ensures ⁣that users feel valued and heard. this interactive approach⁤ fosters a sense ⁤of ‌community and encourages users to engage more deeply with the platform.\nSummary of ⁤Key Features | Feature ​ ⁢ ‍ ‍ ⁤ ⁢ ⁢ ⁢| Description ‍ ⁤ ⁣ ⁢ ‍ ‌ ⁢ ‍ ​ ⁤ ‍ ‍ |\n| -| –|\n| ⁤Dynamic Survey ​Integration | Surveys adapt to user ‍behavior and ​preferences for efficient data collection. |\n| Data-Driven Personalization | Analyzing survey data to⁣ tailor content⁣ and features‌ for personalized experiences. |\n| Collaborative Campaigns‌ | Partnering with Facebook and​ Google ‍for targeted and effective campaigns. |\n|⁢ Real-Time ⁣Data Collection ⁢ ‍ ‍|‍ Asynchronous loading for minimal ‍performance impact ⁢and‍ immediate analysis. |\n|⁤ Enhanced User ‍experience ‌ | Interactive surveys​ that ‌value⁢ user‍ input⁢ and foster community engagement. |\nConclusion TimesApps’ advanced survey integration is ​a testament to their commitment to user engagement and data-driven ⁤innovation. By leveraging dynamic surveys, real-time data collection, and strategic partnerships, TimesApps is setting a new standard ⁤for ⁤interactive​ and personalized digital ‌experiences.⁢ as the digital landscape continues to evolve, TimesApps’ approach ensures that users remain at the ⁢center of their strategy, creating ​a more engaging and⁢ satisfying online environment.\nFor more information on TimesApps and their‍ innovative strategies, visit their official website .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://support.google.com/analytics/answer/1008015?hl=en",
+        "https://www.indiatimes.com/",
+        "https://connect.facebook.net/en",
+        "https://www.googletagmanager.com/gtag/js?id=AW-877820074",
+        "https://developers.facebook.com/docs/facebook-pixel/",
+        "https://business.adobe.com/blog/basics/digital-marketing-strategy-examples",
+        "https://timesofindia.indiatimes.com/india/delhi-election-results-2025-live-updates-delhi-assembly-election-2025-result-bjp-aap-congress/liveblog/118039842.cms",
+        "https://support.survicate.com/en/articles/4462010-getting-started-with-survicate",
+        "https://www.connect.facebook.net/en",
+        "https://www.googletagmanager.com/gtag/js",
+        "https://googletagmanager.com/gtag/js?id=AW-877820074",
+        "https://www.indiatimes.com",
+        "https://www.support.google.com/analytics/answer/1008015?hl=en",
+        "https://www.timesofindia.indiatimes.com/india/delhi-election-results-2025-live-updates-delhi-assembly-election-2025-result-bjp-aap-congress/liveblog/118039842.cms",
+        "https://www.developers.facebook.com/docs/facebook-pixel/",
+        "https://developers.facebook.com/docs/facebook-pixel",
+        "https://indiatimes.com/",
+        "https://www.support.survicate.com/en/articles/4462010-getting-started-with-survicate",
+        "https://www.business.adobe.com/blog/basics/digital-marketing-strategy-examples",
+        "https://support.google.com/analytics/answer/1008015"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Anna Hazare Anna Hazare",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Arvind Kejriwal",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Indian ⁣Army",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Bharatiya ‍Janata⁢ Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ahmednagar",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ]
+    },
+    "rating": null,
+    "crawled": "2025-02-09T17:50:49.449+02:00",
+    "updated": "2025-02-09T17:50:49.449+02:00"
+}

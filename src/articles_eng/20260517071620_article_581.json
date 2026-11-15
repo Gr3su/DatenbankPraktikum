@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "01cbda90348b858b2d206b967e9abc2a407c0ef4",
+        "url": "https://time.news/better-computer-hardware-gets-inspiration-from-the-brain/",
+        "site_full": "time.news",
+        "site": "time.news",
+        "site_section": "https://time.news/feed/atom/?doing_wp_cron=1773885282.6492490768432617187500",
+        "site_categories": [],
+        "section_title": "Time News",
+        "site_title": "TIme News - time.news",
+        "title": "Better computer hardware gets inspiration from the brain",
+        "title_full": "Better computer hardware gets inspiration from the brain",
+        "published": "2026-05-14T07:24:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 325801,
+        "domain_rank_updated": "2026-05-11T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "01cbda90348b858b2d206b967e9abc2a407c0ef4",
+    "url": "https://time.news/better-computer-hardware-gets-inspiration-from-the-brain/",
+    "ord_in_thread": 0,
+    "author": "Grace Chen",
+    "published": "2026-05-14T07:24:00.000+03:00",
+    "title": "Better computer hardware gets inspiration from the brain",
+    "text": "The rapid ascent of generative artificial intelligence has brought a hidden cost to the forefront: an insatiable appetite for electricity. As traditional silicon chips push against their physical limits, the energy demands of AI data centers are projected to surge, with some estimates suggesting a significant increase in power consumption by the end of the decade. This sustainability crisis is forcing engineers to look away from traditional circuitry and toward the most efficient processor known to science—the human brain.\nThe effort to replicate this biological efficiency is known as neuromorphic computing. Unlike the rigid architecture of modern computers, neuromorphic hardware aims to mimic the structure and function of biological neural networks. By rethinking how machines process and store information, researchers are working to create a new generation of hardware that can handle complex AI tasks without the massive carbon footprint of today’s server farms.\nAs a physician and medical writer, I have long observed the brain’s unparalleled ability to synthesize vast amounts of data with minimal caloric intake. While a modern AI cluster requires megawatts of power to train a large language model, the human brain operates on roughly 20 watts—roughly the energy needed to power a dim light bulb. This disparity is not just a matter of scale, but of fundamental design.\nThe biological blueprint for efficiency\nThe core advantage of the brain lies in its integration. In biological systems, the processing of information and the storage of memory happen in the same place: the synapse. These connections between neurons are plastic, meaning they can strengthen or weaken over time, allowing the brain to learn and adapt in real-time without needing to “fetch” data from a distant storage drive.\nConventional computer architecture, however, relies on a design known as the Von Neumann bottleneck. In this system, the central processing unit (CPU) and the memory are physically separate. Every time a computer performs a calculation, data must travel back and forth between these two points. This constant shuttling of information creates latency and generates significant heat, necessitating the massive cooling systems found in modern data centers.\nSuchi Guha, a professor of physics at the University of Missouri and core faculty member with the Materials Science and Engineering Institute, is working to bridge this gap. Her team is developing electronic components that function like biological synapses, allowing memory and processing to coexist within the same hardware element.\nEngineering the synthetic synapse\nTo achieve this, Guha’s research focuses on organic transistors. These devices are designed to behave like the connections between neurons, enabling a machine to store and process information simultaneously. This approach moves beyond simply making transistors smaller or faster. it changes the very nature of how the hardware “thinks.”\nIn a recent study published in ACS Applied Electronic Materials, Guha and her colleagues discovered that the secret to a high-performing synthetic synapse isn’t just the material used, but the “interface”—the thin boundary where the semiconductor meets the insulating layer. By testing various organic materials that appeared identical on the surface, the team found that subtle structural differences at this boundary dramatically altered the device’s performance.\nThis finding suggests that the path to efficient AI hardware depends heavily on molecular design. By optimizing these interfaces, researchers can create neuromorphic hardware that excels at pattern recognition and decision-making while consuming a fraction of the power required by current GPU-based systems.\n| Feature | Traditional Architecture | Neuromorphic Architecture |\n|---|---|---|\n| Data Flow | Separate memory and processing | Integrated memory and processing |\n| Energy Use | High (due to data shuttling) | Low (mimics biological efficiency) |\n| Learning Style | Algorithmic/Software-based | Hardware-based plasticity |\n| Primary Strength | Precision mathematics | Pattern recognition & adaptation |\nThe path toward sustainable AI\nThe transition to brain-inspired hardware is not an overnight process, but This proves becoming a necessity. The International Energy Agency has highlighted the growing pressure that data centers place on global electrical grids, noting that the intersection of AI and digitalization is driving an unprecedented rise in power demand.\nNeuromorphic computing offers a potential exit ramp from this energy trajectory. If hardware can learn and adapt the way biology does, the reliance on massive, energy-hungry clusters could decrease. This would not only make AI more sustainable but could also enable “edge computing,” where powerful AI resides directly on small devices—like medical implants or remote sensors—without needing a constant connection to a power-hungry cloud.\nWhile the field is still in its early stages, the work being done at the University of Missouri and Hamad Bin Khalifa University provides a roadmap for other researchers. By clarifying how interface quality influences synaptic behavior, Guha’s team has provided the guiding principles necessary to build more effective, biology-inspired machines.\nThe next critical step for this research involves scaling these organic synaptic transistors into larger, integrated networks to test their ability to perform complex tasks in real-world environments. As these systems move from the lab to prototype arrays, the goal remains clear: building machines that do not just simulate intelligence, but embody the efficiency of the biological mind.\nDisclaimer: This article is for informational purposes and does not constitute professional engineering or medical advice.\nWe invite you to share your thoughts on the future of sustainable AI in the comments below or share this story with your network.",
+    "summary": "As traditional silicon chips push against their physical limits, the energy demands of AI data centers are projected to surge, with some estimates suggesting a significant increase in power consumption by the end of the decade. By rethinking how machines process and store information, researchers are working to create a new generation of hardware that can handle complex AI tasks without the massive carbon footprint of today’s server farms.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://pubs.acs.org/journal/aaelec",
+        "https://missouri.edu/",
+        "https://www.iea.org/reports/electricity-2024",
+        "https://iea.org/reports/electricity-2024",
+        "https://missouri.edu",
+        "https://www.pubs.acs.org/journal/aaelec",
+        "https://www.missouri.edu/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-14T07:31:50.775+03:00",
+    "updated": "2026-05-14T07:31:50.775+03:00"
+}

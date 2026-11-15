@@ -1,0 +1,151 @@
+{
+    "thread": {
+        "uuid": "184d6c1692188ab6814e05f6fdf19a5440a23485",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4391437268095-special-weather-statement-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Special Weather Statement by NWS - NewsBreak",
+        "title_full": "Special Weather Statement by NWS - NewsBreak",
+        "published": "2025-12-11T07:19:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1Dx5HM_17Ev0Kwq00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-12-07T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "184d6c1692188ab6814e05f6fdf19a5440a23485",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4391437268095-special-weather-statement-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2025-12-11T07:19:00.000+02:00",
+    "title": "Special Weather Statement by NWS - NewsBreak",
+    "text": "8 minutes ago Check NWS updates here\nEffective: 2025-12-11 00:17:00 EST Expires: 2025-12-11 01:15:00 EST Urgency: Expected Severity: Moderate Certainty: Observed Target Area: Johnson; Magoffin; Floyd; Martin; Pike HAZARDS...A snow squall accompanied by winds of up to 30 MPH which can rapidly reduce visibility to less than one mile.\nLOCATION AND MOVEMENT...At 1215 AM EST, a snow squall was over Patrick, or near Paintsville moving southeast at 25 MPH.\nLOCATIONS IMPACTED INCLUDE... Pikeville, Paintsville, Prestonsburg, Coal Run Village, Elkhorn City, Martin, Allen, Huddy, Meta, Jamboree, Oaklawn Estates, Fishtrap Lake, Fitz, Garden Village, Lancer, Aluba, Piso, Betsy Layne, Meally, and Collista.\nTHIS INCLUDES THE FOLLOWING HIGHWAYS... U.S. Highway 23 in Floyd County between mile markers 1 and 21. U.S. Highway 23 in Johnson County between mile markers 0 and 9. U.S. Highway 23 in Pike County between mile markers 17 and 32.\nSAFETY INFO... Use extra caution if you must travel into or through this squall. Rapid changes in visibility and potentially slick roads may lead to accidents.\nConditions can deteriorate rapidly in winter weather situations. Be prepared for snow or ice covered roads. Slow down and allow extra time to reach your destination.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.bba47b8995c282b56645db5eca0cf0a5a8c85557.001.1",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1Dx5HM_17Ev0Kwq00",
+        "https://img.particlenews.com/image.php?url=1Dx5HM_17Ev0Kwq00",
+        "https://img.particlenews.com/image.php",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.bba47b8995c282b56645db5eca0cf0a5a8c85557.001.1",
+        "https://www.img.particlenews.com/image.php?url=1Dx5HM_17Ev0Kwq00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1Dx5HM_17Ev0Kwq00",
+        "https://alerts.weather.gov/search"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Betsy Layne",
+                "sentiment": "none"
+            },
+            {
+                "name": "Martin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Huddy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Allen",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Johnson County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Garden Village",
+                "sentiment": "none"
+            },
+            {
+                "name": "Floyd County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Elkhorn City",
+                "sentiment": "none"
+            },
+            {
+                "name": "Prestonsburg",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pike County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Paintsville",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Oaklawn Estates",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-11T07:27:40.217+02:00",
+    "updated": "2025-12-11T07:31:06.000+02:00"
+}

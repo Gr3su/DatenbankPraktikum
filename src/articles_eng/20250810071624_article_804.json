@@ -1,0 +1,116 @@
+{
+    "thread": {
+        "uuid": "43f1b64a3b6cf6713e3fa236d050220a8298d865",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4160864519308-red-flag-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Red Flag Warning by NWS - NewsBreak",
+        "title_full": "Red Flag Warning by NWS - NewsBreak",
+        "published": "2025-08-07T00:37:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0EJjOC_13YaDhoS00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "43f1b64a3b6cf6713e3fa236d050220a8298d865",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4160864519308-red-flag-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-08-07T00:37:00.000+03:00",
+    "title": "Red Flag Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here * AFFECTED AREA...Fire Weather Zone 492 Central Utah West Desert, Fire Weather Zone 495 Color Country West Desert and Fire Weather Zone 497 Mojave Desert. * WINDS...Southwest 15 to 25 mph with gusts up to 40 mph. Some typically windier locations across the Central Utah West Desert and Color Country West Desert may see wind gusts up to 45 mph. * RELATIVE HUMIDITY...5 to 10 percent with poor overnight recoveries near 15 to 25 percent. * IMPACTS...Critical fire weather conditions are expected. Any new fire starts or existing fires may spread rapidly.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather",
+        "Social Issue",
+        "Environment"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Social Issue->social condition",
+        "Social Issue->social problem",
+        "Social Issue->communities",
+        "Environment->sustainability",
+        "Environment->environmental pollution",
+        "Environment->climate change"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.4c326c5ffab9e975230769d94a02e8a466797b58.002.1",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.4c326c5ffab9e975230769d94a02e8a466797b58.002.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "West Desert",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mojave Desert",
+                "sentiment": "none"
+            },
+            {
+                "name": "Central",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-07T07:38:09.045+03:00",
+    "updated": "2025-08-07T07:44:27.000+03:00"
+}

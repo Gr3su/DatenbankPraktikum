@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "182ea57c7d2f9379d7dd3facd29511eb92877597",
+        "url": "https://www.newsbreak.com/news/4558367653737-wtcpua-issues-boil-water-notice-for-11-000-customers-in-hays-county",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/austin-tx",
+        "site_categories": [
+            "human interest",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "politics",
+            "lifestyle and leisure",
+            "under_construction",
+            "sport",
+            "crime, law and justice"
+        ],
+        "section_title": "Austin, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "WTCPUA issues boil water notice for 11,000 customers in Hays County - NewsBreak",
+        "title_full": "WTCPUA issues boil water notice for 11,000 customers in Hays County - NewsBreak",
+        "published": "2026-03-25T20:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3LHqTg_19v6mN6p00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "182ea57c7d2f9379d7dd3facd29511eb92877597",
+    "url": "https://www.newsbreak.com/news/4558367653737-wtcpua-issues-boil-water-notice-for-11-000-customers-in-hays-county",
+    "ord_in_thread": 0,
+    "author": "Tara Brolley",
+    "published": "2026-03-25T20:41:00.000+02:00",
+    "title": "WTCPUA issues boil water notice for 11,000 customers in Hays County - NewsBreak",
+    "text": "By Tara Brolley ,\n10 hours ago HAYS COUNTY, Texas — The West Travis County Public Utility Agency issued a boil water notice Wednesday morning for approximately 11,000 customers in its Highway 290 service region after an equipment failure caused water tank levels to drop critically low. The notice affects customers in northern Hays County, along... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tara Brolley",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Hays County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Texas",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WTCPUA",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "West Travis County Public Utility Agency",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-26T07:27:54.574+02:00",
+    "updated": "2026-03-26T07:31:46.000+02:00"
+}

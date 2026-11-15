@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "690aea53d2bd173353b05c9e5e52f7178c00cab9",
+        "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+        "site_full": "news.mit.edu",
+        "site": "mit.edu",
+        "site_section": "https://news.google.com/search?q=the%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+        "site_categories": [
+            "science and technology",
+            "graduate_school",
+            "education"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "MIT News | Massachusetts Institute of Technology",
+        "title": "Q&A: How AI came to model the \"messy\" human mind | MIT News | Massachusetts Institute of Technology",
+        "title_full": "Q&A: How AI came to model the \"messy\" human mind | MIT News | Massachusetts Institute of Technology",
+        "published": "2026-10-23T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://news.mit.edu/sites/default/files/images/202610/MIT-indquist_Ben_IrrationalComputer-01-press.jpg",
+        "performance_score": 0,
+        "domain_rank": 221,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T07:02:21.734+03:00"
+        }
+    },
+    "uuid": "690aea53d2bd173353b05c9e5e52f7178c00cab9",
+    "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+    "ord_in_thread": 0,
+    "author": "Adam Zewe | MIT News",
+    "published": "2026-10-23T03:00:00.000+03:00",
+    "title": "Q&A: How AI came to model the \"messy\" human mind | MIT News | Massachusetts Institute of Technology",
+    "text": "Generative artificial intelligence models are rooted in ideas of mid-20th century engineers who thought some amount of irrationality was essential for a machine that could think like a human, contends Benjamin Lindquist, an assistant professor in the MIT History Section, who holds an MIT Schwarzman College of Computing shared position with the Department of Electrical Engineering and Computer Science (EECS) and is a principal investigator in the Laboratory for Information and Decision Systems.\nTo mimic creative thinking, these AI pioneers intentionally injected randomness into algorithms designed to deterministically solve problems, Lindquist writes in a new paper that appears in the journal Past and Present. In the paper, he traces the origins of AI hallucinations back to this early research and suggests there will be inevitable tradeoffs between creativity and predictability when trying to build machines that mimic human behavior. MIT News spoke with Lindquist about these ideas.\nQ: Why did early computer engineers believe they needed to inject randomness and irrationality into AI systems designed for logic and calculation?\nA: There is a long history of many figures in the world of science and art theorizing that chance plays an important part in discovery and creativity — in the ability to originate ideas. They equated creativity with unexpected leaps of logic, or even a dream-like state that allows you to think about things from a new perspective.\nIn the early 1950s, one popular idea from John Pierce, who was a prominent electrical engineer at Bell Labs, was about math being valuable in the world of art. The idea was shared by a lot of people working in early computing. When we think of artwork that includes math, we may think of something very orderly and precise, but Pierce came to the opposite conclusion. He concluded that the utility of math is that it could remove order from art. Then in a very calculated way, math could add a burst of the unexpected as a means to deviate from clichés and add an element of irregularity which just might lead to insight.\nOne popular way to add irregularity into otherwise predictable computers was through artificial (or random) neural networks. Many early neural networks were built by psychologists, who thought that by enabling scientists to build a model of the brain, artificial neural networks allowed scientists to observe what is happening inside, including how brains make productive mistakes. Rather than being black boxes, researchers believed these systems could open this black box of the mind and let scientists peer inside and see all the messy stuff that was really happening.\nBut there was another camp in the world of AI who thought that creative thinking was just “normal” thinking done better. It is interesting to look at these two very simplistic heuristics for understanding intelligence and creativity, and how they do and don’t mesh. The debate, then, was about trying to determine what human inventiveness boils down to, and then how to reconstitute human inventiveness in machine form.\nQ: How did these early computer engineers view AI, and how is it different from the way we think about AI today?\nA: When we think of AI systems, we think of ChatGPT or Claude. We value and use these systems because they give answers that, most of the time, are correct. One of the things that was most interesting to me in this research was finding out that a lot of the early advocates of these systems valued them for exactly the opposite reason. They wanted a system that, on occasion, gave answers that deviated from their expectations. They already had systems that could deliver reasonable and expected answers. They saw neural networks as valuable because they could give unexpected, perhaps even strange and bizarre answers.\nOne reason we might view these systems differently today could be because of how they operate. Early on, these systems were confined to laboratories, so there weren’t really any real-world consequences of a system that gives a strange, or wrong, output. But now there are legal and monetary reasons why OpenAI or Anthropic doesn’t want a chatbot that gives unexpected or creative answers. There has been a “sanding down” of strangeness in these systems. They still potentially have that at their core, but it is something that is now largely suppressed.\nQ: How did early neural networks that incorporated randomness to simulate human creativity evolve to become the dominant paradigm in AI?\nA: For a long time, a specific kind of AI called “symbolic AI” was the dominant approach. Essentially, symbolic AI says the world is based on rules. The role of the AI researcher is to try and reconstruct the knowledge of the world in facts and propositions and feed it into a computer.\nNeural networks, with their use of randomness to solve problems, started to gain traction in the 1950s but fell out favor early on. Frank Rosenblatt, a psychologist who was a very important early figure in neural networks, died prematurely; he died accidentally on his 43rd birthday in 1971. He was quite a charismatic and forceful personality, who made a lot of grand promises about what systems based on neural networks could do. By the time he died, a shift toward symbolic AI was already underway. It is possible if, had he lived, things might have turned out differently.\nBut neural networks never went away. By the 1980s they had shifted more into the world of cognitive science. To become more powerful, and more useful, neural networks needed a lot of data and computational power. That didn’t really arrive until the advent of the internet, when a lot of data became available and computing started to power up. Around 2012, neural networks started to outperform and outpace a statistical form of machine learning, and they kept growing from there.\nQ: What lessons can we learn from studying AI’s history that could inform its development?\nA: I think there is a cautionary lesson here. The ideas and experiences of these early engineers tell us that we can work toward quashing hallucinations — we can work toward making AI perform a certain way so it doesn’t produce unexpected or unwanted answers — but there are going to be other consequences of that. These historical figures were onto something. There is a connection between the surprising and creative conclusions AI can offer and errors or hallucinations. There are tradeoffs when we build our systems to behave one way or the other. Maybe it is impossible to be completely at either end of the spectrum, but when we work toward one thing robustly, we often sacrifice something else unintentionally.",
+    "summary": "Generative artificial intelligence models are rooted in ideas of mid-20th century engineers who thought some amount of irrationality was essential for a machine that could think like a human, contends Benjamin Lindquist, an assistant professor in the MIT History Section, who holds an MIT Schwarzman College of Computing shared position with the Department of Electrical Engineering and Computer Science (EECS) and is a principal investigator in the Laboratory for Information and Decision Systems.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->psychology",
+        "Science and Technology->biomedical science",
+        "Science and Technology->biology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://academic.oup.com/past/advance-article-abstract/doi/10.1093/pastj/gtag026/8943680?redirectedFrom=fulltext",
+        "https://academic.oup.com/past/advance-article-abstract/doi/10.1093/pastj/gtag026/8943680",
+        "https://www.academic.oup.com/past/advance-article-abstract/doi/10.1093/pastj/gtag026/8943680?redirectedFrom=fulltext"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Benjamin Lindquist",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "MIT News",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Massachusetts Institute of Technology",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "MIT History Section",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "MIT Schwarzman College of Computing",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Department of Electrical Engineering and Computer Science",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "EECS",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Laboratory for Information and Decision Systems",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:02:21.734+03:00",
+    "updated": "2026-10-23T07:04:35.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,115 @@
+{
+    "thread": {
+        "uuid": "e3dd523306c3dde5a371fbe6d60cd70d30cfa19d",
+        "url": "https://tass.com/world/2181613",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/world/1874183",
+        "site_categories": [
+            "economy, business and finance",
+            "war, conflict and unrest",
+            "politics",
+            "science and technology",
+            "media"
+        ],
+        "section_title": "Bundestag analyst says US okays deeper strikes inside Russia due to domestic politics -  World - TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Norwegian law enforcement made no contact with seized ship's expedition members",
+        "title_full": "Norwegian law enforcement made no contact with seized ship's expedition members",
+        "published": "2026-09-03T07:04:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 13728,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e3dd523306c3dde5a371fbe6d60cd70d30cfa19d",
+    "url": "https://tass.com/world/2181613",
+    "ord_in_thread": 0,
+    "author": "TASS",
+    "published": "2026-09-03T07:04:00.000+03:00",
+    "title": "Norwegian law enforcement made no contact with seized ship's expedition members",
+    "text": "BARENTSBURG /Svalbard/, September 3. /TASS/. Norwegian law enforcement officials have made no contact with members of the expedition, which arrived in Svalbard aboard the Professor Molchanov ship that was later seized, according to a TASS correspondent who is among the expedition’s members.\nThe correspondent said that expedition members learned about the seizure on September 2 from media reports. They took the news calmly and plan to continue their work.\nThe vessel is prohibited from leaving its current location pending a relevant decision by the governor of Svalbard. According to the statement, \"the vessel was seized as an interim measure related to the enforcement of an arbitral award concerning Naftogaz assets in Crimea.\"\nThe Professor Molchanov has operated regular cargo and passenger services to Svalbard since June 2025. It departed Murmansk on its first voyage to the archipelago in March this year.",
+    "summary": "Norwegian law enforcement officials have made no contact with members of the expedition, which arrived in Svalbard aboard the Professor Molchanov ship that was later seized, according to a TASS correspondent who is among the expedition’s members. The correspondent said that expedition members learned about the seizure on September 2 from media reports. The vessel is prohibited from leaving its current location pending a relevant decision by the governor of Svalbard. According to the statement, \"the vessel was seized as an interim measure related to the enforcement of an arbitral award concerning Naftogaz assets in Crimea.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "BARENTSBURG",
+                "sentiment": "none"
+            },
+            {
+                "name": "Svalbard",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "TASS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TAS",
+                        "exchange": "KLSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:34:58.157+03:00",
+    "updated": "2026-09-03T07:37:11.000+03:00"
+}

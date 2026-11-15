@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "bb961a709a807f9747217e1064f68b7ef9e6b68d",
+        "url": "https://dallasexpress.com/city/ntsb-report-contractor-hit-unmarked-gas-line-in-fatal-dallas-oak-cliff-blast/",
+        "site_full": "dallasexpress.com",
+        "site": "dallasexpress.com",
+        "site_section": "https://dallasexpress.com/",
+        "site_categories": [
+            "disaster and accident",
+            "social issue",
+            "crime, law and justice",
+            "economy, business and finance",
+            "sport",
+            "politics",
+            "health"
+        ],
+        "section_title": "The Dallas Express | Local Dallas News &amp; Fort Worth News",
+        "site_title": "The Dallas Express | Local Dallas News &amp; Fort Worth News",
+        "title": "NTSB Report: Contractor Hit Unmarked Gas Line In Fatal Dallas Oak Cliff Blast",
+        "title_full": "NTSB Report: Contractor Hit Unmarked Gas Line In Fatal Dallas Oak Cliff Blast",
+        "published": "2026-07-02T01:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://dallasexpress.com/wp-content/uploads/2026/07/NTSB-drone-photograph-of-accident-scene.-The-inset-is-the-apartment-building-before-the-explosion-and-fire-Image-by-NTSBreport.jpg",
+        "performance_score": 0,
+        "domain_rank": 161491,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bb961a709a807f9747217e1064f68b7ef9e6b68d",
+    "url": "https://dallasexpress.com/city/ntsb-report-contractor-hit-unmarked-gas-line-in-fatal-dallas-oak-cliff-blast/",
+    "ord_in_thread": 0,
+    "author": "Dallas Express",
+    "published": "2026-07-02T01:00:00.000+03:00",
+    "title": "NTSB Report: Contractor Hit Unmarked Gas Line In Fatal Dallas Oak Cliff Blast",
+    "text": "Federal investigators say an underground natural gas line that was struck before a deadly apartment explosion in Dallas had not been identified or marked, according to a preliminary report released by the National Transportation Safety Board.\nThe May 28 explosion and subsequent fire destroyed an apartment building in the Oak Cliff neighborhood, killing three people and injuring at least six others.\nThe investigation remains ongoing, and the NTSB said all findings are preliminary and subject to change.\nContractor Struck Unmarked Gas Line According to the report , a third-party contractor working for Engineering and Consulting Services Southwest, LLP was conducting soil sampling with a drill rig near the apartment building at 409 E. Ninth St. before the explosion.\nA footnote in the report states that Engineering and Consulting Services Southwest submitted a Texas 811 utility locate request on May 21, seven days before the incident. Texas law requires excavators to notify the Texas 811 system at least two business days before digging so underground utilities can be marked.\nWhile some underground assets had been identified with paint and flags, investigators said the natural gas line that was ultimately struck had not been identified and marked.\nThe report identifies Barba Drilling as the third-party contractor performing the drilling work.\nExplosion Followed Reported Gas Leak The NTSB outlined the sequence of events leading to the explosion.\nDallas Fire-Rescue responded to a reported natural gas leak at 12:49 p.m. on May 28 and notified Atmos Energy Corporation at 12:51 p.m. that a gas line had been cut.\nThe explosion occurred at approximately 1:15 p.m.\nAtmos crews arrived at the scene around 1:20 p.m., shortly after the blast.\nInvestigators said Atmos isolated the leak by performing two hydraulic squeeze-offs on the polyethylene gas main, a process that temporarily stops the flow of gas by compressing the pipeline. The first squeeze-off was completed at 2:09 p.m., followed by a second at 2:41 p.m.\nGas Distribution System Detailed According to the report, the damaged distribution system included a 4-inch polyethylene natural gas main running along East Ninth Street and a 1¼-inch polyethylene service line serving the apartment building.\nThe service line narrowed to a ¾-inch polyethylene pipe before connecting to a gas meter on the northwest corner of the building.\nThe gas main and the affected section of the service line were both installed in 1988. At the time of the explosion, the main was operating at approximately 38 pounds per square inch gauge, below its maximum operating pressure of 55 pounds per square inch gauge.\nInvestigation Continues The explosion destroyed the apartment building and forced the evacuation of eight nearby single-family homes and three apartment buildings, including the damaged structure.\nThe NTSB said it continues to investigate all aspects of the accident to determine its probable cause and identify any safety recommendations that could help prevent similar incidents.\nParties participating in the federal investigation include the Pipeline and Hazardous Materials Safety Administration, the Railroad Commission of Texas, Dallas Fire-Rescue, Atmos Energy Corporation, Environmental Consulting Services Limited, and USIC Locating Services LLC.",
+    "summary": "Federal investigators say an underground natural gas line that was struck before a deadly apartment explosion in Dallas had not been identified or marked, according to a preliminary report released by the National Transportation Safety Board. The May 28 explosion and subsequent fire destroyed an apartment building in the Oak Cliff neighborhood, killing three people and injuring at least six others. A footnote in the report states that Engineering and Consulting Services Southwest submitted a Texas 811 utility locate request on May 21, seven days before the incident.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Environment"
+    ],
+    "topics": [
+        "Disaster and Accident->structural failure",
+        "Disaster and Accident->emergency response",
+        "Disaster and Accident->natural disaster",
+        "Environment->environmental pollution",
+        "Environment->energy resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.ntsb.gov/investigations/Pages/PLD26FR007.aspx",
+        "https://ntsb.gov/investigations/Pages/PLD26FR007.aspx"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Oak Cliff",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dallas",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NTSB",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "National Transportation Safety Board",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:40:58.664+03:00",
+    "updated": "2026-07-02T07:43:52.000+03:00"
+}

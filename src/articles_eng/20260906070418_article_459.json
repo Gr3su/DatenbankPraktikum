@@ -1,0 +1,161 @@
+{
+    "thread": {
+        "uuid": "77bdfc0201ed361343f6788cb2922a7c957c9622",
+        "url": "https://www.newsbreak.com/news/4863409564696-football-opens-2026-season-at-california-saturday-night",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/san-francisco-ca-sports",
+        "site_categories": [
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "sport",
+            "politics",
+            "under_construction",
+            "human interest",
+            "social issue",
+            "crime, law and justice"
+        ],
+        "section_title": "San Francisco, CA Sports and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Football Opens 2026 Season at California Saturday Night - NewsBreak",
+        "title_full": "Football Opens 2026 Season at California Saturday Night - NewsBreak",
+        "published": "2026-09-02T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3MTRX8_1EnTsfjP00",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "77bdfc0201ed361343f6788cb2922a7c957c9622",
+    "url": "https://www.newsbreak.com/news/4863409564696-football-opens-2026-season-at-california-saturday-night",
+    "ord_in_thread": 0,
+    "author": "uclabruins.com",
+    "published": "2026-09-02T07:00:00.000+03:00",
+    "title": "Football Opens 2026 Season at California Saturday Night - NewsBreak",
+    "text": "1 days ago LOS ANGELES – The UCLA football team opens its 2026 season under new head coach Bob Chesney against longtime rival California at Memorial Stadium in Berkeley on Saturday, Sept. 5, at 7:30 p.m. The game will be televised on ESPN. The Bruins (0-0) and Golden Bears (0-0) will meet for the 95th time and for the first time since 2023. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->american football"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://uclabruins.com/news/2026/09/2/football-opens-2026-season-at-california-saturday-night",
+        "https://www.uclabruins.com/news/2026/09/2/football-opens-2026-season-at-california-saturday-night"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bob Chesn",
+                "sentiment": "positive"
+            }
+        ],
+        "locations": [
+            {
+                "name": "California",
+                "sentiment": "none"
+            },
+            {
+                "name": "Memorial Stadium",
+                "sentiment": "none"
+            },
+            {
+                "name": "Berkeley",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "UCLA",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Bruins",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "ESPN",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "ESPN",
+                        "exchange": "CVE"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Bears",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:19:28.571+03:00",
+    "updated": "2026-09-03T07:20:45.000+03:00"
+}

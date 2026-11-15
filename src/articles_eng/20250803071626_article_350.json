@@ -1,0 +1,158 @@
+{
+    "thread": {
+        "uuid": "c46d14b53a69e80f0dc62d9a73ed2105157953bb",
+        "url": "https://www.hindustantimes.com/india-news/new-upi-rules-set-in-from-august-1-balance-checks-autopay-and-more-details-101753930777130.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://news.google.com/search?q=more%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+        "title": "New UPI Rules set in from August 1: Balance checks, autopay and more | Details | Latest News India - Hindustan Times",
+        "title_full": "New UPI Rules set in from August 1: Balance checks, autopay and more | Details | Latest News India - Hindustan Times",
+        "published": "2025-07-31T06:19:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2025/07/31/1600x900/upi-2_1680088943080_1753930838711.webp",
+        "performance_score": 0,
+        "domain_rank": 862,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c46d14b53a69e80f0dc62d9a73ed2105157953bb",
+    "url": "https://www.hindustantimes.com/india-news/new-upi-rules-set-in-from-august-1-balance-checks-autopay-and-more-details-101753930777130.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2025-07-31T06:19:00.000+03:00",
+    "title": "New UPI Rules set in from August 1: Balance checks, autopay and more | Details | Latest News India - Hindustan Times",
+    "text": "New UPI Rules set in from August 1: Balance checks, autopay and more | Details\nThe new UPI rules allow changes in activities, including balance checks, autopay requests, payment failures and linked account verifications.\nNational Payments Corporation of India is set to implement a series of changes in rules related to how UPI apps like Google Pay, PayTM Phone Pay work from August 1.\nFor customers who use UPI apps multiple times a day, these rules can be significant. It pertains to features like balance checks, autopay requests, payment failures and linked account verifications.\nLimit on checking balance\nThe news rules introduced by NPCI put a limit on the number of times users can check their balance to only 50 times a day for each app. The restriction has been issued to reduce the load during peak hours. Along with this, banks are also required to add a balance to every financial transaction by the user.\nAuto payment during fixed hours\nRecurring payments and auto transactions on UPI like EMIs, SIP, or OTT subscription will be processed only during fixed hours before 10 am, 1-5 pm and after 9:30 pm. This means if your payment is due at 11 am, it might get deducted earlier or later. This is done to avoid processing the autopay in peak hours, which are 10:00 am to 3:00 pm and from 5:00 pm to 9:30 pm. Moreover, while executing the autopay mandate, there will be retries after which the autopay might not get deducted.\nLimited tries to access bank details\nFrom next month, users will only be able to retrieve information linked to their mobile number 25 times a day. Through this, customers can see the list of accounts linked to their mobile. These requests are to be initiated only once the customer has selected the issuer's bank in the UPI apps.\nQuick update of transaction status\nDuring the peak hours, users often face issues related to transactions, like the money being debited and the other side not receiving it. From now on, the UPI app will have to show the actual payment status of a transaction within seconds instead of showing pending or processing. The user will have only 3 chances to check the status with a 90-second wait between the checks.\nRecipient name in every transaction\nEvery time a user sends money via UPI, they will be able to see the registered name of the recipient before making the transaction.\nThese changes, though not major, are being made to reduce the pressure on UPI apps during the peak hours and to increase the efficiency of online payments so more users adopt it.\nIndia News,\nWeather Todayand\nLatest Newsand\nParliament Monsoon Session Live, on Hindustan Times.\nIndia News,\nWeather Todayand\nLatest Newsand\nParliament Monsoon Session Live, on Hindustan Times.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->financial service",
+        "Social Issue->social services",
+        "Science and Technology->technology and engineering",
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Hindustan Times",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NPCI",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "UPI",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:25:38.988+03:00",
+    "updated": "2025-08-01T08:07:50.000+03:00"
+}

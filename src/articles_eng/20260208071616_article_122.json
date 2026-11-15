@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "addf71ef167117505c5817e45f6c14b9bc99da08",
+        "url": "https://www.newsbreak.com/wyoming-news-1591703/4477701111850-us-journalist-savannah-guthrie-is-the-co-host-of-the-nbc-news-morning-show-today",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/wyoming-news-1591703",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "sport",
+            "human interest",
+            "politics",
+            "crime, law and justice",
+            "under_construction"
+        ],
+        "section_title": "Wyoming News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "US journalist Savannah Guthrie is the co-host of the NBC News morning show \"Today\" - NewsBreak",
+        "title_full": "US journalist Savannah Guthrie is the co-host of the NBC News morning show \"Today\" - NewsBreak",
+        "published": "2026-02-04T23:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1cR6aa_18cq2rV100",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "addf71ef167117505c5817e45f6c14b9bc99da08",
+    "url": "https://www.newsbreak.com/wyoming-news-1591703/4477701111850-us-journalist-savannah-guthrie-is-the-co-host-of-the-nbc-news-morning-show-today",
+    "ord_in_thread": 0,
+    "author": "Drew ANGERER",
+    "published": "2026-02-04T23:04:00.000+02:00",
+    "title": "US journalist Savannah Guthrie is the co-host of the NBC News morning show \"Today\" - NewsBreak",
+    "text": "By Drew ANGERER ,\n8 hours ago\nUS journalist Savannah Guthrie is the co-host of the NBC News morning show \"Today\"",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+        "Arts, Culture and Entertainment->news media"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1cR6aa_18cq2rV100",
+        "https://img.particlenews.com/image.php?url=1cR6aa_18cq2rV100",
+        "https://wyomingnews.com/subscribe",
+        "https://www.wyomingnews.com/subscribe",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1cR6aa_18cq2rV100",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?url=1cR6aa_18cq2rV100"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Savannah Guthrie",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Drew ANGERER",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "US",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NBC News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "NBC",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-05T07:18:53.598+02:00",
+    "updated": "2026-02-05T07:29:21.000+02:00"
+}

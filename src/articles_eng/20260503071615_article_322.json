@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "39b33928284b8c355eed4a22aecc40868b002ffb",
+        "url": "https://www.newsbreak.com/news/4620911484187-teatown-secures-21-acres-of-critical-wildlife-habitat-in-northern-westchester",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/peekskill-ny",
+        "site_categories": [
+            "sport",
+            "under_construction",
+            "lifestyle and leisure",
+            "human interest",
+            "politics",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "crime, law and justice"
+        ],
+        "section_title": "Peekskill, NY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Teatown Secures 21 Acres of Critical Wildlife Habitat in Northern Westchester - NewsBreak",
+        "title_full": "Teatown Secures 21 Acres of Critical Wildlife Habitat in Northern Westchester - NewsBreak",
+        "published": "2026-04-29T23:21:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4E7Cf5_1Av83fsJ00",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "39b33928284b8c355eed4a22aecc40868b002ffb",
+    "url": "https://www.newsbreak.com/news/4620911484187-teatown-secures-21-acres-of-critical-wildlife-habitat-in-northern-westchester",
+    "ord_in_thread": 0,
+    "author": "yonkerstimes.com",
+    "published": "2026-04-29T23:21:00.000+03:00",
+    "title": "Teatown Secures 21 Acres of Critical Wildlife Habitat in Northern Westchester - NewsBreak",
+    "text": "9 hours ago With the acquisition of this land, the nonprofit nature preserve advances its mission to protect the region’s land, water and wildlife, while safeguarding a watershed vital to New York City’s drinking water supply. Teatown Lake Reservation has purchased a 21-acre parcel of ecologically significant land adjacent to its... Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Environment"
+    ],
+    "topics": [
+        "Environment->nature",
+        "Environment->animal"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Teatown",
+                "sentiment": "none"
+            },
+            {
+                "name": "Westchester",
+                "sentiment": "none"
+            },
+            {
+                "name": "New York City",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Teatown Lake Reservation",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Peekskill"
+            ],
+            "state": [
+                "New York"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:25:13.445+03:00",
+    "updated": "2026-04-30T08:43:30.341+03:00"
+}

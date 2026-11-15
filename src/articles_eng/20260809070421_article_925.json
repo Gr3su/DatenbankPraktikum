@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "6f822057c1e39af978ab61e7b97bfbc7da1a49c3",
+        "url": "https://guardian.ng/education/poor-data-quality-undermining-national-devt-ai-gains/",
+        "site_full": "guardian.ng",
+        "site": "guardian.ng",
+        "site_section": "https://guardian.ng/",
+        "site_categories": [
+            "media",
+            "social issue",
+            "politics",
+            "crime, law and justice",
+            "economy, business and finance"
+        ],
+        "section_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+        "site_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+        "title": "'Poor data quality undermining national devt, AI gains'",
+        "title_full": "'Poor data quality undermining national devt, AI gains'",
+        "published": "2026-08-06T06:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "https://cdn.guardian.ng/wp-content/uploads/2026/02/Artificial-intelligence.webp",
+        "performance_score": 0,
+        "domain_rank": 17024,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6f822057c1e39af978ab61e7b97bfbc7da1a49c3",
+    "url": "https://guardian.ng/education/poor-data-quality-undermining-national-devt-ai-gains/",
+    "ord_in_thread": 0,
+    "author": "Iyabo Lawal",
+    "published": "2026-08-06T06:00:00.000+03:00",
+    "title": "'Poor data quality undermining national devt, AI gains'",
+    "text": "Academics, technology industry leaders, and policymakers have called for urgent action on Nigeria’s data infrastructure, warning that poor data quality is actively undermining national development and threatening the country’s integration into the global artificial intelligence (AI) economy.\nThe position was reached at Prof.OyeIbidapo-Obe’s biennial symposium, held at the University of Lagos (UNILAG), which brought together experts from different sectors to discuss systemic challenges around data collection, storage, and integrity in West Africa’s largest economy.\nThe symposium, themed:‘On data spaces for big data,’ featured a robust panel discussion moderated by David Olowookere, founding chair of the Department of Engineering at Texas Southern University.\nOpening the technical session, panellists defined “big data” as massive, fast-changing, and complex datasets that overwhelm conventional processing methods and require specialised engineering tools to decode and utilise.\nThey noted that while the sheer volume of data being generated in Nigeria is vast, quantity does not equal quality.\nTolu Aofolaju, one of the key panellists, said government planning, policy formulation, and evidence-based decision-making are entirely dependent on the structural integrity of the data used.\nHe stated that when the data foundation is flawed, the resulting national policies fail to deliver intended outcomes and often waste public resources.\nBankole Ojutalayo, also a panellist, delivered a sharp critique of current data management habits in Nigeria.\nHe lamented what he described as a widespread “garbage in, garbage out” approach among data handlers across both public and private institutions.\nAccording to Ojutalayo, this negligence has directly led to the collapse of numerous high-stakes national projects.\nHe further argued that data integrity is not just a technical issue, but a matter of national sovereignty that requires strategic protection by the state.\nPanellistAdetunjiAdewole raised concerns over the problem of “data silos” in government and corporate systems.\nHe warned against the continued use of tools that trap data in isolated compartments, preventing information from being shared across agencies and sectors.\nHe urged organisations to discard outdated software that impedes cross-sector data integration and called for the adoption of interoperable platforms that enable seamless data exchange.\nComfort Folorunsho, a senior lecturer in Systems Engineering at the University of Lagos, introduced the concept of preventing “data lakes” from degenerating into unmanageable “data swamps.”\nShe noted that without proper governance, large repositories of raw data become difficult to use and can mislead decision-makers.\nTo avoid this, she advocated rigorous data cleansing, a process she described as aggressively filtering out false information and ensuring datasets remain structured, reliable, and highly usable for end users.\nThe urgency for clean and structured data, the panellists said, is being amplified by the rapid rise of artificial intelligence.\nAdewole noted that the progress expected from AI over the next few years hinges entirely on the quality of information used to train these systems.\nHe added that there must be emphasis on the human and ethical use of data so as not to create new problems while trying to solve existing ones.\nHe also stressed the need to develop personnel with the right skills to manage, analyse, and govern data, describing human capacity as a key component of the future of technology.\nLooking ahead, the panel addressed how generative AI will reshape the way students, researchers, and professionals interact with information.\nAdewole concluded that AI-driven data integration will only be meaningful if it empowers everyday users to make informed choices and the underlying data is trustworthy.\nAt the end of the discussions, participants recommended that Nigeria must immediately prioritise workforce development in data science and engineering, enhance national data quality standards, and promote decentralised access to information.\nThe experts said these steps are necessary to strengthen decision-making across all critical sectors of the economy and to position the country to compete in the global AI-driven economy.",
+    "summary": "The position was reached at Prof.OyeIbidapo-Obe’s biennial symposium, held at the University of Lagos (UNILAG), which brought together experts from different sectors to discuss systemic challenges around data collection, storage, and integrity in West Africa’s largest economy. Opening the technical session, panellists defined “big data” as massive, fast-changing, and complex datasets that overwhelm conventional processing methods and require specialised engineering tools to decode and utilise. He stated that when the data foundation is flawed, the resulting national policies fail to deliver intended outcomes and often waste public resources.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Labor",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Labor->employment",
+        "Science and Technology->technology and engineering",
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "OyeIbidapo",
+                "sentiment": "none"
+            },
+            {
+                "name": "Obe",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Nigeria",
+                "sentiment": "none"
+            },
+            {
+                "name": "West Africa",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "UNILAG",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "University of Lagos",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:41:12.654+03:00",
+    "updated": "2026-08-06T07:58:44.000+03:00"
+}

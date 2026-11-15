@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "fc5cd6708d5b280b0a4a68ce7fc0bba4a98228de",
+        "url": "https://www.newsbreak.com/5-on-your-side-524539/4838765810980-live-fire-reported-near-top-of-vacant-millennium-hotel-in-downtown-st-louis",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/trending/top/leavitt-urges-firings-over-escalator",
+        "site_categories": [
+            "sport",
+            "science and technology",
+            "lifestyle and leisure",
+            "under_construction",
+            "crime, law and justice",
+            "social issue",
+            "economy, business and finance",
+            "human interest",
+            "arts, culture and entertainment",
+            "politics"
+        ],
+        "section_title": "The latest leavitt urges firings over escalator news, videos &amp; comments | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "LIVE: Fire reported near top of vacant Millennium Hotel in downtown St. Louis - NewsBreak",
+        "title_full": "LIVE: Fire reported near top of vacant Millennium Hotel in downtown St. Louis - NewsBreak",
+        "published": "2026-08-20T04:42:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3eR375_1EOeUB5V00",
+        "performance_score": 0,
+        "domain_rank": 3070,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fc5cd6708d5b280b0a4a68ce7fc0bba4a98228de",
+    "url": "https://www.newsbreak.com/5-on-your-side-524539/4838765810980-live-fire-reported-near-top-of-vacant-millennium-hotel-in-downtown-st-louis",
+    "ord_in_thread": 0,
+    "author": "5 On Your Side",
+    "published": "2026-08-20T04:42:00.000+03:00",
+    "title": "LIVE: Fire reported near top of vacant Millennium Hotel in downtown St. Louis - NewsBreak",
+    "text": "2 hours ago Firefighters responded Wednesday night to a fire near the 24th floor of the vacant Millennium Hotel in downtown St. Louis. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->fire"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.ksdk.com/video/news/live-fire-reported-near-top-of-vacant-millennium-hotel-in-downtown-st-louis/63-5fa24da8-5eb3-4b91-8ac3-1f1773eff542",
+        "https://ksdk.com/video/news/live-fire-reported-near-top-of-vacant-millennium-hotel-in-downtown-st-louis/63-5fa24da8-5eb3-4b91-8ac3-1f1773eff542"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Millennium Hotel",
+                "sentiment": "none"
+            },
+            {
+                "name": "St. Louis",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:34:04.173+03:00",
+    "updated": "2026-08-20T07:42:05.000+03:00"
+}

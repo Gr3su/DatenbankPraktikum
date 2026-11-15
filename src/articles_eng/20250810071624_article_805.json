@@ -1,0 +1,114 @@
+{
+    "thread": {
+        "uuid": "fff79c799ed8e715324b42d1f69770509ad4514a",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4160864105909-red-flag-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Red Flag Warning by NWS - NewsBreak",
+        "title_full": "Red Flag Warning by NWS - NewsBreak",
+        "published": "2025-08-07T00:37:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0EJjOC_13YaC2eZ00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fff79c799ed8e715324b42d1f69770509ad4514a",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4160864105909-red-flag-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-08-07T00:37:00.000+03:00",
+    "title": "Red Flag Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here * AFFECTED AREA...Fire Weather Zone 481 Western Ashley National Forest, Fire Weather Zone 482 Western Uintah Basin, Fire Weather Zone 483 Southern Ashley National Forest, Fire Weather Zone 484 Tavaputs Plateau, Fire Weather Zone 488 Manti National Forest, Fire Weather Zone 489 San Rafael Swell, Fire Weather Zone 493 Central Utah Mountains, Fire Weather Zone 494 Henry Mountains, Fire Weather Zone 496 Color Country Mountains and Fire Weather Zone 498 Grand Staircase. * WINDS...Southwest 15 to 25 mph with gusts up to 40 mph Thursday, decreasing slightly to 10 to 20 mph with gusts to 35 mph Friday. * RELATIVE HUMIDITY...8 to 12 percent, except increasing to 10 to 15 percent western Ashley National Forest Friday. Poor overnight recoveries ranging from around 20 to 35 percent in most locations, decreasing across southeastern Utah Thursday night to 15 to 25 percent. * IMPACTS...Critical fire weather conditions are expected. Any new fire starts or existing fires may spread rapidly.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.4c326c5ffab9e975230769d94a02e8a466797b58.001.1",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.4c326c5ffab9e975230769d94a02e8a466797b58.001.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Mountains",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Southern Ashley National Forest",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Manti National Forest",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-07T07:38:09.098+03:00",
+    "updated": "2025-08-07T07:43:05.000+03:00"
+}

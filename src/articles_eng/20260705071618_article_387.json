@@ -1,0 +1,132 @@
+{
+    "thread": {
+        "uuid": "e2772fec008e6893d436d6991f5a81fbe22bebcd",
+        "url": "https://www.newsbreak.com/news/4744457366562-mansfield-city-schools-takes-first-step-toward-new-elementary-school",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/ashland-oh",
+        "site_categories": [
+            "social issue",
+            "lifestyle and leisure",
+            "human interest",
+            "disaster and accident",
+            "crime, law and justice",
+            "under_construction",
+            "economy, business and finance",
+            "sport",
+            "politics",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Ashland, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Mansfield City Schools Takes First Step Toward New Elementary School - NewsBreak",
+        "title_full": "Mansfield City Schools Takes First Step Toward New Elementary School - NewsBreak",
+        "published": "2026-07-01T22:30:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e2772fec008e6893d436d6991f5a81fbe22bebcd",
+    "url": "https://www.newsbreak.com/news/4744457366562-mansfield-city-schools-takes-first-step-toward-new-elementary-school",
+    "ord_in_thread": 0,
+    "author": "wmvo.com",
+    "published": "2026-07-01T22:30:00.000+03:00",
+    "title": "Mansfield City Schools Takes First Step Toward New Elementary School - NewsBreak",
+    "text": "9 hours ago Mansfield City Schools has taken the first formal step toward what could become the district’s first new elementary school in years. The Board of Education recently approved a resolution to conditionally participate in the Ohio Facilities Construction Commission’s Expedited Local Partnership Program, allowing the district to begin planning for a potential new elementary school project. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->economy",
+        "Economy, Business and Finance->human resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://wmvo.com/local-news/mansfield-city-schools-takes-first-step-toward-new-elementary-school/",
+        "https://wmvo.com/local-news/mansfield-city-schools-takes-first-step-toward-new-elementary-school",
+        "https://www.wmvo.com/local-news/mansfield-city-schools-takes-first-step-toward-new-elementary-school/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Mansfield City Schools",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Board of Education",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Ohio Facilities Construction Commission",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Ashland"
+            ],
+            "state": [
+                "Ohio"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:30:08.667+03:00",
+    "updated": "2026-07-02T07:35:43.000+03:00"
+}

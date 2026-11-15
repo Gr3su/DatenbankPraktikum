@@ -1,0 +1,125 @@
+{
+    "thread": {
+        "uuid": "731dbeba0b7b39fe60c4734d4bff80b66aa81eb3",
+        "url": "https://www.newsbreak.com/news/4675051639474-marshfield-s-dairyfest-happening-this-friday-may-29th-and-saturday-may-30th",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/dorchester-wi",
+        "site_categories": [
+            "sport",
+            "lifestyle and leisure",
+            "under_construction",
+            "crime, law and justice",
+            "economy, business and finance",
+            "politics",
+            "arts, culture and entertainment",
+            "human interest"
+        ],
+        "section_title": "Dorchester, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Marshfield's Dairyfest Happening this Friday (May 29th) and Saturday (May 30th) - NewsBreak",
+        "title_full": "Marshfield's Dairyfest Happening this Friday (May 29th) and Saturday (May 30th) - NewsBreak",
+        "published": "2026-05-27T18:01:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3m9rLu_1BmgtaXY00",
+        "performance_score": 0,
+        "domain_rank": 3021,
+        "domain_rank_updated": "2026-05-25T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "731dbeba0b7b39fe60c4734d4bff80b66aa81eb3",
+    "url": "https://www.newsbreak.com/news/4675051639474-marshfield-s-dairyfest-happening-this-friday-may-29th-and-saturday-may-30th",
+    "ord_in_thread": 0,
+    "author": "cwbradio.com",
+    "published": "2026-05-27T18:01:00.000+03:00",
+    "title": "Marshfield's Dairyfest Happening this Friday (May 29th) and Saturday (May 30th) - NewsBreak",
+    "text": "13 hours ago Marshfield Area Chamber of Commerce’s Dairyfest is being held in Marshfield this Friday and Saturday, May 29th and 30th. Kick off Dairyfest with two days packed full of community, tradition, and family fun in Marshfield. Friday, May 29 – Dairyfest Kickoff:. Start your morning bright and early at... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->holiday"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Marshfield",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Marshfield Area Chamber of Commerce",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Dorchester"
+            ],
+            "state": [
+                "Wisconsin"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-28T07:30:23.658+03:00",
+    "updated": "2026-05-28T07:32:40.000+03:00"
+}

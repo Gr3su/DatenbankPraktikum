@@ -1,0 +1,158 @@
+{
+    "thread": {
+        "uuid": "0b23f7c86b8243bc94ee550e3cdc92cca5888f3a",
+        "url": "https://www.newsbreak.com/news/4810832259634-sheriff-to-replace-carrollton-police-under-city-council-decision",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/malta-bend-mo",
+        "site_categories": [
+            "economy, business and finance",
+            "health",
+            "human interest",
+            "under_construction",
+            "politics",
+            "crime, law and justice",
+            "sport",
+            "arts, culture and entertainment",
+            "social issue",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Malta Bend, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Sheriff to replace Carrollton police under city council decision - NewsBreak",
+        "title_full": "Sheriff to replace Carrollton police under city council decision - NewsBreak",
+        "published": "2026-08-05T16:33:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2vrVLF_1DxVFzHb00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0b23f7c86b8243bc94ee550e3cdc92cca5888f3a",
+    "url": "https://www.newsbreak.com/news/4810832259634-sheriff-to-replace-carrollton-police-under-city-council-decision",
+    "ord_in_thread": 0,
+    "author": "KTTN News",
+    "published": "2026-08-05T16:33:00.000+03:00",
+    "title": "Sheriff to replace Carrollton police under city council decision - NewsBreak",
+    "text": "By KTTN News ,\n20 hours ago The Carroll County Sheriff’s Office is expected to assume responsibility for law enforcement services within the City of Carrollton within approximately 30 to 35 days after the Carrollton City Council voted to disband the Carrollton Police Department. Under the agreement approved by the city and county, the Sheriff’s Office... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->judiciary"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kttn.com/sheriff-to-replace-carrollton-police-under-city-council-decision/",
+        "https://www.kttn.com/sheriff-to-replace-carrollton-police-under-city-council-decision",
+        "https://kttn.com/sheriff-to-replace-carrollton-police-under-city-council-decision/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Carrollton",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "KTTN News",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Carroll County Sheriff ’ s Office",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Carrollton Police Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Carrollton City Council",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Malta Bend"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:19:37.474+03:00",
+    "updated": "2026-08-06T12:58:34.027+03:00"
+}

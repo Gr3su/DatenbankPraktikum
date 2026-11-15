@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "3e61e5dcc0fee7ff928805996a974f00f68d5f53",
+        "url": "https://www.newsbreak.com/news/4557970680793-the-march-25-2026-r-c-morning-report",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/markleeville-ca",
+        "site_categories": [
+            "economy, business and finance",
+            "human interest",
+            "arts, culture and entertainment",
+            "politics",
+            "sport",
+            "under_construction",
+            "lifestyle and leisure",
+            "crime, law and justice"
+        ],
+        "section_title": "Markleeville, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "The March 25, 2026, R-C Morning Report - NewsBreak",
+        "title_full": "The March 25, 2026, R-C Morning Report - NewsBreak",
+        "published": "2026-03-25T08:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2mFA9i_19uiZmjz00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3e61e5dcc0fee7ff928805996a974f00f68d5f53",
+    "url": "https://www.newsbreak.com/news/4557970680793-the-march-25-2026-r-c-morning-report",
+    "ord_in_thread": 0,
+    "author": "Kurt Hildebrand",
+    "published": "2026-03-25T08:00:00.000+02:00",
+    "title": "The March 25, 2026, R-C Morning Report - NewsBreak",
+    "text": "By Kurt Hildebrand ,\n1 days ago Genoa, Nev. — I reached out to the Nevada State Police about a vehicle collision reported 8:05 a.m. Saturday at Highway 395 and Stephanie. Reports from the scene indicated a vehicle turning onto Stephanie was broadsided as it crossed the northbound lanes. Sheriff Dan Coverley won’t face an opponent... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kurt Hildebrand",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Stephanie",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dan Coverley",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Genoa",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Nevada State Police",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Round Hill Village"
+            ],
+            "state": [
+                "Nevada"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-26T07:33:16.317+02:00",
+    "updated": "2026-03-26T18:59:04.854+02:00"
+}
