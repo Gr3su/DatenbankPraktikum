@@ -1,0 +1,115 @@
+{
+    "thread": {
+        "uuid": "85b5335c0cf7f563ac099d7c4d5919ee42ee50ee",
+        "url": "https://www.ntd.com/us-government-agencies-warn-hackers-are-targeting-food-and-medicine-refrigeration_1183694.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://api.ntd.com/feed",
+        "site_categories": [
+            "crime, law and justice",
+            "media",
+            "real_estate",
+            "architects",
+            "disaster and accident",
+            "politics",
+            "war, conflict and unrest",
+            "economy, business and finance"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "US Government Agencies Warn Hackers Are Targeting Food and Medicine Refrigeration",
+        "title_full": "US Government Agencies Warn Hackers Are Targeting Food and Medicine Refrigeration",
+        "published": "2026-11-06T06:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2026/11/id1183709-Refrigeration-Cyber-attack.jpg-900x506.webp",
+        "performance_score": 0,
+        "domain_rank": 63835,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-11-06T07:01:29.479+02:00"
+        }
+    },
+    "uuid": "85b5335c0cf7f563ac099d7c4d5919ee42ee50ee",
+    "url": "https://www.ntd.com/us-government-agencies-warn-hackers-are-targeting-food-and-medicine-refrigeration_1183694.html",
+    "ord_in_thread": 0,
+    "author": "Kelly",
+    "published": "2026-11-06T06:59:00.000+02:00",
+    "title": "US Government Agencies Warn Hackers Are Targeting Food and Medicine Refrigeration",
+    "text": "an alertThursday, warning that hackers are actively targeting the refrigeration systems used to keep food and medicine at safe temperatures.\nThe agencies urged grocery stores, cold storage operators, and related businesses to remove these controls from the public internet, citing the risk that cybercriminals could gain access and force freezers and coolers into defrost mode, potentially jeopardizing critical supplies.\n“Every organization that depends on refrigeration and monitoring systems should assume it could be a target,” Chris Butera, acting executive assistant director for cybersecurity at the Cybersecurity and Infrastructure Security Agency (CISA), said in the agency’s release, urging them to “take action now to close known security gaps.”\nCISA issued the warning with the FBI and the departments of Health and Human Services, Agriculture, and Transportation. The agencies said the targeted equipment is critical to industries such as health care, food production, agriculture, and chemical manufacturing.\n“Industrial refrigeration and cold-chain monitoring systems protect food, medicine, and other temperature-sensitive products, making them attractive targets for malicious cyber actors,” FBI Cyber Branch Operations Director Brett Leatherman said.\n“We are seeing these systems targeted across critical infrastructure sectors globally, putting inventory and equipment at risk,” Leatherman said.\nBlood Service Facilities Targeted\nsaidattackers recently went after refrigeration equipment at \"three foreign blood service facilities.\"\n\"While this attack was unsuccessful due to the proper alert mechanisms in place, security weaknesses in unpatched or internet-accessible controllers can allow attackers to change system settings, potentially causing inventory loss and equipment damage,\" the FBI said.\nThe warning said more broadly that hackers can exploit internet-exposed controls or systems missing security updates.\nOnce inside, cybercriminals could raise temperatures and disable monitoring, preventing employees from detecting issues. The alert said the attack could destroy inventory, create fire hazards, or cause consumers to eat food kept at unsafe temperatures.\nBusinesses should take these steps to protect their refrigeration systems, according to the joint statement:\n- Remove control system devices and/or systems from the internet.\n- Change default passwords and strengthen passwords.\n- Apply patches and keep devices and systems updated.\n- Identify, retire, and replace legacy devices that the vendor no longer supports.\nThe U.S. warning came days after a new wave of attacks hit more than 100 stores across six European countries overnight Sunday into Monday.\n100stores across Europe were affected overnight Sunday into Monday. Sweden’s cyber response team said it was in contact with affected grocers.\nFrance’s cyber response team reported in October that hackers had compromised refrigeration controls made by Danfoss, Copeland, and Dixell.\nIreland’s cybersecurity agency said Tuesday that attackers accessed controls exposed to the internet and urged businesses to check for changes to temperatures, defrost schedules, or alarms.\nLeatherman said organizations should take the steps to protect their refrigeration systems and keep them running. He urged anyone who relies on those systems to follow the recommendations and report suspicious activity to the FBI.",
+    "summary": "The agencies urged grocery stores, cold storage operators, and related businesses to remove these controls from the public internet, citing the risk that cybercriminals could gain access and force freezers and coolers into defrost mode, potentially jeopardizing critical supplies. The agencies said the targeted equipment is critical to industries such as health care, food production, agriculture, and chemical manufacturing. The alert said the attack could destroy inventory, create fire hazards, or cause consumers to eat food kept at unsafe temperatures. France’s cyber response team reported in October that hackers had compromised refrigeration controls made by Danfoss, Copeland, and Dixell.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->cyber crime",
+        "Crime, Law and Justice->data breach"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://x.com/FBICyberBranch/status/2118468417413918915?a=966k40cVZFhyNZZcJLo&s=20",
+        "https://www.cisa.gov/news-events/news/cisa-fbi-hhs-usda-and-dot-urge-critical-infrastructure-strengthen-industrial-refrigeration-and-cold",
+        "https://www.reuters.com/business/retail-consumer/us-warns-ongoing-cyber-threat-industrial-refrigeration-systems-2026-11-05/",
+        "https://reuters.com/business/retail-consumer/us-warns-ongoing-cyber-threat-industrial-refrigeration-systems-2026-11-05/",
+        "https://x.com/FBICyberBranch/status/2118468417413918915",
+        "https://cisa.gov/news-events/news/cisa-fbi-hhs-usda-and-dot-urge-critical-infrastructure-strengthen-industrial-refrigeration-and-cold",
+        "https://www.x.com/FBICyberBranch/status/2118468417413918915?a=966k40cVZFhyNZZcJLo&s=20",
+        "https://www.reuters.com/business/retail-consumer/us-warns-ongoing-cyber-threat-industrial-refrigeration-systems-2026-11-05"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Chris Butera",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-11-06T07:01:29.479+02:00",
+    "updated": "2026-11-06T07:03:04.000+02:00",
+    "related_articles": null
+}

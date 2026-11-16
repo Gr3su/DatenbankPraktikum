@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "4fb4cd429c4f6f23981deb0b21003a0b8e77b9c6",
+        "url": "https://www.newsbreak.com/news/4498060229145-some-75-put-under-boil-water-notice-in-heidelberg-tuesday-afternoon",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/hickory-ms",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Hickory, MS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Some 75 put under boil-water notice in Heidelberg Tuesday afternoon - NewsBreak",
+        "title_full": "Some 75 put under boil-water notice in Heidelberg Tuesday afternoon - NewsBreak",
+        "published": "2026-02-18T02:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2mWbaD_18xLS0i000",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4fb4cd429c4f6f23981deb0b21003a0b8e77b9c6",
+    "url": "https://www.newsbreak.com/news/4498060229145-some-75-put-under-boil-water-notice-in-heidelberg-tuesday-afternoon",
+    "ord_in_thread": 0,
+    "author": "WDAM Staff",
+    "published": "2026-02-18T02:20:00.000+02:00",
+    "title": "Some 75 put under boil-water notice in Heidelberg Tuesday afternoon - NewsBreak",
+    "text": "By WDAM Staff ,\n1 days ago HEIDELBERG, Miss. (WDAM) - About 75 customers of the Town of Heidelberg’s water system were placed under a boil-water notice Tuesday afternoon. The town said the notice was caused by a broken waterline. The area affected starts at the intersection of East Main and Bay streets, then runs along... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->public health"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Town of Heidelberg",
+                "sentiment": "none"
+            },
+            {
+                "name": "East Main",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bay",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WDAM",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "4fb4cd429c4f6f23981deb0b21003a0b8e77b9c6",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Hickory"
+            ],
+            "state": [
+                "Mississippi"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:22:55.744+02:00",
+    "updated": "2026-02-19T07:27:06.000+02:00"
+}

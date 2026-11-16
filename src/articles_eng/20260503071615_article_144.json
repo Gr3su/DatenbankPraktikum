@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "3e9ab9363b74bc12a44a1a909aea458889d49ad6",
+        "url": "https://www.newsbreak.com/tbr-news-media-518961/4621331135144-whaling-museum-launches-3rd-annual-sea-glass-fiction-contest",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/tbr-news-media-518961",
+        "site_categories": [
+            "politics",
+            "sport",
+            "human interest",
+            "economy, business and finance",
+            "under_construction",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "crime, law and justice"
+        ],
+        "section_title": "TBR News Media&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Whaling Museum launches 3rd Annual Sea Glass Fiction Contest - NewsBreak",
+        "title_full": "Whaling Museum launches 3rd Annual Sea Glass Fiction Contest - NewsBreak",
+        "published": "2026-04-30T02:41:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0U00ZC_1AvYhy1c00",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3e9ab9363b74bc12a44a1a909aea458889d49ad6",
+    "url": "https://www.newsbreak.com/tbr-news-media-518961/4621331135144-whaling-museum-launches-3rd-annual-sea-glass-fiction-contest",
+    "ord_in_thread": 0,
+    "author": "Press Release",
+    "published": "2026-04-30T02:41:00.000+03:00",
+    "title": "Whaling Museum launches 3rd Annual Sea Glass Fiction Contest - NewsBreak",
+    "text": "By Press Release ,\n16 hours ago The Whaling Museum of Cold Spring Harbor, in partnership with TBR News Media of Setauket, announces the launch of its 3rd Annual Sea Glass Fiction Contest, now including a new adult category. The contest invites students in grades 3 to 12 and adults across Nassau and Suffolk counties to craft original stories inspired by a single piece of sea glass selected by the Museum. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+        "Arts, Culture and Entertainment->library and museum"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Whaling Museum",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cold Spring Harbor",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nassau",
+                "sentiment": "none"
+            },
+            {
+                "name": "Suffolk",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "TBR New",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Setauket",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:20:21.472+03:00",
+    "updated": "2026-04-30T19:38:50.103+03:00"
+}

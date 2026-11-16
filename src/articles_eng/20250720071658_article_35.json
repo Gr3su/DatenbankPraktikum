@@ -1,0 +1,113 @@
+{
+    "thread": {
+        "uuid": "b16189d62add81cea391702fb505a739903a7731",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4113366094993-special-weather-statement-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Special Weather Statement by NWS - NewsBreak",
+        "title_full": "Special Weather Statement by NWS - NewsBreak",
+        "published": "2025-07-17T02:07:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1Dx5HM_12nj0ikM00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b16189d62add81cea391702fb505a739903a7731",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4113366094993-special-weather-statement-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-07-17T02:07:00.000+03:00",
+    "title": "Special Weather Statement by NWS - NewsBreak",
+    "text": "Check NWS updates here At 1107 PM CDT, Doppler radar was tracking strong thunderstorms along a line extending from 8 miles southeast of Houstonia to Knob Noster to near Warrensburg. Movement was southeast at 15 mph. HAZARD...Wind gusts of 50 to 55 mph. SOURCE...Radar indicated. IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Locations impacted include... Sedalia, Warrensburg, Knob Noster, Concordia, Sweet Springs, Whiteman Air Force Base, La Monte, Houstonia, Whiteman Afb, Centerview, Emma, Hughesville, and Fayetteville. This includes Interstate 70 in Missouri between mile markers 76 and 85.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather",
+        "Social Issue",
+        "Politics"
+    ],
+    "topics": [
+        "Weather->weather phenomena",
+        "Weather->weather warning",
+        "Social Issue->social condition",
+        "Politics->safety of citizens"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.18becf78b40fe7d6de1e12e8967d276af3ada863.001.1",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.18becf78b40fe7d6de1e12e8967d276af3ada863.001.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Emma",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Houstonia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Centerview",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:16:43.244+03:00",
+    "updated": "2025-07-17T04:20:43.000+00:00"
+}

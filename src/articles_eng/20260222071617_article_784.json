@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "7c3803dff5b759417828cf1f3e9c917a3e09c57d",
+        "url": "https://prairiestatewire.com/fmcsa-finds-illinois-non-domiciled-cdl-program-out-of-compliance/",
+        "site_full": "prairiestatewire.com",
+        "site": "prairiestatewire.com",
+        "site_section": "https://prairiestatewire.com/",
+        "site_categories": [
+            "health",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "social issue",
+            "media"
+        ],
+        "section_title": "Prairie State Wire",
+        "site_title": "Prairie State Wire",
+        "title": "FMCSA finds Illinois non-domiciled CDL program out of compliance",
+        "title_full": "FMCSA finds Illinois non-domiciled CDL program out of compliance",
+        "published": "2026-02-18T19:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.metricmedianews.com/65/69/27725367/webp_untitled_design_1.webp",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7c3803dff5b759417828cf1f3e9c917a3e09c57d",
+    "url": "https://prairiestatewire.com/fmcsa-finds-illinois-non-domiciled-cdl-program-out-of-compliance/",
+    "ord_in_thread": 0,
+    "author": "Prairie State Wire",
+    "published": "2026-02-18T19:52:00.000+02:00",
+    "title": "FMCSA finds Illinois non-domiciled CDL program out of compliance",
+    "text": "The Federal Motor Carrier Safety Administration (FMCSA) announced that Illinois is out of compliance in issuing non-domiciled commercial learner’s permits and driver’s licenses, requiring immediate corrective action to avoid funding cuts and program decertification.\nAccording to its 2025 Annual Program Review of Illinois’s CDL program, FMCSA found errors in issuing non-domiciled learner’s permits and licenses. Drivers were sometimes approved without proper verification of lawful presence, or with permits valid beyond the expiration of immigration documents. In a sample of 150 records, 29 were noncompliant, prompting FMCSA to require an internal audit and a pause on new issuances. Illinois must respond within 30 days with corrective plans.\nThe issue is significant because improper issuance of commercial licenses can impact road safety both in Illinois and nationwide. In Illinois, motor vehicle crashes totaled 299,133 in 2023 , with 1,142 fatal crashes according to the Illinois Department of Transportation . Commercial motor vehicle fatal crashes numbered 177 in the state that year, per FMCSA data, representing a rate of 0.172 per 100 million vehicle miles traveled. These regional statistics reflect ongoing safety challenges, particularly with non-domiciled drivers potentially contributing to risks if licensing standards are not rigorously enforced.\nNationwide, large trucks were involved in 5,375 fatal crashes in 2023 , resulting in 5,472 deaths—an 8.4% decrease from 2022 but a 43% increase over the past decade. Injury crashes totaled 114,552, affecting 153,452 people, down 4.7% from the previous year. These numbers underscore the importance of strict federal oversight and consistent licensing standards for commercial drivers.\nThe Federal Motor Carrier Safety Administration is a U.S. Department of Transportation agency established in 2000 under the Motor Carrier Safety Improvement Act of 1999 . FMCSA regulates interstate commercial operations to reduce crashes through enforcement of safety standards and program reviews.",
+    "summary": "The Federal Motor Carrier Safety Administration (FMCSA) announced that Illinois is out of compliance in issuing non-domiciled commercial learner’s permits and driver’s licenses, requiring immediate corrective action to avoid funding cuts and program decertification. Drivers were sometimes approved without proper verification of lawful presence, or with permits valid beyond the expiration of immigration documents. The issue is significant because improper issuance of commercial licenses can impact road safety both in Illinois and nationwide. These regional statistics reflect ongoing safety challenges, particularly with non-domiciled drivers potentially contributing to risks if licensing standards are not rigorously enforced.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Politics->government policy",
+        "Politics->regulatory authority"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://injuryfacts.nsc.org/motor-vehicle/road-users/large-trucks",
+        "https://idot.illinois.gov/content/dam/soi/en/web/idot/documents/transportation-system/resources/safety/crash-reports/crash-facts/2023_crash_facts.pdf",
+        "https://www.fmcsa.dot.gov/mission/about-us",
+        "https://www.injuryfacts.nsc.org/motor-vehicle/road-users/large-trucks",
+        "https://fmcsa.dot.gov/mission/about-us",
+        "https://www.idot.illinois.gov/content/dam/soi/en/web/idot/documents/transportation-system/resources/safety/crash-reports/crash-facts/2023_crash_facts.pdf"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Illinois",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FMCSA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Federal Motor Carrier Safety Administration",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Prairietown"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:37:12.741+02:00",
+    "updated": "2026-02-19T07:42:08.000+02:00"
+}

@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "422befb2431fdb35094f75d9b755bf52a72d9be5",
+        "url": "https://www.world-today-news.com/google-gemini-introduces-new-thinking-levels-and-free-extended-thinking-mode/",
+        "site_full": "www.world-today-news.com",
+        "site": "world-today-news.com",
+        "site_section": "https://www.world-today-news.com/category/technology",
+        "site_categories": [
+            "sport",
+            "economy, business and finance",
+            "science and technology",
+            "lifestyle and leisure",
+            "politics",
+            "health",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "media"
+        ],
+        "section_title": "Technology Archives - World Today News",
+        "site_title": "World Today News - Your Global News Source Directory",
+        "title": "Google Gemini Introduces New Thinking Levels and Free Extended Thinking Mode - World Today News",
+        "title_full": "Google Gemini Introduces New Thinking Levels and Free Extended Thinking Mode - World Today News",
+        "published": "2026-06-04T06:34:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 140533,
+        "domain_rank_updated": "2026-06-01T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "422befb2431fdb35094f75d9b755bf52a72d9be5",
+    "url": "https://www.world-today-news.com/google-gemini-introduces-new-thinking-levels-and-free-extended-thinking-mode/",
+    "ord_in_thread": 0,
+    "author": "Rachel Kim - Technology Editor",
+    "published": "2026-06-04T06:34:00.000+03:00",
+    "title": "Google Gemini Introduces New Thinking Levels and Free Extended Thinking Mode - World Today News",
+    "text": "Google Gemini Introduces New Thinking Levels and Free Extended Thinking Mode\nGoogle’s Gemini AI Spawns New Thinking Paradigms—But at What Cost?\nGoogle’s latest shift in AI reasoning architecture has sparked debate among developers and enterprise IT teams. The company’s Gemini models now offer granular control over cognitive depth, but the trade-offs in resource consumption and deployment complexity demand scrutiny.\nThe Tech TL;DR:\n- Three-tier thinking modes (Standard, Extended, Deep Think) now available globally without subscription\n- Extended Thinking consumes 3-5x more tokens than Standard mode for complex queries\n- Token-based usage limits create new latency-optimization challenges for developers\nArchitectural Implications of Gemini’s Cognitive Layering\nThe introduction of structured thinking levels represents a fundamental shift in how large language models (LLMs) balance speed and depth. According to the Android Headlines report, Gemini 3.1 Flash-Lite, Gemini 3.5 Flash, and Gemini 3.1 Pro now feature distinct reasoning pipelines. This change aligns with broader industry trends toward end-to-end encryption-aware LLMs that prioritize containerization of cognitive processes.\nFrom a technical standpoint, the Extended Thinking mode appears to implement a multi-stage reasoning engine\nthat executes sequential analysis steps. While the exact implementation details remain opaque, the reported 3-5x token consumption increase suggests significant parallel processing overhead. Developers must now contend with a new latency-cost matrix when designing AI-driven applications.\ncurl -X POST https://api.gemini.google/v1beta/models/gemini-3.1",
+    "summary": "Google’s latest shift in AI reasoning architecture has sparked debate among developers and enterprise IT teams. The company’s Gemini models now offer granular control over cognitive depth, but the trade-offs in resource consumption and deployment complexity demand scrutiny. This change aligns with broader industry trends toward end-to-end encryption-aware LLMs that prioritize containerization of cognitive processes. From a technical standpoint, the Extended Thinking mode appears to implement a multi-stage reasoning engine that executes sequential analysis steps. While the exact implementation details remain opaque, the reported 3-5x token consumption increase suggests significant parallel processing overhead.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->scientific research",
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-04T07:23:33.634+03:00",
+    "updated": "2026-06-04T07:25:00.000+03:00"
+}

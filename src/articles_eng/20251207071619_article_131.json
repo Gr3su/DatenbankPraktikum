@@ -1,0 +1,122 @@
+{
+    "thread": {
+        "uuid": "858b3a1cc1f730341baad88ab6a55d34b1ed7efc",
+        "url": "https://www.newsbreak.com/the-week-510224/4377708060849-blackouts-why-the-internet-keeps-breaking",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/trending/top/experts-warn%3A-internet-shutdown-ahead",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "The latest experts warn: internet shutdown ahead news, videos &amp; comments | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Blackouts: Why the internet keeps breaking - NewsBreak",
+        "title_full": "Blackouts: Why the internet keeps breaking - NewsBreak",
+        "published": "2025-12-02T20:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1iprNM_1714Tq1I00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-11-30T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "858b3a1cc1f730341baad88ab6a55d34b1ed7efc",
+    "url": "https://www.newsbreak.com/the-week-510224/4377708060849-blackouts-why-the-internet-keeps-breaking",
+    "ord_in_thread": 0,
+    "author": "The Week US",
+    "published": "2025-12-02T20:36:00.000+02:00",
+    "title": "Blackouts: Why the internet keeps breaking - NewsBreak",
+    "text": "By The Week US ,\n1 days ago\n“Having problems with your favorite websites lately? It’s not just you,” said Lisa Eadicicco in CNN.com . Many businesses were left scrambling last week after a malfunction at the web security firm Cloudflare knocked out everything from ChatGPT to the app of the New Jersey transit authority. Even Downdetector, a website that tracks internet outages , went down. The blackout happened only a couple weeks after a global outage at Amazon Web Services disrupted schools, airports, and hospitals, and a fault in Microsoft’s Azure downed the company’s invaluable workplace products. What’s happening, experts say, is not that the number of service outages are rising. Rather, the “consolidation of critical cloud infrastructure” and network safeguarding “between just a few large companies” has left more websites and businesses vulnerable to even minor tech hiccups.\nA single bad file is all it took to knock out Cloudflare, said Jon Brodkin in Ars Technica . The cybersecurity giant “is relied upon by many online services” for protection and internet routing, so when chief executive Matthew Prince learned about the outage, he suspected the company was being attacked . Wrong: A small glitch had caused “an important file to unexpectedly double in size and propagate across the network,” leading the entire system to crash. That tiny errors can be so widely felt is a symptom of “how the internet has evolved since its inception,” said Rose Henderson in Bloomberg . “During the 1990s and 2000s, any company that had its own website probably had its own servers,” limiting the damage from an issue. Today, Amazon, Google, and Microsoft alone operate millions of servers comprising 60% of the cloud-computing market. What’s surprising is that the infrastructure “doesn’t crash more often.”\nExactly, said Emma Roth in The Verge , which is why we “need a backup plan.” Mehdi Daoudi, CEO of internet performance monitoring firm Catchpoint, has been raising the alarm, but few are listening. “Everybody’s putting all their eggs in one basket,” Daoudi said, “and then they’re surprised when there is a problem.” Cloudflare’s failure, he adds, should be a “wake-up call.” The internet is “an irreplaceable linchpin of modern life,” said Aisha Down in The Guardian . “But it’s also a web of creaking legacy programs and physical infrastructure” that could come crashing down. “A summertime tornado cruising through the town of Council Bluffs, Iowa,” could lay waste to a cluster of Google-owned data centers “critical to its cloud platform as well as YouTube and Gmail.” Or a “heat wave in the eastern U.S.” could cause a meltdown of servers in Virginia’s “‘data center alley,’ a key hub for Amazon Web Services,” knocking out Slack, Signal, Netflix, and Lloyd’s Bank without a quick remedy. It’s scary to consider how fragile the internet may truly be.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=1iprNM_1714Tq1I00",
+        "https://theweek.com/tech/who-are-the-new-wave-hackers-bringing-the-world-to-a-halt",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1iprNM_1714Tq1I00",
+        "https://theweek.com/tech/is-ai-killing-the-internet",
+        "https://theweek.com/tech/how-the-online-world-relies-on-aws-cloud-servers",
+        "https://www.theweek.com/tech/how-the-online-world-relies-on-aws-cloud-servers",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1iprNM_1714Tq1I00",
+        "https://www.img.particlenews.com/image.php?url=1iprNM_1714Tq1I00",
+        "https://www.theweek.com/tech/who-are-the-new-wave-hackers-bringing-the-world-to-a-halt",
+        "https://www.theweek.com/tech/is-ai-killing-the-internet"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lisa Eadicicco",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jon Brodkin",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Microsoft",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "MSFT",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-04T07:20:58.008+02:00",
+    "updated": "2025-12-04T07:25:03.000+02:00"
+}

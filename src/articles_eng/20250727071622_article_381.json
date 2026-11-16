@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "be7abf6ee707aa40b3e6ab2a3d54fdee15592e1c",
+        "url": "https://tass.com/world/1993525",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/world/1874271",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "US State Department doesn’t confirm permission for deeper ATACMS strikes inside Russia -  World - TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Hotheads seeking to unleash conflict in Transnistria ahead of elections - ex-president",
+        "title_full": "Hotheads seeking to unleash conflict in Transnistria ahead of elections - ex-president",
+        "published": "2025-07-24T06:15:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 4103,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "be7abf6ee707aa40b3e6ab2a3d54fdee15592e1c",
+    "url": "https://tass.com/world/1993525",
+    "ord_in_thread": 0,
+    "author": "TASS",
+    "published": "2025-07-24T06:15:00.000+03:00",
+    "title": "Hotheads seeking to unleash conflict in Transnistria ahead of elections - ex-president",
+    "text": "CHISINAU, July 24. /TASS/. Hotheads in foreign countries are ready to unleash a conflict in the unrecognized republic of Transnistria ahead of the parliamentary elections in Moldova in a bid to prevent the defeat of Moldovan President Maia Sandu and her ruling Party of Action and Solidarity, leader of Moldova’s Party of Socialists and the country’s former president, Igor Dodon, told TASS.\n\"Hotheads abroad are not averse to open a ‘second front’ here. Transnistria is a right place for that. So. I would not rule out such a scenario, especially in the context of the upcoming elections. If Sandu sees that she is not winning and losing power, she might trigger such a scenario here to cancel the results of voting. Apart from that, our authorities won’t hesitate to scare people by a war with Russia. This is what Sandu’s EU allies are doing to hide their failures under the Russian threat. For instance, [French President Emmanuel] Macron, or the British premier,\" he said.\nThe Russian Foreign Intelligence Service (SVR) said earlier in July that the North Atlantic Alliance is making active preparations to use Moldova as a battering ram in a potential armed conflict with Russia. \"Brussels has made a decision to accelerate the transformation of this country into ‘the alliance’s bridgehead on its eastern flanks, given the advance of Russian forces in Ukraine,\" the SVR said.\nRussian Foreign Ministry Spokeswoman Maria Zakharova said back then that Moscow was keeping a close eye on the developments around Transnistria and was ready to react proportionally to any scenario in the region. She slammed the Moldovan authorities for embarking on a path of \"worsening the economic situation in Transnistria.\"\nParliamentary elections in Moldova are scheduled for the fall of 2025 and, judging by opinion polls, the ruling party has little chance to win. The presidential authority in Moldova is limited, with real power being in the hands of the government which is appointed by the parliamentary majority. So, the final political landscape will be clear after the parliamentary polls.\nDuring last year 's presidential election, incumbent President Maia Sandu lost the vote to former Prosecutor General Alexandr Stoianoglo inside the country. However, she finally managed to secure victory after more than 300,000 Moldovan labor migrants voted at 200 polling stations set up in EU countries. Opposition parties refused to recognize the election as being rigged.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->armed conflict",
+        "War, Conflict and Unrest->demonstration",
+        "War, Conflict and Unrest->civil unrest",
+        "Politics->political crisis",
+        "Politics->international relations",
+        "Politics->election",
+        "Social Issue->discrimination",
+        "Social Issue->social problem",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Igor Dodon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Maia Sandu",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "North Atlantic",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Party of Action and Solidarity",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Foreign Intelligence Service",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "TASS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TAS",
+                        "exchange": "KLSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:26:51.404+03:00",
+    "updated": "2025-07-24T07:32:11.000+03:00"
+}

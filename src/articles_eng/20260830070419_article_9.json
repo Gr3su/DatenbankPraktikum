@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "12d4b7536176c834823a8a2a59cd3f34e073a337",
+        "url": "https://www.newsbreak.com/news/4851498469208-fbi-warning-triggers-arrest-of-providence-high-school-student",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/providence-ri",
+        "site_categories": [
+            "politics",
+            "social issue",
+            "science and technology",
+            "economy, business and finance",
+            "under_construction",
+            "sport",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "human interest"
+        ],
+        "section_title": "Providence, RI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "FBI Warning Triggers Arrest of Providence High School Student - NewsBreak",
+        "title_full": "FBI Warning Triggers Arrest of Providence High School Student - NewsBreak",
+        "published": "2026-08-27T03:37:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3157,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "12d4b7536176c834823a8a2a59cd3f34e073a337",
+    "url": "https://www.newsbreak.com/news/4851498469208-fbi-warning-triggers-arrest-of-providence-high-school-student",
+    "ord_in_thread": 0,
+    "author": "GoLocalProv",
+    "published": "2026-08-27T03:37:00.000+03:00",
+    "title": "FBI Warning Triggers Arrest of Providence High School Student - NewsBreak",
+    "text": "3 hours ago FBI Warning Triggers Arrest of Providence High School Student. A student at Central High School was arrested on Wednesday after the FBI alerted the Providence Police about threats made against the school. According to Principal Ashley Ferranti, the administration “received a report regarding a threat of violence directed toward the... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->assault",
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.golocalprov.com/news/fbi-warning-triggers-arrest-of-providence-high-school-student",
+        "https://golocalprov.com/news/fbi-warning-triggers-arrest-of-providence-high-school-student"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ashley Ferranti",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Providence",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Central High",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Providence Police",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "FBI",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Providence"
+            ],
+            "state": [
+                "Rhode Island"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:05:03.123+03:00",
+    "updated": "2026-08-27T07:21:37.000+03:00"
+}

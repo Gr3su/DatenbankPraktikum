@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "4a4a49c58ae8be81742b66bca0d7ac870a83ab8c",
+        "url": "https://www.newsbreak.com/news/4581828504076-bridgewater-honors-hall-of-fame-class-at-track-meet",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/harrisonburg-va",
+        "site_categories": [
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "sport",
+            "arts, culture and entertainment",
+            "human interest",
+            "politics",
+            "crime, law and justice",
+            "under_construction"
+        ],
+        "section_title": "Harrisonburg, VA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Bridgewater honors Hall of Fame class at track meet - NewsBreak",
+        "title_full": "Bridgewater honors Hall of Fame class at track meet - NewsBreak",
+        "published": "2026-04-08T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0RlKgY_1AHl487e00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4a4a49c58ae8be81742b66bca0d7ac870a83ab8c",
+    "url": "https://www.newsbreak.com/news/4581828504076-bridgewater-honors-hall-of-fame-class-at-track-meet",
+    "ord_in_thread": 0,
+    "author": "Peyton McNorton",
+    "published": "2026-04-08T07:00:00.000+03:00",
+    "title": "Bridgewater honors Hall of Fame class at track meet - NewsBreak",
+    "text": "By Peyton McNorton ,\n1 days ago BRIDGEWATER, Va. – Bridgewater College inducted new members into its Hall of Fame on Saturday, March 28 during the Doc Jopson Invitational Track and Field meet, honoring former men’s cross country athletes from 1969 to 1971 for their success and lasting impact on the program. According to the... Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport",
+        "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+        "Sport->sports honour",
+        "Sport->sport event",
+        "Arts, Culture and Entertainment->culture",
+        "Arts, Culture and Entertainment->festival"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Peyton McNorton",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Va.",
+                "sentiment": "none"
+            },
+            {
+                "name": "BRIDGEWATER",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Bridgewater College",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Harriston",
+                "Harrisonburg"
+            ],
+            "state": [
+                "Virginia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:37:48.965+03:00",
+    "updated": "2026-04-09T07:42:28.000+03:00"
+}

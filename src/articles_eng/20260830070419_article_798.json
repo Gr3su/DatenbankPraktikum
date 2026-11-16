@@ -1,0 +1,140 @@
+{
+    "thread": {
+        "uuid": "b67282213caca60012cd45736cf153c1c118667f",
+        "url": "https://tass.com/emergencies/2178129",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/rss/v2.xml",
+        "site_categories": [
+            "politics",
+            "economy, business and finance",
+            "science and technology",
+            "media",
+            "war, conflict and unrest"
+        ],
+        "section_title": "TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Number of people missing after China landslide reaches 558",
+        "title_full": "Number of people missing after China landslide reaches 558",
+        "published": "2026-08-27T06:50:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 13468,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b67282213caca60012cd45736cf153c1c118667f",
+    "url": "https://tass.com/emergencies/2178129",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-08-27T06:50:00.000+03:00",
+    "title": "Number of people missing after China landslide reaches 558",
+    "text": "BEIJING, August 27. /TASS/. At least 558 people are missing following a landslide at China’s Gyirong border crossing on the border with Nepal, China Central Television reported.\nAccording to the broadcaster, 260 of the 558 people missing are foreign nationals.\nAs Xinhua reported, the landslide occurred at the Gyirong border crossing at around 10:30 a.m. on August 26 on the Nepalese side of the border. Three people were killed.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Environment"
+    ],
+    "topics": [
+        "Disaster and Accident->natural disaster",
+        "Environment->environmental pollution",
+        "Environment->land resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://english.news.cn/",
+        "https://www.english.news.cn/",
+        "https://english.news.cn"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "China",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gyirong",
+                "sentiment": "none"
+            },
+            {
+                "name": "BEIJING",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nepal",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "China Central Television",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Xinhua",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "603888",
+                        "exchange": "SHA"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:33:41.467+03:00",
+    "updated": "2026-08-27T07:37:24.000+03:00"
+}

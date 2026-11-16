@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "c48ede173b30e4923782153f97f1f7ab2bf08e3e",
+        "url": "https://www.newsbreak.com/news/4675500352517-logan-county-detention-center-warns-public-of-phone-call-payment-scam",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/rochester-ky",
+        "site_categories": [
+            "politics",
+            "human interest",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "sport",
+            "under_construction",
+            "crime, law and justice",
+            "economy, business and finance"
+        ],
+        "section_title": "Rochester, KY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Logan County Detention Center warns public of phone call payment scam - NewsBreak",
+        "title_full": "Logan County Detention Center warns public of phone call payment scam - NewsBreak",
+        "published": "2026-05-27T23:05:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/440X7Y_1Bn8N5yo00",
+        "performance_score": 0,
+        "domain_rank": 3021,
+        "domain_rank_updated": "2026-05-25T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c48ede173b30e4923782153f97f1f7ab2bf08e3e",
+    "url": "https://www.newsbreak.com/news/4675500352517-logan-county-detention-center-warns-public-of-phone-call-payment-scam",
+    "ord_in_thread": 0,
+    "author": "WNKY Staff",
+    "published": "2026-05-27T23:05:00.000+03:00",
+    "title": "Logan County Detention Center warns public of phone call payment scam - NewsBreak",
+    "text": "By WNKY Staff ,\n8 hours ago LOGAN COUNTY, Ky. – The Logan County Detention Center (LCDC) is warning the public of a scam. According to a social media post, LCDC is aware of a scam targeting family members of incarcerated individuals. The scammers will call individuals posing as “Lieutenant Brown” working for LCDC. The scammers... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->fraud"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lieutenant Brown",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Logan County Detention Center",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "LCDC",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Rochester"
+            ],
+            "state": [
+                "Kentucky"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-28T07:20:04.180+03:00",
+    "updated": "2026-05-28T07:23:10.000+03:00"
+}

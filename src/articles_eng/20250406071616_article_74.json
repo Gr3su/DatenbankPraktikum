@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "4d1328b46a6fa34c2fe1b83f76109da5f4862067",
+        "url": "https://www.breitbart.com/pre-viral/2025/03/05/republican-introduces-censure-resolution-against-democrat-rep-al-green-joint-session-outburst",
+        "site_full": "www.breitbart.com",
+        "site": "breitbart.com",
+        "site_section": "http://breitbart.com/news",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "All News - Breitbart News Network",
+        "site_title": null,
+        "title": "GOP Lawmaker Introduces Censure Resolution Against Rep. Al Green",
+        "title_full": "GOP Lawmaker Introduces Censure Resolution Against Rep. Al Green",
+        "published": "2025-03-06T00:10:00.000+02:00",
+        "replies_count": 1,
+        "participants_count": 2,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.breitbart.com/media/2025/03/Al-Green-640x335.jpg",
+        "performance_score": 0,
+        "domain_rank": 1733,
+        "domain_rank_updated": "2025-03-03T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4d1328b46a6fa34c2fe1b83f76109da5f4862067",
+    "url": "https://www.breitbart.com/pre-viral/2025/03/05/republican-introduces-censure-resolution-against-democrat-rep-al-green-joint-session-outburst",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Katherine Hamilton",
+    "published": "2025-03-06T00:10:00.000+02:00",
+    "title": "GOP Lawmaker Introduces Censure Resolution Against Rep. Al Green",
+    "text": "A GOP lawmaker introduced a resolution to censure Rep. Al Green for his outburst during President Trump's speech to a joint session of Congress.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->political process",
+        "Politics->political parties and movements",
+        "Crime, Law and Justice->law",
+        "Crime, Law and Justice->court",
+        "Social Issue->discrimination",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+        "https://thehill.com/homenews/house/5177974-censure-resolution-al-green/",
+        "https://twitter.com/MSNBC/status/1897112392045072491",
+        "https://twitter.com/gardnerakayla/status/1897116049088372871",
+        "https://thehill.com/homenews/house/5177974-censure-resolution-al-green",
+        "https://www.twitter.com/gardnerakayla/status/1897116049088372871",
+        "https://www.thehill.com/homenews/house/5177974-censure-resolution-al-green/",
+        "https://www.twitter.com/MSNBC/status/1897112392045072491"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Al Green",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dan Newhouse",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "House",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ]
+    },
+    "rating": null,
+    "crawled": "2025-03-06T00:24:41.660+02:00",
+    "updated": "2025-03-06T04:20:37.862+02:00"
+}

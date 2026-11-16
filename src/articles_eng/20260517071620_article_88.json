@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "76c85fa25742fd385782ec66409b63832e10c309",
+        "url": "https://www.newsbreak.com/news/4647095174104-columbia-businesses-prepare-for-summer-student-migration",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/columbia-mo",
+        "site_categories": [
+            "under_construction",
+            "human interest",
+            "sport",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "politics",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Columbia, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Columbia businesses prepare for summer student migration - NewsBreak",
+        "title_full": "Columbia businesses prepare for summer student migration - NewsBreak",
+        "published": "2026-05-13T00:47:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/10S4uc_1BKWCkTz00",
+        "performance_score": 0,
+        "domain_rank": 2965,
+        "domain_rank_updated": "2026-05-11T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "76c85fa25742fd385782ec66409b63832e10c309",
+    "url": "https://www.newsbreak.com/news/4647095174104-columbia-businesses-prepare-for-summer-student-migration",
+    "ord_in_thread": 0,
+    "author": "KBIA",
+    "published": "2026-05-13T00:47:00.000+03:00",
+    "title": "Columbia businesses prepare for summer student migration - NewsBreak",
+    "text": "By KBIA ,\n1 days ago Even though the University of Missouri’s full-time enrollment has fallen by about one thousand students in the past ten years, local businesses say there’s only been a small drop-off in their summer revenue. Goldie’s Bagels owner Amanda Rainey said her shop loses both staff and customers, but tries to make up the losses by offering different menu items to get people in the door. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance",
+        "Education"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business and market analysis",
+        "Education->college and university",
+        "Education->students"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Amanda Rainey",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Columbia",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "COLM",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "University of Missouri",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "KBIA",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Columbia"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-14T07:19:29.446+03:00",
+    "updated": "2026-05-14T07:24:23.000+03:00"
+}

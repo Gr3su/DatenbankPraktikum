@@ -1,0 +1,162 @@
+{
+    "thread": {
+        "uuid": "e92166a33b8b4aca3dfae19f0d9577ba2940c8de",
+        "url": "https://www.newsbreak.com/247sports-510071/4510917291819-virginia-s-johann-gr-nloh-has-career-night-against-nc-state",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/raleigh-nc",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Raleigh, NC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Virginia's Johann Grünloh has career night against NC State - NewsBreak",
+        "title_full": "Virginia's Johann Grünloh has career night against NC State - NewsBreak",
+        "published": "2026-02-25T13:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3UyU0i_199IcbUv00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-22T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e92166a33b8b4aca3dfae19f0d9577ba2940c8de",
+    "url": "https://www.newsbreak.com/247sports-510071/4510917291819-virginia-s-johann-gr-nloh-has-career-night-against-nc-state",
+    "ord_in_thread": 0,
+    "author": "247Sports",
+    "published": "2026-02-25T13:18:00.000+02:00",
+    "title": "Virginia's Johann Grünloh has career night against NC State - NewsBreak",
+    "text": "18 hours ago The UVA freshman moves into a tie for 7th most in a single game with Jason Clark, Chris Alexander and some guy named Ralph Sampson. Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sports record",
+        "Sport->basketball",
+        "Sport->sport achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Johann Grünloh",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Chris",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Jason Clark",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Ralph Sampson",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alexander",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NC State",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Virginia",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "UVA",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-26T07:30:01.432+02:00",
+    "updated": "2026-02-26T07:33:14.000+02:00"
+}

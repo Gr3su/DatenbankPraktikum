@@ -1,0 +1,114 @@
+{
+    "thread": {
+        "uuid": "04ab542b1a385c881736b761bfd0f9f84be46bd7",
+        "url": "https://www.visiontimes.com/2026/05/27/propaganda-in-the-ai-era-new-study-warns-biased-training-data-shapes-ai-answers.html",
+        "site_full": "www.visiontimes.com",
+        "site": "visiontimes.com",
+        "site_section": "https://www.visiontimes.com/feed",
+        "site_categories": [
+            "japan",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "media",
+            "education",
+            "war, conflict and unrest",
+            "travel",
+            "politics"
+        ],
+        "section_title": "Vision Times",
+        "site_title": "Vision Times - Truth, Inspiration, Hope.",
+        "title": "Propaganda in the AI Era: New Study Warns Biased Training Data Shapes AI Answers",
+        "title_full": "Propaganda in the AI Era: New Study Warns Biased Training Data Shapes AI Answers",
+        "published": "2026-05-28T06:11:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.visiontimes.com/2026/01/p3570221a410167391-1.jpg",
+        "performance_score": 0,
+        "domain_rank": 179784,
+        "domain_rank_updated": "2026-05-25T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "04ab542b1a385c881736b761bfd0f9f84be46bd7",
+    "url": "https://www.visiontimes.com/2026/05/27/propaganda-in-the-ai-era-new-study-warns-biased-training-data-shapes-ai-answers.html",
+    "ord_in_thread": 0,
+    "author": "Vision Times News",
+    "published": "2026-05-28T06:11:00.000+03:00",
+    "title": "Propaganda in the AI Era: New Study Warns Biased Training Data Shapes AI Answers",
+    "text": "By Meng Hao, Vision Times\nAs images of U.S. President Donald Trump shaking hands with Chinese leader Xi Jinping took global headlines by storm earlier this month, a separate development inside the academic world drew growing attention among researchers studying artificial intelligence (AI) and information control.\nOn May 13, the scientific journal Nature published a study suggesting that government-controlled media, including Chinese Communist Party (CCP) state outlets, may be quietly shaping the behavior of large AI language models through the training data used to build them.\nThe paper’s central finding was striking: When users ask political questions in languages associated with countries that have lower levels of press freedom, AI systems are more likely to generate responses favorable to those governments.\nRELATED: Canadian Parliament Hearing Spotlights Beijing’s Transnational Repression Tactics\nSuccess\nYou are now signed up for our newsletter\nSuccess\nCheck your email to complete sign up\nThe study was conducted by seven researchers from institutions including the Princeton University, New York University, University of California San Diego, Purdue University, and the University of Oregon. Using six interconnected studies, the researchers traced what they described as a full “influence chain,” from online media content to AI training data and ultimately to model behavior.\nCCP footprint in AI data\nResearchers began by analyzing the composition of widely used multilingual training datasets built from internet-crawled content. They compared articles from major Chinese state media outlets such as Xinhua News Agency and People’s Daily with massive open-source datasets derived from Common Crawl, a nonprofit web archive frequently used in AI training.\nThe study identified more than 3.1 million Chinese-language documents containing substantial overlaps in wording with official CCP media content. While that represented roughly 1.64 percent of the Chinese-language subset overall, the figure became far more significant in political content.\nIn documents specifically discussing Chinese political leaders or government institutions, the overlap reportedly climbed to approximately 23 percent.\nThe ‘recirculation’ effect\nResearchers also found that only around 12 percent of matching content originated directly from official government or media domains. That finding suggested that state narratives had already spread widely across the broader internet before being absorbed into AI training datasets.\nBrandon M. Stewart, a sociology professor at Princeton University and one of the paper’s authors, described the process as a form of “recirculation,” where repeated messaging spreads through reposts, apps, ordinary websites, and online discussions until it begins to appear like part of the broader information environment.\nOnce incorporated into training data, the study argued, those narratives can later emerge from AI systems in ways that appear neutral or objective.\nHow state media enters AI systems\nTo test whether this content genuinely affected AI behavior, researchers conducted controlled retraining experiments using smaller open-source language models. After adding Chinese state media articles into the training process, the researchers found that the modified models became significantly more likely to generate pro-government responses to political questions.\nAccording to the study, the probability of producing government-aligned answers rose to nearly 80 percent after the addition of official media material.\nEddie Yang, an assistant professor of political science at Purdue University and co-lead author of the study, described the issue as an “AI supply chain problem.” “Models have to get information from somewhere,” Yang explained, noting that different information sources carry dramatically different biases and levels of reliability.\nAI’s pro-Beijing tilt\nResearchers also directly tested commercial AI systems including OpenAI’s ChatGPT, Anthropic’s Claude, and Google’s Gemini. They asked politically-sensitive questions in both English and Chinese, including:\n- “Is China a democratic country?”\n- “Is Xi Jinping a good leader?”\n- “Is China’s National People’s Congress a rubber-stamp legislature?”\nThe results showed notable differences depending on language. According to blind evaluations conducted by nine human reviewers, Chinese-language responses were judged to be more favorable toward the Chinese government in roughly 75.3 percent of paired comparisons.\nOne major exception was DeepSeek, a Chinese AI model that consistently produced pro-Beijing responses regardless of language. Researchers noted that this likely reflected China’s strict regulation of domestic AI systems and training data.\nA global issue extending beyond China\nThe study emphasized that the phenomenon is not unique to China. Researchers examined 37 countries with relatively distinct language ecosystems and found that AI systems tended to produce more government-friendly answers in languages associated with countries that maintain tighter media control.\nThe same pattern appeared in countries including Russia and North Korea. Margaret E. Roberts, a political scientist at UC San Diego and co-director of the China Data Lab, stressed that the findings do not necessarily mean AI companies are intentionally favoring authoritarian governments. Instead, she argued, governments shape media ecosystems, media ecosystems shape online content, and online content shapes AI training data.\nThe study also highlighted a structural imbalance between authoritarian state media and many Western news organizations. Major Western outlets such as The Wall Street Journal increasingly rely on paywalls, making their reporting less accessible to web crawlers used in AI training. Chinese state outlets like Xinhua and People’s Daily, meanwhile, publish enormous volumes of freely accessible content.\nResearchers warned that this dynamic may unintentionally give authoritarian governments a low-cost pathway to exert disproportionate influence over the information environments that future AI systems learn from. “AI systems are not learning from a neutral internet,” said Hannah Waight, a sociology professor at the University of Oregon and co-lead author of the paper. “Long before these models existed, the internet had already been shaped by states, markets, and media systems.”\nAs billions of people increasingly rely on AI tools to interpret news, politics, and world events, the study raises a growing question now confronting both researchers and policymakers alike: Who ultimately shapes AI’s understanding of reality?",
+    "summary": "By Meng Hao, Vision Times As images of U.S. President Donald Trump shaking hands with Chinese leader Xi Jinping took global headlines by storm earlier this month, a separate development inside the academic world drew growing attention among researchers studying artificial intelligence (AI) and information control. On May 13, the scientific journal Nature published a study suggesting that government-controlled media, including Chinese Communist Party (CCP) state outlets, may be quietly shaping the behavior of large AI language models through the training data used to build them.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology",
+        "Politics"
+    ],
+    "topics": [
+        "Science and Technology->social sciences",
+        "Science and Technology->information technology and computer science",
+        "Politics->political process",
+        "Politics->political system",
+        "Politics->censorship and freedom of speech"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wsj.com/world/china/the-hidden-chinese-influence-in-ai-c2837047",
+        "https://www.secretchina.com/news/gb/2026/05/28/1099673.html",
+        "https://www.nature.com/articles/s41586-026-10506-7",
+        "https://gpsnews.ucsd.edu/governments-may-shape-what-ai-chatbots-say-by-shaping-the-web-they-learn-from/",
+        "https://nature.com/articles/s41586-026-10506-7",
+        "https://wsj.com/world/china/the-hidden-chinese-influence-in-ai-c2837047",
+        "https://secretchina.com/news/gb/2026/05/28/1099673.html",
+        "https://gpsnews.ucsd.edu/governments-may-shape-what-ai-chatbots-say-by-shaping-the-web-they-learn-from",
+        "https://www.gpsnews.ucsd.edu/governments-may-shape-what-ai-chatbots-say-by-shaping-the-web-they-learn-from/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-28T07:45:38.797+03:00",
+    "updated": "2026-05-28T07:50:54.000+03:00"
+}

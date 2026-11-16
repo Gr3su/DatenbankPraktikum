@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "0c2b521a417e161ed43bb20e34fb3e5f442a2463",
+        "url": "https://www.newsbreak.com/news/4522878813344-sterling-and-rock-falls-fire-training-together-gets-closer",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/mount-carroll-il",
+        "site_categories": [
+            "sport",
+            "human interest",
+            "politics",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "economy, business and finance",
+            "under_construction",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Mount Carroll, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Sterling and Rock Falls Fire Training Together Gets Closer - NewsBreak",
+        "title_full": "Sterling and Rock Falls Fire Training Together Gets Closer - NewsBreak",
+        "published": "2026-03-04T17:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/31viZq_19LLwhKx00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0c2b521a417e161ed43bb20e34fb3e5f442a2463",
+    "url": "https://www.newsbreak.com/news/4522878813344-sterling-and-rock-falls-fire-training-together-gets-closer",
+    "ord_in_thread": 0,
+    "author": "Tom Katz",
+    "published": "2026-03-04T17:55:00.000+02:00",
+    "title": "Sterling and Rock Falls Fire Training Together Gets Closer - NewsBreak",
+    "text": "By Tom Katz ,\n14 hours ago The Sterling and Rock Falls fire departments have been awarded an $825,000 federal grant to construct a regional fire training tower. This initiative comes in response to the tragic 2021 line-of-duty death of Sterling Lt. Garrett Ramos. The planned facility will provide realistic, scenario-based training to better prepare firefighters for emergencies. Officials say the tower will enhance safety and effectiveness across the region. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tom Katz",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sterling",
+                "sentiment": "none"
+            },
+            {
+                "name": "Garrett Ramos",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Sterling",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Lake Carroll",
+                "Mount Carroll"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-05T07:26:31.290+02:00",
+    "updated": "2026-03-05T08:43:15.994+02:00"
+}

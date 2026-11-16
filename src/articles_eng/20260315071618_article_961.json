@@ -1,0 +1,152 @@
+{
+    "thread": {
+        "uuid": "853c322e0735b399e47ce24c78a9090afdf41bbc",
+        "url": "https://southafricatoday.net/south-africa-news/gauteng/sandf-troops-deploy-in-johannesburgs-riverlea-to-combat-gang-violence-and-illegal-mining/",
+        "site_full": "southafricatoday.net",
+        "site": "southafricatoday.net",
+        "site_section": "https://southafricatoday.net/",
+        "site_categories": [
+            "africa",
+            "media",
+            "travel"
+        ],
+        "section_title": "South Africa Today",
+        "site_title": "South Africa Today",
+        "title": "SANDF Troops Deploy in Johannesburg's Riverlea to Combat Gang Violence and Illegal Mining",
+        "title_full": "SANDF Troops Deploy in Johannesburg's Riverlea to Combat Gang Violence and Illegal Mining",
+        "published": "2026-03-12T06:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "ZA",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 393957,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "853c322e0735b399e47ce24c78a9090afdf41bbc",
+    "url": "https://southafricatoday.net/south-africa-news/gauteng/sandf-troops-deploy-in-johannesburgs-riverlea-to-combat-gang-violence-and-illegal-mining/",
+    "ord_in_thread": 0,
+    "author": "SAT - International",
+    "published": "2026-03-12T06:55:00.000+02:00",
+    "title": "SANDF Troops Deploy in Johannesburg's Riverlea to Combat Gang Violence and Illegal Mining",
+    "text": "Members of the South African National Defence Force (SANDF) arrived in Riverlea, a suburb in Johannesburg, as part of a broader deployment to support police efforts against escalating gang violence and illegal mining activities.\nThe move follows President Cyril Ramaphosa’s announcement in his State of the Nation Address last month, where he stated that the military would be deployed in hotspots plagued by these issues to assist the South African Police Service (SAPS). SAPS has faced challenges in enforcing law and order in such areas nationwide.\nThe SANDF deployment in Gauteng, including Johannesburg suburbs like Riverlea, Eldorado Park, and Westbury, is a temporary stabilization mission. It is expected to conclude on March 31 next year, focusing on supporting police operations in crime-affected communities.\nOn the ground in Riverlea, over a hundred soldiers were observed patrolling streets on foot, having departed from Eldorado Park earlier. They entered and exited homes and flats in areas known for serious crimes, including murder, sexual abuse, and armed robbery. The soldiers covered significant distances during patrols and were seen moving to subsequent locations.\nLocal residents expressed relief and satisfaction at the military presence. One resident told reporters they had long called for the army’s intervention due to persistent gangsterism and “zama zamas” (illegal miners), adding that the assurance of troops remaining until next year brought hope. Community members described the sight of soldiers as a welcome change from regular law enforcement, noting a sense of discomfort among criminals but improved safety for residents.\nThe patrols have covered multiple areas since the morning, with troops spending about 20 minutes in some spots before proceeding. Residents in nearby Eldorado Park similarly welcomed the presence, marking it as the first time many had seen the army in their neighborhoods, and expressed hopes for continued patrols to enhance security.\nThis deployment aligns with recent discussions on the issue. Over the weekend, Acting Police Minister Firoz Cachalia visited Westbury, another crime-ridden area, where he was questioned about the timeline for military involvement. He emphasized the need for training before soldiers could engage in civilian areas.\nThe operations aim to address overwhelming cases of gangsterism, shootings, and related violence that have burdened SAPS and local authorities. Similar challenges, including mass shootings, have been reported in other regions like Harare in the Western Cape.\nWhile some residents noted initial unease at seeing armed soldiers rather than familiar police or metro officers, many viewed this as beneficial for deterring criminal elements and restoring order. Authorities have indicated that the deployment is part of a broader national effort to tackle organized crime in affected provinces.",
+    "summary": "Members of the South African National Defence Force (SANDF) arrived in Riverlea, a suburb in Johannesburg, as part of a broader deployment to support police efforts against escalating gang violence and illegal mining activities. Community members described the sight of soldiers as a welcome change from regular law enforcement, noting a sense of discomfort among criminals but improved safety for residents. Residents in nearby Eldorado Park similarly welcomed the presence, marking it as the first time many had seen the army in their neighborhoods, and expressed hopes for continued patrols to enhance security.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.youtube.com/embed/ZSta6TfNQNA?feature=oembed&#038;enablejsapi=1",
+        "https://youtube.com/embed/ZSta6TfNQNA?feature=oembed&#038;enablejsapi=1",
+        "https://www.youtube.com/embed/ZSta6TfNQNA"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Cyril Ramaphosa",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Riverlea",
+                "sentiment": "none"
+            },
+            {
+                "name": "Johannesburg",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gauteng",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "South African National Defence Force",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "SANDF",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "SAPS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "SAP",
+                        "exchange": "XTRA"
+                    }
+                ]
+            },
+            {
+                "name": "South African Police Service",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "853c322e0735b399e47ce24c78a9090afdf41bbc",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-12T07:28:37.801+02:00",
+    "updated": "2026-03-12T07:28:37.801+02:00"
+}

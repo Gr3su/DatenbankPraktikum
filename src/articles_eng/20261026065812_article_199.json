@@ -1,0 +1,150 @@
+{
+    "thread": {
+        "uuid": "8ac80098bc172ccbac89b3a23baff9ab2a08bd39",
+        "url": "https://www.fox9.com/video/fmc-8f95zrofoo0k7rrv",
+        "site_full": "www.fox9.com",
+        "site": "fox9.com",
+        "site_section": "https://www.fox9.com/",
+        "site_categories": [
+            "economy, business and finance",
+            "media",
+            "sport",
+            "politics",
+            "social issue",
+            "weather",
+            "disaster and accident",
+            "crime, law and justice"
+        ],
+        "section_title": "FOX 9 Minneapolis-St. Paul | Local News, Weather, and Live Streams | KMSP-TV",
+        "site_title": "FOX 9 Minneapolis-St. Paul | Local News, Weather, and Live Streams | KMSP-TV",
+        "title": "Four Minnesota sisters bond through cancer diagnosis, battle",
+        "title_full": "Four Minnesota sisters bond through cancer diagnosis, battle",
+        "published": "2026-10-23T00:48:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/v3rzj4q2y2xlsj7k/1200/630/mpfuxzbbb6hm8sjl.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 32255,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T07:03:35.095+03:00"
+        }
+    },
+    "uuid": "8ac80098bc172ccbac89b3a23baff9ab2a08bd39",
+    "url": "https://www.fox9.com/video/fmc-8f95zrofoo0k7rrv",
+    "ord_in_thread": 0,
+    "author": "no author",
+    "published": "2026-10-23T00:48:00.000+03:00",
+    "title": "Four Minnesota sisters bond through cancer diagnosis, battle",
+    "text": "Four Minnesota sisters bond through cancer diagnosis, battle\nOctober is Breast Cancer Awareness Month, founded in 1985 by the American Cancer Society to encourage routine mammograms. The Tupy sisters, four altogether, have had a breast cancer battle that has tested their strength, deepened their bonds and provided many lessons for others. FOX 9's Kelcey Carlson has the story.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Social Issue"
+    ],
+    "topics": [
+        "Health->cancer",
+        "Social Issue->population and census",
+        "Social Issue->demographics",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tupy",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Kelcey Carlson",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Minnesota",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "American Cancer Society",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "FOX 9",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Lauderdale",
+                "Nassau",
+                "West St. Paul",
+                "St. Paul Park",
+                "Westport",
+                "South St. Paul",
+                "St. Paul",
+                "Minneapolis",
+                "Minnetrista",
+                "Minnesota City",
+                "North St. Paul",
+                "Lexington",
+                "La Prairie",
+                "Dundee",
+                "Foxhome"
+            ],
+            "state": [
+                "Missouri",
+                "Minnesota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:03:35.095+03:00",
+    "updated": "2026-10-23T07:06:30.000+03:00",
+    "related_articles": null
+}

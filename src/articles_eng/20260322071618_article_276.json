@@ -1,0 +1,159 @@
+{
+    "thread": {
+        "uuid": "aea04dc0e82ba2b2ccc3e84ea43b06a3e4f69fb1",
+        "url": "https://www.hindustantimes.com/world-news/iran-strike-world-largest-lng-plant-qatar-makes-trump-restrain-israel-what-just-happened-ras-laffan-101773895293665.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/cities",
+        "site_categories": [
+            "media",
+            "politics",
+            "war, conflict and unrest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice"
+        ],
+        "section_title": "City News: City Latest News, Metro City News Today and Headlines | Hindustan Times",
+        "site_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+        "title": "Iran's strike on world's largest LNG plant in Qatar makes Trump restrain Israel: What just happened | World News",
+        "title_full": "Iran's strike on world's largest LNG plant in Qatar makes Trump restrain Israel: What just happened | World News",
+        "published": "2026-03-19T07:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/03/19/550x309/Trump-10_1773896145934_1773896164135.jpg",
+        "performance_score": 0,
+        "domain_rank": 825,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aea04dc0e82ba2b2ccc3e84ea43b06a3e4f69fb1",
+    "url": "https://www.hindustantimes.com/world-news/iran-strike-world-largest-lng-plant-qatar-makes-trump-restrain-israel-what-just-happened-ras-laffan-101773895293665.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-03-19T07:13:00.000+02:00",
+    "title": "Iran's strike on world's largest LNG plant in Qatar makes Trump restrain Israel: What just happened | World News",
+    "text": "Why did Iran attack Ras Laffan?\nAccording to reports, Iran launched the attack in retaliation for Israeli strikes on its South Pars and Asaluyeh gas fields, a critical part of its energy infrastructure. The strike targeting the world's largest LNG plant also comes after Israel killed three top Iranian officials in two days this week.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->war",
+        "Politics->defence",
+        "Politics->international relations"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Iran",
+                "sentiment": "none"
+            },
+            {
+                "name": "Qatar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ras Laffan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Israel",
+                "sentiment": "none"
+            },
+            {
+                "name": "Asaluyeh",
+                "sentiment": "none"
+            },
+            {
+                "name": "South Pars",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "World News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:21:27.100+02:00",
+    "updated": "2026-03-19T07:26:04.000+02:00"
+}

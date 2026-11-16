@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "624e2eedc80f9fa0def24809b264c6f0a96c3e90",
+        "url": "https://www.newsbreak.com/news/4703778502114-the-eastburn-has-closed-after-18-years",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/wilsonville-or",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "politics",
+            "disaster and accident",
+            "human interest",
+            "under_construction",
+            "economy, business and finance",
+            "sport",
+            "crime, law and justice"
+        ],
+        "section_title": "Wilsonville, OR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "The EastBurn has closed after 18 years - NewsBreak",
+        "title_full": "The EastBurn has closed after 18 years - NewsBreak",
+        "published": "2026-06-11T04:05:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4VLbfp_1CEdTRDD00",
+        "performance_score": 0,
+        "domain_rank": 2951,
+        "domain_rank_updated": "2026-06-08T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "624e2eedc80f9fa0def24809b264c6f0a96c3e90",
+    "url": "https://www.newsbreak.com/news/4703778502114-the-eastburn-has-closed-after-18-years",
+    "ord_in_thread": 0,
+    "author": "Rachel Saslow",
+    "published": "2026-06-11T04:05:00.000+03:00",
+    "title": "The EastBurn has closed after 18 years - NewsBreak",
+    "text": "By Rachel Saslow ,\n3 hours ago The two-floor Portland bar scene staple EastBurn has abruptly closed after 18 years at 1800 E. Burnside St. “Unfortunately, at this time the EastBurn is closed for business,” says the bar’s outgoing voicemail message. Management did not immediately respond to a request for comment on the reasons for the closure. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wweek.com/bars/2026/06/10/the-eastburn-has-closed-after-18-years/",
+        "https://wweek.com/bars/2026/06/10/the-eastburn-has-closed-after-18-years/",
+        "https://www.wweek.com/bars/2026/06/10/the-eastburn-has-closed-after-18-years"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rachel Saslow",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Portland",
+                "sentiment": "none"
+            },
+            {
+                "name": "E. Burnside St",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "EastBurn",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Wilsonville"
+            ],
+            "state": [
+                "Oregon"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-11T07:28:46.209+03:00",
+    "updated": "2026-06-11T07:29:50.000+03:00"
+}

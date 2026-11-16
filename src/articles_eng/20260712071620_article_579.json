@@ -1,0 +1,150 @@
+{
+    "thread": {
+        "uuid": "70fe0111a7d48a3aae3adadc8d81692da79b3d14",
+        "url": "https://www.newsbreak.com/news/4759449083705-three-stokes-students-attend-ryla-at-guilford-college",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/mount-airy-nc",
+        "site_categories": [
+            "social issue",
+            "politics",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "under_construction",
+            "disaster and accident",
+            "arts, culture and entertainment",
+            "sport"
+        ],
+        "section_title": "Mount Airy, NC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Three Stokes students attend RYLA at Guilford College - NewsBreak",
+        "title_full": "Three Stokes students attend RYLA at Guilford College - NewsBreak",
+        "published": "2026-07-09T02:41:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/25Xoys_1D7jRupT00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "70fe0111a7d48a3aae3adadc8d81692da79b3d14",
+    "url": "https://www.newsbreak.com/news/4759449083705-three-stokes-students-attend-ryla-at-guilford-college",
+    "ord_in_thread": 0,
+    "author": "Brandy Phillips-Brandon King Rotary",
+    "published": "2026-07-09T02:41:00.000+03:00",
+    "title": "Three Stokes students attend RYLA at Guilford College - NewsBreak",
+    "text": "By Brandy Phillips-Brandon King Rotary ,\n4 hours ago Three outstanding students from Stokes County recently joined more than 50 high school students from across central North Carolina for the 2026 Rotary Youth Leadership Awards RYLA, a four-day leadership conference held June 17 to 20 at Guilford College in Greensboro. Sponsored by the Rotary Club of King and other... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Education"
+    ],
+    "topics": [
+        "Education->school",
+        "Education->students",
+        "Education->social learning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "http://www.thestokesnews.com/three-stokes-students-attend-ryla-at-guilford-college/article_00c83e5e-5a1d-460d-89f2-698a45de01cf.html",
+        "http://thestokesnews.com/three-stokes-students-attend-ryla-at-guilford-college/article_00c83e5e-5a1d-460d-89f2-698a45de01cf.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brandy Phillips",
+                "sentiment": "positive"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Stokes County",
+                "sentiment": "none"
+            },
+            {
+                "name": "North Carolina",
+                "sentiment": "none"
+            },
+            {
+                "name": "Greensboro",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Brandon King Rotary",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "Guilford College",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Rotary Club of King",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Mount Airy"
+            ],
+            "state": [
+                "North Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:30:18.084+03:00",
+    "updated": "2026-07-09T07:32:58.000+03:00"
+}

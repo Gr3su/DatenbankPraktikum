@@ -1,0 +1,159 @@
+{
+    "thread": {
+        "uuid": "20cf496d15b49b467516149e94e092a165282ac2",
+        "url": "https://www.newsbreak.com/news/4920212149773-man-accused-of-striking-carlos-zapata-with-vehicle-booked-on-attempted-murder-charge",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/fall-river-mills-ca",
+        "site_categories": [
+            "politics",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "human interest",
+            "science and technology",
+            "under_construction",
+            "crime, law and justice",
+            "sport"
+        ],
+        "section_title": "Fall River Mills, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Man accused of striking Carlos Zapata with vehicle booked on attempted murder charge - NewsBreak",
+        "title_full": "Man accused of striking Carlos Zapata with vehicle booked on attempted murder charge - NewsBreak",
+        "published": "2026-10-02T01:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1YAmxq_1FhiiIay00",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:21:16.822+03:00"
+        }
+    },
+    "uuid": "20cf496d15b49b467516149e94e092a165282ac2",
+    "url": "https://www.newsbreak.com/news/4920212149773-man-accused-of-striking-carlos-zapata-with-vehicle-booked-on-attempted-murder-charge",
+    "ord_in_thread": 0,
+    "author": "Adam Robinson",
+    "published": "2026-10-02T01:59:00.000+03:00",
+    "title": "Man accused of striking Carlos Zapata with vehicle booked on attempted murder charge - NewsBreak",
+    "text": "By Adam Robinson ,\n5 hours ago REDDING, Calif. — The man accused of intentionally striking Palo Cedro Rodeo Association member Carlos Zapata with a vehicle was booked into the Shasta County Jail on an attempted murder charge Thursday. Dustin Alan Mingarelli, 47, was released from Napa County Jail at 10:40 a.m. Thursday and later booked... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->assault",
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://krcrtv.com/news/local/man-accused-of-striking-carlos-zapata-with-vehicle-booked-on-attempted-murder-charge",
+        "https://www.krcrtv.com/news/local/man-accused-of-striking-carlos-zapata-with-vehicle-booked-on-attempted-murder-charge"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Palo Cedr",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Carlos Zapata",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Dustin Alan Mingarelli",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Adam Robinson",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Napa County Jail",
+                "sentiment": "none"
+            },
+            {
+                "name": "REDDING",
+                "sentiment": "none"
+            },
+            {
+                "name": "Calif",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shasta County Jail",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Fall River Mills"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:21:16.822+03:00",
+    "updated": "2026-10-02T07:23:23.000+03:00",
+    "related_articles": null
+}

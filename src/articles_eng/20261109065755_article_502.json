@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "5e98350d795a7e14a4b8abd80cad75e48b1ebd56",
+        "url": "https://www.newsbreak.com/bbc-2085458/4989566518739-trump-s-massive-arch-wins-approval-as-protesters-threaten-to-block-it",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/bbc-2085458",
+        "site_categories": [
+            "under_construction",
+            "economy, business and finance",
+            "crime, law and justice",
+            "sport",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "social issue",
+            "politics"
+        ],
+        "section_title": "BBC&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Trump's massive arch wins approval as protesters threaten to block it - NewsBreak",
+        "title_full": "Trump's massive arch wins approval as protesters threaten to block it - NewsBreak",
+        "published": "2026-11-06T06:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0AhxL1_1GobKdSQ00",
+        "performance_score": 0,
+        "domain_rank": 2894,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-11-06T07:12:32.539+02:00"
+        }
+    },
+    "uuid": "5e98350d795a7e14a4b8abd80cad75e48b1ebd56",
+    "url": "https://www.newsbreak.com/bbc-2085458/4989566518739-trump-s-massive-arch-wins-approval-as-protesters-threaten-to-block-it",
+    "ord_in_thread": 0,
+    "author": "Nardine Saad",
+    "published": "2026-11-06T06:07:00.000+02:00",
+    "title": "Trump's massive arch wins approval as protesters threaten to block it - NewsBreak",
+    "text": "By Nardine Saad Isabella Jewell ,\n1 hours ago\nThe Trump administration says construction on the 250-foot arch, which is facing several legal challenges, could begin as early as this week.\nRead full article\nAdd to Preferred Sources\n6",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government policy",
+        "Politics->government",
+        "Politics->cultural policies"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.google.com/preferences/source?q=newsbreak.com",
+        "https://www.bbc.com/news/articles/cq99zd93ryvko?xtor=AL-72-%5Bpartner%5D-%5Bnewsbreak.com%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "https://www.gstatic.com/images/branding/productlogos/googleg_gradient/v1/24px.svg",
+        "https://gstatic.com/images/branding/productlogos/googleg_gradient/v1/24px.svg",
+        "https://www.bbc.com/news/articles/cq99zd93ryvko",
+        "https://google.com/preferences/source?q=newsbreak.com",
+        "https://bbc.com/news/articles/cq99zd93ryvko?xtor=AL-72-%5Bpartner%5D-%5Bnewsbreak.com%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "https://www.google.com/preferences/source"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhaha.9507351f.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flove.1014aed4.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fangry.da7a9102.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Nardine Saad",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Isabella Jewell",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-11-06T07:12:32.539+02:00",
+    "updated": "2026-11-06T07:14:46.000+02:00",
+    "related_articles": null
+}

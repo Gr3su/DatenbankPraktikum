@@ -1,0 +1,191 @@
+{
+    "thread": {
+        "uuid": "aa458861dc2bde22e5f4df0922eb65bfa8c04bae",
+        "url": "https://www.newsbreak.com/news/4571142588117-axtell-and-wilcox-hildreth-compete-at-falcon-invite",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/oxford-ne",
+        "site_categories": [
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "crime, law and justice",
+            "sport",
+            "human interest",
+            "politics",
+            "under_construction"
+        ],
+        "section_title": "Oxford, NE Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Axtell and Wilcox-Hildreth Compete at Falcon Invite - NewsBreak",
+        "title_full": "Axtell and Wilcox-Hildreth Compete at Falcon Invite - NewsBreak",
+        "published": "2026-04-01T19:47:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3gLKOf_1A6zjVT000",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aa458861dc2bde22e5f4df0922eb65bfa8c04bae",
+    "url": "https://www.newsbreak.com/news/4571142588117-axtell-and-wilcox-hildreth-compete-at-falcon-invite",
+    "ord_in_thread": 0,
+    "author": "Roger Hansen",
+    "published": "2026-04-01T19:47:00.000+03:00",
+    "title": "Axtell and Wilcox-Hildreth Compete at Falcon Invite - NewsBreak",
+    "text": "By Roger Hansen ,\n11 hours ago Twelve schools competed at the Falcon Invite in Wilcox on March 27th. Axtell’s girls won the meet and the Wilcox-Hildreth girls were 4th. On the boy’s side, the Falcons were 3rd and the Cats were 10th. Boys’ team scores were Loomis 88, Elm Creek 70, Wil-Hil 61, Amherst... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Roger Hansen",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Wilcox",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Hildreth",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Wilcox",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Wil - Hil",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Cats",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Axtell",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Amherst",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Falcons",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Elm Creek",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Loomis",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Wilcox",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Oxford"
+            ],
+            "state": [
+                "Nebraska"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-02T07:29:15.816+03:00",
+    "updated": "2026-04-02T07:35:12.000+03:00"
+}

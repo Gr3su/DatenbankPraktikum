@@ -1,0 +1,140 @@
+{
+    "thread": {
+        "uuid": "705ad3e1e35bf25a269d5122f77bf697c083684c",
+        "url": "https://www.newsbreak.com/news/4838378397022-clarendon-county-administration-responds-to-pushback-on-proposed-data-center",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/manning-sc",
+        "site_categories": [
+            "human interest",
+            "social issue",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "science and technology",
+            "sport",
+            "politics",
+            "crime, law and justice",
+            "under_construction",
+            "economy, business and finance"
+        ],
+        "section_title": "Manning, SC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Clarendon County administration responds to pushback on proposed data center - NewsBreak",
+        "title_full": "Clarendon County administration responds to pushback on proposed data center - NewsBreak",
+        "published": "2026-08-19T23:32:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1uykvH_1EOFtp7b00",
+        "performance_score": 0,
+        "domain_rank": 3070,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "705ad3e1e35bf25a269d5122f77bf697c083684c",
+    "url": "https://www.newsbreak.com/news/4838378397022-clarendon-county-administration-responds-to-pushback-on-proposed-data-center",
+    "ord_in_thread": 0,
+    "author": "Elizabeth West",
+    "published": "2026-08-19T23:32:00.000+03:00",
+    "title": "Clarendon County administration responds to pushback on proposed data center - NewsBreak",
+    "text": "By Elizabeth West ,\n7 hours ago CLARENDON COUNTY, S.C. (WIS) - Clarendon County leaders took to social media Wednesday to address concerns and questions about a proposed data center for the area. The county said that while plans for a data center are not official, Santee Electric has entered a contract with a data center to potentially secure a building at the Ram Bay Industrial Park. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Social Issue"
+    ],
+    "topics": [
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wistv.com/2026/08/19/clarendon-county-administration-responds-pushback-proposed-data-center/",
+        "https://www.wistv.com/2026/08/19/clarendon-county-administration-responds-pushback-proposed-data-center",
+        "https://wistv.com/2026/08/19/clarendon-county-administration-responds-pushback-proposed-data-center/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Elizabeth West",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Clarendon County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ram Bay Industrial Park",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Santee Electric",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Manning"
+            ],
+            "state": [
+                "South Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:15:54.214+03:00",
+    "updated": "2026-08-20T07:19:25.000+03:00"
+}

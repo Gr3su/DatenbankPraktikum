@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "1bb2ac0870d7713f8a7df6137dc4273e79a064a3",
+        "url": "https://www.newsbreak.com/news/4571456840547-ihssa-performers-lost-in-uni-buildings",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/hazleton-ia",
+        "site_categories": [
+            "economy, business and finance",
+            "under_construction",
+            "human interest",
+            "sport",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "Hazleton, IA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "IHSSA Performers Lost In UNI Buildings - NewsBreak",
+        "title_full": "IHSSA Performers Lost In UNI Buildings - NewsBreak",
+        "published": "2026-04-01T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/45R2kv_1A7IgHBp00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1bb2ac0870d7713f8a7df6137dc4273e79a064a3",
+    "url": "https://www.newsbreak.com/news/4571456840547-ihssa-performers-lost-in-uni-buildings",
+    "ord_in_thread": 0,
+    "author": "Tequila Mockingbird",
+    "published": "2026-04-01T07:00:00.000+03:00",
+    "title": "IHSSA Performers Lost In UNI Buildings - NewsBreak",
+    "text": "By Tequila Mockingbird ,\n1 days ago This past Monday, the University of Northern Iowa hosted the 49th Annual Individual All-State Festival, where high school students nominated for their performances at State can showcase their talents to critics, coaches, and students across Iowa. This year, over two hundred high schools attended from four districts in Iowa. With... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Education"
+    ],
+    "topics": [
+        "Education->students",
+        "Education->school"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Iowa",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "University of Northern Iowa",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "IHSSA",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "State",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "1bb2ac0870d7713f8a7df6137dc4273e79a064a3",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Hazleton"
+            ],
+            "state": [
+                "Iowa"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-02T07:17:39.790+03:00",
+    "updated": "2026-04-02T07:21:21.000+03:00"
+}

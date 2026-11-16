@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "b396073b2510e096bd90fddb32058d2092c6739f",
+        "url": "https://arnoldkling.substack.com/p/there-is-no-ai-in-team",
+        "site_full": "arnoldkling.substack.com",
+        "site": "substack.com",
+        "site_section": "https://hn.algolia.com/latest.atom",
+        "site_categories": [
+            "lifestyle and leisure",
+            "politics",
+            "science and technology"
+        ],
+        "section_title": "HN's home page",
+        "site_title": "Substack - A new economic engine for culture",
+        "title": "There is no AI in Team",
+        "title_full": "There is no AI in Team",
+        "published": "2026-07-16T07:10:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://substackcdn.com/image/fetch/$s_!ZKm_!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Farnoldkling.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1569313941%26version%3D9",
+        "performance_score": 0,
+        "domain_rank": 459,
+        "domain_rank_updated": null,
+        "licensing_agency": [
+            "NLA"
+        ],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b396073b2510e096bd90fddb32058d2092c6739f",
+    "url": "https://arnoldkling.substack.com/p/there-is-no-ai-in-team",
+    "ord_in_thread": 0,
+    "author": "paulpauper",
+    "published": "2026-07-16T07:10:00.000+03:00",
+    "title": "There is no AI in Team",
+    "text": "There is no AI in Team\nWhen will team apps like Slack go away?\nOne of the biggest advantages of AI will be that it lets companies get further before they cross the lines (at about 10 and about 150 people) beyond which groups become less productive.\nPointer from Zvi Mowshowitz.\nOne of the biggest challenges in white-collar work is coordinating with other people. Working in teams is hard.\nWorking in really large organizations (above the Dunbar number of 150) is even harder. That is the point at which you have to install formal organizational tools, including organization charts and employee manuals.\nOne potential benefit of AI is that will enable a reconfiguration:\nInstead of 10 humans working together, a team will consist of one human plus AI\nCompanies are acting as if this vision is not going to be realized. Anthropic just announced Claude tag.\nClaude Tag is a new way for teams to work with Claude.\nWe’re starting on Slack, which Claude can join as a team member. Grant Claude access to selected channels, and connect it to whichever tools, data—and even codebases—you choose. Then, anyone in the channel can tag @Claude in, and delegate tasks to it while they focus on other work. Claude builds context by remembering relevant information from the channels it’s in, and can plan out tasks to complete in the future.\nSlack is old software, built for the era of teams. If you want people to coordinate better, supposedly you put them on Slack. But instead, why not get rid of the need for coordination?\nAfter its IPO, SpaceX decided to buy Cursor. Cursor is built on VS Code, a legacy software development tool that was built when large software projects were handled by teams. The functions that a team badly needs, such as elaborate version control, are not as important when a project can be handled by a lone software engineer.\nIn software, teams are inefficient. Fifty years ago, Frederick Brooks pointed out in The Mythical Man-Month that expecting to speed up software development by adding more staff was like expecting to gestate a baby in one month by using nine women. Communication among multiple coders takes up more time and effort with each additional person you put on the project.\nExperienced software developers are used to working in teams. They have gotten accustomed to relying on Cursor. But at some point, we will see the emergence of software developers who are used to working alone. Cursor appeals to software engineers who are used to working without AI and who want to be able to see the code. My prediction is that in a few years the best software engineers will trust the best coding AI’s Instead of Cursor, what will ultimately emerge are tools that optimize for communication between a lone developer and AI.\nErnie Tedeschi, Marisa Rama, and Chris Cruikshank write,\nThis post advances three related arguments. First, solopreneurship is growing faster than employer-business formation, and the acceleration is validated by multiple independent data sources, making it unlikely to be driven by a fraud wave. Second, both the number and share of solopreneurs reaching meaningful income thresholds is rising. And third, early signals indicate that AI is filling the capability gaps that once made hiring necessary—and doing so fast enough to show up in the income distribution.\nPointer from Alex Tabarrok.\nThe solopreneur probably does not need Cursor, although he or she may use it until a more appropriate tool comes along. And for sure the solopreneur does not need Slack.",
+    "summary": "Claude builds context by remembering relevant information from the channels it’s in, and can plan out tasks to complete in the future. The functions that a team badly needs, such as elaborate version control, are not as important when a project can be handled by a lone software engineer. Ernie Tedeschi, Marisa Rama, and Chris Cruikshank write, This post advances three related arguments. First, solopreneurship is growing faster than employer-business formation, and the acceleration is validated by multiple independent data sources, making it unlikely to be driven by a fraud wave.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government policy",
+        "Politics->cultural policies",
+        "Politics->government"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.stripeeconomics.com/p/the-age-of-the-solopreneur",
+        "https://marginalrevolution.com/marginalrevolution/2026/06/more-firms-more-dynamism.html",
+        "https://stripeeconomics.com/p/the-age-of-the-solopreneur",
+        "https://www.marginalrevolution.com/marginalrevolution/2026/06/more-firms-more-dynamism.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Zvi Mowshowitz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dunbar",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:20:01.809+03:00",
+    "updated": "2026-07-16T07:30:49.000+03:00"
+}

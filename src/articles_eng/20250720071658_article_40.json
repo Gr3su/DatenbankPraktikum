@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "1fd41d6797b54082b8c89b9ff4cb215a34344ca8",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4113346805571-severe-thunderstorm-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "published": "2025-07-17T01:56:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/423Kfr_12nhnZj300",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1fd41d6797b54082b8c89b9ff4cb215a34344ca8",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4113346805571-severe-thunderstorm-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-07-17T01:56:00.000+03:00",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here SVRDDC The National Weather Service in Dodge City has issued a * Severe Thunderstorm Warning for... Southeastern Hamilton County in southwestern Kansas... Southwestern Kearny County in southwestern Kansas... Northwestern Grant County in southwestern Kansas... Northeastern Stanton County in southwestern Kansas... * Until 1145 PM CDT/1045 PM MDT/. * At 1056 PM CDT/956 PM MDT/, severe thunderstorms were located along a line extending from near Syracuse to near Johnson City, moving northeast at 20 mph. HAZARD...60 mph wind gusts and penny size hail. SOURCE...Radar indicated. IMPACT...Expect damage to roofs, siding, and trees. * Severe thunderstorms will be near... Big Bow around 1115 PM CDT. Other locations in the path of these severe thunderstorms include Kendall.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Disaster and Accident->natural disaster",
+        "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.44c83973c4edd91a900154766e4ead29b6597e12.001.1",
+        "https://alerts.weather.gov/search",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.44c83973c4edd91a900154766e4ead29b6597e12.001.1"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:16:48.072+03:00",
+    "updated": "2025-07-17T04:22:35.000+00:00"
+}

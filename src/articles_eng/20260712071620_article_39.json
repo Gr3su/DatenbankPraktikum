@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "cf4b81a652d222a44ac955ea56e447bb6c25f457",
+        "url": "https://www.newsbreak.com/news/4759572008807-80-million-approved-for-interstate-49-widening-highway-58-bridge-rebuild-in-cass-county-missouri",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/garden-city-mo",
+        "site_categories": [
+            "under_construction",
+            "social issue",
+            "disaster and accident",
+            "crime, law and justice",
+            "sport",
+            "lifestyle and leisure",
+            "politics",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "human interest"
+        ],
+        "section_title": "Garden City, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "$80 million approved for Interstate 49 widening, Highway 58 bridge rebuild in Cass County, Missouri - NewsBreak",
+        "title_full": "$80 million approved for Interstate 49 widening, Highway 58 bridge rebuild in Cass County, Missouri - NewsBreak",
+        "published": "2026-07-09T04:38:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1pqgqY_1D7rFW7Z00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cf4b81a652d222a44ac955ea56e447bb6c25f457",
+    "url": "https://www.newsbreak.com/news/4759572008807-80-million-approved-for-interstate-49-widening-highway-58-bridge-rebuild-in-cass-county-missouri",
+    "ord_in_thread": 0,
+    "author": "Ryan Gamboa",
+    "published": "2026-07-09T04:38:00.000+03:00",
+    "title": "$80 million approved for Interstate 49 widening, Highway 58 bridge rebuild in Cass County, Missouri - NewsBreak",
+    "text": "By Ryan Gamboa ,\n2 hours ago — Drivers and Uber operators along Interstate 49 in Cass County have long complained about congestion on the corridor. Last week, the Missouri Highways and Transportation Commission approved a funding commitment that moves a major expansion project closer to reality. The commission approved five years of funding for the Statewide... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance",
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->construction and property",
+        "Economy, Business and Finance->economy",
+        "Lifestyle and Leisure->leisure"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kshb.com/news/local-news/missouri/cass-county/80-million-approved-for-interstate-49-widening-highway-58-bridge-rebuild-in-cass-county-missouri",
+        "https://kshb.com/news/local-news/missouri/cass-county/80-million-approved-for-interstate-49-widening-highway-58-bridge-rebuild-in-cass-county-missouri"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ryan Gamboa",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Missouri",
+                "sentiment": "none"
+            },
+            {
+                "name": "Interstate",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cass County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Uber",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "UBER",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Missouri Highways and Transportation Commission",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Garden City"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:17:55.043+03:00",
+    "updated": "2026-07-09T07:26:53.000+03:00"
+}

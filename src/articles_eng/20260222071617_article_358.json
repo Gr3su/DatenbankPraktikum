@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "d4edbc8df98c91272de01c467216d2b65f309ec6",
+        "url": "https://www.thedailybeast.com/60-minutes-staff-hit-with-another-major-change/",
+        "site_full": "www.thedailybeast.com",
+        "site": "thedailybeast.com",
+        "site_section": "https://www.thedailybeast.com/arc/outboundfeeds/rss/articles",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "law_government_and_politics",
+            "crime, law and justice",
+            "politics",
+            "media",
+            "lifestyle and leisure",
+            "immigration"
+        ],
+        "section_title": "The Daily Beast Latest Articles",
+        "site_title": "The Daily Beast: The Latest in Politics, Media &amp; Entertainment News",
+        "title": "'60 Minutes' Staff Hit With Another Major Change",
+        "title_full": "'60 Minutes' Staff Hit With Another Major Change",
+        "published": "2026-02-19T06:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thedailybeast.com/resizer/v2/HTUMKOW7CZBN3FHRPRCY6E47ZE.jpg?smart=true&amp;auth=828a2798757aa1f4f8a6c1fac979e2774ca15439f37de93da2b489d3141b6338&amp;width=1200&amp;height=630",
+        "performance_score": 1,
+        "domain_rank": 2783,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 15,
+                "comments": 9,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d4edbc8df98c91272de01c467216d2b65f309ec6",
+    "url": "https://www.thedailybeast.com/60-minutes-staff-hit-with-another-major-change/",
+    "ord_in_thread": 0,
+    "author": "Catherine Bouris",
+    "published": "2026-02-19T06:12:00.000+02:00",
+    "title": "'60 Minutes' Staff Hit With Another Major Change",
+    "text": "60 Minutes staff will move out of CBS News’ longtime New York offices, marking yet another significant change to the network in recent weeks.\nCorrespondents and producers working on 60 Minutes will leave their home at 555 West 57th Street and relocate to the CBS Broadcast Center across the street by early 2027, Variety",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+        "Arts, Culture and Entertainment->news media",
+        "Arts, Culture and Entertainment->television"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://variety.com/2026/tv/news/60-minutes-cbs-sports-inside-edition-exit-new-york-offices-1236666926/",
+        "https://www.variety.com/2026/tv/news/60-minutes-cbs-sports-inside-edition-exit-new-york-offices-1236666926/",
+        "https://variety.com/2026/tv/news/60-minutes-cbs-sports-inside-edition-exit-new-york-offices-1236666926"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "New York",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBS News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Variety",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "CBS Broadcast Center",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "d4edbc8df98c91272de01c467216d2b65f309ec6",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_us",
+            "top_news"
+        ],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:24:00.231+02:00",
+    "updated": "2026-02-19T07:30:40.000+02:00"
+}

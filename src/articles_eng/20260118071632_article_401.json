@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "551d092bd9f186a7f68605d35e132f086468221a",
+        "url": "https://www.newsbreak.com/vogue-magazine-519233/4441791986305-beep-beep-how-to-cycle-as-chicly-as-jennifer-lawrence",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/vogue-magazine-519233",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Vogue Magazine&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Beep Beep! How To Cycle as Chicly as Jennifer Lawrence - NewsBreak",
+        "title_full": "Beep Beep! How To Cycle as Chicly as Jennifer Lawrence - NewsBreak",
+        "published": "2026-01-14T16:31:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1C7W86_182eXLmG00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-11T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "551d092bd9f186a7f68605d35e132f086468221a",
+    "url": "https://www.newsbreak.com/vogue-magazine-519233/4441791986305-beep-beep-how-to-cycle-as-chicly-as-jennifer-lawrence",
+    "ord_in_thread": 0,
+    "author": "Anna Cafolla",
+    "published": "2026-01-14T16:31:00.000+02:00",
+    "title": "Beep Beep! How To Cycle as Chicly as Jennifer Lawrence - NewsBreak",
+    "text": "By Anna Cafolla ,\n14 hours ago Looking hot on your Electra e-bike isn’t the first priority when navigating New York City traffic. But behind not swerving into a hot dog stand or faceplanting a Tesla, cycling chicly (and safely!) requires only a little bit of forward planning and perusing your own closet, without the need to forgo your own personal style—just ask Jennifer Lawrence. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->exercise and fitness",
+        "Lifestyle and Leisure->leisure"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jennifer Lawrence",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Anna Cafolla",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "New York City",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Electra",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Tesla",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TSLA",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-15T07:25:48.409+02:00",
+    "updated": "2026-01-15T07:29:29.000+02:00"
+}

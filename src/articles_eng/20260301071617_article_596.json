@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "cabec4751df858a1b33703bc58fb16f7d579f7eb",
+        "url": "https://www.newsbreak.com/news/4509004919620-grimley-capital-buys-north-carolina-asset-for-48m",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/yanceyville-nc?page=2",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Yanceyville, NC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Grimley Capital Buys North Carolina Asset for $48M - NewsBreak",
+        "title_full": "Grimley Capital Buys North Carolina Asset for $48M - NewsBreak",
+        "published": "2026-02-24T11:43:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-22T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cabec4751df858a1b33703bc58fb16f7d579f7eb",
+    "url": "https://www.newsbreak.com/news/4509004919620-grimley-capital-buys-north-carolina-asset-for-48m",
+    "ord_in_thread": 0,
+    "author": "Vicentiu Fusea",
+    "published": "2026-02-24T11:43:00.000+02:00",
+    "title": "Grimley Capital Buys North Carolina Asset for $48M - NewsBreak",
+    "text": "By Vicentiu Fusea ,\n1 days ago The sale closed at a 27 percent premium compared to 2020. Grimley Capital has acquired Retreat at the Park, a 249-unit community in Burlington, N.C. Carter Exchange sold the asset with help from Berkadia. The buyer paid $48 million, or $192,771 per unit, according to Yardi Matrix. Additionally, the firm... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business and market analysis",
+        "Economy, Business and Finance->construction and property"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Burlington",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Grimley Capital",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "North Carolina Asset",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Retreat at the Park",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Berkadia",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Yardi Matrix",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Yanceyville"
+            ],
+            "state": [
+                "North Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-26T07:27:48.738+02:00",
+    "updated": "2026-02-26T07:31:18.000+02:00"
+}

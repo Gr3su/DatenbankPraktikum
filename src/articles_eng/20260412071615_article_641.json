@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "9d5b9289f409932b90aac0970bf45809779437fc",
+        "url": "https://www.newsbreak.com/news/4581060495398-rockwell-man-charged-with-insurance-fraud-and-unlicensed-adjusting",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/hanlontown-ia",
+        "site_categories": [
+            "human interest",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "sport",
+            "under_construction",
+            "politics",
+            "crime, law and justice",
+            "economy, business and finance"
+        ],
+        "section_title": "Hanlontown, IA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Rockwell man charged with insurance fraud and unlicensed adjusting - NewsBreak",
+        "title_full": "Rockwell man charged with insurance fraud and unlicensed adjusting - NewsBreak",
+        "published": "2026-04-08T00:31:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0ciCU9_1AGzJgJi00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9d5b9289f409932b90aac0970bf45809779437fc",
+    "url": "https://www.newsbreak.com/news/4581060495398-rockwell-man-charged-with-insurance-fraud-and-unlicensed-adjusting",
+    "ord_in_thread": 0,
+    "author": "Mitch Williams",
+    "published": "2026-04-08T00:31:00.000+03:00",
+    "title": "Rockwell man charged with insurance fraud and unlicensed adjusting - NewsBreak",
+    "text": "By Mitch Williams ,\n1 days ago A Rockwell man is facing felony and misdemeanor charges following an investigation by the Iowa Insurance Division’s Fraud Bureau. Authorities say 39-year-old Joseph Starr was charged on March 24 with two counts of acting as a public adjuster without a license and one count of insurance fraud—presenting false information, a Class D felony. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Crime, Law and Justice->fraud",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mitch Williams",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Joseph Starr",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Rockwell",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Fraud Bureau",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Iowa Insurance Division",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Hanlontown"
+            ],
+            "state": [
+                "Iowa"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:38:59.075+03:00",
+    "updated": "2026-04-09T07:43:03.000+03:00"
+}

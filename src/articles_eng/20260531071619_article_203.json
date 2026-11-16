@@ -1,0 +1,112 @@
+{
+    "thread": {
+        "uuid": "fc15c917222f64a8d5582a869504c8e5f4fc3e39",
+        "url": "https://www.world-today-news.com/critical-litespeed-plugin-vulnerability-cvss-9-8-allows-root-code-execution/",
+        "site_full": "www.world-today-news.com",
+        "site": "world-today-news.com",
+        "site_section": "https://www.world-today-news.com/category/technology",
+        "site_categories": [
+            "science and technology",
+            "health",
+            "media",
+            "politics",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "sport",
+            "lifestyle and leisure",
+            "crime, law and justice"
+        ],
+        "section_title": "Technology Archives - World Today News",
+        "site_title": "World Today News - Your Global News Source Directory",
+        "title": "Critical LiteSpeed Plugin Vulnerability (CVSS 9.8) Allows Root Code Execution - World Today News",
+        "title_full": "Critical LiteSpeed Plugin Vulnerability (CVSS 9.8) Allows Root Code Execution - World Today News",
+        "published": "2026-05-28T07:21:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 141928,
+        "domain_rank_updated": "2026-05-25T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fc15c917222f64a8d5582a869504c8e5f4fc3e39",
+    "url": "https://www.world-today-news.com/critical-litespeed-plugin-vulnerability-cvss-9-8-allows-root-code-execution/",
+    "ord_in_thread": 0,
+    "author": "Rachel Kim - Technology Editor",
+    "published": "2026-05-28T07:21:00.000+03:00",
+    "title": "Critical LiteSpeed Plugin Vulnerability (CVSS 9.8) Allows Root Code Execution - World Today News",
+    "text": "Critical LiteSpeed Plugin Vulnerability (CVSS 9.8) Allows Root Code Execution\nA critical security vulnerability in the LiteSpeed Web Server plugin, rated as a maximum severity CVSS score of 9.8, has been disclosed to the public, enabling unauthenticated attackers to execute arbitrary code with root privileges on affected systems. The flaw, identified in the widely used LiteSpeed Web Server and its caching plugin, was reported by security researchers to the vendor on May 20, 2026, with a patch released just hours before the disclosure timeline expired on May 28.\nThe vulnerability affects versions of LiteSpeed Web Server prior to 6.7.1, including the LiteSpeed Cache plugin for WordPress, which powers over 30% of all websites globally. According to the vendor’s emergency advisory, the flaw stems from an improper input validation in the server’s HTTP request parsing module, allowing attackers to craft malicious payloads that bypass authentication checks entirely. The advisory explicitly states that exploitation does not require prior access to the target system, making it a zero-day risk for unpatched installations.\nThe disclosure follows a coordinated vulnerability disclosure process, with the vendor confirming that no known public exploits exist at the time of patch release. However, security researchers warn that the technical details of the flaw—including proof-of-concept code—were shared with select vendors and CERT teams prior to public disclosure, raising concerns about potential delayed exploitation. “This is one of the most severe web server vulnerabilities we’ve seen in years,” said a security analyst at a major European CERT, who requested anonymity. “The combination of root execution and the plugin’s ubiquity means this could become a widespread attack vector if not patched immediately.”\nLiteSpeed Technologies, based in Dallas, Texas, has urged administrators to upgrade to version 6.7.1 or later and apply the accompanying security patches for all supported plugins. The company’s emergency response team has also published detailed mitigation steps for organizations unable to upgrade immediately, including disabling the LiteSpeed Cache plugin until a full patch can be applied. “We take these issues extremely seriously,” stated a spokesperson for LiteSpeed Technologies in an email to affected customers. “Our team worked around the clock to develop and validate the fix and we strongly recommend all users apply the update as soon as possible.”\nThe vulnerability’s disclosure coincides with a broader industry focus on web server security, as recent high-profile breaches have targeted similar infrastructure components. While LiteSpeed Technologies has not disclosed whether the flaw was discovered internally or reported by an external researcher, the company’s rapid response aligns with its history of proactive security measures, including its participation in the CVE program and regular security audits.\nFor organizations using LiteSpeed Web Server or the LiteSpeed Cache plugin, the vendor has provided a temporary workaround involving server configuration adjustments to mitigate the risk until the patch can be applied. However, security experts caution that these measures are not a substitute for the full update and should be treated as interim protection only. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is expected to issue a formal alert in the coming hours, urging critical infrastructure operators to prioritize patching.",
+    "summary": "The flaw, identified in the widely used LiteSpeed Web Server and its caching plugin, was reported by security researchers to the vendor on May 20, 2026, with a patch released just hours before the disclosure timeline expired on May 28. According to the vendor’s emergency advisory, the flaw stems from an improper input validation in the server’s HTTP request parsing module, allowing attackers to craft malicious payloads that bypass authentication checks entirely.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Science and Technology->technology and engineering",
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "World Today News",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-28T07:25:25.812+03:00",
+    "updated": "2026-05-28T07:31:28.000+03:00"
+}

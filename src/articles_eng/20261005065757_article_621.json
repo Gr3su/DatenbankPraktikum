@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "6f1fe9a473e5aa19c3e466b88e32dad04693cea8",
+        "url": "https://www.foxnews.com/video/6406089638112",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://news.google.com/search?q=it%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+        "site_categories": [
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "media",
+            "social issue",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "It's 'fool's gold' to think Talarico can win Texas, former DHS official says | Fox News Video",
+        "title_full": "It's 'fool's gold' to think Talarico can win Texas, former DHS official says | Fox News Video",
+        "published": "2026-10-02T06:58:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53506e1f-3f23-4085-ba52-7187c19ba97c/6c55a011-9bc7-4729-a49b-ffcf0fdd466b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+        "performance_score": 0,
+        "domain_rank": 523,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T04:21:31.000+00:00"
+        }
+    },
+    "uuid": "6f1fe9a473e5aa19c3e466b88e32dad04693cea8",
+    "url": "https://www.foxnews.com/video/6406089638112",
+    "ord_in_thread": 0,
+    "author": "@foxnews",
+    "published": "2026-10-02T06:58:00.000+03:00",
+    "title": "It's 'fool's gold' to think Talarico can win Texas, former DHS official says | Fox News Video",
+    "text": "It’s ‘fool's gold’ to think Talarico can win Texas, former DHS official says\nA ‘Fox News @ Night’ panel analyzes President Donald Trump’s midterm blitz kickoff and the wins the GOP should showcase.\nA ‘Fox News @ Night’ panel examines President Donald Trump’s midterm blitz kickoff and discusses the broader strategy surrounding the upcoming elections. The panel also weighs which Republican accomplishments and policy wins the GOP should highlight as candidates prepare for the midterm campaign.\nLive Now\nAll times easternNOW - 12:30 AM\n12:30 AM\n1:00 AM\n1:30 AM\n2:00 AM\n2:30 AM",
+    "summary": "It’s ‘fool's gold’ to think Talarico can win Texas, former DHS official says A ‘Fox News @ Night’ panel analyzes President Donald Trump’s midterm blitz kickoff and the wins the GOP should showcase. A ‘Fox News @ Night’ panel examines President Donald Trump’s midterm blitz kickoff and discusses the broader strategy surrounding the upcoming elections. The panel also weighs which Republican accomplishments and policy wins the GOP should highlight as candidates prepare for the midterm campaign. All times easternNOW - 12:30 AM",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "Sport"
+    ],
+    "topics": [
+        "Politics->national elections"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Talarico",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Texas",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "DHS",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_us",
+            "top_news"
+        ],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:21:07.309+03:00",
+    "updated": "2026-10-02T07:25:34.000+03:00",
+    "related_articles": null
+}

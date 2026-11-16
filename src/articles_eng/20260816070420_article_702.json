@@ -1,0 +1,154 @@
+{
+    "thread": {
+        "uuid": "0942eacd0cb5c044fb1221196ce5ca02f4acda20",
+        "url": "https://www.newsbreak.com/news/4825469538967-driver-killed-passenger-injured-in-clay-county-crash",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/puxico-mo",
+        "site_categories": [
+            "human interest",
+            "under_construction",
+            "arts, culture and entertainment",
+            "sport",
+            "social issue",
+            "science and technology",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "politics",
+            "health",
+            "crime, law and justice"
+        ],
+        "section_title": "Puxico, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Driver killed, passenger injured in Clay County crash - NewsBreak",
+        "title_full": "Driver killed, passenger injured in Clay County crash - NewsBreak",
+        "published": "2026-08-12T22:29:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2JrJZp_1EBFR5Ln00",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0942eacd0cb5c044fb1221196ce5ca02f4acda20",
+    "url": "https://www.newsbreak.com/news/4825469538967-driver-killed-passenger-injured-in-clay-county-crash",
+    "ord_in_thread": 0,
+    "author": "K8 Newsdesk",
+    "published": "2026-08-12T22:29:00.000+03:00",
+    "title": "Driver killed, passenger injured in Clay County crash - NewsBreak",
+    "text": "By K8 Newsdesk ,\n8 hours ago CLAY COUNTY, Ark. (KAIT) - A 23-year-old Poplar Bluff man died Monday night after his car ran off a Clay County highway and struck several trees. Arkansas State Police reported the crash happened at 10:33 p.m. Aug. 10 on US 67 North at the intersection of Clay County Road 154. Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kfvs12.com/2026/08/12/driver-killed-passenger-injured-clay-county-crash/",
+        "https://www.kfvs12.com/2026/08/12/driver-killed-passenger-injured-clay-county-crash",
+        "https://kfvs12.com/2026/08/12/driver-killed-passenger-injured-clay-county-crash/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Poplar Bluff",
+                "sentiment": "none"
+            },
+            {
+                "name": "Clay County Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ark",
+                "sentiment": "none"
+            },
+            {
+                "name": "US 67 North",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Newsdesk",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Arkansas State Police",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Puxico"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:33:05.195+03:00",
+    "updated": "2026-08-13T07:35:01.000+03:00"
+}

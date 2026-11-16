@@ -1,0 +1,165 @@
+{
+    "thread": {
+        "uuid": "7b5e53c215817f779c7b693b58395f600736e671",
+        "url": "https://www.newsbreak.com/reuters-555486/4200899515525-uaw-members-at-ge-s-evendale-plant-erlanger-facility-go-on-strike",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/reuters-555486",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "Reuters&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "UAW members at GE's Evendale plant, Erlanger facility go on strike - NewsBreak",
+        "title_full": "UAW members at GE's Evendale plant, Erlanger facility go on strike - NewsBreak",
+        "published": "2025-08-28T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3lecbm_14BveaVt00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7b5e53c215817f779c7b693b58395f600736e671",
+    "url": "https://www.newsbreak.com/reuters-555486/4200899515525-uaw-members-at-ge-s-evendale-plant-erlanger-facility-go-on-strike",
+    "ord_in_thread": 0,
+    "author": "Reuters",
+    "published": "2025-08-28T06:59:00.000+03:00",
+    "title": "UAW members at GE's Evendale plant, Erlanger facility go on strike - NewsBreak",
+    "text": "By Reuters ,\n41 minutes ago\n(Reuters) -Members of the United Auto Workers union at GE Aerospace's Evendale, Ohio, plant and Erlanger, Kentucky, distribution facility went on strike on Thursday after failing to reach a new contract agreement, UAW President Shawn Fain said.\nThe Evendale plant builds marine and industrial engines for the U.S. Navy, while the Erlanger facility supplies parts to some of the company's engine plants.\nThe strike marks the latest flashpoint in a wave of labor unrest sweeping through aerospace and aviation industries, where unions have been flexing their muscles to secure new contracts amid high demand for skilled workers.\nFrom airline pilots and flight attendants to machinists and aerospace engineers, workers across the sector have pressed for higher pay and stronger job protections in the last couple of years.\nThe union's local chapter represents over 600 workers across the two sites. Union members had voted by a majority in favor of a strike if a new agreement was not reached by the end of day on August 27.\nA GE Aerospace spokesperson told Reuters that the company has activated a \"detailed contingency plan\", adding it was \"disappointed\" the union decided to strike before its employees had a chance to vote on the offer.\n(Reporting by Shivansh Tiwary in Bengaluru and Additional reporting by Harshita Meenaktshi and Mrinmay Dey; Editing by Maju Samuel and Sonia Cheema)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Labor",
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "Labor->employment",
+        "Labor->labour dispute",
+        "Labor->unions"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=3lecbm_14BveaVt00",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3lecbm_14BveaVt00",
+        "https://www.img.particlenews.com/image.php?url=3lecbm_14BveaVt00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3lecbm_14BveaVt00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Erlanger",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Shawn Fain",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Evendale",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "TRI",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "GE Aerospace",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "GE",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "United Auto Workers",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "UAW",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "U.S. Navy",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "7b5e53c215817f779c7b693b58395f600736e671",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-28T07:41:03.010+03:00",
+    "updated": "2025-08-28T07:46:55.000+03:00"
+}

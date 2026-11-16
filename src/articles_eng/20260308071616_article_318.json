@@ -1,0 +1,148 @@
+{
+    "thread": {
+        "uuid": "7b63a2f7c9fae5a5fc42286ca0f34187a1e7ecef",
+        "url": "https://www.youtube.com/watch?v=aX-SSpqgIL0",
+        "site_full": "www.youtube.com",
+        "site": "youtube.com",
+        "site_section": "https://rss.app/feeds/_05fz8t8fffv7fwob.xml",
+        "site_categories": [
+            "television",
+            "entertainment",
+            "war, conflict and unrest",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "Video and Audio News Review",
+        "site_title": "YouTube",
+        "title": "Report on Texas Democratic Primary and Potential Republican Concerns",
+        "title_full": "Report on Texas Democratic Primary and Potential Republican Concerns",
+        "published": "2026-03-04T21:00:00.000+02:00",
+        "replies_count": 100,
+        "participants_count": 93,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ytimg.com/vi/aX-SSpqgIL0/maxresdefault.jpg",
+        "performance_score": 0,
+        "domain_rank": 9,
+        "domain_rank_updated": "2026-03-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7b63a2f7c9fae5a5fc42286ca0f34187a1e7ecef",
+    "url": "https://www.youtube.com/watch?v=aX-SSpqgIL0",
+    "ord_in_thread": 0,
+    "author": "Pod Save America",
+    "published": "2026-03-04T21:00:00.000+02:00",
+    "title": "Report on Texas Democratic Primary and Potential Republican Concerns",
+    "text": "• James Talarico defeated Jasmine Crockett in a key primary.\n• This result is discussed by Jon Favreau and Dan Pfeiffer.\n• The result is seen as potentially problematic for Trump and Republicans.\n• The report is from Crooked Media's YouTube channel 'Pod Save America'.",
+    "summary": "Trump WORRIED Dems Could Flip Texas After Huge Republican UpsetDemocrats Just Won a HUGE Advantage Over Trump and Republicans SUBSCRIBE 👉 @podsaveamerica Texas Democrats score a big night as James Talarico defeats Jasmine Crockett in a key primary, forcing Republicans into a costly runoff. Jon Favreau and Dan Pfeiffer break down why the result could spell trouble for Trump and Republicans. At a time when it’s increasingly easy to feel cynical or hopeless, former Obama staffers Jon Favreau, Jon Lovett, and Tommy Vietor have created a place where people can have sane conversations that inform, entertain, and inspire action.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->political campaigns",
+        "Politics->primary elections",
+        "Politics->political candidates"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": true,
+    "external_links": [
+        "http://ziprecruiter.com/CROOKED",
+        "https://www.facebook.com/CrookedMedia/",
+        "http://www.crooked.com",
+        "https://twitter.com/podsaveamerica",
+        "https://www.instagram.com/crookedmedia/",
+        "http://crooked.com",
+        "https://facebook.com/CrookedMedia/",
+        "https://www.twitter.com/podsaveamerica",
+        "https://www.facebook.com/CrookedMedia",
+        "https://www.instagram.com/crookedmedia",
+        "http://www.ziprecruiter.com/CROOKED",
+        "https://instagram.com/crookedmedia/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "James Talarico",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jasmine Crockett",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jon Favre",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Dan Pfeiffer",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Texas",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Crooked Media",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Pod Save America",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-05T07:19:57.983+02:00",
+    "updated": "2026-03-05T07:21:27.000+02:00"
+}

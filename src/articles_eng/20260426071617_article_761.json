@@ -1,0 +1,132 @@
+{
+    "thread": {
+        "uuid": "c5411648dcc7844bd6596f45ade6dbc2709fbe1e",
+        "url": "https://www.newsbreak.com/news/4607112113020-motorcyclist-injured-in-crash-with-car-near-103rd-and-metcalf-in-overland-park",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/kansas-city-ks",
+        "site_categories": [
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "politics",
+            "human interest",
+            "arts, culture and entertainment",
+            "sport",
+            "crime, law and justice",
+            "under_construction"
+        ],
+        "section_title": "Kansas City, KS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Motorcyclist injured in crash with car near 103rd and Metcalf in Overland Park - NewsBreak",
+        "title_full": "Motorcyclist injured in crash with car near 103rd and Metcalf in Overland Park - NewsBreak",
+        "published": "2026-04-22T21:56:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2dXkaK_1AhE4Yyk00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c5411648dcc7844bd6596f45ade6dbc2709fbe1e",
+    "url": "https://www.newsbreak.com/news/4607112113020-motorcyclist-injured-in-crash-with-car-near-103rd-and-metcalf-in-overland-park",
+    "ord_in_thread": 0,
+    "author": "Mike Frizzell",
+    "published": "2026-04-22T21:56:00.000+03:00",
+    "title": "Motorcyclist injured in crash with car near 103rd and Metcalf in Overland Park - NewsBreak",
+    "text": "By Mike Frizzell ,\n9 hours ago Overland Park Police are investigating a crash that left a motorcyclist with life-threatening injuries late Tuesday afternoon. Police, firefighters and paramedics were called to the area of 103rd Street and Metcalf Avenue at 4:16 p.m. for a reported injury accident. Arriving firefighters reported that the crash occurred on 103rd at... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mike Frizzell",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Overland Park",
+                "sentiment": "none"
+            },
+            {
+                "name": "Metcalf Avenue",
+                "sentiment": "none"
+            },
+            {
+                "name": "103rd Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Overland Park",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-23T07:30:30.790+03:00",
+    "updated": "2026-04-23T07:36:49.000+03:00"
+}

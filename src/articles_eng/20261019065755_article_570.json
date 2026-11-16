@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "20c0fe6730cb1f777d673012d0f3cab95b0dfc50",
+        "url": "https://www.newsbreak.com/news/4948464075415-shelter-in-place-lifted-at-seattle-s-john-muir-elementary-school-as-police-search-for-armed-man",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/seattle-wa",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "sport",
+            "crime, law and justice",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "politics"
+        ],
+        "section_title": "Seattle, WA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Shelter-in-place lifted at Seattle's John Muir Elementary School as police search for armed man - NewsBreak",
+        "title_full": "Shelter-in-place lifted at Seattle's John Muir Elementary School as police search for armed man - NewsBreak",
+        "published": "2026-10-16T01:30:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0a796j_1G9B8le700",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:17:49.622+03:00"
+        }
+    },
+    "uuid": "20c0fe6730cb1f777d673012d0f3cab95b0dfc50",
+    "url": "https://www.newsbreak.com/news/4948464075415-shelter-in-place-lifted-at-seattle-s-john-muir-elementary-school-as-police-search-for-armed-man",
+    "ord_in_thread": 0,
+    "author": "Will Wixey",
+    "published": "2026-10-16T01:30:00.000+03:00",
+    "title": "Shelter-in-place lifted at Seattle's John Muir Elementary School as police search for armed man - NewsBreak",
+    "text": "By Will Wixey ,\n5 hours ago SEATTLE - A shelter-in-place was lifted at John Muir Elementary School in Seattle as police searched for an armed man possibly in crisis. Seattle Police announced that they were actively looking for a suspect with a firearm near South Walden Street and 33rd Avenue South in the Mount Baker neighborhood at 3 p.m. Thursday. The suspect is known by police and may be in crisis. Read full article\n6",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox13seattle.com/news/seattle-school-shelters-armed-man.amp",
+        "https://fox13seattle.com/news/seattle-school-shelters-armed-man.amp"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwow.fc40898b.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsad.38f2c935.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Will Wixey",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Seattle",
+                "sentiment": "none"
+            },
+            {
+                "name": "33rd Avenue South",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mount Baker",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "John Muir Elementary School",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Seattle"
+            ],
+            "state": [
+                "Washington"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:17:49.622+03:00",
+    "updated": "2026-10-16T07:18:39.000+03:00",
+    "related_articles": null
+}

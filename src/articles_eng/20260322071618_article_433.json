@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "fbb303b35b1d73695f4f565f12918f8829233a39",
+        "url": "https://www.newsbreak.com/news/4547014948240-a-new-effort-looks-to-revitalize-uptown-again",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/minneapolis-mn",
+        "site_categories": [
+            "crime, law and justice",
+            "politics",
+            "under_construction",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "human interest",
+            "sport"
+        ],
+        "section_title": "Minneapolis, MN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "A new effort looks to revitalize Uptown (again) - NewsBreak",
+        "title_full": "A new effort looks to revitalize Uptown (again) - NewsBreak",
+        "published": "2026-03-18T23:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4HUBZC_19jg654G00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fbb303b35b1d73695f4f565f12918f8829233a39",
+    "url": "https://www.newsbreak.com/news/4547014948240-a-new-effort-looks-to-revitalize-uptown-again",
+    "ord_in_thread": 0,
+    "author": "Nina Moini",
+    "published": "2026-03-18T23:13:00.000+02:00",
+    "title": "A new effort looks to revitalize Uptown (again) - NewsBreak",
+    "text": "By Nina Moini Aleesa Kuznetsov ,\n8 hours ago When Kevin Norman moved back to Uptown in 2022, it was not the neighborhood he remembered. Norman and his wife had spent most of their adult lives in Uptown and returned to Minneapolis after a stint in California. And recently, he noticed what many other community members have: vacant storefronts, open drug-use and littered sidewalks. Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nina Moini",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Kevin Norman",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Uptown",
+                "sentiment": "none"
+            },
+            {
+                "name": "Minneapolis",
+                "sentiment": "none"
+            },
+            {
+                "name": "California",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:26:11.320+02:00",
+    "updated": "2026-03-19T07:29:56.000+02:00"
+}

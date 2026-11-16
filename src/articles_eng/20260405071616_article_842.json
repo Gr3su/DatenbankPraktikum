@@ -1,0 +1,124 @@
+{
+    "thread": {
+        "uuid": "e432192548ec59213b2f7d921120ad18e6554759",
+        "url": "http://en.kremlin.ru/events/president/news/79451",
+        "site_full": "en.kremlin.ru",
+        "site": "kremlin.ru",
+        "site_section": "http://en.kremlin.ru/events/all/feed",
+        "site_categories": [
+            "media",
+            "politics",
+            "war, conflict and unrest",
+            "economy, business and finance",
+            "hobbies_and_interests"
+        ],
+        "section_title": "Website of the President of Russia: All Publications",
+        "site_title": null,
+        "title": "Greetings on Russia and Belarus Unity Day",
+        "title_full": "Greetings on Russia and Belarus Unity Day",
+        "published": "2026-04-01T22:26:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "RU",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 5341,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e432192548ec59213b2f7d921120ad18e6554759",
+    "url": "http://en.kremlin.ru/events/president/news/79451",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-04-01T22:26:00.000+03:00",
+    "title": "Greetings on Russia and Belarus Unity Day",
+    "text": "The message reads, in part:\n“Over the three decades since the signing of the Treaty on the Establishment of the Community of Russia and Belarus, a great deal has been accomplished to develop mutually beneficial integration ties and fruitful bilateral cooperation.\nOur people enjoy equal rights and opportunities across the entire territory of the Union State. Moscow and Minsk align the key parameters of macroeconomic, monetary, and social policies, and coordinate efforts in the areas of international cooperation, defence, and security.\nDuring the meeting of the Supreme State Council of the Union State held in February, we outlined a set of measures to further advance integration processes in various areas. I am confident that its consistent implementation fully meets the interests of the two nations, Russia and Belarus.”",
+    "summary": "The message reads, in part: “Over the three decades since the signing of the Treaty on the Establishment of the Community of Russia and Belarus, a great deal has been accomplished to develop mutually beneficial integration ties and fruitful bilateral cooperation. Our people enjoy equal rights and opportunities across the entire territory of the Union State. Moscow and Minsk align the key parameters of macroeconomic, monetary, and social policies, and coordinate efforts in the areas of international cooperation, defence, and security.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->international relations",
+        "Politics->political development",
+        "Politics->diplomacy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Belarus",
+                "sentiment": "none"
+            },
+            {
+                "name": "Russia",
+                "sentiment": "none"
+            },
+            {
+                "name": "Union State",
+                "sentiment": "none"
+            },
+            {
+                "name": "Minsk",
+                "sentiment": "none"
+            },
+            {
+                "name": "Moscow",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Supreme State Council of the Union",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-02T07:29:04.053+03:00",
+    "updated": "2026-04-02T07:32:51.000+03:00"
+}

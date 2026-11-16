@@ -1,0 +1,113 @@
+{
+    "thread": {
+        "uuid": "582a692c8ab1d1a9667dabc6a80a1ea0b79ccaa8",
+        "url": "https://www.youtube.com/watch?v=C0pmJok2Flg",
+        "site_full": "www.youtube.com",
+        "site": "youtube.com",
+        "site_section": "https://feeder.co/out/folder/07af1ba519.rss",
+        "site_categories": [
+            "war, conflict and unrest",
+            "entertainment",
+            "television",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Audio and Video News",
+        "site_title": "YouTube",
+        "title": "First Alert Weather: Brisk sunshine Thursday in New York - 2/4/26",
+        "title_full": "First Alert Weather: Brisk sunshine Thursday in New York - 2/4/26",
+        "published": "2026-02-05T06:56:00.000+02:00",
+        "replies_count": 2,
+        "participants_count": 3,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ytimg.com/vi/C0pmJok2Flg/maxresdefault.jpg",
+        "performance_score": 0,
+        "domain_rank": 9,
+        "domain_rank_updated": "2026-02-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "582a692c8ab1d1a9667dabc6a80a1ea0b79ccaa8",
+    "url": "https://www.youtube.com/watch?v=C0pmJok2Flg",
+    "ord_in_thread": 0,
+    "author": "CBS New York",
+    "published": "2026-02-05T06:56:00.000+02:00",
+    "title": "First Alert Weather: Brisk sunshine Thursday in New York - 2/4/26",
+    "text": "First Alert Weather: Brisk sunshine Thursday in New York - 2/4/26CBS News New York's Lonnie Quinn has your First Alert Forecast for February 4 at 11 p.m. For video licensing inquiries, contact: licensing@veritone.com",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather forecast"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lonnie Quinn",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "New York",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "##BS News",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-05T07:25:34.130+02:00",
+    "updated": "2026-02-05T07:28:05.000+02:00"
+}

@@ -1,0 +1,158 @@
+{
+    "thread": {
+        "uuid": "53317d2fddc7db73c6f33456a9d2fcb2615d99fc",
+        "url": "https://www.newsbreak.com/news/4973494570429-livermore-water-stations-to-receive-upgrades-to-pfas-treatment-systems",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/livermore-ca",
+        "site_categories": [
+            "crime, law and justice",
+            "economy, business and finance",
+            "sport",
+            "under_construction",
+            "politics",
+            "social issue",
+            "lifestyle and leisure",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Livermore, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Livermore water stations to receive upgrades to PFAS treatment systems - NewsBreak",
+        "title_full": "Livermore water stations to receive upgrades to PFAS treatment systems - NewsBreak",
+        "published": "2026-10-29T01:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/42kisp_1GYP4vln00",
+        "performance_score": 0,
+        "domain_rank": 3021,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-30T06:57:55.195+02:00"
+        }
+    },
+    "uuid": "53317d2fddc7db73c6f33456a9d2fcb2615d99fc",
+    "url": "https://www.newsbreak.com/news/4973494570429-livermore-water-stations-to-receive-upgrades-to-pfas-treatment-systems",
+    "ord_in_thread": 0,
+    "author": "Jude Strzemp",
+    "published": "2026-10-29T01:50:00.000+02:00",
+    "title": "Livermore water stations to receive upgrades to PFAS treatment systems - NewsBreak",
+    "text": "By Jude Strzemp ,\n1 days ago\nGetting your Trinity Audio player ready... New water treatment systems will be installed at three California Water Service stations in Livermore to remove toxic chemicals, with the Planning Commission directing city staff to address neighbors’ concerns about noise and screening at one of the sites. Cal Water plans to...\nRead full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident",
+        "Environment",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Disaster and Accident->accident and emergency incident",
+        "Environment->water pollution",
+        "Environment->environmental clean-up",
+        "Environment->natural resources",
+        "Science and Technology->biotechnology",
+        "Science and Technology->chemistry"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.livermorevine.com/city-government/2026/10/28/livermore-water-stations-to-receive-upgrades-to-pfas-treatment-systems/",
+        "https://www.livermorevine.com/city-government/2026/10/28/livermore-water-stations-to-receive-upgrades-to-pfas-treatment-systems",
+        "https://livermorevine.com/city-government/2026/10/28/livermore-water-stations-to-receive-upgrades-to-pfas-treatment-systems/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jude Strzemp",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Livermore",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "California Water Service",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": "CWT",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "Planning Commission",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "Cal Water",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "Trinity Audio",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Livermore"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-30T06:57:55.195+02:00",
+    "updated": "2026-10-30T07:06:06.000+02:00",
+    "related_articles": null
+}

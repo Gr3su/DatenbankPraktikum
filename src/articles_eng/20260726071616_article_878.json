@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "3cecf28433a0d9f13c7c8cae47c7b7cf461f82cc",
+        "url": "https://local.newsbreak.com/entrepreneur-1589747/4785886741853-i-own-a-1-million-domain-here-s-the-checklist-that-stands-between-you-and-losing-everything",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/entrepreneur-1589747",
+        "site_categories": [
+            "crime, law and justice",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "politics",
+            "arts, culture and entertainment",
+            "disaster and accident",
+            "sport"
+        ],
+        "section_title": "Entrepreneur&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "I Own a $1 Million Domain - Here's the Checklist That Stands Between You and Losing Everything - NewsBreak",
+        "title_full": "I Own a $1 Million Domain - Here's the Checklist That Stands Between You and Losing Everything - NewsBreak",
+        "published": "2026-07-22T22:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2YDD3H_1DYMifOu00",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3cecf28433a0d9f13c7c8cae47c7b7cf461f82cc",
+    "url": "https://local.newsbreak.com/entrepreneur-1589747/4785886741853-i-own-a-1-million-domain-here-s-the-checklist-that-stands-between-you-and-losing-everything",
+    "ord_in_thread": 0,
+    "author": "Michael Gargiulo",
+    "published": "2026-07-22T22:00:00.000+03:00",
+    "title": "I Own a $1 Million Domain - Here's the Checklist That Stands Between You and Losing Everything - NewsBreak",
+    "text": "By Michael Gargiulo ,\n9 hours ago\nKey Takeaways A single compromised registrar login can redirect your website, hijack your email and let attackers impersonate your leadership — all without touching your actual product or infrastructure. Locking down MFA, transfer locks, DNS access and offboarding isn’t extra security theater — it’s what separates a minor incident from losing the business. Founders love to talk about their moats. Product. Distribution. Community. Brand. Here’s the uncomfortable truth: none of it matters if you lose control of your domain .\nI’ve watched companies spend years building trust, only to see it evaporate in a single morning because a bad actor gained access to a registrar account. I know the risk personally — I currently own a $1 million domain name for my company . When a domain gets hijacked, the site redirects, customer emails stop landing, support channels get impersonated and paid traffic burns while your team scrambles. You don’t just lose uptime. You lose credibility .\nYour domain needs to move out of the “marketing” bucket and into the same category as banking access and production credentials. It’s a core security asset now.\nWhy domains became a prime target Most attacks don’t start with a zero-day exploit. They start with something far more predictable: people.\nAn attacker compromises an email account, tricks a carrier into a SIM swap, guesses a reused password or finds an old employee still listed as an admin. Then they walk straight into the registrar and make a few changes that create maximum chaos.\nThat’s what makes domains so attractive — one login can control the front door to your entire business:\nYour website and landing pages Your email identity, including the ability to impersonate leadership Password resets for SaaS tools that still rely on email-based recovery Your customers’ first impression when they try to find you A domain is leverage. In the wrong hands, it’s a weapon.\nThe blast radius most teams don’t map When people hear “domain security,” they picture a website going down. That’s the obvious part. The hidden part is what breaks behind the scenes.\nRevenue takes the first hit. Checkouts fail. Ads point to dead pages. Affiliates pause campaigns. Sales teams lose booked calls because calendars and confirmation emails stop working.\nTrust takes the bigger hit. Customers get phished from a domain that looks exactly like yours. Partners start second-guessing. Your brand becomes a warning label in someone’s inbox.\nOperations take the sneaky hit. Once attackers control your domain, they can intercept email, trigger password resets, and work their way into every tool tied to that identity. It’s why email-based scams like Business Email Compromise keep working — criminals follow the money, and email is still how money moves.\nThis isn’t just a security story. It’s a business continuity story.\nThe domain security stack every founder needs This isn’t complicated. It’s just neglected. Here’s the stack I want in place for any serious business.\nClean up registrar access Start with the non-negotiables:\nUse a registrar built for business. If it can’t support teams, role-based access, change logs, and real support, it has no business near your domains. Turn on multi-factor authentication everywhere. No exceptions, no “we’ll circle back.” Get ownership off a founder’s personal email. Domain control shouldn’t live in somebody’s old inbox. Move it to a company-owned address with documented ownership and clear access rules. Here’s the gut-check: if nobody on your team can clearly answer who controls the registrar login, who’s allowed to approve DNS updates, and what happens if access gets locked, you don’t really own the domain. You’re leasing confidence and hoping nothing breaks at the worst possible time.\nLock the domain at multiple levels There’s “locked,” and then there’s locked.\nAt the registrar level, enable the transfer lock (often labeled “clientTransferProhibited”). It tells the registry to reject unauthorized transfer attempts. If you’re protecting your primary brand domain, go a step further with registry lock, which adds protection even if someone gets past your registrar account.\nFounders tend to skip this step because it feels excessive. It’s not. It’s what separates a minor incident from an existential one.\nTreat DNS like production infrastructure DNS is the steering wheel of your entire online presence. If the wrong person can edit your name servers or records, they can quietly redirect visitors, hijack email, and send customers to a copycat site — often before anyone notices.\nLimit DNS access to two admins, max. Everyone else stays read-only. Put change control in writing: who signs off, what the process is, where changes get logged. Turn on DNS change alerts, so you know the moment something’s edited, not after support tickets start piling up. Keep your setup separated on purpose. Protect your main domain like it’s sacred — stable, predictable, locked down. Run promos and experiments on subdomains with looser controls, so if something goes wrong, the damage stays contained. Close the email impersonation loophole Most founders don’t realize their domain can be used to send spoofed emails until a customer forwards them a phishing attempt.\nSPF, DKIM, and DMARC work together to stop unauthorized senders from using your domain’s identity. DMARC set to “none” is basically a security camera that never calls the police — it logs the problem but doesn’t stop it. Move toward full enforcement as your systems stabilize. Marketing teams can still run campaigns; they just need the right setup (usually a dedicated subdomain) to protect deliverability without exposing your primary domain.\nFix your access and offboarding gaps Settings don’t fail as often as people do. Most domain disasters trace back to one of these:\nAn employee leaves and keeps access A vendor has admin rights indefinitely A shared password is still sitting in a Slack message from 2022 Recovery methods depend on one person’s phone number Treat registrar and DNS access the same way you treat finance access. Offboarding isn’t complete until domain permissions are revoked and recovery paths are secured.\nIf it happens anyway, speed wins If you ever face a domain compromise, minutes matter:\nFreeze the account — reset credentials, revoke access, enable locks. Escalate immediately with the registrar’s security team. Restore DNS to known-good settings and rotate credentials for anything tied to that domain. Communicate clearly. A status page and a direct customer note beat letting rumors fill the silence. The best time to write this playbook is before you need it.\nThe bottom line Founders don’t lose companies because they missed a feature. They lose them because they lose trust — and your domain is one of the biggest trust points you have.\nYour domain is trust infrastructure now. Lock it down, tighten access, monitor changes, and secure your email identity. Your future self will thank you, especially on the day something goes sideways and you realize you built a business that can take a punch.\nSubscribe to the Entrepreneur Daily newsletter to get the news and resources you need today to help you build your business better.",
+    "summary": "Key Takeaways A single compromised registrar login can redirect your website, hijack your email and let attackers impersonate your leadership — all without touching your actual product or infrastructure. I’ve watched companies spend years building trust, only to see it evaporate in a single morning because a bad actor gained access to a registrar account. When a domain gets hijacked, the site redirects, customer emails stop landing, support channels get impersonated and paid traffic burns while your team scrambles.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Labor"
+    ],
+    "topics": [
+        "Labor->labour relations",
+        "Labor->unemployment benefits",
+        "Labor->unemployment"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=2YDD3H_1DYMifOu00",
+        "http://www.entrepreneur.com/growing-a-business/5-unforgettable-lessons-i-learned-spending-1-million-on-a/477052",
+        "http://google.com/search?q=entrepreneur.com+Customers&sca_esv=b5f0430f4d9ffd8e&sxsrf=APpeQnszhRj2JCuk2WdQxkUAzCRFUUNm8g%3A1784073988634&ei=BM9WatmhJuut5NoPgrih8Ag&ved=0ahUKEwjZs-HCsdOVAxXrFlkFHQJcCI4Q4dUDCBI&uact=5&oq=entrepreneur.com+Customers&gs_lp=Egxnd3Mtd2l6LXNlcnAiGmVudHJlcHJlbmV1ci5jb20gQ3VzdG9tZXJzMgYQABgWGB4yCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzIFEAAY7wUyBRAAGO8FSPQDUKACWKACcAJ4AJABAJgBWqABpAGqAQEyuAEDyAEA-AEC-AEBmAIDoAJnwgIKEAAYRxjWBBiwA5gDAIgGAZAGApIHATOgB54FsgcBMbgHXMIHBTAuMi4",
+        "https://www.google.com/search?q=entrepreneur.com+credibility&sca_esv=b5f0430f4d9ffd8e&sxsrf=APpeQnseTl47o2oTBpUW-F0St7kMlYa_bg%3A1784073965036&ei=7c5WavPsAfva5NoPyNSfwAw&ved=0ahUKEwizl8G3sdOVAxV7LVkFHUjqB8gQ4dUDCBI&uact=5&oq=entrepreneur.com+credibility&gs_lp=Egxnd3Mtd2l6LXNlcnAiHGVudHJlcHJlbmV1ci5jb20gY3JlZGliaWxpdHkyCBAAGBYYHhgKMgYQABgWGB4yCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzIFEAAY7wUyBRAAGO8FMggQABiJBRiiBEj2A1CWAliWAnACeACQAQCYAXugAdoBqgEDMS4xuAEDyAEA-AEC-AEBmAIDoAKVAcICChAAGEcY1gQYsAOYAwC",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2YDD3H_1DYMifOu00",
+        "https://www.entrepreneur.com/starting-a-business/a-great-domain-name-can-add-millions-to-your-business/488443",
+        "https://info.entrepreneur.com/daily-newsletter-sign-up-page?utm_campaign=Newsbreak-Affiliate&utm_source=Newsbreak&utm_medium=Latest&utm_content=text-link",
+        "http://entrepreneur.com/growing-a-business/5-unforgettable-lessons-i-learned-spending-1-million-on-a/477052",
+        "http://www.google.com/search?q=entrepreneur.com+Customers&sca_esv=b5f0430f4d9ffd8e&sxsrf=APpeQnszhRj2JCuk2WdQxkUAzCRFUUNm8g%3A1784073988634&ei=BM9WatmhJuut5NoPgrih8Ag&ved=0ahUKEwjZs-HCsdOVAxXrFlkFHQJcCI4Q4dUDCBI&uact=5&oq=entrepreneur.com+Customers&gs_lp=Egxnd3Mtd2l6LXNlcnAiGmVudHJlcHJlbmV1ci5jb20gQ3VzdG9tZXJzMgYQABgWGB4yCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzIFEAAY7wUyBRAAGO8FSPQDUKACWKACcAJ4AJABAJgBWqABpAGqAQEyuAEDyAEA-AEC-AEBmAIDoAJnwgIKEAAYRxjWBBiwA5gDAIgGAZAGApIHATOgB54FsgcBMbgHXMIHBTAuMi4",
+        "https://info.entrepreneur.com/daily-newsletter-sign-up-page",
+        "https://www.info.entrepreneur.com/daily-newsletter-sign-up-page?utm_campaign=Newsbreak-Affiliate&utm_source=Newsbreak&utm_medium=Latest&utm_content=text-link",
+        "http://google.com/search",
+        "https://google.com/search?q=entrepreneur.com+credibility&sca_esv=b5f0430f4d9ffd8e&sxsrf=APpeQnseTl47o2oTBpUW-F0St7kMlYa_bg%3A1784073965036&ei=7c5WavPsAfva5NoPyNSfwAw&ved=0ahUKEwizl8G3sdOVAxV7LVkFHUjqB8gQ4dUDCBI&uact=5&oq=entrepreneur.com+credibility&gs_lp=Egxnd3Mtd2l6LXNlcnAiHGVudHJlcHJlbmV1ci5jb20gY3JlZGliaWxpdHkyCBAAGBYYHhgKMgYQABgWGB4yCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzIFEAAY7wUyBRAAGO8FMggQABiJBRiiBEj2A1CWAliWAnACeACQAQCYAXugAdoBqgEDMS4xuAEDyAEA-AEC-AEBmAIDoAKVAcICChAAGEcY1gQYsAOYAwC",
+        "https://www.google.com/search",
+        "https://www.img.particlenews.com/image.php?url=2YDD3H_1DYMifOu00",
+        "https://entrepreneur.com/starting-a-business/a-great-domain-name-can-add-millions-to-your-business/488443",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2YDD3H_1DYMifOu00",
+        "https://img.particlenews.com/image.php"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael Gargiulo",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-23T07:48:24.018+03:00",
+    "updated": "2026-07-23T11:23:41.000+03:00"
+}

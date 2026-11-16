@@ -1,0 +1,150 @@
+{
+    "thread": {
+        "uuid": "7aec9a33d2ae47a3f22262f6831855415341ebf8",
+        "url": "https://www.newsbreak.com/news/4825577963572-gaffney-high-schooler-killed-in-bus-stop-shooting",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/blacksburg-sc",
+        "site_categories": [
+            "crime, law and justice",
+            "science and technology",
+            "lifestyle and leisure",
+            "human interest",
+            "politics",
+            "health",
+            "sport",
+            "economy, business and finance",
+            "under_construction",
+            "arts, culture and entertainment",
+            "social issue"
+        ],
+        "section_title": "Blacksburg, SC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Gaffney high schooler killed in bus stop shooting - NewsBreak",
+        "title_full": "Gaffney high schooler killed in bus stop shooting - NewsBreak",
+        "published": "2026-08-13T00:04:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/13GzAQ_1EBMJiDG00",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7aec9a33d2ae47a3f22262f6831855415341ebf8",
+    "url": "https://www.newsbreak.com/news/4825577963572-gaffney-high-schooler-killed-in-bus-stop-shooting",
+    "ord_in_thread": 0,
+    "author": "South Carolina Public Radio",
+    "published": "2026-08-13T00:04:00.000+03:00",
+    "title": "Gaffney high schooler killed in bus stop shooting - NewsBreak",
+    "text": "By South Carolina Public Radio ,\n7 hours ago By late morning, the 500 block of West Rutledge Ave. was quiet and still. Little evidence existed, outside of the collection of news vans parked in the Gaffney Senior Center lot across from the Granard Courts Apartments, that a 17-year-old had died here on his way to school this morning. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.southcarolinapublicradio.org/sc-news/2026-08-12/gaffney-high-schooler-killed-in-bus-stop-shooting?_amp=true",
+        "https://southcarolinapublicradio.org/sc-news/2026-08-12/gaffney-high-schooler-killed-in-bus-stop-shooting?_amp=true",
+        "https://www.southcarolinapublicradio.org/sc-news/2026-08-12/gaffney-high-schooler-killed-in-bus-stop-shooting"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gaffney",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "West Rutledge Ave",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gaffney Senior Center",
+                "sentiment": "none"
+            },
+            {
+                "name": "Granard Courts Apartments",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "South Carolina Public Radio",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Blacksburg"
+            ],
+            "state": [
+                "South Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:29:41.333+03:00",
+    "updated": "2026-08-13T07:33:06.000+03:00"
+}

@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "dca522a29f28e042fd515c98c3096084c2b26553",
+        "url": "https://tass.com/society/2181601",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/rss/v2.xml",
+        "site_categories": [
+            "economy, business and finance",
+            "war, conflict and unrest",
+            "media",
+            "science and technology",
+            "politics"
+        ],
+        "section_title": "TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Russian expedition to keep working in Svalbard after ship's seizure",
+        "title_full": "Russian expedition to keep working in Svalbard after ship's seizure",
+        "published": "2026-09-03T06:52:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 13728,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "dca522a29f28e042fd515c98c3096084c2b26553",
+    "url": "https://tass.com/society/2181601",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-09-03T06:52:00.000+03:00",
+    "title": "Russian expedition to keep working in Svalbard after ship's seizure",
+    "text": "BARENTSBURG /Svalbard/, September 3. /TASS/. Members of the expedition brought to Svalbard by Russian research vessel Professor Molchanov continue their work on the archipelago after the vessel was seized by the Norwegian authorities, a TASS correspondent, who is a member of the expedition, said.\nA statement published on the official website of the Svalbard governor said Norwegian authorities had seized the Russian research vessel Professor Molchanov in Svalbard at the request of Ukrainian company Naftogaz.\nThe TASS correspondent said all passengers plan to continue their work in line with the schedule.\nThe vessel is prohibited from leaving its current location pending a relevant decision by the governor of Svalbard. According to the statement, \"the vessel was seized as an interim measure related to the enforcement of an arbitral award concerning Naftogaz assets in Crimea.\"\nThe Professor Molchanov has operated regular cargo and passenger services to Svalbard since June 2025. It departed Murmansk on its first voyage to the archipelago in March this year.",
+    "summary": "Members of the expedition brought to Svalbard by Russian research vessel Professor Molchanov continue their work on the archipelago after the vessel was seized by the Norwegian authorities, a TASS correspondent, who is a member of the expedition, said. The TASS correspondent said all passengers plan to continue their work in line with the schedule. The vessel is prohibited from leaving its current location pending a relevant decision by the governor of Svalbard. According to the statement, \"the vessel was seized as an interim measure related to the enforcement of an arbitral award concerning Naftogaz assets in Crimea.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->foreign aid",
+        "Politics->international relations",
+        "Politics->refugees and internally displaced people"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "BARENTSBURG",
+                "sentiment": "none"
+            },
+            {
+                "name": "Svalbard",
+                "sentiment": "none"
+            },
+            {
+                "name": "Russia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "TASS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TAS",
+                        "exchange": "KLSE"
+                    }
+                ]
+            },
+            {
+                "name": "Naftogaz",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:14:40.245+03:00",
+    "updated": "2026-09-03T07:26:44.000+03:00"
+}

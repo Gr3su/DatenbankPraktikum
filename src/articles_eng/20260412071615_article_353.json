@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "07ebbc3d7b2f7be74f473636115c4e25ce89275d",
+        "url": "https://www.newsbreak.com/news/4582044373338-barbe-students-show-off-robot-ahead-of-world-s-largest-robotics-competition",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/iowa-la",
+        "site_categories": [
+            "under_construction",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "sport",
+            "politics",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Iowa, LA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Barbe students show off robot ahead of world's largest robotics competition - NewsBreak",
+        "title_full": "Barbe students show off robot ahead of world's largest robotics competition - NewsBreak",
+        "published": "2026-04-08T20:20:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2TCHXi_1AHymRxs00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "07ebbc3d7b2f7be74f473636115c4e25ce89275d",
+    "url": "https://www.newsbreak.com/news/4582044373338-barbe-students-show-off-robot-ahead-of-world-s-largest-robotics-competition",
+    "ord_in_thread": 0,
+    "author": "KPLC Digital Team",
+    "published": "2026-04-08T20:20:00.000+03:00",
+    "title": "Barbe students show off robot ahead of world's largest robotics competition - NewsBreak",
+    "text": "By KPLC Digital Team ,\n11 hours ago LAKE CHARLES, La. (KPLC) - Barbe High School students are getting ready to make history to head to the VEX Robotics World Championship. VEX is the world’s largest robotics competition, bringing together elementary through college students from more than 50 countries. Students said they learn valuable team-building, critical thinking... Read full article\nRead in NewsBreak 2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Education",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->identification technology",
+        "Science and Technology->scientific innovation",
+        "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "KPLC Digital Team",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Barbe High School",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Iowa"
+            ],
+            "state": [
+                "Louisiana"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:32:34.376+03:00",
+    "updated": "2026-04-09T07:39:36.000+03:00"
+}

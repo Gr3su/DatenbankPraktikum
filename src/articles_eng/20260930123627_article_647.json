@@ -1,0 +1,165 @@
+{
+    "thread": {
+        "uuid": "67d5bdc29a07a7c4b2bc44ac6af43dd1467852dc",
+        "url": "https://www.newsbreak.com/news/4908326109967-un-identifies-214-firms-linked-to-israeli-settlements",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sitemap-news-34.xml",
+        "site_categories": [
+            "human interest",
+            "under_construction",
+            "crime, law and justice",
+            "economy, business and finance",
+            "sport",
+            "lifestyle and leisure",
+            "politics",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "UN identifies 214 firms linked to Israeli settlements - NewsBreak",
+        "title_full": "UN identifies 214 firms linked to Israeli settlements - NewsBreak",
+        "published": "2026-09-25T20:19:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0HTv80_1FVkB4ZS00",
+        "performance_score": 0,
+        "domain_rank": 3126,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-09-27T12:48:42.995+03:00"
+        }
+    },
+    "uuid": "67d5bdc29a07a7c4b2bc44ac6af43dd1467852dc",
+    "url": "https://www.newsbreak.com/news/4908326109967-un-identifies-214-firms-linked-to-israeli-settlements",
+    "ord_in_thread": 0,
+    "author": "Agence France-Presse",
+    "published": "2026-09-25T20:19:00.000+03:00",
+    "title": "UN identifies 214 firms linked to Israeli settlements - NewsBreak",
+    "text": "By Agence France-Presse ,\n1 days ago (AFP) — The United Nations on Friday updated its database of companies with activities in Israeli settlements in the occupied West Bank, including East Jerusalem, listing 214 firms from 11 countries. The U.N. human rights office added 61 companies since last year’s update and removed five. Major companies including... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->international relations",
+        "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.courthousenews.com/un-identifies-214-firms-linked-to-israeli-settlements/",
+        "https://courthousenews.com/un-identifies-214-firms-linked-to-israeli-settlements/",
+        "https://www.courthousenews.com/un-identifies-214-firms-linked-to-israeli-settlements"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "East Jerusalem",
+                "sentiment": "none"
+            },
+            {
+                "name": "West Bank",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "U. N.",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "United Nations",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "AFP",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "AFP",
+                        "exchange": "ASX"
+                    }
+                ]
+            },
+            {
+                "name": "Agence France - Presse",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-27T12:48:42.995+03:00",
+    "updated": "2026-09-27T12:54:20.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "da70d9f3e4f0e01f0f2e140f42b78bfea974a809",
+        "url": "https://www.newsbreak.com/news/4811909143240-pedestrian-seriously-injured-in-james-city-county-truck-accident",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/belleview-va",
+        "site_categories": [
+            "human interest",
+            "sport",
+            "politics",
+            "social issue",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "under_construction",
+            "health"
+        ],
+        "section_title": "Belleview, VA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Pedestrian seriously injured in James City County truck accident - NewsBreak",
+        "title_full": "Pedestrian seriously injured in James City County truck accident - NewsBreak",
+        "published": "2026-08-06T03:53:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1R0Sxb_1DyachxA00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "da70d9f3e4f0e01f0f2e140f42b78bfea974a809",
+    "url": "https://www.newsbreak.com/news/4811909143240-pedestrian-seriously-injured-in-james-city-county-truck-accident",
+    "ord_in_thread": 0,
+    "author": "John Eldridge",
+    "published": "2026-08-06T03:53:00.000+03:00",
+    "title": "Pedestrian seriously injured in James City County truck accident - NewsBreak",
+    "text": "By John Eldridge ,\n3 hours ago JAMES CITY COUNTY, Va. (WAVY) — A person has serious injuries after being struck by a vehicle in the 9200 block of Richmond Road Wednesday afternoon, according to James City County Police. Officials say, at approximately 4:54 p.m., units were dispatched to a crash with injuries involving a pedestrian... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wavy.com/news/local-news/james-city-county/pedestrian-seriously-injured-in-james-city-county-truck-accident/amp/",
+        "https://www.wavy.com/news/local-news/james-city-county/pedestrian-seriously-injured-in-james-city-county-truck-accident/amp",
+        "https://wavy.com/news/local-news/james-city-county/pedestrian-seriously-injured-in-james-city-county-truck-accident/amp/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "John Eldridge",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "James City County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Va",
+                "sentiment": "none"
+            },
+            {
+                "name": "Richmond Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "James City County Police",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Belview"
+            ],
+            "state": [
+                "Virginia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:29:19.386+03:00",
+    "updated": "2026-08-06T07:32:23.000+03:00"
+}

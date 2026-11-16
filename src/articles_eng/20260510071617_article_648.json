@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "277b0a9d75a02f50d914daef3cd7a9f309df723b",
+        "url": "https://www.columbiamissourian.com/news/local/city-to-hold-august-special-election-for-fourth-ward-seat/article_432bc6ca-420a-46f9-a013-73b11936daa0.html",
+        "site_full": "www.columbiamissourian.com",
+        "site": "columbiamissourian.com",
+        "site_section": "https://www.tncontentexchange.com/sports/high_school/wrestling",
+        "site_categories": [
+            "politics",
+            "sport",
+            "economy, business and finance",
+            "graduate_school",
+            "crime, law and justice",
+            "education",
+            "human interest",
+            "media"
+        ],
+        "section_title": "Wrestling | tncontentexchange.com",
+        "site_title": "columbiamissourian.com | Serving the community since 1908",
+        "title": "City to hold August special election for Fourth Ward seat",
+        "title_full": "City to hold August special election for Fourth Ward seat",
+        "published": "2026-05-07T00:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/columbiamissourian.com/content/tncms/custom/image/534fa760-58f5-11e7-b050-17475a79ed89.jpg?resize=600%2C315",
+        "performance_score": 0,
+        "domain_rank": 65346,
+        "domain_rank_updated": "2026-05-04T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "277b0a9d75a02f50d914daef3cd7a9f309df723b",
+    "url": "https://www.columbiamissourian.com/news/local/city-to-hold-august-special-election-for-fourth-ward-seat/article_432bc6ca-420a-46f9-a013-73b11936daa0.html",
+    "ord_in_thread": 0,
+    "author": "Jae Jepsen, Columbia Missourian",
+    "published": "2026-05-07T00:00:00.000+03:00",
+    "title": "City to hold August special election for Fourth Ward seat",
+    "text": "The Columbia City Council voted Monday to host a special election on Aug. 4 for the Fourth Ward city council member seat, which will be vacated by Nick Foster on June 12.\nAny qualified voter and resident of Ward 4 is eligible to run for the seat, according to a news release from the City Clerk���s office. Candidates must obtain at least 50 signatures from registered Fourth Ward voters on their nomination petitions and cannot hold ���lucrative��� public office.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->local elections"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nick Foster",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Columbia City Council",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Fourth Ward",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "City Clerks office",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Columbia"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-07T07:34:12.098+03:00",
+    "updated": "2026-05-07T07:37:20.000+03:00"
+}

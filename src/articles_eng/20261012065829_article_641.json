@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "2556085f4cc0db96a5adffd47f90f0a1e18b07f7",
+        "url": "https://www.newsbreak.com/news/4933910221541-deputies-15-year-old-charged-after-friend-fatally-shot-in-head-in-oconee-co",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/clemson-sc",
+        "site_categories": [
+            "crime, law and justice",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "sport",
+            "under_construction",
+            "arts, culture and entertainment",
+            "science and technology",
+            "politics"
+        ],
+        "section_title": "Clemson, SC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Deputies: 15-year-old charged after friend fatally shot in head in Oconee Co. - NewsBreak",
+        "title_full": "Deputies: 15-year-old charged after friend fatally shot in head in Oconee Co. - NewsBreak",
+        "published": "2026-10-09T00:13:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/18fzrx_1FvWGHqZ00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:21:36.741+03:00"
+        }
+    },
+    "uuid": "2556085f4cc0db96a5adffd47f90f0a1e18b07f7",
+    "url": "https://www.newsbreak.com/news/4933910221541-deputies-15-year-old-charged-after-friend-fatally-shot-in-head-in-oconee-co",
+    "ord_in_thread": 0,
+    "author": "FOX Carolina",
+    "published": "2026-10-09T00:13:00.000+03:00",
+    "title": "Deputies: 15-year-old charged after friend fatally shot in head in Oconee Co. - NewsBreak",
+    "text": "7 hours ago A 15-year-old has been charged after he accidentally shot his friend in the head, according to the Oconee County Sheriff’s Office. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.foxcarolina.com/video/2026/10/08/deputies-15-year-old-charged-after-friend-fatally-shot-head-oconee-co/?outputType=amp",
+        "https://foxcarolina.com/video/2026/10/08/deputies-15-year-old-charged-after-friend-fatally-shot-head-oconee-co/?outputType=amp",
+        "https://www.foxcarolina.com/video/2026/10/08/deputies-15-year-old-charged-after-friend-fatally-shot-head-oconee-co/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Oconee Co",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Oconee County Sheriff ’ s Office",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Clemson University",
+                "Clemson"
+            ],
+            "state": [
+                "South Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:21:36.741+03:00",
+    "updated": "2026-10-09T07:25:32.000+03:00",
+    "related_articles": null
+}

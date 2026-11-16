@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "e2adc80cf9995204a76f0ccc5af274d9048be99e",
+        "url": "https://www.newsbreak.com/news/4675201204150-inland-empire-66ers-and-san-bernardino-welcome-great-race-for-june-27th-game",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/highland-ca",
+        "site_categories": [
+            "under_construction",
+            "crime, law and justice",
+            "politics",
+            "lifestyle and leisure",
+            "sport",
+            "economy, business and finance",
+            "human interest",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Highland, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Inland Empire 66ers and San Bernardino Welcome Great Race for June 27th Game - NewsBreak",
+        "title_full": "Inland Empire 66ers and San Bernardino Welcome Great Race for June 27th Game - NewsBreak",
+        "published": "2026-05-27T06:10:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1BvFTq_1BmqNjl100",
+        "performance_score": 0,
+        "domain_rank": 3021,
+        "domain_rank_updated": "2026-05-25T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e2adc80cf9995204a76f0ccc5af274d9048be99e",
+    "url": "https://www.newsbreak.com/news/4675201204150-inland-empire-66ers-and-san-bernardino-welcome-great-race-for-june-27th-game",
+    "ord_in_thread": 0,
+    "author": "milb.com",
+    "published": "2026-05-27T06:10:00.000+03:00",
+    "title": "Inland Empire 66ers and San Bernardino Welcome Great Race for June 27th Game - NewsBreak",
+    "text": "1 days ago San Bernardino, CA: The Inland Empire 66ers of San Bernardino Professional Baseball Club, announced today that San Manuel Stadium, the home of the Sixers, will provide the finish line for one leg line of the world famous “Great Race” on June 27th. The Great Race, which dates to... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Sport->baseball"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "San Bernardino",
+                "sentiment": "none"
+            },
+            {
+                "name": "CA",
+                "sentiment": "none"
+            },
+            {
+                "name": "San Manuel Stadium",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Inland Empire 66ers",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Sixers",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Highland",
+                "Highlands"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-28T07:52:03.649+03:00",
+    "updated": "2026-05-28T07:54:37.000+03:00"
+}

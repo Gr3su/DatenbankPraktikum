@@ -1,0 +1,155 @@
+{
+    "thread": {
+        "uuid": "178f20578bb370bf20fe8f7fbd24eb010cc106df",
+        "url": "https://www.newsbreak.com/news/4759529345716-officials-temporarily-shut-down-traffic-on-memorial-parkway-in-huntsville",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/huntsville-al",
+        "site_categories": [
+            "social issue",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "under_construction",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "sport",
+            "human interest",
+            "politics",
+            "disaster and accident"
+        ],
+        "section_title": "Huntsville, AL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Officials temporarily shut down traffic on Memorial Parkway in Huntsville - NewsBreak",
+        "title_full": "Officials temporarily shut down traffic on Memorial Parkway in Huntsville - NewsBreak",
+        "published": "2026-07-09T04:05:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1BwMg3_1D7oXu2e00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "178f20578bb370bf20fe8f7fbd24eb010cc106df",
+    "url": "https://www.newsbreak.com/news/4759529345716-officials-temporarily-shut-down-traffic-on-memorial-parkway-in-huntsville",
+    "ord_in_thread": 0,
+    "author": "AJ Wuest",
+    "published": "2026-07-09T04:05:00.000+03:00",
+    "title": "Officials temporarily shut down traffic on Memorial Parkway in Huntsville - NewsBreak",
+    "text": "By AJ Wuest ,\n3 hours ago HUNTSVILLE, Ala. (WAFF) - Huntsville Police is temporarily shutting down traffic on both the northbound and southbound lanes of Memorial Parkway at University Drive Wednesday night. Huntsville Police said the reason for the shutdown is due to crews currently working to repair utilities. HPD said the closures are expected to... Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.waff.com/2026/07/09/officials-temporarily-shut-down-traffic-memorial-parkway-huntsville/",
+        "https://www.waff.com/2026/07/09/officials-temporarily-shut-down-traffic-memorial-parkway-huntsville",
+        "https://waff.com/2026/07/09/officials-temporarily-shut-down-traffic-memorial-parkway-huntsville/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "AJ Wuest",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Huntsville",
+                "sentiment": "none"
+            },
+            {
+                "name": "Memorial Parkway",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ala",
+                "sentiment": "none"
+            },
+            {
+                "name": "University Drive",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Huntsville Police",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "HPD",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:37:15.196+03:00",
+    "updated": "2026-07-09T07:39:45.000+03:00"
+}

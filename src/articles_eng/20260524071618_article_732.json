@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "e88b61ccb8be1acf9ac0b993e56060b20ca460e8",
+        "url": "https://www.newsbreak.com/news/4662472368424-homeless-camp-near-rancho-murieta-raises-concerns",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sacramento-ca",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "politics",
+            "lifestyle and leisure",
+            "human interest",
+            "sport",
+            "economy, business and finance",
+            "crime, law and justice"
+        ],
+        "section_title": "Sacramento, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Homeless Camp Near Rancho Murieta Raises Concerns - NewsBreak",
+        "title_full": "Homeless Camp Near Rancho Murieta Raises Concerns - NewsBreak",
+        "published": "2026-05-20T18:44:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1NDP67_1Ba0Ly4V00",
+        "performance_score": 0,
+        "domain_rank": 2964,
+        "domain_rank_updated": "2026-05-18T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e88b61ccb8be1acf9ac0b993e56060b20ca460e8",
+    "url": "https://www.newsbreak.com/news/4662472368424-homeless-camp-near-rancho-murieta-raises-concerns",
+    "ord_in_thread": 0,
+    "author": "therivervalleytimes.com",
+    "published": "2026-05-20T18:44:00.000+03:00",
+    "title": "Homeless Camp Near Rancho Murieta Raises Concerns - NewsBreak",
+    "text": "12 hours ago RANCHO MURIETA, CA (MPG) - Concerns about a growing homeless encampment near Rancho Murieta surfaced during Sacramento County Supervisor Rosario Rodriguez’s first community meeting in Rancho Murieta on May 4, after Rodriguez discussed a new county ordinance allowing authorities to clear illegal camping on both public and private property. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue"
+    ],
+    "topics": [
+        "Social Issue->homelessness",
+        "Social Issue->social problem",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rosario Rodriguez",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Rancho Murieta",
+                "sentiment": "none"
+            },
+            {
+                "name": "CA",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sacramento County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "e88b61ccb8be1acf9ac0b993e56060b20ca460e8",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Sacramento"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-21T07:36:54.257+03:00",
+    "updated": "2026-05-21T07:38:54.000+03:00"
+}

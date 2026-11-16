@@ -1,0 +1,115 @@
+{
+    "thread": {
+        "uuid": "4aade5b1ec94a26fd76ff0db8205506a3fe71e75",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4826085690689-flash-flood-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/nws-alerts-1671083",
+        "site_categories": [
+            "human interest",
+            "politics",
+            "science and technology",
+            "sport",
+            "social issue",
+            "lifestyle and leisure",
+            "health",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "under_construction",
+            "crime, law and justice"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Flash Flood Warning by NWS - NewsBreak",
+        "title_full": "Flash Flood Warning by NWS - NewsBreak",
+        "published": "2026-08-13T06:40:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/17g3G2_1EBsYEOr00",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4aade5b1ec94a26fd76ff0db8205506a3fe71e75",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4826085690689-flash-flood-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2026-08-13T06:40:00.000+03:00",
+    "title": "Flash Flood Warning by NWS - NewsBreak",
+    "text": "35 minutes ago Check NWS updates here\nEffective: 2026-08-12 20:38:00 PDT Expires: 2026-08-12 20:48:00 PDT Urgency: Immediate Severity: Severe Certainty: Likely Target Area: La Paz, AZ The heavy rain has ended. Flooding is no longer expected to pose a threat. Please continue to heed remaining road closures.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.fedb5c96d1e110eb1834337c455529f4a0e2b705.001.1",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=17g3G2_1EBsYEOr00",
+        "https://img.particlenews.com/image.php?url=17g3G2_1EBsYEOr00",
+        "https://img.particlenews.com/image.php",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.fedb5c96d1e110eb1834337c455529f4a0e2b705.001.1",
+        "https://alerts.weather.gov/search",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=17g3G2_1EBsYEOr00",
+        "https://www.img.particlenews.com/image.php?url=17g3G2_1EBsYEOr00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "La Paz",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:25:59.407+03:00",
+    "updated": "2026-08-13T07:28:46.000+03:00"
+}

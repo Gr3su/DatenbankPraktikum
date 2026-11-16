@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "d5779a1ea6c3d250398810753b33b52ddc738256",
+        "url": "https://www.newsbreak.com/news/4592791927868-vocelli-pizza-opens-new-valleydale-location",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/birmingham-al",
+        "site_categories": [
+            "crime, law and justice",
+            "human interest",
+            "under_construction",
+            "sport",
+            "politics",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Birmingham, AL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Vocelli Pizza opens new Valleydale location - NewsBreak",
+        "title_full": "Vocelli Pizza opens new Valleydale location - NewsBreak",
+        "published": "2026-04-15T02:16:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0Q3rNU_1ASo1acW00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d5779a1ea6c3d250398810753b33b52ddc738256",
+    "url": "https://www.newsbreak.com/news/4592791927868-vocelli-pizza-opens-new-valleydale-location",
+    "ord_in_thread": 0,
+    "author": "STAFF",
+    "published": "2026-04-15T02:16:00.000+03:00",
+    "title": "Vocelli Pizza opens new Valleydale location - NewsBreak",
+    "text": "By STAFF ,\n1 days ago Vocelli Pizza opened a new location at 5192 Caldwell Mill Road in the Valleydale Village shopping center on April 11. The opening follows the closure of the brand’s former Greystone location at the end of 2025. Founded in 1988, the company has grown to more than 80 locations worldwide... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance",
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->leisure venue"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Valleyda",
+                "sentiment": "none"
+            },
+            {
+                "name": "Caldwell Mill Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "le Village",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Vocelli Pizza",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Greystone",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:20:54.588+03:00",
+    "updated": "2026-04-16T09:16:44.000+03:00"
+}

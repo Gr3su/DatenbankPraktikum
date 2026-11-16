@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "8227193764b70b5f250c0a245e0939edb67998fd",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4048524512481-flash-flood-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Flash Flood Warning by NWS - NewsBreak",
+        "title_full": "Flash Flood Warning by NWS - NewsBreak",
+        "published": "2025-06-12T04:54:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/17g3G2_11lNs8Iv00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8227193764b70b5f250c0a245e0939edb67998fd",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4048524512481-flash-flood-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-06-12T04:54:00.000+03:00",
+    "title": "Flash Flood Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here FFWFWD The National Weather Service in Fort Worth has issued a * Flash Flood Warning for... Bell County in central Texas... Northwestern Falls County in central Texas... McLennan County in central Texas... * Until 400 AM CDT. * At 154 AM CDT, Doppler radar indicated thunderstorms producing heavy rain across the warned area. Between 1 and 2 inches of rain have fallen. Additional rainfall amounts of 1 to 2 inches are forecast. Flash flooding is ongoing or expected to begin shortly. HAZARD...Flash flooding caused by thunderstorms. SOURCE...Radar. IMPACT...Flooding of small creeks and streams, urban areas, highways, streets, and underpasses as well as other poor drainage and low lying areas. * Some locations that will experience flash flooding include... Killeen, Waco, Temple, Harker Heights, Belton, Hewitt, Robinson, Bellmead, Woodway, Lacy-Lakeview, McGregor, Nolanville, Morgan's Point Resort, West, Salado, Beverly Hills, Little River-Academy, Lorena, Troy and Bruceville-Eddy.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.5c883b25b88f423e1b112442496b96f3c85ed4a6.001.1",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.5c883b25b88f423e1b112442496b96f3c85ed4a6.001.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "McGregor",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lorena",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "McLennan County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Northwestern",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:15:19.660+03:00",
+    "updated": "2025-06-12T07:26:53.000+00:00"
+}

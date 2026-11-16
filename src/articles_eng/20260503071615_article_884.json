@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "bfa94b639652e9b0244ff146355e30e6169faa8d",
+        "url": "https://www.newsbreak.com/news/4620351843515-plea-leads-to-probation-in-atchison-abuse-case",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/lancaster-ks",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "human interest",
+            "sport",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "under_construction",
+            "politics",
+            "crime, law and justice"
+        ],
+        "section_title": "Lancaster, KS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Plea leads to probation in Atchison abuse case - NewsBreak",
+        "title_full": "Plea leads to probation in Atchison abuse case - NewsBreak",
+        "published": "2026-04-29T16:18:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3nZMW6_1AuZXWw200",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bfa94b639652e9b0244ff146355e30e6169faa8d",
+    "url": "https://www.newsbreak.com/news/4620351843515-plea-leads-to-probation-in-atchison-abuse-case",
+    "ord_in_thread": 0,
+    "author": "Brian Hagen",
+    "published": "2026-04-29T16:18:00.000+03:00",
+    "title": "Plea leads to probation in Atchison abuse case - NewsBreak",
+    "text": "By Brian Hagen ,\n15 hours ago (KAIR)--An Atchison man earns probation as the outcome of a case stemming from an Atchison Police investigation that led to last year's arrest on charges including abuse of a child. According to court records, 28-year-old Zachary Voelker was sentenced in Atchison County District Court on April 10, receiving consecutive prison... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->animal abuse"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brian Hagen",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Zachary Voelker",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Atchison Police",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Lancaster"
+            ],
+            "state": [
+                "Kansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:41:09.151+03:00",
+    "updated": "2026-04-30T07:42:05.000+03:00"
+}

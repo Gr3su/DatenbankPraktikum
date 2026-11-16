@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "be75f67a61c8dc10399538bfd8b5b8f490ea3fbe",
+        "url": "https://newmexicosun.com/stories/676421933-santa-fe-institute-researchers-develop-new-model-for-cellular-encapsulation",
+        "site_full": "newmexicosun.com",
+        "site": "newmexicosun.com",
+        "site_section": "https://burquebro.com/home",
+        "site_categories": [],
+        "section_title": "Best Source for New Mexico News | New Mexico News",
+        "site_title": "New Mexico Sun",
+        "title": "Santa Fe Institute researchers develop new model for cellular encapsulation",
+        "title_full": "Santa Fe Institute researchers develop new model for cellular encapsulation",
+        "published": "2025-11-27T06:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://s3.amazonaws.com/jnswire/jns-media/0b/e9/27499135/webp_chrisdsd.webp",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "be75f67a61c8dc10399538bfd8b5b8f490ea3fbe",
+    "url": "https://newmexicosun.com/stories/676421933-santa-fe-institute-researchers-develop-new-model-for-cellular-encapsulation",
+    "ord_in_thread": 0,
+    "author": "New Mexico Sun",
+    "published": "2025-11-27T06:17:00.000+02:00",
+    "title": "Santa Fe Institute researchers develop new model for cellular encapsulation",
+    "text": "A recent study led by Santa Fe Institute Professor Chris Kempes examines the process of encapsulation, which is fundamental to life. Encapsulation refers to how cells act as containers for the chemical processes that enable life at its most basic level. Many biologists consider this process crucial for the emergence and evolution of life.\nThe research, published in a special edition of Philosophical Transactions of the Royal Society B focused on the origins of life, uses an existing mathematical model of a bacterial cell to investigate how changes in cellular activity affect encapsulation. According to the authors, when ribosomes—the molecular machines responsible for protein production—work more slowly, more ribosomes are needed to meet protein demands. This can result in overcrowding within the cell: “In such a scenario, these macromolecules quickly filled the cell, leaving little room for other essential components. Such a ‘ribosome catastrophe’ would render the cell non-existent.” Conversely, increasing ribosomal activity allows cells to grow larger and avoid this outcome: “Speeding up ribosomal activity, on the other hand, allowed the cells to grow larger and avoid the disastrous end.”\nBuilding on these findings, Kempes and his colleagues developed a new model for encapsulation that could apply not only to terrestrial life but also to synthetic or extraterrestrial forms. The team tested their theoretical framework on two kinds of living systems: autocatalytic systems—networks of molecules capable of self-replication—and genetic systems that involve information storage alongside chemical processing.\nThis work provides insight into how physical constraints may influence both natural and artificial forms of life.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->biomedical science",
+        "Science and Technology->scientific research"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Chris Kempes",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Santa Fe Institute",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Sunshine",
+                "City of the Sun"
+            ],
+            "state": [
+                "New Mexico"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-11-27T07:18:58.699+02:00",
+    "updated": "2025-11-27T07:21:00.000+02:00"
+}

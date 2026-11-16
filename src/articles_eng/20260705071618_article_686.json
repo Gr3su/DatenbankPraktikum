@@ -1,0 +1,165 @@
+{
+    "thread": {
+        "uuid": "c104b798c6643c0d3958a05aaa5135120759a9b3",
+        "url": "https://www.newsbreak.com/news/4742270026634-mississippi-state-flips-former-stanford-commit-3-star-2027-lb",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nettleton-ms",
+        "site_categories": [
+            "social issue",
+            "human interest",
+            "sport",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "politics",
+            "economy, business and finance",
+            "disaster and accident",
+            "crime, law and justice",
+            "under_construction"
+        ],
+        "section_title": "Nettleton, MS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Mississippi State flips former Stanford commit, 3-star 2027 LB - NewsBreak",
+        "title_full": "Mississippi State flips former Stanford commit, 3-star 2027 LB - NewsBreak",
+        "published": "2026-06-30T18:12:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/29AVHp_1CrPvb9u00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c104b798c6643c0d3958a05aaa5135120759a9b3",
+    "url": "https://www.newsbreak.com/news/4742270026634-mississippi-state-flips-former-stanford-commit-3-star-2027-lb",
+    "ord_in_thread": 0,
+    "author": "Ethan Stone",
+    "published": "2026-06-30T18:12:00.000+03:00",
+    "title": "Mississippi State flips former Stanford commit, 3-star 2027 LB - NewsBreak",
+    "text": "By Ethan Stone ,\n1 days ago Mississippi State scored a big recruiting win on Monday night, landing a pledge from former Stanford commit Devontray Brewer. The 3-star linebacker prospect originally committed to Stanford on June 2 and flipped following an official visit to Starkville on June 19. Brewer hails from Tupelo high school in Tupelo, Mississippi and stands at 6-foot-1, 225 pounds. In addition to Mississippi State and Stanford, Brewer also held offers from Michigan, Ole Miss and Arkansas, to name a few. “There’s no better ball than the SEC, so this is an honor and privilege to be able to play in the league and... Read full article\n1",
+    "summary": "1 days ago Mississippi State scored a big recruiting win on Monday night, landing a pledge from former Stanford commit Devontray Brewer. The 3-star linebacker prospect originally committed to Stanford on June 2 and flipped following an official visit to Starkville on June 19. Brewer hails from Tupelo high school in Tupelo, Mississippi and stands at 6-foot-1, 225 pounds. In addition to Mississippi State and Stanford, Brewer also held offers from Michigan, Ole Miss and Arkansas, to name a few.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sports management and ownership",
+        "Sport->sport industry",
+        "Sport->soccer"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://bvmsports.com/2026/06/30/mississippi-state-flips-former-stanford-commit-3-star-2027-lb/",
+        "https://bvmsports.com/2026/06/30/mississippi-state-flips-former-stanford-commit-3-star-2027-lb",
+        "https://www.bvmsports.com/2026/06/30/mississippi-state-flips-former-stanford-commit-3-star-2027-lb/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ethan Stone",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Devontray Brewer",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Mississippi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tupelo",
+                "sentiment": "none"
+            },
+            {
+                "name": "Starkville",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Mississippi State",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Stanford",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "SEC",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Nettleton"
+            ],
+            "state": [
+                "Mississippi"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:40:34.496+03:00",
+    "updated": "2026-07-02T07:43:04.000+03:00"
+}

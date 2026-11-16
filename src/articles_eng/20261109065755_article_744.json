@@ -1,0 +1,118 @@
+{
+    "thread": {
+        "uuid": "86d2aaacb110093ed25ee913d86bf193cd07ba6b",
+        "url": "https://www.foxnews.com/video/6408001592112",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://news.google.com/search?q=this%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+        "site_categories": [
+            "media",
+            "crime, law and justice",
+            "social issue",
+            "sport",
+            "arts, culture and entertainment",
+            "politics"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "This is a 'right vs wrong' issue: States that approved women's sports protections applauded | Fox News Video",
+        "title_full": "This is a 'right vs wrong' issue: States that approved women's sports protections applauded | Fox News Video",
+        "published": "2026-11-06T06:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f02bc7c-a5c1-463d-8b4a-7b4aa619bd15/93368d3b-307b-4e83-a48a-a70d309cc658/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+        "performance_score": 0,
+        "domain_rank": 509,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-11-06T07:20:28.364+02:00"
+        }
+    },
+    "uuid": "86d2aaacb110093ed25ee913d86bf193cd07ba6b",
+    "url": "https://www.foxnews.com/video/6408001592112",
+    "ord_in_thread": 0,
+    "author": "@foxnews",
+    "published": "2026-11-06T06:54:00.000+02:00",
+    "title": "This is a 'right vs wrong' issue: States that approved women's sports protections applauded | Fox News Video",
+    "text": "Log in to comment on videos and join in on the fun.\nWatch the live stream of Fox News and full episodes.\nReduce eye strain and focus on the content that matters.\n‘Fox News @ Night’ panelists Jennifer Sey and Erin Mersino discuss the fight over protections for women’s sports on ‘Fox News @ Night.’",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue"
+    ],
+    "topics": [
+        "Social Issue->discrimination",
+        "Social Issue->women",
+        "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jennifer Sey",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Erin Mersino",
+                "sentiment": "positive"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Fox News @ Night",
+                "sentiment": "positive",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_us",
+            "top_news"
+        ],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-11-06T07:20:28.364+02:00",
+    "updated": "2026-11-06T07:22:44.000+02:00",
+    "related_articles": null
+}

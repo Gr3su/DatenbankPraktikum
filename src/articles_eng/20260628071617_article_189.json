@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "2bdaac17f191c840bd80f8ab5d53ff87c00cfb03",
+        "url": "https://www.newsbreak.com/news/4727923772662-chelsea-inferno-claims-two-lives-leaves-north-common-reeling",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/worcester-vt",
+        "site_categories": [
+            "social issue",
+            "lifestyle and leisure",
+            "sport",
+            "crime, law and justice",
+            "human interest",
+            "politics",
+            "under_construction",
+            "disaster and accident",
+            "arts, culture and entertainment",
+            "economy, business and finance"
+        ],
+        "section_title": "Worcester, VT Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Chelsea Inferno Claims Two Lives, Leaves North Common Reeling - NewsBreak",
+        "title_full": "Chelsea Inferno Claims Two Lives, Leaves North Common Reeling - NewsBreak",
+        "published": "2026-06-23T19:43:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1CjMBk_1CcyDMht00",
+        "performance_score": 0,
+        "domain_rank": 3030,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2bdaac17f191c840bd80f8ab5d53ff87c00cfb03",
+    "url": "https://www.newsbreak.com/news/4727923772662-chelsea-inferno-claims-two-lives-leaves-north-common-reeling",
+    "ord_in_thread": 0,
+    "author": "Mike Chen",
+    "published": "2026-06-23T19:43:00.000+03:00",
+    "title": "Chelsea Inferno Claims Two Lives, Leaves North Common Reeling - NewsBreak",
+    "text": "By Mike Chen ,\n1 days ago Two people killed in a fierce early-morning house fire on North Common in Chelsea have now been publicly identified. Vermont State Police on Monday named the victims as 71-year-old Karen Snyder and 57-year-old Max Quayle. According to a Vermont State Police news release, the blaze was reported around 3:15 a.m.... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->fire"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://hoodline.com/2026/06/chelsea-inferno-claims-two-lives-leaves-north-common-reeling/?utm=newsbreak",
+        "https://www.hoodline.com/2026/06/chelsea-inferno-claims-two-lives-leaves-north-common-reeling/?utm=newsbreak",
+        "https://hoodline.com/2026/06/chelsea-inferno-claims-two-lives-leaves-north-common-reeling/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mike Chen",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Max Quayle",
+                "sentiment": "none"
+            },
+            {
+                "name": "Karen Snyder",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chelsea",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "North Common",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Vermont State Police",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:21:03.196+03:00",
+    "updated": "2026-06-25T07:45:59.000+03:00"
+}

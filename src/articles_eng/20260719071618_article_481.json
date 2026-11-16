@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "2a03203b02375250afc46f896ec1ebbbcbd01e99",
+        "url": "https://www.newsbreak.com/news-12-1587832/4772881098529-smoke-from-canadian-wildfires-takes-toll-on-bridgeport-s-vulnerable-population-officials-say",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/bridgeport-ct",
+        "site_categories": [
+            "sport",
+            "under_construction",
+            "disaster and accident",
+            "economy, business and finance",
+            "human interest",
+            "social issue",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "politics"
+        ],
+        "section_title": "Bridgeport, CT Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Smoke from Canadian wildfires takes toll on Bridgeport's vulnerable population, officials say - NewsBreak",
+        "title_full": "Smoke from Canadian wildfires takes toll on Bridgeport's vulnerable population, officials say - NewsBreak",
+        "published": "2026-07-16T04:14:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1P8Avm_1DLG6sJz00",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2a03203b02375250afc46f896ec1ebbbcbd01e99",
+    "url": "https://www.newsbreak.com/news-12-1587832/4772881098529-smoke-from-canadian-wildfires-takes-toll-on-bridgeport-s-vulnerable-population-officials-say",
+    "ord_in_thread": 0,
+    "author": "Frank Recchia",
+    "published": "2026-07-16T04:14:00.000+03:00",
+    "title": "Smoke from Canadian wildfires takes toll on Bridgeport's vulnerable population, officials say - NewsBreak",
+    "text": "By Frank Recchia ,\n3 hours ago\nBridgeport officials say dangerously and poor air quality has gripped the city due to smoke from Canadian wildfires.\nThey say that's left nonprofits scrambling and vulnerable residents facing severe hardships.\nAt the Thomas Merton Family Center, operations manager Angelica Paccha revealed the nonprofit is spending $5,000 a month to rent industrial air conditioning units. The extra equipment is needed to supplement the brand-new facility's high-end HVAC system -- just to keep the air safe.\nOfficials warned that without these interventions, the poor air quality could prove deadly to vulnerable residents.",
+    "summary": "Bridgeport officials say dangerously and poor air quality has gripped the city due to smoke from Canadian wildfires. They say that's left nonprofits scrambling and vulnerable residents facing severe hardships. At the Thomas Merton Family Center, operations manager Angelica Paccha revealed the nonprofit is spending $5,000 a month to rent industrial air conditioning units. The extra equipment is needed to supplement the brand-new facility's high-end HVAC system -- just to keep the air safe. Officials warned that without these interventions, the poor air quality could prove deadly to vulnerable residents.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health",
+        "Environment"
+    ],
+    "topics": [
+        "Health->injury",
+        "Health->medical condition",
+        "Environment->air pollution"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1P8Avm_1DLG6sJz00",
+        "https://img.particlenews.com/image.php?url=1P8Avm_1DLG6sJz00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?url=1P8Avm_1DLG6sJz00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1P8Avm_1DLG6sJz00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Frank Recchia",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Angelica Paccha",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Bridgeport",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Thomas Merton Family Center",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "2a03203b02375250afc46f896ec1ebbbcbd01e99",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Bridgeport"
+            ],
+            "state": [
+                "Connecticut"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:31:31.782+03:00",
+    "updated": "2026-07-16T07:41:25.000+03:00"
+}

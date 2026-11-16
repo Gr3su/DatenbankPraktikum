@@ -1,0 +1,161 @@
+{
+    "thread": {
+        "uuid": "69270f3daddb4f7fa5ec47919fbc504cd0f5fdfb",
+        "url": "https://www.newsbreak.com/news/4863846916317-as-nearby-restaurants-close-crossroads-owner-searches-for-way-to-stay",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/independence-mo",
+        "site_categories": [
+            "sport",
+            "politics",
+            "social issue",
+            "economy, business and finance",
+            "human interest",
+            "arts, culture and entertainment",
+            "under_construction",
+            "lifestyle and leisure",
+            "crime, law and justice"
+        ],
+        "section_title": "Independence, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "As nearby restaurants close, Crossroads owner searches for way to stay - NewsBreak",
+        "title_full": "As nearby restaurants close, Crossroads owner searches for way to stay - NewsBreak",
+        "published": "2026-09-03T02:32:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0UiAvx_1Envdkcd00",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "69270f3daddb4f7fa5ec47919fbc504cd0f5fdfb",
+    "url": "https://www.newsbreak.com/news/4863846916317-as-nearby-restaurants-close-crossroads-owner-searches-for-way-to-stay",
+    "ord_in_thread": 0,
+    "author": "Ale Espinosa",
+    "published": "2026-09-03T02:32:00.000+03:00",
+    "title": "As nearby restaurants close, Crossroads owner searches for way to stay - NewsBreak",
+    "text": "By Ale Espinosa ,\n4 hours ago KANSAS CITY, Mo. (KCTV) - Jason Mendez and his team opened a vegan-Mexican restaurant concept before the World Cup, betting on neighborhood energy. Staying open in 2026 is its own kind of math, according to Mendez. “People’s expendable income, it... it trickles downhill,” said Mendez, part owner of Madrina Vegana.... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Human Interest",
+        "Social Issue"
+    ],
+    "topics": [
+        "Human Interest->award and prize",
+        "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kctv5.com/2026/09/02/nearby-restaurants-close-crossroads-owner-searches-way-stay/?outputType=amp",
+        "https://www.kctv5.com/2026/09/02/nearby-restaurants-close-crossroads-owner-searches-way-stay/",
+        "https://kctv5.com/2026/09/02/nearby-restaurants-close-crossroads-owner-searches-way-stay/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jason Mendez",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Ale Espinosa",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "KANSAS CITY",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Crossroads",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "KCTV",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Madrina Vegana",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Independence"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:33:48.607+03:00",
+    "updated": "2026-09-03T07:43:34.000+03:00"
+}

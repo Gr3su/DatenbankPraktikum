@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "c23a930c2067e74c2d483dffdc9d3aa5f53abee9",
+        "url": "https://www.world-today-news.com/how-to-opt-out-of-twitch-using-your-streams-for-amazon-ai-training",
+        "site_full": "www.world-today-news.com",
+        "site": "world-today-news.com",
+        "site_section": "https://www.world-today-news.com/",
+        "site_categories": [
+            "media",
+            "science and technology",
+            "economy, business and finance",
+            "politics",
+            "sport",
+            "health",
+            "arts, culture and entertainment",
+            "lifestyle and leisure"
+        ],
+        "section_title": "World Today News - Your Global News Source Directory",
+        "site_title": "World Today News - Your Global News Source Directory",
+        "title": "How to Opt Out of Twitch Using Your Streams for Amazon AI Training",
+        "title_full": "How to Opt Out of Twitch Using Your Streams for Amazon AI Training",
+        "published": "2026-08-13T06:18:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 134209,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c23a930c2067e74c2d483dffdc9d3aa5f53abee9",
+    "url": "https://www.world-today-news.com/how-to-opt-out-of-twitch-using-your-streams-for-amazon-ai-training",
+    "ord_in_thread": 0,
+    "author": "Rachel Kim - Technology Editor",
+    "published": "2026-08-13T06:18:00.000+03:00",
+    "title": "How to Opt Out of Twitch Using Your Streams for Amazon AI Training",
+    "text": "Twitch Faces Developer and User Backlash Over Default Amazon Generative AI Training on Livestreams Twitch is facing widespread user and creator backlash following updates revealing that the streaming platform now trains Amazon’s generative AI models on user livestreams by default, requiring creators to manually opt out if they wish to protect their content, according to reports by BBC and TechCrunch.\nThe Tech TL;DR: The Core Update: Twitch automatically enrolls creator livestreams into training datasets for Amazon’s generative AI models without explicit prior consent. The Backlash: Community feedback highlights deep friction over data harvesting, forcing creators and enterprise publishers to audit asset management policies. Architectural Implications of Default Data Ingestion According to coverage by Windows Central, internal admissions from the platform underscore a stark reality: if data ingestion relied strictly on an opt-in framework, user participation rates would remain near zero. By setting data scraping as the default state, system architects ensure a continuous pipeline of diverse inputs, bypassing the typical friction associated with acquiring explicit training permissions.\nEvaluating the Opt-Out Mechanism and API Limitations For creators wishing to prevent their video feeds from feeding model training pipelines, the current implementation demands manual intervention within account dashboards. Per reporting from AOL.com and IGN Southeast Asia, the default setting remains active unless explicitly toggled off.\ncurl -X GET \"https://api.twitch.tv/helix/users\" -H \"Client-ID: your_client_id\" -H \"Authorization: Bearer your_oauth_token\"\nEnterprise Risk Management and Future Infrastructure Outlook\n*Disclaimer: The technical analyses and security protocols detailed in this article are for informational purposes only. Always consult with certified IT and cybersecurity professionals before altering enterprise networks or handling sensitive data.*\nTwitch is now training their Generative AI on YOUR content! Here's how to turn it OFF",
+    "summary": "Twitch Faces Developer and User Backlash Over Default Amazon Generative AI Training on Livestreams Twitch is facing widespread user and creator backlash following updates revealing that the streaming platform now trains Amazon’s generative AI models on user livestreams by default, requiring creators to manually opt out if they wish to protect their content, according to reports by BBC and TechCrunch. The Tech TL;DR: The Core Update: Twitch automatically enrolls creator livestreams into training datasets for Amazon’s generative AI models without explicit prior consent.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->scientific research",
+        "Science and Technology->biotechnology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.youtube.com/embed/AIMWhBKnDfs",
+        "https://api.twitch.tv/helix/users",
+        "https://youtube.com/embed/AIMWhBKnDfs",
+        "https://www.api.twitch.tv/helix/users"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "BBC",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "BBC",
+                        "exchange": "NYSEARCA"
+                    }
+                ]
+            },
+            {
+                "name": "TechCrunch",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Twitch",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Amazon",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "AMZN",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:32:39.817+03:00",
+    "updated": "2026-08-13T07:34:56.000+03:00"
+}

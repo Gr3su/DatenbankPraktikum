@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "cc3374a9120c46a1ca19024383ab925bd223719d",
+        "url": "https://www.newsbreak.com/news/4890469036714-shooting-reported-on-westwood-drive-over-the-weekend",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/vaiden-ms",
+        "site_categories": [
+            "economy, business and finance",
+            "politics",
+            "lifestyle and leisure",
+            "social issue",
+            "sport",
+            "arts, culture and entertainment",
+            "human interest",
+            "crime, law and justice",
+            "under_construction"
+        ],
+        "section_title": "Vaiden, MS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Shooting Reported on Westwood Drive Over the Weekend - NewsBreak",
+        "title_full": "Shooting Reported on Westwood Drive Over the Weekend - NewsBreak",
+        "published": "2026-09-15T00:49:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1kZy6h_1FDkcCxG00",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cc3374a9120c46a1ca19024383ab925bd223719d",
+    "url": "https://www.newsbreak.com/news/4890469036714-shooting-reported-on-westwood-drive-over-the-weekend",
+    "ord_in_thread": 0,
+    "author": "Ashlee Davis",
+    "published": "2026-09-15T00:49:00.000+03:00",
+    "title": "Shooting Reported on Westwood Drive Over the Weekend - NewsBreak",
+    "text": "By Ashlee Davis ,\n2 days ago A shooting was reported on Westwood Dr. in Kosciusko on Sunday, Sept. 13. According to police scanner traffic, Kosciusko-Attala Communications received multiple calls reporting several shots were fired in the area at approximately 12:37 a.m. Scanner traffic indicated that a person believed to be involved in the shooting may have... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->homicide",
+        "Crime, Law and Justice->investigation (criminal)"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.breezynews.com/local/shooting-reported-on-westwood-drive-over-the-weekend/",
+        "https://www.breezynews.com/local/shooting-reported-on-westwood-drive-over-the-weekend",
+        "https://breezynews.com/local/shooting-reported-on-westwood-drive-over-the-weekend/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ashlee Davis",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kosciusko",
+                "sentiment": "none"
+            },
+            {
+                "name": "Westwood",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Kosciusko - Attala Communications",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Vaiden"
+            ],
+            "state": [
+                "Mississippi"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:24:41.658+03:00",
+    "updated": "2026-09-17T08:26:55.000+03:00"
+}

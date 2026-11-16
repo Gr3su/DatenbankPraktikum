@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "a3fbf6387b886b9c8835529c03d8d63aeba0c75b",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4621523560103-severe-thunderstorm-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/nws-alerts-1671083",
+        "site_categories": [
+            "lifestyle and leisure",
+            "under_construction",
+            "crime, law and justice",
+            "economy, business and finance",
+            "politics",
+            "human interest",
+            "arts, culture and entertainment",
+            "sport"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "published": "2026-04-30T06:28:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/423Kfr_1AvkvW0200",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a3fbf6387b886b9c8835529c03d8d63aeba0c75b",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4621523560103-severe-thunderstorm-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2026-04-30T06:28:00.000+03:00",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "text": "1 hours ago Check NWS updates here\nEffective: 2026-04-29 22:28:00 CDT Expires: 2026-04-29 22:38:00 CDT Urgency: Immediate Severity: Severe Certainty: Observed Target Area: San Augustine, TX; Shelby, TX The storm which prompted the warning has moved out of the area. Therefore, the warning will be allowed to expire. To report severe weather, contact your nearest law enforcement agency. They will send your report to the National Weather Service office.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Weather->weather phenomena"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=423Kfr_1AvkvW0200",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=423Kfr_1AvkvW0200",
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.ebbcf9ef34c5580f1d79c4af93899e8fa7ae9504.001.1",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.ebbcf9ef34c5580f1d79c4af93899e8fa7ae9504.001.1",
+        "https://alerts.weather.gov/search",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=423Kfr_1AvkvW0200",
+        "https://www.img.particlenews.com/image.php?url=423Kfr_1AvkvW0200"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "TX",
+                "sentiment": "none"
+            },
+            {
+                "name": "San Augustine",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shelby",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service office",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:31:04.484+03:00",
+    "updated": "2026-04-30T07:33:05.000+03:00"
+}

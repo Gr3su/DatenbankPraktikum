@@ -1,0 +1,126 @@
+{
+    "thread": {
+        "uuid": "e0e4934caa7bfb91838ab347ff54278f661e4907",
+        "url": "https://www.newsbreak.com/news/4427631344322-five-arrested-across-two-investigations-this-weekend",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/black-hawk-sd",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Black Hawk, SD Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Five arrested across two investigations this weekend - NewsBreak",
+        "title_full": "Five arrested across two investigations this weekend - NewsBreak",
+        "published": "2026-01-06T10:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0esOom_17pNcQkI00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e0e4934caa7bfb91838ab347ff54278f661e4907",
+    "url": "https://www.newsbreak.com/news/4427631344322-five-arrested-across-two-investigations-this-weekend",
+    "ord_in_thread": 0,
+    "author": "Tyler Louder",
+    "published": "2026-01-06T10:22:00.000+02:00",
+    "title": "Five arrested across two investigations this weekend - NewsBreak",
+    "text": "By Tyler Louder ,\n1 days ago RAPID CITY, S.D. (KELO) — Rapid City Police have been busy with crimes involving guns this past Sunday. Police were dispatched to a gas station on Mount Rushmore Road for the report of a robbery at gunpoint in broad daylight. “It happened at 11:40 a.m. and I think a... Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tyler Louder",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Mount Rushmore Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "KELO",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Blackhawk"
+            ],
+            "state": [
+                "South Dakota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-08T07:18:56.486+02:00",
+    "updated": "2026-01-08T07:24:43.000+02:00"
+}

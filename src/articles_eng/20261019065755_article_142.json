@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "49e7dda293b4047e9b13d08a5ff4669f077bc49a",
+        "url": "http://www.chinadaily.com.cn/a/202610/16/WS6ad19bb0e4b06d4aa05632e2.html",
+        "site_full": "www.chinadaily.com.cn",
+        "site": "chinadaily.com.cn",
+        "site_section": "http://www.chinadaily.com.cn/business",
+        "site_categories": [
+            "travel",
+            "sport",
+            "environment",
+            "politics",
+            "japan",
+            "media",
+            "science and technology",
+            "arts, culture and entertainment",
+            "economy, business and finance"
+        ],
+        "section_title": "Business News - China Economy &amp;#38; Company - chinadaily.com.cn",
+        "site_title": "China Daily Website - Connecting China Connecting the World",
+        "title": "ByteDance sets up AI safety team, launches global hiring drive",
+        "title_full": "ByteDance sets up AI safety team, launches global hiring drive",
+        "published": "2026-10-16T06:36:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2619,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T04:11:35.000+00:00"
+        }
+    },
+    "uuid": "49e7dda293b4047e9b13d08a5ff4669f077bc49a",
+    "url": "http://www.chinadaily.com.cn/a/202610/16/WS6ad19bb0e4b06d4aa05632e2.html",
+    "ord_in_thread": 0,
+    "author": "刘志华",
+    "published": "2026-10-16T06:36:00.000+03:00",
+    "title": "ByteDance sets up AI safety team, launches global hiring drive",
+    "text": "ByteDance’s AI research unit Seed has established an Alignment & Preparedness team dedicated to AI safety research and kicked off a global recruitment drive to hire 10 top researchers, according to an announcement from Seed.\nThe team will work on large-model alignment, risk evaluation and mitigation for advanced AI systems, with bases in Beijing, Shanghai and San Jose.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science",
+        "Science and Technology->scientific research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Beijing",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shanghai",
+                "sentiment": "none"
+            },
+            {
+                "name": "San Jose",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ByteDance",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "Alignment & Preparedness",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "Seed",
+                "sentiment": "positive",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_cn",
+            "top_news"
+        ],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:04:29.709+03:00",
+    "updated": "2026-10-16T07:11:35.000+03:00",
+    "related_articles": null
+}

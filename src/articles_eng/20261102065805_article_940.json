@@ -1,0 +1,155 @@
+{
+    "thread": {
+        "uuid": "4b4a6416012944954716fc1ddd0b0e0e909b1401",
+        "url": "https://www.hindustantimes.com/world-news/nvidia-chief-jensen-huang-ties-with-suspected-china-spy-alice-huang-normal-megaspeed-executive-part-of-ceos-job-101793332696770.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/astrology/horoscope",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "social issue",
+            "economy, business and finance",
+            "media",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "Horoscope Today: Daily, Weekly, Monthly & Yearly Horoscope Predictions | Hindustan Times | Hindustan Times",
+        "site_title": "Hindustan Times: Breaking News, Latest News, India News, World News & Cricket Today's Headlines | Hindustan Times",
+        "title": "'Part of CEO's job': Nvidia says Jensen Huang's ties with suspected China spy 'not unusual' | World News",
+        "title_full": "'Part of CEO's job': Nvidia says Jensen Huang's ties with suspected China spy 'not unusual' | World News",
+        "published": "2026-10-30T07:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/10/30/1600x900/logo/GERMANY-NVIDIA--6_1793336171636_o6Pl_1793336196433_fCJq_d1fa286b-a6d2-4b86-b46e-4e3b1cbe7f2b_XcSy.JPG",
+        "performance_score": 0,
+        "domain_rank": 2735,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-30T05:24:57.000+00:00"
+        }
+    },
+    "uuid": "4b4a6416012944954716fc1ddd0b0e0e909b1401",
+    "url": "https://www.hindustantimes.com/world-news/nvidia-chief-jensen-huang-ties-with-suspected-china-spy-alice-huang-normal-megaspeed-executive-part-of-ceos-job-101793332696770.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-10-30T07:06:00.000+02:00",
+    "title": "'Part of CEO's job': Nvidia says Jensen Huang's ties with suspected China spy 'not unusual' | World News",
+    "text": "Alice's ties with Nvidia chief raised alarm; Trump was briefed about issue\nAlice Huang or Huang Le was under surveillance for more than a year for diverting advanced Nvidia AI chips to China, New York Times reported quoting US intelligence officials.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->human resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jensen Huang",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Alice Huang",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Huang Le",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "China",
+                "sentiment": "none"
+            },
+            {
+                "name": "US",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Nvidia",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "NVDA",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "New York Times",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "NYT",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "World News",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-30T07:22:55.394+02:00",
+    "updated": "2026-10-30T07:24:57.000+02:00",
+    "related_articles": null
+}

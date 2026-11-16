@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "3b03e71f29bb85d650dbbefa245a6ec4cfdbff68",
+        "url": "https://mcgovern.mit.edu/2026/07/08/how-visual-learning-happens-in-the-brain/",
+        "site_full": "mcgovern.mit.edu",
+        "site": "mit.edu",
+        "site_section": "https://mcgovern.mit.edu/news",
+        "site_categories": [
+            "health",
+            "brain_tumor",
+            "science and technology"
+        ],
+        "section_title": "News - MIT McGovern Institute",
+        "site_title": "Unraveling the Mysteries of the Brain - MIT McGovern Institute",
+        "title": "How visual learning happens in the brain",
+        "title_full": "How visual learning happens in the brain",
+        "published": "2026-07-08T17:18:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://mcgovern.mit.edu/wp-content/uploads/2026/06/neural-network-900x600-1.jpg",
+        "performance_score": 0,
+        "domain_rank": 224,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3b03e71f29bb85d650dbbefa245a6ec4cfdbff68",
+    "url": "https://mcgovern.mit.edu/2026/07/08/how-visual-learning-happens-in-the-brain/",
+    "ord_in_thread": 0,
+    "author": "Julie Pryor",
+    "published": "2026-07-08T17:18:00.000+03:00",
+    "title": "How visual learning happens in the brain",
+    "text": "The wiring and rewiring of the brain never ends. Neural pathways are constantly being reshaped as we interact with the world and learn new things. At MIT’s McGovern Institute and York University in Toronto, scientists are combining detailed analysis of brain activity with computational modeling to better understand that change.\nMcGovern Institute postdoctoral fellow Lynn Sörensen , Investigator James DiCarlo , and York University assistant professor Kohitij Kar worked together to compare what happened when monkeys and an artificial neural network with brain-like architecture were trained to visually identify the same objects. As the model’s performance improved, it reorganized itself in ways that closely paralleled changes the team detected in the brains of monkeys.\nTheir work, reported today in the journal Nature Communications , shows how changes in visual processing support animals’ ability to learn to discriminate new kinds of objects. By modeling these changes, the researchers hope to better predict how training reshapes perception, which could one day inform educational strategies for a wide range of learners.\nSubtle changes Learning about a new object calls on many parts of the brain. Visual-processing areas work together to make sense of information taken in through the eyes, then communicate with other brain areas to give the visual information meaning and guide behavior. Multiple parts of this system likely change during learning, and the research team wanted a clearer understanding of how that change is distributed.\nNeuroscientists have debated how much change occurs in the brain’s visual-processing areas when an animal learns to recognize new objects. Some suspected that visual-processing pathways remain largely unchanged during learning to avoid broadly disrupting visual perception, but others have reported changes in activity within dedicated visual-processing areas with this kind of learning in humans and other primates.\nTo take a closer look, the team focused on neural activity in a key component of the brain’s visual object-processing network, the inferior temporal (IT) cortex. By the time visual information reaches the IT cortex, key object features are clearly represented—so much so that it’s possible to “decode” what object a monkey is seeing and even predict what errors it’s likely to make in identifying it, simply by analyzing patterns of neural activity there.\nThe team recorded neural activity in the IT cortex from two groups of monkeys as the animals looked at and identified images of objects. Some of the monkeys were untrained, so the images they saw had little meaning to them. Others had already learned to identify similar objects, so they could usually discriminate between elephants, chairs, and other select objects, even when those objects were presented at different sizes, from different angles, or against different backgrounds than the ones they had seen before.\nThe broad pattern of activity in the IT cortex was largely similar in trained and untrained monkeys, suggesting that learning had not dramatically rewritten this high-level visual representation. Still, the group found subtle but reliable differences in the way neurons in the IT cortex responded to images in monkeys that had learned to recognize the kinds of objects they were shown, compared to the untrained monkeys.\nModeling learning The group turned to computational models to investigate how those modest changes might contribute to learning. Sörensen trained a suite of artificial neural networks whose internal components had been mapped to monkey IT cortex to identify the same categories of objects the monkeys had seen. The models were designed to learn using gradient descent, meaning they continually improved their accuracy by adjusting their parameters in response to errors.\nOnly some of the primate-like models showed learning behavior that matched that of the monkeys. In those that did, the IT-like stage changed in ways that resembled the learning-related changes the researchers had observed in the IT cortex of trained monkeys.\nWhile gradient descent is commonly used to train artificial intelligence, it is generally considered biologically implausible as a direct model of how the brain learns. The researchers say the strong match in learning effects between the monkeys and their model demonstrates that these kinds of artificial neural networks can offer insights into biological learning at a useful level of abstraction, even if the brain does not learn in the same way.\n“This shows that you can actually build in silico versions of future experiments,” Sörensen says. “I think that gives us this playground of asking ‘what if’ questions—and potentially predicting new things that go beyond the experimenter’s intuition.”\nMost of the changes that allowed for learning in the model occurred outside of the IT cortex. “This tells us that there is a lot between the area we recorded from and the final behavioral readout that needs to change during this process,” Kar says. He adds that the team’s model will be useful as researchers look more deeply into how downstream brain areas contribute to learning.\nThe researchers stress that their study allowed more granular measurements of brain activity than would be possible in humans, and because monkeys’ brains are organized similarly to our own, their experiments have direct relevance to human learning. They say understanding the impact of plasticity in monkeys’ IT cortex could help researchers design new learning strategies for humans.\n“Our prior conceptual working model of you—or a monkey—learning new objects was that your brain makes changes to synaptic connections that are largely downstream of your visual system, so you don’t destroy your visual system,” says DiCarlo, who is also the Peter de Florez Professor of Brain and Cognitive Sciences and Director of the MIT Siegel Family Quest for Intelligence. “You wouldn’t want your whole visual system to become an elephant detector [just because you’ve learned to identify an elephant]. But this study went beyond that to say actually, when you learn ‘elephant,’ your IT does change a little bit to make it a little more relevant to elephants.”\nThat likely has consequences for recognizing other visual features, too. Subtle changes in the IT cortex that support elephant recognition might also make you better at identifying things other than elephants, DiCarlo says. Likewise, the same changes might make it a little harder to identify something else.\nThese kinds of consequences may be difficult to predict intuitively, but become obvious with computational modeling. For instance, the team’s models revealed that after learning to recognize new objects, the IT cortex contained more information about objects’ locations. By providing insights like these, models could aid the design of more effective training strategies for visual tasks, including for people with altered sensory processing, who may learn from visual information in atypical ways.",
+    "summary": "At MIT’s McGovern Institute and York University in Toronto, scientists are combining detailed analysis of brain activity with computational modeling to better understand that change. McGovern Institute postdoctoral fellow Lynn Sörensen, Investigator James DiCarlo, and York University assistant professor Kohitij Kar worked together to compare what happened when monkeys and an artificial neural network with brain-like architecture were trained to visually identify the same objects. Their work, reported today in the journal Nature Communications, shows how changes in visual processing support animals’ ability to learn to discriminate new kinds of objects.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->biology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://vital-kolab.org/",
+        "https://lynnsoerensen.github.io/",
+        "https://www.nature.com/articles/s41467-026-74816-0",
+        "https://www.vital-kolab.org/",
+        "https://vital-kolab.org",
+        "https://www.lynnsoerensen.github.io/",
+        "https://lynnsoerensen.github.io",
+        "https://nature.com/articles/s41467-026-74816-0"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "James DiCarlo",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kohitij Kar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lynn Sörensen",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Toronto",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "York University",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "McGovern Institute",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "MIT",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:27:16.630+03:00",
+    "updated": "2026-07-09T10:35:52.601+03:00"
+}

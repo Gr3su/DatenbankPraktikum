@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "5eb38272b47bf0955c862546f8607756ef9309dd",
+        "url": "https://rochesterreporter.com/stories/673860429-early-antibiotics-may-impair-infant-immunity-inosine-offers-potential-solution",
+        "site_full": "rochesterreporter.com",
+        "site": "rochesterreporter.com",
+        "site_section": "https://rochesterreporter.com/stories",
+        "site_categories": [],
+        "section_title": "Latest News from Rochester Reporter | Rochester Reporter",
+        "site_title": "Rochester Reporter",
+        "title": "Early antibiotics may impair infant immunity; inosine offers potential solution",
+        "title_full": "Early antibiotics may impair infant immunity; inosine offers potential solution",
+        "published": "2025-06-19T12:41:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://s3.amazonaws.com/jnswire/jns-media/e0/9d/25086019/webp_hhsvdj5au62dzty1h3dagz2i290y.webp",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5eb38272b47bf0955c862546f8607756ef9309dd",
+    "url": "https://rochesterreporter.com/stories/673860429-early-antibiotics-may-impair-infant-immunity-inosine-offers-potential-solution",
+    "ord_in_thread": 0,
+    "author": "Rochester Reporter",
+    "published": "2025-06-19T12:41:00.000+03:00",
+    "title": "Early antibiotics may impair infant immunity; inosine offers potential solution",
+    "text": "Valentina Kutyifa, MD Vice-Chair for Clinical Research | University Of Rochester Medical Center\nValentina Kutyifa, MD Vice-Chair for Clinical Research | University Of Rochester Medical Center\nA recent study conducted by researchers at the University of Rochester Medical Center (URMC) has revealed that early exposure to antibiotics can adversely affect an infant's immune system development. The study, published in Cell, suggests that a naturally occurring metabolite called inosine may help reverse this damage.\nThe research indicates that antibiotic exposure during pregnancy and infancy could weaken the immune system's capacity to combat respiratory infections such as the flu. By examining both mouse models and human infant lung tissue, scientists found that antibiotics disrupt the gut microbiome's ability to produce inosine, a molecule crucial for developing immune cells.\nSenior author Hitesh Deshmukh, MD, PhD, explained: \"Think of inosine as a molecular messenger. It travels from the gut to developing immune cells, telling them how to mature properly and prepare for future infections.\"\nThe project is part of a long-term NIH initiative aimed at understanding how early-life exposures influence lifelong disease risks like asthma and chronic lung disease. Deshmukh stated: \"We know that antibiotics can be lifesaving for infants, but they also disrupt the microbiome during a critical window of immune development.\"\nThe disruption impacts the formation of tissue-resident memory T cells in the lungs, which provide long-term protection against viral infections. Without these cells, infants might remain susceptible to severe respiratory illnesses into adulthood.\nDeshmukh noted: \"We've discovered that the gut microbiome acts as a teacher for the developing immune system.\" He likened antibiotic disruption to removing key chapters from a textbook necessary for learning about fighting respiratory infections.\nThe study compared mice exposed to common antibiotics with those maintaining natural gut bacteria. Findings showed reduced populations of protective CD8+ T cells in antibiotic-exposed mice and impaired formation of tissue-resident memory cells. These deficits persisted into adulthood.\nUsing samples from URMC's BRINDL biobank, similar immune deficits were observed in human infants exposed to antibiotics. However, supplementing mice with inosine largely restored their ability to develop functional memory T cells.\n\"This suggests we might be able to protect at-risk infants through targeted supplementation,\" said Deshmukh. Although more research is needed before clinical application, it provides potential therapeutic avenues.\nThe findings may guide future interventions such as dietary supplements or microbiome-supportive strategies without relying solely on antibiotics or probiotics. The study highlights balancing antibiotic benefits with careful stewardship during sensitive developmental periods.\nDeshmukh acknowledged GCH neonatologist Gloria Pryhuber, MD's significant contribution through her BRINDL biobank work: \"This paper wouldn't have been possible without Dr. Pryhuber's generosity and expertise.\"\nORGANIZATIONS IN THIS STORY\n!RECEIVE ALERTS\nSign-up\nDONATE\nDonate",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Valentina Kutyifa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hitesh Deshmukh",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "University of Rochester Medical Center",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-10T07:26:03.595+03:00",
+    "updated": "2025-07-10T07:26:03.595+03:00"
+}

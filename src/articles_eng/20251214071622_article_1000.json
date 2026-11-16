@@ -1,0 +1,112 @@
+{
+    "thread": {
+        "uuid": "ff1aaeef32d4ab340d2f954589fcdab1ea2d9fc6",
+        "url": "https://www.newsbreak.com/news/4391130503822-hospitals-across-the-region-receive-autumn-report-card",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/paducah-ky",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Paducah, KY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Hospitals across the region receive autumn report card - NewsBreak",
+        "title_full": "Hospitals across the region receive autumn report card - NewsBreak",
+        "published": "2025-12-10T21:58:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-12-07T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ff1aaeef32d4ab340d2f954589fcdab1ea2d9fc6",
+    "url": "https://www.newsbreak.com/news/4391130503822-hospitals-across-the-region-receive-autumn-report-card",
+    "ord_in_thread": 0,
+    "author": "Alexis Barrett",
+    "published": "2025-12-10T21:58:00.000+02:00",
+    "title": "Hospitals across the region receive autumn report card - NewsBreak",
+    "text": "By Alexis Barrett ,\n9 hours ago PADUCAH — The Leapfrog Group, a nonprofit watchdog organization, has updated their fall 2025 report card, with hospitals across the Local 6 region struggling to get out of the C's. In Kentucky, Mercy Health Lourdes in Paducah, Baptist Health Paducah, and Jackson Purchase Medical Center in Mayfield all earned... Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->hospital"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alexis Barrett",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Leapfrog Group",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Paducah"
+            ],
+            "state": [
+                "Kentucky"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-11T07:45:52.486+02:00",
+    "updated": "2025-12-11T07:47:42.000+02:00"
+}

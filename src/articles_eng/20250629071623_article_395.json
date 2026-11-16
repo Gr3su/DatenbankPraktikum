@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "0d39dc4f15f9fbab8db7090cdb9e8f0eeefeff24",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4074387094516-severe-thunderstorm-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "published": "2025-06-26T03:13:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/423Kfr_12ARd0x400",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0d39dc4f15f9fbab8db7090cdb9e8f0eeefeff24",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4074387094516-severe-thunderstorm-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-06-26T03:13:00.000+03:00",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here SVRFFC The National Weather Service in Peachtree City has issued a * Severe Thunderstorm Warning for... Spalding County in west central Georgia... Southwestern DeKalb County in north central Georgia... Northeastern Fayette County in north central Georgia... Northeastern Pike County in west central Georgia... Henry County in north central Georgia... Clayton County in north central Georgia... South central Fulton County in north central Georgia... * Until 1245 AM EDT. * At 1212 AM EDT, severe thunderstorms were located along a line extending from Bolton to Hidden Valley Park to near East Griffin, moving southwest at 15 mph. HAZARD...60 mph wind gusts and quarter size hail. SOURCE...Radar indicated. IMPACT...Hail damage to vehicles is expected. Expect wind damage to roofs, siding, and trees. * Locations impacted include... Atlanta, Douglasville, Griffin, McDonough, Decatur, Jonesboro, City of South Fulton, East Point, Stockbridge, Forest Park, Riverdale, College Park, Hampton, Morrow, Lovejoy, Hapeville, Locust Grove, Avondale Estates, Lake City, and Williamson.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Weather"
+    ],
+    "topics": [
+        "Disaster and Accident->emergency response",
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.788e141a6b35c5f013c6d9ce8b3fcf5f072cd76b.001.1",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.788e141a6b35c5f013c6d9ce8b3fcf5f072cd76b.001.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Griffin",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Northeastern Pike County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fayette County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Henry County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Locust Grove",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hapeville",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hidden",
+                "sentiment": "none"
+            },
+            {
+                "name": "South",
+                "sentiment": "none"
+            },
+            {
+                "name": "Park",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Avondale Estates",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-26T07:25:46.971+03:00",
+    "updated": "2025-06-26T04:31:42.000+00:00"
+}

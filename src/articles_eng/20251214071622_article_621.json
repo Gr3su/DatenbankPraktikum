@@ -1,0 +1,140 @@
+{
+    "thread": {
+        "uuid": "31cf5d279d3c18cea5f861e03a2ca0d418a4d64c",
+        "url": "https://www.news18.com/business/apples-india-operations-under-scrutiny-as-auditor-reports-it-and-compliance-lapses-ws-l-9763147.html",
+        "site_full": "www.news18.com",
+        "site": "news18.com",
+        "site_section": "https://www.news18.com/commonfeeds/v1/eng/rss/latest.xml",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Latest News in news18.com, Latest Latest News, Latest News",
+        "site_title": "News: Get Latest News Today, Breaking News, Top News Headlines, India and World News | News18",
+        "title": "Apple's India Operations Under Scrutiny as Auditor Reports IT and Compliance Lapses | Business News - News18",
+        "title_full": "Apple's India Operations Under Scrutiny as Auditor Reports IT and Compliance Lapses | Business News - News18",
+        "published": "2025-12-11T07:31:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.news18.com/ibnlive/uploads/2025/08/applesalary-2025-08-a91128ba1a01cb5f134ec72b15ced42e-16x9.jpg",
+        "performance_score": 1,
+        "domain_rank": 3556,
+        "domain_rank_updated": "2025-12-07T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 16,
+                "comments": 0,
+                "shares": 5
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "31cf5d279d3c18cea5f861e03a2ca0d418a4d64c",
+    "url": "https://www.news18.com/business/apples-india-operations-under-scrutiny-as-auditor-reports-it-and-compliance-lapses-ws-l-9763147.html",
+    "ord_in_thread": 0,
+    "author": "@cnnnews18",
+    "published": "2025-12-11T07:31:00.000+02:00",
+    "title": "Apple's India Operations Under Scrutiny as Auditor Reports IT and Compliance Lapses | Business News - News18",
+    "text": "The auditor SR Batliboi & Associates has flagged lapses in Apple’s failure to maintain daily electronic backups of its accounting records on servers located in India between April and October last year, according to Economic Times. The auditor also pointed out that they couldn’t verify if Apple was able to keep all audit trails as required by the law. The report flagged that the tech giant didn’t preserve the audit trail for the year ending March 31, 2024. The ET report stated that Apple’s main accounting software wasn’t active due to some changes made by users with high-level administrative access. The auditor added that they had found no signs of tampering in the parts of the system where the audit trail feature was enabled. As per ET report, Apple is outsourcing engineering equipment, rents office space, and hires engineers for hardware research and development for India operations. In FY25, the company posted revenue of Rs 314 crore and a profit of Rs 28 crore. It also paid Rs 137 crore in management fees to other Apple group companies and spent Rs 248 crore on equipment, which was likely purchased from these group entities. Apple Operations India is 99% owned by Apple Inc., with the remaining 1% held by Apple Europe. Apple’s other unit in the country, Apple India, manages sales operations. In FY25, Apple India reported a profit of Rs 3,196 crore on sales of Rs 79,378 crore. Its parent company is Apple Operations International.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Economy, Business and Finance->computing and information technology",
+        "Economy, Business and Finance->corporate news and profiles",
+        "Economy, Business and Finance->business governance",
+        "Crime, Law and Justice->cyber crime",
+        "Crime, Law and Justice->data breach"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Apple",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "AAPL",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "SR Batliboi & Associates",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Economic Times",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-11T07:33:59.876+02:00",
+    "updated": "2025-12-12T08:08:28.000+02:00"
+}

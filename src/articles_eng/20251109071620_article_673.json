@@ -1,0 +1,113 @@
+{
+    "thread": {
+        "uuid": "e29a9b0c3ca516b22b791938f59b2e09cd9d4371",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4334153245395-coastal-flood-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Coastal Flood Warning by NWS - NewsBreak",
+        "title_full": "Coastal Flood Warning by NWS - NewsBreak",
+        "published": "2025-11-06T07:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3kB0nC_16KBcJbF00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-10-26T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e29a9b0c3ca516b22b791938f59b2e09cd9d4371",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4334153245395-coastal-flood-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2025-11-06T07:28:00.000+02:00",
+    "title": "Coastal Flood Warning by NWS - NewsBreak",
+    "text": "4 minutes ago Check NWS updates here\nEffective: 2025-11-05 21:25:00 PST Expires: 2025-11-06 05:30:00 PST Urgency: Expected Severity: Severe Certainty: Likely Instruction: A Coastal Flood Warning means that flooding is occurring or imminent. Coastal residents in the warned area should be alert for rising water and take appropriate action to protect life and property. Feet Above Ground is locally defined as feet above the Highest Astronomical Tide or HAT. Target Area: Northern Humboldt Coast * WHAT...High astronomical tides and large surf will cause moderate flooding in low lying areas along the Redwood Coast. Up to one foot of saltwater inundation above ground level is possible in low lying areas near shorelines and tidal waterways. Between 9.4 and 9.7 feet MLLW at the north spit tide gauge is predicted.\n* WHERE...Northern Humboldt Coast County.\n* WHEN...From 10 AM to 1 PM PST Thursday. High tide is at 11:17 AM at the Humboldt Bay North Spit tide gauge. Saltwater inundation will be possible 1 to 2 hours before and after high tide.\n* IMPACTS...Several coastal roads may be closed. Low lying property and some critical infrastructure will be inundated. These impacts will include, but not limited to, roadways in King Salmon and the Arcata bottoms. Waves may wash across Centerville Beach Road. Shoreline erosion will occur.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather phenomena",
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=3kB0nC_16KBcJbF00",
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.457492ab3e4819f192a4fcfe35495d051016e0c2.002.2",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3kB0nC_16KBcJbF00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3kB0nC_16KBcJbF00",
+        "https://alerts.weather.gov/search",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.457492ab3e4819f192a4fcfe35495d051016e0c2.002.2",
+        "https://www.img.particlenews.com/image.php?url=3kB0nC_16KBcJbF00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Redwood Coast",
+                "sentiment": "none"
+            },
+            {
+                "name": "Coast County",
+                "sentiment": "none"
+            },
+            {
+                "name": "North Spit",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-11-06T07:33:32.328+02:00",
+    "updated": "2025-11-06T07:36:02.000+02:00"
+}

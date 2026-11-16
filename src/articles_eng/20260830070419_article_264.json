@@ -1,0 +1,170 @@
+{
+    "thread": {
+        "uuid": "795de33eb40578a851e4040a6ede1f125fbf876b",
+        "url": "https://www.newsbreak.com/news/4850712305391-southern-nevada-crews-deploy-to-elko-county-communities-battling-wildfires",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/henderson-nv",
+        "site_categories": [
+            "science and technology",
+            "social issue",
+            "human interest",
+            "under_construction",
+            "economy, business and finance",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "sport",
+            "politics",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Henderson, NV Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Southern Nevada crews deploy to Elko County communities battling wildfires - NewsBreak",
+        "title_full": "Southern Nevada crews deploy to Elko County communities battling wildfires - NewsBreak",
+        "published": "2026-08-26T19:13:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1xjoMN_1EagrAov00",
+        "performance_score": 0,
+        "domain_rank": 3157,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "795de33eb40578a851e4040a6ede1f125fbf876b",
+    "url": "https://www.newsbreak.com/news/4850712305391-southern-nevada-crews-deploy-to-elko-county-communities-battling-wildfires",
+    "ord_in_thread": 0,
+    "author": "Matthew Seeman",
+    "published": "2026-08-26T19:13:00.000+03:00",
+    "title": "Southern Nevada crews deploy to Elko County communities battling wildfires - NewsBreak",
+    "text": "By Matthew Seeman ,\n11 hours ago LAS VEGAS (KSNV) — Las Vegas valley firefighters are deploying to help fight wildfires in northeastern Nevada. Clark County Deputy Fire Chief Brian O'Neal said storms have started dozens of brush fires across Elko County in the last few days. The biggest fire, the Oxley Fire outside Wells, has... Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Environment"
+    ],
+    "topics": [
+        "Environment->environmental pollution"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://news3lv.com/news/local/las-vegas-valley-crews-strike-team-firefighters-wildfires-elko-county-northeastern-nevada",
+        "https://www.news3lv.com/news/local/las-vegas-valley-crews-strike-team-firefighters-wildfires-elko-county-northeastern-nevada"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Matthew Seeman",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Brian O ' Neal",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Elko County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Southern Nevada",
+                "sentiment": "none"
+            },
+            {
+                "name": "Las Vegas",
+                "sentiment": "none"
+            },
+            {
+                "name": "Clark County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wells",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "KSNV",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "LAS VEGAS",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Henderson"
+            ],
+            "state": [
+                "Nevada"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:14:09.152+03:00",
+    "updated": "2026-08-27T07:17:07.000+03:00"
+}

@@ -1,0 +1,114 @@
+{
+    "thread": {
+        "uuid": "be3103caf62411bc225028621dfcce5a02ee8a28",
+        "url": "https://www.newsbreak.com/wwl-524571/4345701285652-emails-released-in-the-jefferey-epstein-case",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/wwl-524571",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "WWL&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Emails released in the Jefferey Epstein case - NewsBreak",
+        "title_full": "Emails released in the Jefferey Epstein case - NewsBreak",
+        "published": "2025-11-13T06:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2SF6u1_16VpgnkY00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-10-26T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "be3103caf62411bc225028621dfcce5a02ee8a28",
+    "url": "https://www.newsbreak.com/wwl-524571/4345701285652-emails-released-in-the-jefferey-epstein-case",
+    "ord_in_thread": 0,
+    "author": "WWL",
+    "published": "2025-11-13T06:09:00.000+02:00",
+    "title": "Emails released in the Jefferey Epstein case - NewsBreak",
+    "text": "1 hours ago Democrats on the House Oversight Committee have released new emails from Jeffrey Epstein that mention Donald Trump. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->court"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jeffrey Epstein",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jefferey Epstein",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "House Oversight Committee",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-11-13T07:16:50.837+02:00",
+    "updated": "2025-11-13T07:19:08.000+02:00"
+}

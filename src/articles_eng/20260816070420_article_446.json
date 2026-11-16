@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "4834ca97c32b31edf2d151dc03f4f6d63db14079",
+        "url": "https://www.newsbreak.com/news/4825730800779-felonies-recorded-in-waushara-county",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/princeton-wi",
+        "site_categories": [
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "social issue",
+            "under_construction",
+            "health",
+            "human interest",
+            "crime, law and justice",
+            "politics",
+            "economy, business and finance",
+            "sport",
+            "science and technology"
+        ],
+        "section_title": "Princeton, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Felonies recorded in Waushara County - NewsBreak",
+        "title_full": "Felonies recorded in Waushara County - NewsBreak",
+        "published": "2026-08-13T01:24:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4834ca97c32b31edf2d151dc03f4f6d63db14079",
+    "url": "https://www.newsbreak.com/news/4825730800779-felonies-recorded-in-waushara-county",
+    "ord_in_thread": 0,
+    "author": "Opinion",
+    "published": "2026-08-13T01:24:00.000+03:00",
+    "title": "Felonies recorded in Waushara County - NewsBreak",
+    "text": "By Opinion ,\n5 hours ago Brian John Hart, Eau Claire, was in court on Aug. 6 on a count of Bail Jumping-Felony. A plea/sentencing hearing is scheduled for Sept. 29. Tammy T. Truax, Redgranite, was in court on Aug. 6 on a count of Bail Jumping-Felony. A preliminary hearing is scheduled for Aug. 13. John... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wausharaargus.com/stories/felonies-recorded-in-waushara-county,349429",
+        "https://wausharaargus.com/stories/felonies-recorded-in-waushara-county,349429"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brian John Hart",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Tammy T. Truax",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Waushara County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Eau Claire",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Redgranite",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Princeton"
+            ],
+            "state": [
+                "Wisconsin"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:25:32.129+03:00",
+    "updated": "2026-08-13T07:29:40.000+03:00"
+}

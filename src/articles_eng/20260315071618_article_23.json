@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "0bbcf2b40fdc805913f37320206893a043820836",
+        "url": "https://www.newsbreak.com/news/4534485664532-it-s-one-banana-san-francisco-how-much-could-it-cost",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/san-francisco-ca-lifestyle",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "sport",
+            "politics",
+            "human interest",
+            "crime, law and justice",
+            "under_construction",
+            "lifestyle and leisure"
+        ],
+        "section_title": "San Francisco, CA Lifestyle and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "It's one banana, San Francisco. How much could it cost? - NewsBreak",
+        "title_full": "It's one banana, San Francisco. How much could it cost? - NewsBreak",
+        "published": "2026-03-11T15:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2uauVw_19X2kN3500",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0bbcf2b40fdc805913f37320206893a043820836",
+    "url": "https://www.newsbreak.com/news/4534485664532-it-s-one-banana-san-francisco-how-much-could-it-cost",
+    "ord_in_thread": 0,
+    "author": "Astrid Kane",
+    "published": "2026-03-11T15:00:00.000+02:00",
+    "title": "It's one banana, San Francisco. How much could it cost? - NewsBreak",
+    "text": "By Astrid Kane ,\n16 hours ago There’s always money in the banana stand (opens in new tab). Sunday’s warm weather and 7 p.m. sunset brought thousands to Dolores Park for an afternoon of picnic blankets, sunbathing, and the not-at-all-discreet consumption of alcohol and cannabis that those grassy slopes are known for. But this time,... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->leisure"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Astrid Kane",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "San Francisco",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dolores Park",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-12T07:17:03.161+02:00",
+    "updated": "2026-03-12T07:19:46.000+02:00"
+}

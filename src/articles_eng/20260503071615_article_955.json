@@ -1,0 +1,112 @@
+{
+    "thread": {
+        "uuid": "f206948ab2d356e220191fb683b892fb9650ca1d",
+        "url": "https://www.jamestownpress.com/articles/correction-82/",
+        "site_full": "www.jamestownpress.com",
+        "site": "jamestownpress.com",
+        "site_section": "https://www.jamestownpress.com/feed",
+        "site_categories": [
+            "environment",
+            "politics",
+            "lifestyle and leisure",
+            "media",
+            "human interest",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Jamestown Press",
+        "site_title": "The Jamestown Press",
+        "title": "CORRECTION",
+        "title_full": "CORRECTION",
+        "published": "2026-04-30T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f206948ab2d356e220191fb683b892fb9650ca1d",
+    "url": "https://www.jamestownpress.com/articles/correction-82/",
+    "ord_in_thread": 0,
+    "author": "ohtadmin",
+    "published": "2026-04-30T07:00:00.000+03:00",
+    "title": "CORRECTION",
+    "text": "Thursday, April 30, 2026\nThe date for the Jamestown Historical Society’s “Evening at the Windmill” event was incorrectly listed in the April 23 edition of The Jamestown Press. The correct day is Friday, July 24. We regret the error.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Human Interest"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Jamestown Historical Society",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "The Jamestown Press",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Jamestown"
+            ],
+            "state": [
+                "Indiana",
+                "Colorado"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:42:22.996+03:00",
+    "updated": "2026-04-30T07:48:10.000+03:00"
+}

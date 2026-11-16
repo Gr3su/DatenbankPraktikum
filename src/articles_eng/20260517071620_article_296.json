@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "e7f9b29d25787a47d441360c150edc03a5b7ca83",
+        "url": "https://www.newsbreak.com/news/4648882231978-baseball-recap-waseca-comes-up-short",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/elysian-mn",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "crime, law and justice",
+            "human interest",
+            "under_construction",
+            "lifestyle and leisure",
+            "sport",
+            "politics"
+        ],
+        "section_title": "Elysian, MN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Baseball Recap: Waseca Comes Up Short - NewsBreak",
+        "title_full": "Baseball Recap: Waseca Comes Up Short - NewsBreak",
+        "published": "2026-05-13T09:40:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2965,
+        "domain_rank_updated": "2026-05-11T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e7f9b29d25787a47d441360c150edc03a5b7ca83",
+    "url": "https://www.newsbreak.com/news/4648882231978-baseball-recap-waseca-comes-up-short",
+    "ord_in_thread": 0,
+    "author": "Team Reports",
+    "published": "2026-05-13T09:40:00.000+03:00",
+    "title": "Baseball Recap: Waseca Comes Up Short - NewsBreak",
+    "text": "By Team Reports ,\n1 days ago Waseca fell victim to Le Sueur-Henderson and their airtight pitching crew on Monday. They wound up with the same score they had in their last game (3-0), but sadly the team found themselves on the wrong side of the score this time. The loss continues a trend for them in their meetings with the Giants: they've now lost five in a row. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->baseball"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Waseca",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Giants",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Elysian"
+            ],
+            "state": [
+                "Minnesota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-14T07:26:06.676+03:00",
+    "updated": "2026-05-14T09:52:56.164+03:00"
+}

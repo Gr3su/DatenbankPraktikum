@@ -1,0 +1,115 @@
+{
+    "thread": {
+        "uuid": "3006f73ee821eab06e4d2eec145dd4c26bfb3132",
+        "url": "http://www.chinadaily.com.cn/a/202608/20/WS6a867ef2a3106bc57421c8d5.html",
+        "site_full": "www.chinadaily.com.cn",
+        "site": "chinadaily.com.cn",
+        "site_section": "http://www.chinadaily.com.cn/china/59b8d010a3108c54ed7dfc25",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "travel",
+            "environment",
+            "politics",
+            "media",
+            "economy, business and finance",
+            "science and technology",
+            "japan"
+        ],
+        "section_title": "Military - Chinadaily.com.cn",
+        "site_title": "China Daily Website - Connecting China Connecting the World",
+        "title": "Ex-property developer sentenced to life in prison in first-instance trial",
+        "title_full": "Ex-property developer sentenced to life in prison in first-instance trial",
+        "published": "2026-08-20T07:13:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "http://img2.chinadaily.com.cn/images/202608/20/6a867f8fa3106bc5df924d24.jpeg",
+        "performance_score": 0,
+        "domain_rank": 2597,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3006f73ee821eab06e4d2eec145dd4c26bfb3132",
+    "url": "http://www.chinadaily.com.cn/a/202608/20/WS6a867ef2a3106bc57421c8d5.html",
+    "ord_in_thread": 0,
+    "author": "于小明",
+    "published": "2026-08-20T07:13:00.000+03:00",
+    "title": "Ex-property developer sentenced to life in prison in first-instance trial",
+    "text": "Xu Jiayin, the former actual controller of Evergrande Group, is sentenced to life in prison in a first-instance trial.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->corruption"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Xu Jiayin",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Evergrande Group",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "3333.HK",
+                        "exchange": "HKEX"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:29:59.376+03:00",
+    "updated": "2026-08-20T07:40:25.000+03:00"
+}

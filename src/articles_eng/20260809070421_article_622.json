@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "35d00ff3d1cd765cdbe585f9e279c940077cabf6",
+        "url": "https://www.newsbreak.com/ktar-news-560325/4811730200596-fbi-offers-30-000-reward-in-cold-case-killing-of-10-year-old-arizona-girl",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/ktar-news-560325",
+        "site_categories": [
+            "economy, business and finance",
+            "health",
+            "politics",
+            "under_construction",
+            "human interest",
+            "sport",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "social issue",
+            "lifestyle and leisure"
+        ],
+        "section_title": "KTAR News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "FBI offers $30,000 reward in cold case killing of 10-year-old Arizona girl - NewsBreak",
+        "title_full": "FBI offers $30,000 reward in cold case killing of 10-year-old Arizona girl - NewsBreak",
+        "published": "2026-08-06T01:17:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0UGNeA_1DyPG3sk00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "35d00ff3d1cd765cdbe585f9e279c940077cabf6",
+    "url": "https://www.newsbreak.com/ktar-news-560325/4811730200596-fbi-offers-30-000-reward-in-cold-case-killing-of-10-year-old-arizona-girl",
+    "ord_in_thread": 0,
+    "author": "DAVID IVERSEN",
+    "published": "2026-08-06T01:17:00.000+03:00",
+    "title": "FBI offers $30,000 reward in cold case killing of 10-year-old Arizona girl - NewsBreak",
+    "text": "By DAVID IVERSEN ,\n14 hours ago The FBI is offering up to $30,000 for information leading to an arrest and conviction in the 1996 sexual assault and killing of a 10-year-old girl in Yuma. Amberly Mendoza was found dead in the bedroom on March 9, 1996 after Yuma police officers responded to a disturbance call. Investigators determined an unknown person entered the residence, sexually assaulted the child and killed her. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://ktar.com/arizona-news/fbi-offers-reward-1996-cold-case-yuma",
+        "https://www.ktar.com/arizona-news/fbi-offers-reward-1996-cold-case-yuma"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "DAVID IVERSEN",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Amberly Mendoza",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Arizona",
+                "sentiment": "none"
+            },
+            {
+                "name": "Yuma",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "FBI",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:31:04.820+03:00",
+    "updated": "2026-08-06T15:51:59.107+03:00"
+}

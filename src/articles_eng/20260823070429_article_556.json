@@ -1,0 +1,151 @@
+{
+    "thread": {
+        "uuid": "c3e25af43eaae2efe331a47d4c306bc5b8c62ee9",
+        "url": "https://www.newsbreak.com/news/4837208419630-hoboken-man-makes-fbi-s-most-wanted-fraudsters-list-first-ever-in-new-jersey",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/jersey-city-nj",
+        "site_categories": [
+            "social issue",
+            "arts, culture and entertainment",
+            "politics",
+            "lifestyle and leisure",
+            "science and technology",
+            "crime, law and justice",
+            "sport",
+            "economy, business and finance",
+            "under_construction",
+            "human interest"
+        ],
+        "section_title": "Jersey City, NJ Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Hoboken Man Makes FBI's Most Wanted Fraudsters List. First Ever in New Jersey. - NewsBreak",
+        "title_full": "Hoboken Man Makes FBI's Most Wanted Fraudsters List. First Ever in New Jersey. - NewsBreak",
+        "published": "2026-08-18T22:02:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/00MX2W_1EN4cnEt00",
+        "performance_score": 0,
+        "domain_rank": 3070,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c3e25af43eaae2efe331a47d4c306bc5b8c62ee9",
+    "url": "https://www.newsbreak.com/news/4837208419630-hoboken-man-makes-fbi-s-most-wanted-fraudsters-list-first-ever-in-new-jersey",
+    "ord_in_thread": 0,
+    "author": "Tom Lavecchia",
+    "published": "2026-08-18T22:02:00.000+03:00",
+    "title": "Hoboken Man Makes FBI's Most Wanted Fraudsters List. First Ever in New Jersey. - NewsBreak",
+    "text": "By Tom Lavecchia ,\n1 days ago Rey E. Grabato II, who lived in Hoboken before becoming a fugitive, has made history in a way nobody wants to. That is unless you have a knack for crime. He’s the first New Jersey resident ever added to the FBI’s Most Wanted Fraudsters list, a designation tied to a $650 million Ponzi scheme that defrauded roughly 2,000 investors, including hundreds across New Jersey. Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->corporate crime",
+        "Crime, Law and Justice->fraud",
+        "Crime, Law and Justice->corruption"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://thedigestonline.com/news/hoboken-man-fbi-most-wanted-fraudsters-list/",
+        "https://thedigestonline.com/news/hoboken-man-fbi-most-wanted-fraudsters-list",
+        "https://www.thedigestonline.com/news/hoboken-man-fbi-most-wanted-fraudsters-list/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tom Lavecchia",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Rey E. Grabato II",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Hoboken",
+                "sentiment": "none"
+            },
+            {
+                "name": "New Jersey",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FBI",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Jersey City"
+            ],
+            "state": [
+                "New Jersey"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:30:19.180+03:00",
+    "updated": "2026-08-20T07:41:17.000+03:00"
+}

@@ -1,0 +1,162 @@
+{
+    "thread": {
+        "uuid": "bf1e55d1048bd9f945a0d05496f70e2c6f07d157",
+        "url": "https://www.newsbreak.com/nbc-news-510074/4934094500496-man-shot-by-ice-officer-in-new-york-city",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/nbc-news-510074",
+        "site_categories": [
+            "under_construction",
+            "science and technology",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "sport",
+            "politics",
+            "economy, business and finance",
+            "lifestyle and leisure"
+        ],
+        "section_title": "NBC News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Man shot by ICE officer in New York City - NewsBreak",
+        "title_full": "Man shot by ICE officer in New York City - NewsBreak",
+        "published": "2026-10-09T02:21:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1AR04g_1FvhyGPL00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:07:08.217+03:00"
+        }
+    },
+    "uuid": "bf1e55d1048bd9f945a0d05496f70e2c6f07d157",
+    "url": "https://www.newsbreak.com/nbc-news-510074/4934094500496-man-shot-by-ice-officer-in-new-york-city",
+    "ord_in_thread": 0,
+    "author": "Jonathan Dienst",
+    "published": "2026-10-09T02:21:00.000+03:00",
+    "title": "Man shot by ICE officer in New York City - NewsBreak",
+    "text": "By Jonathan Dienst ,\n4 hours ago An ICE officer shot a man during a “targeted enforcement operation” Thursday afternoon in New York, the U.S. Department of Homeland Security said. The shooting happened around 4 p.m. along Marble Hill Avenue as officers were seeking a “criminal illegal alien from the Dominican Republic” who had a prior conviction for grand larceny, DHS said in a statement Thursday evening. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nbcnews.com/news/us-news/person-shot-ice-officers-new-york-city-rcna602413",
+        "https://nbcnews.com/news/us-news/person-shot-ice-officers-new-york-city-rcna602413"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jonathan Dienst",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "New York City",
+                "sentiment": "none"
+            },
+            {
+                "name": "Marble Hill Avenue",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dominican Republic",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "U. S. Department of Homeland Security",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "ICE",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "DHS",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:07:08.217+03:00",
+    "updated": "2026-10-09T07:10:02.000+03:00",
+    "related_articles": null
+}

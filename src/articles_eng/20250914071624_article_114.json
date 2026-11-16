@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "1a2ed4d3689c7a65014497a4cb92cc9ea96c86c2",
+        "url": "https://www.newsbreak.com/news/4226585959391-shreveport-police-searching-for-missing-19-year-old-with-autism",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://newsbreak.com/benton-la",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Benton, LA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Shreveport Police searching for missing 19-year-old with autism - NewsBreak",
+        "title_full": "Shreveport Police searching for missing 19-year-old with autism - NewsBreak",
+        "published": "2025-09-11T05:41:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/342UNX_14boE2g500",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1a2ed4d3689c7a65014497a4cb92cc9ea96c86c2",
+    "url": "https://www.newsbreak.com/news/4226585959391-shreveport-police-searching-for-missing-19-year-old-with-autism",
+    "ord_in_thread": 0,
+    "author": "KSLA Staff",
+    "published": "2025-09-11T05:41:00.000+03:00",
+    "title": "Shreveport Police searching for missing 19-year-old with autism - NewsBreak",
+    "text": "By KSLA Staff ,\n1 hours ago SHREVEPORT, La. (KSLA) - The Shreveport Police Department is asking for the public’s help in locating 19-year-old Mason Boyett, who was last seen in the 5100 block of Monkhouse Drive on September 10. Boyett is described as 5 feet 9 inches tall, weighing approximately 135 pounds, with green eyes... Read full article\nRead in NewsBreak 2",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Human Interest"
+    ],
+    "topics": [
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mason Boyett",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Monkhouse Drive",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Shreveport Police Department",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-11T07:19:25.104+03:00",
+    "updated": "2025-09-11T07:23:23.000+03:00"
+}

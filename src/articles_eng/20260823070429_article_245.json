@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "f71e00a6d21c52fc70e5920647d479ff402fcf0a",
+        "url": "https://www.chinadaily.com.cn/a/202608/20/WS6a8675eca3106bc57421c8d1.html",
+        "site_full": "www.chinadaily.com.cn",
+        "site": "chinadaily.com.cn",
+        "site_section": "https://www.chinadaily.com.cn/china/education",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "science and technology",
+            "travel",
+            "japan",
+            "politics",
+            "environment",
+            "media",
+            "economy, business and finance"
+        ],
+        "section_title": "Education - Chinadaily.com.cn",
+        "site_title": "China Daily Website - Connecting China Connecting the World",
+        "title": "Record Antarctic ice gain linked to new tropical climate pathway",
+        "title_full": "Record Antarctic ice gain linked to new tropical climate pathway",
+        "published": "2026-08-20T06:35:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "http://img2.chinadaily.com.cn/images/202608/20/6a8675eca3106bc5df924d01.jpeg",
+        "performance_score": 0,
+        "domain_rank": 2597,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f71e00a6d21c52fc70e5920647d479ff402fcf0a",
+    "url": "https://www.chinadaily.com.cn/a/202608/20/WS6a8675eca3106bc57421c8d1.html",
+    "ord_in_thread": 0,
+    "author": "李家钰",
+    "published": "2026-08-20T06:35:00.000+03:00",
+    "title": "Record Antarctic ice gain linked to new tropical climate pathway",
+    "text": "While the Antarctic ice sheet has been losing mass at roughly 140.5 billion metric tons per year over the past two decades, satellite data revealed a striking reversal from 2021 to 2023 — the ice sheet gained 695 billion tons, the largest increase on record.\nAn international research team now reveals the mechanism behind the \"abnormality\", disclosing a previously underappreciated climate pathway linking the tropics to the Antarctic ice sheet. The study, conducted by institutes in China, the United States, Japan, Belgium and Hungary, was published in the journal Nature on Wednesday.\nThe team, using various methods including satellite gravity observations, ice-core snow records and atmospheric circulation modeling, found that sustained warming in the tropical warm pool — a region where the western Pacific and eastern Indian Oceans meet, and sea surface temperatures remain high — sent large-scale atmospheric waves southward toward Antarctica. These waves funneled humid air from the midlatitude Indian Ocean to East Antarctica's Queen Mary Land and Wilkes Land regions, triggering persistent heavy snowfall.\nWang Yunhe, first author of the study and an associate professor at the Institute of Oceanology of the Chinese Academy of Sciences, said such warm-pool warming events typically develop and persist over two to three years and occur roughly once per decade, adding that similar but smaller fluctuations were observed around 2000.\nThe researchers also examined the driver of the event. The analysis showed that human-induced climate forcing accounted for only about 9 percent of the observed snowfall anomaly, meaning the event was driven primarily by internal climate variability rather than greenhouse warming.\nHowever, Wang noted that the reprieve does not reverse the long-term trend.\n\"The West Antarctic ice sheet is still losing ice, and some outlet glaciers in East Antarctica are also threatened by ocean-driven ice shelf melting and accelerated ice flow,\" he added.\nThe study's significance lies in resolving a long-standing puzzle in Antarctic science.\n\"Scientists have tried to explain the unusual fluctuations in Antarctic ice sheet mass,\" Wang said. \"Most researchers have focused on the central and eastern tropical Pacific and its teleconnection with West Antarctica, where climate signals are strongest and easiest to detect. We looked at the other side — the western Pacific warm pool and its teleconnection with East Antarctica — and identified a pathway that had not previously been recognized.\"\nThe study reveals a previously underappreciated tropical warm pool–East Antarctic ice sheet teleconnection pathway, Wang said, providing a new framework for understanding ice sheet mass variability and guiding future East Antarctic climate research.",
+    "summary": "An international research team now reveals the mechanism behind the \"abnormality\", disclosing a previously underappreciated climate pathway linking the tropics to the Antarctic ice sheet. The team, using various methods including satellite gravity observations, ice-core snow records and atmospheric circulation modeling, found that sustained warming in the tropical warm pool — a region where the western Pacific and eastern Indian Oceans meet, and sea surface temperatures remain high — sent large-scale atmospheric waves southward toward Antarctica.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology",
+        "Environment"
+    ],
+    "topics": [
+        "Environment->climate change",
+        "Environment->global warming"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Antarctic",
+                "sentiment": "none"
+            },
+            {
+                "name": "Belgium",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hungary",
+                "sentiment": "none"
+            },
+            {
+                "name": "United States",
+                "sentiment": "none"
+            },
+            {
+                "name": "China",
+                "sentiment": "none"
+            },
+            {
+                "name": "Japan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Nature",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:15:12.911+03:00",
+    "updated": "2026-08-20T07:18:58.000+03:00"
+}

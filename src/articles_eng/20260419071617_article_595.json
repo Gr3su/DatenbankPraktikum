@@ -1,0 +1,122 @@
+{
+    "thread": {
+        "uuid": "23fad7e5da289ed4826e1592aa8ce0fa7343ac5e",
+        "url": "https://dnyuz.com/2026/04/16/can-ai-replace-tools-like-asana-i-spent-15-minutes-building-an-app-to-find-out",
+        "site_full": "dnyuz.com",
+        "site": "dnyuz.com",
+        "site_section": "https://dnyuz.com/feed/",
+        "site_categories": [
+            "science and technology",
+            "media",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "politics",
+            "war, conflict and unrest"
+        ],
+        "section_title": "DNYUZ",
+        "site_title": "DNyuz &#8211; Latest Breaking News, U.S. and World Politics, Crime, Business, Science, Technology, Autos, Entertainment, Culture, Movie, Music, Sports.",
+        "title": "Can AI replace tools like Asana? I spent 15 minutes building an app to find out.",
+        "title_full": "Can AI replace tools like Asana? I spent 15 minutes building an app to find out.",
+        "published": "2026-04-16T07:25:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://dnyuz.com/wp-content/uploads/2026/04/69ccfe446a864f6fcd7bc3b9.webp",
+        "performance_score": 0,
+        "domain_rank": 54278,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "23fad7e5da289ed4826e1592aa8ce0fa7343ac5e",
+    "url": "https://dnyuz.com/2026/04/16/can-ai-replace-tools-like-asana-i-spent-15-minutes-building-an-app-to-find-out",
+    "ord_in_thread": 0,
+    "author": "Business Insider",
+    "published": "2026-04-16T07:25:00.000+03:00",
+    "title": "Can AI replace tools like Asana? I spent 15 minutes building an app to find out.",
+    "text": "Just 15 minutes, from concept to publish. That’s how long it took for me to create a basic version of a work management tool like Asana without writing a single line of code.\nThe idea struck me one weekday when I asked my team: “What annoys you most about our workflow? What’s the one thing you want me to change?”\nOne pain point came up: They weren’t a huge fan of the Google Doc I’d been using to track our long-term reporting. So, I thought: I have 15 minutes for a coffee break. Let me see how far I get using vibe coding — the concept of using prompts to create software with AI — on Base44, an app-building platform.\nWhile my dashboard app has far fewer features than Asana, the results impressed me. And it taught me an important lesson about the “SaaSpocalypse,” the idea that AI can create products for free that work as well as software products companies would usually sell. Those fears have battered software stocks, with Asana down about 54% this year, and Atlassian, the company behind project management app Trello, down about 59%.\nAn Asana spokesperson told Business Insider that a productivity dashboard is “a small piece of what companies need to run work effectively, at scale.” They added that Asana’s tools help coordinate work across “many teams and large departments” — including between humans and AI agents.\nMy project also gave me other reasons why AI may not mean game over for productivity software companies.\nFrom prompt to publish in minutes\nI’ve used a range of productivity tools, from Notion to Monday.com and Asana. I find all of them useful, particularly Notion’s high level of customizability and Asana’s flexibility for collaborative teamwork.\nThey gave me a good idea of what I wanted, so I started off with a simple prompt:\nI plopped this prompt into ChatGPT and asked it to generate a detailed prompt for Base44 and Lovable. These are two of many one-stop shops on the market that let users build and launch the app directly on their platform.\nChatGPT gave me tailor-made prompts for each platform. I refined the prompts by asking for more functionality, then prompted ChatGPT to troubleshoot in advance if the instructions might create any issues on the Lovable and Base44 backends.\nAfter five minutes of planning, I had my detailed prompts locked and loaded.\n10 minutes to build\nThis wasn’t my first time using Base44 or Lovable. I’d used vibe-coding platforms to try to code other apps, including one for tracking collectible cards, so there wasn’t the same learning curve as a newcomer.\nIt was extremely easy to get started. All I did was plug my ChatGPT-generated prompt into both platforms. I walked away for five minutes as the platforms’ chatbots “thought” their way through my request, figuring out how best to execute it.\nWhen I returned to my laptop with a warm mug of tea, I had two complete prototypes generated on both apps.\nI dedicated 5 minutes to ensuring the app was secure, adding login and authorization permissions for each reporter and editor. That’s something that’s baked into off-the-shelf apps like Asana, and security has caused headaches for other apps built with AI. I also got picky about customizing the dashboard’s aesthetics, and spent a minute or so changing the font types and colors on each platform.\nIt was important that the app allowed me to sort projects by progress and see at a glance all the work each reporter had on their plate. I also wanted a broad calendar view to see which stories I was planning to publish in the next month. And I wanted a repository of works-in-progress.\nIt was also essential that the app include tabs for a dashboard, a calendar view, and a section for works in progress.\nI also asked the vibe-coding apps to make sure all the dashboard data could be downloadable in one click, so my writers have fast, easy access to their complete story slate.\nAfter some back-and-forth prompting, I got all of these features — but I did burn through all my free credits on Lovable before getting the app ready to use. But in under 15 minutes and within the free credit limit, my Base44 dashboard for drafts was ready for launch.\nThe hype train for vibe coding is real\nI’m no coding wizard. I have distinct and embarrassing memories from college of having a minor crisis trying to build a website on Dreamweaver and struggling to build a codebase for my master’s thesis. As I see it, vibe coding has opened the door wide for nontechnical people like me to build the bones of simple applications in a short time.\nMy team and I recently vibe-coded apps on various platforms as an experiment to see how the products stack. We built several apps — including a thumbnail composite-maker, a writing companion, and an AI-powered photo critic. In most cases, we got these apps to a usable state in under 30 minutes.\nThose experiences make it easy to see why AI is such a problem for software companies like Asana. In an interview with Business Insider’s Alistair Barr, Asana’s CEO, Dan Rogers, acknowledged the existential threat that companies like his face. He said this threat also presents a new opportunity for Asana: to go all in on coordinating a workforce in which humans need to work hand in hand with AI.\nI’m also hesitant to write these firms off. For many users, Asana’s links to email, Slack, and apps like Canva and Zoom remain valuable. That infrastructure, plus things like cybersecurity, is typically baked into off-the-shelf software and lacking in vibe-coded projects. And, obviously, my dashboard doesn’t have the capability to track AI agents and their workflows, as Asana plans to do.\n“Orchestrating humans and AI is an incredibly complex thing to do — and that complexity is underscored by the fact that many AI-native startups and foundational model providers use Asana to run their own work,” the Asana spokesperson said.\nSince I made the tool in March, my team’s been using it every day, and it’s front-and-center during team pow-wows and at our 1:1s. It’s safe to say my vibe-coded app meets my basic workflow needs — and for free.\nRead the original article on Business Insider",
+    "summary": "That’s how long it took for me to create a basic version of a work management tool like Asana without writing a single line of code. What’s the one thing you want me to change?” One pain point came up: They weren’t a huge fan of the Google Doc I’d been using to track our long-term reporting. I also asked the vibe-coding apps to make sure all the dashboard data could be downloadable in one click, so my writers have fast, easy access to their complete story slate.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science",
+        "Economy, Business and Finance->computing and information technology",
+        "Economy, Business and Finance->business and market analysis"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.businessinsider.com/vibe-coding-asana-productivity-tool-software-stocks-2026-4",
+        "https://www.businessinsider.com/cmo-monday-assess-people-product-position-new-roles-2025-1",
+        "https://www.businessinsider.com/asana-ceo-ai-agent-orchestration-saas-software-disruption-2026-3",
+        "https://www.businessinsider.com/software-companies-stock-based-compensation-charts-ranking-2026-3",
+        "https://www.businessinsider.com/lovables-hit-400-million-arr-doubling-in-a-few-months-2026-3",
+        "https://www.businessinsider.com/make-app-cursor-lovable-base44-vibe-coding-tools-comparison-2026-3",
+        "http://Monday.com",
+        "https://www.businessinsider.com/bill-gurley-ai-dealmaking-meta-amd-saaspocalypse-2026-2",
+        "https://www.businessinsider.com/tea-app-data-breach-cybersecurity-ai-vibe-coding-safety-experts-2025-8",
+        "https://www.businessinsider.com/reference/what-is-asana",
+        "https://businessinsider.com/cmo-monday-assess-people-product-position-new-roles-2025-1",
+        "https://businessinsider.com/tea-app-data-breach-cybersecurity-ai-vibe-coding-safety-experts-2025-8",
+        "https://businessinsider.com/vibe-coding-asana-productivity-tool-software-stocks-2026-4",
+        "https://businessinsider.com/bill-gurley-ai-dealmaking-meta-amd-saaspocalypse-2026-2",
+        "https://businessinsider.com/asana-ceo-ai-agent-orchestration-saas-software-disruption-2026-3",
+        "https://businessinsider.com/software-companies-stock-based-compensation-charts-ranking-2026-3",
+        "http://www.Monday.com",
+        "https://businessinsider.com/make-app-cursor-lovable-base44-vibe-coding-tools-comparison-2026-3",
+        "https://businessinsider.com/lovables-hit-400-million-arr-doubling-in-a-few-months-2026-3",
+        "https://businessinsider.com/reference/what-is-asana"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:34:14.093+03:00",
+    "updated": "2026-04-16T07:44:16.000+03:00"
+}

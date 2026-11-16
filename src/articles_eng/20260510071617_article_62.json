@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "d74a3097af4e3352eef819efdfed031502e44458",
+        "url": "https://www.newsbreak.com/news/4635739561025-public-health-officials-confirm-18-legionella-infections-connected-to-kaiser-permanente-santa-clara",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/sunnyvale-ca",
+        "site_categories": [
+            "sport",
+            "economy, business and finance",
+            "human interest",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "under_construction",
+            "politics",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Sunnyvale, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Public health officials confirm 18 Legionella infections connected to Kaiser Permanente Santa Clara - NewsBreak",
+        "title_full": "Public health officials confirm 18 Legionella infections connected to Kaiser Permanente Santa Clara - NewsBreak",
+        "published": "2026-05-07T00:07:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0eBKse_1B94LpsK00",
+        "performance_score": 0,
+        "domain_rank": 2952,
+        "domain_rank_updated": "2026-05-04T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d74a3097af4e3352eef819efdfed031502e44458",
+    "url": "https://www.newsbreak.com/news/4635739561025-public-health-officials-confirm-18-legionella-infections-connected-to-kaiser-permanente-santa-clara",
+    "ord_in_thread": 0,
+    "author": "Ian Bradley",
+    "published": "2026-05-07T00:07:00.000+03:00",
+    "title": "Public health officials confirm 18 Legionella infections connected to Kaiser Permanente Santa Clara - NewsBreak",
+    "text": "By Ian Bradley ,\n8 hours ago SANTA CLARA, Calif. - An investigation is underway at Kaiser Permanente Santa Clara after an outbreak of legionella infection. 18 cases have been reported to Santa Clara County public health officials so far. The bacteria were first detected during a routine internal monitoring process, Kaiser Permanente announced in a press... Read full article\nRead in NewsBreak 4",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->health facility",
+        "Health->communicable disease"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ian Bradley",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Calif",
+                "sentiment": "none"
+            },
+            {
+                "name": "Santa Clara County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Kaiser Permanente",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-07T07:17:53.151+03:00",
+    "updated": "2026-05-07T08:26:38.823+03:00"
+}

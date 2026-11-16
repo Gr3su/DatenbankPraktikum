@@ -1,0 +1,148 @@
+{
+    "thread": {
+        "uuid": "882826c4d7cbff157a0b65aa9a47339cbe6336bd",
+        "url": "https://www.newsbreak.com/news/4675511877258-elmira-police-seek-suspect-who-allegedly-stole-seafood-meat-from-weis-market",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/elkland-pa",
+        "site_categories": [
+            "lifestyle and leisure",
+            "under_construction",
+            "economy, business and finance",
+            "crime, law and justice",
+            "sport",
+            "human interest",
+            "politics",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Elkland, PA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Elmira police seek suspect who allegedly stole seafood, meat from Weis Market - NewsBreak",
+        "title_full": "Elmira police seek suspect who allegedly stole seafood, meat from Weis Market - NewsBreak",
+        "published": "2026-05-27T21:28:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3YO2Lg_1Bn96BfC00",
+        "performance_score": 0,
+        "domain_rank": 3021,
+        "domain_rank_updated": "2026-05-25T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "882826c4d7cbff157a0b65aa9a47339cbe6336bd",
+    "url": "https://www.newsbreak.com/news/4675511877258-elmira-police-seek-suspect-who-allegedly-stole-seafood-meat-from-weis-market",
+    "ord_in_thread": 0,
+    "author": "Anthony Wright, Coastal TV News",
+    "published": "2026-05-27T21:28:00.000+03:00",
+    "title": "Elmira police seek suspect who allegedly stole seafood, meat from Weis Market - NewsBreak",
+    "text": "By Anthony Wright, Coastal TV News ,\n10 hours ago Elmira Police are asking for the public’s help in identifying a suspect in a retail theft investigation involving seafood and meat products. The Elmira Police Department says they are attempting to identify a person in connection with a larceny reported at Weis Market on Tuesday. Investigators say steaks and... Read full article\nRead in NewsBreak 3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Crime, Law and Justice->robbery and theft",
+        "Crime, Law and Justice->police",
+        "Economy, Business and Finance->consumer goods"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Anthony Wright",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Elmira",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Weis Market",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Coastal TV News",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Elmira Police Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Elkland"
+            ],
+            "state": [
+                "Pennsylvania"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-28T07:33:13.465+03:00",
+    "updated": "2026-05-28T07:41:07.000+03:00"
+}

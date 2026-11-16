@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "4cb8b92faaca8eec8a6c24c67d3f10ac9261d170",
+        "url": "https://www.newsbreak.com/news/4523385411682-salem-s-new-park-rules-no-refunds-on-same-day-camping-cancellations",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/salem-or",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Salem, OR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Salem's new park rules: No refunds on same-day camping cancellations - NewsBreak",
+        "title_full": "Salem's new park rules: No refunds on same-day camping cancellations - NewsBreak",
+        "published": "2026-03-04T23:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0m5aHk_19Ls5i7P00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4cb8b92faaca8eec8a6c24c67d3f10ac9261d170",
+    "url": "https://www.newsbreak.com/news/4523385411682-salem-s-new-park-rules-no-refunds-on-same-day-camping-cancellations",
+    "ord_in_thread": 0,
+    "author": "Kaleb Clark",
+    "published": "2026-03-04T23:30:00.000+02:00",
+    "title": "Salem's new park rules: No refunds on same-day camping cancellations - NewsBreak",
+    "text": "By Kaleb Clark ,\n7 hours ago OREGON - The Oregon State Parks and Recreation Commission has announced updates to its camping reservation policies following a virtual meeting on February 24, 2026. The new rules will take effect in April 2026 and include changes to the cancellation policy, reservation rate ranges, and the special access pass program. Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->outdoor recreational activities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kaleb Clark",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Salem",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Oregon State Parks and Recreation Commission",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Salem"
+            ],
+            "state": [
+                "Oregon"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-05T07:29:29.154+02:00",
+    "updated": "2026-03-05T07:31:50.000+02:00"
+}

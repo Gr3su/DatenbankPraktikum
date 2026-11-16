@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "e8979ba376fb1b768638c1f5a128190dfff4b756",
+        "url": "https://www.newsbreak.com/news/4511045219548-georgia-southern-launches-care-station-in-vidalia-public-ribbon-cutting-scheduled-for-march-4th",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/soperton-ga",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Soperton, GA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Georgia Southern launches Care Station in Vidalia: Public Ribbon-Cutting Scheduled for March 4th - NewsBreak",
+        "title_full": "Georgia Southern launches Care Station in Vidalia: Public Ribbon-Cutting Scheduled for March 4th - NewsBreak",
+        "published": "2026-02-25T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-22T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e8979ba376fb1b768638c1f5a128190dfff4b756",
+    "url": "https://www.newsbreak.com/news/4511045219548-georgia-southern-launches-care-station-in-vidalia-public-ribbon-cutting-scheduled-for-march-4th",
+    "ord_in_thread": 0,
+    "author": "Staff Report From Georgia CEO",
+    "published": "2026-02-25T07:00:00.000+02:00",
+    "title": "Georgia Southern launches Care Station in Vidalia: Public Ribbon-Cutting Scheduled for March 4th - NewsBreak",
+    "text": "By Staff Report From Georgia CEO ,\n1 days ago The Institute for Health Logistics & Analytics (IHLA) at Georgia Southern University has opened a new Care Station in the lobby of the Dr. Mark and Tonya Spivey Public Library in Vidalia, Georgia. The Care Station is a health vending machine that aims to improve community health by increasing access to over-the-counter health products and at-home diagnostic tests. Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->health facility"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Vidalia",
+                "sentiment": "none"
+            },
+            {
+                "name": "Georgia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IHLA",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Institute for Health Logistics & Analytics",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Georgia Southern",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Soperton"
+            ],
+            "state": [
+                "Georgia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-26T07:17:31.242+02:00",
+    "updated": "2026-02-26T07:20:30.000+02:00"
+}

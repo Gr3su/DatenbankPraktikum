@@ -1,0 +1,157 @@
+{
+    "thread": {
+        "uuid": "616e983d50550440c668ae340c0dc81501a4ab3a",
+        "url": "https://www.newsbreak.com/kifi-local-news-8-1276858/4160508956186-lava-trail-fire-shuts-down-highway-20-drivers-advised-to-seek-alternate-routes",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/kifi-local-news-8-1276858",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "KIFI Local News 8&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Lava Trail Fire shuts down Highway 20, Drivers advised to seek alternate routes - NewsBreak",
+        "title_full": "Lava Trail Fire shuts down Highway 20, Drivers advised to seek alternate routes - NewsBreak",
+        "published": "2025-08-07T01:55:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1Vpp7X_13YDeikN00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "616e983d50550440c668ae340c0dc81501a4ab3a",
+    "url": "https://www.newsbreak.com/kifi-local-news-8-1276858/4160508956186-lava-trail-fire-shuts-down-highway-20-drivers-advised-to-seek-alternate-routes",
+    "ord_in_thread": 0,
+    "author": "News Team",
+    "published": "2025-08-07T01:55:00.000+03:00",
+    "title": "Lava Trail Fire shuts down Highway 20, Drivers advised to seek alternate routes - NewsBreak",
+    "text": "UPDATE: IDAHO FALLS, Idaho (KIFI) — The Idaho Transportation Department has confirmed the lanes are blocked in both directions along Highway 20 from US-26 to the Bingham/Bonneville County line as crews work to battle the Lava Trail Fire. According to the Eastern Idaho Interagency Fire website , the blaze has now grown to an estimated 110 acres. Drivers are being advised to use alternate routes and expect delays. ORIGINAL: ARCO, Idaho (KIFI) — A wildfire is currently burning along Highway 20 between Idaho Falls and INL. The call came in around 3:47 p.m., according to Chris Burger with the Bureau of Land Management (BLM). The fire is burning south of the highway and is currently estimated at 15 acres or more, according to Watch Duty . Crews from the BLM, Idaho National Laboratory (INL), Bureau of Indian Affairs, and the Forest Service, along with Idaho Falls Fire, are all on the scene. Drivers in the area are reporting that Hwy 20 West of Idaho Falls has been closed due to the fire. The cause of the fire is under investigation. This is a developing situation, and Local News 8 will provide updates as they become available.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "topics": [
+        "Disaster and Accident->fire",
+        "Disaster and Accident->emergency response",
+        "Crime, Law and Justice->investigation (criminal)",
+        "Crime, Law and Justice->reckless driving",
+        "Crime, Law and Justice->law enforcement",
+        "Social Issue->communities",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://gacc.nifc.gov/gbcc/dispatch/id-eic/",
+        "https://app.watchduty.org/i/59085",
+        "https://gacc.nifc.gov/gbcc/dispatch/id-eic",
+        "https://www.gacc.nifc.gov/gbcc/dispatch/id-eic/",
+        "https://www.app.watchduty.org/i/59085"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Idaho Transportation Department",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Bureau of Land Management",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Bureau of Indian Affairs",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Forest Service",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "ARCO",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "BLM",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "INL",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "616e983d50550440c668ae340c0dc81501a4ab3a",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-07T07:41:11.541+03:00",
+    "updated": "2025-08-07T07:46:11.000+03:00"
+}

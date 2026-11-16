@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "7fc5770dc201a9ac3c1ed67c964ddd8c8e8c767a",
+        "url": "https://www.newsbreak.com/news/4730610281861-phoenix-man-arrested-after-121-mph-chase-on-us-60-dps-says",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/phoenix-az",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "human interest",
+            "social issue",
+            "under_construction",
+            "politics",
+            "sport",
+            "disaster and accident",
+            "economy, business and finance",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Phoenix, AZ Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Phoenix man arrested after 121 mph chase on US 60, DPS says - NewsBreak",
+        "title_full": "Phoenix man arrested after 121 mph chase on US 60, DPS says - NewsBreak",
+        "published": "2026-06-25T01:27:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/27k2kO_1CfflNm200",
+        "performance_score": 0,
+        "domain_rank": 3030,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7fc5770dc201a9ac3c1ed67c964ddd8c8e8c767a",
+    "url": "https://www.newsbreak.com/news/4730610281861-phoenix-man-arrested-after-121-mph-chase-on-us-60-dps-says",
+    "ord_in_thread": 0,
+    "author": "FOX 10 Staff",
+    "published": "2026-06-25T01:27:00.000+03:00",
+    "title": "Phoenix man arrested after 121 mph chase on US 60, DPS says - NewsBreak",
+    "text": "By FOX 10 Staff ,\n6 hours ago A Phoenix man is accused of multiple charges after allegedly leading authorities on a high-speed chase through Tempe and Mesa while under the influence of alcohol. Arizona DPS Troopers reported that the suspect was driving 110 mph on U.S. 60 and reached top speeds of 121 mph before crashing his vehicle. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->police",
+        "Crime, Law and Justice->hijacking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox10phoenix.com/news/phoenix-man-arrested-after-121-mph-chase-us-60-dps-says.amp",
+        "https://fox10phoenix.com/news/phoenix-man-arrested-after-121-mph-chase-us-60-dps-says.amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Mesa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tempe",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "DPS",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "FOX 10",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:31:40.156+03:00",
+    "updated": "2026-06-25T07:32:52.000+03:00"
+}

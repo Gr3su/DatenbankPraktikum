@@ -1,0 +1,122 @@
+{
+    "thread": {
+        "uuid": "6a6f25d2076cf310e272174333a445769610f509",
+        "url": "https://tspasemiconductor.substack.com/p/lightmatter-at-computex-2026-the",
+        "site_full": "tspasemiconductor.substack.com",
+        "site": "substack.com",
+        "site_section": "https://news.google.com/search?q=has%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "science and technology"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Substack - A new economic engine for culture",
+        "title": "Lightmatter at Computex 2026: The AI Infrastructure Bottleneck Has Shifted from Compute to Interconnect",
+        "title_full": "Lightmatter at Computex 2026: The AI Infrastructure Bottleneck Has Shifted from Compute to Interconnect",
+        "published": "2026-06-04T07:16:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://substackcdn.com/image/fetch/$s_!IXfv!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F843c7bc3-f6d7-4bd2-9be7-7cb425021976_759x498.png",
+        "performance_score": 0,
+        "domain_rank": 500,
+        "domain_rank_updated": "2026-06-01T00:00:00.000+03:00",
+        "licensing_agency": [
+            "NLA"
+        ],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6a6f25d2076cf310e272174333a445769610f509",
+    "url": "https://tspasemiconductor.substack.com/p/lightmatter-at-computex-2026-the",
+    "ord_in_thread": 0,
+    "author": "SEMIVISION",
+    "published": "2026-06-04T07:16:00.000+03:00",
+    "title": "Lightmatter at Computex 2026: The AI Infrastructure Bottleneck Has Shifted from Compute to Interconnect",
+    "text": "Lightmatter at Computex 2026: The AI Infrastructure Bottleneck Has Shifted from Compute to Interconnect\nOriginal Article By SemiVision Research [Reading time: 12 mins]\nLightmatter at Computex 2026: The Next Bottleneck in AI Infrastructure Is No Longer Compute — It Is Interconnect\nAt Computex 2026, Lightmatter founder and CEO Nick Harris delivered a message that is becoming increasingly difficult for the AI infrastructure industry to ignore: the next major bottleneck in AI is no longer raw compute. It is interconnect.\nThis may sound like a photonics company making the case for photonics, but the structural logic is much deeper. Over the past decade, the semiconductor industry has focused on bigger GPUs, more advanced process nodes, higher HBM bandwidth, and larger AI clusters. But as models move into the trillion-parameter era, and as Mixture-of-Experts architectures, long-context inference, prefill/decode separation, and multi-rack training become mainstream, the central challenge is no longer whether a single accelerator is fast enough.\nThe real question is whether thousands — eventually tens of thousands — of XPUs can operate as one giant distributed brain.\nThat is the core of Lightmatter’s argument: AI scaling has become an interconnect problem.\nAI Growth Has Outpaced the Power and Network Foundation\nAI workloads are growing explosively. Training requires huge amounts of synchronous communication. Inference is increasingly constrained by time-to-first-token, decode latency, memory bandwidth, KV cache movement, and network hop count.\nThis is especially obvious in MoE models. MoE allows AI models to scale parameter count without activating the full model for every token, but it also creates a much more complex communication pattern. Tokens need to move between experts, accelerators, racks, and memory pools. The more distributed the model becomes, the more the network determines the real system performance.\nIn other words, the bottleneck is shifting.\nPreviously, the industry asked: how powerful is the GPU?\nNow the more important question is: can data move quickly, efficiently, and predictably to the right accelerator at the right time?\nThis is why Lightmatter frames optical interconnect not as a replacement for existing optics, but as a new infrastructure layer for AI systems. The value is not simply higher bandwidth. The value is higher GPU utilization, lower latency, lower power per bit, and better system-level scalability.\nIn the AI factory era, the winning metric will not only be FLOPS. It will be tokens per watt, tokens per second per dollar, and the ability to keep a massive distributed compute system fully utilized.\nTraining, Prefill, and Decode Are Three Different Bottlenecks\nOne of the most important points in Lightmatter’s presentation was the separation of AI workloads into three categories:\nTraining, inference prefill, and inference decode.\nThese workloads may all run on AI accelerators, but they stress infrastructure in very different ways.\nTraining is dominated by collective communication. Large GPU clusters need to synchronize gradients, exchange intermediate results, and maintain parallel efficiency across many devices. If the network cannot keep up, expensive GPUs sit idle waiting for data.\nInference prefill is dominated by time-to-first-token, or TTFT. For chatbots, enterprise agents, coding assistants, and real-time AI applications, the user experience is strongly shaped by how quickly the first token appears.\nInference decode is different again. Decode is often latency-sensitive, memory-intensive, and highly dependent on KV cache access. As context length increases, decode becomes more constrained by memory movement and interconnect latency.\nThis is why Lightmatter argues that optical interconnect can improve the entire AI workload curve, not just peak bandwidth. According to the presentation materials, Passage can help reduce training time by around 3 times, reduce TTFT by around 3 times, and improve decode interactivity by around 11 times.\nThe exact numbers matter, but the bigger message matters more: photonic interconnect is moving from a networking component into a system-level AI performance component.\nPassage Is Not Just an Optical Module. It Is a Photonic Interposer\nLightmatter’s central platform is Passage. Many people may initially classify it as CPO or an optical module, but that understates the ambition.\nPassage is better understood as a photonic interposer architecture. It brings optics into the package-level and system-level fabric of AI computing.\nIn traditional architectures, chip I/O is constrained by the edge of the die. This is often described as the shoreline problem. A chip is like an island: all external connections must pass through the coastline. As chips become larger and data movement becomes more intense, the edge becomes a bottleneck.\nPassage attempts to break this limitation by moving optical I/O deeper into the package and across the die complex. Instead of relying only on the chip edge, photonic interconnect can be placed much closer to where data is generated and consumed.\nThis is the key difference between conventional pluggable optics and Lightmatter’s architecture.\nPluggable optics sit outside the system.\nCPO brings optics closer to the switch or accelerator.\nA photonic interposer makes optics part of the AI compute fabric itself.\nThat is why Passage M1000 is positioned as a photonic superchip, not merely an optical engine. The product includes 114 Tbps of bandwidth, 1,024 SerDes, a large photonic interposer, built-in optical circuit switching, and a packaging concept designed for high-density AI systems.\nThe implication is clear: optical interconnect is entering the same strategic layer as advanced packaging, HBM integration, silicon interposers, and AI accelerator architecture.\nFrom Scale-Up and Scale-Out to Scale-Across\nLightmatter also divides future AI interconnect into three expansion domains.\nScale-up refers to short-distance interconnect, usually inside a rack or pod, around the one-meter level.\nScale-out refers to interconnect across racks or rows in the data center, around the 100-meter level.\nScale-across refers to much longer-distance interconnect across data centers or AI campuses, potentially 10 kilometers or more.\nCopper still has advantages at very short distances. But as data rates increase, copper faces worsening insertion loss, crosstalk, retimer power, connector complexity, and PCB material constraints. At 224G and beyond, the cost of keeping electrical signaling alive rises sharply.\nThis is where optics becomes structurally important.\nThe point is not that optics will replace copper everywhere. The point is that optics will take over the high-bandwidth, high-density, low-latency, and longer-reach portions of the system where copper becomes too power-hungry or too complex.\nFuture AI infrastructure will likely become a hybrid system: copper remains relevant inside tightly coupled packages and boards, while optics expands from rack-to-rack networking into scale-up domains, CPO, NPO, and eventually photonic interposers.\nNPO, CPO, and Photonic Interposer: The Roadmap Is Becoming Clear\nLightmatter’s roadmap reflects three levels of optical integration.\nThe first level is NPO or optics-near-package. This brings optical connectivity closer to the XPU or switch ASIC, but does not fully embed optics into the package architecture. Passage L20 fits into this direction and is designed as a general optical interconnect product for NPO, CPX, and XPO applications.\nThe second level is CPO, or co-packaged optics. Here, optics moves much closer to the switch or accelerator silicon. This reduces electrical reach, lowers power, and increases bandwidth density.\nThe third level is the photonic interposer, represented by Passage M1000. This is the more radical architecture. Optics is not only near the chip. It becomes part of the chiplet and package fabric.\nThis roadmap is very important for the semiconductor supply chain because it collapses several previously separate industries into one system problem.\nAdvanced packaging, silicon photonics, SerDes, optical fiber arrays, external laser sources, liquid cooling, OSAT assembly, wafer-level testing, interposer manufacturing, and data center serviceability all become connected.\nFor Taiwan, this is especially relevant. The island already plays a central role in foundry, advanced packaging, substrates, AI servers, liquid cooling, and system integration. If photonic interposers and CPO move into volume production, Taiwan’s role in AI infrastructure could move even deeper — from assembling AI servers to building the optical nervous system of AI factories.\nGuide: Laser Sources Become AI Infrastructure Components\nAnother important product in Lightmatter’s portfolio is Guide, which the company positions as part of its very large scale photonics strategy.\nThis matters because if every AI cluster requires massive optical I/O, then laser sources themselves become a bottleneck. Traditional systems rely on many pluggable optics and distributed lasers, but this creates faceplate congestion, thermal complexity, maintenance burden, and many potential failure points.\nGuide takes a different approach. It centralizes high-density laser sources into a liquid-cooled laser platform designed to support co-packaged optical systems.\nThe strategic message is simple: light generation is becoming an infrastructure layer.\nIn the past, lasers were treated as components inside optical modules. In the future, high-density external laser sources may become shared resources in AI systems, similar to how power shelves, cooling loops, and switch fabrics are treated as infrastructure.\nThis shift will create new requirements for thermal design, laser reliability, wavelength stability, optical coupling, field replacement, and system-level monitoring.\nFor the supply chain, this means that laser packaging, thermal interface materials, precision alignment, micro-optics, liquid cooling, and reliability testing will become more important.\neClick and vClick: Solving the Serviceability Problem of CPO\nOne of the biggest barriers to CPO adoption has always been serviceability.\nPluggable optics are attractive because they are easy to replace. If a module fails, the operator can remove it and install a new one. But when optics are integrated closer to the ASIC or package, the maintenance model becomes more difficult.\nIf an optical connection fails, does the whole expensive switch or accelerator package need to be replaced?\nThis question has limited the pace of CPO deployment.\nLightmatter: We has announced vClick™ Optics, the first Advanced Packaging compatible dFAU for high-bandwidth Co-Packaged Optics, ensuring high production yield and field serviceability. This breakthrough includes support for pluggable DWDM fiber with an insertion loss of less than 1.5 dB. We are proud to work with SENKO Advanced Components, Inc. and ASE Global on innovative solutions that enable massively deployable and serviceable Passage 3D photonic interconnects.\nLightmatter’s eClick and vClick are designed to address this issue by providing removable optical fiber array units compatible with advanced packaging. The goal is to preserve the density benefits of co-packaged optics while maintaining a realistic field-service model.\nThis is a major point. CPO cannot scale only by showing better bandwidth or lower power. It must also prove that hyperscalers can operate, maintain, and repair these systems at data center scale.\nIn that sense, eClick and vClick are not just connector technologies. They are part of the economic foundation required for CPO deployment.\nThe key advantages of vClick include:\nHigh-bandwidth DWDM compatibility: Supports broadband coarse wavelength division multiplexing (CWDM) and dense wavelength division multiplexing (DWDM) over a wide optical spectrum of up to 80+ nm, enabling large-scale optical bandwidth density and flexibility.\nAdvanced packaging compatibility: The technology is compatible with mold-and-grind advanced packaging process flows used by major global foundries and outsourced semiconductor assembly and test providers (OSATs).\nAutomated assembly: No active fiber alignment is required during production, helping reduce assembly and testing time.\nField serviceability: With measured insertion and repeated mating losses below 1.5 dB, vClick can preserve the optical power budget required for field-serviceable CPO systems supporting bandwidths above 100 Tbps.\nBiDi and DWDM: Fiber Economy Becomes Data Center Economy\nLightmatter also emphasizes bidirectional optical technology, or BiDi.\nAt small scale, fiber count may look like a cabling issue. At AI data center scale, it becomes an economic issue.\nA 512-XPU or 1,024-XPU system can require enormous numbers of fibers and connectors. Every additional fiber increases installation complexity, service cost, space requirements, and potential failure points.\nBiDi allows transmit and receive signals to share optical infrastructure more efficiently. Combined with DWDM, it can reduce fiber count and improve bandwidth density.\nThis is why the future of AI networking will not be determined only by lane speed. It will also be determined by fiber efficiency, connector reliability, optical alignment, wavelength management, and total installed network cost.\nIn large AI factories, optical architecture is not just a performance decision. It is a data center economics decision.\nWhy Radix Matters: Power, Performance, and Cost Savings\nLightmatter BiDi technology doubles the radix of a network switch without increasing the number of optical fibers in the network. A higher radix, as illustrated above, reduces the number of hops a data packet must take to cross the network. Fewer hops mean fewer switches are needed for a given bisection bandwidth—enabling lower hardware costs and reduced power consumption. Put another way, increased radix (and bandwidth) enables larger, higher performing AI compute clusters without a corresponding increase in the number of switch tiers in their network. A network with fewer switch nodes inherently consumes less power.\nFinally, fewer hops translate directly into lower end-to-end latency and greater predictability. For tightly-coupled AI training workloads where GPUs are in constant communication, minimizing this latency is paramount for maximizing the overall computational efficiency. Specifically for Mixture-of-Experts (MoE) models, a higher radix allows expert parallel communications to remain within the high-bandwidth domain, preventing them from being bottlenecked by slower scale-out networks. This enables MoE models with a larger number of experts and finer-grained expert configurations, which are crucial for increasing model capacity and achieving faster training times.\nFrom a SerDes-Centric World to a Photonics-Centric World\nFor many years, high-speed interconnect has been SerDes-centric. The industry has competed on faster electrical lanes, better equalization, better retimers, lower bit error rate, and stronger signal integrity.\nSerDes will remain critical. But the center of gravity is changing.\nAs data rates continue to rise, relying only on stronger SerDes, more retimers, more complex PCB materials, and higher-end connectors becomes increasingly expensive. At some point, the system has to move the optical boundary closer to the compute boundary.\nThat is the transition Lightmatter is betting on.\nThe industry is moving from using optics as a long-distance transport layer to using optics as an architectural layer for AI computing.\nThis is the real meaning of optical infrastructure.\nConclusion: The Next Foundation of the AI Factory Is Optical\nThe key message from Lightmatter’s Computex 2026 presentation can be summarized in one sentence:\nThe next bottleneck in AI is not only compute. It is interconnect. And the next generation of interconnect will increasingly be optical.\nFrom Passage M1000 and photonic interposers, to L20/L200 for NPO and CPO, to Guide laser platforms, BiDi, DWDM, eClick, and vClick, Lightmatter is not building a single component. It is building an optical infrastructure stack for AI factories.\nIf NVIDIA defines the GPU and rack-scale computing layer of the AI factory, Lightmatter wants to define how data moves inside that factory.\nThis has major implications for the semiconductor industry.\nThe future AI data center will not be won only by buying more GPUs. It will be won by connecting those GPUs into a more efficient, lower-latency, lower-power, and more scalable system.\nIn that system, photonics is no longer just a supporting technology.\nIt is becoming the nervous system of AI infrastructure.\nLightmatter LinkedIn: The scale-up wall is real. To solve it, we’re integrating our industry-leading photonic interconnects into the ecosystem where it matters most. We are thrilled to announce that Lightmatter has become an optics partner in the NVIDIA NVLink™ Fusion ecosystem.\nScaling AI means scaling interconnects. As frontier models grow relentlessly, electrical interconnects are hitting fundamental physical limits on power, reach, and density, leaving massive amounts of compute capacity underutilized. Photonics is the only path forward.\nThrough this integration with NVIDIA's advanced system architecture, custom and semi-custom accelerators will connect to NVIDIA switch silicon via our Passage® co-packaged optics (CPO) and near-packaged optics (NPO)—powered by our Guide® VLSP™ lasers and industry-first bi-directional technology. This enables hyperscale customers to build AI factories with purpose-built silicon, unified by the highest bandwidth, lowest power optical fabric available from Lightmatter.\nThis is what we’ve been building toward since day one: empowering multi-rack scale-up clusters with the industry’s most advanced photonic interconnects, accelerating frontier AI model training and inference to unprecedented speeds.",
+    "summary": "Future AI infrastructure will likely become a hybrid system: copper remains relevant inside tightly coupled packages and boards, while optics expands from rack-to-rack networking into scale-up domains, CPO, NPO, and eventually photonic interposers. Advanced packaging, silicon photonics, SerDes, optical fiber arrays, external laser sources, liquid cooling, OSAT assembly, wafer-level testing, interposer manufacturing, and data center serviceability all become connected. Field serviceability: With measured insertion and repeated mating losses below 1.5 dB, vClick can preserve the optical power budget required for field-serviceable CPO systems supporting bandwidths above 100 Tbps.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science",
+        "Science and Technology->technology and engineering",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nvidia.com/en-us/data-center/nvlink-fusion/",
+        "https://www.nvidia.com/en-us/data-center/nvlink-fusion",
+        "https://nvidia.com/en-us/data-center/nvlink-fusion/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nick Harris",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Lightmatter",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "SemiVision Research",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-04T07:21:04.769+03:00",
+    "updated": "2026-06-04T07:26:09.000+03:00"
+}

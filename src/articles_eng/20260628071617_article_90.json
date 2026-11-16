@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "6930f18f641ca43e0d833b3165f3f730171d5414",
+        "url": "https://local.newsbreak.com/fox-weather-1600354/4730838869145-millions-of-americans-across-the-great-plains-and-central-us-brace-for-repeated-rainfall-and-flash-flooding",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/fox-weather-1600354",
+        "site_categories": [
+            "crime, law and justice",
+            "politics",
+            "human interest",
+            "arts, culture and entertainment",
+            "sport",
+            "lifestyle and leisure",
+            "economy, business and finance"
+        ],
+        "section_title": "Fox Weather&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Millions of Americans across the Great Plains and Central US brace for repeated rainfall and flash flooding - NewsBreak",
+        "title_full": "Millions of Americans across the Great Plains and Central US brace for repeated rainfall and flash flooding - NewsBreak",
+        "published": "2026-06-25T04:56:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1kiWL8_1CfuGYwd00",
+        "performance_score": 0,
+        "domain_rank": 3030,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6930f18f641ca43e0d833b3165f3f730171d5414",
+    "url": "https://local.newsbreak.com/fox-weather-1600354/4730838869145-millions-of-americans-across-the-great-plains-and-central-us-brace-for-repeated-rainfall-and-flash-flooding",
+    "ord_in_thread": 0,
+    "author": "Raymond Sanchez",
+    "published": "2026-06-25T04:56:00.000+03:00",
+    "title": "Millions of Americans across the Great Plains and Central US brace for repeated rainfall and flash flooding - NewsBreak",
+    "text": "By Raymond Sanchez ,\n2 hours ago Millions of Americans across the Central and Southern U.S. are bracing for repeated rounds of tropical downpours this week as forecasters monitor a developing threat that spans more than 700 miles. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Weather->weather forecast",
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.foxweather.com/weather-news/millions-americans-great-plains-central-us-flash-flooding",
+        "https://foxweather.com/weather-news/millions-americans-great-plains-central-us-flash-flooding"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Raymond Sanchez",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Central US",
+                "sentiment": "none"
+            },
+            {
+                "name": "Great Plains",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:17:59.494+03:00",
+    "updated": "2026-06-25T07:21:20.000+03:00"
+}

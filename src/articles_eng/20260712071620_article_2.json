@@ -1,0 +1,151 @@
+{
+    "thread": {
+        "uuid": "fcf8fe4c659847a9918355fd8580ca6fac9b9af6",
+        "url": "https://www.newsbreak.com/gettysburg-connection-556038/4758336786857-browns-dam-road-to-be-closed-and-detoured",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/gettysburg-connection-556038",
+        "site_categories": [
+            "under_construction",
+            "social issue",
+            "disaster and accident",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "sport",
+            "arts, culture and entertainment",
+            "politics"
+        ],
+        "section_title": "Gettysburg Connection&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Browns Dam Road to be closed and detoured - NewsBreak",
+        "title_full": "Browns Dam Road to be closed and detoured - NewsBreak",
+        "published": "2026-07-08T16:06:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3lsCXM_1D6bqYhx00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fcf8fe4c659847a9918355fd8580ca6fac9b9af6",
+    "url": "https://www.newsbreak.com/gettysburg-connection-556038/4758336786857-browns-dam-road-to-be-closed-and-detoured",
+    "ord_in_thread": 0,
+    "author": "Community Contributors",
+    "published": "2026-07-08T16:06:00.000+03:00",
+    "title": "Browns Dam Road to be closed and detoured - NewsBreak",
+    "text": "By Community Contributors ,\n15 hours ago The Pennsylvania Department of Transportation (PennDOT) announced today that drainage work will begin next week on a section of Route 94 (Carlisle Pike) in Adams County. This work is part of a 3.8-mile pavement repair and resurfacing project on Route 94 between Pine Run Road in Hamilton Township and Route 234 in Reading Township. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Environment"
+    ],
+    "topics": [
+        "Environment->energy saving",
+        "Environment->environmental pollution"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://gettysburgconnection.org/browns-dam-road-to-be-closed-and-detoured/",
+        "https://www.gettysburgconnection.org/browns-dam-road-to-be-closed-and-detoured/",
+        "https://gettysburgconnection.org/browns-dam-road-to-be-closed-and-detoured"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Browns Dam Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Carlisle Pike",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hamilton Township",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pine Run Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Adams County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reading Township",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "PennDOT",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Pennsylvania Department of Transportation",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:16:18.833+03:00",
+    "updated": "2026-07-09T07:18:47.000+03:00"
+}

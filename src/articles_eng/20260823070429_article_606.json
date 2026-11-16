@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "82fe683c18fab0151c8d7f7c96383f3516da88fd",
+        "url": "https://www.newsbreak.com/news/4837631293168-ai-company-says-eloy-police-are-1st-in-the-u-s-to-use-virtual-investigators",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/arizona",
+        "site_categories": [
+            "under_construction",
+            "politics",
+            "crime, law and justice",
+            "economy, business and finance",
+            "social issue",
+            "science and technology",
+            "arts, culture and entertainment",
+            "human interest",
+            "sport",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Arizona City, AZ Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "AI company says Eloy police are 1st in the U.S. to use 'virtual investigators' - NewsBreak",
+        "title_full": "AI company says Eloy police are 1st in the U.S. to use 'virtual investigators' - NewsBreak",
+        "published": "2026-08-19T16:26:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0H376Y_1ENVSyLG00",
+        "performance_score": 0,
+        "domain_rank": 3070,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "82fe683c18fab0151c8d7f7c96383f3516da88fd",
+    "url": "https://www.newsbreak.com/news/4837631293168-ai-company-says-eloy-police-are-1st-in-the-u-s-to-use-virtual-investigators",
+    "ord_in_thread": 0,
+    "author": "KJZZ",
+    "published": "2026-08-19T16:26:00.000+03:00",
+    "title": "AI company says Eloy police are 1st in the U.S. to use 'virtual investigators' - NewsBreak",
+    "text": "By KJZZ ,\n14 hours ago Despite growing public distrust in the use of AI by law enforcement, one Arizona police department says it will use the technology to help investigators manage heavy case loads. The rural city of Eloy located along Interstate 10 south of metro Phoenix is adopting new, AI-powered software to streamline police... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->investigation (criminal)",
+        "Crime, Law and Justice->police"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kjzz.org/science/2026-08-19/ai-company-says-eloy-police-are-1st-in-the-u-s-to-use-virtual-investigators",
+        "https://kjzz.org/science/2026-08-19/ai-company-says-eloy-police-are-1st-in-the-u-s-to-use-virtual-investigators"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "U. S.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eloy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Phoenix",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Eloy",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Ariz",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:33:18.743+03:00",
+    "updated": "2026-08-20T07:36:43.000+03:00"
+}

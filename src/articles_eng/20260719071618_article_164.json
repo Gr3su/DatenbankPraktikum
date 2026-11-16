@@ -1,0 +1,150 @@
+{
+    "thread": {
+        "uuid": "1a2949e86942d61e248c3255de18e19ea4027f18",
+        "url": "https://www.newsbreak.com/news/4772442402628-baldwin-police-fight-over-woman-led-to-shooting-that-injured-two",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/centerville-la",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "social issue",
+            "economy, business and finance",
+            "sport",
+            "disaster and accident",
+            "human interest",
+            "lifestyle and leisure",
+            "under_construction",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "Centerville, LA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Baldwin Police: Fight over woman led to shooting that injured two - NewsBreak",
+        "title_full": "Baldwin Police: Fight over woman led to shooting that injured two - NewsBreak",
+        "published": "2026-07-15T23:03:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/428dHr_1DKpGPjz00",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1a2949e86942d61e248c3255de18e19ea4027f18",
+    "url": "https://www.newsbreak.com/news/4772442402628-baldwin-police-fight-over-woman-led-to-shooting-that-injured-two",
+    "ord_in_thread": 0,
+    "author": "Logan Cullop",
+    "published": "2026-07-15T23:03:00.000+03:00",
+    "title": "Baldwin Police: Fight over woman led to shooting that injured two - NewsBreak",
+    "text": "By Logan Cullop ,\n1 days ago BALDWIN - A fight over a woman ended in gunfire, leaving two men wounded, Baldwin Police said Wednesday. Chief Anthony Gibson said that the two had been \"beefing all week,\" and it ended with the men shooting one another Tuesday. WBRZ previously reported that the victims were airlifted to a... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->robbery and theft",
+        "Crime, Law and Justice->assault"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wbrz.com/news/baldwin-police-fight-over-woman-led-to-shooting-that-injured-two",
+        "https://wbrz.com/news/baldwin-police-fight-over-woman-led-to-shooting-that-injured-two"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Logan Cullop",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Anthony Gibson",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "BALDWIN",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Baldwin Police",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "WBRZ",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Centerville"
+            ],
+            "state": [
+                "Louisiana"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:20:39.714+03:00",
+    "updated": "2026-07-17T16:03:57.395+03:00"
+}

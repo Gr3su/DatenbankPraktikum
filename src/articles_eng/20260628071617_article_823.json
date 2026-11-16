@@ -1,0 +1,152 @@
+{
+    "thread": {
+        "uuid": "2ff56af577996207f3ed1d5977074a781636933d",
+        "url": "https://www.newsbreak.com/news/4730370850597-after-fatal-shooting-in-allentown-family-doubles-down-on-mission-to-keep-kids-off-the-streets",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/bethlehem-ny",
+        "site_categories": [
+            "human interest",
+            "social issue",
+            "crime, law and justice",
+            "economy, business and finance",
+            "politics",
+            "under_construction",
+            "sport",
+            "disaster and accident",
+            "arts, culture and entertainment",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Bethlehem, PA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "After fatal shooting in Allentown, family doubles down on mission to keep kids off the streets - NewsBreak",
+        "title_full": "After fatal shooting in Allentown, family doubles down on mission to keep kids off the streets - NewsBreak",
+        "published": "2026-06-24T22:45:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2xQDtF_1CfQYqQn00",
+        "performance_score": 0,
+        "domain_rank": 3030,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2ff56af577996207f3ed1d5977074a781636933d",
+    "url": "https://www.newsbreak.com/news/4730370850597-after-fatal-shooting-in-allentown-family-doubles-down-on-mission-to-keep-kids-off-the-streets",
+    "ord_in_thread": 0,
+    "author": "Rob Manch",
+    "published": "2026-06-24T22:45:00.000+03:00",
+    "title": "After fatal shooting in Allentown, family doubles down on mission to keep kids off the streets - NewsBreak",
+    "text": "By Rob Manch ,\n8 hours ago ALLENTOWN, Pa. - We're hearing from the family of a Bethlehem man, who died in a shooting in Allentown last month. 18-year-old Tymell Millan-Mason was shot and killed at the McDonald's on Union Blvd. last month, but that's not how his family wants to remember him. They tell us his life was centered, in a big way, around flag football. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Disaster and Accident->disaster",
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wfmz.com/news/area/lehighvalley/lehigh-county/allentown-area/after-fatal-shooting-in-allentown-family-doubles-down-on-mission-to-keep-kids-off-the/article_02e98914-9e05-438b-9137-a4f8b1e6d862.html",
+        "https://wfmz.com/news/area/lehighvalley/lehigh-county/allentown-area/after-fatal-shooting-in-allentown-family-doubles-down-on-mission-to-keep-kids-off-the/article_02e98914-9e05-438b-9137-a4f8b1e6d862.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rob Manch",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Tymell Millan - Mason",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Allentown",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bethlehem",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pa.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Union Blvd.",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "McDonald ' s",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "MCD",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:44:16.991+03:00",
+    "updated": "2026-06-25T07:48:21.000+03:00"
+}

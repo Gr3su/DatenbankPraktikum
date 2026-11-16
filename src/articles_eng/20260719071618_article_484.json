@@ -1,0 +1,122 @@
+{
+    "thread": {
+        "uuid": "374d347378c238ee86260f5a8a1a6c7b9e09b9aa",
+        "url": "https://local.newsbreak.com/newsweek-500152/4773075645093-why-cowboys-tagging-george-pickens-works-perfectly",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/newsweek-500152",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "politics",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "sport",
+            "economy, business and finance",
+            "disaster and accident",
+            "social issue"
+        ],
+        "section_title": "Newsweek&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Why Cowboys Tagging George Pickens Works Perfectly - NewsBreak",
+        "title_full": "Why Cowboys Tagging George Pickens Works Perfectly - NewsBreak",
+        "published": "2026-07-16T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/317u4a_1DLSSuqg00",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "374d347378c238ee86260f5a8a1a6c7b9e09b9aa",
+    "url": "https://local.newsbreak.com/newsweek-500152/4773075645093-why-cowboys-tagging-george-pickens-works-perfectly",
+    "ord_in_thread": 0,
+    "author": "Matthew Davis",
+    "published": "2026-07-16T06:59:00.000+03:00",
+    "title": "Why Cowboys Tagging George Pickens Works Perfectly - NewsBreak",
+    "text": "By Matthew Davis ,\n30 minutes ago The Dallas Cowboys and George Pickens saw the franchise tag negotiation period pass on Wednesday, and that's OK. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->disciplinary action in sport",
+        "Sport->sports transaction"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.newsweek.com/sports/nfl/why-cowboys-tagging-george-pickens-works-perfectly-12202179",
+        "https://newsweek.com/sports/nfl/why-cowboys-tagging-george-pickens-works-perfectly-12202179"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "George Pickens",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Matthew Davis",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Dallas Cowboys",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:31:34.264+03:00",
+    "updated": "2026-07-16T07:37:26.000+03:00"
+}

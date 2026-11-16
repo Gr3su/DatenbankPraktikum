@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "501af993b84d6185bf183059e919b61a046b6e4c",
+        "url": "https://www.newsbreak.com/wthr-524564/4255290141918-ag-warns-indy-council-over-sheriff-s-budget",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/wthr-524564",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "WTHR&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "AG warns Indy Council over sheriff's budget - NewsBreak",
+        "title_full": "AG warns Indy Council over sheriff's budget - NewsBreak",
+        "published": "2025-09-25T07:13:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0wGIsi_153jNC1y00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-09-22T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "501af993b84d6185bf183059e919b61a046b6e4c",
+    "url": "https://www.newsbreak.com/wthr-524564/4255290141918-ag-warns-indy-council-over-sheriff-s-budget",
+    "ord_in_thread": 0,
+    "author": "WTHR",
+    "published": "2025-09-25T07:13:00.000+03:00",
+    "title": "AG warns Indy Council over sheriff's budget - NewsBreak",
+    "text": "1 hours ago Indiana's attorney general is warning city leaders to keep their hands off the Marion County Sheriff's budget. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "AG",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "AG",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-25T07:24:53.570+03:00",
+    "updated": "2025-09-25T08:27:00.320+03:00"
+}

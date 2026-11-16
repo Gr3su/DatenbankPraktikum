@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "1b18bcd6e8c05c0470ed02b829d68caef0f90ae0",
+        "url": "https://www.newsbreak.com/news/4487502352292-1926-king-of-bootleggers-captured-in-butler-county",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/clarkton-mo",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Clarkton, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "1926: 'King of Bootleggers' captured in Butler County - NewsBreak",
+        "title_full": "1926: 'King of Bootleggers' captured in Butler County - NewsBreak",
+        "published": "2026-02-11T08:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0YgMwc_18miERq800",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1b18bcd6e8c05c0470ed02b829d68caef0f90ae0",
+    "url": "https://www.newsbreak.com/news/4487502352292-1926-king-of-bootleggers-captured-in-butler-county",
+    "ord_in_thread": 0,
+    "author": "darnews.com",
+    "published": "2026-02-11T08:00:00.000+02:00",
+    "title": "1926: 'King of Bootleggers' captured in Butler County - NewsBreak",
+    "text": "23 hours ago Federal agents and local law enforcement captured Louis Ogle, one of the region's most successful bootleggers, in 1926. One prohibition agent called the operation the biggest catch of his career to date. Also on this date, the Poplar Bluff High School's choir embarked on a singing tour across Southwest Missouri,... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->organised crime",
+        "Crime, Law and Justice->law enforcement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Louis Ogle",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Butler County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Missouri",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Poplar Bluff High School",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Clarkton"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-12T07:21:41.802+02:00",
+    "updated": "2026-02-12T07:25:13.000+02:00"
+}

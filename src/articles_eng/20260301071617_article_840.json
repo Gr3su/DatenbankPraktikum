@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "14b93b3464b79b803d273c65f2f8106055db2af9",
+        "url": "https://www.newsbreak.com/news/4512074140840-threats-set-alisal-high-school-on-lockdown-for-two-days-in-a-row",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/hollister-ca",
+        "site_categories": [
+            "sport",
+            "under_construction",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "politics",
+            "crime, law and justice",
+            "human interest",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Hollister, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Threats set Alisal High School on lockdown for two days in a row. - NewsBreak",
+        "title_full": "Threats set Alisal High School on lockdown for two days in a row. - NewsBreak",
+        "published": "2026-02-26T01:42:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/36meIw_19AT37en00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-22T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "14b93b3464b79b803d273c65f2f8106055db2af9",
+    "url": "https://www.newsbreak.com/news/4512074140840-threats-set-alisal-high-school-on-lockdown-for-two-days-in-a-row",
+    "ord_in_thread": 0,
+    "author": "Celia Jiménez",
+    "published": "2026-02-26T01:42:00.000+02:00",
+    "title": "Threats set Alisal High School on lockdown for two days in a row. - NewsBreak",
+    "text": "By Celia Jiménez ,\n5 hours ago For the past two days, Tuesday-Wednesday, Feb. 24-25, Alisal High School has been under a “secure campus” status, a safety measure triggered by a potential threat: in this case, threatening graffiti messages found in bathrooms. “We have to make sure that we do everything possible to keep our... Read full article\nRead in NewsBreak 3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Education"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Education->school"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Celia Jiménez",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Alisal High School",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Hollister"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-26T07:32:55.705+02:00",
+    "updated": "2026-02-26T07:40:17.000+02:00"
+}

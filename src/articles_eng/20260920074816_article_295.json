@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "5a2418fb2401a055e038fc18d5626f665911dd1c",
+        "url": "https://www.newsbreak.com/news/4890237681017-flooding-shuts-down-state-office-building-in-downtown-madison",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/madison-wi",
+        "site_categories": [
+            "social issue",
+            "human interest",
+            "crime, law and justice",
+            "politics",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "under_construction",
+            "sport",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Madison, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Flooding shuts down state office building in downtown Madison - NewsBreak",
+        "title_full": "Flooding shuts down state office building in downtown Madison - NewsBreak",
+        "published": "2026-09-16T23:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/02Hh3r_1FDVvyGc00",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5a2418fb2401a055e038fc18d5626f665911dd1c",
+    "url": "https://www.newsbreak.com/news/4890237681017-flooding-shuts-down-state-office-building-in-downtown-madison",
+    "ord_in_thread": 0,
+    "author": "Olivia Herken",
+    "published": "2026-09-16T23:00:00.000+03:00",
+    "title": "Flooding shuts down state office building in downtown Madison - NewsBreak",
+    "text": "By Olivia Herken ,\n8 hours ago The Cap Times is an independent newsroom serving Madison and Wisconsin. Sign up for the Morning Update to receive news in your inbox each morning. A 10-story office building in downtown Madison that houses the Wisconsin Department of Administration is closed to the public and employees after a water pipe leak caused flooding throughout the building. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://captimes.com/news/government/flooding-shuts-down-state-office-building-in-downtown-madison/article_eb5c0ecb-5345-4d7a-b7f2-436ca74f017d.html",
+        "https://www.captimes.com/news/government/flooding-shuts-down-state-office-building-in-downtown-madison/article_eb5c0ecb-5345-4d7a-b7f2-436ca74f017d.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Olivia Herken",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Madison",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wisconsi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "The Cap Times",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Wisconsin Department of Administration",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:00:39.812+03:00",
+    "updated": "2026-09-17T08:01:43.000+03:00"
+}

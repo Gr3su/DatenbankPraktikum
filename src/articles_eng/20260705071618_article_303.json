@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "2738b4cc07445f20d74b75e71073afe1c1630fce",
+        "url": "https://www.newsbreak.com/news/4744648900809-detroit-family-on-the-search-for-missing-woman-who-is-pregnant",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/southgate-mi",
+        "site_categories": [
+            "sport",
+            "under_construction",
+            "crime, law and justice",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "politics",
+            "disaster and accident",
+            "social issue",
+            "human interest",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Southgate, MI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Detroit family on the search for missing woman who is pregnant - NewsBreak",
+        "title_full": "Detroit family on the search for missing woman who is pregnant - NewsBreak",
+        "published": "2026-07-02T00:44:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3RvTVK_1CtowImR00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2738b4cc07445f20d74b75e71073afe1c1630fce",
+    "url": "https://www.newsbreak.com/news/4744648900809-detroit-family-on-the-search-for-missing-woman-who-is-pregnant",
+    "ord_in_thread": 0,
+    "author": "Scott Wolchek",
+    "published": "2026-07-02T00:44:00.000+03:00",
+    "title": "Detroit family on the search for missing woman who is pregnant - NewsBreak",
+    "text": "By Scott Wolchek ,\n6 hours ago DETROIT (FOX 2) - A Detroit family is hoping for answers after the disappearance of 21-year-old Denijah Myers. She’s more than six months pregnant and has been missing for a week. Big picture view:. Denijah Myers was last seen around 6 Mile and Lahser, and officials say she lived... Read full article\n10",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Human Interest"
+    ],
+    "topics": [
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox2detroit.com/news/detroit-family-search-missing-woman-who-is-pregnant.amp",
+        "https://fox2detroit.com/news/detroit-family-search-missing-woman-who-is-pregnant.amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Wolchek",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Denijah Myers",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Detroit",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FOX 2",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Southgate"
+            ],
+            "state": [
+                "Michigan"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:27:48.879+03:00",
+    "updated": "2026-07-02T07:34:50.000+03:00"
+}

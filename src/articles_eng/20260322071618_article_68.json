@@ -1,0 +1,168 @@
+{
+    "thread": {
+        "uuid": "df3117b9f5694d3127f21abc86da768c64852eb4",
+        "url": "https://www.newsbreak.com/news/4547352407136-property-reserve-nabs-fully-leased-warehouse-at-nj-turnpike-exit-8a",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/helmetta-nj",
+        "site_categories": [
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "human interest",
+            "sport",
+            "under_construction",
+            "politics"
+        ],
+        "section_title": "Helmetta, NJ Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Property Reserve Nabs Fully Leased Warehouse at NJ Turnpike Exit 8A - NewsBreak",
+        "title_full": "Property Reserve Nabs Fully Leased Warehouse at NJ Turnpike Exit 8A - NewsBreak",
+        "published": "2026-03-19T03:31:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1YorTu_19k0Wfjg00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "df3117b9f5694d3127f21abc86da768c64852eb4",
+    "url": "https://www.newsbreak.com/news/4547352407136-property-reserve-nabs-fully-leased-warehouse-at-nj-turnpike-exit-8a",
+    "ord_in_thread": 0,
+    "author": "Paul Bubny",
+    "published": "2026-03-19T03:31:00.000+02:00",
+    "title": "Property Reserve Nabs Fully Leased Warehouse at NJ Turnpike Exit 8A - NewsBreak",
+    "text": "By Paul Bubny ,\n3 hours ago CBRE arranged the sale of Eastpoint at Exit 8A, a 450,330-square-foot industrial facility centrally located between New York City, Philadelphia and Central New Jersey at 1065 Cranbury South River Rd. in Monroe Township, NJ. Property Reserve Inc. acquired the asset from Morgan Stanley at an undisclosed price. CBRE’s Brian Fiumara... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->construction and property"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Paul Bubny",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Brian Fiumara",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Eastpoint",
+                "sentiment": "none"
+            },
+            {
+                "name": "NJ",
+                "sentiment": "none"
+            },
+            {
+                "name": "New York City",
+                "sentiment": "none"
+            },
+            {
+                "name": "Central New Jersey",
+                "sentiment": "none"
+            },
+            {
+                "name": "Philadelphia",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cranbury South River Rd",
+                "sentiment": "none"
+            },
+            {
+                "name": "Monroe Township",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBRE",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "CBRE",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Property Reserve Inc.",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Morgan Stanley",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "MS",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "df3117b9f5694d3127f21abc86da768c64852eb4",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Helmetta"
+            ],
+            "state": [
+                "New Jersey"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:18:36.039+02:00",
+    "updated": "2026-03-19T07:22:00.000+02:00"
+}

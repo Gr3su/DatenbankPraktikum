@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "8c4ed974ff7deb7f84b0cf771d2388249bf702cf",
+        "url": "https://www.newsbreak.com/news/4356234203916-washburn-soccer-earns-no-4-seed-in-ncaa-tournament",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/wathena-ks",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Wathena, KS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Washburn soccer earns No. 4 seed in NCAA Tournament - NewsBreak",
+        "title_full": "Washburn soccer earns No. 4 seed in NCAA Tournament - NewsBreak",
+        "published": "2025-11-19T17:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2zhQDN_16gRJYEL00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-11-16T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8c4ed974ff7deb7f84b0cf771d2388249bf702cf",
+    "url": "https://www.newsbreak.com/news/4356234203916-washburn-soccer-earns-no-4-seed-in-ncaa-tournament",
+    "ord_in_thread": 0,
+    "author": "Andrew Lind",
+    "published": "2025-11-19T17:35:00.000+02:00",
+    "title": "Washburn soccer earns No. 4 seed in NCAA Tournament - NewsBreak",
+    "text": "By Andrew Lind ,\n13 hours ago TOPEKA, Kan. (WIBW) - Washburn soccer is headed to the NCAA Tournament for the third straight year, earning the No. 4 seed in the Central Region. The Ichabods will face No. 5 Missouri Western on Friday, November 21 at 10 a.m. in Mankato, Minnesota. Washburn enters at 11-3-5, while Missouri... Read full article\nRead in NewsBreak 1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Sport->soccer"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Andrew Lind",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Washburn",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kan.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Central Region",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NCAA",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "WIBW",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Missouri Western",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Wathena"
+            ],
+            "state": [
+                "Kansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-11-20T07:27:19.159+02:00",
+    "updated": "2025-11-20T07:32:31.000+02:00"
+}

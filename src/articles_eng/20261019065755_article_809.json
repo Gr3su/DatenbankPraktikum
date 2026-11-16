@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "e5477992d5d580b567124840f38d8b65a95d275e",
+        "url": "https://www.newsbreak.com/news/4947398467398-community-watch-winchester-police-seek-davon-brown-on-probation-violation",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/hayfield-va",
+        "site_categories": [
+            "sport",
+            "politics",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "under_construction"
+        ],
+        "section_title": "Hayfield, VA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Community Watch: Winchester Police Seek Davon Brown on Probation Violation - NewsBreak",
+        "title_full": "Community Watch: Winchester Police Seek Davon Brown on Probation Violation - NewsBreak",
+        "published": "2026-10-15T13:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3sKf1C_1G86V7u900",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:26:06.231+03:00"
+        }
+    },
+    "uuid": "e5477992d5d580b567124840f38d8b65a95d275e",
+    "url": "https://www.newsbreak.com/news/4947398467398-community-watch-winchester-police-seek-davon-brown-on-probation-violation",
+    "ord_in_thread": 0,
+    "author": "thewinchestergazette.com",
+    "published": "2026-10-15T13:00:00.000+03:00",
+    "title": "Community Watch: Winchester Police Seek Davon Brown on Probation Violation - NewsBreak",
+    "text": "18 hours ago Winchester, Virginia — Davon Brown is wanted by Winchester police for an alleged probation violation stemming from an original robbery charge, as well as prescription fraud and possession of illegal substances. The Winchester Police Department is asking anyone with information about Brown’s whereabouts or the case to contact the... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->out of court procedures",
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->court",
+        "Crime, Law and Justice->judiciary"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.thewinchestergazette.com/articles/news/community-watch-winchester-police-seek-davon-brown-on-probation-violation/",
+        "https://www.thewinchestergazette.com/articles/news/community-watch-winchester-police-seek-davon-brown-on-probation-violation",
+        "https://thewinchestergazette.com/articles/news/community-watch-winchester-police-seek-davon-brown-on-probation-violation/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Davon Brown",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Winchester",
+                "sentiment": "none"
+            },
+            {
+                "name": "Virginia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Community Watch",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Winchester Police Department",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Hayfield"
+            ],
+            "state": [
+                "Virginia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:26:06.231+03:00",
+    "updated": "2026-10-16T07:27:45.000+03:00",
+    "related_articles": null
+}

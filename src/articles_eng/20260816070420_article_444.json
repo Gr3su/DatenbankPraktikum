@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "e07cc8ffda899b8d6b36af2d36d0f9e7cb745100",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4826096421594-special-weather-statement-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/nws-alerts-1671083",
+        "site_categories": [
+            "sport",
+            "lifestyle and leisure",
+            "human interest",
+            "politics",
+            "crime, law and justice",
+            "science and technology",
+            "health",
+            "social issue",
+            "arts, culture and entertainment",
+            "under_construction",
+            "economy, business and finance"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Special Weather Statement by NWS - NewsBreak",
+        "title_full": "Special Weather Statement by NWS - NewsBreak",
+        "published": "2026-08-13T06:48:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1Dx5HM_1EBtE94g00",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e07cc8ffda899b8d6b36af2d36d0f9e7cb745100",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4826096421594-special-weather-statement-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2026-08-13T06:48:00.000+03:00",
+    "title": "Special Weather Statement by NWS - NewsBreak",
+    "text": "27 minutes ago Check NWS updates here\nEffective: 2026-08-12 23:47:00 EDT Expires: 2026-08-13 00:30:00 EDT Urgency: Expected Severity: Moderate Certainty: Observed Instruction: If outdoors, consider seeking shelter inside a building. Target Area: Orange At 1146 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Woodridge to Thompsonville to near Rock Hill to near Hartwood. Movement was east at 30 mph.\nHAZARD...Wind gusts up to 40 mph and pea size hail.\nSOURCE...Radar indicated.\nIMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.\nLocations impacted include... Newburgh, Walden, Howells, Gardnertown, Montgomery, Otisville, Scotchtown, Orange Lake, Mechanicstown, Balmville, Maybrook, Pine Bush, Circleville, and Bullville.",
+    "summary": "27 minutes ago Check NWS updates here Effective: 2026-08-12 23:47:00 EDT Expires: 2026-08-13 00:30:00 EDT Urgency: Expected Severity: Moderate Certainty: Observed Instruction: If outdoors, consider seeking shelter inside a building. Target Area: Orange At 1146 PM EDT, Doppler radar was tracking strong thunderstorms along a line extending from Woodridge to Thompsonville to near Rock Hill to near Hartwood. HAZARD...Wind gusts up to 40 mph and pea size hail. IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Locations impacted include... Newburgh, Walden, Howells, Gardnertown, Montgomery, Otisville, Scotchtown, Orange Lake, Mechanicstown, Balmville, Maybrook, Pine Bush, Circleville, and Bullville.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=1Dx5HM_1EBtE94g00",
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.a371921f4ed11fe64d69f382c46446f399213326.001.1",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1Dx5HM_1EBtE94g00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1Dx5HM_1EBtE94g00",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.a371921f4ed11fe64d69f382c46446f399213326.001.1",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?url=1Dx5HM_1EBtE94g00",
+        "https://alerts.weather.gov/search"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Thompsonville",
+                "sentiment": "none"
+            },
+            {
+                "name": "Woodridge",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hartwood",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rock Hill",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Doppler",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:25:29.217+03:00",
+    "updated": "2026-08-13T07:27:30.000+03:00"
+}

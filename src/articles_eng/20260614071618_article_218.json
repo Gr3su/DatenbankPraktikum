@@ -1,0 +1,126 @@
+{
+    "thread": {
+        "uuid": "e4d3fccd5d9198be81a30e5059d543acd6d8c9d4",
+        "url": "https://www.newsbreak.com/news/4702758074545-equestrian-center-back-in-the-saddle-again",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/ettrick-wi",
+        "site_categories": [
+            "sport",
+            "crime, law and justice",
+            "politics",
+            "human interest",
+            "economy, business and finance",
+            "disaster and accident",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "under_construction"
+        ],
+        "section_title": "Ettrick, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Equestrian Center back in the saddle again - NewsBreak",
+        "title_full": "Equestrian Center back in the saddle again - NewsBreak",
+        "published": "2026-06-10T17:50:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2gEijJ_1CDbhUoD00",
+        "performance_score": 0,
+        "domain_rank": 2951,
+        "domain_rank_updated": "2026-06-08T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e4d3fccd5d9198be81a30e5059d543acd6d8c9d4",
+    "url": "https://www.newsbreak.com/news/4702758074545-equestrian-center-back-in-the-saddle-again",
+    "ord_in_thread": 0,
+    "author": "winonapost.com",
+    "published": "2026-06-10T17:50:00.000+03:00",
+    "title": "Equestrian Center back in the saddle again - NewsBreak",
+    "text": "13 hours ago The Minnesota Equestrian Center (MEC) recently rebuilt its north barn, which was lost in a 2024 fire, just in time for one of its largest events of the year, a barrel racing competition that drew hundreds from across the tri-state area. The event packed the 350-stall facility with riders of all ages connected by a shared love of competition and horses. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->travel and tourism",
+        "Lifestyle and Leisure->gaming and lottery",
+        "Lifestyle and Leisure->leisure venue"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.winonapost.com/news/equestrian-center-back-in-the-saddle-again/article_01d6b868-6d1b-420f-8e7a-7eb444432319.html",
+        "https://winonapost.com/news/equestrian-center-back-in-the-saddle-again/article_01d6b868-6d1b-420f-8e7a-7eb444432319.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Minnesota Equestrian Center",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "MEC",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "e4d3fccd5d9198be81a30e5059d543acd6d8c9d4",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Ettrick"
+            ],
+            "state": [
+                "Wisconsin"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-11T07:25:00.456+03:00",
+    "updated": "2026-06-11T13:59:41.000+03:00"
+}

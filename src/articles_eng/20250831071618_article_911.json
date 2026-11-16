@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "4e62d433121a470ba0311cfc971d8508b1b5c1f3",
+        "url": "https://time.news/ai-threat-oneflip-risks-medical-devices-self-driving-cars/",
+        "site_full": "time.news",
+        "site": "time.news",
+        "site_section": "https://time.news",
+        "site_categories": [],
+        "section_title": "TIme News - time.news",
+        "site_title": "TIme News - time.news",
+        "title": "AI Threat \"OneFlip\" Risks Medical Devices & Self-Driving Cars",
+        "title_full": "AI Threat \"OneFlip\" Risks Medical Devices & Self-Driving Cars",
+        "published": "2025-08-28T01:56:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://time.news/wp-content/uploads/2025/06/time.png",
+        "performance_score": 0,
+        "domain_rank": 111697,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4e62d433121a470ba0311cfc971d8508b1b5c1f3",
+    "url": "https://time.news/ai-threat-oneflip-risks-medical-devices-self-driving-cars/",
+    "ord_in_thread": 0,
+    "author": "Priyanka Patel",
+    "published": "2025-08-28T01:56:00.000+03:00",
+    "title": "AI Threat \"OneFlip\" Risks Medical Devices & Self-Driving Cars",
+    "text": "NEW YORK, Aug. 27, 2025\nNew Flaw Could Wreck Self-Driving Cars and Bypass Biometrics A critical vulnerability, dubbed OneFlip, could remotely disable self-driving cars and compromise facial recognition and biometric security systems.\nA newly discovered vulnerability, named OneFlip, poses a meaningful threat to autonomous vehicles, facial recognition systems, and biometric authentication tools. This flaw could allow attackers to remotely disable self-driving cars, cause facial recognition to fail, and shut down biometric ID authenticators.\noneflip is a newly identified vulnerability. It can remotely disable self-driving cars. Facial recognition and biometric systems are also at risk. Researchers are still analyzing the full scope of the threat. What is the OneFlip vulnerability ? OneFlip is a critical security flaw that could potentially disrupt various advanced technologies. Its impact is far-reaching, affecting safety-critical systems like autonomous driving.\nThe vulnerability was discovered by a team of autonomous security researchers led by Dr.Anya Sharma at the CyberNexus institute. they found that a specific manipulation of data processing within systems utilizing advanced algorithms could trigger a cascading failure, effectively “flipping” the functionality of targeted components. The flaw appears to stem from a previously unknown interaction between commonly used encryption protocols and the processing of sensor data.\nDid you know? – The name “OneFlip” refers to the single bit change that can trigger the vulnerability, causing a system to malfunction. This highlights how even small alterations can have significant consequences. Autonomous Vehicle Risks Self-driving cars rely heavily on elegant sensors and software. A accomplished exploit of OneFlip could lead to disastrous outcomes. Imagine a future where your car suddenly loses its ability to navigate. This could result in crashes, putting passengers and other road users in danger. The technology meant to enhance safety could become a massive liability.\nThe potential for harm extends beyond simple navigation failures. Experts warn that attackers could potentially take complete control of a vehicle, manipulating steering, acceleration, and braking. Initial testing suggests that vehicles from at least five major manufacturers are susceptible, though the exact level of vulnerability varies.The researchers promptly alerted affected companies and relevant government agencies.\nPro tip: – Regularly update your vehicle’s software and security patches. Manufacturers are expected to release fixes for OneFlip, and applying these updates is crucial for protection. Facial Recognition and Biometric Failures Beyond automotive applications, OneFlip targets the very systems designed to keep our digital and physical worlds secure. Facial recognition technology, increasingly used for everything from unlocking phones to border control, could be rendered useless. Biometric authenticators, like fingerprint scanners or iris readers, might also shut down. This could lock users out of their devices or,more disturbingly,allow unauthorized access.\nThe implications for security are profound. If facial recognition systems are compromised, it could lead to breaches in airport security, unauthorized access to secure facilities, and the circumvention of digital identity verification processes. similarly, failures in biometric authentication could allow malicious actors to gain access to sensitive data and financial accounts. The CyberNexus Institute is collaborating with the Department of Homeland Security to assess the national security risks.\nReader question: – How confident are security experts that a fix for oneflip can be developed and deployed effectively? What challenges might arise during the patching process? The precise mechanisms and widespread exploitability of OneFlip are still under intense scrutiny. However, the potential for widespread disruption is undeniable. The tech industry is working to understand and mitigate this new threat. As of today,August 27,2025,several manufacturers have confirmed they are working on patches,with initial updates",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology",
+        "Health"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science",
+        "Science and Technology->technology and engineering",
+        "Science and Technology->biomedical science",
+        "Health->medical condition",
+        "Health->health care approach",
+        "Health->medical profession"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://music.youtube.com/",
+        "https://www.music.youtube.com/",
+        "https://music.youtube.com"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dr.Anya Sharma",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-28T07:39:08.985+03:00",
+    "updated": "2025-08-28T07:44:06.000+03:00"
+}

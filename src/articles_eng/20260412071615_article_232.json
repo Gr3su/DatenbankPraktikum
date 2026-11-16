@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "b7a9c71ed78c64f7a136a48113c5836630b87511",
+        "url": "https://derechadiario.com.ar/us/argentina/China-underwent-mass-hacking-10-petabytes-confidential-data",
+        "site_full": "derechadiario.com.ar",
+        "site": "derechadiario.com.ar",
+        "site_section": "https://derechadiario.com.ar/us",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "La Derecha Diario en Inglés | Últimas noticias, opinión e investigaciones exclusivas",
+        "site_title": "La Derecha Diario | Últimas noticias, opinión e investigaciones exclusivas",
+        "title": "China suffered a massive hack in which 10 \"petabytes\" of confidential data were stolen | La Derecha Diario en Inglés",
+        "title_full": "China suffered a massive hack in which 10 \"petabytes\" of confidential data were stolen | La Derecha Diario en Inglés",
+        "published": "2026-04-09T06:39:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AR",
+        "main_image": "https://d59jb5sy46ag5.cloudfront.net/imagenes_notas/PORTADAWEB_xi_hackeojpg_e6c4e12df314.jpg?t=1775705940000",
+        "performance_score": 0,
+        "domain_rank": 383761,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b7a9c71ed78c64f7a136a48113c5836630b87511",
+    "url": "https://derechadiario.com.ar/us/argentina/China-underwent-mass-hacking-10-petabytes-confidential-data",
+    "ord_in_thread": 0,
+    "author": "derechadiario.com.ar",
+    "published": "2026-04-09T06:39:00.000+03:00",
+    "title": "China suffered a massive hack in which 10 \"petabytes\" of confidential data were stolen | La Derecha Diario en Inglés",
+    "text": "A recent cyber attack against one of China's main technological infrastructures has jeopardized the strength of its digital security systems, following the massive leak of more than 10 petabytes of highly sensitive information from the Tianjin National Supercomputing Center.\nAccording to expert reports and analysis, a hacker who identifies himself as “FlamingChina” would have accessed the center's system, a key facility that provides services to more than 6,000 entities, including scientific and defense agencies, and extracted data for several months without being detected. If confirmed, it would be one of the biggest information thefts recorded globally\n.The leaked material includes classified documents, technical simulations and designs related to weapons, such as missiles and bombs, as well as research in strategic fields such as aerospace engineering, bioinformatics and fusion simulation. Cybersecurity specialists who reviewed samples published on the internet pointed out that the content matches the type of information that is normally processed in this\ntype of facility.One of the most critical aspects of the case is the ease with which the attacker would have breached the system. According to the details released, initial access would have been achieved through the commitment of a virtual private network (VPN), a technique considered basic. Subsequently, the hacker used an automated network to extract the data progressively, thus avoiding activating security alerts\n.This point has raised strong questions about the monitoring and response capacity of Chinese digital infrastructures. Analysts warn that a prolonged intrusion of this type suggests significant structural flaws in defense protocols, especially in facilities that handle information critical to national security",
+    "summary": "A recent cyber attack against one of China's main technological infrastructures has jeopardized the strength of its digital security systems, following the massive leak of more than 10 petabytes of highly sensitive information from the Tianjin National Supercomputing Center. According to expert reports and analysis, a hacker who identifies himself as “FlamingChina” would have accessed the center's system, a key facility that provides services to more than 6,000 entities, including scientific and defense agencies, and extracted data for several months without being detected.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "China",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "La Derecha Diario",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "FlamingChina",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Tianjin National Supercomputing Center",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:25:19.059+03:00",
+    "updated": "2026-04-09T07:25:19.059+03:00"
+}

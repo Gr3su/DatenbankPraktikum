@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "29808e8483ad42b136ab2dcef7c5c90ed78f6ced",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4086785248863-severe-thunderstorm-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "published": "2025-07-02T23:22:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/423Kfr_12MwfJZp00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "29808e8483ad42b136ab2dcef7c5c90ed78f6ced",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4086785248863-severe-thunderstorm-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-07-02T23:22:00.000+03:00",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here At 822 PM MST, a severe thunderstorm was located near Palo Verde, or 7 miles south of Buckeye, moving north at 15 mph. HAZARD...60 mph wind gusts. SOURCE...Radar indicated. IMPACT...Expect damage to roofs, siding, and trees. Locations impacted include... Buckeye, Palo Verde, Palo Verde Nuclear Generation Station, Wintersburg, Hassayampa, and Arlington.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather",
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Social Issue->demographics",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.22efc07a36a8fec79ac336c3153519cefacd1688.001.1",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.22efc07a36a8fec79ac336c3153519cefacd1688.001.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Verde",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wintersburg",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-07-03T07:24:09.579+03:00",
+    "updated": "2025-07-03T04:29:04.000+00:00"
+}

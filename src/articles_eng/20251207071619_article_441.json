@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "0d04f848b5f61620fc01d9f7aff37443ce57c41e",
+        "url": "https://midlandtimes.com/stories/676731294-pfluger-questions-experts-on-defending-u-s-power-grid-from-foreign-cyber-threats",
+        "site_full": "midlandtimes.com",
+        "site": "midlandtimes.com",
+        "site_section": "https://midlandtimes.com/stories.rss",
+        "site_categories": [],
+        "section_title": "Midland Times",
+        "site_title": "Midland Times",
+        "title": "Pfluger questions experts on defending U.S power grid from foreign cyber threats",
+        "title_full": "Pfluger questions experts on defending U.S power grid from foreign cyber threats",
+        "published": "2025-12-03T09:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://s3.amazonaws.com/jnswire/jns-media/c0/3a/27615964/webp_vuk49wuam2x2oyb1v9va7q722ixk.webp",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0d04f848b5f61620fc01d9f7aff37443ce57c41e",
+    "url": "https://midlandtimes.com/stories/676731294-pfluger-questions-experts-on-defending-u-s-power-grid-from-foreign-cyber-threats",
+    "ord_in_thread": 0,
+    "author": "Midland Times",
+    "published": "2025-12-03T09:37:00.000+02:00",
+    "title": "Pfluger questions experts on defending U.S power grid from foreign cyber threats",
+    "text": "Congressman August Pfluger, who represents Texas’ 11th district in the U.S. Congress, participated in a House Energy and Commerce Committee subcommittee hearing focused on securing the nation’s energy infrastructure against cyber and physical threats. The hearing, titled \"Securing America's Energy Infrastructure: Addressing Cyber and Physical Threats to the Grid,\" examined growing concerns about foreign cyber attacks targeting the U.S. electric grid.\nPfluger questioned witnesses about specific actions utilities are taking to counter these threats, particularly those linked to campaigns by the People’s Republic of China (PRC). He referenced recent incidents involving PRC-linked cyber operations known as Salt Typhoon and Bull Typhoon.\n\"Mr. Ball, in your testimony, you indicated that the PRC campaigns like Salt Typhoon and Bull Typhoon represent the most persistent and adaptive threats that are targeting our infrastructure. We know that the Chinese Communist Party is actively seeking to do damage and gather intelligence. But can you describe at an operational level what utilities are doing differently today than what has been done to detect and to stop these campaigns, and then what gaps still exist that we need to be worried about?\" Pfluger asked Michael Ball, CEO of the Electricity Information Sharing and Analysis Center.\nBall responded: \"So I think the best way to describe that is, I think we see an industry that is evolving in its capabilities, and it's based on awareness. I think we have seen a significant awakening. And I'm not saying it's enough, but we have seen a significant awakening to the threat with our industry. And when it boils down to it, despite these sophisticated capabilities that threat actors like the PRC have, a lot of the things that make us resilient still boil down to basic practices… and we need to continue to bolster that capability. Our industry, whether it's large IOUs or down to the municipals and cooperatives. I think you're hearing even today how this industry is awake to that, and I think we need to continue to empower them to be able to build a more resilient system.\"\nPfluger also directed questions at Sharla Artz from Xcel Energy regarding changes in cybersecurity practices following reports of Chinese state-sponsored actors compromising critical U.S. infrastructure providers.\n\"Ms. Arts, you mentioned your testimony that the Chinese state-sponsored actors have already compromised multiple U.S. critical infrastructure providers with the intent to disrupt operational controls. How have the cybersecurity practices changed in response to these threats in these nation-states?\" Pfluger asked.\nArtz replied: \"Thank you for the question. I would say the information that we've received, particularly on Volt Typhoon and Salt Typhoon, resulted in the energy threat analysis center, which I mentioned, really honing in on that threat and developing capabilities. Capabilities is maybe not quite the right word, so that small, medium, and large electric utilities could look for evidence of those cyber actors in their systems. Those threat hunt memo guides that were produced by ETAC are an example of us as an industry taking that intelligence, innovating, and getting quick risk reduction priorities into the hands of those who need to use them to mitigate the risk.\"\nOther witnesses included representatives from national security laboratories as well as rural cooperative associations.\nThis hearing aligns with Congressman Pfluger’s ongoing legislative work aimed at improving America’s cyber defenses; he recently introduced legislation called The Cyber Deterrence and Response Act of 2025 designed for protection of critical American infrastructure.\nAugust Pfluger began serving Texas's 11th District after replacing Mike Conaway in 2021.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "August Pfluger",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ball",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "U.S",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "House Energy and Commerce Committee",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Chinese Communist Party",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-04T07:26:23.581+02:00",
+    "updated": "2025-12-04T07:26:23.581+02:00"
+}

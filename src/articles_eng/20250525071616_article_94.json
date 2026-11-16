@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "ca023ff39cc53155e24272659e587c9ce43815f9",
+        "url": "https://www.newsmax.com/finance/streettalk/white-house-eu-meta/2025/04/23/id/1208074",
+        "site_full": "www.newsmax.com",
+        "site": "newsmax.com",
+        "site_section": "https://newsmax.com/newsfront",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "\r\n\tToday&#39;s Breaking News &amp; Headlines in Politics, Health, Finance and More. \r\n",
+        "site_title": "Newsmax – Breaking News | News Videos | Politics, Health, Finance",
+        "title": "US Calls EU Fines on Apple, Meta 'Economic Extortion' | Newsmax.com",
+        "title_full": "US Calls EU Fines on Apple, Meta 'Economic Extortion' | Newsmax.com",
+        "published": "2025-04-24T00:11:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=948affd1-c05c-4046-9141-ff5f0843361e&amp;SiteName=Newsmax",
+        "performance_score": 0,
+        "domain_rank": 2517,
+        "domain_rank_updated": "2025-04-22T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ca023ff39cc53155e24272659e587c9ce43815f9",
+    "url": "https://www.newsmax.com/finance/streettalk/white-house-eu-meta/2025/04/23/id/1208074",
+    "ord_in_thread": 0,
+    "author": "@newsmax",
+    "published": "2025-04-24T00:11:00.000+03:00",
+    "title": "US Calls EU Fines on Apple, Meta 'Economic Extortion' | Newsmax.com",
+    "text": "Wednesday, 23 April 2025 05:11 PM EDT\nThe White House said Wednesday the fines on Apple and Meta Platforms by the European Union were a \"novel form of economic extortion\" that the United States will not tolerate.\nApple was fined 500 million euros ($570 million) and Meta 200 million euros ($228 million) Wednesday, as European Union antitrust regulators handed out the first sanctions under landmark legislation aimed at curbing the power of Big Tech.\nThe EU fines totaling $798 million could stoke tensions with U.S President Donald Trump who has threatened to levy tariffs against countries that penalize U.S. companies.\nThe sanctions follow a year-long investigation by the European Commission, the EU executive, into whether the companies comply with the Digital Markets Act that seeks to allow smaller rivals into markets dominated by the biggest companies.\nApple said it would challenge the EU fine.\n\"Today’s announcements are yet another example of the European Commission unfairly targeting Apple in a series of decisions that are bad for the privacy and security of our users, bad for products, and force us to give away our technology for free,\" An Apple spokesperson said in a statement.\n\"We have spent hundreds of thousands of engineering hours and made dozens of changes to comply with this law, none of which our users have asked for,\" the spokesperson added. \"Despite countless meetings, the Commission continues to move the goal posts every step of the way. We will appeal and continue engaging with the Commission in service of our European customers.\"\nMeta criticized the EU decision.\n\"The European Commission is attempting to handicap successful American businesses while allowing Chinese and European companies to operate under different standards,\" it said in an emailed statement.\n\"This isn't just about a fine; the Commission forcing us to change our business model, effectively imposing a multi-billion-dollar tariff on Meta while requiring us to offer an inferior service.\"\nThe EU competition watchdog said Apple must remove technical and commercial restrictions that prevent app developers from steering users to cheaper deals outside the App Store.\n© 2025 Thomson/Reuters. All rights reserved.\nReceive breaking news and original analysis - sent right to your inbox.\nNewsmax, Moneynews, Newsmax Health, and Independent. American. are registered trademarks of Newsmax Media, Inc. Newsmax TV, and Newsmax World are trademarks of Newsmax Media, Inc.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->corporate governance and csr"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Apple",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "AAPL",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "White House",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "European Commission",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "European Union",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T00:26:06.300+03:00",
+    "updated": "2025-04-24T00:26:06.300+03:00"
+}

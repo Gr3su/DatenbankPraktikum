@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "a77567e3dfa640985aa77a042bcd23e464b69a9a",
+        "url": "https://www.newsbreak.com/news/4851209700469-lawsuit-against-north-providence-mayor-will-proceed",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/providence-ri",
+        "site_categories": [
+            "sport",
+            "politics",
+            "lifestyle and leisure",
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "science and technology",
+            "social issue",
+            "economy, business and finance",
+            "crime, law and justice"
+        ],
+        "section_title": "Providence, RI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Lawsuit against North Providence mayor will proceed - NewsBreak",
+        "title_full": "Lawsuit against North Providence mayor will proceed - NewsBreak",
+        "published": "2026-08-27T00:07:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0Q9fXB_1EbBQNot00",
+        "performance_score": 0,
+        "domain_rank": 3157,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a77567e3dfa640985aa77a042bcd23e464b69a9a",
+    "url": "https://www.newsbreak.com/news/4851209700469-lawsuit-against-north-providence-mayor-will-proceed",
+    "ord_in_thread": 0,
+    "author": "BRIAN CRANDALL, NBC 10 NEWS",
+    "published": "2026-08-27T00:07:00.000+03:00",
+    "title": "Lawsuit against North Providence mayor will proceed - NewsBreak",
+    "text": "By BRIAN CRANDALL, NBC 10 NEWS ,\n6 hours ago (WJAR) — A lawsuit accusing North Providence Mayor Charles Lombardi of wrongdoing can move forward, a judge ruled Wednesday. Lombardi was seeking to have the suit dismissed. Fired town worker Michael Charbatji sued Lombardi and the town in June 2025. Charbatji claimed Lombardi had him do work at his... Read full article\n4",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->executive (government)"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://turnto10.com/news/local/lawsuit-against-north-providence-mayor-will-proceed-charles-lombardi-judge-home-personal-business-location-town-worker-august-26-2026",
+        "https://www.turnto10.com/news/local/lawsuit-against-north-providence-mayor-will-proceed-charles-lombardi-judge-home-personal-business-location-town-worker-august-26-2026"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael Charbatji",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Lombardi",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "North Providence",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NBC",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "NBC",
+                        "exchange": "FRA"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Providence"
+            ],
+            "state": [
+                "Rhode Island"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:05:08.036+03:00",
+    "updated": "2026-08-27T07:11:07.000+03:00"
+}

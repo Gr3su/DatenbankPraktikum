@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "58446aa0f5cd9f500f7fcd8f69a21fa00d2055dd",
+        "url": "https://www.newsbreak.com/news/4809842301083-wellston-board-ends-municipal-tax-no-action-on-fire-dept",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/luther-ok",
+        "site_categories": [
+            "sport",
+            "health",
+            "crime, law and justice",
+            "human interest",
+            "under_construction",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "social issue",
+            "politics",
+            "economy, business and finance"
+        ],
+        "section_title": "Luther, OK Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Wellston Board ends municipal tax, no action on fire dept - NewsBreak",
+        "title_full": "Wellston Board ends municipal tax, no action on fire dept - NewsBreak",
+        "published": "2026-08-05T04:13:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "58446aa0f5cd9f500f7fcd8f69a21fa00d2055dd",
+    "url": "https://www.newsbreak.com/news/4809842301083-wellston-board-ends-municipal-tax-no-action-on-fire-dept",
+    "ord_in_thread": 0,
+    "author": "lcnok.com",
+    "published": "2026-08-05T04:13:00.000+03:00",
+    "title": "Wellston Board ends municipal tax, no action on fire dept - NewsBreak",
+    "text": "1 days ago Wellston’s Town Board held a special meeting on July 28 to discuss the cessation of a municipal sales tax and went into executive session to discuss the employment of seven city employees, including three from the fire department. The Board voted to end the one-half percent sales tax, effective... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Social Issue"
+    ],
+    "topics": [
+        "Social Issue->social services",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.lcnok.com/lincoln-county-news-news-stroud-american-news-tri-county-herald-news/wellston-board-ends-municipal",
+        "https://lcnok.com/lincoln-county-news-news-stroud-american-news-tri-county-herald-news/wellston-board-ends-municipal"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Wellston Board",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Town Board",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Luther"
+            ],
+            "state": [
+                "Oklahoma"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:06:42.209+03:00",
+    "updated": "2026-08-06T07:11:25.000+03:00"
+}

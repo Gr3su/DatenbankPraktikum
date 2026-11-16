@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "b844af21565ee8dc62fe32e9f33024fd34dd2bfd",
+        "url": "https://www.newsbreak.com/news/4851324096248-overturned-tractor-trailer-causing-delays-on-i-40-near-arlington",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/williston-tn",
+        "site_categories": [
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "politics",
+            "sport",
+            "human interest",
+            "crime, law and justice",
+            "under_construction",
+            "science and technology",
+            "social issue"
+        ],
+        "section_title": "Williston, TN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Overturned tractor trailer causing delays on I-40 near Arlington - NewsBreak",
+        "title_full": "Overturned tractor trailer causing delays on I-40 near Arlington - NewsBreak",
+        "published": "2026-08-27T01:18:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/05soii_1EbIgt7u00",
+        "performance_score": 0,
+        "domain_rank": 3157,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b844af21565ee8dc62fe32e9f33024fd34dd2bfd",
+    "url": "https://www.newsbreak.com/news/4851324096248-overturned-tractor-trailer-causing-delays-on-i-40-near-arlington",
+    "ord_in_thread": 0,
+    "author": "Stuart Rucker",
+    "published": "2026-08-27T01:18:00.000+03:00",
+    "title": "Overturned tractor trailer causing delays on I-40 near Arlington - NewsBreak",
+    "text": "By Stuart Rucker ,\n5 hours ago MEMPHIS, Tenn. (WMC) - Drivers are advised to find an alternate route on Wednesday after at trailer overturned on Interstate 40 near Arlington, Tenn. Tennessee Highway Patrol troopers responded to the scene along with TDOT vehicles just before 5 p.m. along Interstate 40 and Service Road 385 at mile marker 24 at exit 19A. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.actionnews5.com/2026/08/26/overturned-tractor-trailer-causing-delays-i-40-near-arlington/",
+        "https://www.actionnews5.com/2026/08/26/overturned-tractor-trailer-causing-delays-i-40-near-arlington",
+        "https://actionnews5.com/2026/08/26/overturned-tractor-trailer-causing-delays-i-40-near-arlington/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Stuart Rucker",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "WMC",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Arlington",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tenn",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Tennessee Highway Patrol",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Williston"
+            ],
+            "state": [
+                "Tennessee"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:12:46.739+03:00",
+    "updated": "2026-08-27T07:13:58.000+03:00"
+}

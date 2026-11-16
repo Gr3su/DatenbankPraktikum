@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "b57ddfb7fa5b2360edfa00da729948907d0e6b51",
+        "url": "https://www.hindustantimes.com/world-news/us-news/what-did-anthropic-say-about-abusing-claude-ai-new-policy-bans-cruel-behavior-101791515080850.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://news.google.com/search?q=about%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "sport",
+            "politics",
+            "social issue",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "media"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Hindustan Times: Breaking News, Latest News, India News, World News & Cricket Today's Headlines | Hindustan Times",
+        "title": "What did Anthropic say about abusing Claude AI? New policy bans 'cruel' behavior | Hindustan Times",
+        "title_full": "What did Anthropic say about abusing Claude AI? New policy bans 'cruel' behavior | Hindustan Times",
+        "published": "2026-10-09T07:11:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/10/09/1600x900/logo/AI-CYBERSECURITY-ANTHROPIC-0_1791515105536_8yG1_1791515110529_0FLp_42350a9e-3375-4f9f-93d1-bd56b0d3012a_4hTp.JPG",
+        "performance_score": 0,
+        "domain_rank": 2748,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:23:52.216+03:00"
+        }
+    },
+    "uuid": "b57ddfb7fa5b2360edfa00da729948907d0e6b51",
+    "url": "https://www.hindustantimes.com/world-news/us-news/what-did-anthropic-say-about-abusing-claude-ai-new-policy-bans-cruel-behavior-101791515080850.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-10-09T07:11:00.000+03:00",
+    "title": "What did Anthropic say about abusing Claude AI? New policy bans 'cruel' behavior | Hindustan Times",
+    "text": "What does Anthropic’s new policy prohibit?\nAnthropic said the new restriction applies when users repeatedly subject its models to needless cruelty or “abusive”behavior. However, the company has not publicly provided a comprehensive definition of abusive behavior.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->medical research",
+        "Science and Technology->scientific research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Claude",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Hindustan Times",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Anthropic",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:23:52.216+03:00",
+    "updated": "2026-10-09T07:32:11.000+03:00",
+    "related_articles": null
+}

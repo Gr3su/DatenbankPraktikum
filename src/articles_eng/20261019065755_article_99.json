@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "b907a74b627d3974f06b9a7cfffe395f4dd280f5",
+        "url": "https://www.thenationalnews.com/news/uae/2026/10/16/uae-weather-speed-limit-reduced-after-morning-fog-alerts-in-abu-dhabi-and-dubai/",
+        "site_full": "www.thenationalnews.com",
+        "site": "thenationalnews.com",
+        "site_section": "https://news.google.com/search?q=both%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+        "site_categories": [
+            "economy, business and finance",
+            "marketing",
+            "tech",
+            "science and technology",
+            "arts, culture and entertainment",
+            "war, conflict and unrest",
+            "web_design_html",
+            "business",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "The National - Latest world news, sport &amp; opinion",
+        "title": "UAE weather: Speed limits reduced after morning fog alerts in Abu Dhabi and Dubai",
+        "title_full": "UAE weather: Speed limits reduced after morning fog alerts in Abu Dhabi and Dubai",
+        "published": "2026-10-16T06:39:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AE",
+        "main_image": "https://www.thenationalnews.com/resizer/v2/YGWDNPXSI5FY3JDQRI6JIGMOKU.jpg?auth=1a92e608df09f8af20b7e5efbd4f55c852f1b4585a5cd6ab29b7e5fc16730222&amp;smart=true&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 6805,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T04:10:42.000+00:00"
+        }
+    },
+    "uuid": "b907a74b627d3974f06b9a7cfffe395f4dd280f5",
+    "url": "https://www.thenationalnews.com/news/uae/2026/10/16/uae-weather-speed-limit-reduced-after-morning-fog-alerts-in-abu-dhabi-and-dubai/",
+    "ord_in_thread": 0,
+    "author": "The National",
+    "published": "2026-10-16T06:39:00.000+03:00",
+    "title": "UAE weather: Speed limits reduced after morning fog alerts in Abu Dhabi and Dubai",
+    "text": "Heavy fog led to speed limits being reduced in Abu Dhabi and a safety warning being issued in Dubai on Friday morning.\nAlerts were sent to motorists in parts of Abu Dhabi, warning them that speed limits were reduced to 80kph, while drivers were urged to show caution on the roads in Dubai due to poor visibility.\n\"Abu Dhabi Police call on motorists to exercise caution due to reduced visibility during the fog,\" police in the emirate wrote on X.\n\"They are urged to follow changing speed limits displayed on electronic information boards.\"\nA similar message was sent by police in Dubai, asking motorists to drive carefully in the heavy fog.\n\"With the formation of fog and reduced visibility in some areas of the Emirate of Dubai, and in the interest of your safety, we remind you of the importance of reducing speed in accordance with road conditions, and exercising caution and care while driving,\" Dubai Police wrote on X.\nThe National Centre of Meteorology predicted the foggy conditions would continue until at least 9am on Friday.",
+    "summary": "Heavy fog led to speed limits being reduced in Abu Dhabi and a safety warning being issued in Dubai on Friday morning. Alerts were sent to motorists in parts of Abu Dhabi, warning them that speed limits were reduced to 80kph, while drivers were urged to show caution on the roads in Dubai due to poor visibility. \"They are urged to follow changing speed limits displayed on electronic information boards.\" A similar message was sent by police in Dubai, asking motorists to drive carefully in the heavy fog.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [
+        "https://www.thenationalnews.com/resizer/v2/related-BOWEHEEZVILODZW22J4UIYZW6M.jpg?auth=372e79320ac3b3cdc1ebdf701a5083f90522a78b6b1a20010188d94a62f71652&smart=true&width=158&height=118",
+        "https://www.thenationalnews.com/resizer/v2/related-BOWEHEEZVILODZW22J4UIYZW6M.jpg?auth=372e79320ac3b3cdc1ebdf701a5083f90522a78b6b1a20010188d94a62f71652&smart=true&width=176&height=131"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "UAE",
+                "sentiment": "none"
+            },
+            {
+                "name": "Abu Dhabi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dubai",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Abu Dhabi",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_ae",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:02:19.149+03:00",
+    "updated": "2026-10-16T07:10:42.000+03:00",
+    "related_articles": null
+}

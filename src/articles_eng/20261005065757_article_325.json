@@ -1,0 +1,160 @@
+{
+    "thread": {
+        "uuid": "a5fdd79540bd5e9ca616d405f3e9fa19de13dcdc",
+        "url": "https://www.globaltimes.cn/page/202610/1371647.shtml",
+        "site_full": "www.globaltimes.cn",
+        "site": "globaltimes.cn",
+        "site_section": "https://news.google.com/search?q=than%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+        "site_categories": [
+            "media",
+            "science and technology",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "politics"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Global Times",
+        "title": "DR Congo Ebola toll likely higher than reported as insecurity hampers response: MSF - Global Times",
+        "title_full": "DR Congo Ebola toll likely higher than reported as insecurity hampers response: MSF - Global Times",
+        "published": "2026-10-02T07:11:45.038+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-06-22/75c573b2-163f-45e2-b24f-7b6829eaaf39.jpeg",
+        "performance_score": 0,
+        "domain_rank": 7422,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:11:45.038+03:00"
+        }
+    },
+    "uuid": "a5fdd79540bd5e9ca616d405f3e9fa19de13dcdc",
+    "url": "https://www.globaltimes.cn/page/202610/1371647.shtml",
+    "ord_in_thread": 0,
+    "author": "Global Times",
+    "published": "2026-10-02T07:11:45.038+03:00",
+    "title": "DR Congo Ebola toll likely higher than reported as insecurity hampers response: MSF - Global Times",
+    "text": "Local residents conduct Ebola prevention publicity on a street in Bukavu, eastern Democratic Republic of the Congo, Sept. 3, 2026. (Xinhua)\nThe actual toll of the ongoing Ebola outbreak in the Democratic Republic of the Congo (DRC) is likely higher than the officially reported figures due to gaps in surveillance and case detection, international medical charity Medecins Sans Frontieres (MSF) warned Thursday, as worsening insecurity further disrupts efforts to contain the epidemic.\nSince the outbreak began, more than 8,000 confirmed cases and about 4,000 deaths have been reported, MSF said in a statement, describing it as the largest and deadliest Ebola outbreak ever recorded in the DRC.\nMSF also confirmed that one of its staff members involved in the Ebola response tested positive for Bundibugyo virus and was being medically evacuated to the Netherlands under strict medical protocols.\n\"Healthcare workers are among those at greatest risk,\" MSF said.\nMeanwhile, the United Nations warned that escalating violence in eastern DRC is further hampering the Ebola response, after a key transit center for suspected patients was destroyed by fire at the Kigonze displacement camp in Ituri province.\nThe outbreak, declared in May, is now the second-largest Ebola outbreak globally, after the 2014-2016 West Africa epidemic.",
+    "summary": "Local residents conduct Ebola prevention publicity on a street in Bukavu, eastern Democratic Republic of the Congo, Sept. 3, 2026. (Xinhua) The actual toll of the ongoing Ebola outbreak in the Democratic Republic of the Congo (DRC) is likely higher than the officially reported figures due to gaps in surveillance and case detection, international medical charity Medecins Sans Frontieres (MSF) warned Thursday, as worsening insecurity further disrupts efforts to contain the epidemic.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->public health",
+        "Health->communicable disease",
+        "Health->health facility",
+        "Health->health organisation",
+        "Health->medical condition",
+        "Health->government health care"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "DRC",
+                "sentiment": "none"
+            },
+            {
+                "name": "DR Congo",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bukavu",
+                "sentiment": "none"
+            },
+            {
+                "name": "Democratic Republic of the Congo",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "MSF",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Xinhua",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "603888",
+                        "exchange": "SHA"
+                    }
+                ]
+            },
+            {
+                "name": "Medecins Sans Frontieres",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Global Times",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:11:45.038+03:00",
+    "updated": "2026-10-02T07:13:37.000+03:00",
+    "related_articles": null
+}

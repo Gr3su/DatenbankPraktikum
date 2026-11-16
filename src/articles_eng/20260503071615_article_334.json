@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "a98eb3aaad3c2ee2564cd42d1283c150d9530aa2",
+        "url": "https://www.newsbreak.com/news/4619950271443-battle-ground-man-arrested-after-fatal-shooting-of-73-year-old-in-clark-county",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/north-bonneville-wa",
+        "site_categories": [
+            "lifestyle and leisure",
+            "politics",
+            "under_construction",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "human interest",
+            "sport"
+        ],
+        "section_title": "North Bonneville, WA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Battle Ground man arrested after fatal shooting of 73-year-old in Clark County - NewsBreak",
+        "title_full": "Battle Ground man arrested after fatal shooting of 73-year-old in Clark County - NewsBreak",
+        "published": "2026-04-28T23:37:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/22hPBF_1AuA2XnA00",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a98eb3aaad3c2ee2564cd42d1283c150d9530aa2",
+    "url": "https://www.newsbreak.com/news/4619950271443-battle-ground-man-arrested-after-fatal-shooting-of-73-year-old-in-clark-county",
+    "ord_in_thread": 0,
+    "author": "highliteagent",
+    "published": "2026-04-28T23:37:00.000+03:00",
+    "title": "Battle Ground man arrested after fatal shooting of 73-year-old in Clark County - NewsBreak",
+    "text": "By highliteagent ,\n1 days ago A 34-year-old man from Battle Ground has been taken into custody following a deadly shooting in Clark County, authorities confirmed. Deputies with the Clark County Sheriff’s Office responded to a residence along Northeast Davis Road late Monday morning after receiving reports of possible gunfire. When officers arrived, they discovered... Read full article\nRead in NewsBreak 2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->shootings"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Clark County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Davis Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Clark County Sheriff ’ s Office",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "North Bonneville"
+            ],
+            "state": [
+                "Washington"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:25:37.333+03:00",
+    "updated": "2026-04-30T23:00:18.000+03:00"
+}

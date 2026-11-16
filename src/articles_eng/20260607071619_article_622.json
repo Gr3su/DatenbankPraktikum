@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "e2d1e9f0c0f194d6d831ff23d61a83c8d334800f",
+        "url": "https://www.newsbreak.com/news/4690486376240-shooting-in-norristown-on-wednesday-leaves-1-person-hurt-officials-say",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/pottstown-pa",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "under_construction",
+            "economy, business and finance",
+            "human interest",
+            "lifestyle and leisure",
+            "sport",
+            "politics"
+        ],
+        "section_title": "Pottstown, PA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Shooting in Norristown on Wednesday leaves 1 person hurt, officials say - NewsBreak",
+        "title_full": "Shooting in Norristown on Wednesday leaves 1 person hurt, officials say - NewsBreak",
+        "published": "2026-06-04T05:49:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3G0zOO_1C1Egw6E00",
+        "performance_score": 0,
+        "domain_rank": 2981,
+        "domain_rank_updated": "2026-06-01T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e2d1e9f0c0f194d6d831ff23d61a83c8d334800f",
+    "url": "https://www.newsbreak.com/news/4690486376240-shooting-in-norristown-on-wednesday-leaves-1-person-hurt-officials-say",
+    "ord_in_thread": 0,
+    "author": "Emily Rose Grassi",
+    "published": "2026-06-04T05:49:00.000+03:00",
+    "title": "Shooting in Norristown on Wednesday leaves 1 person hurt, officials say - NewsBreak",
+    "text": "By Emily Rose Grassi ,\n1 hours ago A shooting in Montgomery County prompted a large police presence on Wednesday night. The shooting happened just after 8:30 p.m. on June 3 near the intersection of George and Marshall streets in Norristown, according to Montgomery County dispatch officials. One person was taken to a nearby hospital by first responders,... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->police",
+        "Crime, Law and Justice->shootings",
+        "Crime, Law and Justice->law enforcement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Emily Rose Grassi",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Montgomery County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Norristown",
+                "sentiment": "none"
+            },
+            {
+                "name": "George",
+                "sentiment": "none"
+            },
+            {
+                "name": "Marshall",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Pottstown",
+                "South Pottstown",
+                "Pughtown"
+            ],
+            "state": [
+                "Pennsylvania"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-04T07:38:31.338+03:00",
+    "updated": "2026-06-04T07:41:16.000+03:00"
+}

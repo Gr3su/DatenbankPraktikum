@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "8e51d95b0a82bdcb9bd1194c106430d31607e929",
+        "url": "https://cee.mit.edu/mit-startup-nzeroc-ai-turns-industrial-cameras-into-a-24-7-autonomous-worker/",
+        "site_full": "cee.mit.edu",
+        "site": "mit.edu",
+        "site_section": "https://cee.mit.edu/news-events/news",
+        "site_categories": [
+            "science and technology",
+            "education",
+            "graduate_school",
+            "politics"
+        ],
+        "section_title": "News - cee.mit.edu",
+        "site_title": "MIT CEE - Homepage | Nexus of People, Systems &amp; Sustainability",
+        "title": "MIT startup NZeroC AI turns industrial cameras into a 24/7 autonomous worker",
+        "title_full": "MIT startup NZeroC AI turns industrial cameras into a 24/7 autonomous worker",
+        "published": "2026-08-19T21:31:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cee.mit.edu/wp-content/uploads/2026/08/MIT-NZeroC-AI.jpg",
+        "performance_score": 0,
+        "domain_rank": 219,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8e51d95b0a82bdcb9bd1194c106430d31607e929",
+    "url": "https://cee.mit.edu/mit-startup-nzeroc-ai-turns-industrial-cameras-into-a-24-7-autonomous-worker/",
+    "ord_in_thread": 0,
+    "author": "CEE Chief Editor",
+    "published": "2026-08-19T21:31:00.000+03:00",
+    "title": "MIT startup NZeroC AI turns industrial cameras into a 24/7 autonomous worker",
+    "text": "MIT startup NZeroC AI turns industrial cameras into a 24/7 autonomous worker\nNZeroC AI runs vision models inside the facility, so footage never leaves the site, and a hazard nobody was watching becomes an alert somebody has to close out.\nIn a typical heavy-industrial plant, a wall of monitors carries feeds from two hundred cameras. One or two people watch them. Research on control-room vigilance has been consistent for decades: sustained attention on video degrades sharply after about 20 minutes, and a widely cited 2002 study put the miss rate near 45 percent of on-screen activity after 12 minutes and as high as 95 percent after 22.\nThe footage is almost always there afterward. That is the part that stings. A worker steps into an unguarded press, a contractor tailgates through a badge gate, smoke curls out of a distribution panel at 3 a.m. — all recorded, none seen in time.\nNZeroC AI, founded by MIT CEE graduate Sidhant Kumar SM ‘26 and UMass graduate Rithik Porandla, closes that gap. The company deploys modern vision AI models and agents onto edge compute inside the plant, where they watch every stream continuously, interpret what is happening, and act — notifying the right person, opening and updating a task in the systems the site already runs, or speaking over the on-site loudspeaker while the situation is still developing.\nNZeroC AI has received a grant from MIT Sandbox and is supported by US National Science Foundation I-Corps program and is also backed by Rice University’s Ion District and Greentown Labs Houston. The startup is working with multiple industrial organizations in Texas, Massachusetts, and India.\nThe cost of not seeing\nThe U.S. Bureau of Labor Statistics recorded 5,070 fatal work injuries in 2024, including 353 in manufacturing and 1,032 across construction and extraction occupations. The Occupational Safety and Health Organization’s (OSHA) 2026 maximums stand at $16,550 per serious violation and $165,514 per willful or repeated one (Occupational Safety and Health Administration, 2026) per violation, not per inspection, so a single inspection can push exposure past seven figures. Liberty Mutual puts employers’ direct workers’ compensation cost for serious injuries above $1 billion a week (Liberty Mutual, 2025, as cited in Occupational Safety and Health Administration, n.d.). Siemens’ True Cost of Downtime 2024 found unplanned downtime costs the world’s 500 largest companies roughly $1.4 trillion a year; in automotive plants, an idle line runs more than $600 a second.\n“Every one of these losses was visible on a camera before it became expensive,” said Kumar, founder and CEO. “The footage isn’t the problem. Nobody was looking at the right frame at the right second, and there was no way they could have been.”\nOne feed, three jobs\nThe platform covers safety (PPE violations, restricted-zone entry, falls, unguarded machinery, early smoke), physical security (tailgating, perimeter breach, unauthorized people and vehicles, theft, violence), and operations (SOP violations, missed steps that surface later as defects, queue and cycle-time issues) — on the same camera, without separate hardware or a subscription per module. Each confirmed event becomes an owned, auditable task ranked by severity, routed to Teams, Slack, SMS, a phone call, or the loudspeaker on the floor.\nInference runs on an on-premises edge node, so raw video never leaves the building. That is an engineering choice with three consequences: data-residency obligations like GDPR become answerable, bandwidth and cloud GPU costs stay predictable at sites with single-digit-megabit uplinks, and latency stays low enough for the response to matter. The system runs on Zero Trust principles, with SSO, role-based access, encryption in transit and at rest, audit logging, and air-gapped deployment options.\nNZeroC AI is building toward industrial sites where workers go home whole, assets stay protected, and the losses that used to surface in a post-incident review get caught while they can still be stopped.\nShare on Bluesky",
+    "summary": "The company deploys modern vision AI models and agents onto edge compute inside the plant, where they watch every stream continuously, interpret what is happening, and act — notifying the right person, opening and updating a task in the systems the site already runs, or speaking over the on-site loudspeaker while the situation is still developing. NZeroC AI has received a grant from MIT Sandbox and is supported by US National Science Foundation I-Corps program and is also backed by Rice University’s Ion District and Greentown Labs Houston.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science",
+        "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://doi.org/10.1016/j.apergo.2012.04.012",
+        "https://www.bls.gov/opub/ted/2026/fatal-work-injuries-declined-in-2024.htm",
+        "https://nzeroc.ai/",
+        "https://www.bls.gov/news.release/cfoi.nr0.htm",
+        "https://business.libertymutual.com/workplace-safety-index/",
+        "https://assets.new.siemens.com/siemens/assets/api/uuid:1b43afb5-2d07-47f7-9eb7-893f%20e7d0bc59/TCOD-2024_original.pdf",
+        "https://bsky.app/intent/compose?text=MIT+startup+NZeroC+AI+turns+industrial+cameras+into+a+24%2F7+autonomous+worker%20https%3A%2F%2Fcee.mit.edu%2Fmit-startup-nzeroc-ai-turns-industrial-cameras-into-a-24-7-autonomous-worker%2F",
+        "https://www.osha.gov/memos/2026-05-21/2026-annual-adjustments-osha-civil-penalties",
+        "https://bsky.app/intent/compose",
+        "https://www.nzeroc.ai/",
+        "https://www.business.libertymutual.com/workplace-safety-index/",
+        "https://www.assets.new.siemens.com/siemens/assets/api/uuid:1b43afb5-2d07-47f7-9eb7-893f%20e7d0bc59/TCOD-2024_original.pdf",
+        "https://www.bsky.app/intent/compose?text=MIT+startup+NZeroC+AI+turns+industrial+cameras+into+a+24%2F7+autonomous+worker%20https%3A%2F%2Fcee.mit.edu%2Fmit-startup-nzeroc-ai-turns-industrial-cameras-into-a-24-7-autonomous-worker%2F",
+        "https://nzeroc.ai",
+        "https://bls.gov/news.release/cfoi.nr0.htm",
+        "https://bls.gov/opub/ted/2026/fatal-work-injuries-declined-in-2024.htm",
+        "https://www.doi.org/10.1016/j.apergo.2012.04.012",
+        "https://osha.gov/memos/2026-05-21/2026-annual-adjustments-osha-civil-penalties",
+        "https://business.libertymutual.com/workplace-safety-index"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NZeroC AI",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "MIT",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-20T07:44:28.789+03:00",
+    "updated": "2026-08-20T07:47:00.000+03:00"
+}

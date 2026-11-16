@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "30922aa2181ca442d27f4dcc56f9ee739d6bfb59",
+        "url": "https://us.headtopics.com/news/world-record-setting-micro-led-hits-2-75-ghz-consuming-89356416",
+        "site_full": "us.headtopics.com",
+        "site": "headtopics.com",
+        "site_section": "https://us.headtopics.com/",
+        "site_categories": [
+            "economy, business and finance",
+            "science and technology",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "sport",
+            "politics",
+            "crime, law and justice"
+        ],
+        "section_title": "Breaking News | Headlines | United States News - Head Topics",
+        "site_title": "Breaking News | Headlines | United States News - Head Topics",
+        "title": "World record-setting micro-LED hits 2.75 GHz, consuming just 25 mW",
+        "title_full": "World record-setting micro-LED hits 2.75 GHz, consuming just 25 mW",
+        "published": "2026-10-30T07:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "TH",
+        "main_image": "https://i.headtopics.com/images/2026/10/30/intengineering/world-record-setting-micro-led-hits-2-75-ghz-consu-world-record-setting-micro-led-hits-2-75-ghz-consu-BECA230C1567E58CA10743E265E40559-16x9.webp",
+        "performance_score": 0,
+        "domain_rank": 7595,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-30T07:07:14.877+02:00"
+        }
+    },
+    "uuid": "30922aa2181ca442d27f4dcc56f9ee739d6bfb59",
+    "url": "https://us.headtopics.com/news/world-record-setting-micro-led-hits-2-75-ghz-consuming-89356416",
+    "ord_in_thread": 0,
+    "author": "IntEngineering",
+    "published": "2026-10-30T07:05:00.000+02:00",
+    "title": "World record-setting micro-LED hits 2.75 GHz, consuming just 25 mW",
+    "text": "World record-setting micro-LED hits 2.75 GHz, consuming just 25 mW Researchers develop a gallium nitride micro-LED that achieves 2.75 GHz optical bandwidth while consuming just 25 milliwatts. Researchers developed a gallium nitride micro-LED with a record optical modulation bandwidth of 2.75 GHz. The device consumes just 25 milliwatts, potentially offering data centers a lower-power alternative to optical lasers. The team envisions arranging multiple micro-LEDs into compact arrays, with each emitter carrying a separate data stream. A microscopic LED could offer data centers a more energy-efficient way to move information between computing systems. Researchers from the University of Illinois Urbana-Champaign and the University of Notre Dame have developed a micro-LED with record optical switching performance. The device achieves an optical modulation bandwidth of 2.75 gigahertz while consuming just 25 milliwatts of power.The achievement could help reduce the energy demands of short-range optical communications. Data centers increasingly rely on light-based links to move information at high speeds.However, conventional optical transmitters typically use lasers, which consume considerable power and generate heat. The researchers believe their design could provide an efficient alternative for these connections. Their findings also establish a development roadmap for engineering smaller LEDs without sacrificing performance. The research team focused on gallium nitride quantum well LEDs, a widely used semiconductor design.They investigated how device dimensions affect switching speed and electrical power consumption. Their experiments covered micro-LED diameters ranging from 100 micrometers down to just 2 micrometers. Surprisingly, the smallest devices did not deliver the best overall performance. Researchers identified 5 micrometers as the optimal diameter for balancing bandwidth and power consumption.The optimized device achieved 2.75 GHz of optical modulation bandwidth. This measurement indicates how quickly an LED can switch its light output in response to electrical signals. Beyond that frequency, the optical signal can lose intensity and become less useful for reliable data transmission. MIT uses tiny implanted magnets to improve control of robotic prosthetic limbs Lead author Abdelghany Abouelnagga said the team challenged the assumption that smaller devices always perform better.Their findings provide a systematic approach to evaluating the relationship between device size, switching speed, and energy requirements. Achieving these results also required detailed semiconductor modeling. Researchers examined material imperfections and electrical characteristics that can introduce parasitic effects. These unwanted effects can limit switching performance and reduce efficiency.The team used those models to guide fabrication and optimize the final device. Its results represent a record for optical modulation bandwidth among quantum well LEDs. Optical communication has become increasingly important as data centers handle growing volumes of information. Light-based connections can transmit data at high frequencies with relatively little signal loss.Copper interconnects face greater limitations as transmission speeds increase. Lasers currently dominate many high-speed optical connections.However, their power requirements create additional challenges for facilities already managing substantial electricity consumption. Heat generated by optical components also adds to cooling demands. Abouelnagga noted that approximately 90% of data center communications involve distances shorter than 10 meters. These connections could benefit from lower-power optical transmitters.consumes just 25 milliwatts while responding to electrical signals at gigahertz frequencies.Its small footprint could also support dense arrangements of optical emitters. Researchers envision placing multiple micro-LEDs into two-dimensional arrays. Each emitter could carry an independent stream of information, potentially increasing communication capacity within compact hardware. The study appeared in IEEE Electron Device Letters.Researchers from Illinois and Notre Dame collaborated on the project through their respective engineering departments. Although the technology still requires further development, its performance offers a promising direction for short-range optical links. More efficient micro-Aamir is a seasoned tech journalist with experience at Exhibit Magazine, Republic World, and PR Newswire. With a deep love for all things tech and science, he has spent years decoding the latest innovations and exploring how they shape industries, lifestyles, and the future of humanity.",
+    "summary": "Data centers increasingly rely on light-based links to move information at high speeds.However, conventional optical transmitters typically use lasers, which consume considerable power and generate heat. The research team focused on gallium nitride quantum well LEDs, a widely used semiconductor design.They investigated how device dimensions affect switching speed and electrical power consumption. Light-based connections can transmit data at high frequencies with relatively little signal loss.Copper interconnects face greater limitations as transmission speeds increase. Lasers currently dominate many high-speed optical connections.However, their power requirements create additional challenges for facilities already managing substantial electricity consumption.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->physics",
+        "Science and Technology->biotechnology",
+        "Science and Technology->micro science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-30T07:07:14.877+02:00",
+    "updated": "2026-10-30T07:10:54.000+02:00",
+    "related_articles": null
+}

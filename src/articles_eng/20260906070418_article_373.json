@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "660559311b01c9a9acec861a85e8cce199a83375",
+        "url": "https://www.newsbreak.com/news/4863946899040-el-paso-police-swat-respond-to-reported-stabbing-near-canutillo-one-seriously-injured",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/el-paso-tx",
+        "site_categories": [
+            "sport",
+            "lifestyle and leisure",
+            "social issue",
+            "under_construction",
+            "politics",
+            "human interest",
+            "crime, law and justice",
+            "economy, business and finance",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "El Paso, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "El Paso Police SWAT respond to reported stabbing near Canutillo, one seriously injured - NewsBreak",
+        "title_full": "El Paso Police SWAT respond to reported stabbing near Canutillo, one seriously injured - NewsBreak",
+        "published": "2026-09-03T03:48:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/05kUl9_1Eo0zbWz00",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "660559311b01c9a9acec861a85e8cce199a83375",
+    "url": "https://www.newsbreak.com/news/4863946899040-el-paso-police-swat-respond-to-reported-stabbing-near-canutillo-one-seriously-injured",
+    "ord_in_thread": 0,
+    "author": "David Ibave",
+    "published": "2026-09-03T03:48:00.000+03:00",
+    "title": "El Paso Police SWAT respond to reported stabbing near Canutillo, one seriously injured - NewsBreak",
+    "text": "By David Ibave ,\n3 hours ago EL PASO, Texas (KFOX14/CBS4) — An El Paso Police SWAT standoff unfolded in a residential neighborhood near Canutillo after officers were called to a reported stabbing on Wednesday evening that left one person seriously injured. According to the El Paso Police, officers responded to the 400 block of Nordstrom... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->accident and emergency incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://kfoxtv.com/news/local/developing-police-standoff-near-canutillo",
+        "https://www.kfoxtv.com/news/local/developing-police-standoff-near-canutillo"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "David Ibave",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Canutillo",
+                "sentiment": "none"
+            },
+            {
+                "name": "Texas",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBS",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "CBS",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "El Paso Police SWAT",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:15:55.030+03:00",
+    "updated": "2026-09-03T07:25:38.000+03:00"
+}

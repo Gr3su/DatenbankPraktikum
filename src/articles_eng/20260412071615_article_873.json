@@ -1,0 +1,159 @@
+{
+    "thread": {
+        "uuid": "3804a58f2dcf84fe9eedb939b451e0c1f58e6c3d",
+        "url": "https://www.newsbreak.com/idaho-news-6-563647/4580937949339-man-arrested-after-waving-gun-issuing-threats-while-riding-electric-scooter",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/payette-id",
+        "site_categories": [
+            "crime, law and justice",
+            "economy, business and finance",
+            "under_construction",
+            "human interest",
+            "sport",
+            "politics",
+            "lifestyle and leisure",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Payette, ID Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Man arrested after waving gun, issuing threats while riding electric scooter - NewsBreak",
+        "title_full": "Man arrested after waving gun, issuing threats while riding electric scooter - NewsBreak",
+        "published": "2026-04-08T06:44:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4UeqeZ_1AGrXaWA00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3804a58f2dcf84fe9eedb939b451e0c1f58e6c3d",
+    "url": "https://www.newsbreak.com/idaho-news-6-563647/4580937949339-man-arrested-after-waving-gun-issuing-threats-while-riding-electric-scooter",
+    "ord_in_thread": 0,
+    "author": "KIVI Staff",
+    "published": "2026-04-08T06:44:00.000+03:00",
+    "title": "Man arrested after waving gun, issuing threats while riding electric scooter - NewsBreak",
+    "text": "By KIVI Staff ,\n1 days ago A suspect was taken into custody after police responded to reports of a man waving a gun around while riding an electric scooter in Vale, Oregon.\nOn April 6, at 8:30 p.m., the Malheur County Sheriff's Office responded to reports of the suspect riding around with the gun on West Main Street and F Street and threatening multiple individuals. Witnesses say the suspect said he would fill them \"full of holes\".\nMCSO identified the suspect as 42-year-old Zachary Blake Johnson, currently residing in Vale.\nOfficials say that after a MCSO deputy arrived at the scene, Johnson retreated into a basement room of his residence.\nMCSO said that \"due to the nature and severity of Johnson's threats and actions,\" officers expelled CS gas into Johnson's room. Johnson then came out of the room and was placed under arrest without further incident.\nJohnson faces charges of second degree menacing and disorderly conduct, as well as charges from a previous arrest for second degree disorderly conduct and criminal trespass. He is being held in Malheur County Jail.\nMCSO is asking for anyone who had a similar encounter with Johnson on Monday to report it to dispatch at (514) 473-5125.",
+    "summary": "1 days ago A suspect was taken into custody after police responded to reports of a man waving a gun around while riding an electric scooter in Vale, Oregon. On April 6, at 8:30 p.m., the Malheur County Sheriff's Office responded to reports of the suspect riding around with the gun on West Main Street and F Street and threatening multiple individuals. MCSO identified the suspect as 42-year-old Zachary Blake Johnson, currently residing in Vale. Officials say that after a MCSO deputy arrived at the scene, Johnson retreated into a basement room of his residence.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->assault"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=4UeqeZ_1AGrXaWA00",
+        "https://img.particlenews.com/image.php?url=4UeqeZ_1AGrXaWA00",
+        "https://www.img.particlenews.com/image.php?url=4UeqeZ_1AGrXaWA00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=4UeqeZ_1AGrXaWA00",
+        "https://img.particlenews.com/image.php"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Zachary Blake Johnson",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Oregon",
+                "sentiment": "none"
+            },
+            {
+                "name": "West Main Street",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vale",
+                "sentiment": "none"
+            },
+            {
+                "name": "F Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Malheur County Sheriff ' s Office",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "MCSO",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Payette"
+            ],
+            "state": [
+                "Idaho"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:47:40.101+03:00",
+    "updated": "2026-04-09T07:51:53.000+03:00"
+}

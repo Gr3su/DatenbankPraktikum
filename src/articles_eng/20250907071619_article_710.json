@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "a2360e222ff16101b57e89313896ce76c3f5f186",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4213368587919-severe-thunderstorm-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "published": "2025-09-04T07:10:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/423Kfr_14OUBV7v00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a2360e222ff16101b57e89313896ce76c3f5f186",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4213368587919-severe-thunderstorm-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2025-09-04T07:10:00.000+03:00",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "text": "23 minutes ago Check NWS updates here\nEffective: 2025-09-03 21:07:00 PDT Expires: 2025-09-03 22:00:00 PDT Urgency: Immediate Severity: Severe Certainty: Observed Instruction: For your protection move to an interior room on the lowest floor of a building. Target Area: Maricopa, AZ; Pinal, AZ SVRPSR\nThe National Weather Service in Phoenix has issued a\n* Severe Thunderstorm Warning for... Maricopa County in south central Arizona... Pinal County in southeastern Arizona...\n* Until 1000 PM MST.\n* At 907 PM MST, a severe thunderstorm was located 8 miles south of South Mountain Park, or 13 miles west of Sun Lakes, and is nearly stationary.\nHAZARD...60 mph wind gusts.\nSOURCE...Radar indicated.\nIMPACT...Expect damage to roofs, siding, and trees.\n* Locations impacted include... South Mountain Park, Firebird Lake, and Komatke.\nThis includes the following highways... AZ Interstate 10 between mile markers 161 and 165. AZ Route 202 between mile markers 52 and 55. AZ Route 347 between mile markers 178 and 189.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=423Kfr_14OUBV7v00",
+        "https://img.particlenews.com/image.php?url=423Kfr_14OUBV7v00",
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.b544d724ff391febeb87b7ca3ad46e88314bc239.001.1",
+        "https://img.particlenews.com/image.php",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.b544d724ff391febeb87b7ca3ad46e88314bc239.001.1",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=423Kfr_14OUBV7v00",
+        "https://www.img.particlenews.com/image.php?url=423Kfr_14OUBV7v00",
+        "https://alerts.weather.gov/search"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Maricopa County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Firebird Lake",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pinal County",
+                "sentiment": "none"
+            },
+            {
+                "name": "South",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-04T07:34:14.150+03:00",
+    "updated": "2025-09-04T07:37:15.000+03:00"
+}

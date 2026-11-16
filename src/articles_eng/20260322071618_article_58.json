@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "2d5963cbb0a274b376b5d7a0bd08261b797624df",
+        "url": "https://time.news/aura-data-breach-900000-marketing-contacts-exposed-by-shinyhunters/",
+        "site_full": "time.news",
+        "site": "time.news",
+        "site_section": "https://time.news/feed/",
+        "site_categories": [],
+        "section_title": "Time News",
+        "site_title": "TIme News - time.news",
+        "title": "Aura Data Breach: 900,000 Marketing Contacts Exposed by ShinyHunters",
+        "title_full": "Aura Data Breach: 900,000 Marketing Contacts Exposed by ShinyHunters",
+        "published": "2026-03-19T07:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.bleepstatic.com/content/hl-images/2025/03/12/hacker.jpg",
+        "performance_score": 0,
+        "domain_rank": 416973,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2d5963cbb0a274b376b5d7a0bd08261b797624df",
+    "url": "https://time.news/aura-data-breach-900000-marketing-contacts-exposed-by-shinyhunters/",
+    "ord_in_thread": 0,
+    "author": "Priyanka Patel",
+    "published": "2026-03-19T07:12:00.000+02:00",
+    "title": "Aura Data Breach: 900,000 Marketing Contacts Exposed by ShinyHunters",
+    "text": "Nearly 900,000 Aura customers had their personal data exposed in a recent breach, the identity protection company confirmed this week. The incident, stemming from a voice phishing attack targeting an employee, underscores the challenges even security-focused firms face against increasingly sophisticated cyber threats. While sensitive financial data appears to be unaffected, the compromised information includes names, email addresses, home addresses and phone numbers, raising concerns about potential phishing attempts and identity theft.\nAura, which markets itself as an all-in-one service for online protection, including identity theft protection and credit monitoring, revealed the breach in a statement on March 18, 2026. The company stated the exposed data originated from a marketing tool used by a company it acquired in 2021. The incident highlights the inherent risks associated with data aggregation and the importance of robust security protocols across all acquired assets. The timing is particularly ironic, given Aura’s core business of protecting consumers from the very threats now impacting its own customer base.\nShinyHunters Claims Responsibility, Data Leaked Online\nThe notorious hacking group ShinyHunters claimed responsibility for the attack earlier this week, alleging they stole 12GB of files containing personally identifiable information (PII) and corporate data. According to Aura, the group leaked the stolen files after failing to reach an extortion agreement.\nThe leaked data has already surfaced online, increasing the potential for misuse.\nThe Have I Been Pwned (HIBP) service, a website dedicated to aggregating data breach information, quickly analyzed the leaked data and added it to its database. HIBP noted that customer service comments and IP addresses were too exposed in the breach. Notably, HIBP reported that approximately 90% of the email addresses exposed in this incident had already appeared in previous data breaches, suggesting many affected individuals may have had their information compromised in prior incidents.\nScope of the Breach and Data Compromised\nAura initially reported that nearly 900,000 records were compromised. Still, a slight discrepancy emerged when BleepingComputer inquired about a higher figure – over 901,000 accounts – reported by HIBP. Aura clarified that the initial figure was accurate, explaining that the data originated from a marketing tool inherited during the 2021 acquisition. While the database contained a large number of records, only approximately 35,000 were active Aura customers, with another 15,000 belonging to former customers.\nThe company emphasized that Social Security Numbers (SSNs), account passwords, and financial information were not compromised in the breach. However, the exposure of names, email addresses, home addresses, and phone numbers still presents a significant risk to affected individuals. These details can be used in targeted phishing campaigns or to attempt to impersonate individuals for fraudulent purposes. The potential for harm is amplified by the fact that a substantial portion of the exposed email addresses were already known to be associated with previous breaches.\nWhat Aura is Doing to Address the Incident\nAura stated It’s conducting an in-depth internal review, partnering with external cybersecurity experts to assess the extent of the damage and strengthen its security measures. The company has also informed law enforcement authorities about the incident. Aura plans to send personalized notifications to all affected individuals, providing guidance on steps they can take to protect themselves. The company declined to comment further on claims made by ShinyHunters, including an alleged compromise of its Okta Single Sign-On (SSO) system.\nThis data breach serves as a stark reminder of the evolving threat landscape and the importance of proactive security measures. Even companies dedicated to protecting user data are vulnerable to sophisticated attacks. Consumers are encouraged to remain vigilant, monitor their accounts for suspicious activity, and be cautious of unsolicited communications requesting personal information. Individuals can check if their email address was part of the breach by visiting Have I Been Pwned.\nAura has stated it will continue to update affected customers as its investigation progresses. The company is expected to provide further details on the incident and its remediation efforts in the coming weeks.\nIf you are concerned about identity theft, the Federal Trade Commission offers resources and guidance at identitytheft.gov.\nShare your thoughts on this developing story in the comments below.",
+    "summary": "Nearly 900,000 Aura customers had their personal data exposed in a recent breach, the identity protection company confirmed this week. The incident, stemming from a voice phishing attack targeting an employee, underscores the challenges even security-focused firms face against increasingly sophisticated cyber threats. The incident highlights the inherent risks associated with data aggregation and the importance of robust security protocols across all acquired assets. The company declined to comment further on claims made by ShinyHunters, including an alleged compromise of its Okta Single Sign-On (SSO) system.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://haveibeenpwned.com/Breach/Aura",
+        "https://x.com/haveibeenpwned/status/2034143319413166438",
+        "https://www.identitytheft.gov/",
+        "https://www.x.com/haveibeenpwned/status/2034143319413166438",
+        "https://www.identitytheft.gov",
+        "https://identitytheft.gov/",
+        "https://www.haveibeenpwned.com/Breach/Aura"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Aura",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:17:59.370+02:00",
+    "updated": "2026-03-19T07:17:59.370+02:00"
+}

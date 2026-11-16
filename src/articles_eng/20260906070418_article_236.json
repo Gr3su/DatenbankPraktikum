@@ -1,0 +1,166 @@
+{
+    "thread": {
+        "uuid": "d3710716bff4983bcf5b76ebcc94296278584afc",
+        "url": "https://www.newsbreak.com/news/4863629892608-grady-county-sheriff-s-office-asks-cairo-city-officials-to-pay-higher-fees-in-order-to-use-its-jail",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/meigs-ga",
+        "site_categories": [
+            "under_construction",
+            "sport",
+            "economy, business and finance",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "human interest",
+            "lifestyle and leisure",
+            "politics",
+            "social issue"
+        ],
+        "section_title": "Meigs, GA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Grady County Sheriff's Office asks Cairo city officials to pay higher fees in order to use its jail - NewsBreak",
+        "title_full": "Grady County Sheriff's Office asks Cairo city officials to pay higher fees in order to use its jail - NewsBreak",
+        "published": "2026-09-02T23:55:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2fvFiP_1Enhrovr00",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d3710716bff4983bcf5b76ebcc94296278584afc",
+    "url": "https://www.newsbreak.com/news/4863629892608-grady-county-sheriff-s-office-asks-cairo-city-officials-to-pay-higher-fees-in-order-to-use-its-jail",
+    "ord_in_thread": 0,
+    "author": "Grace Temple",
+    "published": "2026-09-02T23:55:00.000+03:00",
+    "title": "Grady County Sheriff's Office asks Cairo city officials to pay higher fees in order to use its jail - NewsBreak",
+    "text": "By Grace Temple ,\n7 hours ago GRADY COUNTY, Ga. (WCTV) - The Grady County Sheriff’s Office is asking the City of Cairo to pay higher fees in order to use its jail. The Grady County Jail houses inmates from across the county, including those brought in by the Cairo Police Department. The intake and housing... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->corporate crime",
+        "Crime, Law and Justice->fraud"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wctv.tv/2026/09/02/grady-county-sheriffs-office-asks-cairo-city-officials-pay-higher-fees-order-use-its-jail/",
+        "https://www.wctv.tv/2026/09/02/grady-county-sheriffs-office-asks-cairo-city-officials-pay-higher-fees-order-use-its-jail",
+        "https://wctv.tv/2026/09/02/grady-county-sheriffs-office-asks-cairo-city-officials-pay-higher-fees-order-use-its-jail/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Grace Temple",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "City of Cairo",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Grady County Sheriff ' s Office",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "WCTV",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Grady County Sheriff ’ s Office",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Grady County Jail",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Cairo Police Department",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Meigs"
+            ],
+            "state": [
+                "Georgia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:11:14.885+03:00",
+    "updated": "2026-09-03T07:17:05.000+03:00"
+}

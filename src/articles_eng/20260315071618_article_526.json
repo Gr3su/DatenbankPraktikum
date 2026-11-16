@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "542bd88311e373b3252bc40dcef0263ea17a208f",
+        "url": "https://www.newsbreak.com/news/4534759144588-westhampton-beach-st-patrick-s-day-parade-this-saturday",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/riverhead-ny",
+        "site_categories": [
+            "crime, law and justice",
+            "politics",
+            "sport",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "human interest",
+            "under_construction"
+        ],
+        "section_title": "Riverhead, NY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Westhampton Beach St. Patrick's Day Parade this Saturday - NewsBreak",
+        "title_full": "Westhampton Beach St. Patrick's Day Parade this Saturday - NewsBreak",
+        "published": "2026-03-11T14:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0Fll59_19XK654M00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "542bd88311e373b3252bc40dcef0263ea17a208f",
+    "url": "https://www.newsbreak.com/news/4534759144588-westhampton-beach-st-patrick-s-day-parade-this-saturday",
+    "ord_in_thread": 0,
+    "author": "wliw.org",
+    "published": "2026-03-11T14:00:00.000+02:00",
+    "title": "Westhampton Beach St. Patrick's Day Parade this Saturday - NewsBreak",
+    "text": "17 hours ago The owners of Montauk Inlet Seafood said they’ve seen fewer boats fueling up at the dock they own that juts into the Block Island Sound on the east end of Long Island. The cause: Higher fuel costs spurred by the U.S.-Israeli war with Iran. With New York’s layered fuel... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->holiday"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Westhampton Beach",
+                "sentiment": "none"
+            },
+            {
+                "name": "New York",
+                "sentiment": "none"
+            },
+            {
+                "name": "Iran",
+                "sentiment": "none"
+            },
+            {
+                "name": "Block Island Sound",
+                "sentiment": "none"
+            },
+            {
+                "name": "Long Island",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Montauk Inlet Seafood",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-12T07:26:31.416+02:00",
+    "updated": "2026-03-12T07:29:21.000+02:00"
+}

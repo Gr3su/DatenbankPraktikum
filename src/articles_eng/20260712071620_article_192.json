@@ -1,0 +1,119 @@
+{
+    "thread": {
+        "uuid": "ce16d886ffff7fe0a57f7b11b8b4b0102b2e2ad2",
+        "url": "https://local.newsbreak.com/fox-16-news-1589947/4759319627172-police-searching-for-missing-little-rock-teen",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/fox-16-news-1589947",
+        "site_categories": [
+            "disaster and accident",
+            "social issue",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "sport",
+            "politics"
+        ],
+        "section_title": "FOX 16 News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Police searching for missing Little Rock teen - NewsBreak",
+        "title_full": "Police searching for missing Little Rock teen - NewsBreak",
+        "published": "2026-07-09T00:58:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3jYVhT_1D7bEAus00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ce16d886ffff7fe0a57f7b11b8b4b0102b2e2ad2",
+    "url": "https://local.newsbreak.com/fox-16-news-1589947/4759319627172-police-searching-for-missing-little-rock-teen",
+    "ord_in_thread": 0,
+    "author": "Ryan Turbeville",
+    "published": "2026-07-09T00:58:00.000+03:00",
+    "title": "Police searching for missing Little Rock teen - NewsBreak",
+    "text": "By Ryan Turbeville FOX 16 News 6 hours ago 💬 0",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->assault",
+        "Crime, Law and Justice->police"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ryan Turbeville",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Little Rock",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FOX",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:21:41.537+03:00",
+    "updated": "2026-07-09T07:23:56.000+03:00"
+}

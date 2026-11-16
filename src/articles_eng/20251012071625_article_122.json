@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "aa12579636093eee691644f4586acc3a2b0f7e10",
+        "url": "https://www.newsbreak.com/news/4281798094646-fca-and-first-baptist-church-bring-fields-of-faith-to-sanger",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/gainesville-tx",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Gainesville, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "FCA and First Baptist Church bring FIelds of Faith to Sanger - NewsBreak",
+        "title_full": "FCA and First Baptist Church bring FIelds of Faith to Sanger - NewsBreak",
+        "published": "2025-10-08T19:35:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-10-06T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aa12579636093eee691644f4586acc3a2b0f7e10",
+    "url": "https://www.newsbreak.com/news/4281798094646-fca-and-first-baptist-church-bring-fields-of-faith-to-sanger",
+    "ord_in_thread": 0,
+    "author": "lemonspublications.com",
+    "published": "2025-10-08T19:35:00.000+03:00",
+    "title": "FCA and First Baptist Church bring FIelds of Faith to Sanger - NewsBreak",
+    "text": "lemonspublications.com\nwebsite\nSanger\nFCA and First Baptist Church bring FIelds of Faith to Sanger\n11 hours ago\nFellowship of Christian Athletes and First Baptist Church are teaming up to bring Fields of Faith to the Sanger High School baseball field! Saturday, October 11, Jared Greer, evangelist and American Ninja Warrior competitor, will be bringing a message about Overcoming Obstacles. Jared has been a youth pastor for 12 years and has competed on American Ninja Warrior 4 times.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Education",
+        "Social Issue"
+    ],
+    "topics": [
+        "Education->religious school",
+        "Social Issue->religious discrimination"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sanger",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jared Greer",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "FCA",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "FCA",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "First Baptist Church",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Sanger High School",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Gainesville"
+            ],
+            "state": [
+                "Texas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-09T07:20:52.381+03:00",
+    "updated": "2025-10-09T07:25:56.000+03:00"
+}

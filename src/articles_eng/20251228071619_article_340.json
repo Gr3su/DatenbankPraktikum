@@ -1,0 +1,105 @@
+{
+    "thread": {
+        "uuid": "1e0bb91f0d190f249a2ce1419ec3192f16fec2d8",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4412581617826-flash-flood-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Flash Flood Warning by NWS - NewsBreak",
+        "title_full": "Flash Flood Warning by NWS - NewsBreak",
+        "published": "2025-12-25T06:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/17g3G2_17aDFqWk00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1e0bb91f0d190f249a2ce1419ec3192f16fec2d8",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4412581617826-flash-flood-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2025-12-25T06:36:00.000+02:00",
+    "title": "Flash Flood Warning by NWS - NewsBreak",
+    "text": "51 minutes ago Check NWS updates here\nEffective: 2025-12-24 20:35:00 PST Expires: 2025-12-24 21:45:00 PST Urgency: Immediate Severity: Severe Certainty: Likely Instruction: Turn around, don't drown when encountering flooded roads. Most flood deaths occur in vehicles. Target Area: San Bernardino, CA At 835 PM PST, Doppler radar indicated that rain had nearly ended over Goffs Road. The threat of flash flooding should end by 945 PM PST.\nHAZARD...Life-threatening flash flooding. Rain producing flash flooding.\nSOURCE...Radar.\nIMPACT...Life-threatening flash flooding of low-water crossings, creeks, normally dry washes and roads.\nSome locations that will experience flash flooding include... Goffs Road",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather phenomena",
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.6f1c5b779467bdfd3120a1acb27fc28329297e12.001.1",
+        "https://img.particlenews.com/image.php?url=17g3G2_17aDFqWk00",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=17g3G2_17aDFqWk00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=17g3G2_17aDFqWk00",
+        "https://www.img.particlenews.com/image.php?url=17g3G2_17aDFqWk00",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.6f1c5b779467bdfd3120a1acb27fc28329297e12.001.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Goffs Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-25T07:28:18.049+02:00",
+    "updated": "2025-12-25T07:34:46.000+02:00"
+}

@@ -1,0 +1,152 @@
+{
+    "thread": {
+        "uuid": "05aa06906055dd03da26ab42493bc83b539a908f",
+        "url": "https://www.newsbreak.com/news/4825369908832-gangs-at-war-at-center-of-albany-murder-trial",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/albany-ga",
+        "site_categories": [
+            "health",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "politics",
+            "social issue",
+            "science and technology",
+            "sport",
+            "human interest",
+            "under_construction",
+            "arts, culture and entertainment",
+            "crime, law and justice"
+        ],
+        "section_title": "Albany, GA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "'Gangs at war' at center of Albany murder trial - NewsBreak",
+        "title_full": "'Gangs at war' at center of Albany murder trial - NewsBreak",
+        "published": "2026-08-12T21:48:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2skOxb_1EB96eH400",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "05aa06906055dd03da26ab42493bc83b539a908f",
+    "url": "https://www.newsbreak.com/news/4825369908832-gangs-at-war-at-center-of-albany-murder-trial",
+    "ord_in_thread": 0,
+    "author": "Jerry Goodman",
+    "published": "2026-08-12T21:48:00.000+03:00",
+    "title": "'Gangs at war' at center of Albany murder trial - NewsBreak",
+    "text": "By Jerry Goodman ,\n9 hours ago ALBANY, Ga. (WALB) — Dougherty County District Attorney Greg Edwards said the murder of Jawaski Kennedy, 28, was the result of gang retaliation for a double murder that happened just four days prior. Edwards made the remarks Aug. 12 during opening statements in the murder trial for Shaquille Mathis,... Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.walb.com/2026/08/12/gangs-war-center-albany-murder-trial/?outputType=amp",
+        "https://walb.com/2026/08/12/gangs-war-center-albany-murder-trial/?outputType=amp",
+        "https://www.walb.com/2026/08/12/gangs-war-center-albany-murder-trial/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jerry Goodman",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Greg Edwards",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Shaquille Mathis",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jawaski Kennedy",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Ga",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dougherty County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Albany",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Albany"
+            ],
+            "state": [
+                "Georgia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:07:45.264+03:00",
+    "updated": "2026-08-13T07:10:50.000+03:00"
+}

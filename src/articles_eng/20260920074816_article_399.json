@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "fa8b1fa7e55490cd07eeade9c88f9936f1e1dc33",
+        "url": "https://www.newsbreak.com/news/4890433769026-city-of-hoboken-announces-musical-lineup-for-river-city-fair-on-sept-26",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/jersey-city-nj",
+        "site_categories": [
+            "sport",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "under_construction",
+            "human interest",
+            "social issue"
+        ],
+        "section_title": "Jersey City, NJ Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "City of Hoboken announces musical lineup for River City Fair on Sept. 26 - NewsBreak",
+        "title_full": "City of Hoboken announces musical lineup for River City Fair on Sept. 26 - NewsBreak",
+        "published": "2026-09-17T00:58:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0S9nI8_1FDiNA9h00",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fa8b1fa7e55490cd07eeade9c88f9936f1e1dc33",
+    "url": "https://www.newsbreak.com/news/4890433769026-city-of-hoboken-announces-musical-lineup-for-river-city-fair-on-sept-26",
+    "ord_in_thread": 0,
+    "author": "John Heinis",
+    "published": "2026-09-17T00:58:00.000+03:00",
+    "title": "City of Hoboken announces musical lineup for River City Fair on Sept. 26 - NewsBreak",
+    "text": "By John Heinis ,\n7 hours ago The City of Hoboken is announcing their musical lineup for the River City Fair on Saturday, September 26th, which will take place from 12 noon until 5 p.m. along Sinatra Drive from Newark Street to Fifth Street. “River City Fair is about bringing our community together and celebrating our people,... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->leisure"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://hudsoncountyview.com/city-of-hoboken-announces-musical-lineup-for-river-city-fair-on-sept-26/",
+        "https://www.hudsoncountyview.com/city-of-hoboken-announces-musical-lineup-for-river-city-fair-on-sept-26/",
+        "https://hudsoncountyview.com/city-of-hoboken-announces-musical-lineup-for-river-city-fair-on-sept-26"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "John Heinis",
+                "sentiment": "positive"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Sinatra Drive",
+                "sentiment": "none"
+            },
+            {
+                "name": "Newark Street",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fifth Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Jersey City"
+            ],
+            "state": [
+                "New Jersey"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:04:04.598+03:00",
+    "updated": "2026-09-17T08:10:23.000+03:00"
+}

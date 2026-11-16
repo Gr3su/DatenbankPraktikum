@@ -1,0 +1,117 @@
+{
+    "thread": {
+        "uuid": "38d16dd95a14d332714dcbb48efb87a9a5e89172",
+        "url": "https://www.breitbart.com/news/us-soldier-jailed-for-selling-defense-secrets-to-china",
+        "site_full": "www.breitbart.com",
+        "site": "breitbart.com",
+        "site_section": "http://breitbart.com/news",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "All News - Breitbart News Network",
+        "site_title": "Breitbart News Network",
+        "title": "US soldier jailed for selling defense secrets to China - Breitbart",
+        "title_full": "US soldier jailed for selling defense secrets to China - Breitbart",
+        "published": "2025-04-24T00:15:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.breitbart.com/media/2024/03/wi/afp/us-army-intelligence-analyst-arrested-at-fort-campbell-allegedly-providing-national-defense-chi-640x335.jpg",
+        "performance_score": 0,
+        "domain_rank": 1728,
+        "domain_rank_updated": "2025-04-22T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "38d16dd95a14d332714dcbb48efb87a9a5e89172",
+    "url": "https://www.breitbart.com/news/us-soldier-jailed-for-selling-defense-secrets-to-china",
+    "ord_in_thread": 0,
+    "author": "AFP",
+    "published": "2025-04-24T00:15:00.000+03:00",
+    "title": "US soldier jailed for selling defense secrets to China - Breitbart",
+    "text": "A US Army intelligence analyst was sentenced to seven years imprisonment on Wednesday for providing sensitive defense information to China, including documents about US weapons systems and military tactics and strategy.\nSergeant Korbein Schultz, who held a top-secret security clearance, was arrested in March 2024 at Fort Campbell, a military base on the Kentucky-Tennessee border.\nSchultz was sentenced after he pleaded guilty last August to sharing at least 92 sensitive US military documents, the Justice Department said in a statement.\nHe admitted charges of conspiring to obtain and disclose national defense information, exporting technical data related to defense articles without a license, conspiracy to export defense articles without a license, and bribery of a public official.\n“This sentencing is a stark warning to those who betray our country: you will pay a steep price for it,” FBI Director Kash Patel said in a statement.\nAccording to the charging documents, Schultz provided dozens of sensitive US military documents to an individual living in Hong Kong who he believed to be associated with the Chinese government.\nHe was paid $42,000 for the information, according to the Justice Department.\nAmong the documents handed over by Schultz was one discussing the lessons learned by the US Army from the Ukraine-Russia war that it would apply in a defense of Taiwan.\nOther documents discussed Chinese military tactics and preparedness, and US military exercises and forces in South Korea and the Philippines.\nUS Attorney General Pam Bondi said Wednesday that the Justice Department “remains vigilant against China’s efforts to target our military and will ensure that those who leak military secrets spend years behind bars.”\nSchultz’s arrest came less than a year after the arrests of two US Navy sailors in California on charges of spying for China.\nOne of them, petty officer Wenheng Zhao, was sentenced to 27 months in prison in January 2024 after pleading guilty to charges of conspiring with a foreign intelligence officer and accepting a bribe.\nUS",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Korbein Schultz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kash Patel",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "US Army",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Justice Department",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "FBI",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "38d16dd95a14d332714dcbb48efb87a9a5e89172",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T00:19:47.454+03:00",
+    "updated": "2025-04-24T00:19:47.454+03:00"
+}

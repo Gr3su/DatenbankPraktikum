@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "7ef8897563fbde794136a2c06f68068de3a9b958",
+        "url": "https://www.hindustantimes.com/india-news/apple-executive-vivek-tiwari-shot-dead-up-police-lucknow-court-verdict-accused-news-101789621404365.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/",
+        "site_categories": [
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "politics",
+            "media",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "social issue",
+            "disaster and accident"
+        ],
+        "section_title": "Hindustan Times: Breaking News, Latest News, India News, World News &amp; Cricket Today&#x27;s Headlines | Hindustan Times",
+        "site_title": "Hindustan Times: Breaking News, Latest News, India News, World News & Cricket Today's Headlines | Hindustan Times",
+        "title": "Apple executive Vivek Tiwari's killing by UP cop: Verdict in closely watched case expected today | India News",
+        "title_full": "Apple executive Vivek Tiwari's killing by UP cop: Verdict in closely watched case expected today | India News",
+        "published": "2026-09-17T08:11:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/logo/vivek_tiwari_1789621950127_Cc2E_1789621950348_ELyV_f5069f2e-6e74-4e39-b2a1-5c6c846aaf92_XENT.jpeg",
+        "performance_score": 0,
+        "domain_rank": 2697,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7ef8897563fbde794136a2c06f68068de3a9b958",
+    "url": "https://www.hindustantimes.com/india-news/apple-executive-vivek-tiwari-shot-dead-up-police-lucknow-court-verdict-accused-news-101789621404365.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-09-17T08:11:00.000+03:00",
+    "title": "Apple executive Vivek Tiwari's killing by UP cop: Verdict in closely watched case expected today | India News",
+    "text": "What happened on September 30, 2018\nThe incident took place at around 1.30 am on September 30, 2018 when Tiwari, 38 – a resident of New Hyderabad Colony and an Apple executive – was returning home in his SUV after attending a party. He was accompanied by a former colleague, Sana Siddiqui, who was a key witness in the case.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide",
+        "Crime, Law and Justice->law enforcement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vivek Tiwari",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sana Siddiqui",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "New Hyderabad Colony",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Apple",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "AAPL",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "India News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "UP",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:21:13.289+03:00",
+    "updated": "2026-09-17T08:31:23.000+03:00"
+}

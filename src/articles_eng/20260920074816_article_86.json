@@ -1,0 +1,153 @@
+{
+    "thread": {
+        "uuid": "325dd0d9713aad3f71ef7f8e80ff7dac18a27862",
+        "url": "https://www.newsbreak.com/news/4890047451193-crash-in-choctaw-county-leaves-one-dead",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/vaiden-ms",
+        "site_categories": [
+            "social issue",
+            "sport",
+            "crime, law and justice",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "human interest",
+            "politics",
+            "under_construction"
+        ],
+        "section_title": "Vaiden, MS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Crash in Choctaw County leaves one dead - NewsBreak",
+        "title_full": "Crash in Choctaw County leaves one dead - NewsBreak",
+        "published": "2026-09-16T20:56:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3afHWb_1FDJrBMb00",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "325dd0d9713aad3f71ef7f8e80ff7dac18a27862",
+    "url": "https://www.newsbreak.com/news/4890047451193-crash-in-choctaw-county-leaves-one-dead",
+    "ord_in_thread": 0,
+    "author": "Eric Lampkin",
+    "published": "2026-09-16T20:56:00.000+03:00",
+    "title": "Crash in Choctaw County leaves one dead - NewsBreak",
+    "text": "By Eric Lampkin ,\n12 hours ago CHOCTAW COUNTY, Miss (WCBI) – One person is dead after two 18-wheelers crash in Choctaw County. According to the Mississippi Highway Patrol, the two big rigs collided head-on on Highway Nine near Marshall Road around 6 this morning. Choctaw County Coroner Chris Coleman identified the deceased as 64-year-old James... Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide",
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wcbi.com/crash-in-choctaw-county-leaves-one-dead/",
+        "https://www.wcbi.com/crash-in-choctaw-county-leaves-one-dead",
+        "https://wcbi.com/crash-in-choctaw-county-leaves-one-dead/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Eric Lampkin",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Chris Coleman",
+                "sentiment": "none"
+            },
+            {
+                "name": "James",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Choctaw County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Marshall Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Mississippi Highway Patrol",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Vaiden"
+            ],
+            "state": [
+                "Mississippi"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T07:52:07.852+03:00",
+    "updated": "2026-09-17T09:06:46.395+03:00"
+}

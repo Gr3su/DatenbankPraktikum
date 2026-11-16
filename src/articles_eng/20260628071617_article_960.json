@@ -1,0 +1,154 @@
+{
+    "thread": {
+        "uuid": "003b5645b873ddaf9f3241aa480b1074eaea2684",
+        "url": "https://www.newsbreak.com/news/4730907823048-police-looking-for-pair-who-stole-gold-necklace-from-north-olmsted-jeweler",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/bay-village-oh",
+        "site_categories": [
+            "politics",
+            "lifestyle and leisure",
+            "social issue",
+            "human interest",
+            "disaster and accident",
+            "economy, business and finance",
+            "crime, law and justice",
+            "under_construction",
+            "arts, culture and entertainment",
+            "sport"
+        ],
+        "section_title": "Bay Village, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Police looking for pair who stole gold necklace from North Olmsted jeweler - NewsBreak",
+        "title_full": "Police looking for pair who stole gold necklace from North Olmsted jeweler - NewsBreak",
+        "published": "2026-06-25T04:53:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1FUvyg_1CfyeK3100",
+        "performance_score": 0,
+        "domain_rank": 3030,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "003b5645b873ddaf9f3241aa480b1074eaea2684",
+    "url": "https://www.newsbreak.com/news/4730907823048-police-looking-for-pair-who-stole-gold-necklace-from-north-olmsted-jeweler",
+    "ord_in_thread": 0,
+    "author": "Brian Koster",
+    "published": "2026-06-25T04:53:00.000+03:00",
+    "title": "Police looking for pair who stole gold necklace from North Olmsted jeweler - NewsBreak",
+    "text": "By Brian Koster ,\n2 hours ago NORTH OLMSTED, Ohio (WOIO) - Police are looking for two thieves who stole a gold necklace worth $5,000 from Kay Jewelers in Great Northern Mall. Police said on June 16th, the two entered the jewelry store and distracted the clerk enough that they were able to steal the necklace. If... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->robbery and theft"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cleveland19.com/2026/06/25/police-looking-pair-who-stole-gold-necklace-north-olmsted-jeweler/",
+        "https://www.cleveland19.com/2026/06/25/police-looking-pair-who-stole-gold-necklace-north-olmsted-jeweler",
+        "https://cleveland19.com/2026/06/25/police-looking-pair-who-stole-gold-necklace-north-olmsted-jeweler/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brian Koster",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "NORTH OLMSTED",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ohio",
+                "sentiment": "none"
+            },
+            {
+                "name": "Great Northern Mall",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "WOIO",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Kay Jewelers",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Bay Village"
+            ],
+            "state": [
+                "Ohio"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:47:57.421+03:00",
+    "updated": "2026-06-25T07:51:21.000+03:00"
+}

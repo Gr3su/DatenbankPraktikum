@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "503dabab6b04fb8479e3a9967af3ad8b13f4aa1a",
+        "url": "https://www.newsbreak.com/news/4606523480962-wednesday-afternoon-traffic-sr-152-and-sr-129-lane-closures-minor-crash-at-7th-dolores",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/gilroy-ca",
+        "site_categories": [
+            "economy, business and finance",
+            "human interest",
+            "lifestyle and leisure",
+            "politics",
+            "sport",
+            "crime, law and justice",
+            "under_construction",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Gilroy, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Wednesday afternoon traffic: SR-152 and SR-129 lane closures; minor crash at 7th & Dolores - NewsBreak",
+        "title_full": "Wednesday afternoon traffic: SR-152 and SR-129 lane closures; minor crash at 7th & Dolores - NewsBreak",
+        "published": "2026-04-22T17:07:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/33sgLO_1AgdiTZk00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "503dabab6b04fb8479e3a9967af3ad8b13f4aa1a",
+    "url": "https://www.newsbreak.com/news/4606523480962-wednesday-afternoon-traffic-sr-152-and-sr-129-lane-closures-minor-crash-at-7th-dolores",
+    "ord_in_thread": 0,
+    "author": "Lookout Santa Cruz",
+    "published": "2026-04-22T17:07:00.000+03:00",
+    "title": "Wednesday afternoon traffic: SR-152 and SR-129 lane closures; minor crash at 7th & Dolores - NewsBreak",
+    "text": "By Lookout Santa Cruz ,\n14 hours ago A silver Honda CRV and a Ford F350 utility truck, including a city vehicle, were involved in a collision at 7th Ave. and Dolores St. in the Eastside / Live Oak area. Both vehicles later returned to the harbor near the launch ramp. No injuries were reported. The incident was reported today. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Santa Cruz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dolores St.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eastside",
+                "sentiment": "none"
+            },
+            {
+                "name": "Live Oak",
+                "sentiment": "none"
+            },
+            {
+                "name": "7th Ave.",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Honda",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "HMC",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Gilroy"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-23T07:18:40.480+03:00",
+    "updated": "2026-04-23T07:20:48.000+03:00"
+}

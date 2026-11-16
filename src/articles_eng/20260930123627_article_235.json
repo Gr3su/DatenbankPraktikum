@@ -1,0 +1,169 @@
+{
+    "thread": {
+        "uuid": "884911e4126bffbe8e922cf93242d4fac79f65ff",
+        "url": "https://www.newsbreak.com/news/4908128151996-peter-thiel-says-the-pope-s-ai-encyclical-was-working-for-china",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sitemap-news-34.xml",
+        "site_categories": [
+            "economy, business and finance",
+            "crime, law and justice",
+            "sport",
+            "human interest",
+            "politics",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "under_construction"
+        ],
+        "section_title": "",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Peter Thiel says the pope's AI encyclical was 'working for' China - NewsBreak",
+        "title_full": "Peter Thiel says the pope's AI encyclical was 'working for' China - NewsBreak",
+        "published": "2026-09-25T20:12:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3MkiK2_1FVXcOXR00",
+        "performance_score": 0,
+        "domain_rank": 3126,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-09-27T12:48:04.145+03:00"
+        }
+    },
+    "uuid": "884911e4126bffbe8e922cf93242d4fac79f65ff",
+    "url": "https://www.newsbreak.com/news/4908128151996-peter-thiel-says-the-pope-s-ai-encyclical-was-working-for-china",
+    "ord_in_thread": 0,
+    "author": "The Next Web",
+    "published": "2026-09-25T20:12:00.000+03:00",
+    "title": "Peter Thiel says the pope's AI encyclical was 'working for' China - NewsBreak",
+    "text": "1 days ago Peter Thiel has called Pope Leo XIV a “useful idiot” for the Chinese Communist Party over the pope’s call to regulate AI. The PayPal and Palantir co-founder spoke to Axel Springer chief executive Mathias Döpfner on the MD Meets podcast, released on Thursday. The interview came... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->censorship and freedom of speech",
+        "Politics->church elections"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://thenextweb.com/news/peter-thiel-pope-leo-useful-idiot-china-ai-regulation",
+        "https://www.thenextweb.com/news/peter-thiel-pope-leo-useful-idiot-china-ai-regulation"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mathias Döpfner",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Peter Thiel",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "China",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Palantir",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "PLTR",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Chinese Communist Party",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "PayPal",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "PYPL",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Axel Springer",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "AXG",
+                        "exchange": "XTRA"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-27T12:48:04.145+03:00",
+    "updated": "2026-09-27T12:54:56.000+03:00",
+    "related_articles": null
+}

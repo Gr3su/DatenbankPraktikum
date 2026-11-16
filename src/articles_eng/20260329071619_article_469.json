@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "215ba622842507e8b92ebc347880e25236c79ec8",
+        "url": "https://www.jamestownpress.com/articles/solutions-being-sought-for-great-creek-bridge/",
+        "site_full": "www.jamestownpress.com",
+        "site": "jamestownpress.com",
+        "site_section": "https://www.jamestownpress.com/feed",
+        "site_categories": [
+            "media",
+            "politics",
+            "human interest",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "weather",
+            "economy, business and finance"
+        ],
+        "section_title": "Jamestown Press",
+        "site_title": "The Jamestown Press",
+        "title": "Solutions being sought for Great Creek bridge",
+        "title_full": "Solutions being sought for Great Creek bridge",
+        "published": "2026-03-26T06:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "215ba622842507e8b92ebc347880e25236c79ec8",
+    "url": "https://www.jamestownpress.com/articles/solutions-being-sought-for-great-creek-bridge/",
+    "ord_in_thread": 0,
+    "author": "ohtadmin",
+    "published": "2026-03-26T06:00:00.000+02:00",
+    "title": "Solutions being sought for Great Creek bridge",
+    "text": "There will be a meeting to consider solutions for the North Road bridge at the Great Creek from 5:30-7:30 p.m. Wednesday, April 1, at the library, 26 North Road.\nThe meeting is being hosted by Protect Conanicut Coastline, which was founded in 2021 to preserve the “unique, spectacular coastline” of Jamestown.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Environment"
+    ],
+    "topics": [
+        "Environment->water"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "North Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Great Creek",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jamestown",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Protect Conanicut Coastline",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Jamestown"
+            ],
+            "state": [
+                "Indiana",
+                "Colorado"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-26T07:27:51.059+02:00",
+    "updated": "2026-03-26T07:31:52.000+02:00"
+}

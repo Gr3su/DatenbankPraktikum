@@ -1,0 +1,122 @@
+{
+    "thread": {
+        "uuid": "6ae0dffcf76809fd0b2fe18412a4d75d7b355ac2",
+        "url": "https://local.newsbreak.com/wavy-news-10-1589983/4160902570981-report-2-chesapeake-police-officers-shot-responding-to-domestic-call",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/wavy-news-10-1589983",
+        "site_categories": [],
+        "section_title": "WAVY News 10&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Report: 2 Chesapeake Police officers shot responding to domestic call - NewsBreak",
+        "title_full": "Report: 2 Chesapeake Police officers shot responding to domestic call - NewsBreak",
+        "published": "2025-08-07T06:54:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3HEXck_13Ycdt1G00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6ae0dffcf76809fd0b2fe18412a4d75d7b355ac2",
+    "url": "https://local.newsbreak.com/wavy-news-10-1589983/4160902570981-report-2-chesapeake-police-officers-shot-responding-to-domestic-call",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-08-07T06:54:00.000+03:00",
+    "title": "Report: 2 Chesapeake Police officers shot responding to domestic call - NewsBreak",
+    "text": "CHESAPEAKE, Va. (WAVY) — Two Chesapeake police officers were shot and injured late Wednesday night while responding to a domestic call at an apartment on Willow Bridge Court, Chesapeake Police said. Officers responding to a report of a domestic assault at an apartment in the 500 block of Willow Bridge Court around 10:28 p.m. heard a woman inside the residence screaming for help, according to police, and as officers tried to breach the front door to help the woman, an unknown suspect began shooting at them through the door of the apartment, according to police. The two officers who were injured have what are believed to be non life-threatening injures, and they were taken to a local hospital. The Chesapeake Police SWAT team and negotiators were activated and are currently at the scene. Police said this remains an active and ongoing situation as officers work to safely secure the residence and ensure the safety of everyone involved. Police have closed Greenbrier Parkway between City Park Drive and Kempsville Road. Drivers are encouraged to avoid the area and seek alternative routes. For the latest news, weather, sports, and streaming video, head to WAVY.com.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Politics"
+    ],
+    "topics": [
+        "Crime, Law and Justice->investigation (criminal)",
+        "Crime, Law and Justice->shootings",
+        "Crime, Law and Justice->police",
+        "Social Issue->social problem",
+        "Social Issue->abusive behaviour",
+        "Politics->government",
+        "Politics->safety of citizens",
+        "Politics->civil and public service"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=3HEXck_13Ycdt1G00",
+        "https://www.wavy.com",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3HEXck_13Ycdt1G00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?url=3HEXck_13Ycdt1G00",
+        "https://wavy.com",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3HEXck_13Ycdt1G00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Willow Bridge Court",
+                "sentiment": "none"
+            },
+            {
+                "name": "Greenbrier Parkway",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kempsville Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "City Park Drive",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-07T07:26:42.563+03:00",
+    "updated": "2025-08-07T07:33:06.000+03:00"
+}

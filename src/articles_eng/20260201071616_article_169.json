@@ -1,0 +1,164 @@
+{
+    "thread": {
+        "uuid": "e135e638912f0e0e333c7158fb51f51e6bcb886d",
+        "url": "https://www.ntd.com/uks-starmer-visits-china-as-pressure-mounts-over-ccps-human-rights-record_1122527.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://www.ntd.com/news",
+        "site_categories": [
+            "real_estate",
+            "architects",
+            "politics",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "war, conflict and unrest",
+            "crime, law and justice"
+        ],
+        "section_title": "News | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "UK'S Starmer Visits China as Pressure Mounts Over CCP's Human Rights Record | NTD",
+        "title_full": "UK'S Starmer Visits China as Pressure Mounts Over CCP's Human Rights Record | NTD",
+        "published": "2026-01-29T07:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2026/01/id1122552-2026-01-28T101520Z_1_LYNXMPEM0R0L3_RTROPTP_4_CHINA-BRITAIN.jpg-900x506.webp",
+        "performance_score": 0,
+        "domain_rank": 59249,
+        "domain_rank_updated": "2026-01-25T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e135e638912f0e0e333c7158fb51f51e6bcb886d",
+    "url": "https://www.ntd.com/uks-starmer-visits-china-as-pressure-mounts-over-ccps-human-rights-record_1122527.html",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-01-29T07:05:00.000+02:00",
+    "title": "UK'S Starmer Visits China as Pressure Mounts Over CCP's Human Rights Record | NTD",
+    "text": "British Prime Minister Keir Starmer arrived in Beijing on Wednesday for a three-day state visit. He's the first UK Prime Minister to go to China since Theresa May in 2018. Traveling with a delegation of business leaders, Starmer is slated to visit Shanghai and meet with Chinese Communist Party leader Xi Jinping.\nThe communist regime is considered a major trading partner for the United Kingdom. But that relationship soured in recent years due to concern about espionage, Beijing’s support for Russia in its war with Ukraine, and the regime's repression of pro-democracy activists in Hong Kong.",
+    "summary": "British Prime Minister Keir Starmer arrived in Beijing on Wednesday for a three-day state visit. He's the first UK Prime Minister to go to China since Theresa May in 2018. Traveling with a delegation of business leaders, Starmer is slated to visit Shanghai and meet with Chinese Communist Party leader Xi Jinping. The communist regime is considered a major trading partner for the United Kingdom. But that relationship soured in recent years due to concern about espionage, Beijing’s support for Russia in its war with Ukraine, and the regime's repression of pro-democracy activists in Hong Kong.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->human rights",
+        "Politics->international relations",
+        "Politics->political development",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Keir Starmer",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Xi Jinping",
+                "sentiment": "none"
+            },
+            {
+                "name": "Theresa May",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Beijing",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ukraine",
+                "sentiment": "none"
+            },
+            {
+                "name": "China",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hong Kong",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shanghai",
+                "sentiment": "none"
+            },
+            {
+                "name": "United Kingdom",
+                "sentiment": "none"
+            },
+            {
+                "name": "Russia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CCP",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Chinese Communist Party",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-29T07:19:20.158+02:00",
+    "updated": "2026-01-29T07:22:24.000+02:00"
+}

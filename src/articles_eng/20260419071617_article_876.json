@@ -1,0 +1,157 @@
+{
+    "thread": {
+        "uuid": "f4f0976acc9b776e1958b29e1c309b31c3cfe09c",
+        "url": "https://www.newsbreak.com/news/4593916632978-nws-confirms-at-least-7-tornadoes-touched-down-in-tuesday-storm",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/green-lake-wi",
+        "site_categories": [
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "sport",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "politics"
+        ],
+        "section_title": "Green Lake, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "NWS confirms at least 7 tornadoes touched down in Tuesday storm - NewsBreak",
+        "title_full": "NWS confirms at least 7 tornadoes touched down in Tuesday storm - NewsBreak",
+        "published": "2026-04-15T22:04:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4fe4D3_1ATwQZ1a00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f4f0976acc9b776e1958b29e1c309b31c3cfe09c",
+    "url": "https://www.newsbreak.com/news/4593916632978-nws-confirms-at-least-7-tornadoes-touched-down-in-tuesday-storm",
+    "ord_in_thread": 0,
+    "author": "Rachel Ryan",
+    "published": "2026-04-15T22:04:00.000+03:00",
+    "title": "NWS confirms at least 7 tornadoes touched down in Tuesday storm - NewsBreak",
+    "text": "By Rachel Ryan ,\n9 hours ago WISCONSIN — At least seven tornadoes touched down on Tuesday during severe storms, the National Weather Service confirmed. NWS said an EF-2 tornado touched down in the Town of Lisbon, which is just north of Sussex, on April 14. It had maximum winds of 120 mph and traveled for 3.2 miles for a total of six minutes. Read full article\nRead in NewsBreak 13",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Weather->weather phenomena",
+        "Disaster and Accident->emergency response",
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rachel Ryan",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "WISCONSIN",
+                "sentiment": "none"
+            },
+            {
+                "name": "Town of Lisbon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sussex",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NWS",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "National Weather Service",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Green Lake"
+            ],
+            "state": [
+                "Wisconsin"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:42:06.479+03:00",
+    "updated": "2026-04-16T07:48:44.000+03:00"
+}

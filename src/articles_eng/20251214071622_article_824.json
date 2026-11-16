@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "699c51cd31b9c571efb763bb99a73eec9b2a9b8c",
+        "url": "https://time.news/cancer-recurrence-scientists-find-key-survival-mechanism/",
+        "site_full": "time.news",
+        "site": "time.news",
+        "site_section": "https://time.news/feed/atom/",
+        "site_categories": [],
+        "section_title": "TIme News",
+        "site_title": "TIme News - time.news",
+        "title": "Cancer Recurrence: Scientists Find Key Survival Mechanism",
+        "title_full": "Cancer Recurrence: Scientists Find Key Survival Mechanism",
+        "published": "2025-12-11T07:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.sciencedaily.com/images/1920/glowing-dangerous-cancer-cells.webp",
+        "performance_score": 0,
+        "domain_rank": 416973,
+        "domain_rank_updated": "2025-12-07T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "699c51cd31b9c571efb763bb99a73eec9b2a9b8c",
+    "url": "https://time.news/cancer-recurrence-scientists-find-key-survival-mechanism/",
+    "ord_in_thread": 0,
+    "author": "Grace Chen",
+    "published": "2025-12-11T07:37:00.000+02:00",
+    "title": "Cancer Recurrence: Scientists Find Key Survival Mechanism",
+    "text": "Scientists Discover Unexpected Cancer Cell Survival Strategy, Opening New Avenue for Treatment\ncancer drug resistance remains a formidable obstacle in oncology, but a groundbreaking study from the University of California San diego offers a potential new approach to combatting the disease. Researchers have identified a surprising mechanism by which cancer cells endure and regrow after targeted therapy – by repurposing an enzyme typically associated with cell death.\nCancer is a leading cause of mortality globally, responsible for roughly one in six deaths worldwide. A significant challenge in treatment lies in the growth of drug resistance, where tumors initially respond to medication, only to later relapse. this resistance often evolves over months or years through genetic mutations, mirroring the way bacteria develop antibiotic resistance – a process challenging to overcome with current drug options.\nHowever, the new research, published in Nature Cell Biology, reveals a resistance pathway that operates much earlier in the process and, crucially, does not rely on these genetic changes. This discovery presents a promising new target for future therapies.\n“This flips our understanding of cancer cell death on its head,” explained a senior author of the study. “Cancer cells which survive initial drug treatment experience sublethal cell death signaling which, rather of killing the cell, actually helps the cancer regrow. If we block this death signaling within these surviving cells, we can possibly stop tumors from relapsing during therapy.”\nThe study focused on persister cells – a subset of cancer cells that survive initial treatment. Researchers found that these cells exhibit ongoing, low-level activation of a protein called DNA fragmentation factor B (DFFB). DFFB is normally involved in breaking down DNA during programmed cell death, but in these persister cells, its activation was insufficient to cause cell death. Instead, it interfered with the signals that normally regulate cell growth.\nRemarkably, when DFFB was removed, these persister cancer cells remained dormant and did not regrow during treatment. This suggests that DFFB is not essential for normal cell function but is critical for the regrowth of cancer cells after therapy.\n“Most research on resistance focuses on genetic mutations,” said a postdoctoral fellow involved in the research. “Our work shows that non-genetic regrowth mechanisms can come into play much earlier, and they may be targetable with drugs. This approach could help patients stay in remission longer and reduce the risk of recurrence.”\nThe findings were observed in models of melanoma, lung cancer, and breast cancer, suggesting the mechanism may be broadly applicable. The research was supported by grants from the Department of Defense, the National Institutes of Health, and the American Cancer Society. A senior researcher also disclosed ties to BridgeBio subsidiary Ferro Therapeutics as a cofounder, consultant, and research funding recipient.\nThis discovery offers a significant shift in viewpoint, highlighting the potential to target non-genetic mechanisms of resistance and potentially prolong remission for cancer patients.\nWhy: Researchers sought to understand why cancer cells develop resistance to targeted therapies, focusing on mechanisms beyond genetic mutations.\nWho: The study was conducted by researchers at the University of California San Diego, led by a senior author and involving a postdoctoral fellow. Funding came from the Department of Defense, NIH, and American Cancer Society.\nwhat: The study discovered that cancer cells repurpose an enzyme (DFFB) normally involved in cell death to promote regrowth after initial treatment, creating a non-genetic resistance pathway.\nHow did it end?: The research demonstrated that removing DFFB kept persister cancer cells dormant, suggesting it’s a viable target for preventing relapse. The findings were observed across melanoma, lung, and breast cancer",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-11T07:41:01.753+02:00",
+    "updated": "2025-12-11T07:41:01.753+02:00"
+}

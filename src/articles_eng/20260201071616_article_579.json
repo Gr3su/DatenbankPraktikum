@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "0234ed7334936981089fcf9b579963beeb4097bc",
+        "url": "https://www.newsbreak.com/news/4465811101028-woman-in-custody-after-stabbing-at-southpark-gardens",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/west-memphis-ar",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "West Memphis, AR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Woman in custody after stabbing at Southpark Gardens - NewsBreak",
+        "title_full": "Woman in custody after stabbing at Southpark Gardens - NewsBreak",
+        "published": "2026-01-29T04:46:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2M7twY_18QrGkyW00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-25T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0234ed7334936981089fcf9b579963beeb4097bc",
+    "url": "https://www.newsbreak.com/news/4465811101028-woman-in-custody-after-stabbing-at-southpark-gardens",
+    "ord_in_thread": 0,
+    "author": "Bob Bakken",
+    "published": "2026-01-29T04:46:00.000+02:00",
+    "title": "Woman in custody after stabbing at Southpark Gardens - NewsBreak",
+    "text": "By Bob Bakken ,\n2 hours ago SOUTHAVEN, Miss. — A domestic dispute at a Southaven apartment complex turned violent Wednesday, leaving one man injured and a female suspect in police custody. Police say a male victim arrived at Baptist Memorial Hospital-DeSoto to receive treatment for a stab wound. Officers later placed a woman in custody in connection with the incident. Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->assault",
+        "Crime, Law and Justice->arrest"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bob Bakken",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Southpark Gardens",
+                "sentiment": "none"
+            },
+            {
+                "name": "Southaven",
+                "sentiment": "none"
+            },
+            {
+                "name": "Baptist Memorial Hospital",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "West Memphis"
+            ],
+            "state": [
+                "Arkansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-29T07:24:09.129+02:00",
+    "updated": "2026-01-29T07:29:14.000+02:00"
+}

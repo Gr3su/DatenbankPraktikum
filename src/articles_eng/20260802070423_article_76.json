@@ -1,0 +1,168 @@
+{
+    "thread": {
+        "uuid": "8f520747d67f36543bf1474cc286a09b922eb2f9",
+        "url": "https://www.hindustantimes.com/india-news/no-pakistani-kashmir-only-pok-why-indian-embassy-in-us-fact-checked-new-york-times-misleading-headline-101785382673954.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/world-news/us-news",
+        "site_categories": [
+            "media",
+            "lifestyle and leisure",
+            "health",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "crime, law and justice",
+            "social issue",
+            "sport",
+            "politics"
+        ],
+        "section_title": "US News: Latest Breaking US News on Politics, Crime, and Local Stories of today| Hindustan Times | Hindustan Times",
+        "site_title": "Hindustan Times: Breaking News, Latest News, India News, World News & Cricket Today's Headlines | Hindustan Times",
+        "title": "'No Pakistani Kashmir': Why Indian embassy in US fact-checked New York Times' 'misleading' headline | India News",
+        "title_full": "'No Pakistani Kashmir': Why Indian embassy in US fact-checked New York Times' 'misleading' headline | India News",
+        "published": "2026-07-30T06:54:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/07/30/1600x900/logo/PAKISTAN-KASHMIR-POLITICS-VOTE-3_1785383324468_1785383336897_07c85ea7-3b4d-42f0-afde-78937ed1e510.jpg",
+        "performance_score": 0,
+        "domain_rank": 2628,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8f520747d67f36543bf1474cc286a09b922eb2f9",
+    "url": "https://www.hindustantimes.com/india-news/no-pakistani-kashmir-only-pok-why-indian-embassy-in-us-fact-checked-new-york-times-misleading-headline-101785382673954.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-07-30T06:54:00.000+03:00",
+    "title": "'No Pakistani Kashmir': Why Indian embassy in US fact-checked New York Times' 'misleading' headline | India News",
+    "text": "What did NYT report on PoK?\nThe American publication used the headline -- 'Clashes Erupt in Pakistani Kashmir as Voting in Local Election Begins' -- to report a violent clash that broke out in PoK's Mirpur on Tuesday morning as a civil rights group confronted the police.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Politics->diplomacy",
+        "Politics->censorship and freedom of speech",
+        "Politics->international relations",
+        "Crime, Law and Justice->criminal law",
+        "Crime, Law and Justice->law",
+        "Crime, Law and Justice->judiciary",
+        "Crime, Law and Justice->prosecution and prosecutors",
+        "Crime, Law and Justice->court"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Pakistan",
+                "sentiment": "none"
+            },
+            {
+                "name": "US",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kashmir",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mirpur",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "India News",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "New York Times",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "NYT",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "NYT",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "PoK",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:06:52.293+03:00",
+    "updated": "2026-07-30T07:10:34.000+03:00"
+}

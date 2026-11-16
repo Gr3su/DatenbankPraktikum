@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "f566a33c931cdc85d162a8cefea8f0a10891c131",
+        "url": "https://www.newsbreak.com/news/4863790055849-kenosha-police-ending-flock-contract-moving-to-axon",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/kenosha-wi",
+        "site_categories": [
+            "politics",
+            "arts, culture and entertainment",
+            "under_construction",
+            "social issue",
+            "crime, law and justice",
+            "sport",
+            "economy, business and finance",
+            "human interest",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Kenosha, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Kenosha police ending Flock contract, moving to Axon - NewsBreak",
+        "title_full": "Kenosha police ending Flock contract, moving to Axon - NewsBreak",
+        "published": "2026-09-03T02:01:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4M5bIT_1Ens1LTW00",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f566a33c931cdc85d162a8cefea8f0a10891c131",
+    "url": "https://www.newsbreak.com/news/4863790055849-kenosha-police-ending-flock-contract-moving-to-axon",
+    "ord_in_thread": 0,
+    "author": "Bryan Polcyn",
+    "published": "2026-09-03T02:01:00.000+03:00",
+    "title": "Kenosha police ending Flock contract, moving to Axon - NewsBreak",
+    "text": "By Bryan Polcyn ,\n5 hours ago KENOSHA, Wis. - When it comes to police technology, Flock has become the new F-word everyone is talking about. FOX6 Investigators have now documented at least 148 cases of alleged Flock misuse by police officers across the country – including 11 in Wisconsin. Now, the City of Kenosha says... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->corruption"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox6now.com/news/kenosha-police-ending-flock-contract-moving-axon.amp",
+        "https://fox6now.com/news/kenosha-police-ending-flock-contract-moving-axon.amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bryan Polcyn",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "City of Kenosha",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wis.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wisconsin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Flock",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Axon - NewsBreak",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Kenosha"
+            ],
+            "state": [
+                "Wisconsin"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:08:05.531+03:00",
+    "updated": "2026-09-03T07:13:40.000+03:00"
+}

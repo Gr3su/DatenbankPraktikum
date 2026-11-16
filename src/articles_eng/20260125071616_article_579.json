@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "fd052d4ff214ee0180a8ebcfdd8e82d3cf0aaf5d",
+        "url": "https://www.newsbreak.com/news/4453846081211-skillsusa-wisconsin-competition-at-fvtc-rescheduled-for-february-due-to-weather",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/fremont-wi?page=2",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Fremont, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "SkillsUSA Wisconsin competition at FVTC rescheduled for February due to weather - NewsBreak",
+        "title_full": "SkillsUSA Wisconsin competition at FVTC rescheduled for February due to weather - NewsBreak",
+        "published": "2026-01-22T01:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1OalzF_18Enjfj200",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-18T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fd052d4ff214ee0180a8ebcfdd8e82d3cf0aaf5d",
+    "url": "https://www.newsbreak.com/news/4453846081211-skillsusa-wisconsin-competition-at-fvtc-rescheduled-for-february-due-to-weather",
+    "ord_in_thread": 0,
+    "author": "WBAY news staff",
+    "published": "2026-01-22T01:27:00.000+02:00",
+    "title": "SkillsUSA Wisconsin competition at FVTC rescheduled for February due to weather - NewsBreak",
+    "text": "By WBAY news staff ,\n5 hours ago APPLETON, Wis. (WBAY) - Due to the extreme cold, a career and technical education skills event set to be held in Appleton has been postponed. The SkillsUSA Wisconsin regional competition was scheduled for Jan. 23 at Fox Valley Technical College, but due to the extreme cold expected this week, it has been postponed to February 23. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather",
+        "Education"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Weather->weather phenomena",
+        "Education->vocational education"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Wis.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Appleton",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WBAY",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Fox Valley Technical College",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Fremont"
+            ],
+            "state": [
+                "Wisconsin"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-22T07:28:29.769+02:00",
+    "updated": "2026-01-22T07:33:17.000+02:00"
+}

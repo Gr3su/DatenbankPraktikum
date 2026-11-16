@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "5e3a0789b4287f86527cd94695be4e0f5acebf1a",
+        "url": "https://www.hindustantimes.com/india-news/no-reason-to-believe-indian-friends-changed-big-russia-remark-after-trumps-oil-claim-on-trade-deal-101770266743897.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/",
+        "site_categories": [
+            "politics",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "media",
+            "sport",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Latest News: Today’s News Headlines, Breaking News India, World News and Cricket News | Latest News Today | Hindustan Times",
+        "site_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+        "title": "'No reason to believe Indian friends changed': Big Russia remark after Trump's oil claim on trade deal| India News",
+        "title_full": "'No reason to believe Indian friends changed': Big Russia remark after Trump's oil claim on trade deal| India News",
+        "published": "2026-02-05T07:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/02/05/550x309/INDIA-RUSSIA--0_1770266988735_1770266999916.JPG",
+        "performance_score": 0,
+        "domain_rank": 825,
+        "domain_rank_updated": "2026-02-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5e3a0789b4287f86527cd94695be4e0f5acebf1a",
+    "url": "https://www.hindustantimes.com/india-news/no-reason-to-believe-indian-friends-changed-big-russia-remark-after-trumps-oil-claim-on-trade-deal-101770266743897.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-02-05T07:10:00.000+02:00",
+    "title": "'No reason to believe Indian friends changed': Big Russia remark after Trump's oil claim on trade deal| India News",
+    "text": "Russia remains hopeful of ‚ÄòIndian friends‚Äô\nDays after Trump's claims, Russia's Zakharova said that Trump was trying to ‚Äúdictate‚Äù what an independent country should do and that Moscow didn't believe its ‚ÄúIndian friends‚Äù have changed their approach on energy ties with Russia.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->international relations",
+        "Politics->political development",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business and market analysis",
+        "Economy, Business and Finance->foreign exchange market"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Zakharova",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Russia",
+                "sentiment": "none"
+            },
+            {
+                "name": "Moscow",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "India News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-05T07:19:25.271+02:00",
+    "updated": "2026-02-05T07:23:19.000+02:00"
+}

@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "a09fe6b87b8e1bb0c31fe63566af0468e8f224fd",
+        "url": "https://www.newsbreak.com/news/4744648523771-grand-jury-indicts-teen-accused-of-opening-fire-at-columbia-dick-s-sporting-goods",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/columbia-mo",
+        "site_categories": [
+            "crime, law and justice",
+            "politics",
+            "economy, business and finance",
+            "social issue",
+            "arts, culture and entertainment",
+            "disaster and accident",
+            "lifestyle and leisure",
+            "human interest",
+            "under_construction",
+            "sport"
+        ],
+        "section_title": "Columbia, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Grand jury indicts teen accused of opening fire at Columbia Dick's Sporting Goods - NewsBreak",
+        "title_full": "Grand jury indicts teen accused of opening fire at Columbia Dick's Sporting Goods - NewsBreak",
+        "published": "2026-07-02T00:40:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a09fe6b87b8e1bb0c31fe63566af0468e8f224fd",
+    "url": "https://www.newsbreak.com/news/4744648523771-grand-jury-indicts-teen-accused-of-opening-fire-at-columbia-dick-s-sporting-goods",
+    "ord_in_thread": 0,
+    "author": "Jacob Richey, KOMU 8 Digital Content Editor",
+    "published": "2026-07-02T00:40:00.000+03:00",
+    "title": "Grand jury indicts teen accused of opening fire at Columbia Dick's Sporting Goods - NewsBreak",
+    "text": "By Jacob Richey, KOMU 8 Digital Content Editor ,\n6 hours ago The teenager accused of opening fire at the Columbia Dick's Sporting Goods and then carjacking someone in the parking lot has been indicted on six felony charges by a Boone County grand jury. Darius Lamb, 18, was indicted Friday on charges of unlawful use of a weapon by firing at... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Sport"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide",
+        "Sport->disciplinary action in sport",
+        "Sport->sport event",
+        "Sport->american football"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.komu.com/news/midmissourinews/grand-jury-indicts-teen-accused-of-opening-fire-at-columbia-dicks-sporting-goods/article_6b0b3351-2a28-4c6d-91e0-5ac6988bbb98.amp.html",
+        "https://komu.com/news/midmissourinews/grand-jury-indicts-teen-accused-of-opening-fire-at-columbia-dicks-sporting-goods/article_6b0b3351-2a28-4c6d-91e0-5ac6988bbb98.amp.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jacob Richey",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Darius Lamb",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Boone County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "KOMU",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Columbia Dick ' s Sporting Goods",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Columbia"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:29:16.181+03:00",
+    "updated": "2026-07-02T07:38:55.000+03:00"
+}

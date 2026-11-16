@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "7968d96ae2ab7797515b282fb56459690ac75b0a",
+        "url": "https://www.newsbreak.com/news/4908326184153-florida-high-school-student-arrested-for-threatening-school-shooting-on-roblox",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sitemap-news-34.xml",
+        "site_categories": [
+            "sport",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "crime, law and justice",
+            "under_construction",
+            "politics",
+            "human interest",
+            "lifestyle and leisure"
+        ],
+        "section_title": "",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Florida high school student arrested for threatening school shooting on Roblox - NewsBreak",
+        "title_full": "Florida high school student arrested for threatening school shooting on Roblox - NewsBreak",
+        "published": "2026-09-25T20:19:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3C6JXY_1FVkBNG000",
+        "performance_score": 0,
+        "domain_rank": 3126,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-09-27T12:49:02.940+03:00"
+        }
+    },
+    "uuid": "7968d96ae2ab7797515b282fb56459690ac75b0a",
+    "url": "https://www.newsbreak.com/news/4908326184153-florida-high-school-student-arrested-for-threatening-school-shooting-on-roblox",
+    "ord_in_thread": 0,
+    "author": "centraloregondaily.com",
+    "published": "2026-09-25T20:19:00.000+03:00",
+    "title": "Florida high school student arrested for threatening school shooting on Roblox - NewsBreak",
+    "text": "1 days ago A Florida high school student, 14, has been arrested after the FBI received a tip alleging a Roblox user was planning a mass shooting at his school. The teen was charged with written or electronic threats to kill, do bodily injury or conduct a mass shooting or an act of terrorism. Read full article\n11",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Education",
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->assault",
+        "Education->school",
+        "Education->teachers",
+        "Education->students",
+        "War, Conflict and Unrest->act of terror",
+        "War, Conflict and Unrest->civil unrest"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.centraloregondaily.com/news/nation-world/florida-high-school-student-arrested-for-threatening-school-shooting-on-roblox/video_193d7b93-1a0e-5690-b3c5-1c315236f1e8.html",
+        "https://centraloregondaily.com/news/nation-world/florida-high-school-student-arrested-for-threatening-school-shooting-on-roblox/video_193d7b93-1a0e-5690-b3c5-1c315236f1e8.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Florida",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Roblox",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "RBLX",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "FBI",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-27T12:49:02.940+03:00",
+    "updated": "2026-09-27T12:58:06.000+03:00",
+    "related_articles": null
+}

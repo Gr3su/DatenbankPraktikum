@@ -1,0 +1,125 @@
+{
+    "thread": {
+        "uuid": "f1fe986c113f67c6a5eaacfd585ff6250cea3599",
+        "url": "https://www.newsbreak.com/news/4226658672549-1-dead-after-car-rolls-down-hill-hitting-trees-near-galena",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/bellevue-ia",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Bellevue, IA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "1 dead after car rolls down hill, hitting trees near Galena - NewsBreak",
+        "title_full": "1 dead after car rolls down hill, hitting trees near Galena - NewsBreak",
+        "published": "2025-09-11T06:27:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0uVXNt_14bsqqxC00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f1fe986c113f67c6a5eaacfd585ff6250cea3599",
+    "url": "https://www.newsbreak.com/news/4226658672549-1-dead-after-car-rolls-down-hill-hitting-trees-near-galena",
+    "ord_in_thread": 0,
+    "author": "KWQC Staff",
+    "published": "2025-09-11T06:27:00.000+03:00",
+    "title": "1 dead after car rolls down hill, hitting trees near Galena - NewsBreak",
+    "text": "KWQC\nwebsite\nGalena\n1 dead after car rolls down hill, hitting trees near Galena\nBy KWQC Staff,\n57 minutes agoGALENA, Ill. (KWQC) - A passenger died after a car that wasn’t in park rolled down a hill, hitting several trees. Jo Daviess County Sheriff’s deputies said 82-year-old Beverly Van Dyke-Klaersch was driving an SUV with 77-year-old William Klaersch as her passenger on West Longhollow Road in rural Galena Tuesday.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Human Interest",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident",
+        "Human Interest->human mishap",
+        "Crime, Law and Justice->reckless driving"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Beverly Van Dyke-Klaersch",
+                "sentiment": "none"
+            },
+            {
+                "name": "William Klaersch",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "West Longhollow Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "KWQC",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "f1fe986c113f67c6a5eaacfd585ff6250cea3599",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Bellevue"
+            ],
+            "state": [
+                "Iowa"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-11T07:24:53.579+03:00",
+    "updated": "2025-09-11T07:29:48.000+03:00"
+}

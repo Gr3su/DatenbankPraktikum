@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "5e68529666f6223126a555cd10e909ec54dd3683",
+        "url": "https://www.newsbreak.com/news/4759182271558-kansas-city-man-builds-golf-course-on-childhood-land-to-teach-kids-life-lessons",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/kansas-city-mo-sports",
+        "site_categories": [
+            "under_construction",
+            "human interest",
+            "politics",
+            "lifestyle and leisure",
+            "social issue",
+            "arts, culture and entertainment",
+            "disaster and accident",
+            "sport",
+            "crime, law and justice",
+            "economy, business and finance"
+        ],
+        "section_title": "Kansas City, MO Sports and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Kansas City man builds golf course on childhood land to teach kids life lessons - NewsBreak",
+        "title_full": "Kansas City man builds golf course on childhood land to teach kids life lessons - NewsBreak",
+        "published": "2026-07-08T23:54:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2t5GNP_1D7SVro100",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5e68529666f6223126a555cd10e909ec54dd3683",
+    "url": "https://www.newsbreak.com/news/4759182271558-kansas-city-man-builds-golf-course-on-childhood-land-to-teach-kids-life-lessons",
+    "ord_in_thread": 0,
+    "author": "KCTV 5",
+    "published": "2026-07-08T23:54:00.000+03:00",
+    "title": "Kansas City man builds golf course on childhood land to teach kids life lessons - NewsBreak",
+    "text": "7 hours ago Chris Harris built Harris Park Golf Course at E 40th Street and Wayne Avenue in the Ivanhoe neighborhood of Kansas City. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->golf"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kctv5.com/video/2026/07/08/kansas-city-man-builds-golf-course-childhood-land-teach-kids-life-lessons/?outputType=amp",
+        "https://kctv5.com/video/2026/07/08/kansas-city-man-builds-golf-course-childhood-land-teach-kids-life-lessons/?outputType=amp",
+        "https://www.kctv5.com/video/2026/07/08/kansas-city-man-builds-golf-course-childhood-land-teach-kids-life-lessons/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Chris Harris",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kansas City",
+                "sentiment": "none"
+            },
+            {
+                "name": "Harris Park Golf Course",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wayne Avenue",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:22:19.012+03:00",
+    "updated": "2026-07-09T07:27:32.000+03:00"
+}

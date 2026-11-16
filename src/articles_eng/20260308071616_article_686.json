@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "41260f6fb39b08fe71e331e33cb2c93cba2bbec9",
+        "url": "https://www.newsbreak.com/news/4523322867472-salem-panel-torches-hillsboro-s-1-700-acre-industrial-land-grab",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/salem-or",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Salem, OR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Salem Panel Torches Hillsboro's 1,700-Acre Industrial Land Grab - NewsBreak",
+        "title_full": "Salem Panel Torches Hillsboro's 1,700-Acre Industrial Land Grab - NewsBreak",
+        "published": "2026-03-04T20:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2UQfkA_19Lo7ZxA00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "41260f6fb39b08fe71e331e33cb2c93cba2bbec9",
+    "url": "https://www.newsbreak.com/news/4523322867472-salem-panel-torches-hillsboro-s-1-700-acre-industrial-land-grab",
+    "ord_in_thread": 0,
+    "author": "Clara Robinson",
+    "published": "2026-03-04T20:39:00.000+02:00",
+    "title": "Salem Panel Torches Hillsboro's 1,700-Acre Industrial Land Grab - NewsBreak",
+    "text": "By Clara Robinson ,\n10 hours ago A high-stakes push to add roughly 1,700 acres north of Hillsboro to the city’s industrial roster hit a wall on Wednesday, when a key Senate committee declined to move the plan forward. Supporters pitched it as a quick way to bank large, build-ready sites for semiconductor and biotech projects. Opponents saw something very different: a fast track to crack Oregon’s long-guarded urban growth boundary and pave over prime farmland. Read full article\nRead in NewsBreak 4",
+    "summary": "10 hours ago A high-stakes push to add roughly 1,700 acres north of Hillsboro to the city’s industrial roster hit a wall on Wednesday, when a key Senate committee declined to move the plan forward. Supporters pitched it as a quick way to bank large, build-ready sites for semiconductor and biotech projects. Opponents saw something very different: a fast track to crack Oregon’s long-guarded urban growth boundary and pave over prime farmland. Read full article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "topics": [
+        "Economy, Business and Finance->construction and property",
+        "Politics->local government and authority"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Clara Robinson",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Hillsboro",
+                "sentiment": "none"
+            },
+            {
+                "name": "Oregon",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Senate",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Salem"
+            ],
+            "state": [
+                "Oregon"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-05T07:29:37.928+02:00",
+    "updated": "2026-03-05T07:31:33.000+02:00"
+}

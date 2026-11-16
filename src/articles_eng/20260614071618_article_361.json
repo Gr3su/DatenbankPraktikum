@@ -1,0 +1,148 @@
+{
+    "thread": {
+        "uuid": "12736ab42c8e08c677fecd8a8ac7f898b7830541",
+        "url": "https://www.newsbreak.com/news/4703071477408-jasper-police-turn-up-investigation-after-a-local-man-dies-following-a-recent-fight-or-altercation",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/newton-tx",
+        "site_categories": [
+            "under_construction",
+            "lifestyle and leisure",
+            "human interest",
+            "disaster and accident",
+            "sport",
+            "politics",
+            "crime, law and justice",
+            "economy, business and finance",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Newton, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Jasper Police turn up investigation after a local man dies following a recent fight or altercation - NewsBreak",
+        "title_full": "Jasper Police turn up investigation after a local man dies following a recent fight or altercation - NewsBreak",
+        "published": "2026-06-10T19:17:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/36HCoi_1CDvasTq00",
+        "performance_score": 0,
+        "domain_rank": 2951,
+        "domain_rank_updated": "2026-06-08T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "12736ab42c8e08c677fecd8a8ac7f898b7830541",
+    "url": "https://www.newsbreak.com/news/4703071477408-jasper-police-turn-up-investigation-after-a-local-man-dies-following-a-recent-fight-or-altercation",
+    "ord_in_thread": 0,
+    "author": "Mike Lout",
+    "published": "2026-06-10T19:17:00.000+03:00",
+    "title": "Jasper Police turn up investigation after a local man dies following a recent fight or altercation - NewsBreak",
+    "text": "By Mike Lout ,\n12 hours ago Investigators with the Jasper Police Department have apparently stepped up their investigation into a recent fight or altercation at a local apartment following the death of one of the individuals allegedly involved. Police learned on Tuesday that Tommy Grant, 58, of Jasper died while undergoing treatment at St. Luke's Hospital... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue"
+    ],
+    "topics": [
+        "Social Issue->death and dying",
+        "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kjas.com/news/local_news/article_ad64c93a-fbc9-4c57-a526-25f25d2a784c.html",
+        "https://kjas.com/news/local_news/article_ad64c93a-fbc9-4c57-a526-25f25d2a784c.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mike Lout",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Tommy Grant",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Jasper",
+                "sentiment": "none"
+            },
+            {
+                "name": "St. Luke ' s Hospital",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Jasper Police Department",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Newton"
+            ],
+            "state": [
+                "Texas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-11T07:30:13.719+03:00",
+    "updated": "2026-06-11T14:01:01.000+03:00"
+}

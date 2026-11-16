@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "1c2aa3979a6decfb870eb9b0a517419d3004088e",
+        "url": "https://www.newsbreak.com/news/4649243472108-w-va-gov-morrisey-announces-new-manufacturing-facility",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/gallipolis-oh",
+        "site_categories": [
+            "politics",
+            "under_construction",
+            "lifestyle and leisure",
+            "human interest",
+            "sport",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "crime, law and justice"
+        ],
+        "section_title": "Gallipolis, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "W.Va. Gov. Morrisey announces new manufacturing facility - NewsBreak",
+        "title_full": "W.Va. Gov. Morrisey announces new manufacturing facility - NewsBreak",
+        "published": "2026-05-14T00:13:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/26groq_1BMgaJpI00",
+        "performance_score": 0,
+        "domain_rank": 2965,
+        "domain_rank_updated": "2026-05-11T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1c2aa3979a6decfb870eb9b0a517419d3004088e",
+    "url": "https://www.newsbreak.com/news/4649243472108-w-va-gov-morrisey-announces-new-manufacturing-facility",
+    "ord_in_thread": 0,
+    "author": "Grace Koennecke",
+    "published": "2026-05-14T00:13:00.000+03:00",
+    "title": "W.Va. Gov. Morrisey announces new manufacturing facility - NewsBreak",
+    "text": "By Grace Koennecke ,\n7 hours ago PUTNAM COUNTY, W.Va. (WSAZ) - West Virginia Governor Patrick Morrisey announced a $25 million, 100,000 square foot manufacturing facility will be built in the state. The governor says the facility will be in Putnam County. The governor’s office says it’s part of a $25 million investment from global engineering group... Read full article\nRead in NewsBreak 2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->manufacturing and engineering",
+        "Economy, Business and Finance->business and market analysis"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Grace Koennecke",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Patrick Morris",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "West Virginia",
+                "sentiment": "none"
+            },
+            {
+                "name": "W. Va",
+                "sentiment": "none"
+            },
+            {
+                "name": "Putnam County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Gallipolis",
+                "Bidwell"
+            ],
+            "state": [
+                "Ohio"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-14T07:24:47.755+03:00",
+    "updated": "2026-05-14T07:27:20.000+03:00"
+}

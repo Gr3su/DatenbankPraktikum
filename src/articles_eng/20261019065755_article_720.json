@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "728d000f3efdb22272b6bac54ae1a43c7d747d9a",
+        "url": "https://www.newsbreak.com/news/4948737226290-1-dead-after-being-hit-by-vehicle-in-west-columbus",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/columbus-oh",
+        "site_categories": [
+            "under_construction",
+            "sport",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "politics",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Columbus, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "1 dead after being hit by vehicle in west Columbus - NewsBreak",
+        "title_full": "1 dead after being hit by vehicle in west Columbus - NewsBreak",
+        "published": "2026-10-16T05:08:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3QEOOu_1G9SU9jI00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:22:20.144+03:00"
+        }
+    },
+    "uuid": "728d000f3efdb22272b6bac54ae1a43c7d747d9a",
+    "url": "https://www.newsbreak.com/news/4948737226290-1-dead-after-being-hit-by-vehicle-in-west-columbus",
+    "ord_in_thread": 0,
+    "author": "WBNS 10TV Columbus",
+    "published": "2026-10-16T05:08:00.000+03:00",
+    "title": "1 dead after being hit by vehicle in west Columbus - NewsBreak",
+    "text": "2 hours ago COLUMBUS, Ohio — One person is dead after they were hit by a vehicle Thursday night in west Columbus, according to public safety dispatchers for the city. Officers with the Columbus Division of Police were called around 9:25 p.m. to the area of Sullivant Avenue and Binns Boulevard in the Hilltop neighborhood on a report of a pedestrian struck. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.10tv.com/article/news/local/pedestrian-struck-west-columbus-sullivant-avenue-binns-boulevard/530-3f1d1a2f-6f58-4a5d-8f9d-f7f2bf961cc6",
+        "https://10tv.com/article/news/local/pedestrian-struck-west-columbus-sullivant-avenue-binns-boulevard/530-3f1d1a2f-6f58-4a5d-8f9d-f7f2bf961cc6"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Columbus",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ohio",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sullivant Avenue",
+                "sentiment": "none"
+            },
+            {
+                "name": "Binns Boulevard",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hilltop",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Columbus Division of Police",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:22:20.144+03:00",
+    "updated": "2026-10-16T07:23:53.000+03:00",
+    "related_articles": null
+}

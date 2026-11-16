@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "619d42faf61cfbe9b3475248fceb4090cbe24f37",
+        "url": "https://www.newsbreak.com/mlive-513121/4606511682000-mymichigan-medical-centers-earn-national-honors-for-nursing-residency-programs",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/gladwin-mi",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "under_construction",
+            "human interest",
+            "sport",
+            "economy, business and finance",
+            "politics",
+            "crime, law and justice"
+        ],
+        "section_title": "Gladwin, MI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "MyMichigan Medical Centers earn national honors for nursing residency programs - NewsBreak",
+        "title_full": "MyMichigan Medical Centers earn national honors for nursing residency programs - NewsBreak",
+        "published": "2026-04-22T16:52:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4WkR0c_1AgcyHnd00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "619d42faf61cfbe9b3475248fceb4090cbe24f37",
+    "url": "https://www.newsbreak.com/mlive-513121/4606511682000-mymichigan-medical-centers-earn-national-honors-for-nursing-residency-programs",
+    "ord_in_thread": 0,
+    "author": "Advance Local Express Desk",
+    "published": "2026-04-22T16:52:00.000+03:00",
+    "title": "MyMichigan Medical Centers earn national honors for nursing residency programs - NewsBreak",
+    "text": "By Advance Local Express Desk ,\n14 hours ago MIDLAND, MI -- Four MyMichigan medical centers have earned their third consecutive accreditation from the American Nurses Credentialing Center for programs that support nurses transitioning into new practice settings. The medical centers in Alma, Clare, Midland and Mt. Pleasant received the Practice Transition Accreditation Program designation, which recognizes nursing residency... Read full article\nRead in NewsBreak 5",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->hospital",
+        "Health->health facility"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Midland",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alma",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mt. Pleasant",
+                "sentiment": "none"
+            },
+            {
+                "name": "Clare",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "MyMichigan Medical Centers",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "American Nurses Credentialing Center",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Gladwin"
+            ],
+            "state": [
+                "Michigan"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-23T07:18:31.981+03:00",
+    "updated": "2026-04-23T07:21:13.000+03:00"
+}

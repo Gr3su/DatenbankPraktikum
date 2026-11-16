@@ -1,0 +1,119 @@
+{
+    "thread": {
+        "uuid": "d2142040ad97fce747abc2b81a6a889cd76ca5f2",
+        "url": "https://www.newsbreak.com/news/4729237585010-multi-agency-search-for-2-swimmers-in-waters-off-hanauma-bay",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/honolulu-hi",
+        "site_categories": [
+            "under_construction",
+            "crime, law and justice",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "sport",
+            "social issue",
+            "disaster and accident",
+            "human interest",
+            "lifestyle and leisure",
+            "politics"
+        ],
+        "section_title": "Honolulu, HI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Multi-agency search for 2 swimmers in waters off Hanauma Bay - NewsBreak",
+        "title_full": "Multi-agency search for 2 swimmers in waters off Hanauma Bay - NewsBreak",
+        "published": "2026-06-24T11:48:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/23P9SC_1CeHcdB800",
+        "performance_score": 0,
+        "domain_rank": 3030,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d2142040ad97fce747abc2b81a6a889cd76ca5f2",
+    "url": "https://www.newsbreak.com/news/4729237585010-multi-agency-search-for-2-swimmers-in-waters-off-hanauma-bay",
+    "ord_in_thread": 0,
+    "author": "KITV.com",
+    "published": "2026-06-24T11:48:00.000+03:00",
+    "title": "Multi-agency search for 2 swimmers in waters off Hanauma Bay - NewsBreak",
+    "text": "19 hours ago A multi-agency search began for two swimmers, a father and a son, off Hanauma Bay in Hawaii Kai on Tuesday morning. The search will resume at first light in the morning. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->drowning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kitv.com/video/news/multi-agency-search-for-2-swimmers-in-waters-off-hanauma-bay/video_504bee6b-e249-56d4-9885-b306f34f0a5c.html",
+        "https://kitv.com/video/news/multi-agency-search-for-2-swimmers-in-waters-off-hanauma-bay/video_504bee6b-e249-56d4-9885-b306f34f0a5c.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Hanauma Bay",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:32:37.362+03:00",
+    "updated": "2026-06-25T07:38:42.000+03:00"
+}

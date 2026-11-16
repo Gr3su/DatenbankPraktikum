@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "a9d27adddf172e0c8187ba44058cb4d617ea2d88",
+        "url": "https://www.newsbreak.com/news/4730666122279-flyers-request-money-for-fairview-park-murder-victim",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/bay-village-oh",
+        "site_categories": [
+            "disaster and accident",
+            "human interest",
+            "social issue",
+            "politics",
+            "economy, business and finance",
+            "sport",
+            "under_construction",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Bay Village, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Flyers request money for Fairview Park murder victim - NewsBreak",
+        "title_full": "Flyers request money for Fairview Park murder victim - NewsBreak",
+        "published": "2026-06-25T01:49:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/28QdBO_1CfjIhut00",
+        "performance_score": 0,
+        "domain_rank": 3030,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a9d27adddf172e0c8187ba44058cb4d617ea2d88",
+    "url": "https://www.newsbreak.com/news/4730666122279-flyers-request-money-for-fairview-park-murder-victim",
+    "ord_in_thread": 0,
+    "author": "Fox 19",
+    "published": "2026-06-25T01:49:00.000+03:00",
+    "title": "Flyers request money for Fairview Park murder victim - NewsBreak",
+    "text": "5 hours ago Relatives say scam posts are asking for money they did not request as police investigate weekend murder. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->police",
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox19.com/video/2026/06/24/flyers-request-money-fairview-park-murder-victim/?outputType=amp",
+        "https://fox19.com/video/2026/06/24/flyers-request-money-fairview-park-murder-victim/?outputType=amp",
+        "https://www.fox19.com/video/2026/06/24/flyers-request-money-fairview-park-murder-victim/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Fairview Park",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Bay Village"
+            ],
+            "state": [
+                "Ohio"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:48:15.329+03:00",
+    "updated": "2026-06-25T07:49:29.000+03:00"
+}

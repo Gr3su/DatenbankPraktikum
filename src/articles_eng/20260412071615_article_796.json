@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "2fa22457ef0144e9204dcdf27315a53b3d1502f5",
+        "url": "https://www.newsbreak.com/news/4582639088673-fox5-investigates-scam-of-the-week-phishing-scam-targets-homeowners-with-fake-permit-invoices",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/las-vegas-nv",
+        "site_categories": [
+            "sport",
+            "politics",
+            "human interest",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "under_construction",
+            "economy, business and finance"
+        ],
+        "section_title": "Las Vegas, NV Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "FOX5 Investigates Scam of the Week: Phishing scam targets homeowners with fake permit invoices - NewsBreak",
+        "title_full": "FOX5 Investigates Scam of the Week: Phishing scam targets homeowners with fake permit invoices - NewsBreak",
+        "published": "2026-04-09T03:36:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3Gzu0d_1AIZWs2p00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2fa22457ef0144e9204dcdf27315a53b3d1502f5",
+    "url": "https://www.newsbreak.com/news/4582639088673-fox5-investigates-scam-of-the-week-phishing-scam-targets-homeowners-with-fake-permit-invoices",
+    "ord_in_thread": 0,
+    "author": "Lisa Sturgis",
+    "published": "2026-04-09T03:36:00.000+03:00",
+    "title": "FOX5 Investigates Scam of the Week: Phishing scam targets homeowners with fake permit invoices - NewsBreak",
+    "text": "By Lisa Sturgis ,\n4 hours ago LAS VEGAS (FOX5) — A phishing scam is targeting do-it-yourselfers whose home improvement projects require permits. The scam starts with an email or text that demands immediate fee payment and threatens delays. The message will appear official. It may even contain your home address and a case number, and it will instruct you to pay with a wire transfer, cryptocurrency, or with peer-to-peer money transfer apps like Venmo or Zelle. Read full article\nRead in NewsBreak 1",
+    "summary": "4 hours ago LAS VEGAS (FOX5) — A phishing scam is targeting do-it-yourselfers whose home improvement projects require permits. The scam starts with an email or text that demands immediate fee payment and threatens delays. The message will appear official. It may even contain your home address and a case number, and it will instruct you to pay with a wire transfer, cryptocurrency, or with peer-to-peer money transfer apps like Venmo or Zelle. Read full article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Crime, Law and Justice->fraud",
+        "Crime, Law and Justice->cyber crime",
+        "Economy, Business and Finance->business service",
+        "Economy, Business and Finance->customer insights and reviews"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lisa Sturgis",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Zelle",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Venmo",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "2fa22457ef0144e9204dcdf27315a53b3d1502f5",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:44:50.381+03:00",
+    "updated": "2026-04-09T07:50:59.000+03:00"
+}

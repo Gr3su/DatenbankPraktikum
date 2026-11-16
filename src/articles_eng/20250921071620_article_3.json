@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "c23d6a46fa6e47b806a8cc8d25beafedc7c3f13e",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-announces-workshop-noncompete-agreements",
+        "site_full": "www.ftc.gov",
+        "site": "ftc.gov",
+        "site_section": "https://ftc.gov/feeds/press-release.xml",
+        "site_categories": [
+            "law_government_and_politics",
+            "legal_issues",
+            "us_government_resources"
+        ],
+        "section_title": "Press Release Feed",
+        "site_title": "Federal Trade Commission | Protecting America&#039;s Consumers",
+        "title": "FTC Announces Workshop on Noncompete Agreements",
+        "title_full": "FTC Announces Workshop on Noncompete Agreements",
+        "published": "2025-09-17T15:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg",
+        "performance_score": 0,
+        "domain_rank": 1854,
+        "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c23d6a46fa6e47b806a8cc8d25beafedc7c3f13e",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-announces-workshop-noncompete-agreements",
+    "ord_in_thread": 0,
+    "author": "bjames@ftc.gov",
+    "published": "2025-09-17T15:00:00.000+03:00",
+    "title": "FTC Announces Workshop on Noncompete Agreements",
+    "text": "Today the Federal Trade Commission announced it will host a workshop, titled “Moving Forward: Protecting Workers from Anticompetitive Noncompete Agreements.” The event will be held on October 8, 2025 from 2:00pm to 6:00pm, at the FTC’s Constitution Center. The event is open to the public, in-person or via livestream.\nA noncompete agreement is a contractual term between an employer and a worker that typically blocks the worker from taking a job with a competing employer or starting a competing business after the end of the worker’s employment. In practice, noncompete agreements are often subject to abuse.\nThe workshop is part of the Trump-Vance FTC’s efforts to highlight the negative impact of noncompete agreements on American workers and put business on notice of its enforcement priorities.\nThe workshop will be hosted by the FTC’s Labor Task Force, which was created by Chairman Andrew N. Ferguson to prioritize rooting out and prosecuting deceptive, unfair, and anticompetitive labor-market practices that harm American workers. It follows a recent FTC enforcement action eliminating restrictive and anticompetitive noncompete agreements; a series of letters sent to healthcare companies warning them to review and eliminate any anticompetitive noncompete agreements they may have; and a broad request for information seeking tips to lead to further enforcement actions.\nThe workshop will include public statements from FTC Commissioners, victims of unfair and anticompetitive noncompete agreements, and leading experts in the field. A full agenda and list of speakers will be available prior to the event. A livestream link will be posted to FTC.gov on the morning of the event.\nThe Federal Trade Commission works to promote competition, and to protect and educate consumers. The FTC will never demand money, make threats, tell you to transfer money, or promise you a prize. You can learn more about how competition benefits consumers, file an antitrust complaint, or comment on a proposed merger. For the latest news and resources, follow the FTC on social media, subscribe to press releases, and read our blog.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->human resources",
+        "Politics->civil rights",
+        "Politics->government policy",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Andrew N. Ferguson",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "FTC",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Federal Trade Commission",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": "gov_news",
+            "city": [
+                "Washington"
+            ],
+            "state": [
+                "DC"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": "Federal - Executive",
+            "agency": "Federal Trade Commission",
+            "organization_name": "Office of Public Affairs (OPA)"
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-18T07:16:18.872+03:00",
+    "updated": "2025-09-18T07:22:59.000+03:00"
+}

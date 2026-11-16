@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "0ad7d1c00438a62f63414be2ca777609dc24d4a8",
+        "url": "https://www.sciencedaily.com/releases/2025/07/250707073347.htm",
+        "site_full": "www.sciencedaily.com",
+        "site": "sciencedaily.com",
+        "site_section": "https://www.socialpsychology.org/headlines.rss",
+        "site_categories": [
+            "science"
+        ],
+        "section_title": "Psychology Headlines Around the World",
+        "site_title": "ScienceDaily: Your source for the latest research news",
+        "title": "Four Early-Warning Patterns Predict Alzheimer's Risk",
+        "title_full": "Four Early-Warning Patterns Predict Alzheimer's Risk",
+        "published": "2025-07-09T17:41:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.sciencedaily.com/images/1920/female-doctor-male-dementia-patient.webp",
+        "performance_score": 0,
+        "domain_rank": 375,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0ad7d1c00438a62f63414be2ca777609dc24d4a8",
+    "url": "https://www.sciencedaily.com/releases/2025/07/250707073347.htm",
+    "ord_in_thread": 0,
+    "author": "Science Daily - Top Health",
+    "published": "2025-07-09T17:41:00.000+03:00",
+    "title": "Four Early-Warning Patterns Predict Alzheimer's Risk",
+    "text": "Alzheimer’s doesn’t strike at random: These 4 early-warning patterns tell the story\nUCLA Health researchers identify sequential diagnostic patterns that could improve early detection and prevention strategies.\n- Date:\n- July 7, 2025\n- Source:\n- University of California - Los Angeles Health Sciences\n- Summary:\n- UCLA scientists mined millions of electronic health records and uncovered four distinct “roadways” that funnel people toward Alzheimer’s—ranging from mental-health struggles to vascular troubles. Following these breadcrumb trails proved far better at predicting who will develop dementia than single risk factors. The findings hint that spotting—and halting—specific sequences early could rewrite how we prevent the disease.\n- Share:\nAlzheimer’s Doesn’t Strike at Random\nUCLA Health researchers have identified four distinct pathways that lead to Alzheimer's disease by analyzing electronic health records, offering new insights into how the condition develops over time rather than from isolated risk factors.\nThe study, published in the journal eBioMedicine, examined longitudinal health data from nearly 25,000 patients in the University of California Health Data Warehouse and validated findings in the nationally diverse All of Us Research Program. Unlike previous research that focused on individual risk factors, the UCLA analysis mapped sequential diagnostic patterns that revealed how conditions progress step-by-step toward Alzheimer's disease.\n\"We found that multi-step trajectories can indicate greater risk factors for Alzheimer's disease than single conditions,\" said first author Mingzhou Fu, a medical informatics pre-doctoral student at UCLA. \"Understanding these pathways could fundamentally change how we approach early detection and prevention.\"\nThe research identified four major trajectory clusters:\n- Mental health pathway: Psychiatric conditions leading to cognitive decline\n- Encephalopathy pathway: Brain dysfunction conditions that escalate over time\n- Mild cognitive impairment pathway: Gradual cognitive decline progression\n- Vascular disease pathway: Cardiovascular conditions that contribute to dementia risk\nEach pathway showed distinct demographic and clinical characteristics, suggesting that different populations may be vulnerable to different progression routes.\nThe study found that approximately 26% of diagnostic progressions showed consistent directional ordering. For example, hypertension often preceded depressive episodes, which then increased Alzheimer's risk.\n\"Recognizing these sequential patterns rather than focusing on diagnoses in isolation may help clinicians improve Alzheimer's disease diagnosis,\" said lead author Dr. Timothy Chang, assistant professor in Neurology at UCLA Health.\nWhen validated in an independent population, these multi-step trajectories predicted Alzheimer's disease risk more accurately than single diagnoses alone. This finding suggests that healthcare providers could use trajectory patterns for:\n- Enhanced risk stratification: Identifying high-risk patients earlier in disease progression\n- Targeted interventions: Interrupting harmful sequences before they advance\n- Personalized prevention: Tailoring strategies based on individual pathway patterns\nThe validation in the All of Us Research Program -- a diverse, nationally representative cohort -- confirmed that these trajectory patterns apply across different populations and demographics.\nThe team analyzed 5,762 patients who contributed 6,794 unique Alzheimer's progression trajectories. Using advanced computational methods including dynamic time warping, machine learning clustering, and network analysis, researchers mapped the temporal relationships between diagnoses leading to Alzheimer's disease.\nMF, SS, BP, KV, and TSC were supported by the National Institutes of Health (NIH) National Institute on Aging (NIA) grant R01AG085518-01A1. Additionally, MF and TSC received support from NIH/NIA grant K08AG065519-01A1, while TSC and KV were supported by NIH/NIA grant UH2AG083254. KV received further support from several NIH grants, including R01AG081768A, R01NS033310, R01AG075955, R01AG058820, R01AG068317, U01NS100608, and U24AG056270. TSC and KV were also supported by the California Department of Public Health (CDPH), Chronic Disease Control Branch, Alzheimer's Disease Program under Contracts #22-10079 and #23-10648, with TSC receiving additional support from CDPH under Contract #24-10127. TSC was also supported by the NIH National Institute of Neurological Disorders and Stroke (NINDS) grant U54NS123746. SS received funding from the National Science Foundation (NSF) through CAREER award 1943497 and grant R35GM153406. BP was supported by NIH grants R01HG009120, R01MH115676, and R01HG006399. The authors also acknowledge support from the National Center for Advancing Translational Sciences (NCATS) of the NIH under the UCLA Clinical and Translational Science Institute grant UL1TR001881, as well as analytical and technical support from the UC Health Center for Data-driven Insights and Innovation (CDI2).\nStory Source:\nMaterials provided by University of California - Los Angeles Health Sciences. Note: Content may be edited for style and length.\nJournal Reference:\n- Mingzhou Fu, Sriram Sankararaman, Bogdan Pasaniuc, Keith Vossel, Timothy S. Chang. Identifying common disease trajectories of Alzheimer&#8217;s disease with electronic health records. eBioMedicine, 2025; 118: 105831 DOI:\n10.1016/j.ebiom.2025.105831\nCite This Page:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "http://dx.doi.org/10.1016/j.ebiom.2025.105831",
+        "http://www.dx.doi.org/10.1016/j.ebiom.2025.105831"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-10T07:17:37.187+03:00",
+    "updated": "2025-07-10T07:17:37.187+03:00"
+}

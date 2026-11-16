@@ -1,0 +1,112 @@
+{
+    "thread": {
+        "uuid": "872c1744adfd56d8e993644b2246fab8bba0fa7c",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4074378917453-severe-thunderstorm-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "published": "2025-06-26T03:05:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/423Kfr_12AR6JiQ00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "872c1744adfd56d8e993644b2246fab8bba0fa7c",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4074378917453-severe-thunderstorm-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-06-26T03:05:00.000+03:00",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here SVRCHS The National Weather Service in Charleston has issued a * Severe Thunderstorm Warning for portions of... Bryan County in southeastern Georgia... Bulloch County in southeastern Georgia... Candler County in southeastern Georgia... Evans County in southeastern Georgia... Liberty County in southeastern Georgia... Long County in southeastern Georgia... Tattnall County in southeastern Georgia... * Until 100 AM EDT. * At 1205 AM EDT, severe thunderstorms were located along a line from near Bay to near Metter, moving south at 30 mph. HAZARD...60 mph wind gusts. SOURCE...Emergency management reported. This line of storms has a history of producing wind damage. IMPACT...Expect damage to roofs, siding, and trees. * Locations impacted include... Hinesville, Reidsville, Glennville, Claxton, Pembroke, Fort Stewart, Lanier, Walthourville, Hagan and Flemington. This includes I-16 between mile markers 96 and 101...and near mile marker 116...and between mile markers 125 and 135...and between mile markers 142 and 146.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Social Issue->social problem",
+        "Social Issue->social condition",
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.e5c8e1a8b5c28c4ab3c193f2680e55caac12bd24.001.1",
+        "https://alerts.weather.gov/search",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.e5c8e1a8b5c28c4ab3c193f2680e55caac12bd24.001.1"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hagan",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Flemington",
+                "sentiment": "none"
+            },
+            {
+                "name": "Glennville",
+                "sentiment": "none"
+            },
+            {
+                "name": "Metter",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-26T07:25:53.518+03:00",
+    "updated": "2025-06-26T04:30:40.000+00:00"
+}

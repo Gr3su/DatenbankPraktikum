@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "37d5dd75d457029f0b7ea6f2dccd2bbef1540de2",
+        "url": "https://www.newsbreak.com/news/4745065946547-storm-damage-reported-in-parts-of-central-new-york-wednesday",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/utica-ny",
+        "site_categories": [
+            "lifestyle and leisure",
+            "under_construction",
+            "social issue",
+            "politics",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "human interest",
+            "crime, law and justice",
+            "disaster and accident",
+            "sport"
+        ],
+        "section_title": "Utica, NY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Storm damage reported in parts of Central New York Wednesday - NewsBreak",
+        "title_full": "Storm damage reported in parts of Central New York Wednesday - NewsBreak",
+        "published": "2026-07-02T05:46:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/17IlbB_1CuEPAY300",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "37d5dd75d457029f0b7ea6f2dccd2bbef1540de2",
+    "url": "https://www.newsbreak.com/news/4745065946547-storm-damage-reported-in-parts-of-central-new-york-wednesday",
+    "ord_in_thread": 0,
+    "author": "Meteorologist Josh Kozlowski",
+    "published": "2026-07-02T05:46:00.000+03:00",
+    "title": "Storm damage reported in parts of Central New York Wednesday - NewsBreak",
+    "text": "By Meteorologist Josh Kozlowski ,\n1 days ago SYRACUSE, N.Y. — After severe thunderstorms moved through parts of Central New York Wednesday, some damage was unfortunately left behind. Most of the reports were either west, north or east of Syracuse. Here are the latest reports our weather team has gathered so far from Wednesday:. If any additional... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://cnycentral.com/news/local/storm-damage-reported-in-parts-of-central-new-york-wednesday",
+        "https://www.cnycentral.com/news/local/storm-damage-reported-in-parts-of-central-new-york-wednesday"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Josh Kozlowski",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Syracuse",
+                "sentiment": "none"
+            },
+            {
+                "name": "N. Y",
+                "sentiment": "none"
+            },
+            {
+                "name": "Central New York",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:45:23.696+03:00",
+    "updated": "2026-07-03T05:59:51.412+03:00"
+}

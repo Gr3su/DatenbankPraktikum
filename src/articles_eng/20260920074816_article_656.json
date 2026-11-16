@@ -1,0 +1,148 @@
+{
+    "thread": {
+        "uuid": "aee9f43cc483bdf61ec7ab498e0f8f734fa33d36",
+        "url": "https://www.thenationalnews.com/news/mena/2026/09/17/live-iran-war-latest-trump/",
+        "site_full": "www.thenationalnews.com",
+        "site": "thenationalnews.com",
+        "site_section": "https://www.thenationalnews.com:443/news",
+        "site_categories": [
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "science and technology",
+            "politics",
+            "tech",
+            "marketing",
+            "business",
+            "war, conflict and unrest",
+            "sport",
+            "web_design_html"
+        ],
+        "section_title": "World news | The National",
+        "site_title": "The National - Latest world news, sport &amp; opinion",
+        "title": "Iran war latest: Trump says Iran war is 'towards the end'",
+        "title_full": "Iran war latest: Trump says Iran war is 'towards the end'",
+        "published": "2026-09-16T13:55:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AE",
+        "main_image": "https://www.thenationalnews.com/resizer/v2/AZMTQWYUW36JR3RSKFGLFIUOEQ.jpg?auth=c618280668bc745c1f527b4fca3da2c6009dfe5afbddbffada8460caa7749c86&amp;smart=true&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 7049,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aee9f43cc483bdf61ec7ab498e0f8f734fa33d36",
+    "url": "https://www.thenationalnews.com/news/mena/2026/09/17/live-iran-war-latest-trump/",
+    "ord_in_thread": 0,
+    "author": "The National",
+    "published": "2026-09-16T13:55:00.000+03:00",
+    "title": "Iran war latest: Trump says Iran war is 'towards the end'",
+    "text": "- US President to meet Gulf leaders in New York next week\n- UN chief calls for de-escalation and protection of civilians\n- Arab states condemn Houthi drone attack aimed at Makkah\n- Yemen fighting forces more than 125,000 civilians to flee\n- US faces mounting costs in race to replenish missiles and interceptors\nUpdated: September 17, 2026, 5:00 AM",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->armed conflict",
+        "Politics->international relations",
+        "Politics->diplomacy",
+        "Politics->political crisis"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "New York",
+                "sentiment": "none"
+            },
+            {
+                "name": "Iran",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gulf",
+                "sentiment": "none"
+            },
+            {
+                "name": "US",
+                "sentiment": "none"
+            },
+            {
+                "name": "Makkah",
+                "sentiment": "none"
+            },
+            {
+                "name": "Yemen",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "UN",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_ae",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:14:40.134+03:00",
+    "updated": "2026-09-17T08:28:00.000+03:00"
+}

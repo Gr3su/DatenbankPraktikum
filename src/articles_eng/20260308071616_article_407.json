@@ -1,0 +1,164 @@
+{
+    "thread": {
+        "uuid": "4102f60706da2d7b8ccc543f195b07b3d1fc7567",
+        "url": "https://www.newsbreak.com/the-spun-510012/4523868880535-american-airlines-does-not-hold-back-on-reckless-united-airlines",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/the-spun-510012",
+        "site_categories": [
+            "sport",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "under_construction",
+            "politics",
+            "human interest",
+            "arts, culture and entertainment",
+            "economy, business and finance"
+        ],
+        "section_title": "The Spun&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "American Airlines Does Not Hold Back on 'Reckless' United Airlines - NewsBreak",
+        "title_full": "American Airlines Does Not Hold Back on 'Reckless' United Airlines - NewsBreak",
+        "published": "2026-03-05T06:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1Lp4US_19MLnDNB00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4102f60706da2d7b8ccc543f195b07b3d1fc7567",
+    "url": "https://www.newsbreak.com/the-spun-510012/4523868880535-american-airlines-does-not-hold-back-on-reckless-united-airlines",
+    "ord_in_thread": 0,
+    "author": "Kevin Harrish",
+    "published": "2026-03-05T06:04:00.000+02:00",
+    "title": "American Airlines Does Not Hold Back on 'Reckless' United Airlines - NewsBreak",
+    "text": "By Kevin Harrish ,\n1 hours ago The Federal Aviation Administration (FAA) has announced plans to cap the total daily operations at Chicago's O'Hare International Airport, and American Airlines is blaming United for it. The decision from the FAA comes as American Airlines and United Airlines have been running up their schedules in ... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->corporate news and profiles",
+        "Economy, Business and Finance->transport"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kevin Harrish",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Chicago",
+                "sentiment": "none"
+            },
+            {
+                "name": "O ' Hare International Airport",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "United Airlines",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "UAL",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "American Airlines",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "AAL",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "FAA",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Federal Aviation Administration",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-05T07:22:19.814+02:00",
+    "updated": "2026-03-05T07:24:07.000+02:00"
+}

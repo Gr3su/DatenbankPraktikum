@@ -1,0 +1,163 @@
+{
+    "thread": {
+        "uuid": "70cb11555ff1bd57e3fb8b78b8230dd7fb1bc127",
+        "url": "https://www.globaltimes.cn/page/202608/1368107.shtml",
+        "site_full": "www.globaltimes.cn",
+        "site": "globaltimes.cn",
+        "site_section": "https://www.globaltimes.cn/world/index.html",
+        "site_categories": [
+            "science and technology",
+            "environment",
+            "war, conflict and unrest",
+            "politics",
+            "media",
+            "arts, culture and entertainment",
+            "economy, business and finance"
+        ],
+        "section_title": "WORLD",
+        "site_title": "Global Times",
+        "title": "UN humanitarian office reiterates support for Colombia earthquake response - Global Times",
+        "title_full": "UN humanitarian office reiterates support for Colombia earthquake response - Global Times",
+        "published": "2026-08-13T07:25:49.170+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-06-22/68f5b041-a6b2-4343-b13c-88cb745689d2.jpeg",
+        "performance_score": 0,
+        "domain_rank": 7231,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "70cb11555ff1bd57e3fb8b78b8230dd7fb1bc127",
+    "url": "https://www.globaltimes.cn/page/202608/1368107.shtml",
+    "ord_in_thread": 0,
+    "author": "Global Times",
+    "published": "2026-08-13T07:25:49.170+03:00",
+    "title": "UN humanitarian office reiterates support for Colombia earthquake response - Global Times",
+    "text": "A member of Colombian Red Cross organizes donated food and relief supplies following Monday's 7.4-magnitude earthquake in Bogota, Colombia, on Aug. 11, 2026. (Photo by Andres Moreno/Xinhua)\nThe UN Office for the Coordination of Humanitarian Affairs (OCHA) and its partners continue to support the government-led response to the devastating earthquake in Colombia, said the office on Wednesday.\nLatest reports indicate that more than 200 people have been killed and 2,500 others injured. Widespread damage to homes and public infrastructure has also been reported, OCHA said in its daily news update.\nHumanitarian assessments are ongoing, particularly in the hardest-hit areas, where disruptions to communications, transport and public services continue to hinder relief efforts. Emergency shelter, food assistance, access to safe drinking water and health care for affected communities are among the top priorities, the office said.\nThe United Nations and its partners are also mobilizing resources. The World Food Programme is sending food, while the World Health Organization is dispatching medical supplies from its warehouses in the country, OCHA said.\nFarhan Haq, deputy spokesperson for UN Secretary-General Antonio Guterres, said Wednesday that an allocation from the UN Central Emergency Response Fund is in the works.\nThe United Nations will launch an appeal for quake relief in Colombia once information is available about the extent of damage, said Haq, noting that the needs are expected to be very severe.",
+    "summary": "A member of Colombian Red Cross organizes donated food and relief supplies following Monday's 7.4-magnitude earthquake in Bogota, Colombia, on Aug. 11, 2026. Humanitarian assessments are ongoing, particularly in the hardest-hit areas, where disruptions to communications, transport and public services continue to hinder relief efforts. Emergency shelter, food assistance, access to safe drinking water and health care for affected communities are among the top priorities, the office said. Farhan Haq, deputy spokesperson for UN Secretary-General Antonio Guterres, said Wednesday that an allocation from the UN Central Emergency Response Fund is in the works.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->natural disaster",
+        "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Andres Moreno",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Colombia",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bogota",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Red Cross",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Global Times",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "UN Office for the Coordination of Humanitarian Affairs",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Xinhua",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "603888",
+                        "exchange": "SHA"
+                    }
+                ]
+            },
+            {
+                "name": "OCHA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:25:49.170+03:00",
+    "updated": "2026-08-13T07:28:49.000+03:00"
+}

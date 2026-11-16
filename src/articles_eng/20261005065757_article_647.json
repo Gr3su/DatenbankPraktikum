@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "7ad875197fc3409c4e316eec00669aaf5a0df5d2",
+        "url": "https://www.foxnews.com/video/6406088765112",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://moxie.foxnews.com/google-publisher/videos.xml",
+        "site_categories": [
+            "social issue",
+            "sport",
+            "media",
+            "politics",
+            "crime, law and justice",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "The Latest &amp; Breaking Videos on Fox News",
+        "site_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "Jesse Watters Primetime - Thursday, October 1",
+        "title_full": "Jesse Watters Primetime - Thursday, October 1",
+        "published": "2026-10-02T07:07:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/1078fafa-5051-416c-8eb8-5047cf76a0db/4a66eca9-d2eb-4fe6-8df5-2fdff69dd159/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+        "performance_score": 0,
+        "domain_rank": 523,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T04:25:38.000+00:00"
+        }
+    },
+    "uuid": "7ad875197fc3409c4e316eec00669aaf5a0df5d2",
+    "url": "https://www.foxnews.com/video/6406088765112",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-10-02T07:07:00.000+03:00",
+    "title": "Jesse Watters Primetime - Thursday, October 1",
+    "text": "Log in to comment on videos and join in on the fun.\nWatch the live stream of Fox News and full episodes.\nReduce eye strain and focus on the content that matters.\nTrump, Midterms Elections, Project Meridian, NASA SpaceX, Bear Attacks\nCutting through the Washington chatter to speak directly with people who are impacted by the news.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->club and association",
+        "Lifestyle and Leisure->leisure"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Jesse Watters",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Washington",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Fox News",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": "FOX",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "NASA SpaceX",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "Project Meridian",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_us",
+            "top_news"
+        ],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:23:35.527+03:00",
+    "updated": "2026-10-02T07:25:38.000+03:00",
+    "related_articles": null
+}

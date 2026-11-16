@@ -1,0 +1,116 @@
+{
+    "thread": {
+        "uuid": "182619e640fff769ef39cb855ff33a9e29ffad72",
+        "url": "https://tass.com/world/1990411",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "site_title": "TASS Russian News Agency",
+        "title": "Colombian president calls for refusing from global partnership with NATO",
+        "title_full": "Colombian president calls for refusing from global partnership with NATO",
+        "published": "2025-07-17T01:49:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 4103,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "182619e640fff769ef39cb855ff33a9e29ffad72",
+    "url": "https://tass.com/world/1990411",
+    "ord_in_thread": 0,
+    "author": "TASS",
+    "published": "2025-07-17T01:49:00.000+03:00",
+    "title": "Colombian president calls for refusing from global partnership with NATO",
+    "text": "BUENOS AIRES, July 17. /TASS/. Colombian President Gustavo Petro has called for refusing from global partnership with NATO.\n\"We must leave NATO. There is no other option,\" he said at the emergency conference on Gaza that was held in Bogota on July 15 and 16.\nAccording to the Colombian president, his country should join \"another military alliance\" because it cannot side \"with the armies that are dropping bombs on children.\" \"They are not the armies of freedom, they are armies of evil,\" he said. \"We should create an army of light, with all those willing to join taking part in it.\"\n\"We must tell Europe that if it wants to be with Latin America and Africa, they must stop aiding the Nazis. We should tell people in the United States, regardless of their party affiliation, that the must stop helping the Nazis,\" Petro stressed.\nThe agreement on global partnership between NATO and Colombia was signed in Brussels in May 2018. Juan Manuel Santos, who was Colombia’s president at that time, stated that the country was not planning to join NATO or take part in the alliance’s military operations. In May 2022, former US President Joe Biden officially granted the status of a major non-NATO ally to Colombia.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gustavo Petro",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Juan Manuel Santos",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            },
+            {
+                "name": "Africa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Latin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gaza",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NATO",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:42:55.673+03:00",
+    "updated": "2025-07-17T07:42:55.673+03:00"
+}

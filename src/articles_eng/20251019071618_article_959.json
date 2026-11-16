@@ -1,0 +1,181 @@
+{
+    "thread": {
+        "uuid": "1bf855ce5545969685082ea72f9e3b521e0048d2",
+        "url": "https://www.news18.com/agency-feeds/stock-markets-surge-in-early-trade-tracking-rally-in-global-peers-9639356.html",
+        "site_full": "www.news18.com",
+        "site": "news18.com",
+        "site_section": "https://www.news18.com/commonfeeds/v1/eng/rss/latest.xml",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Latest News in news18.com, Latest Latest News, Latest News",
+        "site_title": "News: Get Latest News Today, Breaking News, Top News Headlines, India and World News | News18",
+        "title": "Stock markets surge in early trade tracking rally in global peers | Agency-feeds News - News18",
+        "title_full": "Stock markets surge in early trade tracking rally in global peers | Agency-feeds News - News18",
+        "published": "2025-10-16T07:30:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.news18.com/ibnlive/uploads/2025/07/News18_Business_Section_Default_Image_1600x900-2025-07-454f4d093355309283e1b9f3be42698a-16x9.jpg",
+        "performance_score": 0,
+        "domain_rank": 3556,
+        "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1bf855ce5545969685082ea72f9e3b521e0048d2",
+    "url": "https://www.news18.com/agency-feeds/stock-markets-surge-in-early-trade-tracking-rally-in-global-peers-9639356.html",
+    "ord_in_thread": 0,
+    "author": "PTI",
+    "published": "2025-10-16T07:30:00.000+03:00",
+    "title": "Stock markets surge in early trade tracking rally in global peers | Agency-feeds News - News18",
+    "text": "Mumbai, Oct 16 (PTI) Equity benchmark indices Sensex and Nifty surged in early trade on Thursday, tracking a rally in global markets amid US Fed rate cut hopes. Fresh foreign fund inflows also added to the markets’ optimism during the initial trade. The 30-share BSE Sensex jumped 407.67 points to 83,013.10 in early trade. The 50-share NSE Nifty surged 104 points to 25,427.55. From the Sensex firms, Axis Bank climbed 3 per cent, a day after announcing its September quarter earnings. Adani Ports, Titan, Eternal, Kotak Mahindra Bank, Tata Motors and Bharat Electronics were also among the gainers. However, Infosys, Tata Steel, Tata Consultancy Services and Sun Pharma were the laggards. In Asian markets, South Korea’s Kospi, Japan’s Nikkei 225 index, and Shanghai’s SSE Composite index were trading in the positive territory while Hong Kong’s Hang Seng quoted lower. US markets ended mostly higher on Wednesday. Commerce Secretary Rajesh Agrawal will join the Indian delegation in the US today for trade talks, with India indicating its readiness to step up energy imports from America. The Indian negotiating team is already in Washington for trade talks. “Bullish euphoria is set to light up Dalal Street ahead of Diwali, with rate cut hopes from the Fed, upbeat global cues, and the IMF raising India’s FY26 GDP forecast to 6.6 per cent, boosting sentiment,\" Prashanth Tapse, Senior VP (Research), Mehta Equities Ltd, said. Global oil benchmark Brent crude climbed 0.76 per cent to USD 62.38 a barrel. Foreign Institutional Investors (FIIs) bought equities worth Rs 68.64 crore on Wednesday, according to exchange data. Domestic Institutional Investors (DIIs) also bought equities worth Rs 4,650.08 crore. On Wednesday, the Sensex jumped 575.45 points or 0.70 per cent to settle at 82,605.43. The Nifty climbed 178.05 points or 0.71 per cent to 25,323.55. PTI SUM SUM DR DR",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rajesh Agrawal",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Kotak Mahindra Bank",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "KMB",
+                        "exchange": "NSE"
+                    }
+                ]
+            },
+            {
+                "name": "Tata Motors",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TATA",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Tata Steel",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TATASTEEL",
+                        "exchange": "NSE"
+                    }
+                ]
+            },
+            {
+                "name": "NSE Nifty",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "NIFTY50",
+                        "exchange": "NSE"
+                    }
+                ]
+            },
+            {
+                "name": "Axis Bank",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "AXISBANK",
+                        "exchange": "NSE"
+                    }
+                ]
+            },
+            {
+                "name": "Infosys",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "INFY",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "US Fed",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "1bf855ce5545969685082ea72f9e3b521e0048d2",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-16T07:40:19.459+03:00",
+    "updated": "2025-10-17T08:12:52.000+03:00"
+}

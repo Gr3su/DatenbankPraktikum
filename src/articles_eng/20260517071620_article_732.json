@@ -1,0 +1,152 @@
+{
+    "thread": {
+        "uuid": "e10768a46fc2581be2c4d88e88cfcfe5f21dab4d",
+        "url": "https://www.newsbreak.com/news/4649642429300-woman-arrested-on-dwi-charge-in-clifton-park",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/albany-ny",
+        "site_categories": [
+            "lifestyle and leisure",
+            "politics",
+            "human interest",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "sport",
+            "under_construction",
+            "crime, law and justice"
+        ],
+        "section_title": "Albany, NY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Woman arrested on DWI charge in Clifton Park - NewsBreak",
+        "title_full": "Woman arrested on DWI charge in Clifton Park - NewsBreak",
+        "published": "2026-05-14T05:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/32m1Sa_1BN4ur8800",
+        "performance_score": 0,
+        "domain_rank": 2965,
+        "domain_rank_updated": "2026-05-11T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e10768a46fc2581be2c4d88e88cfcfe5f21dab4d",
+    "url": "https://www.newsbreak.com/news/4649642429300-woman-arrested-on-dwi-charge-in-clifton-park",
+    "ord_in_thread": 0,
+    "author": "Daniel Duric",
+    "published": "2026-05-14T05:00:00.000+03:00",
+    "title": "Woman arrested on DWI charge in Clifton Park - NewsBreak",
+    "text": "By Daniel Duric ,\n2 hours ago CLIFTON PARK, NY — A woman was arrested on a DWI charge following a single-vehicle crash Monday night. The Saratoga County Sheriff’s Office responded to a personal injury motor vehicle crash at 9:51 p.m. on Waite Road. Jacqueline A. Kawola, 57, of Ballston Lake, is accused of operating... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->reckless driving"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Daniel Duric",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jacqueline A. Kawola",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Clifton Park",
+                "sentiment": "none"
+            },
+            {
+                "name": "NY",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ballston Lake",
+                "sentiment": "none"
+            },
+            {
+                "name": "Waite Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Saratoga County Sheriff ’ s Office",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Albany"
+            ],
+            "state": [
+                "New York"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-14T07:36:25.141+03:00",
+    "updated": "2026-05-14T07:40:10.000+03:00"
+}

@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "786e6bb020d984f41bed0873a664760044c73f2e",
+        "url": "https://www.newsbreak.com/news/4759132722948-summer-sizzler-brings-radio-controlled-aircraft-to-newport",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/marshallberg-nc",
+        "site_categories": [
+            "lifestyle and leisure",
+            "under_construction",
+            "disaster and accident",
+            "arts, culture and entertainment",
+            "social issue",
+            "sport",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "human interest"
+        ],
+        "section_title": "Marshallberg, NC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Summer Sizzler brings radio-controlled aircraft to Newport - NewsBreak",
+        "title_full": "Summer Sizzler brings radio-controlled aircraft to Newport - NewsBreak",
+        "published": "2026-07-08T23:25:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1iLVPH_1D7PMhu900",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "786e6bb020d984f41bed0873a664760044c73f2e",
+    "url": "https://www.newsbreak.com/news/4759132722948-summer-sizzler-brings-radio-controlled-aircraft-to-newport",
+    "ord_in_thread": 0,
+    "author": "Hannah Hutter",
+    "published": "2026-07-08T23:25:00.000+03:00",
+    "title": "Summer Sizzler brings radio-controlled aircraft to Newport - NewsBreak",
+    "text": "By Hannah Hutter ,\n7 hours ago NEWPORT, N.C. (WITN) - Calling all plane enthusiasts, the Crystal Coast Radio Control Club will host its annual Summer Sizzler this weekend. The event will feature radio-controlled model airplanes of many types, including scale replicas of civilian and military aircraft from the past 100 years, helicopters, and model jets. Attendees can watch demonstrations and learn how to get involved in the hobby. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->holiday"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.witn.com/2026/07/08/summer-sizzler-brings-radio-controlled-aircraft-newport/",
+        "https://www.witn.com/2026/07/08/summer-sizzler-brings-radio-controlled-aircraft-newport",
+        "https://witn.com/2026/07/08/summer-sizzler-brings-radio-controlled-aircraft-newport/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hannah Hutter",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Newport",
+                "sentiment": "none"
+            },
+            {
+                "name": "N. C.",
+                "sentiment": "none"
+            },
+            {
+                "name": "##ITN",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Crystal Coa",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "st Radio Control Club",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Marshallberg"
+            ],
+            "state": [
+                "North Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:20:25.613+03:00",
+    "updated": "2026-07-09T07:23:54.000+03:00"
+}

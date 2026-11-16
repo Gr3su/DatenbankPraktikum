@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "65b2badfd2a4e3dbec3b63ed81041ee69aeedae7",
+        "url": "https://www.hindustantimes.com/world-news/71-magnitude-earthquake-hits-venezuela-swaying-buildings-in-the-capital-101782340935431.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/world-news/us-news",
+        "site_categories": [
+            "health",
+            "social issue",
+            "economy, business and finance",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "politics",
+            "arts, culture and entertainment",
+            "media",
+            "human interest"
+        ],
+        "section_title": "US News: Stay Updated with the Latest US News on Politics, Crime, and Local Stories of today| Hindustan Times | Hindustan Times",
+        "site_title": "Hindustan Times: Breaking News, Latest News, India News, World News & Cricket Today's Headlines | Hindustan Times",
+        "title": "7.1 magnitude earthquake hits Venezuela, swaying buildings in the capital | World News",
+        "title_full": "7.1 magnitude earthquake hits Venezuela, swaying buildings in the capital | World News",
+        "published": "2026-06-25T01:55:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/06/24/550x309/Philippines-Earthquake-2_1782341636974_1782341643476_07c9e085-6904-4a40-8573-c1e3ba383a8e.jpg",
+        "performance_score": 0,
+        "domain_rank": 2594,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "65b2badfd2a4e3dbec3b63ed81041ee69aeedae7",
+    "url": "https://www.hindustantimes.com/world-news/71-magnitude-earthquake-hits-venezuela-swaying-buildings-in-the-capital-101782340935431.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-06-25T01:55:00.000+03:00",
+    "title": "7.1 magnitude earthquake hits Venezuela, swaying buildings in the capital | World News",
+    "text": "A strong earthquake shook Venezuela on Wednesday, swaying buildings in the capital city of Caracas.The U.S. Geological Survey reported a 7.1 magnitude with the epicenter about 28 kilometers (17 miles) west of the community of Moron, located along the country’s Caribbean coast. It had a depth of 13 kilometers.People evacuated swaying buildings and homes in the capital, Caracas.Authorities did not immediately report injuries or damages.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->disaster",
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Venezuela",
+                "sentiment": "none"
+            },
+            {
+                "name": "Caracas",
+                "sentiment": "none"
+            },
+            {
+                "name": "Caribbean",
+                "sentiment": "none"
+            },
+            {
+                "name": "Moron",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "World News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "U. S. Geological Survey",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:46:53.466+03:00",
+    "updated": "2026-06-25T07:49:46.000+03:00"
+}

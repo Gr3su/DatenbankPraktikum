@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "b13c64411afcd9e5f72529cc63e0181c18a49424",
+        "url": "https://local.newsbreak.com/larry-brown-sports-560614/4759706362321-christian-pulisic-gets-ripped-for-his-post-after-usmnt-s-world-cup-exit",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/larry-brown-sports-560614",
+        "site_categories": [
+            "social issue",
+            "lifestyle and leisure",
+            "politics",
+            "arts, culture and entertainment",
+            "disaster and accident",
+            "crime, law and justice",
+            "sport"
+        ],
+        "section_title": "Larry Brown Sports&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Christian Pulisic gets ripped for his post after USMNT's World Cup exit - NewsBreak",
+        "title_full": "Christian Pulisic gets ripped for his post after USMNT's World Cup exit - NewsBreak",
+        "published": "2026-07-09T06:22:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2KYlLV_1D7zmpr100",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b13c64411afcd9e5f72529cc63e0181c18a49424",
+    "url": "https://local.newsbreak.com/larry-brown-sports-560614/4759706362321-christian-pulisic-gets-ripped-for-his-post-after-usmnt-s-world-cup-exit",
+    "ord_in_thread": 0,
+    "author": "Darryn Albert",
+    "published": "2026-07-09T06:22:00.000+03:00",
+    "title": "Christian Pulisic gets ripped for his post after USMNT's World Cup exit - NewsBreak",
+    "text": "By Darryn Albert Larry Brown Sports 56 minutes ago 💬 0",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sport achievement",
+        "Sport->sport event"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Christian Pulisic",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Darryn Albert",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "USMNT",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:21:09.901+03:00",
+    "updated": "2026-07-09T07:24:47.000+03:00"
+}

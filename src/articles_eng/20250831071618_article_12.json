@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "42b8c161f19ac25dffb9b5be2ee0c10629833b1e",
+        "url": "https://www.newsbreak.com/news/4198748495643-watsonville-teen-dies-in-rollover-crash",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/santa-cruz-ca",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "Santa Cruz, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Watsonville teen dies in rollover crash - NewsBreak",
+        "title_full": "Watsonville teen dies in rollover crash - NewsBreak",
+        "published": "2025-08-27T05:57:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4OZuIm_149l67O900",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "42b8c161f19ac25dffb9b5be2ee0c10629833b1e",
+    "url": "https://www.newsbreak.com/news/4198748495643-watsonville-teen-dies-in-rollover-crash",
+    "ord_in_thread": 0,
+    "author": "Tarmo Hannula",
+    "published": "2025-08-27T05:57:00.000+03:00",
+    "title": "Watsonville teen dies in rollover crash - NewsBreak",
+    "text": "By Tarmo Hannula ,\n1 days ago The California Highway Patrol is asking for the public’s help in finding the driver of a pickup involved in a rollover crash Saturday in Las Lomas that left a Watsonville teen dead. CHP officer Saul Perez said the 19-year-old male victim was a passenger in a red Toyota pickup... Read full article\nRead in NewsBreak 1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Crime, Law and Justice->reckless driving",
+        "Social Issue->demographics",
+        "Social Issue->social condition",
+        "Social Issue->social problem",
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tarmo Hannula",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Saul Perez",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "California Highway Patrol",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "CHP",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "CHP",
+                        "exchange": "JSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-28T07:16:28.399+03:00",
+    "updated": "2025-08-28T07:21:57.000+03:00"
+}

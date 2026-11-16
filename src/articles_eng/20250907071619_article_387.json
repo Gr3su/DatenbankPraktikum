@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "da287ceb3d262778319ce853e1ff5fc302bf4faf",
+        "url": "https://english.almanar.com.lb/cat/news/page/3706",
+        "site_full": "english.almanar.com.lb",
+        "site": "almanar.com.lb",
+        "site_section": "https://english.almanar.com.lb/cat/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News &#8211; Al-Manar TV Lebanon",
+        "site_title": "موقع قناة المنار &#8211; لبنان &#8211; شعلة لن تنطفئ",
+        "title": "News - Page 3706 - Al-Manar TV Lebanon",
+        "title_full": "News - Page 3706 - Al-Manar TV Lebanon",
+        "published": "2025-09-04T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "LB",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 28702,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "da287ceb3d262778319ce853e1ff5fc302bf4faf",
+    "url": "https://english.almanar.com.lb/cat/news/page/3706",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-09-04T03:00:00.000+03:00",
+    "title": "News - Page 3706 - Al-Manar TV Lebanon",
+    "text": "News – Page 3706 – Al-Manar TV Lebanon\nLeb. Communication Grp\nAl Manar TV\nThursday - September 4, 2025\nServices\nNews\nX\nUrgent\nLebanon\nHezbollah Statements\nS. Nasrallah Speeches\nBahrain\nEgypt\nIran\nImam Khamenei Speeches\nIraq\nJordan\nKuwait\nOman\nPalestine\nQatar\nSaudi Arabia\nSyria\nTurkey\nUAE\nYemen\nZionist entity\nOnly Pictures\nVideos\nWorld\nAfrican countries\nAmericas\nAsian Countries\nEurope\nInt’l Organizations\nIslamic World\n{{#breaking_news}}\n{{.}}\n{{/breaking_news}}\n{{first.title}}\n{{#articles}}\n{{#.}}\n{{title}}\n{{/.}}\n{{/articles}}\nMore..\n{{#cats}}\n{{category}}\n{{/cats}}\n{{#articles}}\n{{title}}\n{{/articles}}\nMore..",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->freedom of the press"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-04T07:25:50.681+03:00",
+    "updated": "2025-09-04T07:27:57.000+03:00"
+}

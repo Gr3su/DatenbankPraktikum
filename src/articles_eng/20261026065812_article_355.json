@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "589a0fa46ff97c2a89dd60ead3fef18404568c66",
+        "url": "https://www.newsbreak.com/news/4961307035649-pacifica-pier-repairs-cause-traffic-headaches",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/san-mateo-ca",
+        "site_categories": [
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "under_construction",
+            "politics",
+            "sport",
+            "arts, culture and entertainment",
+            "economy, business and finance"
+        ],
+        "section_title": "San Mateo, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Pacifica Pier repairs cause traffic headaches - NewsBreak",
+        "title_full": "Pacifica Pier repairs cause traffic headaches - NewsBreak",
+        "published": "2026-10-22T21:37:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3UBYTK_1GM7PxHm00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T07:09:43.231+03:00"
+        }
+    },
+    "uuid": "589a0fa46ff97c2a89dd60ead3fef18404568c66",
+    "url": "https://www.newsbreak.com/news/4961307035649-pacifica-pier-repairs-cause-traffic-headaches",
+    "ord_in_thread": 0,
+    "author": "NBC Bay Area staff",
+    "published": "2026-10-22T21:37:00.000+03:00",
+    "title": "Pacifica Pier repairs cause traffic headaches - NewsBreak",
+    "text": "By NBC Bay Area staff ,\n9 hours ago Major repairs at the Pacifica Pier are causing traffic headaches for people in the area. A large crane and other heavy equipment have rolled in along Beach Boulevard Thursday, which will be used to stabilize the cracked pier. “Right now there is a void there and wave will continue to... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nbcbayarea.com/news/local/pacifica-pier-repairs-traffic/4162885/",
+        "https://www.nbcbayarea.com/news/local/pacifica-pier-repairs-traffic/4162885",
+        "https://nbcbayarea.com/news/local/pacifica-pier-repairs-traffic/4162885/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Pacifica Pier",
+                "sentiment": "none"
+            },
+            {
+                "name": "Beach Boulevard",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NBC",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "NBC",
+                        "exchange": "FRA"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "San Mateo"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:09:43.231+03:00",
+    "updated": "2026-10-23T07:11:00.000+03:00",
+    "related_articles": null
+}

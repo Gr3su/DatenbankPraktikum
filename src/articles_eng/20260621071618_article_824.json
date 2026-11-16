@@ -1,0 +1,106 @@
+{
+    "thread": {
+        "uuid": "f952b74c63a993bdb0c323f091f4f2d9c027a42e",
+        "url": "https://beaverstatenews.com/researchers-estimate-ai-prompts-may-consume-significant-amounts-of-water/",
+        "site_full": "beaverstatenews.com",
+        "site": "beaverstatenews.com",
+        "site_section": "https://beaverstatenews.com/",
+        "site_categories": [
+            "science and technology",
+            "sport",
+            "environment",
+            "politics",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice"
+        ],
+        "section_title": "Home - Beaver State News",
+        "site_title": "Home - Beaver State News",
+        "title": "Researchers estimate AI prompts may consume significant amounts of water",
+        "title_full": "Researchers estimate AI prompts may consume significant amounts of water",
+        "published": "2026-06-18T00:21:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://d33ioocfz0fzi4.cloudfront.net/jns-media/d8/5f/27685046/webp_12doeyp6q0le6ekgbh9bbxmcg3ai.webp",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f952b74c63a993bdb0c323f091f4f2d9c027a42e",
+    "url": "https://beaverstatenews.com/researchers-estimate-ai-prompts-may-consume-significant-amounts-of-water/",
+    "ord_in_thread": 0,
+    "author": "beaver state news",
+    "published": "2026-06-18T00:21:00.000+03:00",
+    "title": "Researchers estimate AI prompts may consume significant amounts of water",
+    "text": "A new estimate from researchers published by the Association for Computing Machinery on June 17 reveals that a single ‘medium-sized’ artificial intelligence prompt, such as asking ChatGPT to draft an email, may consume about 500 milliliters of water—roughly equivalent to a standard 16-ounce bottle.\nThe study defines a ‘medium-sized’ GPT-3 request as approximately 800 words of input and fewer than 300 words of output. According to BGR, each such interaction can require around half a liter of water. With hundreds of millions of users making multiple requests every hour, the cumulative impact on water resources is considerable.\nMost of this water use is attributed to cooling systems in data centers that house AI servers. These facilities generate substantial heat and require large amounts of water to prevent overheating. The research cites examples including Microsoft’s U.S. data centers using 185,000 gallons onsite and about 1.4 million gallons overall for training AI models, while a Google-owned data center reportedly consumed over six billion gallons of freshwater for onsite cooling in 2023.\nThe environmental impact extends beyond electricity consumption; researchers say that water use is often under-reported in discussions about AI’s footprint. The study notes that nearly two-thirds of new AI facilities are being built in some of the driest regions in the United States. McKinsey & Company projects companies will spend $5.2 trillion on data centers by 2030 to meet rising demand for AI technology, according to BGR. More than 500 new data centers are planned for areas already experiencing severe droughts, with estimates suggesting that Texas data centers could account for nearly nine percent of statewide water consumption by 2040.\nData centers draw from regional resources shared with local communities, which can increase stress on supplies during drought conditions and raise questions about resource allocation priorities when shortages occur.\nResearchers behind the paper say one major solution is transparency: “Companies should do a better job of measuring, reporting and tracking water use, including onsite cooling and the offsite water tied to electricity generation.” They also recommend building and training AI systems where there is greater water efficiency and shifting workloads to more efficient hours, but warn that increased demand could offset gains from future model improvements.",
+    "summary": "A new estimate from researchers published by the Association for Computing Machinery on June 17 reveals that a single ‘medium-sized’ artificial intelligence prompt, such as asking ChatGPT to draft an email, may consume about 500 milliliters of water—roughly equivalent to a standard 16-ounce bottle. With hundreds of millions of users making multiple requests every hour, the cumulative impact on water resources is considerable. These facilities generate substantial heat and require large amounts of water to prevent overheating. The environmental impact extends beyond electricity consumption; researchers say that water use is often under-reported in discussions about AI’s footprint.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology",
+        "Environment"
+    ],
+    "topics": [
+        "Science and Technology->scientific research",
+        "Environment->natural resources",
+        "Environment->water pollution"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Beaver"
+            ],
+            "state": [
+                "Oregon"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-18T07:50:40.173+03:00",
+    "updated": "2026-06-18T07:53:24.000+03:00"
+}

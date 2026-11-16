@@ -1,0 +1,156 @@
+{
+    "thread": {
+        "uuid": "f7e1ad3d11a9d8c4770cf7632dc01d95e67e51ea",
+        "url": "https://www.newsbreak.com/news/4824265034850-city-council-approves-leda-s-land-request-for-7-92-acres",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/dickens-tx",
+        "site_categories": [
+            "social issue",
+            "sport",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "crime, law and justice",
+            "science and technology",
+            "human interest",
+            "politics",
+            "under_construction",
+            "health",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Dickens, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "City council approves LEDA's land request for 7.92 acres - NewsBreak",
+        "title_full": "City council approves LEDA's land request for 7.92 acres - NewsBreak",
+        "published": "2026-08-12T05:03:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3ymryJ_1EA1yzMp00",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f7e1ad3d11a9d8c4770cf7632dc01d95e67e51ea",
+    "url": "https://www.newsbreak.com/news/4824265034850-city-council-approves-leda-s-land-request-for-7-92-acres",
+    "ord_in_thread": 0,
+    "author": "Urijah Jaushlin",
+    "published": "2026-08-12T05:03:00.000+03:00",
+    "title": "City council approves LEDA's land request for 7.92 acres - NewsBreak",
+    "text": "By Urijah Jaushlin ,\n1 days ago LUBBOCK, Texas — At the latest Lubbock City Council meeting, the request from the Lubbock Economic Development Alliance, Inc. to annex an area of approximately 7.92 acres of land was approved unanimously on Tuesday afternoon. The area annexed will be adjacent to the northern city limits of the City... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->economy",
+        "Economy, Business and Finance->corporate news and profiles"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.everythinglubbock.com/news/local-news/lubbock-approves-7-acre-annexation/amp/",
+        "https://everythinglubbock.com/news/local-news/lubbock-approves-7-acre-annexation/amp/",
+        "https://www.everythinglubbock.com/news/local-news/lubbock-approves-7-acre-annexation/amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Urijah Jaushlin",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Texas",
+                "sentiment": "none"
+            },
+            {
+                "name": "LUBBOCK",
+                "sentiment": "none"
+            },
+            {
+                "name": "City",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "LEDA",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Lubbock City Council",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Lubbock Economic Development Alliance, Inc.",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Dickens"
+            ],
+            "state": [
+                "Texas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:40:36.525+03:00",
+    "updated": "2026-08-13T07:42:19.000+03:00"
+}

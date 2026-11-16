@@ -1,0 +1,191 @@
+{
+    "thread": {
+        "uuid": "d3ad4db0b51a125e6a3292b83cfb114000578f7c",
+        "url": "https://local.newsbreak.com/espn-1601103/4920615639451-panthers-aleksander-barkov-exits-early-at-sharks-because-of-injury",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/espn-1601103",
+        "site_categories": [
+            "crime, law and justice",
+            "economy, business and finance",
+            "politics",
+            "sport",
+            "arts, culture and entertainment",
+            "lifestyle and leisure"
+        ],
+        "section_title": "ESPN&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Panthers' Aleksander Barkov exits early at Sharks because of injury - NewsBreak",
+        "title_full": "Panthers' Aleksander Barkov exits early at Sharks because of injury - NewsBreak",
+        "published": "2026-10-02T07:08:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2sACDy_1Fi7Jxt100",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:38:51.324+03:00"
+        }
+    },
+    "uuid": "d3ad4db0b51a125e6a3292b83cfb114000578f7c",
+    "url": "https://local.newsbreak.com/espn-1601103/4920615639451-panthers-aleksander-barkov-exits-early-at-sharks-because-of-injury",
+    "ord_in_thread": 0,
+    "author": "ESPN",
+    "published": "2026-10-02T07:08:00.000+03:00",
+    "title": "Panthers' Aleksander Barkov exits early at Sharks because of injury - NewsBreak",
+    "text": "30 minutes ago\nSAN JOSE, Calif. -- Florida Panthers captain Aleksander Barkov left in the second period against San Jose on Thursday night after his left knee appeared to buckle during a scrum with Sharks defender Darnell Nurse and forward Zack Ostapchuk along the boards.\nBarkov immediately left the ice, throwing his glove on the ground as he headed into the tunnel.\nBarkov missed all of last season after tearing his ACL and MCL during training camp. The 31-year-old Finn was playing his second game this season.",
+    "summary": "SAN JOSE, Calif. -- Florida Panthers captain Aleksander Barkov left in the second period against San Jose on Thursday night after his left knee appeared to buckle during a scrum with Sharks defender Darnell Nurse and forward Zack Ostapchuk along the boards. Barkov immediately left the ice, throwing his glove on the ground as he headed into the tunnel. Barkov missed all of last season after tearing his ACL and MCL during training camp. The 31-year-old Finn was playing his second game this season.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->regular competition"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "http://www.espn.com/nhl/team/_/name/fla/florida-panthers",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2sACDy_1Fi7Jxt100",
+        "http://www.espn.com/nhl/player/_/id/3041970/aleksander-barkov",
+        "https://www.espn.com/nhl/team/_/name/sj/san-jose-sharks",
+        "http://www.espn.com/nhl/player/_/id/3041997/darnell-nurse",
+        "http://www.espn.com/nhl/player/_/id/4874881/zack-ostapchuk",
+        "https://img.particlenews.com/image.php?url=2sACDy_1Fi7Jxt100",
+        "http://espn.com/nhl/player/_/id/3041997/darnell-nurse",
+        "http://espn.com/nhl/player/_/id/4874881/zack-ostapchuk",
+        "http://espn.com/nhl/team/_/name/fla/florida-panthers",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2sACDy_1Fi7Jxt100",
+        "http://espn.com/nhl/player/_/id/3041970/aleksander-barkov",
+        "https://www.img.particlenews.com/image.php?url=2sACDy_1Fi7Jxt100",
+        "https://espn.com/nhl/team/_/name/sj/san-jose-sharks",
+        "https://img.particlenews.com/image.php"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Aleksander Barkov",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Finn",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Zack Ostapchuk",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Darnell Nurse",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "SAN JOSE",
+                "sentiment": "none"
+            },
+            {
+                "name": "Calif",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Florida Panthers",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "MCL",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Sharks",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "ACL",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "ACL",
+                        "exchange": "ASX"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:38:51.324+03:00",
+    "updated": "2026-10-02T07:41:02.000+03:00",
+    "related_articles": null
+}

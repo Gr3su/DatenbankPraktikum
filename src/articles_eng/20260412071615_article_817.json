@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "65bf1cda18386abce98c22bd06e42c27a350ff20",
+        "url": "https://www.newsbreak.com/news/4581840068215-fire-west-of-berthoud-near-carter-lake",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/loveland-co",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "economy, business and finance",
+            "sport",
+            "human interest",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "Loveland, CO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Fire west of Berthoud near Carter Lake - NewsBreak",
+        "title_full": "Fire west of Berthoud near Carter Lake - NewsBreak",
+        "published": "2026-04-08T18:11:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3QsSIA_1AHloNkP00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "65bf1cda18386abce98c22bd06e42c27a350ff20",
+    "url": "https://www.newsbreak.com/news/4581840068215-fire-west-of-berthoud-near-carter-lake",
+    "ord_in_thread": 0,
+    "author": "berthoudsurveyor.com",
+    "published": "2026-04-08T18:11:00.000+03:00",
+    "title": "Fire west of Berthoud near Carter Lake - NewsBreak",
+    "text": "13 hours ago The fire is 100% contained according to the National Interagency Fire Center. Fire crews have a hose and line around the fire area, conducting a mop up. Evacuation orders remain in place as the crew continues cleanup. Updated 9:14 a.m. The fire size is now 3.5 acres with fire crews... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->fire"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Carter Lake",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Interagency Fire Center",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Loveland"
+            ],
+            "state": [
+                "Colorado"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:45:21.088+03:00",
+    "updated": "2026-04-09T07:50:46.000+03:00"
+}

@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "dd79ba15ff88ebedcd91eb7c7837af3395917f02",
+        "url": "https://www.newsbreak.com/newsweek-500152/4547523454529-miami-oh-makes-ncaa-tournament-history-in-win-over-smu",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/newsweek-500152",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "politics",
+            "human interest",
+            "economy, business and finance",
+            "crime, law and justice",
+            "under_construction",
+            "sport",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Newsweek&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Miami (OH) Makes NCAA Tournament History in Win Over SMU - NewsBreak",
+        "title_full": "Miami (OH) Makes NCAA Tournament History in Win Over SMU - NewsBreak",
+        "published": "2026-03-19T02:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1nNMvM_19kBNjZf00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "dd79ba15ff88ebedcd91eb7c7837af3395917f02",
+    "url": "https://www.newsbreak.com/newsweek-500152/4547523454529-miami-oh-makes-ncaa-tournament-history-in-win-over-smu",
+    "ord_in_thread": 0,
+    "author": "Cole Sullivan",
+    "published": "2026-03-19T02:09:00.000+02:00",
+    "title": "Miami (OH) Makes NCAA Tournament History in Win Over SMU - NewsBreak",
+    "text": "By Cole Sullivan ,\n5 hours ago Miami (OH) made NCAA Tournament history Wednesday night during its double-digit First Four victory over SMU. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->basketball",
+        "Sport->sports record",
+        "Sport->sport event"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Cole Sullivan",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "OH",
+                "sentiment": "none"
+            },
+            {
+                "name": "Miami",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "SMU",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:24:10.771+02:00",
+    "updated": "2026-03-19T07:28:08.000+02:00"
+}

@@ -1,0 +1,115 @@
+{
+    "thread": {
+        "uuid": "9561a88daead090f848766e9ab1e388176706f6b",
+        "url": "https://taekim.substack.com/p/nvidia-blows-away-wall-streets-2027",
+        "site_full": "taekim.substack.com",
+        "site": "substack.com",
+        "site_section": "https://sources.werd.io/",
+        "site_categories": [
+            "economy, business and finance",
+            "science and technology"
+        ],
+        "section_title": "\n      Ben Werdmuller: Sources\n    ",
+        "site_title": "Substack",
+        "title": "Nvidia Blows Away Wall Street's 2027 Forecasts. What You Need to Know.",
+        "title_full": "Nvidia Blows Away Wall Street's 2027 Forecasts. What You Need to Know.",
+        "published": "2026-08-27T06:02:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://substackcdn.com/image/fetch/$s_!UIcG!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F749653aa-581f-4162-862b-5bc8479f813e_2446x1062.png",
+        "performance_score": 0,
+        "domain_rank": 439,
+        "domain_rank_updated": null,
+        "licensing_agency": [
+            "NLA"
+        ],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9561a88daead090f848766e9ab1e388176706f6b",
+    "url": "https://taekim.substack.com/p/nvidia-blows-away-wall-streets-2027",
+    "ord_in_thread": 0,
+    "author": "Tae Kim",
+    "published": "2026-08-27T06:02:00.000+03:00",
+    "title": "Nvidia Blows Away Wall Street's 2027 Forecasts. What You Need to Know.",
+    "text": "Note: Hi all. I’m out in California this week at the Hot Chips conference and visiting companies. My schedule has been jam packed with incredible speaker sessions, receptions, hallway conversations and meals with dozens of new friends/contacts. There’s so much to share. Hot Chips has instantly become my favorite conference of the year. What a great time. I’ll write up my initial takeaways tomorrow, but first a quick post on Nvidia’s fiscal second quarter earnings tonight.\nNvidia blew away Wall Street’s forecast for next year. And then the company’s management said it has the demand to do even better if it had access to more component supplies.\nFor its July quarter, Nvidia posted adjusted earnings per share of $2.22, compared with Wall Street’s consensus estimate of $2.09. Revenue was $96.2 billion, up 106% year over year, ahead of analysts’ expectations of $92.3 billion. Read that again. Revenue MORE THAN DOUBLED to nearly $100 billion. The scale and scope of this performance is historic.\nRemember how I’ve been pounding the table about the Nvidia’s NVL72 product super cycle this year when noone else was? It’s happening. The growth rate has accelerated for FOUR consecutive quarters. Data center revenue grew even faster, up 117% versus the prior year.\nThe outlook was also strong. For the current quarter, Nvidia provided a revenue forecast range with a midpoint of $108 billion, above the consensus of $104.9 billion. The company is not assuming any data center revenue from China in its guidance. Nvidia also said supplier commitments increased from $119 billion last quarter to $279 billion, mainly due to memory procurement.\n“Demand is accelerating,” Nvidia CEO Jensen Huang said in the news release. “This time last year, one lab alone was driving the buildout; today, we have a golden age of new AI labs and startups, multiple frontier labs scaling in parallel, a thriving open-model ecosystem and physical AI coming online — with strong momentum across the U.S. and around the world. The AI infrastructure buildout is at full steam.”\nThe stock initially fell in after-hours trading on the strong beat-and-raise numbers, but turned higher after CFO Colette Kress said: “We expect to grow revenue by approximately 70% in fiscal 2028 [calendar year 2027]. This is a supply-constrained outlook.” Wall Street expected 45%. Simply blowout guidance.\nOn the earnings call, Kress said customer forecasts showed demand doubling next year, but the company can only grow 70% because there will not be enough component supplies.\nThis was a mic-drop outlook. The Nvidia skeptics have said for three years running that the peak year is here. Well, they’ll have to wait another year.\nSince the February launch, this Substack has been an emphatic bull on CPU, GPU, and HBM memory stocks and has stayed bullish through the volatility around next year’s AI growth prospects. With Nvidia’s calendar year 2027 guidance, these fundamental calls looks spot on.\nThe stocks are up in after hours now, but the truth is I don’t know whether these stocks will trade up tomorrow, next week, or next month. Trump may do something out of left field again. There may be a new macro crosscurrent from the Fed Jackson Hole speech later this week or another energy crisis development. But over time, company fundamentals always win. Stay focused on the underlying fundamentals. If they remain strong, stocks will work themselves out.\nOther excerpts from the earnings call I believe that are critically important to know and my thoughts:\nI liked how Nvidia focused on Amazon Web Services as a big demand driver customer this quarter, not SpaceX. For some investors AWS is considered more durable and credible demand: “We are delighted to announce an expansion of our partnership with AWS. Building on its already vast installed base of Nvidia Compute, AWS is deploying an additional 2 million GPUs starting this quarter through the second quarter of fiscal 2029”\nAmazon using Nvidia’s stack for robots is a big win: “Amazon will also adopt our full physical AI stack, Omniverse, Cosmos, Isaac, and Jetson to power its fleet of warehouse robots.”\nNvidia neocloud partners are on fire, in a good way: “Using NVIDIA DSX reference designs, our neocloud partners are bringing capacity online faster and at lower token cost. They are expected to exit the year with 8 GW in total installed capacity, up from approximately 3 GW at the end of 2025”\n“Since Hopper, our revenue opportunity has grown from roughly $18 billion per gigawatt to $25 billion with Blackwell, to $40 billion with Vera Rubin”\nFastest ramp in history again: “We commenced production shipments of Vera Rubin earlier this month. Having already received purchase orders from every major hyperscaler, AI cloud, and system OEM, we expect Vera Rubin to mark the fastest product ramp in Nvidia’s history.”\nNvidia is going to be a world leading CPU vendor with exponential growth. I still think AMD makes better CPUs, but Nvidia will sell every CPU it can make: “We continue to see demand for approximately $20 billion in total server CPUs. Based on our customer demand and improving supply outlook, our preliminary expectation is for CPU revenue to more than double in fiscal 2028”\nNew incremental revenue stream for Nvidia: “We have introduced a revenue-sharing structure. Nvidia provides a take or pay commitment on a portion of the facility’s capacity, a minimum revenue guarantee that gives lenders the confidence to underwrite the project, and in exchange, we share in a portion of the neocloud’s revenue earned above that floor. Independent capital still underwrites every deal on its own merits. We’re not making loans.”\n“We recognize the scale of this support, and we know some will call this circular financing. We see it differently. We are going through a major computing platform shift, the creation of one of the most important technologies in human history, and these are once-in-a-generation companies. Their technology leadership is proven, and their customer traction and usage are skyrocketing.”\nNvidia just said Anthropic and OpenAI will become the largest technology companies in history. Larger than Nvidia?!?: “We expect them to become the largest technology companies in history. We believe these investments, measured against the strength of their demand, the business they create for us, the ecosystem they build on Nvidia’s platform, and the equity returns on our invested capital will be excellent, and our risk is limited. The Nvidia Compute platform is fungible and durable and can be redeployed to support other customers.”\nBig share buybacks have already started: “In Q2, we returned a record $26 billion to shareholders, $20 billion through share repurchases, and $6 billion through our quarterly dividend of $0.25 per share. Relative to our plan to return 50% or more of free cash flow, we have returned 60% on a year-to-date basis.”\nHBM memory pricing is soaring higher because of overwhelming demand. Even Nvidia has to eat it now: “As you are already aware, we are experiencing extreme pricing conditions in memory. The magnitude of the price increase has exceeded our prior expectations and are headed even higher into next year. As a result, we are resetting expectations today. For Q3, we expect GAAP and non-GAAP gross margins to be 74% ±50 basis points. We expect margins to bottom in Q4 in the 71%-72% range before settling at 72%-73% in fiscal year 2028 as executed price increases take effect in Q1.”\n“We want to be direct about this rather than let it linger as an open question. Memory scarcity today is being driven in large part by the AI build-out itself, and unlike a component that simply raises our cost with no offset benefit. Tighter memory supply is a symptom of the same demand surge that is driving our own growth.”\nAgentic AI demand is exponential: “The amount of compute necessary for an agent versus a human using it is probably 15-100 times, depending on the type of problem you are trying to solve. The amount of compute necessary is just extraordinary.”\nJensen asked about what will happen to demand if RSI happens: “[Demand is] going to inflect further. Today, the vast majority of AI is prompted by people. I believe that this last month it has crossed. Most AI are now agentic. But in the future, every company will have a whole bunch of agents. We have 40,000 employees, roughly. In the future, we’ll have 400,000 agents, 4 million agents. Those agents are running continuously.”\n“We have supply for 70% [growth next year] .. Our demand is much higher than that, and we’ve got to go work hard, or we’re going to be disappointing customers. We like not to disappoint our customers, and we like to work hard for them. So I’m going to need the help of the entire supply chain to help me out here.”\nROI on Nvidia AI infrastructure spend is pretty damn good: “I heard the other day that return on investment capital is now less than a year, and we are talking about $50 billion data centers. That tells you something about the productivity of Nvidia’s technology and the rentability of it.”",
+    "summary": "The AI infrastructure buildout is at full steam.” The stock initially fell in after-hours trading on the strong beat-and-raise numbers, but turned higher after CFO Colette Kress said: “We expect to grow revenue by approximately 70% in fiscal 2028 [calendar year 2027]. Since the February launch, this Substack has been an emphatic bull on CPU, GPU, and HBM memory stocks and has stayed bullish through the volatility around next year’s AI growth prospects.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->scientific innovation",
+        "Science and Technology->biotechnology"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Wall Street",
+                "sentiment": "none"
+            },
+            {
+                "name": "California",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Nvidia",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "NVDA",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:06:55.655+03:00",
+    "updated": "2026-08-27T07:09:16.000+03:00"
+}

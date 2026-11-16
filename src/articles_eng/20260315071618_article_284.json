@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "e3c3ee79bedbae68db2df67528f2d56af3e80563",
+        "url": "https://www.newsbreak.com/news/4533388435238-shamrock-shuffle-to-take-place-this-saturday",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/madison-wi",
+        "site_categories": [
+            "sport",
+            "politics",
+            "under_construction",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "human interest",
+            "economy, business and finance",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Madison, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Shamrock Shuffle to take place this Saturday - NewsBreak",
+        "title_full": "Shamrock Shuffle to take place this Saturday - NewsBreak",
+        "published": "2026-03-11T00:43:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3B0FOw_19Vx5HF500",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e3c3ee79bedbae68db2df67528f2d56af3e80563",
+    "url": "https://www.newsbreak.com/news/4533388435238-shamrock-shuffle-to-take-place-this-saturday",
+    "ord_in_thread": 0,
+    "author": "Calahan Steed",
+    "published": "2026-03-11T00:43:00.000+02:00",
+    "title": "Shamrock Shuffle to take place this Saturday - NewsBreak",
+    "text": "By Calahan Steed ,\n1 days ago MADISON, Wis. (WMTV) - It’s a run, walk and bike event that helps change lives. The Shamrock Shuffle is a 10K bike, a 10K run or a 5K walk that will take place this Saturday. The event will run from 8 to 9:30 a.m. at the 600 block of State Street. Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Sport->marathon"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "MADISON",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wis.",
+                "sentiment": "none"
+            },
+            {
+                "name": "State Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Calahan Steed",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "WMTV",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "WMVT",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-12T07:21:20.934+02:00",
+    "updated": "2026-03-12T07:29:50.000+02:00"
+}

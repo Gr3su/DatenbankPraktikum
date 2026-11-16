@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "452a934e732005f0fe4380c2b188d5ab6ef0ea3a",
+        "url": "https://www.newsbreak.com/news/4632650916766-new-net-aims-to-curb-foul-ball-problem-at-pinehurst-ball-field",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/santa-id",
+        "site_categories": [
+            "lifestyle and leisure",
+            "sport",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "politics",
+            "under_construction",
+            "human interest",
+            "crime, law and justice"
+        ],
+        "section_title": "Santa, ID Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "New net aims to curb foul-ball problem at Pinehurst ball field - NewsBreak",
+        "title_full": "New net aims to curb foul-ball problem at Pinehurst ball field - NewsBreak",
+        "published": "2026-05-05T11:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1hbXIb_1B5yHZoz00",
+        "performance_score": 0,
+        "domain_rank": 2952,
+        "domain_rank_updated": "2026-05-04T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "452a934e732005f0fe4380c2b188d5ab6ef0ea3a",
+    "url": "https://www.newsbreak.com/news/4632650916766-new-net-aims-to-curb-foul-ball-problem-at-pinehurst-ball-field",
+    "ord_in_thread": 0,
+    "author": "JOSH McDONALD",
+    "published": "2026-05-05T11:00:00.000+03:00",
+    "title": "New net aims to curb foul-ball problem at Pinehurst ball field - NewsBreak",
+    "text": "By JOSH McDONALD ,\n1 days ago PINEHURST — A new net was installed Friday at Pastime Park, a move Kellogg School District officials and local youth baseball leaders hope will put an end to an ongoing controversy involving foul balls leaving the field and impacting neighboring property. Avista Utilities installed two new poles supporting a... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure",
+        "Sport"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->leisure venue",
+        "Sport->baseball",
+        "Sport->sport venue"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "JOSH McDONALD",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Pinehurst",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pastime Park",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Avista Utilities",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "AVA",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-07T07:25:48.219+03:00",
+    "updated": "2026-05-07T07:32:55.000+03:00"
+}

@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "df67ddb2f58937f79abf8248c744b0d879640a17",
+        "url": "https://www.newsbreak.com/the-daily-times-1593744/4391364257212-state-receives-waiver-for-snap",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/the-daily-times-1593744",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "The Daily Times&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "State receives waiver for SNAP - NewsBreak",
+        "title_full": "State receives waiver for SNAP - NewsBreak",
+        "published": "2025-12-11T01:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-12-07T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "df67ddb2f58937f79abf8248c744b0d879640a17",
+    "url": "https://www.newsbreak.com/the-daily-times-1593744/4391364257212-state-receives-waiver-for-snap",
+    "ord_in_thread": 0,
+    "author": "Staff Reports",
+    "published": "2025-12-11T01:00:00.000+02:00",
+    "title": "State receives waiver for SNAP - NewsBreak",
+    "text": "By Staff Reports ,\n6 hours ago U.S. Secretary of Agriculture Brooke L. Rollins announced the approval of six new state SNAP food-choice waivers under the Make America Healthy Again initiative. The waivers, submitted by Hawai‘i, Missouri, North Dakota, South Carolina, Virginia and Tennessee, will amend the statutory definition of “food for purchase” under the Supplemental Nutrition Assistance Program beginning in 2026.\nGov. Bill Lee expressed appreciation for the waiver submitted by the state earlier this year.\n“The Trump Administration's leadership to create innovative, responsible solutions that strengthen families and improve health outcomes will have a lasting impact on Tennesseans for generations to come,” said Lee. “I’m grateful to President Trump, Secretary Rollins, and Secretary Kennedy for quickly approving our SNAP waiver, and to our retailers and food producers for helping ensure nutritious food choices reach every community across our state.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Health",
+        "Social Issue"
+    ],
+    "topics": [
+        "Health->government health care",
+        "Health->public health",
+        "Social Issue->welfare"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://apg01.newzware.com/ss70v2/adams/common/template.jsp?init=start&initEdition=TDT",
+        "https://apg01.newzware.com/ss70v2/adams/common/template.jsp",
+        "https://www.apg01.newzware.com/ss70v2/adams/common/template.jsp?init=start&initEdition=TDT"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brooke L. Rollins",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bill Lee",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kennedy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Supplemental Nutrition Assistance Program",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Trump Administration",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-11T07:29:50.013+02:00",
+    "updated": "2025-12-11T07:49:52.000+02:00"
+}

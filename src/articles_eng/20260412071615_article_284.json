@@ -1,0 +1,148 @@
+{
+    "thread": {
+        "uuid": "061ed6b108b0dd2cb8011aeacdc2e3c04f0c6b63",
+        "url": "https://www.newsbreak.com/news/4582726006646-car-crashes-into-castro-valley-7-eleven",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/oakland-ca",
+        "site_categories": [
+            "under_construction",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "sport",
+            "politics",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Oakland, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Car crashes into Castro Valley 7-Eleven - NewsBreak",
+        "title_full": "Car crashes into Castro Valley 7-Eleven - NewsBreak",
+        "published": "2026-04-09T05:15:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/013yQ7_1AIf2TGB00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "061ed6b108b0dd2cb8011aeacdc2e3c04f0c6b63",
+    "url": "https://www.newsbreak.com/news/4582726006646-car-crashes-into-castro-valley-7-eleven",
+    "ord_in_thread": 0,
+    "author": "KTVU Staff",
+    "published": "2026-04-09T05:15:00.000+03:00",
+    "title": "Car crashes into Castro Valley 7-Eleven - NewsBreak",
+    "text": "By KTVU Staff ,\n17 hours ago CASTRO VALLEY, Calif. - A car smashed into the front of a 7-Eleven convenience store in Castro Valley on Wednesday evening. According to the Alameda County Fire Department, a report came in around 6:23 p.m. regarding a crash at a 7-Eleven in the 22000 block of Redwood Road. Injuries reported. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Calif",
+                "sentiment": "none"
+            },
+            {
+                "name": "Castro Valley",
+                "sentiment": "none"
+            },
+            {
+                "name": "Redwood Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "KTVU",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Alameda County Fire Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Oakland"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:27:59.346+03:00",
+    "updated": "2026-04-09T22:44:00.402+03:00"
+}

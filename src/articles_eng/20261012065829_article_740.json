@@ -1,0 +1,116 @@
+{
+    "thread": {
+        "uuid": "14332c3951357837adf76d33c793c516c5078abf",
+        "url": "https://www.wbur.org/radio/programs/hereandnow",
+        "site_full": "www.wbur.org",
+        "site": "wbur.org",
+        "site_section": "https://www.wbur.org/radio/programs/hereandnow",
+        "site_categories": [
+            "lifestyle and leisure",
+            "media",
+            "economy, business and finance",
+            "social issue",
+            "human interest",
+            "health",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "politics",
+            "science and technology"
+        ],
+        "section_title": "Here &amp; Now",
+        "site_title": "WBUR",
+        "title": "Here & Now",
+        "title_full": "Here & Now",
+        "published": "2026-10-09T07:24:24.845+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.wbur.org/wp/2016/06/HereandNow-3000b-1000x1000.jpg",
+        "performance_score": 10,
+        "domain_rank": 9636,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 1069,
+                "likes": 1446,
+                "comments": 452
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T04:24:33.000+00:00"
+        }
+    },
+    "uuid": "14332c3951357837adf76d33c793c516c5078abf",
+    "url": "https://www.wbur.org/radio/programs/hereandnow",
+    "ord_in_thread": 0,
+    "author": "@wbur",
+    "published": "2026-10-09T07:24:24.845+03:00",
+    "title": "Here & Now",
+    "text": "What's left to say about cookies? In 'The New Cookie' from America's Test Kitchen, there's plenty\nThe illustrated book works as well for novices as it does professionals, with explanations of why the recipes work, as well as tips and illustrated tutorials on techniques.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue"
+    ],
+    "topics": [
+        "Social Issue->social condition"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "America",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_ma",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Boston"
+            ],
+            "state": [
+                "Massachusetts"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:24:24.845+03:00",
+    "updated": "2026-10-09T07:26:22.000+03:00",
+    "related_articles": null
+}

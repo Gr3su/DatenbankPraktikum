@@ -1,0 +1,150 @@
+{
+    "thread": {
+        "uuid": "a685c443362f0941d08ede32df316d5ed4350f2e",
+        "url": "https://www.newsbreak.com/news/4757060365296-morenci-copper-mine-worker-killed-in-accident-in-eastern-arizona",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/willcox-az",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "sport",
+            "human interest",
+            "disaster and accident",
+            "under_construction",
+            "social issue",
+            "politics",
+            "crime, law and justice",
+            "economy, business and finance",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Willcox, AZ Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Morenci copper mine worker killed in accident in eastern Arizona - NewsBreak",
+        "title_full": "Morenci copper mine worker killed in accident in eastern Arizona - NewsBreak",
+        "published": "2026-07-08T00:45:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2ixvcU_1D5JopwF00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a685c443362f0941d08ede32df316d5ed4350f2e",
+    "url": "https://www.newsbreak.com/news/4757060365296-morenci-copper-mine-worker-killed-in-accident-in-eastern-arizona",
+    "ord_in_thread": 0,
+    "author": "KJZZ",
+    "published": "2026-07-08T00:45:00.000+03:00",
+    "title": "Morenci copper mine worker killed in accident in eastern Arizona - NewsBreak",
+    "text": "By KJZZ ,\n1 days ago A Morenci copper mine worker died on the job Monday. The employee was fatally injured that morning. According to the mine’s owner, Arizona based Freeport-McMoRan, the worker was involved in a haul truck accident. \"We are deeply saddened to confirm that a Freeport-McMoRan employee was fatally injured Monday morning... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->accident and emergency incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kjzz.org/business/2026-07-07/morenci-copper-mine-worker-killed-in-accident-in-eastern-arizona",
+        "https://kjzz.org/business/2026-07-07/morenci-copper-mine-worker-killed-in-accident-in-eastern-arizona"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Arizona",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Morenci",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "KJZZ",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Freeport - McMoRan",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "FCX",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Willcox"
+            ],
+            "state": [
+                "Arizona"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:35:36.343+03:00",
+    "updated": "2026-07-09T07:40:40.000+03:00"
+}

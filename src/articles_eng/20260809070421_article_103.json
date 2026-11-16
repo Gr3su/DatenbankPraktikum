@@ -1,0 +1,126 @@
+{
+    "thread": {
+        "uuid": "afcc36d1ba1def37613eb646733bb02343d12f4a",
+        "url": "https://dean.house.gov/2026/7/madeleine-dean-trump-is-distracted-by-his-own-vanity",
+        "site_full": "dean.house.gov",
+        "site": "house.gov",
+        "site_section": "https://dean.house.gov/videos",
+        "site_categories": [],
+        "section_title": "Videos | Congresswoman Madeleine Dean",
+        "site_title": "Congresswoman Madeleine Dean",
+        "title": "CNN | Madeleine Dean: Trump is \"distracted by his own vanity.\" | Videos | Congresswoman Madeleine Dean",
+        "title_full": "CNN | Madeleine Dean: Trump is \"distracted by his own vanity.\" | Videos | Congresswoman Madeleine Dean",
+        "published": "2026-07-16T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "afcc36d1ba1def37613eb646733bb02343d12f4a",
+    "url": "https://dean.house.gov/2026/7/madeleine-dean-trump-is-distracted-by-his-own-vanity",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-07-16T07:00:00.000+03:00",
+    "title": "CNN | Madeleine Dean: Trump is \"distracted by his own vanity.\" | Videos | Congresswoman Madeleine Dean",
+    "text": "As President Trump prepares for a primetime address, Congresswoman Madeleine Dean (PA-04) joins CNN News Central to discuss how his continued revenge tour comes at the expense of American families' ability to afford gas, groceries, healthcare, and housing.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government policy",
+        "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Madeleine Dean",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "CNN",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "WBD",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "News Central",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "gov_news",
+            "city": [
+                "Washington"
+            ],
+            "state": [
+                "DC"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": "Federal - Legislative",
+            "agency": "The Legislative Branch",
+            "organization_name": "US House of Representatives"
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:08:32.734+03:00",
+    "updated": "2026-08-06T07:10:23.000+03:00"
+}

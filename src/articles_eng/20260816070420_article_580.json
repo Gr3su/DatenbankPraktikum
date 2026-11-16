@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "b5bf15b9566ef310f4ce51d8edf2ab659a33fb2f",
+        "url": "https://www.newsbreak.com/news/4825304378140-ambulance-service-concerns-at-county-board-meeting",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/fillmore-il",
+        "site_categories": [
+            "economy, business and finance",
+            "politics",
+            "human interest",
+            "arts, culture and entertainment",
+            "sport",
+            "social issue",
+            "health",
+            "crime, law and justice",
+            "science and technology",
+            "lifestyle and leisure",
+            "under_construction"
+        ],
+        "section_title": "Fillmore, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Ambulance Service Concerns At County Board Meeting - NewsBreak",
+        "title_full": "Ambulance Service Concerns At County Board Meeting - NewsBreak",
+        "published": "2026-08-12T20:52:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b5bf15b9566ef310f4ce51d8edf2ab659a33fb2f",
+    "url": "https://www.newsbreak.com/news/4825304378140-ambulance-service-concerns-at-county-board-meeting",
+    "ord_in_thread": 0,
+    "author": "WGEL",
+    "published": "2026-08-12T20:52:00.000+03:00",
+    "title": "Ambulance Service Concerns At County Board Meeting - NewsBreak",
+    "text": "By WGEL ,\n10 hours ago At the recent meeting of the Bond County Board, local medical personnel expressed concerns regarding the dependability of ambulance service when needed for patient transfers from Holy Family Hospital in Greenville. Mike Bond, an emergency room doctor at the hospital, said over the past three to four years he has... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->medical service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://wgel.com/news/2026/08/ambulance-service-concerns-at-county-board-meeting/",
+        "https://wgel.com/news/2026/08/ambulance-service-concerns-at-county-board-meeting",
+        "https://www.wgel.com/news/2026/08/ambulance-service-concerns-at-county-board-meeting/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mike Bond",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Greenville",
+                "sentiment": "none"
+            },
+            {
+                "name": "Holy Family Hospital",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bond County Board",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Fillmore"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:30:44.729+03:00",
+    "updated": "2026-08-13T07:33:03.000+03:00"
+}

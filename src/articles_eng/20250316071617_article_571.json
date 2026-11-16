@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "7e5b2904c66a02c8609e4e7681a0be8a4cb2d2a8",
+        "url": "https://www.world-today-news.com/sambanova-unveils-fastest-deepseek-r1-671b-with-highest-efficiency",
+        "site_full": "www.world-today-news.com",
+        "site": "world-today-news.com",
+        "site_section": "https://www.world-today-news.com",
+        "site_categories": [],
+        "section_title": "World Today News - www.world-today-news.com/",
+        "title": "SambaNova Unveils Fastest DeepSeek-R1 671B with Highest Efficiency",
+        "title_full": "SambaNova Unveils Fastest DeepSeek-R1 671B with Highest Efficiency",
+        "published": "2025-02-14T02:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://sambanova.ai/hubfs/aa-output-speed-r1-20250213-16x9.png",
+        "performance_score": 0,
+        "domain_rank": 29776,
+        "domain_rank_updated": "2025-02-10T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7e5b2904c66a02c8609e4e7681a0be8a4cb2d2a8",
+    "url": "https://www.world-today-news.com/sambanova-unveils-fastest-deepseek-r1-671b-with-highest-efficiency",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "world today news",
+    "published": "2025-02-14T02:20:00.000+02:00",
+    "title": "SambaNova Unveils Fastest DeepSeek-R1 671B with Highest Efficiency",
+    "text": "Certainly! Here is the thorough reply based on the provided web search results:\nSambaNova has made significant strides​ in the ⁤AI domain, notably in ⁤addressing the challenges associated with Deep-R1’s inference at scale. The company has unveiled innovative solutions‍ that⁢ promise to revolutionize the efficiency and cost-effectiveness ⁤of AI deployment.\nKey Developments: SambaNova Cloud Starter Kits : SambaNova offers⁣ Cloud Starter Kits⁤ designed to bootstrap application advancement for common AI use cases. These‍ kits provide open-source Python code ‌available on SambaNova’s GitHub, allowing developers to see how ⁣the code works and customize it to their ⁣needs. This initiative helps in proving⁤ the business value of ‌AI⁣ by making it easier to develop and deploy AI applications quickly.\n⁤ ⁤\nSource : SambaNova Cloud Starter Kits\nSN40L AI Chip : ⁤ SambaNova has ‍introduced a new AI chip, the SN40L, which is designed to power its full-stack AI platform, the SambaNova ⁣Suite. This⁤ revolutionary chip offers both dense and sparse compute capabilities and⁢ includes large and fast memory, ‌making it an “intelligent chip.” The SN40L is set to enhance the performance and efficiency ⁣of AI models significantly. Source : SambaNova Unveils New AI chip, the SN40L\nDeep-R1 671B on SambaNova Cloud : ⁣ SambaNova has announced that the Deep-R1 671B model is now running on ​SambaNova Cloud at ‍an impressive speed of 198 tokens per second. This achievement underscores SambaNova’s ⁢commitment to delivering ⁤the most efficient AI chips and the fastest models available.\nSource : SambaNova Launches the Fastest Deep-R1 671B\nSolving Deep’s Biggest Challenge: Deep-R1 has revolutionized AI by‌ reducing training costs by​ tenfold. Though, its ⁤widespread adoption has been hindered by the high computational requirements‌ for inference, making AI production costlier. The ⁢inefficiency of GPU-based inference has further exacerbated ‌this issue, keeping Deep-R1 out of reach for many developers.\nSambaNova has addressed this challenge by introducing a proprietary dataflow architecture and a ⁤three-tier memory design in its SN40L Reconfigurable Dataflow Unit (RDU) chips. These innovations collapse the⁣ hardware requirements for running Deep-R1 671B ⁣efficiently from 40 ⁣racks (320 of the latest⁢ GPUs) down to just 1 rack (16 RDUs). This breakthrough unlocks cost-effective inference at unmatched ⁤efficiency, ‌making Deep-R1 accessible to a broader range of developers and organizations.\nQuotes: George Cameron, Co-Founder, Artificial Analysis : “sambanova’s high output⁢ speeds will support the use⁢ of reasoning⁤ models in latency-sensitive use cases.” Rodrigo Liang, CEO of SambaNova : “Deep-R1 is one ‍of the most advanced frontier AI models available, but its⁤ full potential has been ⁢limited by the inefficiency of GPUs. That changes today. We’re bringing the next major ‌breakthrough — collapsing inference costs and reducing hardware requirements from 40 racks to just⁤ one ⁤— to offer Deep-R1 at the fastest speeds, efficiently.” These advancements by SambaNova are poised to significantly impact the AI ⁤landscape, making powerful models like Deep-R1 more accessible‌ and efficient for developers and⁤ businesses alike.\nKey Highlights from SambaNova ‍Systems SambaNova Systems is making significant strides in the ​AI‍ computing landscape, particularly with its innovative approach to handling large language models like Deep-R1. here are some key points:\nUnprecedented Efficiency : ​ – SambaNova’s RDU (Reconfigurable Dataflow‍ Unit) architecture is set to achieve 00 tokens/s of total rack throughput in the near future.\n​ -‍ This efficiency is ⁢unprecedented⁣ compared to GPUs due to inherent memory and data communication bottlenecks.\nScaling Capacity : – SambaNova is rapidly scaling its capacity to meet anticipated demand.\n– By the ⁣end of the year, they will offer more ⁣than​ 100 times the current global capacity for ​Deep-R1.\n‍ – This makes their RDUs ​the most efficient enterprise solution for⁣ reasoning models.\nDeep-R1 Availability : ⁤ – The⁢ Deep-R1 671B full model is⁤ now available to all users via API on SambaNova Cloud.\n‍ – Users can experience this model by visiting cloud.sambanova.ai .\nCompany Overview : – SambaNova Systems is a leader ​in providing state-of-the-art generative​ AI capabilities for enterprises.\n– Their purpose-built enterprise-scale⁣ AI platform ‌serves as the technology backbone for‍ the next generation of AI computing.\n​ – Founded in 2017 by‍ industry ‍luminaries and experts from Sun/Oracle and Stanford University, the company is headquartered in Palo Alto, California.\n​ – Investors⁤ include SoftBank Vision Fund 2, BlackRock, Intel Capital, GV, Walden International,‌ Temasek, GIC, Redline Capital, Atlantic Bridge Ventures, Celesta, and⁤ several others.\nContact and Social Media : – Visit SambaNova Systems at sambanova.ai .\n– Contact them at info@sambanova.ai .\n– Follow ⁤SambaNova Systems on ⁢ LinkedIn and X .\nConclusion SambaNova Systems is at the forefront of AI innovation, offering unparalleled efficiency⁤ and scalability for enterprise AI solutions. ‌Their Deep-R1 model and expanding cloud services are set to revolutionize how businesses deploy generative AI capabilities.\nInterview​ with SambaNova Systems: Transforming Enterprise AI with Deep-R1 In an exclusive interview, we ‌sat down with the experts at SambaNova Systems to discuss their cutting-edge advancements in AI technology. SambaNova is making waves in the AI landscape with ⁢its​ innovative solutions designed for handling large language ‌models ⁤like Deep-R1. ​Here are the key highlights ‍from our discussion:\nunprecedented Efficiency with RDU Architecture Q: Coudl you elaborate on the efficiency achieved by SambaNova’s RDU ‌architecture?\nA: Certainty! SambaNova’s RDU (Reconfigurable Dataflow Unit) architecture is⁢ designed to achieve unprecedented⁣ efficiency in‌ AI inference.⁤ We aim to reach 00 tokens/s of total rack throughput in the near ⁣future. This ⁢is considerably more efficient than GPUs due to inherent memory⁤ and data communication bottlenecks that⁤ they ‍suffer from.\nScaling Capacity‍ to Meet ‌Demand Q: How‌ is SambaNova addressing the‍ scaling​ needs for its​ technology?\nA: ​We are rapidly scaling our capacity to meet ⁣the anticipated demand. By the end of this year, we will offer more than ​100 ⁢times the ⁤current global capacity for Deep-R1. This makes our RDUs the most ‌efficient enterprise solution for large language models.\nAccessibility of Deep-R1 on SambaNova Cloud Q: ⁢What are the‍ key features and benefits of the Deep-R1 model⁢ available on SambaNova Cloud?\nA: The Deep-R1 671B full ⁣model ⁤is now available to all users via⁣ API ⁤on SambaNova Cloud. Users can⁤ experience this by ⁣visiting our⁢ cloud platform. This allows developers and businesses to harness the power ‌of Deep-R1 efficiently and effectively.\nCompany ⁢Overview Q: Could you provide a brief overview of SambaNova Systems and‍ its‍ mission?\nA: SambaNova Systems​ is a‍ leader in providing state-of-the-art generative AI capabilities for enterprises. Our purpose-built enterprise-scale AI platform ⁣serves as the⁢ technology backbone for⁣ the⁤ next generation of‍ AI ​computing.Founded in 2017 by industry luminaries and experts ⁢from Sun/Oracle ‌and Stanford University, we are headquartered in Palo Alto, California.\nOur mission is to make AI more accessible and powerful for enterprises​ worldwide. We achieve this by offering innovative solutions that streamline AI‍ deployment and enhance efficiency.\nContact Details Q: How can readers contact SambaNova ⁤Systems​ or follow your latest updates?\nA: ‍ Readers can visit⁤ us at sambanova.ai , or email us at info@sambanova.ai . ​They can also follow us on LinkedIn and X for the latest updates.\nconclusion SambaNova ​Systems ​is at the forefront of ‌AI innovation, offering unparalleled efficiency and scalability for enterprise AI solutions.⁢ their ‍Deep-R1 model and expanding ⁤cloud services are set to revolutionize how businesses deploy generative AI capabilities. The company’s commitment to addressing the challenges in AI inference⁤ and its dedication ⁤to ⁣scaling its ‍technology make ⁢it a leader in this rapidly evolving field.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science",
+        "Science and Technology->scientific innovation",
+        "Economy, Business and Finance->computing and information technology",
+        "Economy, Business and Finance->products and services",
+        "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.silicon.co.uk/press-release/sambanova-launches-the-fastest-deepseek-r1-671b-with-the-highest-efficiency",
+        "https://sambanova.ai/press/sambanova-unveils-new-chip-the-sn40l",
+        "https://cloud.sambanova.ai/aisk",
+        "https://x.com/sambanovaai",
+        "https://cloud.sambanova.ai",
+        "https://www.linkedin.com/company/sambanova/",
+        "https://sambanova.ai",
+        "https://www.cloud.sambanova.ai",
+        "https://www.sambanova.ai",
+        "https://www.x.com/sambanovaai",
+        "https://www.linkedin.com/company/sambanova",
+        "https://linkedin.com/company/sambanova/",
+        "https://www.sambanova.ai/press/sambanova-unveils-new-chip-the-sn40l",
+        "https://www.cloud.sambanova.ai/aisk",
+        "https://silicon.co.uk/press-release/sambanova-launches-the-fastest-deepseek-r1-671b-with-the-highest-efficiency"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ]
+    },
+    "rating": null,
+    "crawled": "2025-02-14T04:00:14.158+02:00",
+    "updated": "2025-02-14T04:00:14.158+02:00"
+}

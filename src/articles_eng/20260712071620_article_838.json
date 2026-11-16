@@ -1,0 +1,122 @@
+{
+    "thread": {
+        "uuid": "9aa2eaea43c65e5d6c4b2a20f71705fc75b64a06",
+        "url": "https://www.emporiagazette.com/free/article_c224a9c6-d803-4e53-b86f-f92f5f792ebf.html",
+        "site_full": "www.emporiagazette.com",
+        "site": "emporiagazette.com",
+        "site_section": "https://www.emporiagazette.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
+        "site_categories": [
+            "sport",
+            "economy, business and finance",
+            "education",
+            "social issue",
+            "politics",
+            "lifestyle and leisure",
+            "media",
+            "arts, culture and entertainment",
+            "human interest",
+            "health"
+        ],
+        "section_title": "www.emporiagazette.com - RSS Results in news of type article",
+        "site_title": "emporiagazette.com | To practice excellence in community journalism",
+        "title": "Marginal Severe Weather Chance Wednesday Evening into Thursday for Emporia Area",
+        "title_full": "Marginal Severe Weather Chance Wednesday Evening into Thursday for Emporia Area",
+        "published": "2026-07-08T20:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/emporiagazette.com/content/tncms/assets/v3/editorial/2/eb/2ebf6aca-67cf-4280-9aa6-a645d4c14952/6a4e803058849.image.png?crop=912%2C479%2C0%2C16",
+        "performance_score": 0,
+        "domain_rank": 240156,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9aa2eaea43c65e5d6c4b2a20f71705fc75b64a06",
+    "url": "https://www.emporiagazette.com/free/article_c224a9c6-d803-4e53-b86f-f92f5f792ebf.html",
+    "ord_in_thread": 0,
+    "author": "Trey Donovan sports@emporia.com",
+    "published": "2026-07-08T20:00:00.000+03:00",
+    "title": "Marginal Severe Weather Chance Wednesday Evening into Thursday for Emporia Area",
+    "text": "Severe weather may be in the forecast for towns west of Emporia, with a slight chance of those storms reaching the Emporia Area. The storms are expected to hit areas along and west of the Kansas Turnpike and dissipate before reaching Emporia.\nThose storms could generate winds reaching 65 mph and heavy rainfall before they dissipate and the areas where the storm could hit are in a marginal risk zone. After tonight’s potential storms, there is a chance that the storms will redevelop on Thursday, with the Emporia Area being in a marginal risk for wind gusts at or above 60 mph.\nThe National Weather Service states the main time period for these risks is in the late afternoon to evening hours and that it could extend into Friday. The forecast afterwards sees the area get warmer and more humid with air temperatures being in the low 90’s and the heat index reaching the high 90’s. There are also chances for rainfall and thunderstorms on Sunday. Stay tuned for updates.",
+    "summary": "The storms are expected to hit areas along and west of the Kansas Turnpike and dissipate before reaching Emporia. Those storms could generate winds reaching 65 mph and heavy rainfall before they dissipate and the areas where the storm could hit are in a marginal risk zone. After tonight’s potential storms, there is a chance that the storms will redevelop on Thursday, with the Emporia Area being in a marginal risk for wind gusts at or above 60 mph.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Environment",
+        "Weather"
+    ],
+    "topics": [
+        "Environment->climate change",
+        "Weather->weather warning",
+        "Weather->weather forecast"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Emporia Area",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weathe",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Ionia",
+                "Emporia"
+            ],
+            "state": [
+                "Virginia",
+                "Kansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:37:18.195+03:00",
+    "updated": "2026-07-09T07:43:09.000+03:00"
+}

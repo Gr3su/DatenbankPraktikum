@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "d6da4851d0f4d4db8fecf4cf4c5dded1cad0e485",
+        "url": "https://www.newsbreak.com/news/4744629504624-paramedic-pulls-people-from-burning-car-after-crash",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/daytona-beach-fl",
+        "site_categories": [
+            "economy, business and finance",
+            "politics",
+            "social issue",
+            "disaster and accident",
+            "lifestyle and leisure",
+            "under_construction",
+            "sport",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "human interest"
+        ],
+        "section_title": "Daytona Beach, FL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Paramedic pulls people from burning car after crash - NewsBreak",
+        "title_full": "Paramedic pulls people from burning car after crash - NewsBreak",
+        "published": "2026-07-02T00:32:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1T4hxW_1CtnhjrU00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d6da4851d0f4d4db8fecf4cf4c5dded1cad0e485",
+    "url": "https://www.newsbreak.com/news/4744629504624-paramedic-pulls-people-from-burning-car-after-crash",
+    "ord_in_thread": 0,
+    "author": "wogx.com",
+    "published": "2026-07-02T00:32:00.000+03:00",
+    "title": "Paramedic pulls people from burning car after crash - NewsBreak",
+    "text": "7 hours ago Rosalee Rositer, a firefighter/paramedic with New Smyrna Beach Fire Rescue, was on her way home when she saw another driver leave the roadway and crash into the woods off the highway. Moments later, the vehicle caught fire. She and others rushed in to help pull the couple from the vehicle. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wogx.com/video/fmc-979e338rpk1h7el9.amp",
+        "https://wogx.com/video/fmc-979e338rpk1h7el9.amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rosalee Rositer",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "New Smyrna Beach Fire Rescue",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Daytona Beach"
+            ],
+            "state": [
+                "Florida"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:42:34.583+03:00",
+    "updated": "2026-07-02T07:45:00.000+03:00"
+}

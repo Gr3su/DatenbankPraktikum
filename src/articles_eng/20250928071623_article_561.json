@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "79e1247cad3a6c14babcb24b4fd4ce6b52bf6a1b",
+        "url": "http://www.harrisondaily.com/stories/news-from-comptonhilltop,322855",
+        "site_full": "www.harrisondaily.com",
+        "site": "harrisondaily.com",
+        "site_section": "https://harrisondaily.com/people",
+        "site_categories": [],
+        "section_title": "People - Harrison Daily",
+        "site_title": "Home - Harrison Daily",
+        "title": "News from Compton/Hilltop",
+        "title_full": "News from Compton/Hilltop",
+        "published": "2025-09-15T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://alpha.creativecirclecdn.com/harrison/original/20250915-201804-f11-66d8aa823c9deimage.jpg",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "79e1247cad3a6c14babcb24b4fd4ce6b52bf6a1b",
+    "url": "http://www.harrisondaily.com/stories/news-from-comptonhilltop,322855",
+    "ord_in_thread": 0,
+    "author": "Matthew Piper matthewpiper72601@gmail.com",
+    "published": "2025-09-15T03:00:00.000+03:00",
+    "title": "News from Compton/Hilltop",
+    "text": "The Compton Volunteer Fire Department will be hosting the annual Fall Chili Supper on Saturday, October 18, at the old Compton School Cafeteria (Compton Community Building). Supper will be served from 4:30-7 p.m. There will be chili, soup, and desserts. Everyone is welcome to attend and support our local firefighters and EMS workers.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Lifestyle and Leisure",
+        "Social Issue"
+    ],
+    "topics": [
+        "Human Interest->ceremony",
+        "Lifestyle and Leisure->leisure",
+        "Lifestyle and Leisure->club and association",
+        "Lifestyle and Leisure->holiday",
+        "Social Issue->fraternal and community group",
+        "Social Issue->social networking",
+        "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Compton Volunteer Fire Department",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Compton School Cafeteria",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "EMS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Allport",
+                "Alpena",
+                "Harrison",
+                "Omaha",
+                "Ponca",
+                "Lead Hill",
+                "Batavia",
+                "Wayton",
+                "Bergman",
+                "Bellefonte"
+            ],
+            "state": [
+                "New York",
+                "Arkansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-25T07:33:33.999+03:00",
+    "updated": "2025-09-25T07:47:31.000+03:00"
+}

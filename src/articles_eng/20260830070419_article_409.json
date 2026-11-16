@@ -1,0 +1,164 @@
+{
+    "thread": {
+        "uuid": "7cc6369cc99f1cd686457f2b9bc230cc5dbd8a65",
+        "url": "https://www.newsbreak.com/wjtv-12-1589959/4851204608902-waterline-damage-causes-outage-in-madison-county",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/yazoo-city-ms",
+        "site_categories": [
+            "politics",
+            "crime, law and justice",
+            "science and technology",
+            "lifestyle and leisure",
+            "under_construction",
+            "economy, business and finance",
+            "sport",
+            "social issue",
+            "human interest",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Yazoo City, MS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Waterline damage causes outage in Madison County - NewsBreak",
+        "title_full": "Waterline damage causes outage in Madison County - NewsBreak",
+        "published": "2026-08-26T23:54:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3pWGBt_1EbB60zM00",
+        "performance_score": 0,
+        "domain_rank": 3157,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7cc6369cc99f1cd686457f2b9bc230cc5dbd8a65",
+    "url": "https://www.newsbreak.com/wjtv-12-1589959/4851204608902-waterline-damage-causes-outage-in-madison-county",
+    "ord_in_thread": 0,
+    "author": "Tommy West",
+    "published": "2026-08-26T23:54:00.000+03:00",
+    "title": "Waterline damage causes outage in Madison County - NewsBreak",
+    "text": "By Tommy West ,\n7 hours ago\nMADISON COUNTY, Miss. ( WJTV ) - A water outage has been reported for the Bear Creek Water Association in Madison County.\nOfficials said the outage affected the subdivisions along Hoy Road and North Old Canton Road on August 26, 2026. They said a major waterline was damaged.\nCrews responded to the area to make repairs and restore service.\n[sailthru_widget name=\"Sailthru Widget Block\" sailthru_list=\"Daily News\" title=\"Daily News\"] Copyright 2026 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.\nFor the latest news, weather, sports, and streaming video, head to WJTV.",
+    "summary": "Officials said the outage affected the subdivisions along Hoy Road and North Old Canton Road on August 26, 2026. Crews responded to the area to make repairs and restore service. [sailthru_widget name=\"Sailthru Widget Block\" sailthru_list=\"Daily News\" title=\"Daily News\"] Copyright 2026 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. For the latest news, weather, sports, and streaming video, head to WJTV.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->accident and emergency incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wjtv.com/",
+        "https://www.wjtv.com/nxs-video/vid-anvato-12108437/embed/?post_id=3120501&injected_via=feed&autoplay=false&preroll=true",
+        "https://img.particlenews.com/image.php?url=3pWGBt_1EbB60zM00",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3pWGBt_1EbB60zM00",
+        "https://www.wjtv.com",
+        "https://wjtv.com/nxs-video/vid-anvato-12108437/embed/?post_id=3120501&injected_via=feed&autoplay=false&preroll=true",
+        "https://wjtv.com/",
+        "https://www.img.particlenews.com/image.php?url=3pWGBt_1EbB60zM00",
+        "https://www.wjtv.com",
+        "https://wjtv.com",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3pWGBt_1EbB60zM00",
+        "https://www.wjtv.com/nxs-video/vid-anvato-12108437/embed/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tommy West",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Madison County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hoy Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "North Old Canton Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Daily News",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Nexstar Media, Inc",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "NXST",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Bear Creek Water Association",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Yazoo City"
+            ],
+            "state": [
+                "Mississippi"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:18:46.241+03:00",
+    "updated": "2026-08-27T07:26:23.000+03:00"
+}

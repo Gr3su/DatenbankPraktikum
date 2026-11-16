@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "8e5146ce0d494aadd6f7e24dc121c1770f2065a0",
+        "url": "https://www.news18.com/tech/android-users-get-critical-security-alert-from-indian-govt-what-you-should-know-9956167.html",
+        "site_full": "www.news18.com",
+        "site": "news18.com",
+        "site_section": "https://www.news18.com/commonfeeds/v1/eng/rss/text.xml",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "media",
+            "war, conflict and unrest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Text News in news18.com, Text Latest News, Text News",
+        "site_title": "News: Get Latest News Today, Breaking News, Top News Headlines, India and World News | News18",
+        "title": "Android Users Get Critical Security Alert From Indian Govt: What You Should Know | Tech News - News18",
+        "title_full": "Android Users Get Critical Security Alert From Indian Govt: What You Should Know | Tech News - News18",
+        "published": "2026-03-12T07:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.news18.com/ibnlive/uploads/2025/03/Android-apps-malware-threat-delete-warning-2025-03-4ee65fef9c9060a6cc9e4ea524fd5ceb-16x9.jpg",
+        "performance_score": 0,
+        "domain_rank": 3556,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8e5146ce0d494aadd6f7e24dc121c1770f2065a0",
+    "url": "https://www.news18.com/tech/android-users-get-critical-security-alert-from-indian-govt-what-you-should-know-9956167.html",
+    "ord_in_thread": 0,
+    "author": "@cnnnews18",
+    "published": "2026-03-12T07:10:00.000+02:00",
+    "title": "Android Users Get Critical Security Alert From Indian Govt: What You Should Know | Tech News - News18",
+    "text": "Millions of Android users and phone makers are at a serious risk of being hacked and the Indian government has issued its latest security alert for millions of users in the country. The new risk alert comes via the Indian Computer Emergency Response Team (CERT-In) this month where it says the issues can allow attackers to gain sensitive information, and cause denial of service conditions on the targeted system. The new security issue is unique from the previous ones because the alert is not directed at a particular Android version but focuses on Android at the kernel level. The CERT-In warning highlights the risks linked to OpenSSL versions that are heavily integrated into Android applications that can be exploited at a critical level, which is what the warning also suggests. Android Security Issue: What It Says As per the CERT-In bulletin which itself comes with a critical severity rating suggests the issues are widespread and need the attention of a host of manufacturers. “Multiple vulnerabilities exist in Android due to flaws in Android bug ID, Qualcomm reference number, MediaTek reference number, NVIDIA reference number, Broadcom reference number, UNISOC reference number.\" The issue majorly affects these OpenSSL versions: The target with these vulnerabilities could be anyone from organisations to end users who rely on Android devices for their work and personal use. The major impact of these issues is that you see the system compromised, disrupting the systems for businesses and gaining access to confidential data without your consent. It won’t be easy to track down these versions for regular users but Google has a very clear mandate for everyone with an Android phone and that is to install the latest March 2026 update for the devices.",
+    "summary": "Millions of Android users and phone makers are at a serious risk of being hacked and the Indian government has issued its latest security alert for millions of users in the country. The new risk alert comes via the Indian Computer Emergency Response Team (CERT-In) this month where it says the issues can allow attackers to gain sensitive information, and cause denial of service conditions on the targeted system.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->technology and engineering",
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-12T07:23:52.653+02:00",
+    "updated": "2026-03-12T07:29:56.000+02:00"
+}

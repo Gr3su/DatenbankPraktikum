@@ -1,0 +1,150 @@
+{
+    "thread": {
+        "uuid": "ce3c1b1616962589b06dc22aa4313f251205e7e2",
+        "url": "https://www.newsbreak.com/news/4890250542756-missing-patient-from-nh-hospital-has-been-found-and-is-in-custody",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/northfield-nh",
+        "site_categories": [
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "sport",
+            "social issue",
+            "under_construction",
+            "politics",
+            "arts, culture and entertainment",
+            "human interest",
+            "crime, law and justice"
+        ],
+        "section_title": "Northfield, NH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Missing patient from NH hospital has been found and is in custody - NewsBreak",
+        "title_full": "Missing patient from NH hospital has been found and is in custody - NewsBreak",
+        "published": "2026-09-16T23:10:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1p73Y8_1FDWkOpC00",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ce3c1b1616962589b06dc22aa4313f251205e7e2",
+    "url": "https://www.newsbreak.com/news/4890250542756-missing-patient-from-nh-hospital-has-been-found-and-is-in-custody",
+    "ord_in_thread": 0,
+    "author": "Asher Klein",
+    "published": "2026-09-16T23:10:00.000+03:00",
+    "title": "Missing patient from NH hospital has been found and is in custody - NewsBreak",
+    "text": "By Asher Klein ,\n8 hours ago Police said Wednesday night that a patient who left New Hampshire's Concord Hospital has been located. The woman has been a patient at New Hampshire Hospital, which provides acute psychiatric care, according to New Hampshire State Police. She was reported missing Wednesday. Authorities said she was not believed to be... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest"
+    ],
+    "topics": [
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nbcboston.com/news/local/concord-nh-patient-search/4015952/?amp=1",
+        "https://nbcboston.com/news/local/concord-nh-patient-search/4015952/?amp=1",
+        "https://www.nbcboston.com/news/local/concord-nh-patient-search/4015952/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Asher Klein",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "New Hampshire Hospital",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Con",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "CON",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "New Hampshire State Police",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Tilton Northfield"
+            ],
+            "state": [
+                "New Hampshire"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T07:56:13.850+03:00",
+    "updated": "2026-09-17T08:05:51.000+03:00"
+}

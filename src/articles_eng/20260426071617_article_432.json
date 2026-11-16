@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "817ec4bc97fe3dfb2ad7d8e7a416c0a080ae4067",
+        "url": "https://www.ntd.com/ntdplus/new-york-attorney-general-sues-prediction-markets-coinbase-and-gemini-titan-for-illegal-gambling_1140496.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://api.ntd.com/feed",
+        "site_categories": [
+            "war, conflict and unrest",
+            "politics",
+            "crime, law and justice",
+            "media",
+            "architects",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "real_estate"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "New York Attorney General Sues Prediction Markets Coinbase and Gemini Titan for Illegal Gambling",
+        "title_full": "New York Attorney General Sues Prediction Markets Coinbase and Gemini Titan for Illegal Gambling",
+        "published": "2026-04-23T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2024/12/id1036978-ag-james.jpg-654x400.webp",
+        "performance_score": 0,
+        "domain_rank": 59249,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "817ec4bc97fe3dfb2ad7d8e7a416c0a080ae4067",
+    "url": "https://www.ntd.com/ntdplus/new-york-attorney-general-sues-prediction-markets-coinbase-and-gemini-titan-for-illegal-gambling_1140496.html",
+    "ord_in_thread": 0,
+    "author": "NTD Newsroom",
+    "published": "2026-04-23T06:59:00.000+03:00",
+    "title": "New York Attorney General Sues Prediction Markets Coinbase and Gemini Titan for Illegal Gambling",
+    "text": "Open menu\nNTD Television\nsearch\nNew York Attorney General Sues Prediction Markets Coinbase and Gemini Titan for Illegal Gambling\nYou May Also like\nNTD Television\n© Copyright 2016 - 2026 All Rights Reserved",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Crime, Law and Justice->court",
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->fraud",
+        "Economy, Business and Finance->financial service",
+        "Economy, Business and Finance->cryptocurrency"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "New York",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Coinbase",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "COIN",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Gemini Titan",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NTD Television",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-23T07:26:21.500+03:00",
+    "updated": "2026-04-23T07:31:09.000+03:00"
+}

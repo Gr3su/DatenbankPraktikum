@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "420ef177c9beda0f7ec91a1a785dcb46a2422ddf",
+        "url": "https://www.newsbreak.com/news/4811674118255-1-dead-in-downtown-winter-park-sunrail-crash-police-say",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/oviedo-fl",
+        "site_categories": [
+            "lifestyle and leisure",
+            "health",
+            "under_construction",
+            "sport",
+            "human interest",
+            "politics",
+            "economy, business and finance",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "social issue"
+        ],
+        "section_title": "Oviedo, FL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "1 dead in downtown Winter Park SunRail crash, police say - NewsBreak",
+        "title_full": "1 dead in downtown Winter Park SunRail crash, police say - NewsBreak",
+        "published": "2026-08-06T00:46:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4E53QO_1DyLhmmr00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "420ef177c9beda0f7ec91a1a785dcb46a2422ddf",
+    "url": "https://www.newsbreak.com/news/4811674118255-1-dead-in-downtown-winter-park-sunrail-crash-police-say",
+    "ord_in_thread": 0,
+    "author": "Josh Frigerio",
+    "published": "2026-08-06T00:46:00.000+03:00",
+    "title": "1 dead in downtown Winter Park SunRail crash, police say - NewsBreak",
+    "text": "By Josh Frigerio ,\n6 hours ago WINTER PARK, Fla. - One person has died after being hit by a SunRail train in downtown Winter Park, according to the police department. Police said the crash happened shortly after 4 p.m. at the W. Morse Blvd train station, and that the person who was hit was declared dead at the scene. Authorities have not released any details on the circumstances of the crash nor identified the person. Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox35orlando.com/news/1-dead-downtown-winter-park-sunrail-crash-police-say.amp",
+        "https://fox35orlando.com/news/1-dead-downtown-winter-park-sunrail-crash-police-say.amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Josh Frigerio",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Winter Park",
+                "sentiment": "none"
+            },
+            {
+                "name": "W. Morse Blvd",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "SunRail",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Oviedo"
+            ],
+            "state": [
+                "Florida"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:39:50.905+03:00",
+    "updated": "2026-08-06T07:41:18.000+03:00"
+}

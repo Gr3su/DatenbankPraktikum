@@ -1,0 +1,152 @@
+{
+    "thread": {
+        "uuid": "2fcb762906b839e5316ba43b1a86c70e876fff95",
+        "url": "https://www.newsbreak.com/news/4785317336549-dry-thunderstorms-strong-winds-increase-already-high-oregon-wildfire-threat",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/oakridge-or",
+        "site_categories": [
+            "under_construction",
+            "disaster and accident",
+            "arts, culture and entertainment",
+            "politics",
+            "social issue",
+            "crime, law and justice",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "sport"
+        ],
+        "section_title": "Oakridge, OR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Dry thunderstorms, strong winds increase already high Oregon wildfire threat - NewsBreak",
+        "title_full": "Dry thunderstorms, strong winds increase already high Oregon wildfire threat - NewsBreak",
+        "published": "2026-07-22T20:10:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3WfB8i_1DXnZTET00",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2fcb762906b839e5316ba43b1a86c70e876fff95",
+    "url": "https://www.newsbreak.com/news/4785317336549-dry-thunderstorms-strong-winds-increase-already-high-oregon-wildfire-threat",
+    "ord_in_thread": 0,
+    "author": "Bobby Corser",
+    "published": "2026-07-22T20:10:00.000+03:00",
+    "title": "Dry thunderstorms, strong winds increase already high Oregon wildfire threat - NewsBreak",
+    "text": "By Bobby Corser ,\n11 hours ago PORTLAND, Ore. (KATU) — A mix of dry and wet thunderstorms is expected across portions of western and central Oregon on Wednesday. The National Weather Service issued a severe thunderstorm warning for Linn County and Lane County until 4 p.m. Wednesday. Central Oregon, already reeling from dozens of lightning-induced... Read full article\n11",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://katu.com/news/local/dry-thunderstorms-strong-winds-increase-already-high-oregon-wildfire-threat-central-eastern-storm-prediction-center-lightning",
+        "https://www.katu.com/news/local/dry-thunderstorms-strong-winds-increase-already-high-oregon-wildfire-threat-central-eastern-storm-prediction-center-lightning"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bobby Corser",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Oregon",
+                "sentiment": "none"
+            },
+            {
+                "name": "KATU",
+                "sentiment": "none"
+            },
+            {
+                "name": "PORTLAND",
+                "sentiment": "none"
+            },
+            {
+                "name": "Linn County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lane County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "National Weather Service",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Oakridge"
+            ],
+            "state": [
+                "Oregon"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-23T07:53:00.225+03:00",
+    "updated": "2026-07-23T11:24:32.000+03:00"
+}

@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "89cfa277e557405dc041c1052875213bbf19c693",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4113362917797-flash-flood-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Flash Flood Warning by NWS - NewsBreak",
+        "title_full": "Flash Flood Warning by NWS - NewsBreak",
+        "published": "2025-07-17T03:04:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/17g3G2_12nip0Eg00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "89cfa277e557405dc041c1052875213bbf19c693",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4113362917797-flash-flood-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-07-17T03:04:00.000+03:00",
+    "title": "Flash Flood Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here At 1204 AM EDT, Doppler radar indicated thunderstorms producing heavy rain across the warned area. Between 2 and 3 inches of rain have fallen. Additional rainfall amounts up to 0.5 inches are possible in the warned area. Flash flooding is ongoing or expected to begin shortly. HAZARD...Flash flooding caused by thunderstorms. SOURCE...Radar. IMPACT...Flash flooding of small creeks and streams, urban areas, highways, streets and underpasses as well as other poor drainage and low-lying areas. Some locations that will experience flash flooding include... Richlands... Tazewell... Cedar Bluff... Cliffield... Amonate... Bandy... Claypool Hill... This includes the following streams and drainages... Beech Fork, Clinch River, Burkes Garden Creek, Bluestone River and Big Creek.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.07e08342096bf8ecbd6ff6324bad0e03a1c0e5c2.001.1",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.07e08342096bf8ecbd6ff6324bad0e03a1c0e5c2.001.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Claypool Hill",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Burkes Garden Creek",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bluestone",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:16:45.453+03:00",
+    "updated": "2025-07-17T04:21:57.000+00:00"
+}

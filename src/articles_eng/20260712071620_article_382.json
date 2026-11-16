@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "7364d618d0a16c122d21a7e9c42c22849302ba18",
+        "url": "https://us.headtopics.com/news/quantum-readiness-starts-with-the-infrastructure-we-already-85388932",
+        "site_full": "us.headtopics.com",
+        "site": "headtopics.com",
+        "site_section": "https://us.headtopics.com/latest-news",
+        "site_categories": [
+            "sport",
+            "crime, law and justice",
+            "politics",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "social issue"
+        ],
+        "section_title": "United States Latest News | News | 09 July 2026, Thursday",
+        "site_title": "Head Topics - Select Your Country: Breaking News & Headlines Head Topics",
+        "title": "Quantum readiness starts with the infrastructure we already have",
+        "title_full": "Quantum readiness starts with the infrastructure we already have",
+        "published": "2026-07-09T07:08:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "TH",
+        "main_image": "https://i.headtopics.com/images/2026/7/9/newsweek/quantum-readiness-starts-with-the-infrastructure-w-quantum-readiness-starts-with-the-infrastructure-w-5F0CD55F2BF3068ED6BB9982C7C1580C.webp",
+        "performance_score": 0,
+        "domain_rank": 9486,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7364d618d0a16c122d21a7e9c42c22849302ba18",
+    "url": "https://us.headtopics.com/news/quantum-readiness-starts-with-the-infrastructure-we-already-85388932",
+    "ord_in_thread": 0,
+    "author": "Newsweek",
+    "published": "2026-07-09T07:08:00.000+03:00",
+    "title": "Quantum readiness starts with the infrastructure we already have",
+    "text": "Organizations should be able to add quantum-safe protections in specific parts of their systems, then expand as confidence grows.\nto see more of our trusted coverage when you search. Quantum computing will eventually force companies, governments, banks and digital platforms to upgrade the security systems that protect money, identity, communications and critical infrastructure.\nThat transition to quantum-safe infrastructure was once a theoretical concern reserved for research labs. Today, it’s becoming a practical infrastructure question for every institution. The scientific community has been hard at work, developing new quantum-safe encryption techniques, and many companies have issued roadmaps laying out their plans to upgrade to new, quantum-resistant infrastructure.\nThe problem is that many of these roadmaps call for radical transitions, expecting companies to rebuild their infrastructure from scratch or migrate to entirely new systems. That is wildly unrealistic. Banks will not rebuild their core systems overnight. Governments will not pause public services while they replace sensitive communications infrastructure.\nPayment companies, hospitals and cloud providers cannot rip out the security foundations they rely on without creating new operational risks. Instead, we need to develop quantum-safe infrastructure that is compatible with the tech companies already use. Quantum-safe infrastructure must give institutions a way to strengthen their defenses while preserving the systems, controls, workflows and compliance processes they depend on every day. Most people still think of quantum computing as a distant scientific breakthrough.\nIn security circles, it is already shaping long-term planning across finance, government, defense, healthcare and digital infrastructure. Today’s digital economy depends on encryption. It protects bank transfers, passwords, medical records, government communications, corporate systems, payment networks, digital assets and the identity tools people use to access online services. A sufficiently powerful quantum computer could eventually weaken or break some of the cryptography that protects those systems today.\nWhile such a quantum computer is still years away, the real danger today is delayed preparation. Large institutions move slowly for good reasons. They need audits, vendor reviews, budget approvals, legal analysis, procurement cycles, testing environments, regulatory sign-off and internal training. By the time the threat of quantum computing becomes obvious, the window for a calm and orderly transition may already be closing.\nThere is also a second risk that receives less attention: Companies need time to stress test quantum-safe infrastructure under real-world conditions. A quantum-safe system that looks strong in a paper or laboratory setting may still be impossible for a major institution to deploy at scale. Security only matters if organizations can actually adopt it. The World Will Not Rebuild Its Digital Infrastructure From Scratch Moving to quantum-safe infrastructure is not a simple software update.\nIt requires changing security assumptions inside systems that have been built, modified, audited and integrated over many years. Banks, governments, exchanges, payment companies, cloud providers and software platforms all operate through dense layers of infrastructure. Security is embedded into access controls, customer onboarding, transaction signing, internal approvals, compliance reporting, incident response, vendor management and audit trails. Changing one part of that structure can affect many others.\nMany quantum-security discussions focus almost entirely on the cryptographic tool itself. Is it mathematically strong? Is it efficient? Is it cheaper to run?\nDoes it satisfy emerging standards? These questions are important, but they miss a key issue. A system can be technically sound and still fail operationally. It’s critical to ensure that quantum-safe solutions can work with the infrastructure institutions already use.\nCan it integrate with current custody systems, banking platforms, payment rails, cloud environments, identity tools and approval workflows? Can it run alongside older systems during a transition period? Institutions cannot simply swap out older cryptographic systems and move on. They have legacy systems that still perform critical functions.\nThey have contractual obligations to customers and partners. They have regulators who expect continuity, documentation and operational resilience. They have teams trained on existing workflows. A quantum-security plan that ignores these realities will move too slowly, create too much disruption, or remain stuck in pilot programs.\nThe strongest strategy will be the one that meets institutions where they are. It should allow them to add quantum-safe protections to existing infrastructure, test those protections safely, and expand adoption without forcing a full rebuild. The shift to quantum-safe infrastructure should happen in phases. Institutions need time to identify the systems most exposed to long-term quantum risk, test new protections in controlled environments, and understand how those protections interact with existing operations.\nThey need to run old and new systems in parallel before making full transitions. They need to update internal policies, educate teams, work with vendors and satisfy regulators. A phased approach also matters because quantum-security standards and implementation models are still maturing. No company should be pushed into a rigid migration based on assumptions that may change as the technology develops.\nThe better approach is to build infrastructure that can adapt over time. Organizations should be able to add quantum-safe protections in specific parts of their systems first, then expand as confidence grows. A financial institution might focus on sensitive communications or identity systems. A healthcare provider might prioritize patient records and data-sharing workflows.\nA government agency might begin with the systems that need the longest-term confidentiality. The goal should be to improve resilience without breaking the workflows people and institutions rely on. The next phase of quantum security must place much more emphasis on feasibility. More investment should flow toward systems that create realistic upgrade paths, and more research should focus on compatibility with existing infrastructure.\nMore companies should begin experimenting now by testing which approaches can integrate with their current systems. Businesses also need to update their own roadmaps. Quantum readiness should not be treated as a distant technical project owned only by cryptographers. It should become part of broader infrastructure planning, risk management, vendor selection, compliance strategy and board-level security discussions.\nCompanies need to ask themselves: “Is this plan realistic? ” The quantum era will demand new defenses. The institutions that are best prepared will be the ones that start strengthening the infrastructure they already have, carefully, gradually and realistically. Companies waiting for a “perfect solution” to emerge, or simply paying lip service to the quantum threat with pie-in-the-sky roadmaps, will be in for a painful transition.\nJay Prakash is the founder and CEO of Silence Laboratories, a company developing institutional-grade quantum-safe infrastructure.\nPlease follow us on Google to support us\nUnited States Latest News, United States Headlines\nSimilar News:You can also read news stories similar to this one that we have collected from other news sources.\nQuantum Cybersecurity Firm QSE Expands into Southeast Asia with Post-Quantum Solutions Showcase at CYDES 2026Governments and organizations worldwide are racing to upgrade encryption before quantum computers can break current standards. Canadian company Quantum Secure Encryption Corp. (QSE) is expanding its presence in Southeast Asia, planning to showcase its suite of post-quantum cybersecurity solutions at CYDES 2026. The company will demonstrate practical enterprise products, including QPrime Quantum Preparedness Assessment, QAuth quantum-ready authentication, Quantum Secure Storage, and cryptographic migration tools, in collaboration with a regional partner. This move addresses the growing urgency around quantum risk compliance and migration timelines, as threats like \"harvest now, decrypt later\" make preparation a present-day necessity.\nRead more »\nQpiAI Releases Open-Source Quantum SDK to Drive Global Quantum Software DevelopmentQpiAI has released its QpiAI Quantum SDK as open-source software, providing developers, researchers, universities, and startups with a Python-based toolkit for building and running quantum algorithms. The SDK includes simulators and integrates with QpiAI's quantum hardware via QCloud, aiming to democratize quantum computing and foster a global ecosystem for quantum applications across industries such as finance, logistics, and AI.\nRead more »\nFormer acting DHS secretary warns Chinese criminal organizations are infiltrating America's hemp industryFormer acting DHS Secretary Chad Wolf urges Congress to investigate Chinese-linked actors' role in THC hemp products and illegal marijuana operations.\nRead more »\nLUMI AI Factory Selects IQM to Deploy Advanced Quantum Computer for European ResearchThe LUMI AI Factory has chosen IQM Quantum Computers to deliver the IQM Halocene H4, an advanced quantum computer to be installed in 2027. This system, named LUMI-IQ, will integrate with the LUMI supercomputer at CSC in Finland, creating a hybrid platform combining AI, HPC, and quantum computing. Funded by EuroHPC and multiple European countries, the deployment will provide researchers with cutting-edge capabilities for quantum error correction and innovation, marking a major milestone for Europe's quantum ecosystem.\nRead more »",
+    "summary": "Quantum computing will eventually force companies, governments, banks and digital platforms to upgrade the security systems that protect money, identity, communications and critical infrastructure. It protects bank transfers, passwords, medical records, government communications, corporate systems, payment networks, digital assets and the identity tools people use to access online services. Security is embedded into access controls, customer onboarding, transaction signing, internal approvals, compliance reporting, incident response, vendor management and audit trails. Canadian company Quantum Secure Encryption Corp. (QSE) is expanding its presence in Southeast Asia, planning to showcase its suite of post-quantum cybersecurity solutions at CYDES 2026.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->physics",
+        "Science and Technology->mathematics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.google.com/preferences/source?q=us.headtopics.com",
+        "https://google.com/preferences/source?q=us.headtopics.com",
+        "https://www.google.com/preferences/source"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:26:13.227+03:00",
+    "updated": "2026-07-09T07:30:29.000+03:00"
+}

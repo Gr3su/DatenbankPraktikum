@@ -1,0 +1,153 @@
+{
+    "thread": {
+        "uuid": "999423265f4c3266e349d910e057e5ac5b16f74f",
+        "url": "https://www.newsbreak.com/news/4730613163747-oppd-responds-to-wanted-posters-threatening-ceo-and-board-member",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/omaha-ne",
+        "site_categories": [
+            "economy, business and finance",
+            "sport",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "disaster and accident",
+            "crime, law and justice",
+            "social issue",
+            "human interest",
+            "politics",
+            "under_construction"
+        ],
+        "section_title": "Omaha, NE Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "OPPD responds to wanted posters threatening CEO and board member - NewsBreak",
+        "title_full": "OPPD responds to wanted posters threatening CEO and board member - NewsBreak",
+        "published": "2026-06-25T01:24:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/43hMAu_1CffwusG00",
+        "performance_score": 0,
+        "domain_rank": 3030,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "999423265f4c3266e349d910e057e5ac5b16f74f",
+    "url": "https://www.newsbreak.com/news/4730613163747-oppd-responds-to-wanted-posters-threatening-ceo-and-board-member",
+    "ord_in_thread": 0,
+    "author": "Philip Catalfamo",
+    "published": "2026-06-25T01:24:00.000+03:00",
+    "title": "OPPD responds to wanted posters threatening CEO and board member - NewsBreak",
+    "text": "By Philip Catalfamo ,\n10 hours ago OMAHA, Neb. (WOWT) - Wanted posters seen in Blackstone show public officials instead of wanted criminals. They even have a list of demands and two targets. The signs are raising concerns about safety and who posted them is a mystery. If you have wandered near 37th and Farnam street, you... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->homicide",
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wowt.com/2026/06/24/oppd-responds-wanted-posters-threatening-ceo-board-member/?outputType=amp",
+        "https://www.wowt.com/2026/06/24/oppd-responds-wanted-posters-threatening-ceo-board-member/",
+        "https://wowt.com/2026/06/24/oppd-responds-wanted-posters-threatening-ceo-board-member/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Philip Catalfamo",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "OMAHA",
+                "sentiment": "none"
+            },
+            {
+                "name": "Farnam",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Blackstone",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "BX",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "OPPD",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "OPPD",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:33:56.298+03:00",
+    "updated": "2026-06-25T11:43:16.318+03:00"
+}

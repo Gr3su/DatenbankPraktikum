@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "831d1c6db992a04a80b1d565b5b3a17c55861875",
+        "url": "https://www.foxnews.com/video/6375192294112",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://news.google.com/search?q=am%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_pt",
+            "top_news_gb",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_nl",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_se",
+            "top_news_dk",
+            "top_news_ch",
+            "top_news_za",
+            "top_news_my",
+            "top_news_il",
+            "top_news_fi",
+            "top_news_be",
+            "top_news_no",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "Breaking down the latest on the House floor and the 'vote matrix' | Fox News Video",
+        "title_full": "Breaking down the latest on the House floor and the 'vote matrix' | Fox News Video",
+        "published": "2025-07-02T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15a236a9-d3a7-4a33-848c-b03e2c0abe96/76330050-4db5-43b0-b035-099124a14529/1280x720/match/1024/512/image.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 316,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 1,
+                "comments": 0,
+                "shares": 14
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "831d1c6db992a04a80b1d565b5b3a17c55861875",
+    "url": "https://www.foxnews.com/video/6375192294112",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-07-02T03:00:00.000+03:00",
+    "title": "Breaking down the latest on the House floor and the 'vote matrix' | Fox News Video",
+    "text": "Live Now\nAll times easternNOW - 1:00 AM\n1:00 AM\n1:30 AM\n2:00 AM\n2:30 AM\n3:00 AM\nFox News Channel\nJesse Watters Primetime\n1:00 AM - 2:00 AM\nHannity\n2:00 AM - 3:00 AM\nGutfeld!\n3:00 AM - 3:30 AM\nFox Business Channel\nPaid Programming\n1:00 AM - 1:30 AM\nPaid Programming\n1:30 AM - 2:00 AM\nPaid Programming\n2:00 AM - 2:30 AM\nPaid Programming\n2:30 AM - 3:00 AM\nPaid Programming\n3:00 AM - 3:30 AM\nFox Weather Channel\nFox News Radio\nFox News Channel Live\nWATCH LIVE: House lawmakers debate Senate changes to Trump's 'big, beautiful bill'\nLive Stream",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->political development",
+        "Politics->political process",
+        "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Fox News Video",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "House",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Fox News Channel\nJes",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_pt",
+            "top_news_gb",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_nl",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_se",
+            "top_news_dk",
+            "top_news_ch",
+            "top_news_za",
+            "top_news_my",
+            "top_news_il",
+            "top_news_fi",
+            "top_news_be",
+            "top_news_no",
+            "top_news_ca",
+            "top_news"
+        ],
+        "bias": "right"
+    },
+    "rating": null,
+    "crawled": "2025-07-03T07:31:35.613+03:00",
+    "updated": "2025-07-04T05:05:26.000+00:00"
+}

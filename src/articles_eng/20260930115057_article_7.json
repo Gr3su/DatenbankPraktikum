@@ -1,0 +1,160 @@
+{
+    "thread": {
+        "uuid": "07591c4b2a15d8154851418e367f7776971af452",
+        "url": "https://www.newsbreak.com/news/4909091815068-friday-night-football-scores-9-25",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sitemap-news-76.xml",
+        "site_categories": [
+            "lifestyle and leisure",
+            "under_construction",
+            "crime, law and justice",
+            "economy, business and finance",
+            "human interest",
+            "sport",
+            "arts, culture and entertainment",
+            "politics"
+        ],
+        "section_title": "",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "FRIDAY NIGHT FOOTBALL SCORES (9-25) - NewsBreak",
+        "title_full": "FRIDAY NIGHT FOOTBALL SCORES (9-25) - NewsBreak",
+        "published": "2026-09-26T06:41:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0N1wNX_1FWVnJzg00",
+        "performance_score": 0,
+        "domain_rank": 3126,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-09-27T11:50:57.305+03:00"
+        }
+    },
+    "uuid": "07591c4b2a15d8154851418e367f7776971af452",
+    "url": "https://www.newsbreak.com/news/4909091815068-friday-night-football-scores-9-25",
+    "ord_in_thread": 0,
+    "author": "Kerry Barboza",
+    "published": "2026-09-26T06:41:00.000+03:00",
+    "title": "FRIDAY NIGHT FOOTBALL SCORES (9-25) - NewsBreak",
+    "text": "By Kerry Barboza ,\n1 days ago The three 11-man football teams in Boerne were in action Friday night and had key district games. Champion and Geneva School of Boerne were at home, while the Greyhounds had a big road game at Alamo Heights. All three won, while Comfort High was off this week and opens district... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Education"
+    ],
+    "topics": [
+        "Sport->american football",
+        "Education->school"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.boernestar.com/article/14213,friday-night-football-scores-9-25",
+        "https://boernestar.com/article/14213,friday-night-football-scores-9-25"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kerry Barboza",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Alamo Heights",
+                "sentiment": "none"
+            },
+            {
+                "name": "Boerne",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Comfort High",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Geneva School",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Greyhounds",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Champion",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-27T11:50:57.305+03:00",
+    "updated": "2026-09-27T11:57:35.000+03:00",
+    "related_articles": null
+}

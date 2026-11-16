@@ -1,0 +1,113 @@
+{
+    "thread": {
+        "uuid": "f80f74afc0636830cb71ead730e2b45f6a0adb2c",
+        "url": "https://www.newsbreak.com/news/4594204183572-3-vehicle-crash-closes-i-89-northbound-in-montpelier",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/worcester-vt",
+        "site_categories": [
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "politics",
+            "crime, law and justice",
+            "under_construction",
+            "lifestyle and leisure",
+            "human interest",
+            "sport"
+        ],
+        "section_title": "Worcester, VT Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "3-vehicle crash closes I-89 northbound in Montpelier - NewsBreak",
+        "title_full": "3-vehicle crash closes I-89 northbound in Montpelier - NewsBreak",
+        "published": "2026-04-16T01:14:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1S6TQh_1AUDgY9j00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f80f74afc0636830cb71ead730e2b45f6a0adb2c",
+    "url": "https://www.newsbreak.com/news/4594204183572-3-vehicle-crash-closes-i-89-northbound-in-montpelier",
+    "ord_in_thread": 0,
+    "author": "WCAX News Team",
+    "published": "2026-04-16T01:14:00.000+03:00",
+    "title": "3-vehicle crash closes I-89 northbound in Montpelier - NewsBreak",
+    "text": "By WCAX News Team ,\n6 hours ago MONTPELIER, Vt. (WCAX) - The northbound lanes of Interstate 89 were closed in Montpelier because of a crash on Wednesday evening. The closure is just north of Exit 8. A WCAX News crew at the scene said the three-vehicle crash involved an auto parts truck, a pickup and a car. Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Interstate 89",
+                "sentiment": "none"
+            },
+            {
+                "name": "Montpelier",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WCAX News Team",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:18:17.655+03:00",
+    "updated": "2026-04-16T09:09:05.000+03:00"
+}

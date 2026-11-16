@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "5deabd790e6d7a1806b65e92c3e64290602d7b5c",
+        "url": "https://www.newsbreak.com/news/4255222335103-looking-back-9-24-25",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/cornell-il",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Cornell, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Looking Back 9-24-25 - NewsBreak",
+        "title_full": "Looking Back 9-24-25 - NewsBreak",
+        "published": "2025-09-25T04:57:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-09-22T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5deabd790e6d7a1806b65e92c3e64290602d7b5c",
+    "url": "https://www.newsbreak.com/news/4255222335103-looking-back-9-24-25",
+    "ord_in_thread": 0,
+    "author": "fairburynews.net",
+    "published": "2025-09-25T04:57:00.000+03:00",
+    "title": "Looking Back 9-24-25 - NewsBreak",
+    "text": "fairburynews.net\nwebsite\nFairbury\nLooking Back 9-24-25\n2 hours ago\nMiss Nellie Lewis is attending the ladies' college at New London, Ontario. Henry Remington has accepted a position with the Haas Electrical Company and departed for Springfield on Tuesday. The fair for 1895 closed last evening. The weather was ideal, and on Thursday, 12,000 people were present. Old-timers do not...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nellie Lewis",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Henry Remington",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Haas Electrical Company",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Cornell"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-25T07:43:01.837+03:00",
+    "updated": "2025-09-25T07:43:01.837+03:00"
+}

@@ -1,0 +1,156 @@
+{
+    "thread": {
+        "uuid": "3d967ea270852d07ee75f8ef942a06f6a25ae28b",
+        "url": "https://www.newsbreak.com/news/4757513668599-cochise-county-supervisors-direct-investigation-into-attorney-general-mayes-over-dealings-with-businesses",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/willcox-az",
+        "site_categories": [
+            "sport",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "politics",
+            "under_construction",
+            "human interest",
+            "social issue",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "disaster and accident"
+        ],
+        "section_title": "Willcox, AZ Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Cochise County supervisors direct investigation into Attorney General Mayes over dealings with businesses - NewsBreak",
+        "title_full": "Cochise County supervisors direct investigation into Attorney General Mayes over dealings with businesses - NewsBreak",
+        "published": "2026-07-08T06:32:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3tr0HE_1D5mahtm00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3d967ea270852d07ee75f8ef942a06f6a25ae28b",
+    "url": "https://www.newsbreak.com/news/4757513668599-cochise-county-supervisors-direct-investigation-into-attorney-general-mayes-over-dealings-with-businesses",
+    "ord_in_thread": 0,
+    "author": "KGUN 9 News Staff",
+    "published": "2026-07-08T06:32:00.000+03:00",
+    "title": "Cochise County supervisors direct investigation into Attorney General Mayes over dealings with businesses - NewsBreak",
+    "text": "By KGUN 9 News Staff ,\n1 days ago The Cochise County Board of Supervisors is directing the Cochise County Attorney's Office to investigate whether Attorney General Kris Mayes exceeded her legal authority in connection with the collapse of a proposed Aluminum Dynamics Inc. (ADI) recycling plant in Benson. The company had already received permits from the City of... Read full article\n12",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->judiciary",
+        "Crime, Law and Justice->court",
+        "Crime, Law and Justice->corruption"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kgun9.com/news/community-inspired-journalism/cochise-county/cochise-county-supervisors-direct-investigation-into-attorney-general-mayes-over-dealings-with-local-businesses-including-adi",
+        "https://kgun9.com/news/community-inspired-journalism/cochise-county/cochise-county-supervisors-direct-investigation-into-attorney-general-mayes-over-dealings-with-local-businesses-including-adi"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kris Mayes",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Cochise County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Benson",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Cochise County Board of Supervisors",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Aluminum Dynamics Inc.",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "ADI",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "ADI",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Willcox"
+            ],
+            "state": [
+                "Arizona"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:35:34.339+03:00",
+    "updated": "2026-07-09T07:43:02.000+03:00"
+}

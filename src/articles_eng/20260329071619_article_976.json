@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "35b8c38d0ef55c34cfbfc264bb01ea402d530349",
+        "url": "https://patientdaily.com/stories/680997102-researchers-identify-hormone-driven-growth-in-lethal-pediatric-brain-tumor",
+        "site_full": "patientdaily.com",
+        "site": "patientdaily.com",
+        "site_section": "https://patientdaily.com/stories/tag/517-pharmaceuticals",
+        "site_categories": [
+            "health"
+        ],
+        "section_title": "Pharmaceuticals Stories | Patient Daily",
+        "site_title": "Patient Daily",
+        "title": "Researchers identify hormone-driven growth in lethal pediatric brain tumor",
+        "title_full": "Researchers identify hormone-driven growth in lethal pediatric brain tumor",
+        "published": "2026-03-25T12:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://s3.amazonaws.com/jnswire/jns-media/41/cf/27710290/webp_tscho7agzqva4dt7umge3dkctiqu.webp",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "35b8c38d0ef55c34cfbfc264bb01ea402d530349",
+    "url": "https://patientdaily.com/stories/680997102-researchers-identify-hormone-driven-growth-in-lethal-pediatric-brain-tumor",
+    "ord_in_thread": 0,
+    "author": "Patient Daily",
+    "published": "2026-03-25T12:07:00.000+02:00",
+    "title": "Researchers identify hormone-driven growth in lethal pediatric brain tumor",
+    "text": "An international team led by Baylor College of Medicine, Texas Children’s Hospital, McGill University, and University of Pittsburgh School of Medicine announced on Mar. 25 that they have identified the role of male hormones in driving the growth of Posterior Fossa Type A (PFA) ependymoma, a deadly pediatric brain tumor.\nThis discovery is significant because PFA ependymoma currently lacks effective treatments and is often fatal for children. The study, published in Nature, found that androgens—male hormones—promote the growth of this specific type of brain tumor but do not affect other types. Blocking androgen signaling was shown to reduce tumor proliferation, offering hope for new treatment strategies.\n\"What drives PFA ependymoma’s growth has remained a mystery for quite some time,\" said Dr. Jiao Zhang, assistant professor at Baylor and Texas Children’s. \"As opposed to other lethal brain tumors, this cancer lacks clear genetic drivers, which has delayed the development of effective therapies. In the current work, we studied the tumor from a different angle.\" Previous research showed more males are affected by PFA ependymoma with lower survival rates compared to females; however, the biological reasons were unclear until now.\nZhang said: \"Sex differences play an important role in cancer growth.\" The team used animal models and lab-grown cancer cells to test whether sex chromosomes or sex hormones influenced susceptibility to PFA ependymoma. \"We found that...PFA ependymoma cells are less developed in males than in female patients,\" Zhang said. \"This difference is driven by androgens...We did not observe any differences attributable to chromosomal factors.\" Further studies confirmed that androgen supplementation promotes both tumor growth and their less-developed state.\nDr. Claudia Kleinman from McGill University said: \"Our study provides a biological basis for understanding the long-recognized sex differences in PFA ependymoma.\" Dr. Kulandaimanuvel Antony Michealraj from University of Pittsburgh School of Medicine added: \"We reveal a previously unknown link between early hormone exposure and tumor formation.\" Dr. Michael D. Taylor from Baylor concluded: \"Our findings have potential clinical implications as they suggest that androgen blocking therapies may represent a rational direction for future targeted treatment strategies.\"\nBaylor College of Medicine focuses on advancing research, education, patient care, and community service as an independent health sciences university according to its official website. The institution functions independently while engaging in clinical partnerships according to its official website, collaborates within integrated health sciences environments according to its official website, contributes community service as one of its core missions according to its official website, provides education across schools while advancing biomedical research through partnerships according to its official website, and Paul Klotman serves as president, chief executive officer, and executive dean according to its official website.\nThe findings highlight how understanding hormone-driven mechanisms could shape future treatments for aggressive childhood cancers such as PFA ependymoma.",
+    "summary": "25 that they have identified the role of male hormones in driving the growth of Posterior Fossa Type A (PFA) ependymoma, a deadly pediatric brain tumor. Previous research showed more males are affected by PFA ependymoma with lower survival rates compared to females; however, the biological reasons were unclear until now. Dr. Kulandaimanuvel Antony Michealraj from University of Pittsburgh School of Medicine added: \"We reveal a previously unknown link between early hormone exposure and tumor formation.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.bcm.edu/news",
+        "https://bcm.edu/news"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Texas Children ’ s Hospital",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Baylor College of Medicine",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "McGill Universit",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Nature",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "University of Pittsburgh School of Medicine",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-26T07:39:11.578+02:00",
+    "updated": "2026-03-26T07:39:11.578+02:00"
+}

@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "0eb5515c33c958925c794acf0940372e451b087c",
+        "url": "https://www.newsbreak.com/news/4961926305926-warwick-woman-accused-of-throwing-rocks-in-road-rage-incident",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/fall-river-ma",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "sport",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "Fall River, MA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Warwick woman accused of throwing rocks in road rage incident - NewsBreak",
+        "title_full": "Warwick woman accused of throwing rocks in road rage incident - NewsBreak",
+        "published": "2026-10-23T04:15:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3tLbow_1GMkjZ3i00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T07:14:44.793+03:00"
+        }
+    },
+    "uuid": "0eb5515c33c958925c794acf0940372e451b087c",
+    "url": "https://www.newsbreak.com/news/4961926305926-warwick-woman-accused-of-throwing-rocks-in-road-rage-incident",
+    "ord_in_thread": 0,
+    "author": "AMANDA BANG, NBC 10 NEWS",
+    "published": "2026-10-23T04:15:00.000+03:00",
+    "title": "Warwick woman accused of throwing rocks in road rage incident - NewsBreak",
+    "text": "By AMANDA BANG, NBC 10 NEWS ,\n2 hours ago (WJAR) — Rhode Island State Police said a woman was arrested after allegedly throwing rocks at another vehicle in a road rage incident. According to state police, the road rage incident was reported in April. Angelia Leavitt, 36, allegedly threw rocks or similar projectiles at the victim's vehicle on... Read full article\n3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->assault",
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://coastalabc.com/news/local/warwick-woman-accused-of-throwing-rocks-in-road-rage-incident-interstate-95-east-greenwich-vandalism-october-22-2026",
+        "https://www.coastalabc.com/news/local/warwick-woman-accused-of-throwing-rocks-in-road-rage-incident-interstate-95-east-greenwich-vandalism-october-22-2026"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsad.38f2c935.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwow.fc40898b.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Angelia Leavitt",
+                "sentiment": "negative"
+            },
+            {
+                "name": "AM",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NBC",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "NBC",
+                        "exchange": "FRA"
+                    }
+                ]
+            },
+            {
+                "name": "Rhode Island State Police",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Fall River"
+            ],
+            "state": [
+                "Massachusetts"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:14:44.793+03:00",
+    "updated": "2026-10-23T07:18:34.000+03:00",
+    "related_articles": null
+}

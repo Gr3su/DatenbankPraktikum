@@ -1,0 +1,153 @@
+{
+    "thread": {
+        "uuid": "e011e74b0718f2e325df3dba69a7a25185f0e43e",
+        "url": "https://www.newsbreak.com/news/4932354828670-two-women-wounded-in-east-baltimore-shooting-on-belair-road",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/woodlawn-md",
+        "site_categories": [
+            "crime, law and justice",
+            "under_construction",
+            "economy, business and finance",
+            "sport",
+            "lifestyle and leisure",
+            "politics",
+            "arts, culture and entertainment",
+            "science and technology"
+        ],
+        "section_title": "Woodlawn, MD Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Two women wounded in east Baltimore shooting on Belair Road - NewsBreak",
+        "title_full": "Two women wounded in east Baltimore shooting on Belair Road - NewsBreak",
+        "published": "2026-10-08T08:34:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2aQis5_1FtxWtVq00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:04:10.534+03:00"
+        }
+    },
+    "uuid": "e011e74b0718f2e325df3dba69a7a25185f0e43e",
+    "url": "https://www.newsbreak.com/news/4932354828670-two-women-wounded-in-east-baltimore-shooting-on-belair-road",
+    "ord_in_thread": 0,
+    "author": "WBFF STAFF",
+    "published": "2026-10-08T08:34:00.000+03:00",
+    "title": "Two women wounded in east Baltimore shooting on Belair Road - NewsBreak",
+    "text": "By WBFF STAFF ,\n22 hours ago BALTIMORE (WBFF) — Baltimore police shut down a portion of Belair Road following a shooting that left two women injured on Wednesday night. On Oct. 7, around 9:31 p.m., officers found a 20-year-old woman with a gunshot wound and a 22-year-old woman with a graze wound in the 3200 block of Belair Road. Read full article\n5",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://foxbaltimore.com/news/local/medics-find-gunshot-victim-injured-officer-at-the-site-of-a-shooting-in-east-baltimore",
+        "https://www.foxbaltimore.com/news/local/medics-find-gunshot-victim-injured-officer-at-the-site-of-a-shooting-in-east-baltimore"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fangry.da7a9102.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Baltimore",
+                "sentiment": "none"
+            },
+            {
+                "name": "Belair Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BALTIMORE",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "WBFF",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Woodlawn",
+                "Woodland"
+            ],
+            "state": [
+                "Maryland"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:04:10.534+03:00",
+    "updated": "2026-10-09T07:10:55.000+03:00",
+    "related_articles": null
+}

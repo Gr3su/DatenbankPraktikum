@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "9ab361c1771f7bd564aaa0e84214841d97eb9c7f",
+        "url": "https://local.newsbreak.com/abcny-560940/4379439904939-newark-high-school-student-signs-with-stanford-university-to-play-division-i-football",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/abcny-560940",
+        "site_categories": [],
+        "section_title": "ABCNY&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Malcolm X Shabazz High School Senior Signs with Stanford University",
+        "title_full": "Malcolm X Shabazz High School Senior Signs with Stanford University",
+        "published": "2025-12-03T21:58:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0qjtgz_172pPui100",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-11-30T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9ab361c1771f7bd564aaa0e84214841d97eb9c7f",
+    "url": "https://local.newsbreak.com/abcny-560940/4379439904939-newark-high-school-student-signs-with-stanford-university-to-play-division-i-football",
+    "ord_in_thread": 0,
+    "author": "Eyewitness News",
+    "published": "2025-12-03T21:58:00.000+02:00",
+    "title": "Malcolm X Shabazz High School Senior Signs with Stanford University",
+    "text": "• Zaiden McDonald, a senior at Malcolm X Shabazz High School in Newark, New Jersey, signed a letter of intent to play Division I football at Stanford University.\n• The signing took place on Early Signing Day, a day celebrating future student-athletes.\n• McDonald is a running back for his high school football team.\n• He excels in the classroom and participates in community service.\n• McDonald plans to pursue an economics track at Stanford.\n• He prepared for college during the summer.\n• McDonald's parents expressed pride and support.\n• He is the second student from Malcolm X Shabazz High School in two years to sign with Stanford.\n• New Jersey Senator Cory Booker, a Stanford graduate, sent McDonald a congratulatory message.\n• McDonald's high school team is playing for a state championship on Wednesday night.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Education",
+        "Sport"
+    ],
+    "topics": [
+        "Education->school",
+        "Education->students"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": true,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=0qjtgz_172pPui100",
+        "https://abc7ny.com/video/embed/?pid=18247107",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0qjtgz_172pPui100",
+        "https://www.img.particlenews.com/image.php?url=0qjtgz_172pPui100",
+        "https://img.particlenews.com/image.php",
+        "https://abc7ny.com/video/embed/",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0qjtgz_172pPui100",
+        "https://www.abc7ny.com/video/embed/?pid=18247107"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Cory Booker",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Stanford University",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Malcolm X Shabazz High School",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "McDonald",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "MCD",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-04T07:30:02.608+02:00",
+    "updated": "2025-12-04T07:35:52.000+02:00"
+}

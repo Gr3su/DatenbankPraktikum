@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "fcefa921acbe461137cafb45c624416fc4f33196",
+        "url": "https://www.hindustantimes.com/india-news/india-leading-ai-revolution-benchmark-at-happiness-welfare-for-all-says-pm-modi-at-ai-impact-summit-2026-101771478032452.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/",
+        "site_categories": [
+            "politics",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "media",
+            "arts, culture and entertainment",
+            "crime, law and justice"
+        ],
+        "section_title": "Latest News: Today’s News Headlines, Breaking News India, World News and Cricket News | Latest News Today | Hindustan Times",
+        "site_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+        "title": "India leading AI revolution, benchmark at 'happiness, welfare for all', says PM Modi at AI Impact Summit 2026| India News",
+        "title_full": "India leading AI revolution, benchmark at 'happiness, welfare for all', says PM Modi at AI Impact Summit 2026| India News",
+        "published": "2026-02-19T07:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/02/19/550x309/modi_ai_impact_summit_1771478202327_1771478206445.png",
+        "performance_score": 0,
+        "domain_rank": 825,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fcefa921acbe461137cafb45c624416fc4f33196",
+    "url": "https://www.hindustantimes.com/india-news/india-leading-ai-revolution-benchmark-at-happiness-welfare-for-all-says-pm-modi-at-ai-impact-summit-2026-101771478032452.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-02-19T07:18:00.000+02:00",
+    "title": "India leading AI revolution, benchmark at 'happiness, welfare for all', says PM Modi at AI Impact Summit 2026| India News",
+    "text": "Prime Minister Narendra Modi on Thursday expressed pride over India's role in shaping the artificial intelligence (AI) revolution. He said that the country is leading the way and is setting a benchmark for the revolution, \"happiness for all, welfare for all\".Speaking on day 4 of the India AI Impact Summit 2026 at New Delhi's Bharat Mandapam, the prime minister said that India is the country with the world's largest young population, the hub of the largest tech talent poll, and is an example of the largest tech-enabled ecosystem.Citing human history, PM Modi said that there have been certain turning points that have shaped entire countries. \"These turning points set the direction of civilisation and transform the pace of development. Artificial intelligence is one such transformation in history,\" he added.PM Modi said that AI is making machines intelligent and, at the same time, it is multiplying human capabilities many times over. He said that the real question today is not what AI can do, but what humans can do with it.",
+    "summary": "Prime Minister Narendra Modi on Thursday expressed pride over India's role in shaping the artificial intelligence (AI) revolution.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Politics"
+    ],
+    "topics": [
+        "Science and Technology->political science",
+        "Science and Technology->information technology and computer science",
+        "Politics->economic policy",
+        "Politics->government policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Narendra Modi",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "India",
+                "sentiment": "none"
+            },
+            {
+                "name": "New Delhi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "India News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "fcefa921acbe461137cafb45c624416fc4f33196",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:34:35.951+02:00",
+    "updated": "2026-02-19T07:45:54.000+02:00"
+}

@@ -1,0 +1,153 @@
+{
+    "thread": {
+        "uuid": "827b2cfb83ce9b7e90e90e6eb9da87df8ec18e8d",
+        "url": "https://www.newsbreak.com/news/4890506271877-driving-in-opposition-to-a-proposed-transmission-line",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/egan-sd",
+        "site_categories": [
+            "human interest",
+            "under_construction",
+            "politics",
+            "economy, business and finance",
+            "social issue",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "sport"
+        ],
+        "section_title": "Egan, SD Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Driving in opposition to a proposed transmission line - NewsBreak",
+        "title_full": "Driving in opposition to a proposed transmission line - NewsBreak",
+        "published": "2026-09-17T01:15:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/28lKEe_1FDmz7Rb00",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "827b2cfb83ce9b7e90e90e6eb9da87df8ec18e8d",
+    "url": "https://www.newsbreak.com/news/4890506271877-driving-in-opposition-to-a-proposed-transmission-line",
+    "ord_in_thread": 0,
+    "author": "Kyle Kuphal",
+    "published": "2026-09-17T01:15:00.000+03:00",
+    "title": "Driving in opposition to a proposed transmission line - NewsBreak",
+    "text": "By Kyle Kuphal ,\n7 hours ago A group opposed to the proposed 765 kilovolt (kV) PowerOn Midwest transmission line project organized a caravan along a portion of the proposed route from the South Dakota border in Lincoln County to Lakefield on Saturday, Sept. 12. The group included eight vehicles when it entered Pipestone County at the intersection of 241st Street and 20th Avenue around 8:30 a.m. Some of the vehicles had signs opposing the transmission line. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.pipestonestar.com/articles/driving-in-opposition-to-a-proposed-transmission-line/",
+        "https://www.pipestonestar.com/articles/driving-in-opposition-to-a-proposed-transmission-line",
+        "https://pipestonestar.com/articles/driving-in-opposition-to-a-proposed-transmission-line/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kyle Kuphal",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "20th Avenue",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pipestone County",
+                "sentiment": "none"
+            },
+            {
+                "name": "South Dakota",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lincoln County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lakefield",
+                "sentiment": "none"
+            },
+            {
+                "name": "241st Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "PowerOn Midwest",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Egan"
+            ],
+            "state": [
+                "South Dakota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:02:23.230+03:00",
+    "updated": "2026-09-17T08:40:43.227+03:00"
+}

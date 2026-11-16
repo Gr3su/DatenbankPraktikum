@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "e41e39321b3273b3aa65723e56d6b9b81892498c",
+        "url": "https://www.newsbreak.com/11alive-524572/4465503504553-fbi-executes-search-warrant-at-fulton-county-elections-office",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/trending/top/fbi-recovers-deleted-posts-in-probe",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "The latest fbi recovers deleted posts in probe news, videos &amp; comments | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "FBI executes search warrant at Fulton County elections office - NewsBreak",
+        "title_full": "FBI executes search warrant at Fulton County elections office - NewsBreak",
+        "published": "2026-01-29T01:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1OIU9w_18QXkbDn00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-25T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e41e39321b3273b3aa65723e56d6b9b81892498c",
+    "url": "https://www.newsbreak.com/11alive-524572/4465503504553-fbi-executes-search-warrant-at-fulton-county-elections-office",
+    "ord_in_thread": 0,
+    "author": "11Alive",
+    "published": "2026-01-29T01:01:00.000+02:00",
+    "title": "FBI executes search warrant at Fulton County elections office - NewsBreak",
+    "text": "6 hours ago Fulton County confirmed with 11Alive that the FBI was serving a search warrant as they seek a number of records related to the 2020 election. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "topics": [
+        "Crime, Law and Justice->court",
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->investigation (criminal)",
+        "Politics->election"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Fulton County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FBI",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-29T07:20:33.100+02:00",
+    "updated": "2026-01-29T07:26:40.000+02:00"
+}

@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "bc516b8e0eda89d0aeb10fa349d2f6d64538071d",
+        "url": "https://www.newsbreak.com/news/4499209429198-two-women-jailed-for-intox-interference",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sibley-ia",
+        "site_categories": [
+            "sport",
+            "crime, law and justice",
+            "human interest",
+            "politics",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "under_construction",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Sibley, IA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Two women jailed for intox, interference - NewsBreak",
+        "title_full": "Two women jailed for intox, interference - NewsBreak",
+        "published": "2026-02-18T19:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/04jWRd_18yVOxgh00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bc516b8e0eda89d0aeb10fa349d2f6d64538071d",
+    "url": "https://www.newsbreak.com/news/4499209429198-two-women-jailed-for-intox-interference",
+    "ord_in_thread": 0,
+    "author": "Jeff Grant",
+    "published": "2026-02-18T19:00:00.000+02:00",
+    "title": "Two women jailed for intox, interference - NewsBreak",
+    "text": "By Jeff Grant ,\n12 hours ago SHELDON—Two Sheldon women face charges following the investigation of a possible vehicular accident about 8:35 p.m. Sunday, Feb. 15, in Sheldon. An officer found 34-year-old Irma Chavez Lopez standing outside the driver’s side door of a 2009 Honda Civic and 31-year-old Reina Angelina Chavez Lopez as a passenger in the vehicle on the 100 block of 17th Avenue in Sheldon, according to the Sheldon Police Department. Read full article\nRead in NewsBreak 3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->reckless driving",
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->law enforcement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jeff Grant",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Irma Chavez Lopez",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reina Angelina Chavez Lopez",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Sheldon",
+                "sentiment": "none"
+            },
+            {
+                "name": "17th Avenue",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Sheldon Police Department",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Sibley"
+            ],
+            "state": [
+                "Iowa"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:22:50.193+02:00",
+    "updated": "2026-02-19T07:27:50.000+02:00"
+}

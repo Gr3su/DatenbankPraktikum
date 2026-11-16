@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "c84a3ef62e2d22fcdee2e02af96be8ffe4ba4f3f",
+        "url": "https://www.newsbreak.com/news/4498078998670-albany-commission-rejects-sowega-plan-for-senior-exercise-classes",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/albany-ga",
+        "site_categories": [
+            "crime, law and justice",
+            "economy, business and finance",
+            "human interest",
+            "sport",
+            "lifestyle and leisure",
+            "under_construction",
+            "politics",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Albany, GA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Albany commission rejects SOWEGA plan for senior exercise classes - NewsBreak",
+        "title_full": "Albany commission rejects SOWEGA plan for senior exercise classes - NewsBreak",
+        "published": "2026-02-18T02:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4f7v4K_18xMe4jz00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c84a3ef62e2d22fcdee2e02af96be8ffe4ba4f3f",
+    "url": "https://www.newsbreak.com/news/4498078998670-albany-commission-rejects-sowega-plan-for-senior-exercise-classes",
+    "ord_in_thread": 0,
+    "author": "Zoe Wells",
+    "published": "2026-02-18T02:36:00.000+02:00",
+    "title": "Albany commission rejects SOWEGA plan for senior exercise classes - NewsBreak",
+    "text": "By Zoe Wells ,\n1 days ago ALBANY, Ga. (WALB) ‚Äî The Albany City Commission voted against establishing a MOU with SOWEGA to provide exercise classes for seniors at Thornton Community Center for three months. The commission rejected the proposal 4-3 during Tuesday, Feb. 17‚Äôs meeting after dozens of seniors attended to voice concerns about the... Read full article\nRead in NewsBreak 2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Health",
+        "Politics"
+    ],
+    "topics": [
+        "Health->health care approach",
+        "Politics->local government and authority"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Zoe Wells",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Albany City Commission",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "SOWEGA",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Thornton Community Center",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "MOU",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Albany"
+            ],
+            "state": [
+                "Georgia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:17:22.827+02:00",
+    "updated": "2026-02-19T07:19:45.000+02:00"
+}

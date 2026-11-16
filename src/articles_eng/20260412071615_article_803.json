@@ -1,0 +1,175 @@
+{
+    "thread": {
+        "uuid": "23c1c51489b06b5234bd169144f8f68598cc132b",
+        "url": "https://www.newsbreak.com/news/4580874058854-clopton-deals-in-lsu-softball-win-against-central-arkansas",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/twin-groves-ar",
+        "site_categories": [
+            "economy, business and finance",
+            "human interest",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "sport",
+            "politics",
+            "under_construction"
+        ],
+        "section_title": "Twin Groves, AR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Clopton deals in LSU softball win against Central Arkansas - NewsBreak",
+        "title_full": "Clopton deals in LSU softball win against Central Arkansas - NewsBreak",
+        "published": "2026-04-08T04:32:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1UYobI_1AGnU48U00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "23c1c51489b06b5234bd169144f8f68598cc132b",
+    "url": "https://www.newsbreak.com/news/4580874058854-clopton-deals-in-lsu-softball-win-against-central-arkansas",
+    "ord_in_thread": 0,
+    "author": "Ben Dackiw",
+    "published": "2026-04-08T04:32:00.000+03:00",
+    "title": "Clopton deals in LSU softball win against Central Arkansas - NewsBreak",
+    "text": "By Ben Dackiw ,\n1 days ago BATON ROUGE - Entering the top of the fourth inning, LSU softball led Central Arkansas 3-1. Starting pitcher Tatum Clopton got into a jam as the Bears loaded the bases with nobody out. Clopton bounced back and ended the inning with a flyout and back-to-back strikeouts to get out of the inning. Central Arkansas didn't threaten again and the Tigers won 9-1. The Tiger bats woke up from their previous slumber on Sunday at Missouri and pounded Central Arkansas with 11 hits, two of them being home runs. With the mid-week game over in run-rule fashion, the Tigers will face No. 12 Arizona this weekend for a three-game series at Tiger Park. Read full article\nRead in NewsBreak",
+    "summary": "1 days ago BATON ROUGE - Entering the top of the fourth inning, LSU softball led Central Arkansas 3-1. Starting pitcher Tatum Clopton got into a jam as the Bears loaded the bases with nobody out. Central Arkansas didn't threaten again and the Tigers won 9-1. The Tiger bats woke up from their previous slumber on Sunday at Missouri and pounded Central Arkansas with 11 hits, two of them being home runs. 12 Arizona this weekend for a three-game series at Tiger Park.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Sport->softball"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ben Dackiw",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Tatum Clopton",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Missouri",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Central Arkansas",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Clopton",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "LSU",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Tigers",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Bears",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Twin Groves"
+            ],
+            "state": [
+                "Arkansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:44:55.759+03:00",
+    "updated": "2026-04-09T07:48:25.000+03:00"
+}

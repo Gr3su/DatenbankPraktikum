@@ -1,0 +1,175 @@
+{
+    "thread": {
+        "uuid": "bcceaa383653a062e3417f46d952b38e54489b0b",
+        "url": "https://www.hindustantimes.com/world-news/campaigns-begin-in-bangladesh-for-first-election-since-sheikh-hasina-ouster-101769059158076.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/cities/delhi-news",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news",
+            "war, conflict and unrest",
+            "politics",
+            "sport",
+            "economy, business and finance",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Delhi News, Latest Delhi News, New Delhi News Today and Headlines | Hindustan Times",
+        "site_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+        "title": "Campaigns begin in Bangladesh for first election since Sheikh Hasina's ouster | World News",
+        "title_full": "Campaigns begin in Bangladesh for first election since Sheikh Hasina's ouster | World News",
+        "published": "2026-01-22T07:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/01/22/550x309/BANGLADESH-POLITICS-2_1769059403202_1769059414157.jpg",
+        "performance_score": 0,
+        "domain_rank": 825,
+        "domain_rank_updated": "2026-01-18T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bcceaa383653a062e3417f46d952b38e54489b0b",
+    "url": "https://www.hindustantimes.com/world-news/campaigns-begin-in-bangladesh-for-first-election-since-sheikh-hasina-ouster-101769059158076.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-01-22T07:27:00.000+02:00",
+    "title": "Campaigns begin in Bangladesh for first election since Sheikh Hasina's ouster | World News",
+    "text": "Sufi shrine\nBNP chief and prime ministerial hopeful Tarique Rahman, 60, who returned to Bangladesh in December after 17 years in exile, is due to address a string of rallies starting in the north-eastern city of Sylhet.\nSubscribe Now! Get features like",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->national elections",
+        "Politics->political campaigns",
+        "Politics->political candidates"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tarique Rahman",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Hasina",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Bangladesh",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sylhet",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BNP",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": "BNP",
+                        "exchange": "Euronext Paris"
+                    }
+                ]
+            },
+            {
+                "name": "World News",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-22T07:35:33.294+02:00",
+    "updated": "2026-01-22T07:39:14.000+02:00"
+}

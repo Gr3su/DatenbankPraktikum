@@ -1,0 +1,151 @@
+{
+    "thread": {
+        "uuid": "a06a6b8e791d2597d4009d64d733fd172063bda0",
+        "url": "https://www.newsbreak.com/news/4568059799652-herd-advances-to-fab-4-in-wnit",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/gallipolis-oh",
+        "site_categories": [
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "politics",
+            "under_construction",
+            "human interest",
+            "economy, business and finance",
+            "crime, law and justice",
+            "sport"
+        ],
+        "section_title": "Gallipolis, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Herd advances to Fab 4 in WNIT - NewsBreak",
+        "title_full": "Herd advances to Fab 4 in WNIT - NewsBreak",
+        "published": "2026-03-31T06:45:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0BruRz_1A3t1fnm00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a06a6b8e791d2597d4009d64d733fd172063bda0",
+    "url": "https://www.newsbreak.com/news/4568059799652-herd-advances-to-fab-4-in-wnit",
+    "ord_in_thread": 0,
+    "author": "Jim Treacy",
+    "published": "2026-03-31T06:45:00.000+03:00",
+    "title": "Herd advances to Fab 4 in WNIT - NewsBreak",
+    "text": "By Jim Treacy ,\n2 days ago HUNTINGTON, W.Va. (WSAZ) - The Marshall women’s basketball team achieved a rare feat Monday night in the WNIT Great Eight as they held Army scoreless for the entire fourth quarter and won 82-65. The two teams traded buckets in the first half with the Black Knights shooting 60% from the floor while the Herd almost matching that number with 59%. Army led by seven after 20 minutes. Read full article\nRead in NewsBreak 2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->basketball",
+        "Sport->sport event"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jim Treacy",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "HUNTINGTON",
+                "sentiment": "none"
+            },
+            {
+                "name": "W. Va",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Army",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Black Knights",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Gallipolis",
+                "Bidwell"
+            ],
+            "state": [
+                "Ohio"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-02T07:17:14.040+03:00",
+    "updated": "2026-04-02T07:18:32.000+03:00"
+}

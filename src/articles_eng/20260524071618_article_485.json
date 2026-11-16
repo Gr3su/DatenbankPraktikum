@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "c45d2cc410edbd8b48da00e161e090696c8dda68",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4663094116158-red-flag-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/nws-alerts-1671083",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "sport",
+            "human interest",
+            "economy, business and finance",
+            "politics",
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Red Flag Warning by NWS - NewsBreak",
+        "title_full": "Red Flag Warning by NWS - NewsBreak",
+        "published": "2026-05-21T05:43:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0EJjOC_1BadpU3900",
+        "performance_score": 0,
+        "domain_rank": 2964,
+        "domain_rank_updated": "2026-05-18T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c45d2cc410edbd8b48da00e161e090696c8dda68",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4663094116158-red-flag-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2026-05-21T05:43:00.000+03:00",
+    "title": "Red Flag Warning by NWS - NewsBreak",
+    "text": "1 hours ago Check NWS updates here\nEffective: 2026-05-20 20:42:00 MDT Expires: 2026-05-21 19:00:00 MDT Urgency: Expected Severity: Severe Certainty: Likely Instruction: A Red Flag Warning means that critical fire weather conditions are either occurring now, or will shortly. A combination of strong winds, low relative humidity, and warm temperatures can contribute to extreme fire behavior. Target Area: Paradox Valley; Colorado River Basin The National Weather Service in Grand Junction has issued a Red Flag Warning for gusty winds, low relative humidity and dry fuels, which is in effect from 1 PM to 7 PM MDT Thursday.\n* AFFECTED AREA...In Colorado, Fire Weather Zone 290 Paradox Valley Forecast Area. In Utah, Fire Weather Zone 490 Colorado River Basin.\n* TIMING...From 1 PM to 7 PM MDT Thursday.\n* WINDS...West 10 to 20 mph with gusts up to 30 mph.\n* RELATIVE HUMIDITY...11 to 16 percent.\n* IMPACTS...Any fire that develops will catch and spread quickly. Outdoor burning is not recommended.",
+    "summary": "1 hours ago Check NWS updates here Effective: 2026-05-20 20:42:00 MDT Expires: 2026-05-21 19:00:00 MDT Urgency: Expected Severity: Severe Certainty: Likely Instruction: A Red Flag Warning means that critical fire weather conditions are either occurring now, or will shortly. A combination of strong winds, low relative humidity, and warm temperatures can contribute to extreme fire behavior. Target Area: Paradox Valley; Colorado River Basin The National Weather Service in Grand Junction has issued a Red Flag Warning for gusty winds, low relative humidity and dry fuels, which is in effect from 1 PM to 7 PM MDT Thursday.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=0EJjOC_1BadpU3900",
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.69ee92a08e3124c182c1b7da5291f45d89d6e826.001.1",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0EJjOC_1BadpU3900",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0EJjOC_1BadpU3900",
+        "https://alerts.weather.gov/search",
+        "https://www.img.particlenews.com/image.php?url=0EJjOC_1BadpU3900",
+        "https://img.particlenews.com/image.php",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.69ee92a08e3124c182c1b7da5291f45d89d6e826.001.1"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Paradox Valley",
+                "sentiment": "none"
+            },
+            {
+                "name": "Grand Junction",
+                "sentiment": "none"
+            },
+            {
+                "name": "Colorado River Basin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-21T07:29:12.363+03:00",
+    "updated": "2026-05-21T07:32:27.000+03:00"
+}

@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "4c8e2fb87a26e10915272a9bce7fd505d869dc00",
+        "url": "https://tass.com/politics/2202789",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/politics",
+        "site_categories": [
+            "economy, business and finance",
+            "media",
+            "war, conflict and unrest",
+            "science and technology",
+            "politics"
+        ],
+        "section_title": "Russian Politics &amp; Diplomacy - TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Russia ready to boost oil deliveries to India on request",
+        "title_full": "Russia ready to boost oil deliveries to India on request",
+        "published": "2026-10-16T06:54:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 14822,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:13:42.902+03:00"
+        }
+    },
+    "uuid": "4c8e2fb87a26e10915272a9bce7fd505d869dc00",
+    "url": "https://tass.com/politics/2202789",
+    "ord_in_thread": 0,
+    "author": "TASS",
+    "published": "2026-10-16T06:54:00.000+03:00",
+    "title": "Russia ready to boost oil deliveries to India on request",
+    "text": "KAZAN, October 16. /TASS/. Russia will not turn down India’s request should New Delhi seek additional oil deliveries, Director of the Russian Foreign Ministry’s Second Asian Department Alexey Pavlovsky told TASS in an interview on the sidelines of the 2nd Russian-Indian Business Forum \"TIME: Tatarstan Initiative Mutual Efficiency.\"\nWhen asked whether India was interested in securing additional oil supplies from Russia, he replied: \"If there is such an interest, we stand ready to deliver.\"\nThe 2nd Russia-India Business Forum Time is taking place on October 14-17 in Kazan, the administrative center of Russia’s Volga Area region of Tatarstan. Forum participants are expected to discuss ways to carry out joint initiatives and promising investment projects, as well as prospects for technological and economic cooperation. TASS is the general information partner of the forum.",
+    "summary": "Russia will not turn down India’s request should New Delhi seek additional oil deliveries, Director of the Russian Foreign Ministry’s Second Asian Department Alexey Pavlovsky told TASS in an interview on the sidelines of the 2nd Russian-Indian Business Forum \"TIME: Tatarstan Initiative Mutual Efficiency.\" When asked whether India was interested in securing additional oil supplies from Russia, he replied: \"If there is such an interest, we stand ready to deliver.\" The 2nd Russia-India Business Forum Time is taking place on October 14-17 in Kazan, the administrative center of Russia’s Volga Area region of Tatarstan.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->energy and resource",
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alexey Pavlovsky",
+                "sentiment": "positive"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Russia",
+                "sentiment": "none"
+            },
+            {
+                "name": "India",
+                "sentiment": "none"
+            },
+            {
+                "name": "New Delhi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kazan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Second Asian Department",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "TASS",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "TAS",
+                        "exchange": "KLSE"
+                    }
+                ]
+            },
+            {
+                "name": "Russian Foreign Ministry",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:13:42.902+03:00",
+    "updated": "2026-10-16T07:16:57.000+03:00",
+    "related_articles": null
+}

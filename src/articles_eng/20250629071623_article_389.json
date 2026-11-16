@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "2aba5d062917af395d1d28dbb3954852c09a1318",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4074382199621-severe-thunderstorm-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "published": "2025-06-26T03:09:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/423Kfr_12ARJRfK00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2aba5d062917af395d1d28dbb3954852c09a1318",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4074382199621-severe-thunderstorm-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-06-26T03:09:00.000+03:00",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here At 1209 AM EDT, severe thunderstorms were located along a line from near Stilson to over Metter, moving south at 30 mph. HAZARD...60 mph wind gusts. SOURCE...Emergency management reported. At 1147 PM, emergency management officials reported trees down across portions of Bulloch County. IMPACT...Expect damage to roofs, siding, and trees. Locations impacted include... Brooklet, Register, Pulaski, Metter, Claxton, Hagan, Pembroke, Cobbtown, Collins and Lanier. This includes I-16 between mile markers 97 and 139.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.86bf6cbf607a86e87a2b1499d3d0bbd00d4420b0.002.1",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.86bf6cbf607a86e87a2b1499d3d0bbd00d4420b0.002.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Collins",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lanier",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hagan",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Bulloch County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-26T07:25:41.209+03:00",
+    "updated": "2025-06-26T07:25:41.209+03:00"
+}

@@ -1,0 +1,132 @@
+{
+    "thread": {
+        "uuid": "4cb2029659a58f46cdb1283630d9ca1952c1f2df",
+        "url": "https://www.hindustantimes.com/india-news/speeding-at-over-100-km-h-man-crossing-road-with-his-birthday-cake-hit-by-car-in-greater-noida-tata-punch-101789616609966.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/",
+        "site_categories": [
+            "crime, law and justice",
+            "social issue",
+            "economy, business and finance",
+            "media",
+            "politics",
+            "disaster and accident",
+            "arts, culture and entertainment",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Hindustan Times: Breaking News, Latest News, India News, World News &amp; Cricket Today&#x27;s Headlines | Hindustan Times",
+        "site_title": "Hindustan Times: Breaking News, Latest News, India News, World News & Cricket Today's Headlines | Hindustan Times",
+        "title": "'Speeding at over 100 km/h': Man crossing road with his birthday cake hit by car in Greater Noida | India News",
+        "title_full": "'Speeding at over 100 km/h': Man crossing road with his birthday cake hit by car in Greater Noida | India News",
+        "published": "2026-09-17T08:08:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/logo/greater_noida_accident_1789617913435_rGM4_1789617926141_41Jp_f9b892d2-ac41-48eb-a5b9-7111ba3ee90d_h7Dt.png",
+        "performance_score": 0,
+        "domain_rank": 2697,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4cb2029659a58f46cdb1283630d9ca1952c1f2df",
+    "url": "https://www.hindustantimes.com/india-news/speeding-at-over-100-km-h-man-crossing-road-with-his-birthday-cake-hit-by-car-in-greater-noida-tata-punch-101789616609966.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-09-17T08:08:00.000+03:00",
+    "title": "'Speeding at over 100 km/h': Man crossing road with his birthday cake hit by car in Greater Noida | India News",
+    "text": "'The car hit me at over 100 km/h'\nRai recalled the incident, which took place on his birthday. Speaking to news agency ANI from his hospital bed, he said, “The car hit me at what appeared to be a speed of over 100 km/h and drove away. The way the car was being driven, it appeared to me that the driver might have been under the influence of alcohol.”",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->accident and emergency incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rai",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Noida",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "India News",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "ANI",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:21:40.547+03:00",
+    "updated": "2026-09-17T08:30:53.000+03:00"
+}

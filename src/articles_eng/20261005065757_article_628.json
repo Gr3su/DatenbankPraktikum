@@ -1,0 +1,158 @@
+{
+    "thread": {
+        "uuid": "c808ee8f3ac41396960fb288703ad0fe512b98d2",
+        "url": "https://www.newsbreak.com/news/4914409533032-this-pastor-is-barred-from-returning-to-the-u-s-he-still-leads-a-church-in-wisconsin",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/green-lake-wi",
+        "site_categories": [
+            "science and technology",
+            "arts, culture and entertainment",
+            "sport",
+            "politics",
+            "economy, business and finance",
+            "under_construction",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "human interest"
+        ],
+        "section_title": "Green Lake, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "This pastor is barred from returning to the U.S. He still leads a church in Wisconsin - NewsBreak",
+        "title_full": "This pastor is barred from returning to the U.S. He still leads a church in Wisconsin - NewsBreak",
+        "published": "2026-09-29T11:47:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2Xxj6h_1FbsMC1K00",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:21:42.462+03:00"
+        }
+    },
+    "uuid": "c808ee8f3ac41396960fb288703ad0fe512b98d2",
+    "url": "https://www.newsbreak.com/news/4914409533032-this-pastor-is-barred-from-returning-to-the-u-s-he-still-leads-a-church-in-wisconsin",
+    "ord_in_thread": 0,
+    "author": "Aleja Hertzler-McCain",
+    "published": "2026-09-29T11:47:00.000+03:00",
+    "title": "This pastor is barred from returning to the U.S. He still leads a church in Wisconsin - NewsBreak",
+    "text": "By Aleja Hertzler-McCain ,\n2 days ago FOND DU LAC, Wis. (RNS) — It's just after 8 p.m. on Saturday night, and it's time for the Rev. Esdras Paredes to give his sermon. But the pastor isn't there. While the team at Ven y Descansarás (Come and You Will Find Rest) scrambles to fix Paredes'internet connection, people at the Pentecostal church in Fond du Lac, Wis., part of the Church of God denomination, are asked to get up and greet each other. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Religion and Belief"
+    ],
+    "topics": [
+        "Religion and Belief->christianity",
+        "Religion and Belief->religious leader",
+        "Religion and Belief->church"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.npr.org/2026/09/29/nx-s1-5957500/pastor-barred-from-returning-to-the-u-s-works-to-lead-his-congregation-from-afar",
+        "https://npr.org/2026/09/29/nx-s1-5957500/pastor-barred-from-returning-to-the-u-s-works-to-lead-his-congregation-from-afar"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Esdras Paredes",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Aleja Hertzler",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "McCain",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Wis.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fond du Lac",
+                "sentiment": "none"
+            },
+            {
+                "name": "U. S",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wisconsin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Church of God",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Green Lake"
+            ],
+            "state": [
+                "Wisconsin"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:21:42.462+03:00",
+    "updated": "2026-10-02T07:25:13.000+03:00",
+    "related_articles": null
+}

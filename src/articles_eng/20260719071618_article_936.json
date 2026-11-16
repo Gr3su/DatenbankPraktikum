@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "5d308fe7e19f61ee7274b967bf532af182e2cae0",
+        "url": "https://www.hindustantimes.com/genesis/uttarakhand-cm-dhami-says-over-25-000-women-in-chamoli-became-lakhpati-didis-congress-mla-praises-development-101784176630139.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/don-t-miss",
+        "site_categories": [
+            "crime, law and justice",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "social issue",
+            "sport",
+            "arts, culture and entertainment",
+            "media",
+            "health",
+            "politics"
+        ],
+        "section_title": "Read Latest India news, World news, Cricket news, Sports news, Bollywood news which you can’t miss out | Hindustan Times",
+        "site_title": "Hindustan Times: Breaking News, Latest News, India News, World News & Cricket Today's Headlines | Hindustan Times",
+        "title": "Uttarakhand CM Dhami says over 25,000 women in Chamoli became 'Lakhpati Didis', Congress MLA praises development | Hindustan Times",
+        "title_full": "Uttarakhand CM Dhami says over 25,000 women in Chamoli became 'Lakhpati Didis', Congress MLA praises development | Hindustan Times",
+        "published": "2026-07-16T07:38:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/07/16/550x309/ANI-20260612226-0_1781272440102_1781272452967_5882de3a-5817-46ff-8482-11269b24b056_1784176661928_47b7ffa0-b988-4559-9cc1-4f015f926463.jpg",
+        "performance_score": 0,
+        "domain_rank": 2639,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5d308fe7e19f61ee7274b967bf532af182e2cae0",
+    "url": "https://www.hindustantimes.com/genesis/uttarakhand-cm-dhami-says-over-25-000-women-in-chamoli-became-lakhpati-didis-congress-mla-praises-development-101784176630139.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-07-16T07:38:00.000+03:00",
+    "title": "Uttarakhand CM Dhami says over 25,000 women in Chamoli became 'Lakhpati Didis', Congress MLA praises development | Hindustan Times",
+    "text": "Women's empowerment focus\nDhami said strengthening women's livelihoods remained a priority for the government. He said over 42,000 women in Chamoli had been linked with self-help groups and more than 25,000 had become Lakhpati Didis. He urged people to participate in the ongoing public outreach campaign and avail the benefits of government welfare schemes, adding that the administration was committed to ensuring development reached every eligible beneficiary.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue"
+    ],
+    "topics": [
+        "Social Issue->family",
+        "Social Issue->diversity, equity and inclusion",
+        "Social Issue->women"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lakhpati Didis",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Dhami",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Uttarakhand",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chamoli",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hindustan Times",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Congress",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:44:57.710+03:00",
+    "updated": "2026-07-16T08:00:07.000+03:00"
+}

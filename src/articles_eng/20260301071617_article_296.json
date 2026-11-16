@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "fdaa9d54bf8905b6a239c71873639e65a328ad4a",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4512341384328-special-weather-statement-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/nws-alerts-1671083",
+        "site_categories": [
+            "sport",
+            "economy, business and finance",
+            "crime, law and justice",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "politics"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Special Weather Statement by NWS - NewsBreak",
+        "title_full": "Special Weather Statement by NWS - NewsBreak",
+        "published": "2026-02-26T06:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1Dx5HM_19Ak0uLv00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-22T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fdaa9d54bf8905b6a239c71873639e65a328ad4a",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4512341384328-special-weather-statement-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2026-02-26T06:54:00.000+02:00",
+    "title": "Special Weather Statement by NWS - NewsBreak",
+    "text": "23 minutes ago Check NWS updates here\nEffective: 2026-02-25 23:52:00 EST Expires: 2026-02-26 03:00:00 EST Urgency: Expected Severity: Moderate Certainty: Observed Target Area: Northern Fairfield; Northern New Haven; Northern Middlesex; Northern New London; Southern Fairfield; Southern New Haven; Southern Middlesex; Southern New London Showers are currently moving through southern CT. This precipitation is falling as freezing rain in some locations where surface temperatures have dropped below freezing. A glaze of ice is possible which could cause slick conditions.\nUse caution if traveling tonight and leave extra room between you and the car in front of you.",
+    "summary": "23 minutes ago Check NWS updates here Effective: 2026-02-25 23:52:00 EST Expires: 2026-02-26 03:00:00 EST Urgency: Expected Severity: Moderate Certainty: Observed Target Area: Northern Fairfield; Northern New Haven; Northern Middlesex; Northern New London; Southern Fairfield; Southern New Haven; Southern Middlesex; Southern New London Showers are currently moving through southern CT. This precipitation is falling as freezing rain in some locations where surface temperatures have dropped below freezing. A glaze of ice is possible which could cause slick conditions. Use caution if traveling tonight and leave extra room between you and the car in front of you.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1Dx5HM_19Ak0uLv00",
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.2b964b5b75c2fa6c475714a2fd7c4333526783cb.001.1",
+        "https://img.particlenews.com/image.php?url=1Dx5HM_19Ak0uLv00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1Dx5HM_19Ak0uLv00",
+        "https://alerts.weather.gov/search",
+        "https://img.particlenews.com/image.php",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.2b964b5b75c2fa6c475714a2fd7c4333526783cb.001.1",
+        "https://www.img.particlenews.com/image.php?url=1Dx5HM_19Ak0uLv00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Northern Fairfield",
+                "sentiment": "none"
+            },
+            {
+                "name": "Southern New London",
+                "sentiment": "none"
+            },
+            {
+                "name": "CT",
+                "sentiment": "none"
+            },
+            {
+                "name": "Southern New Haven",
+                "sentiment": "none"
+            },
+            {
+                "name": "Northern Middlesex",
+                "sentiment": "none"
+            },
+            {
+                "name": "Northern New Haven",
+                "sentiment": "none"
+            },
+            {
+                "name": "Southern Fairfield",
+                "sentiment": "none"
+            },
+            {
+                "name": "Northern New London",
+                "sentiment": "none"
+            },
+            {
+                "name": "Southern Middlesex",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-26T07:25:22.189+02:00",
+    "updated": "2026-02-26T07:29:06.000+02:00"
+}

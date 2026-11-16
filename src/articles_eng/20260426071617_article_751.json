@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "756a9c579d6dc695ccbb4f41a22afdbf24117de4",
+        "url": "https://www.newsbreak.com/news/4604729853421-man-impaled-by-stick-at-old-furnace-state-park-airlifted-to-hospital",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/lebanon-ct",
+        "site_categories": [
+            "sport",
+            "politics",
+            "under_construction",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "human interest"
+        ],
+        "section_title": "Lebanon, CT Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Man impaled by stick at Old Furnace State Park, airlifted to hospital - NewsBreak",
+        "title_full": "Man impaled by stick at Old Furnace State Park, airlifted to hospital - NewsBreak",
+        "published": "2026-04-21T20:36:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3L2qIj_1AeprJOJ00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "756a9c579d6dc695ccbb4f41a22afdbf24117de4",
+    "url": "https://www.newsbreak.com/news/4604729853421-man-impaled-by-stick-at-old-furnace-state-park-airlifted-to-hospital",
+    "ord_in_thread": 0,
+    "author": "Zoe Strothers",
+    "published": "2026-04-21T20:36:00.000+03:00",
+    "title": "Man impaled by stick at Old Furnace State Park, airlifted to hospital - NewsBreak",
+    "text": "By Zoe Strothers ,\n1 days ago KILLINGLY, Conn. (WFSB) - A man is being transported by medical helicopter after being impaled by a stick at Old Furnace State Park. According to CT Department of Energy & Environmental Protection, emergency crews are currently working on getting the 49-year-old man out of the woods to be taken by LifeStar to the hospital. Read full article\nRead in NewsBreak 3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Health"
+    ],
+    "topics": [
+        "Disaster and Accident->accident and emergency incident",
+        "Health->injury",
+        "Health->emergency care"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Zoe Strothers",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "KILLINGLY",
+                "sentiment": "none"
+            },
+            {
+                "name": "Old Furnace State Park",
+                "sentiment": "none"
+            },
+            {
+                "name": "Conn",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "LifeStar",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "CT Department of Energy & Environmental Protection",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-23T07:30:15.122+03:00",
+    "updated": "2026-04-23T07:34:47.000+03:00"
+}

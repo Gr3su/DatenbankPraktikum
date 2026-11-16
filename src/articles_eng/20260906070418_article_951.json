@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "e2b61f4756c7cf1668de0f56e8726c7a219a2918",
+        "url": "https://www.newsbreak.com/fox-news-510075/4864129658326-us-military-boards-searches-and-sinks-vessel-allegedly-supporting-los-choneros-narco-terrorists",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/fox-news-510075",
+        "site_categories": [
+            "politics",
+            "arts, culture and entertainment",
+            "human interest",
+            "economy, business and finance",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "sport",
+            "social issue",
+            "under_construction"
+        ],
+        "section_title": "Fox News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "US military boards, searches and sinks vessel allegedly supporting Los Choneros narco-terrorists - NewsBreak",
+        "title_full": "US military boards, searches and sinks vessel allegedly supporting Los Choneros narco-terrorists - NewsBreak",
+        "published": "2026-09-03T06:46:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/08hbDK_1EoCaVD100",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e2b61f4756c7cf1668de0f56e8726c7a219a2918",
+    "url": "https://www.newsbreak.com/fox-news-510075/4864129658326-us-military-boards-searches-and-sinks-vessel-allegedly-supporting-los-choneros-narco-terrorists",
+    "ord_in_thread": 0,
+    "author": "Michael Sinkewicz",
+    "published": "2026-09-03T06:46:00.000+03:00",
+    "title": "US military boards, searches and sinks vessel allegedly supporting Los Choneros narco-terrorists - NewsBreak",
+    "text": "By Michael Sinkewicz ,\n42 minutes ago Video captures USS San Antonio Marines boarding and sinking a Los Choneros narco-terrorist floating refueling station in the Eastern Pacific. Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->armed conflict",
+        "War, Conflict and Unrest->act of terror",
+        "War, Conflict and Unrest->guerrilla activity",
+        "War, Conflict and Unrest->armed conflict"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.foxnews.com/us/us-military-boards-searches-sinks-vessel-allegedly-supporting-los-choneros-narco-terrorists.amp",
+        "https://foxnews.com/us/us-military-boards-searches-sinks-vessel-allegedly-supporting-los-choneros-narco-terrorists.amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael Sinkewicz",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "US",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eastern Pacific",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Los Choneros",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:35:05.954+03:00",
+    "updated": "2026-09-03T07:40:09.000+03:00"
+}

@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "ce7c2e30b32f6054075d33bf416f616d7a6cb537",
+        "url": "https://www.newsbreak.com/news/4620500541314-hopkins-county-teacher-charged-with-assault-in-reported-off-campus-incident",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/rochester-ky",
+        "site_categories": [
+            "crime, law and justice",
+            "politics",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "under_construction",
+            "sport",
+            "human interest",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Rochester, KY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Hopkins County teacher charged with assault in reported off-campus incident - NewsBreak",
+        "title_full": "Hopkins County teacher charged with assault in reported off-campus incident - NewsBreak",
+        "published": "2026-04-29T19:29:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1gezfp_1AuizCjZ00",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ce7c2e30b32f6054075d33bf416f616d7a6cb537",
+    "url": "https://www.newsbreak.com/news/4620500541314-hopkins-county-teacher-charged-with-assault-in-reported-off-campus-incident",
+    "ord_in_thread": 0,
+    "author": "WNKY Staff",
+    "published": "2026-04-29T19:29:00.000+03:00",
+    "title": "Hopkins County teacher charged with assault in reported off-campus incident - NewsBreak",
+    "text": "By WNKY Staff ,\n13 hours ago GREENVILLE, Ky. (WNKY) — A Hopkins County School teacher has been suspended following an off-campus arrest. That’s according to a statement released by school district officials. A uniform citation states on April 22, Greenville Police was contacted by local parks and rec staff about an incident that occurred... Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Education"
+    ],
+    "topics": [
+        "Crime, Law and Justice->assault",
+        "Education->teachers",
+        "Education->school"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "W",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Hopkins County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Greenville Police",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Rochester"
+            ],
+            "state": [
+                "Kentucky"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:39:17.215+03:00",
+    "updated": "2026-04-30T09:12:45.783+03:00"
+}

@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "ac70bc6d1727e15a65f75452922b6abf296b35f8",
+        "url": "https://www.newsbreak.com/the-press-521297/4442896574167-deploying-ai-in-political-messaging-could-appeal-to-younger-us-voters",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/the-press-521297",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "The Press&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Deploying AI in political messaging could appeal to younger US voters - NewsBreak",
+        "title_full": "Deploying AI in political messaging could appeal to younger US voters - NewsBreak",
+        "published": "2026-01-15T04:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/075uJF_183lesaw00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-11T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ac70bc6d1727e15a65f75452922b6abf296b35f8",
+    "url": "https://www.newsbreak.com/the-press-521297/4442896574167-deploying-ai-in-political-messaging-could-appeal-to-younger-us-voters",
+    "ord_in_thread": 0,
+    "author": "SAUL LOEB",
+    "published": "2026-01-15T04:02:00.000+02:00",
+    "title": "Deploying AI in political messaging could appeal to younger US voters - NewsBreak",
+    "text": "By SAUL LOEB ,\n3 hours ago Trump embraces AI deepfakes in political messaging. From playing football in the Oval Office to sipping cocktails on a sun lounger in Gaza and attacking critics from a fighter jet, Donald Trump has become the first US president to deploy AI-generated imagery as a key tool of political communications. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Politics->political campaigns",
+        "Politics->political system",
+        "Science and Technology->information technology and computer science",
+        "Science and Technology->political science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "US",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gaza",
+                "sentiment": "none"
+            },
+            {
+                "name": "Oval Office",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-15T07:19:24.197+02:00",
+    "updated": "2026-01-15T07:25:44.000+02:00"
+}

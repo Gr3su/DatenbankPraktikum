@@ -1,0 +1,122 @@
+{
+    "thread": {
+        "uuid": "b7be7f502ee3c60d3cf0d9cd5967614e16b43721",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4058745048902-severe-thunderstorm-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "published": "2025-06-19T02:23:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/423Kfr_11vgfbMl00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b7be7f502ee3c60d3cf0d9cd5967614e16b43721",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4058745048902-severe-thunderstorm-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-06-19T02:23:00.000+03:00",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here At 1123 PM EDT, severe thunderstorms were located along a line from near West Liberty to 9 miles west of Woodsfield, moving east at 35 mph. HAZARD...60 mph wind gusts. SOURCE...Law enforcement reported trees down with this line. IMPACT...Expect damage to roofs, siding, and trees. Locations impacted include... Wheeling, Washington, Moundsville, Martins Ferry, New Martinsville, Bellaire, Warwood, Bethlehem, Woodsfield, West Liberty, Triadelphia, Clearview, Valley Grove, Shadyside, Wolfdale, East Washington, McMechen, Powhatan Point, Glen Dale and Tiltonsville.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Disaster and Accident->emergency response",
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.dbfea7d5bc31cd5e661f2e38c3410f9228080e70.002.1",
+        "https://alerts.weather.gov/search",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.dbfea7d5bc31cd5e661f2e38c3410f9228080e70.002.1"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Glen Dale",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "West",
+                "sentiment": "none"
+            },
+            {
+                "name": "Woodsfield",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shadyside",
+                "sentiment": "none"
+            },
+            {
+                "name": "Clearview",
+                "sentiment": "none"
+            },
+            {
+                "name": "Grove",
+                "sentiment": "none"
+            },
+            {
+                "name": "New",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Martins Ferry",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:32:34.158+03:00",
+    "updated": "2025-06-19T04:37:06.000+00:00"
+}

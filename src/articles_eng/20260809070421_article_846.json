@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "fcdcbb9be771ffc6c410e7e641f4d0e4c47a4d66",
+        "url": "https://www.newsbreak.com/nbc-news-510074/4810878839351-mexican-influencer-c-sar-gast-lum-shot-to-death-during-livestream",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/?s=newsbreak.com_errorpage_desktop&err=/m/wcnc-524551&code=404",
+        "site_categories": [
+            "sport",
+            "health",
+            "crime, law and justice",
+            "human interest",
+            "under_construction",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "social issue",
+            "politics",
+            "economy, business and finance"
+        ],
+        "section_title": "NewsBreak: Local News &amp; Alerts",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Mexican influencer César Gastélum shot to death during livestream - NewsBreak",
+        "title_full": "Mexican influencer César Gastélum shot to death during livestream - NewsBreak",
+        "published": "2026-08-05T17:18:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3AsDpW_1DxYDGAB00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fcdcbb9be771ffc6c410e7e641f4d0e4c47a4d66",
+    "url": "https://www.newsbreak.com/nbc-news-510074/4810878839351-mexican-influencer-c-sar-gast-lum-shot-to-death-during-livestream",
+    "ord_in_thread": 0,
+    "author": "Reuters",
+    "published": "2026-08-05T17:18:00.000+03:00",
+    "title": "Mexican influencer César Gastélum shot to death during livestream - NewsBreak",
+    "text": "By Reuters ,\n14 hours ago MEXICO CITY -—Mexican social media influencer César Gastélum was shot and killed on Tuesday while livestreaming with friends outside a fast-food restaurant in the northwestern city of Culiacán, local authorities said. Gastélum, who had nearly 600,000 followers on TikTok and was known for comedy videos, was... Read full article\n74",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->cyber crime",
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nbcnews.com/world/mexico/mexican-influencer-cesar-gastelum-shot-death-livestream-rcna590957",
+        "https://nbcnews.com/world/mexico/mexican-influencer-cesar-gastelum-shot-death-livestream-rcna590957"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "César Gastélum",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Culiacán",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "TRI",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "TikTok",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:37:54.960+03:00",
+    "updated": "2026-08-06T07:39:48.000+03:00"
+}

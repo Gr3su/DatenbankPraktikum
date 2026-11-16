@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "5b6d86f5b787abb4a2843e51a2d3614ef1d5bcfd",
+        "url": "https://www.sciencedaily.com/releases/2025/11/251112111033.htm",
+        "site_full": "www.sciencedaily.com",
+        "site": "sciencedaily.com",
+        "site_section": "https://news.google.com/search?q=can%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "science",
+            "space_astronomy",
+            "education"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "ScienceDaily: Your source for the latest research news",
+        "title": "Smart drug strikes a hidden RNA weak point in cancer cells | ScienceDaily",
+        "title_full": "Smart drug strikes a hidden RNA weak point in cancer cells | ScienceDaily",
+        "published": "2025-11-07T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.sciencedaily.com/images/1920/targeting-cancer-cells-ultrasound.webp",
+        "performance_score": 0,
+        "domain_rank": 1805,
+        "domain_rank_updated": "2025-10-26T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5b6d86f5b787abb4a2843e51a2d3614ef1d5bcfd",
+    "url": "https://www.sciencedaily.com/releases/2025/11/251112111033.htm",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-11-07T02:00:00.000+02:00",
+    "title": "Smart drug strikes a hidden RNA weak point in cancer cells | ScienceDaily",
+    "text": "Smart drug strikes a hidden RNA weak point in cancer cells\nA new smart drug can find and shut down a hidden RNA that helps cancer cells survive.\n- Date:\n- November 13, 2025\n- Source:\n- The Hebrew University of Jerusalem\n- Summary:\n- Researchers have designed a smart drug that hunts down and breaks a little-known RNA that cancer cells depend on. The drug recognizes a unique fold in the RNA and triggers the cell to destroy it. Tests showed that removing this RNA slows cancer growth. The approach could lead to new treatments that attack cancer at its most fundamental level.\n- Share:\nResearchers have designed a new class of drug molecule capable of specifically destroying TERRA, an RNA molecule that some cancer cells rely on to survive. Using a technique known as \"RIBOTAC,\" the compound is able to locate TERRA inside the cell and break it apart while avoiding healthy RNA. The work suggests a possible path toward future cancer therapies that focus on the genetic drivers of disease rather than its outward effects.\nA team from the Hebrew University of Jerusalem has created a drug-like molecule that can locate and eliminate an RNA segment tied to cancer development. The study, published in Advanced Sciences, was conducted by Dr. Raphael I. Benhamou, Elias Khaskia, and Dipak Dahatonde of the university's Faculty of Medicine. Their research centers on TERRA, an RNA molecule that helps maintain the ends of chromosomes -- the regions of DNA that support cell stability and overall health.\nWhen TERRA functions improperly, it can disrupt normal cell aging and division. In several cancers, including certain tumors of the brain and bone, cancer cells exploit TERRA to continue growing and dividing.\n\"We've created a tool that acts like a guided missile for bad RNA,\" said Dr. Benhamou. \"It can find TERRA inside cancer cells and make it disappear -- without harming healthy parts of the cell.\"\nHow the RIBOTAC Molecule Works\nThe researchers built a small molecule using RIBOTAC, short for Ribonuclease-Targeting Chimera. This molecule identifies a distinctive shape in TERRA called a G-quadruplex -- a folded structure -- and then recruits a natural enzyme in the cell, RNase L, to break down the RNA.\nThis marks the first demonstration of a tool that can destroy TERRA with such accuracy. The molecule selectively targets TERRA and does not affect other RNA molecules that share similar features.\nIn experiments using cancer cell lines such as HeLa and U2OS cells (which represent a hard-to-treat type of cancer), the treatment lowered TERRA levels and slowed cancer cell growth.\nPotential to Reshape Future Cancer Therapies\nThe finding points to the possibility of developing medicines that target RNA molecules directly -- not only proteins, which are the primary focus of most current drugs.\n\"This is a new way of thinking about medicine,\" said Benhamou. \"Instead of focusing only on proteins, we're now learning how to target the RNA that controls them. That could open the door to treating diseases we once thought were impossible to reach.\"\nStory Source:\nMaterials provided by The Hebrew University of Jerusalem. Note: Content may be edited for style and length.\nJournal Reference:\n- Elias Khaskia, Dipak Dahatonde, Raphael I. Benhamou. RNA G‐Quadruplex RIBOTAC‐Mediated Targeted Degradation of lncRNA TERRA. Advanced Science, 2025; DOI:\n10.1002/advs.202512715\nCite This Page:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Health->prescription drug",
+        "Health->cancer",
+        "Science and Technology->biomedical science",
+        "Science and Technology->medical research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "http://dx.doi.org/10.1002/advs.202512715",
+        "http://www.dx.doi.org/10.1002/advs.202512715"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Hebrew University of Jerusalem",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-11-13T07:19:52.556+02:00",
+    "updated": "2025-11-13T07:25:04.000+02:00"
+}

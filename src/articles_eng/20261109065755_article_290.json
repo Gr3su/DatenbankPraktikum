@@ -1,0 +1,116 @@
+{
+    "thread": {
+        "uuid": "28cecfd6c8cb94833eeb85159a1a151ec2aac6ac",
+        "url": "https://us.headtopics.com/news/xpeng-researchers-and-academic-partners-introduce-89600723",
+        "site_full": "us.headtopics.com",
+        "site": "headtopics.com",
+        "site_section": "https://us.headtopics.com/latest-news",
+        "site_categories": [
+            "science and technology",
+            "economy, business and finance",
+            "politics",
+            "sport",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "crime, law and justice"
+        ],
+        "section_title": "United States Latest News | News | 06 November 2026, Friday",
+        "site_title": "Breaking News | Headlines | United States News - Head Topics",
+        "title": "XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI",
+        "title_full": "XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI",
+        "published": "2026-11-06T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "TH",
+        "main_image": "https://i.headtopics.com/images/2026/11/6/cleantechnica/xpeng-researchers-and-academic-partners-introduce-xpeng-researchers-and-academic-partners-introduce-A7ABB53313B0732C9C08C0563500F05E-16x9.webp",
+        "performance_score": 0,
+        "domain_rank": 7198,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-11-06T07:05:18.714+02:00"
+        }
+    },
+    "uuid": "28cecfd6c8cb94833eeb85159a1a151ec2aac6ac",
+    "url": "https://us.headtopics.com/news/xpeng-researchers-and-academic-partners-introduce-89600723",
+    "ord_in_thread": 0,
+    "author": "cleantechnica",
+    "published": "2026-11-06T07:00:00.000+02:00",
+    "title": "XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI",
+    "text": "XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI Support CleanTechnica's work through a Substack subscription, on Patreon, or on Stripe. Help us produce all of the high-quality, original content we publish week after week despite the challenges of content-scraping AI, antisocial media, inflation, and other hurdles. GroundingPI demonstrates perception capabilities across multiple scenarios and tasks through Visual Primitives— the smallest building blocks that constitute an image. Developed by researchers affiliated with XPENG, Peking University, The University of Hong Kong and other academic institutions, GroundingPI introduces a perception-focused approach to foundation models for Physical AI. The 4B-parameter model achieved an average score of 73.68 across 34 perception benchmarks, outperforming GPT-6 Astra in the research team’s evaluation. Simulation results demonstrate improved robotic manipulation performance and training-data efficiency, with research code and model weights made publicly available to the AI research community., a leading Physical AI company, has supported the development of GroundingPI, an open-source visual perception foundation model created by researchers affiliated with XPENG, Peking University, The University of Hong Kong and other academic institutions. The research explores a new approach to embodied intelligence by focusing on a fundamental capability: enabling AI systems to accurately identify objects and understand their spatial positions in the physical world.With approximately 4 billion parameters, GroundingPI achieved the highest aggregate score among 44 baseline models evaluated across 34 perception benchmarks covering 11 capability categories. The research paper, model weights and supporting code have been made publicly available, enabling researchers and developers to further explore perception-focused approaches to Physical AI. As AI increasingly moves beyond digital environments into physical applications such as robotics and autonomous driving, accurately understanding the surrounding environment becomes essential.While general-purpose foundation models have demonstrated strong capabilities in language understanding, reasoning and planning, physical intelligence requires more precise visual perception. AI systems must not only recognize objects but also identify their exact locations and spatial relationships to support real-world interaction. GroundingPI takes a perception-focused approach to this challenge. Rather than relying on robot action labels during the perceptual model’s training, the research focuses on developing foundational visual understanding capabilities that can support downstream action-learning systems.For example, when instructed to identify “the handle of the cup on the right”, an AI system needs to locate not only the correct cup but also the precise position of its handle. GroundingPI is designed to represent such information using spatial coordinates, including points and bounding boxes.The model is trained across 11 categories of perceptual capabilities, including object detection, dense object localization, referring expression grounding, optical character recognition , document layout understanding, user interface element recognition and robotic spatial localization. By strengthening these fundamental capabilities, the research explores how specialized perception models could provide a more effective visual foundation for embodied AI systems.GroundingPI demonstrates perception capabilities across multiple scenarios and tasks through Visual Primitives—In evaluations conducted by the research team, GroundingPI was compared with 44 baseline models across 34 public perception benchmarks spanning 11 capability categories. The results demonstrate the potential of specialized perception-focused models to outperform larger general-purpose models on specific visual grounding tasks. The comparison relates to the evaluated perception benchmarks and does not represent a broader assessment of general AI intelligence or reasoning capabilities.GroundingPI’s performance was particularly relevant to tasks requiring precise object localization, including complex visual scenes containing numerous objects or small targets. These findings suggest that targeted perceptual pretraining can provide a valuable foundation for future Physical AI research, complementing the broader reasoning and planning capabilities of general-purpose foundation models. Beyond perception benchmarks, the research team evaluated GroundingPI as a visual foundation for downstream robotic manipulation and autonomous driving tasks.Robotic systems often require extensive human demonstrations to learn new manipulation tasks, creating significant challenges in data collection and training. In RoboCasa-GR1 simulation experiments, robotic learning systems using GroundingPI as their visual backbone achieved higher task success rates with 50% of the available demonstration data than the evaluated comparison models trained with 75%.This finding suggests that stronger foundational perception capabilities may reduce the amount of action-training data required for certain robotic tasks, potentially improving the efficiency of future embodied AI development. Another major challenge in robotics is generalization: the ability to perform a learned task when objects, backgrounds or environmental conditions change. In RoboTwin 2.0 simulation evaluations, GroundingPI demonstrated stronger performance than the evaluated mainstream visual backbones across four out-of-distribution settings, indicating improved adaptability to unfamiliar environments.The research team also evaluated its potential for autonomous driving perception using the nuScenes dataset. When integrated as a visual backbone, GroundingPI achieved an average open-loop trajectory prediction error of 0.296 metres in the reported evaluation. Together, these experimental findings highlight the potential of perception-focused foundation models to support more adaptable and data-efficient embodied intelligence systems. The research remains exploratory.Its downstream results are based on simulation and offline evaluations and do not establish readiness for real-world commercial deployment. GroundingPI explores a research direction in which specialized visual perception capabilities complement higher-level reasoning and planning, rather than relying exclusively on general-purpose models for every component of an embodied intelligence system. The findings provide insights into how perception-focused pretraining could contribute to future research on robotic manipulation, autonomous driving and other applications requiring precise interaction with the physical world.To encourage further exploration and collaboration, the research team has made GroundingPI’s paper, model weights and supporting code publicly accessible, subject to the applicable open-source and third-party licensing terms. The project represents an academic research contribution supported by XPENG and its research collaborators. The results do not constitute an announcement of integration into XPENG’s commercial products or a commitment to future deployment.XPENG is a leading global Physical AI company, dedicated to bringing artificial intelligence into the physical world to reshape future mobility and smart living. Through in-house R&D, XPENG has developed a full-stack Physical AI architecture spanning Turing AI chips, world foundation models, and highly integrated software and hardware applications. This unified technology foundation of XPENG powers an expansive product portfolio of smart EVs, robotaxis, and humanoid robots, advancing the deployment of Physical AI at scale.Headquartered in Guangzhou, China, XPENG is dual-primary listed on the New York Stock Exchange and the Hong Kong Stock Exchange. With global capabilities across R&D, manufacturing, sales, and services, XPENG drives continuous technological innovation and fosters an open Physical AI ecosystem, making life smarter, safer, and better for users worldwide. For more information, please visit Press releases about cleantech products, cleantech companies, or other cleantech news. Some of these may be underwritten by the companies.For more information, or to get your press release into our Newswire Corner, go to",
+    "summary": "XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI Support CleanTechnica's work through a Substack subscription, on Patreon, or on Stripe. GroundingPI is designed to represent such information using spatial coordinates, including points and bounding boxes.The model is trained across 11 categories of perceptual capabilities, including object detection, dense object localization, referring expression grounding, optical character recognition , document layout understanding, user interface element recognition and robotic spatial localization.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science",
+        "Science and Technology->biotechnology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Patreon",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "XPENG Researchers",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "CleanTechnica",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-11-06T07:05:18.714+02:00",
+    "updated": "2026-11-06T07:07:05.000+02:00",
+    "related_articles": null
+}

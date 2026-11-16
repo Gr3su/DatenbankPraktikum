@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "086282b2e587ae4b31607598dbf2a15420b53d02",
+        "url": "https://www.newsbreak.com/news/4593812230868-three-tornadoes-touched-down-in-allegan-montcalm-counties-nws-confirms",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/holland-mi",
+        "site_categories": [
+            "politics",
+            "under_construction",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "economy, business and finance",
+            "human interest",
+            "sport"
+        ],
+        "section_title": "Holland, MI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Three tornadoes touched down in Allegan, Montcalm Counties, NWS confirms - NewsBreak",
+        "title_full": "Three tornadoes touched down in Allegan, Montcalm Counties, NWS confirms - NewsBreak",
+        "published": "2026-04-15T21:25:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1UUXb3_1ATpo1eE00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "086282b2e587ae4b31607598dbf2a15420b53d02",
+    "url": "https://www.newsbreak.com/news/4593812230868-three-tornadoes-touched-down-in-allegan-montcalm-counties-nws-confirms",
+    "ord_in_thread": 0,
+    "author": "Katie Sergent",
+    "published": "2026-04-15T21:25:00.000+03:00",
+    "title": "Three tornadoes touched down in Allegan, Montcalm Counties, NWS confirms - NewsBreak",
+    "text": "By Katie Sergent ,\n9 hours ago ALLEGAN COUNTY, Mich. — Three tornadoes have been confirmed to have touched down in West Michigan during Tuesday night's storms. According to the National Weather Service, two tornadoes touched down in Allegan County: an EF-0 and an EF-1. Meteorologists say there was a non-continuous path of tornadic damage, which... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Weather->weather phenomena",
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Katie Sergent",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Allegan County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Montcalm Counties",
+                "sentiment": "none"
+            },
+            {
+                "name": "West Michigan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "National Weather Service",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Holland"
+            ],
+            "state": [
+                "Michigan"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:24:21.908+03:00",
+    "updated": "2026-04-16T07:29:38.000+03:00"
+}

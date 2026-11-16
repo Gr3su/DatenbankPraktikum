@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "63af0953404d47d92f3ff49ebf8aa26e2d132fb5",
+        "url": "https://www.newsbreak.com/news/4523792510063-lakewood-adding-another-cannabis-dispensary",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/bay-village-oh",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Bay Village, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Lakewood adding another cannabis dispensary - NewsBreak",
+        "title_full": "Lakewood adding another cannabis dispensary - NewsBreak",
+        "published": "2026-03-05T04:19:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0spgX8_19MGwndT00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "63af0953404d47d92f3ff49ebf8aa26e2d132fb5",
+    "url": "https://www.newsbreak.com/news/4523792510063-lakewood-adding-another-cannabis-dispensary",
+    "ord_in_thread": 0,
+    "author": "Brian Koster",
+    "published": "2026-03-05T04:19:00.000+02:00",
+    "title": "Lakewood adding another cannabis dispensary - NewsBreak",
+    "text": "By Brian Koster ,\n2 hours ago LAKEWOOD, Ohio (WOIO) - A new cannabis dispensary is preparing to open in Lakewood, according to the company’s website. The Forest, is moving into 18605 Detroit Avenue., the storefront that previously housed the Harry Buffalo restaurant and bar, which closed in February. The site sits next door to another marijuana dispensary, Rise, which has operated there for several years. Read full article\nRead in NewsBreak 3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->consumer goods"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brian Koster",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Lakewood",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ohio",
+                "sentiment": "none"
+            },
+            {
+                "name": "Detroit Avenue",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Rise",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Bay Village"
+            ],
+            "state": [
+                "Ohio"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-05T07:20:54.165+02:00",
+    "updated": "2026-03-05T07:24:41.000+02:00"
+}

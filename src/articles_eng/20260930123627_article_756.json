@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "c31480f5d518ae25bcba9bb720e3165f27d3bb87",
+        "url": "https://www.newsbreak.com/news/4910377373989-houston-weather-sept-26-evening-forecast",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sitemap-news-112.xml",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "sport",
+            "lifestyle and leisure",
+            "politics",
+            "crime, law and justice",
+            "economy, business and finance",
+            "human interest",
+            "under_construction"
+        ],
+        "section_title": "",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Houston weather: Sept. 26 evening forecast - NewsBreak",
+        "title_full": "Houston weather: Sept. 26 evening forecast - NewsBreak",
+        "published": "2026-09-27T03:48:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1CI0Aq_1FXoOawq00",
+        "performance_score": 0,
+        "domain_rank": 3126,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-09-27T12:48:48.467+03:00"
+        }
+    },
+    "uuid": "c31480f5d518ae25bcba9bb720e3165f27d3bb87",
+    "url": "https://www.newsbreak.com/news/4910377373989-houston-weather-sept-26-evening-forecast",
+    "ord_in_thread": 0,
+    "author": "fox26houston.com",
+    "published": "2026-09-27T03:48:00.000+03:00",
+    "title": "Houston weather: Sept. 26 evening forecast - NewsBreak",
+    "text": "9 hours ago FOX 26's Angie Rodriguez gives the latest on what to expect from the tropics, for all of Southeast Texas. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather forecast"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox26houston.com/video/fmc-n5w4v06ps2sryl0g.amp",
+        "https://fox26houston.com/video/fmc-n5w4v06ps2sryl0g.amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Angie Rodriguez",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Southeast Texas",
+                "sentiment": "none"
+            },
+            {
+                "name": "Houston",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FOX 26",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-27T12:48:48.467+03:00",
+    "updated": "2026-09-27T12:53:45.000+03:00",
+    "related_articles": null
+}

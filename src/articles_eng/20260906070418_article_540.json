@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "a6403eb227ef916b741cbee79d3f3d230796ebd0",
+        "url": "https://www.foxnews.com/video/6404523084112",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://news.google.com/search?q=with%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+        "site_categories": [
+            "social issue",
+            "arts, culture and entertainment",
+            "politics",
+            "sport",
+            "media",
+            "crime, law and justice"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "Everything on the DSA's platform is 'out of touch' with the average American: Brianna Lyman | Fox News Video",
+        "title_full": "Everything on the DSA's platform is 'out of touch' with the average American: Brianna Lyman | Fox News Video",
+        "published": "2026-09-03T06:56:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e725ee9e-df57-49c6-96a8-889bfa68a5d2/c06e434b-afe7-47c2-80b4-b6526dc49c92/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+        "performance_score": 0,
+        "domain_rank": 516,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a6403eb227ef916b741cbee79d3f3d230796ebd0",
+    "url": "https://www.foxnews.com/video/6404523084112",
+    "ord_in_thread": 0,
+    "author": "@foxnews",
+    "published": "2026-09-03T06:56:00.000+03:00",
+    "title": "Everything on the DSA's platform is 'out of touch' with the average American: Brianna Lyman | Fox News Video",
+    "text": "Everything on the DSA’s platform is ‘out of touch’ with the average American: Brianna Lyman\n‘Fox News @ Night’ panelists Brianna Lyman and Emily Wilson discuss ‘Ruthless’ podcast hosts calling out the DSA’s agenda and Democratic Sen. Chris Coons claiming Iran is ‘stronger’ than when the war began.\nLive Now\nAll times easternNOW - 12:30 AM\n12:30 AM\n1:00 AM\n1:30 AM\n2:00 AM\n2:30 AM",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Human Interest"
+    ],
+    "topics": [
+        "Human Interest->award and prize",
+        "Human Interest->celebrity"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brianna Lyman",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Chris Coons",
+                "sentiment": "none"
+            },
+            {
+                "name": "Emily Wilson",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Iran",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "DSA",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_us",
+            "top_news"
+        ],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:22:10.485+03:00",
+    "updated": "2026-09-03T07:40:52.000+03:00"
+}

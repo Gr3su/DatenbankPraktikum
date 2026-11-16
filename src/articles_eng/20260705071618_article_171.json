@@ -1,0 +1,151 @@
+{
+    "thread": {
+        "uuid": "a7b66a27547581cd623f0c0c9e6d5c42ab2e12ef",
+        "url": "https://www.newsbreak.com/news/4744483706957-esab-awards-5-000-grant-to-princeton-texas-high-school",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/greenville-tx",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "disaster and accident",
+            "social issue",
+            "politics",
+            "lifestyle and leisure",
+            "sport",
+            "human interest",
+            "crime, law and justice",
+            "under_construction",
+            "economy, business and finance"
+        ],
+        "section_title": "Greenville, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "ESAB AWARDS $5,000 GRANT TO PRINCETON, TEXAS, HIGH SCHOOL - NewsBreak",
+        "title_full": "ESAB AWARDS $5,000 GRANT TO PRINCETON, TEXAS, HIGH SCHOOL - NewsBreak",
+        "published": "2026-07-01T19:20:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/19hqNM_1CteReko00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a7b66a27547581cd623f0c0c9e6d5c42ab2e12ef",
+    "url": "https://www.newsbreak.com/news/4744483706957-esab-awards-5-000-grant-to-princeton-texas-high-school",
+    "ord_in_thread": 0,
+    "author": "ac-today.com",
+    "published": "2026-07-01T19:20:00.000+03:00",
+    "title": "ESAB AWARDS $5,000 GRANT TO PRINCETON, TEXAS, HIGH SCHOOL - NewsBreak",
+    "text": "13 hours ago DENTON, Texas – As part of celebrating National Welding Month in April, ESAB awarded $5,000 to support the welding programs at Princeton High School and Lovelady High School, part of the Princeton Independent School District, through its ESAB Future Fabricators Charlie Monschke Welding Education Grant. ESAB, a world leader in fabrication technology, also surprised the school with an equipment donation of a combined retail value exceeding $6,000. The award and gifts were presented during a tour of ESAB’s Denton facility on May 11. Read full article\n2",
+    "summary": "12 hours ago DENTON, Texas – As part of celebrating National Welding Month in April, ESAB awarded $5,000 to support the welding programs at Princeton High School and Lovelady High School, part of the Princeton Independent School District, through its ESAB Future Fabricators Charlie Monschke Welding Education Grant. ESAB, a world leader in fabrication technology, also surprised the school with an equipment donation of a combined retail value exceeding $6,000. The award and gifts were presented during a tour of ESAB’s Denton facility on May 11. Read full article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Education"
+    ],
+    "topics": [
+        "Education->curriculum",
+        "Education->school"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://ac-today.com/esab-awards-5000-grant-to-princeton-texas-high-school/",
+        "https://www.ac-today.com/esab-awards-5000-grant-to-princeton-texas-high-school/",
+        "https://ac-today.com/esab-awards-5000-grant-to-princeton-texas-high-school"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Texas",
+                "sentiment": "none"
+            },
+            {
+                "name": "Denton",
+                "sentiment": "none"
+            },
+            {
+                "name": "Princeton",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ESAB",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "ESAB",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Princeton High School",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Lovelady High School",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "a7b66a27547581cd623f0c0c9e6d5c42ab2e12ef",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Greenville",
+                "Neylandville"
+            ],
+            "state": [
+                "Texas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:21:52.060+03:00",
+    "updated": "2026-07-02T08:55:58.057+03:00"
+}

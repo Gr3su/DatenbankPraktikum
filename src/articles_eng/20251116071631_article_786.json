@@ -1,0 +1,112 @@
+{
+    "thread": {
+        "uuid": "989823afeb6bf5c1f63dcd2893eda642b1be2b72",
+        "url": "https://www.newsbreak.com/news/4345465493819-county-board-to-host-public-meeting-to-get-input-on-2026-budget",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/virginia-mn",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Virginia, MN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "County Board to host public meeting to get input on 2026 budget - NewsBreak",
+        "title_full": "County Board to host public meeting to get input on 2026 budget - NewsBreak",
+        "published": "2025-11-12T22:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-10-26T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "989823afeb6bf5c1f63dcd2893eda642b1be2b72",
+    "url": "https://www.newsbreak.com/news/4345465493819-county-board-to-host-public-meeting-to-get-input-on-2026-budget",
+    "ord_in_thread": 0,
+    "author": "Howie",
+    "published": "2025-11-12T22:50:00.000+02:00",
+    "title": "County Board to host public meeting to get input on 2026 budget - NewsBreak",
+    "text": "By Howie ,\n8 hours ago The St. Louis County Board will hold an evening public meeting to receive comments on its proposed operating budget and property tax levy for 2026. The meeting is Tuesday, December 2, at 7 p.m. at the St. Louis County Courthouse in Duluth. It will include a presentation about the budget and levy, and an opportunity for citizens to address the Board with questions or comments. It will also be live streamed on the County's Facebook page for people to watch virtually. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government budget"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Howie",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "St. Louis County Courthouse",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "St. Louis County Board",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Virginia"
+            ],
+            "state": [
+                "Minnesota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-11-13T07:34:02.331+02:00",
+    "updated": "2025-11-13T07:36:38.000+02:00"
+}

@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "92074bc7666a733107ce81be9b46ca7c3cbce1e8",
+        "url": "https://houlahan.house.gov/news/documentsingle.aspx?DocumentID=4765",
+        "site_full": "houlahan.house.gov",
+        "site": "house.gov",
+        "site_section": "https://houlahan.house.gov/news",
+        "site_categories": [],
+        "section_title": "\r\n\tPress | U.S. Representative Chrissy Houlahan\r\n",
+        "site_title": null,
+        "title": "Pennsylvania Democrats call on EPA to preserve climate regulations | U.S. Representative Chrissy Houlahan",
+        "title_full": "Pennsylvania Democrats call on EPA to preserve climate regulations | U.S. Representative Chrissy Houlahan",
+        "published": "2025-09-24T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://houlahan.house.gov/images/facebook-meta2.jpg",
+        "performance_score": 0,
+        "domain_rank": 484,
+        "domain_rank_updated": "2025-09-29T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "92074bc7666a733107ce81be9b46ca7c3cbce1e8",
+    "url": "https://houlahan.house.gov/news/documentsingle.aspx?DocumentID=4765",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-09-24T03:00:00.000+03:00",
+    "title": "Pennsylvania Democrats call on EPA to preserve climate regulations | U.S. Representative Chrissy Houlahan",
+    "text": "Pennsylvania Democrats call on EPA to preserve climate regulations\nPittsburgh, PA,\nSeptember 24, 2025\nOriginally published by WESA, an NPR Station\nBy Rachel McDevitt Pittsburgh Congresswoman Summer Lee is leading the Pennsylvania Democratic congressional delegation in opposing the Trump administration’s move to prevent climate action. The administration wants to overturn the In a letter to the Environmental Protection Agency’s head sent Monday, Pennsylvania’s seven Democratic U.S. Representatives and Sen. John Fetterman said that move would put their constituents in greater danger. “These are not distant projections but present realities affecting our constituents from Philadelphia to Pittsburgh, from rural farming communities to urban neighborhoods,” the lawmakers wrote. Lee, who represents Pittsburgh and parts of Allegheny and Westmoreland counties, organized the letter. The lawmakers said the commonwealth has recorded the largest increase in rainfall nationally since the 1950s. That’s fueled more frequent and severe flooding. Scientists overwhelmingly agree that climate change increases the likelihood of severe storms and floods. Pennsylvania saw 12 extreme weather events last year that killed 253 people and cost more than $36 billion in damages, the letter said. The state is also threatened by rising temperatures, which can worsen air quality, the lawmakers said. They noted that in June this year, Allegheny County hospitals treated over 40 patients for heat-related illnesses. “By proposing to eliminate the Endangerment Finding, the administration will undermine essential safeguards against climate pollution, leaving our constituents to face more pollution, more health harms, more extreme weather, and higher costs, especially in communities already overburdened by pollution,” the lawmakers said. Scientists say humans must act quickly to dramatically cut emissions to avoid the worst effects of climate change. The Earth is |",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Environment",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->political parties and movements",
+        "Politics->environmental policy",
+        "Politics->government policy",
+        "Environment->environmental pollution",
+        "Environment->climate change",
+        "Environment->sustainability",
+        "Social Issue->social problem",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Chrissy Houlahan",
+                "sentiment": "negative"
+            },
+            {
+                "name": "John Fetterman",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lee",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Westmoreland",
+                "sentiment": "none"
+            },
+            {
+                "name": "Allegheny",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "EPA",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Environmental Protection Agency",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "gov_news",
+            "city": [
+                "Washington"
+            ],
+            "state": [
+                "DC"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": "Federal - Legislative",
+            "agency": "The Legislative Branch",
+            "organization_name": "US House of Representatives"
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-02T07:33:20.813+03:00",
+    "updated": "2025-10-02T07:43:39.000+03:00"
+}

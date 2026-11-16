@@ -1,0 +1,126 @@
+{
+    "thread": {
+        "uuid": "6ed9dd6ab1ba6ce3c062697b5cea323be84ca863",
+        "url": "https://local.newsbreak.com/wgn-news-1589743/4160681423732-ground-stop-issued-for-united-airlines-flights-at-o-hare-due-to-technology-issue",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/wgn-news-1589743",
+        "site_categories": [],
+        "section_title": "WGN News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Ground stop issued for United Airlines flights at O'Hare due to 'technology issue' - NewsBreak",
+        "title_full": "Ground stop issued for United Airlines flights at O'Hare due to 'technology issue' - NewsBreak",
+        "published": "2025-08-07T03:30:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1d3RAc_13YObSOT00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6ed9dd6ab1ba6ce3c062697b5cea323be84ca863",
+    "url": "https://local.newsbreak.com/wgn-news-1589743/4160681423732-ground-stop-issued-for-united-airlines-flights-at-o-hare-due-to-technology-issue",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-08-07T03:30:00.000+03:00",
+    "title": "Ground stop issued for United Airlines flights at O'Hare due to 'technology issue' - NewsBreak",
+    "text": "CHICAGO ( WGN ) – A ground stop is currently in effect for all United Airlines flights heading to Chicago and other major airports across the country because of a “technology issue.” The FAA’s website said all United Airlines flights bound of Chicago O’Hare International Airport have been grounded at their departing airports. Officials said the issue initially happened just before 5:15 p.m. Wednesday. The FAA added Denver, Newark, Houston and San Francisco are also impacted by the ground stop. United Airlines issued the following statement on the matter: “Due to a technology issue, we are holding United mainline flights at their departure airports. We expect additional flight delays this evening as we work through this issue. Safety is our top priority, and we’ll work with our customers to get them to their destinations.” Just before 10 p.m., United Airlines issued an updated statement which read: “We are working with customers to get them to their destinations after a technology disruption on Wednesday evening. The underlying technology issue has been resolved, and, while we expect residual delays, our team is working to restore our normal operations.” WGN-TV heard from some passenger stuck on planes on the tarmac for nearly three hours waiting to take off or de-board their flights. One traveler said their pilot told them the airport’s traffic, monitoring, taxing, landing and disembarking systems were all nonfunctional. Some planes even had to be manually pulled to gates until the issue could be resolved, according to passengers. WGN-TV also spoke with a woman and her daughter whose flight was ultimately canceled. “We’re supposed to go to Burlington, Vermont, where our grandparents are. We’re gonna do some family visit, college visit, but no longer,” traveler Holden Brooks said. Another passenger said United offered them $200 for hotel reimbursement. One man also said that at around 8:15 p.m., the pilot of his plane said the systems are coming back online and that planes should be moving again soon. Transportation Secretary Sean Duffy said he was in contact with United Airlines and the FAA during the issue and added the issue was unrelated to the broader air traffic control system. United Airlines also sent some additional background information regarding the incident, which read: For the latest news, weather, sports, and streaming video, head to WGN-TV.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->transport",
+        "Economy, Business and Finance->financial and economic news"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=1d3RAc_13YObSOT00",
+        "https://wgntv.com/",
+        "https://nasstatus.faa.gov/",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1d3RAc_13YObSOT00",
+        "https://wgntv.com",
+        "https://www.img.particlenews.com/image.php?url=1d3RAc_13YObSOT00",
+        "https://nasstatus.faa.gov",
+        "https://img.particlenews.com/image.php",
+        "https://www.wgntv.com/",
+        "https://www.nasstatus.faa.gov/",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1d3RAc_13YObSOT00",
+        "https://www.wgntv.com",
+        "https://wgntv.com"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "United Airlines",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "UAL",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "FAA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-07T07:21:43.712+03:00",
+    "updated": "2025-08-07T07:24:33.000+03:00"
+}

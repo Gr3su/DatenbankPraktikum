@@ -1,0 +1,201 @@
+{
+    "thread": {
+        "uuid": "19fc35556520717cc2daec8a25094948ad280f9f",
+        "url": "https://www.breitbart.com/news/republicans-call-for-end-to-us-public-media-funding",
+        "site_full": "www.breitbart.com",
+        "site": "breitbart.com",
+        "site_section": "https://www.breitbart.com:443/news",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "All News - Breitbart News Network",
+        "site_title": "Breitbart News Network",
+        "title": "Republicans call for end to US public media funding - Breitbart",
+        "title_full": "Republicans call for end to US public media funding - Breitbart",
+        "published": "2025-03-27T02:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.breitbart.com/media/2025/03/wi/afp/us-house-republican-marjorie-taylor-greene-is-calling-complete-total-defunding-of-congressional-640x335.jpg",
+        "performance_score": 0,
+        "domain_rank": 1709,
+        "domain_rank_updated": "2025-03-24T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "19fc35556520717cc2daec8a25094948ad280f9f",
+    "url": "https://www.breitbart.com/news/republicans-call-for-end-to-us-public-media-funding",
+    "ord_in_thread": 0,
+    "author": "AFP",
+    "published": "2025-03-27T02:13:00.000+02:00",
+    "title": "Republicans call for end to US public media funding - Breitbart",
+    "text": "Congressional Republicans on Wednesday took aim at federal funding for US public media, including radio network NPR and broadcast channel PBS, accusing them of “brainwashing the American people” during a hearing.\n“We will be calling for the complete and total defunding and dismantling of the Corporation for Public Broadcasting (CPB),” said Representative Marjorie Taylor Greene, a hard-right supporter of President Donald Trump, in reference to the nonprofit which oversees US public media funding.\nAddressing the heads of National Public Radio and the Public Broadcasting Service, Greene said: “The content that is being put out through these state-sponsored outlets is so radical it is brainwashing the American people, and more significantly American children.”\nGreene criticized the outlets for pushing a political agenda which included “the LGBTQ indoctrination of children,” and “the systemic racism narrative,” as well as being “anti-family, pro-crime fake news.”\nThe attacks by Greene echo media criticism by other Republicans and Trump, who frequently refers to legacy news media as the “enemy of the people.”\nGreene also sits on the House Committee on Government Efficiency, formed in support of the so-called Department of Government Efficiency (DOGE) led by Trump’s billionaire advisor Elon Musk and charged with slashing federal spending.\nHowever, the CPB — established nearly 60 years ago — has already had its budget approved by Congress until 2027, with over $500 million in funding.\nSome 40 million Americans tune in to NPR at least once a week, and about 36 million watch their local PBS station each month, according to estimates from the outlets.\nThe Republican congresswoman from Georgia went on to say NPR and PBS have grown to become “radical left-wing echo chambers for a narrow audience of mostly wealthy, white, urban liberals and progressives.”\nThe critiques drew fierce blowback from Democrats, including Representative Jasmine Crockett from Texas, who said Greene wants “to shut down everybody that is not Fox News,” a broadcaster preferred by many conservatives.\nNPR chief executive Katherine Maher estimated the radio station received $120 million from the CPB in 2025, “less than five percent” of its budget.\nBrian Jack, another Republican representative from Georgia, asked Maher if NPR could survive without the funding.\n“It would be incredibly damaging to the national radios system,” Maher said. “If federal funding for our network goes away, it means that people in rural parts of America would be harmed.”\nDemocrat Stephen Lynch was also critical of the way Republicans led the hearing, saying it should be “talking about the security breach that occurred recently,” in reference to the leaked Signal group chat among US government officials.\n“Today the controlling House majority is afraid to do its job, it is afraid to hold Trump and Trump’s administration accountable.”\nPolitics",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->political parties and movements",
+        "Politics->government budget",
+        "Politics->public inquiry"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Elon Musk",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Marjorie Taylor Greene",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Jasmine Crockett",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Katherine Maher",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Brian Jack",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Stephen Lynch",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "US",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Georgia",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Texas",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "America",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "LGBTQ",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Trump",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "the House Committee on Government Efficiency",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Department of Government Efficiency",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NPR",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "PBS",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "the Corporation for Public Broadcasting",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "CPB",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "National Public Radio",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "the Public Broadcasting Service",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Greene",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Congress",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Fox News",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Signal",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ]
+    },
+    "rating": null,
+    "crawled": "2025-03-27T02:19:03.473+02:00",
+    "updated": "2025-03-27T02:19:03.473+02:00"
+}

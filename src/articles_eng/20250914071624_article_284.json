@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "6a1f1a6b1eec59e4f36990295bf3332aa386afc0",
+        "url": "https://www.presstv.ir/Detail/2025/09/11/754784/Gaza-aid-flotila-advances--",
+        "site_full": "www.presstv.ir",
+        "site": "presstv.ir",
+        "site_section": "https://www.presstv.ir/rss.xml",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Presstv",
+        "site_title": "PressTV",
+        "title": "Gaza aid flotilla advances",
+        "title_full": "Gaza aid flotilla advances",
+        "published": "2025-09-10T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IR",
+        "main_image": "https://cdn.presstv.ir/Photo/2025/9/10/f281cb62-4bea-4058-b1bb-ad7f3bf587ec.JPG",
+        "performance_score": 0,
+        "domain_rank": 7230,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6a1f1a6b1eec59e4f36990295bf3332aa386afc0",
+    "url": "https://www.presstv.ir/Detail/2025/09/11/754784/Gaza-aid-flotila-advances--",
+    "ord_in_thread": 0,
+    "author": "Presstv",
+    "published": "2025-09-10T03:00:00.000+03:00",
+    "title": "Gaza aid flotilla advances",
+    "text": "Camila Escalante\nPress TV, Mediterranean Sea\nMore than 50 ships and boats, as part of the Global Sumud Flotilla to break the inhuman Israeli siege of Gaza, are gradually moving in the international waters on their humanitarian mission.\nThe flotilla organizers say they will not be deterred by the Israeli regime’s intimidation tactics or psychological warfare.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Politics->international relations",
+        "Politics->political crisis",
+        "Politics->human rights",
+        "Social Issue->communities",
+        "Social Issue->charity",
+        "Social Issue->social problem",
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Gaza",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Camila Escalante\nPress TV",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-11T07:25:04.906+03:00",
+    "updated": "2025-09-11T07:27:50.000+03:00"
+}

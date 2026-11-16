@@ -1,0 +1,115 @@
+{
+    "thread": {
+        "uuid": "6828235487f3429811a8bb87454590efbdd1bc06",
+        "url": "https://www.newsbreak.com/news/4377217166282-coroner-identifies-motorcyclist-killed-in-laurens-county-crash",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/cross-hill-sc",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Cross Hill, SC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Coroner identifies motorcyclist killed in Laurens County crash - NewsBreak",
+        "title_full": "Coroner identifies motorcyclist killed in Laurens County crash - NewsBreak",
+        "published": "2025-12-02T16:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2YGJDr_170aJcr200",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-11-30T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6828235487f3429811a8bb87454590efbdd1bc06",
+    "url": "https://www.newsbreak.com/news/4377217166282-coroner-identifies-motorcyclist-killed-in-laurens-county-crash",
+    "ord_in_thread": 0,
+    "author": "FOX Carolina",
+    "published": "2025-12-02T16:49:00.000+02:00",
+    "title": "Coroner identifies motorcyclist killed in Laurens County crash - NewsBreak",
+    "text": "1 days ago The incident is being investigated by the South Carolina Highway Patrol and the Laurens County Coroner’s Office. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Disaster and Accident->accident and emergency incident",
+        "Disaster and Accident->transportation accident and incident",
+        "Crime, Law and Justice->reckless driving"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "South Carolina Highway Patrol",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Cross Hill"
+            ],
+            "state": [
+                "South Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-04T07:41:05.478+02:00",
+    "updated": "2025-12-04T07:46:26.000+02:00"
+}

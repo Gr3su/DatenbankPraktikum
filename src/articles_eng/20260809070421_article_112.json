@@ -1,0 +1,156 @@
+{
+    "thread": {
+        "uuid": "297b856d0df2a2db4b0fcac91877c2fd5eae4ee5",
+        "url": "https://www.newsbreak.com/news/4811648332736-authorities-search-for-escaped-inmate-in-kalihi",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/honolulu-hi",
+        "site_categories": [
+            "under_construction",
+            "health",
+            "politics",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "human interest",
+            "sport",
+            "social issue"
+        ],
+        "section_title": "Honolulu, HI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Authorities search for escaped inmate in Kalihi - NewsBreak",
+        "title_full": "Authorities search for escaped inmate in Kalihi - NewsBreak",
+        "published": "2026-08-05T23:25:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3DlRO0_1DyK3f2u00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "297b856d0df2a2db4b0fcac91877c2fd5eae4ee5",
+    "url": "https://www.newsbreak.com/news/4811648332736-authorities-search-for-escaped-inmate-in-kalihi",
+    "ord_in_thread": 0,
+    "author": "HNN Staff",
+    "published": "2026-08-05T23:25:00.000+03:00",
+    "title": "Authorities search for escaped inmate in Kalihi - NewsBreak",
+    "text": "By HNN Staff ,\n7 hours ago HONOLULU (HawaiiNewsNow) - Authorities are searching for a 20-year-old inmate who escaped Wednesday morning from the Oahu Community Correctional Center (OCCC). The Honolulu Police Department received a report around 9:45 a.m. that Joseph Tauilemua had escaped. According to the Hawaii Department of Corrections and Rehabilitation, Tauilemua is a pre-trial felon... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.hawaiinewsnow.com/2026/08/05/authorities-search-escaped-inmate-kalihi/?outputType=amp",
+        "https://www.hawaiinewsnow.com/2026/08/05/authorities-search-escaped-inmate-kalihi/",
+        "https://hawaiinewsnow.com/2026/08/05/authorities-search-escaped-inmate-kalihi/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joseph Tauilemua",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kalihi",
+                "sentiment": "none"
+            },
+            {
+                "name": "HONOLULU",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "HawaiiNewsNow",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "HNN",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Hawaii Department of Corrections and Rehabilitation",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Honolulu Police Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:09:01.016+03:00",
+    "updated": "2026-08-06T07:11:37.000+03:00"
+}

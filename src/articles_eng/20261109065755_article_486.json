@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "634a01078376b9e3b9176f6f5c18d9b2a868bee5",
+        "url": "https://www.foxnews.com/video/6408001317112",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://news.google.com/search?q=that%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+        "site_categories": [
+            "social issue",
+            "media",
+            "politics",
+            "sport",
+            "arts, culture and entertainment",
+            "crime, law and justice"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "Colorado police investigate shooting that left one officer dead | Fox News Video",
+        "title_full": "Colorado police investigate shooting that left one officer dead | Fox News Video",
+        "published": "2026-11-06T07:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/180ee9a8-760b-4b9b-9266-7490184d09a3/9a6feb83-b4e7-432d-8609-1f8d4aa03abc/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+        "performance_score": 0,
+        "domain_rank": 509,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-11-06T07:12:00.725+02:00"
+        }
+    },
+    "uuid": "634a01078376b9e3b9176f6f5c18d9b2a868bee5",
+    "url": "https://www.foxnews.com/video/6408001317112",
+    "ord_in_thread": 0,
+    "author": "@foxnews",
+    "published": "2026-11-06T07:01:00.000+02:00",
+    "title": "Colorado police investigate shooting that left one officer dead | Fox News Video",
+    "text": "Log in to comment on videos and join in on the fun.\nWatch the live stream of Fox News and full episodes.\nReduce eye strain and focus on the content that matters.\nOne Colorado police agent was killed in a shooting in Lakewood on Thursday night, while three other agents were wounded, according to officials.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->assault"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Colorado",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lakewood",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Fox News",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "FOX",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_us",
+            "top_news"
+        ],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-11-06T07:12:00.725+02:00",
+    "updated": "2026-11-06T07:13:56.000+02:00",
+    "related_articles": null
+}

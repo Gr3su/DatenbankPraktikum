@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "5add49f2019795dc231853c42907bc0344ad41d8",
+        "url": "https://www.foxnews.com/video/6388792796112",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://news.google.com/search?q=than%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "crime, law and justice",
+            "media",
+            "sport",
+            "politics"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "Trace Gallagher: Nobody preaches unity, morality and honesty better than Karen Bass | Fox News Video",
+        "title_full": "Trace Gallagher: Nobody preaches unity, morality and honesty better than Karen Bass | Fox News Video",
+        "published": "2026-02-05T07:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df4c7b74-9185-4415-a14c-4e17befa14ef/1d222f4e-fa7e-4715-b2ba-7f1db8e9ba6b/1280x720/match/1024/512/image.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 435,
+        "domain_rank_updated": "2026-02-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5add49f2019795dc231853c42907bc0344ad41d8",
+    "url": "https://www.foxnews.com/video/6388792796112",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-02-05T07:04:00.000+02:00",
+    "title": "Trace Gallagher: Nobody preaches unity, morality and honesty better than Karen Bass | Fox News Video",
+    "text": "Live Now\nAll times easternNOW - 12:30 AM\n12:30 AM\n1:00 AM\n1:30 AM\n2:00 AM\n2:30 AM\nFox News Channel\nJesse Watters Primetime\n1:00 AM - 2:00 AM\nHannity\n2:00 AM - 3:00 AM\nFox Business Channel\nPaid Programming\n1:00 AM - 1:30 AM\nPaid Programming\n1:30 AM - 2:00 AM\nPaid Programming\n2:00 AM - 2:30 AM\nPaid Programming\n2:30 AM - 3:00 AM\nFox Weather Channel\nFox News Radio\nFox News Channel Live",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->political development"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Karen Bass",
+                "sentiment": "positive"
+            },
+            {
+                "name": "##ce Gallagher",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Fox News Channel",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Fox Business Channel",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Fox Weather Channel",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Fox News Radio",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "5add49f2019795dc231853c42907bc0344ad41d8",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-05T07:19:22.549+02:00",
+    "updated": "2026-02-05T07:21:37.000+02:00"
+}

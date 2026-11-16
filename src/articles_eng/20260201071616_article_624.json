@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "71c69cba086e10e6433c465c800e696fe1fc4769",
+        "url": "https://www.newsbreak.com/news/4465572823780-crews-help-clear-icy-roadways-across-mississippi",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/ripley-ms",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Ripley, MS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Crews help clear icy roadways across Mississippi - NewsBreak",
+        "title_full": "Crews help clear icy roadways across Mississippi - NewsBreak",
+        "published": "2026-01-29T01:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2T3uFY_18Qc8pNz00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-25T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "71c69cba086e10e6433c465c800e696fe1fc4769",
+    "url": "https://www.newsbreak.com/news/4465572823780-crews-help-clear-icy-roadways-across-mississippi",
+    "ord_in_thread": 0,
+    "author": "Marcus Hunter",
+    "published": "2026-01-29T01:45:00.000+02:00",
+    "title": "Crews help clear icy roadways across Mississippi - NewsBreak",
+    "text": "By Marcus Hunter ,\n6 hours ago Crews have been working around the clock to clear thick ice from Mississippi highways. Major interstate closures are now in effect. New video from I‑22 in North Mississippi shows just how tough conditions still are, and officials continue urging emergency travel only in all impacted areas. According to MDOT,... Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather phenomena"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Marcus Hunter",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "North Mississippi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "MDOT",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Ripley"
+            ],
+            "state": [
+                "Mississippi"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-29T07:26:11.123+02:00",
+    "updated": "2026-01-29T07:59:38.075+02:00"
+}

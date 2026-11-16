@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "4c2dc69164013a0a6e9badef1f7b51b8fdd5654e",
+        "url": "https://dean.house.gov/2026/7/rep-dean-on-the-future-of-ice-detention-facilities-in-pa",
+        "site_full": "dean.house.gov",
+        "site": "house.gov",
+        "site_section": "https://dean.house.gov/videos",
+        "site_categories": [],
+        "section_title": "Videos | Congresswoman Madeleine Dean",
+        "site_title": "Congresswoman Madeleine Dean",
+        "title": "Rep. Dean on the Future of Ice Detention Facilities in PA | Videos | Congresswoman Madeleine Dean",
+        "title_full": "Rep. Dean on the Future of Ice Detention Facilities in PA | Videos | Congresswoman Madeleine Dean",
+        "published": "2026-07-29T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4c2dc69164013a0a6e9badef1f7b51b8fdd5654e",
+    "url": "https://dean.house.gov/2026/7/rep-dean-on-the-future-of-ice-detention-facilities-in-pa",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-07-29T07:00:00.000+03:00",
+    "title": "Rep. Dean on the Future of Ice Detention Facilities in PA | Videos | Congresswoman Madeleine Dean",
+    "text": "Congresswoman Madeleine Dean (PA-04), joins Lauren Mayk for NBC 10's news broadcast on the future of ICE Detention Facilities in the greater Philadelphia area.\n150 Cannon HOB\nWashington, DC 20515\nPhone: (202) 225-4731\n115 E Glenside Ave, Suite 1\nGlenside, PA 19038\nPhone: 215-884-4300\nFax: 215-884-3640\n1200 E. High Street, Suite 105\nPottstown, PA 19464\nPhone: 610-382-1250",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government",
+        "Politics->human rights",
+        "Politics->fundamental rights",
+        "Politics->civil rights",
+        "Politics->voting",
+        "Politics->censorship and freedom of speech"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lauren Mayk",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Madeleine Dean",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "PA",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pottstown",
+                "sentiment": "none"
+            },
+            {
+                "name": "Philadelphia",
+                "sentiment": "none"
+            },
+            {
+                "name": "Washington",
+                "sentiment": "none"
+            },
+            {
+                "name": "DC",
+                "sentiment": "none"
+            },
+            {
+                "name": "Glenside Ave",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NBC 10",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "gov_news",
+            "city": [
+                "Washington"
+            ],
+            "state": [
+                "DC"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": "Federal - Legislative",
+            "agency": "The Legislative Branch",
+            "organization_name": "US House of Representatives"
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:08:25.875+03:00",
+    "updated": "2026-08-06T07:11:40.000+03:00"
+}

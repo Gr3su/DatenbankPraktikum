@@ -1,0 +1,172 @@
+{
+    "thread": {
+        "uuid": "4ccc95091dea2a8b7352aa711c6589b411ba9577",
+        "url": "https://www.newsbreak.com/news/4933687324192-santa-paula-man-charged-in-dui-crash-that-injured-passenger-and-chp-officer",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/thousand-oaks-ca",
+        "site_categories": [
+            "lifestyle and leisure",
+            "under_construction",
+            "economy, business and finance",
+            "politics",
+            "arts, culture and entertainment",
+            "sport",
+            "science and technology",
+            "crime, law and justice"
+        ],
+        "section_title": "Thousand Oaks, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Santa Paula Man Charged in DUI Crash That Injured Passenger and CHP Officer - NewsBreak",
+        "title_full": "Santa Paula Man Charged in DUI Crash That Injured Passenger and CHP Officer - NewsBreak",
+        "published": "2026-10-08T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0QmcfC_1FvI6sGP00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:03:33.923+03:00"
+        }
+    },
+    "uuid": "4ccc95091dea2a8b7352aa711c6589b411ba9577",
+    "url": "https://www.newsbreak.com/news/4933687324192-santa-paula-man-charged-in-dui-crash-that-injured-passenger-and-chp-officer",
+    "ord_in_thread": 0,
+    "author": "Editorial",
+    "published": "2026-10-08T07:00:00.000+03:00",
+    "title": "Santa Paula Man Charged in DUI Crash That Injured Passenger and CHP Officer - NewsBreak",
+    "text": "By Editorial ,\n1 days ago VENTURA, Calif. – Ventura County District Attorney Erik Nasarenko announced today that Derek Hansen Skinner (DOB 02/20/92), of Santa Paula, has been held to answer by a Ventura County Superior Court judge for a DUI crash that injured his passenger and a California Highway Patrol (CHP) officer. Skinner is charged with DUI of an alcoholic beverage causing injury and driving with a blood alcohol content of .08% or higher and causing injury. He is also charged with special allegations of causing great bodily injury (GBI) in commission of a felony and causing injury to more than one victim. Read full article",
+    "summary": "1 days ago VENTURA, Calif. – Ventura County District Attorney Erik Nasarenko announced today that Derek Hansen Skinner (DOB 02/20/92), of Santa Paula, has been held to answer by a Ventura County Superior Court judge for a DUI crash that injured his passenger and a California Highway Patrol (CHP) officer. Skinner is charged with DUI of an alcoholic beverage causing injury and driving with a blood alcohol content of .08% or higher and causing injury.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "http://www.fillmoregazette.com/front-page/santa-paula-man-charged-dui-crash-injured-passenger-and-chp-officer",
+        "http://fillmoregazette.com/front-page/santa-paula-man-charged-dui-crash-injured-passenger-and-chp-officer"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Erik Nasarenko",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Derek Hansen Skinner",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Santa Paula",
+                "sentiment": "none"
+            },
+            {
+                "name": "Calif",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ventura County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CHP",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "CHP",
+                        "exchange": "JSE"
+                    }
+                ]
+            },
+            {
+                "name": "Ventura County Superior Court",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "California Highway Patrol",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Thousand Oaks"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:03:33.923+03:00",
+    "updated": "2026-10-09T07:06:01.000+03:00",
+    "related_articles": null
+}

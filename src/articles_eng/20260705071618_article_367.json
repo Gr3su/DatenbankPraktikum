@@ -1,0 +1,154 @@
+{
+    "thread": {
+        "uuid": "ee92c262f550fe7a03bf0977996bba4e3ed61029",
+        "url": "https://www.newsbreak.com/news/4742434922858-columbia-white-castle-murder-suspect-heads-to-trial-in-october",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/columbia-mo",
+        "site_categories": [
+            "disaster and accident",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "under_construction",
+            "politics",
+            "human interest",
+            "social issue",
+            "crime, law and justice",
+            "sport",
+            "economy, business and finance"
+        ],
+        "section_title": "Columbia, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Columbia White Castle murder suspect heads to trial in October - NewsBreak",
+        "title_full": "Columbia White Castle murder suspect heads to trial in October - NewsBreak",
+        "published": "2026-07-01T01:29:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0qaCab_1CraO3CH00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ee92c262f550fe7a03bf0977996bba4e3ed61029",
+    "url": "https://www.newsbreak.com/news/4742434922858-columbia-white-castle-murder-suspect-heads-to-trial-in-october",
+    "ord_in_thread": 0,
+    "author": "Leslie Taylor",
+    "published": "2026-07-01T01:29:00.000+03:00",
+    "title": "Columbia White Castle murder suspect heads to trial in October - NewsBreak",
+    "text": "By Leslie Taylor ,\n1 days ago A new jury trial date is scheduled for a Columbia man accused of murdering a man in a Columbia fast-food restaurant parking lot. The murder happened in May of 2024 when Antione Armstrong, 26, allegedly exchanged words with the victim, Louis Hart, 56, of Columbia, outside White Castle. The pair then began fighting and that’s when Hart allegedly shot Armstrong multiple times before Armstrong returned fire. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide",
+        "Crime, Law and Justice->court",
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kjluradio.com/newsroom/columbia-white-castle-murder-suspect-heads-to-trial-in-october/article_e5b2f3ef-5f10-4927-b0a9-5f98893f6f9d.html",
+        "https://kjluradio.com/newsroom/columbia-white-castle-murder-suspect-heads-to-trial-in-october/article_e5b2f3ef-5f10-4927-b0a9-5f98893f6f9d.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Leslie Taylor",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Antione Armstrong",
+                "sentiment": "none"
+            },
+            {
+                "name": "Louis Hart",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "White Castle",
+                "sentiment": "none"
+            },
+            {
+                "name": "Columbia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Columbia",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "COLM",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Columbia"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:29:14.053+03:00",
+    "updated": "2026-07-02T07:31:17.000+03:00"
+}

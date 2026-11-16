@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "b3692d65c5c3a18894354d764a4f931d0c1a9f0e",
+        "url": "https://www.newsbreak.com/news/4849741182477-casey-county-notches-win-over-garrard-county-in-season-debut",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/liberty-ky",
+        "site_categories": [
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "science and technology",
+            "social issue",
+            "politics",
+            "sport",
+            "under_construction",
+            "economy, business and finance",
+            "human interest"
+        ],
+        "section_title": "Liberty, KY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Casey County notches win over Garrard County in season debut - NewsBreak",
+        "title_full": "Casey County notches win over Garrard County in season debut - NewsBreak",
+        "published": "2026-08-26T08:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/36jBfH_1EZiCPqU00",
+        "performance_score": 0,
+        "domain_rank": 3157,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b3692d65c5c3a18894354d764a4f931d0c1a9f0e",
+    "url": "https://www.newsbreak.com/news/4849741182477-casey-county-notches-win-over-garrard-county-in-season-debut",
+    "ord_in_thread": 0,
+    "author": "Casey County News",
+    "published": "2026-08-26T08:00:00.000+03:00",
+    "title": "Casey County notches win over Garrard County in season debut - NewsBreak",
+    "text": "By Casey County News ,\n23 hours ago LANCASTER — Casey County defeated Garrard County 3-1 in a high school volleyball season opener on Monday, Aug. 17. The Lady Rebels prevailed on the road. Casey County won 25-19, 20-25, 25-10, 25-16. Casey County played three matches over the first four days of the 2026 high school volleyball... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->competition discipline",
+        "Sport->volleyball"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.pmg-ky2.com/casey/sports/casey-county-notches-win-over-garrard-county-in-season-debut/article_608aa4e2-cb07-58ca-9955-e327ec435322.html",
+        "https://pmg-ky2.com/casey/sports/casey-county-notches-win-over-garrard-county-in-season-debut/article_608aa4e2-cb07-58ca-9955-e327ec435322.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Garrard County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Casey County News",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Lady Rebels",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Liberty"
+            ],
+            "state": [
+                "Kentucky"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:17:49.704+03:00",
+    "updated": "2026-08-27T07:21:01.000+03:00"
+}

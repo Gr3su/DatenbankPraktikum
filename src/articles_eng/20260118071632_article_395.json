@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "cd135f915263a7ddab52814da8ec954b3f305882",
+        "url": "https://www.newsbreak.com/news/4441871883731-possible-human-remains-recovered-from-monte-sano-brec-park-sent-to-lsu-faces-lab-for-analysis",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/baton-rouge-la",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Baton Rouge, LA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Possible human remains recovered from Monte Sano BREC Park; sent to LSU FACES Lab for analysis - NewsBreak",
+        "title_full": "Possible human remains recovered from Monte Sano BREC Park; sent to LSU FACES Lab for analysis - NewsBreak",
+        "published": "2026-01-14T17:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/12krmS_182jbt8N00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-11T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cd135f915263a7ddab52814da8ec954b3f305882",
+    "url": "https://www.newsbreak.com/news/4441871883731-possible-human-remains-recovered-from-monte-sano-brec-park-sent-to-lsu-faces-lab-for-analysis",
+    "ord_in_thread": 0,
+    "author": "Sarah Gray Barr, Domenic Purdy",
+    "published": "2026-01-14T17:40:00.000+02:00",
+    "title": "Possible human remains recovered from Monte Sano BREC Park; sent to LSU FACES Lab for analysis - NewsBreak",
+    "text": "By Sarah Gray Barr, Domenic Purdy ,\n13 hours ago BATON ROUGE — A possible skull was found at the Monte Sano BREC Park on Greenwell Street, the East Baton Rouge Parish Coroner's Office said Wednesday. No other suspected remains were found during a search of the park. Baton Rouge Police said they were called to investigate the possible... Read full article\nRead in NewsBreak 1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->injury"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sarah Gray Barr",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Monte Sano BREC Park",
+                "sentiment": "none"
+            },
+            {
+                "name": "Greenwell Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "LSU FACES Lab",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Baton Rouge Police",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "East Baton Rouge Parish Coroner ' s Office",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-15T07:25:39.672+02:00",
+    "updated": "2026-01-15T07:29:25.000+02:00"
+}

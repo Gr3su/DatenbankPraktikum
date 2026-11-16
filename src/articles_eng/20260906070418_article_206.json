@@ -1,0 +1,152 @@
+{
+    "thread": {
+        "uuid": "06bc558abb08087a7566cde7dfebc39ef8efd8cc",
+        "url": "https://www.newsbreak.com/news/4863565057984-2-children-detained-after-threats-made-against-middle-school",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/mayesville-sc",
+        "site_categories": [
+            "under_construction",
+            "sport",
+            "economy, business and finance",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "human interest",
+            "lifestyle and leisure",
+            "politics",
+            "social issue"
+        ],
+        "section_title": "Mayesville, SC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "2 children detained after threats made against middle school - NewsBreak",
+        "title_full": "2 children detained after threats made against middle school - NewsBreak",
+        "published": "2026-09-02T23:23:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0mfJZM_1EndkWfq00",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "06bc558abb08087a7566cde7dfebc39ef8efd8cc",
+    "url": "https://www.newsbreak.com/news/4863565057984-2-children-detained-after-threats-made-against-middle-school",
+    "ord_in_thread": 0,
+    "author": "Tiffany Rigby",
+    "published": "2026-09-02T23:23:00.000+03:00",
+    "title": "2 children detained after threats made against middle school - NewsBreak",
+    "text": "By Tiffany Rigby ,\n7 hours ago SUMTER COUNTY, S.C. (WOLO)– Sumter County deputies say two children were detained Tuesday for allegedly making threats of violence against Chestnut Oaks Middle School. Around 1:42 p.m. Tuesday, September 2, the Sumter County Sheriff’s Office received a report of a threat against the school. Officials placed the school... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->hijacking",
+        "Crime, Law and Justice->corporate crime",
+        "Crime, Law and Justice->law enforcement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.abccolumbia.com/2026/09/02/2-children-detained-after-threats-made-against-middle-school/",
+        "https://abccolumbia.com/2026/09/02/2-children-detained-after-threats-made-against-middle-school/",
+        "https://www.abccolumbia.com/2026/09/02/2-children-detained-after-threats-made-against-middle-school"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tiffany Rigby",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Sumter County",
+                "sentiment": "none"
+            },
+            {
+                "name": "S. C",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Chestnut Oaks Middle School",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Sumter County Sheriff ’ s Office",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Mayesville",
+                "Manville"
+            ],
+            "state": [
+                "South Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:09:58.835+03:00",
+    "updated": "2026-09-03T07:18:22.000+03:00"
+}

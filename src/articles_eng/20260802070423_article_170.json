@@ -1,0 +1,157 @@
+{
+    "thread": {
+        "uuid": "5142f1553945eb2cfad2d075034f78422e363aa6",
+        "url": "https://www.zerohedge.com/technology/trump-admin-set-ban-chinese-robots-economic-security-push",
+        "site_full": "www.zerohedge.com",
+        "site": "zerohedge.com",
+        "site_section": "https://www.zerohedge.com/",
+        "site_categories": [
+            "politics",
+            "finance",
+            "war, conflict and unrest",
+            "science and technology",
+            "law_government_and_politics",
+            "media",
+            "economy, business and finance",
+            "financial_news",
+            "social issue"
+        ],
+        "section_title": "ZeroHedge",
+        "site_title": "ZeroHedge",
+        "title": "Trump Admin Set To Ban Chinese Robots In \"Economic Security\" Push",
+        "title_full": "Trump Admin Set To Ban Chinese Robots In \"Economic Security\" Push",
+        "published": "2026-07-30T06:05:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 7695,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5142f1553945eb2cfad2d075034f78422e363aa6",
+    "url": "https://www.zerohedge.com/technology/trump-admin-set-ban-chinese-robots-economic-security-push",
+    "ord_in_thread": 0,
+    "author": "Tyler Durden",
+    "published": "2026-07-30T06:05:00.000+03:00",
+    "title": "Trump Admin Set To Ban Chinese Robots In \"Economic Security\" Push",
+    "text": "The Federal Communications Commission is planning to unveil a series of new trade restrictions on Tuesday afternoon that will ban imports of Chinese humanoid and quadruped robots, as well as connected power inverters. This announcement comes ahead of the expected boom in physical AI.\nChinese company Unitree reveal their \"all terrain\" wheeled robot.\nThe military potential for this technology is obvious.\nEurope is so far behind China, its scary. pic.twitter.com/DcXnmj6Knx\n— Chay Bowes (@BowesChay) July 24, 2026 Reuters was first to report the story:\nThe Trump administration on Tuesday plans to unveil new bans that target imports of the latest Chinese robots and power inverters, seeking to protect the U.S. AI buildout from national security threats and reshore key industries slated for explosive growth, U.S. officials said.\nThere is no exact timing for when the FCC is expected to unveil the trade restrictions this afternoon. Officials said the Chinese-linked technologies could expose U.S. power grids, data centers, and AI infrastructure to disruption, data theft, and cyberattacks.\n\"The President has made clear that the United States must have independent and secure supply chains for critical and emerging technologies like robotic devices and power inverters,\" said an anonymous Trump administration official.\n\"Economic security is national security, and the Trump administration continues to implement a nuanced and multi-faceted policy agenda to reindustrialize America,\" the official added.\nThe trade restrictions on Chinese robots and power inverters come as new analysis from Citi's Robotics & Physical AI Leadership Conference assesses where the US stands in the physical-AI cycle as robots move closer to mass production. Read the full report here .",
+    "summary": "The Federal Communications Commission is planning to unveil a series of new trade restrictions on Tuesday afternoon that will ban imports of Chinese humanoid and quadruped robots, as well as connected power inverters. Chinese company Unitree reveal their \"all terrain\" wheeled robot. pic.twitter.com/DcXnmj6Knx — Chay Bowes (@BowesChay) July 24, 2026 Reuters was first to report the story: The Trump administration on Tuesday plans to unveil new bans that target imports of the latest Chinese robots and power inverters, seeking to protect the U.S. AI buildout from national security threats and reshore key industries slated for explosive growth, U.S. officials said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->cyber warfare"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/#:~:text=WASHINGTON%2C%20July%2028%20(Reuters),explosive%20growth%2C%20U.S.%20officials%20said.",
+        "https://x.com/BowesChay/status/2080714167808365038?ref_src=twsrc%5Etfw",
+        "https://t.co/DcXnmj6Knx",
+        "https://www.t.co/DcXnmj6Knx",
+        "https://reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/#:~:text=WASHINGTON%2C%20July%2028%20(Reuters),explosive%20growth%2C%20U.S.%20officials%20said.",
+        "https://x.com/BowesChay/status/2080714167808365038",
+        "https://www.x.com/BowesChay/status/2080714167808365038?ref_src=twsrc%5Etfw"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Chay Bowes",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            },
+            {
+                "name": "China",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Federal Communications Commission",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Unitree",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TRI",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:09:37.534+03:00",
+    "updated": "2026-07-30T07:14:54.000+03:00"
+}

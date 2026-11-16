@@ -1,0 +1,119 @@
+{
+    "thread": {
+        "uuid": "ccd8f68099b43f2cacf5e96be41ca75d3a37473c",
+        "url": "https://www.newsbreak.com/bbc-2085458/4826029465663-twitch-users-can-now-block-amazon-from-using-their-content-to-train-ai",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/bbc-2085458",
+        "site_categories": [
+            "lifestyle and leisure",
+            "sport",
+            "crime, law and justice",
+            "science and technology",
+            "economy, business and finance",
+            "under_construction",
+            "health",
+            "politics",
+            "human interest",
+            "arts, culture and entertainment",
+            "social issue"
+        ],
+        "section_title": "BBC&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Twitch users can now block Amazon from using their content to train AI - NewsBreak",
+        "title_full": "Twitch users can now block Amazon from using their content to train AI - NewsBreak",
+        "published": "2026-08-13T05:46:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3KKpVR_1EBozNM700",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ccd8f68099b43f2cacf5e96be41ca75d3a37473c",
+    "url": "https://www.newsbreak.com/bbc-2085458/4826029465663-twitch-users-can-now-block-amazon-from-using-their-content-to-train-ai",
+    "ord_in_thread": 0,
+    "author": "Osmond Chia",
+    "published": "2026-08-13T05:46:00.000+03:00",
+    "title": "Twitch users can now block Amazon from using their content to train AI - NewsBreak",
+    "text": "By Osmond Chia ,\n1 hours ago The streaming platform's users criticised the move to allow the use of channel content for AI training. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.bbc.com/news/articles/cp30pz8d09jo?xtor=AL-72-%5Bpartner%5D-%5Bnewsbreak.com%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "https://www.bbc.com/news/articles/cp30pz8d09jo",
+        "https://bbc.com/news/articles/cp30pz8d09jo?xtor=AL-72-%5Bpartner%5D-%5Bnewsbreak.com%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Osmond Chia",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Amazon",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "AMZN",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:08:29.805+03:00",
+    "updated": "2026-08-13T07:09:12.000+03:00"
+}

@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "f16afc4a66a12447fb6f391eb492936caa08a45f",
+        "url": "https://www.newsbreak.com/news/4862221352370-fairdale-blasts-knights-44-27-in-home-opener",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/liberty-ky",
+        "site_categories": [
+            "politics",
+            "crime, law and justice",
+            "social issue",
+            "sport",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "economy, business and finance"
+        ],
+        "section_title": "Liberty, KY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Fairdale blasts Knights 44-27 in home opener - NewsBreak",
+        "title_full": "Fairdale blasts Knights 44-27 in home opener - NewsBreak",
+        "published": "2026-09-02T08:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/24f4hN_1EmHRiVI00",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f16afc4a66a12447fb6f391eb492936caa08a45f",
+    "url": "https://www.newsbreak.com/news/4862221352370-fairdale-blasts-knights-44-27-in-home-opener",
+    "ord_in_thread": 0,
+    "author": "Doug Thomas",
+    "published": "2026-09-02T08:00:00.000+03:00",
+    "title": "Fairdale blasts Knights 44-27 in home opener - NewsBreak",
+    "text": "By Doug Thomas ,\n23 hours ago Louisville Fairdale raced out to a 22-0 lead and defeated Marion County 44-27 on Saturday at John J. Boswell Field. The loss dropped the Knights to 0-2 on the season, but according to Head Football Coach Ross Brown there was noticeable improvement in his team’s effort against an even better opponent. Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->soccer"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.pmg-ky2.com/lebanon/sports/fairdale-blasts-knights-44-27-in-home-opener/article_e31101df-0c3a-591c-964e-a72e6087549a.html",
+        "https://pmg-ky2.com/lebanon/sports/fairdale-blasts-knights-44-27-in-home-opener/article_e31101df-0c3a-591c-964e-a72e6087549a.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Doug Thomas",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Ross Brown",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "John J. Boswell Field",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Knights",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Fairdale",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Liberty"
+            ],
+            "state": [
+                "Kentucky"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:17:52.622+03:00",
+    "updated": "2026-09-03T07:31:35.000+03:00"
+}

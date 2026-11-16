@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "86c3780b4b053fa95e9f00be290a51712dfa7626",
+        "url": "https://www.hindustantimes.com/india-news/powerful-u-shaped-jet-streams-experts-say-cold-stormy-western-disturbance-coming-up-to-shake-north-west-india-101775101362359.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/",
+        "site_categories": [
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "media",
+            "politics",
+            "war, conflict and unrest",
+            "economy, business and finance"
+        ],
+        "section_title": "Hindustan Times: Breaking News, Latest News, India News, World News & Cricket Today's Headlines | Hindustan Times",
+        "site_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+        "title": "'Powerful', 'U-shaped' jet streams: Experts say cold, stormy Western Disturbance coming up to shake North, West India| India News",
+        "title_full": "'Powerful', 'U-shaped' jet streams: Experts say cold, stormy Western Disturbance coming up to shake North, West India| India News",
+        "published": "2026-04-02T07:19:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/04/02/550x309/delhi_rain_western_disturbance__1775103334587_1775103334760.jpg",
+        "performance_score": 0,
+        "domain_rank": 825,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "86c3780b4b053fa95e9f00be290a51712dfa7626",
+    "url": "https://www.hindustantimes.com/india-news/powerful-u-shaped-jet-streams-experts-say-cold-stormy-western-disturbance-coming-up-to-shake-north-west-india-101775101362359.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-04-02T07:19:00.000+03:00",
+    "title": "'Powerful', 'U-shaped' jet streams: Experts say cold, stormy Western Disturbance coming up to shake North, West India| India News",
+    "text": "‘Powerful’ Wester Disturbance, ‘U-shaped jet streams’\nWeather experts described the disturbance as powerful, with its “U-shaped” jet streams set to bring hailstorms along with rain in parts of the country. Rain and hailstorms did lash several places in Haryana and Punjab on Tuesday, raising worries among wheat growers, who anticipated damage to their crop which was ready for harvesting.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather forecast",
+        "Weather->weather phenomena"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "West India",
+                "sentiment": "none"
+            },
+            {
+                "name": "North",
+                "sentiment": "none"
+            },
+            {
+                "name": "Haryana",
+                "sentiment": "none"
+            },
+            {
+                "name": "Punjab",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "India News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-02T07:24:23.232+03:00",
+    "updated": "2026-04-02T07:29:38.000+03:00"
+}

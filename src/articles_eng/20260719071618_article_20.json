@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "5bd341c808796c37f7eb74ef727bd7cf49ec0637",
+        "url": "https://www.newsbreak.com/news/4772542550262-wilder-amends-flock-camera-contract-amid-tort-claim-over-camera-data",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/payette-id",
+        "site_categories": [
+            "human interest",
+            "economy, business and finance",
+            "crime, law and justice",
+            "social issue",
+            "under_construction",
+            "sport",
+            "politics",
+            "arts, culture and entertainment",
+            "disaster and accident",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Payette, ID Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Wilder amends Flock camera contract, amid tort claim over camera data - NewsBreak",
+        "title_full": "Wilder amends Flock camera contract, amid tort claim over camera data - NewsBreak",
+        "published": "2026-07-15T07:45:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.newsbreak.com/api/share-og-image/4KQESi_1DKvcwBy00.jpg",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5bd341c808796c37f7eb74ef727bd7cf49ec0637",
+    "url": "https://www.newsbreak.com/news/4772542550262-wilder-amends-flock-camera-contract-amid-tort-claim-over-camera-data",
+    "ord_in_thread": 0,
+    "author": "Yahoo!",
+    "published": "2026-07-15T07:45:00.000+03:00",
+    "title": "Wilder amends Flock camera contract, amid tort claim over camera data - NewsBreak",
+    "text": "23 hours ago The Wilder City Council voted to limit Flock Safety's use of license plate camera data following claims that the original contract violated Idaho law. The Wilder City Council voted Tuesday night unanimously to limit how Flock Safety, the company behind the city's license plate-reading cameras, can use data collected. This is a direct response to claims from a local group that the original contract violated Idaho law. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Crime, Law and Justice->data breach",
+        "Crime, Law and Justice->court",
+        "Economy, Business and Finance->market and exchange"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.yahoo.com/news/us/articles/wilder-amends-flock-camera-contract-044506394.html",
+        "https://yahoo.com/news/us/articles/wilder-amends-flock-camera-contract-044506394.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Idaho",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Wilder City Council",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Flock Safety",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Payette"
+            ],
+            "state": [
+                "Idaho"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:17:03.427+03:00",
+    "updated": "2026-07-16T07:21:24.000+03:00"
+}

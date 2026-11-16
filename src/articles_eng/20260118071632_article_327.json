@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "a80483541140dc0549a778205cf79db619b2fdec",
+        "url": "https://www.fox9.com/news/minneapolis-ice-shooting-frey-comments-jan-14-2026",
+        "site_full": "www.fox9.com",
+        "site": "fox9.com",
+        "site_section": "https://www.fox9.com/",
+        "site_categories": [
+            "media",
+            "crime, law and justice",
+            "politics",
+            "sport",
+            "weather",
+            "economy, business and finance"
+        ],
+        "section_title": "FOX 9 Minneapolis-St. Paul | Local News, Weather, and Live Streams | KMSP-TV",
+        "site_title": "FOX 9 Minneapolis-St. Paul | Local News, Weather, and Live Streams | KMSP-TV",
+        "title": "Minneapolis ICE shooting: Mayor Frey says city is being put in 'impossible situation' | FOX 9 Minneapolis-St. Paul",
+        "title_full": "Minneapolis ICE shooting: Mayor Frey says city is being put in 'impossible situation' | FOX 9 Minneapolis-St. Paul",
+        "published": "2026-01-15T07:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/01/1200/630/01142026-mpls-mayor-ice-shooting-kmspeme001_22_18__00.10.40.56.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 28687,
+        "domain_rank_updated": "2026-01-11T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a80483541140dc0549a778205cf79db619b2fdec",
+    "url": "https://www.fox9.com/news/minneapolis-ice-shooting-frey-comments-jan-14-2026",
+    "ord_in_thread": 0,
+    "author": "Madison Hunter",
+    "published": "2026-01-15T07:17:00.000+02:00",
+    "title": "Minneapolis ICE shooting: Mayor Frey says city is being put in 'impossible situation' | FOX 9 Minneapolis-St. Paul",
+    "text": "The Brief Minneapolis Mayor Jacob Frey and Police Chief Brian O'Hara held a press conference in the aftermath of the ICE shooting in north Minneapolis. Frey says the current immigration operation is \"not sustainable\" and that the city is being put in an \"impossible situation.\" Chief O'Hara is encouraging everyone protesting at the scene to leave, as it has been declared unlawful. MINNEAPOLIS (FOX 9) - Minneapolis Mayor Jacob Frey says that the city is being put in an \"impossible situation\" after the second ICE shooting in a week in the city .\nMayor Frey on 2nd ICE shooting What they're saying:\nFrey is again calling for ICE to leave Minneapolis, calling the immigration crackdown \"not sustainable,\" after a man was shot by an ICE agent Wednesday.\n\"There's still a lot that we don't know at this time, but what I can tell you for certain is that this is not sustainable,\" Frey said at a press conference Wednesday night. \"This is an impossible situation that our city is presently being put in.\"\nFrey says the city is trying to \"find a way forward to keep people safe, to protect our neighbors, to maintain order.\"\n\"We're in a position right now where we have residents that are asking the very limited number of police officers that we have to fight ICE agents on the street,\" Frey said. \"We cannot be at a place right now in America where we have two governmental entities that are literally fighting one another.\"\nFrey states that what ICE is doing in Minneapolis is not creating safety, but creating chaos.\nThe mayor is telling protesters who are at the scene of the north Minneapolis ICE shooting to not take the bait, and to go home. He said, \"We cannot counter Donald Trump's chaos with our own brand of chaos.\"\nFrey commended peaceful protesters, but said protesters who do not remain peaceful are \"not helping undocumented immigrants in the city.\"\nMinneapolis Police Chief on ICE shooting The backstory:\nMinneapolis Police Chief Brian O'Hara said they received a call at 6:50 p.m. about a shooting. He said there was a struggle with a federal agent in front of a residence. The agent shot the man, and the man went inside the residence and refused to come out. Federal agents went inside the residence, and the man was taken to a hospital and transported to the hospital.\nO'Hara says MPD secured the crime scene and the BCA and FBI are processing evidence.\nMeanwhile, he said protesters are involved in unlawful acts of throwing fireworks and snowballs at law enforcement, and gas has been deployed. Police are attempting to disperse crowds. He asked anyone at the scene to \"leave immediately.\"\n\"This is already a very tense situation, and we do not need this to escalate any further,\" O'Hara said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "topics": [
+        "Crime, Law and Justice->police",
+        "Crime, Law and Justice->shootings",
+        "Politics->political process",
+        "Politics->local government and authority",
+        "Politics->safety of citizens"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jacob Frey",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Brian O ' Hara",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Minneapolis",
+                "sentiment": "none"
+            },
+            {
+                "name": "St. Paul",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FOX 9",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "MINNEAPOLIS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Minneapolis",
+                "St. Paul"
+            ],
+            "state": [
+                "Minnesota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-15T07:22:22.746+02:00",
+    "updated": "2026-01-15T07:24:44.000+02:00"
+}

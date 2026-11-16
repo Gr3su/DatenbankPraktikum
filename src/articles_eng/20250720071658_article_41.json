@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "60c4035200b9e502946040102c004ef854417105",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4113355533073-severe-thunderstorm-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "published": "2025-07-17T02:02:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/423Kfr_12niLTdq00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "60c4035200b9e502946040102c004ef854417105",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4113355533073-severe-thunderstorm-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-07-17T02:02:00.000+03:00",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here SVREAX The National Weather Service in Pleasant Hill has issued a * Severe Thunderstorm Warning for... Northwestern Miami County in east central Kansas... Johnson County in east central Kansas... Northwestern Cass County in west central Missouri... Southwestern Jackson County in west central Missouri... * Until 1145 PM CDT. * At 1101 PM CDT, a severe thunderstorm was located near Spring Hill, moving southeast at 30 mph. HAZARD...70 mph wind gusts. SOURCE...Automated weather station. IMPACT...Expect considerable tree damage. Damage is likely to mobile homes, roofs, and outbuildings. * Locations impacted include... Overland Park, Olathe, Lenexa, Leawood, Grandview, Belton, Raymore, Gardner, Spring Hill, Edgerton, Bucyrus, Clare, Lackmans, Stillwell, and Stanley. This includes the following highways... Interstate 35 in Kansas between mile markers 202 and 224. Interstate 435 between mile markers 0 and 2, and between mile markers 78 and 83. Interstate 49 between mile markers 173 and 177.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather",
+        "Environment"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Environment->environmental pollution",
+        "Environment->climate change",
+        "Environment->nature"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.8990169bccf45234add3b7391dffd69f76686aab.001.1",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.8990169bccf45234add3b7391dffd69f76686aab.001.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Clare",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Southwestern",
+                "sentiment": "none"
+            },
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:16:48.076+03:00",
+    "updated": "2025-07-17T04:21:56.000+00:00"
+}

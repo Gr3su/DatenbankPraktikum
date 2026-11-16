@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "d9f5173d2ea2d004691b8bc51232aace5a3511b9",
+        "url": "https://www.newsbreak.com/nbc-news-510074/4129181522355-costco-customers-testing-the-limits-of-their-risk-free-return-policy-on-tiktok",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/nbc-news-510074",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NBC News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Costco customers testing the limits of their risk-free return policy on TikTok - NewsBreak",
+        "title_full": "Costco customers testing the limits of their risk-free return policy on TikTok - NewsBreak",
+        "published": "2025-07-24T04:50:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1CunID_132ezXIv00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d9f5173d2ea2d004691b8bc51232aace5a3511b9",
+    "url": "https://www.newsbreak.com/nbc-news-510074/4129181522355-costco-customers-testing-the-limits-of-their-risk-free-return-policy-on-tiktok",
+    "ord_in_thread": 0,
+    "author": "NBC News",
+    "published": "2025-07-24T04:50:00.000+03:00",
+    "title": "Costco customers testing the limits of their risk-free return policy on TikTok - NewsBreak",
+    "text": "Costco customers testing the limits of their risk-free return policy on TikTok\n2 hours ago\nCostco customers are testing the limits of the store's risk-free return policy, which allows customers to return almost anything. Some influencers are documenting their experiences on TikTok while they return four-year-old couches and half-eaten chicken bakes.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Social Issue->social networking",
+        "Economy, Business and Finance->consumer goods",
+        "Economy, Business and Finance->business strategy and marketing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Costco",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "costco",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "COST",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:29:40.418+03:00",
+    "updated": "2025-07-24T07:32:31.000+03:00"
+}

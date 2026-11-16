@@ -1,0 +1,126 @@
+{
+    "thread": {
+        "uuid": "a887d8400ebd21ba409e80fc3e44fd9fe558e682",
+        "url": "https://www.newsbreak.com/news/4146631210234-24-7-ems-transports-to-rivers-health-center",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/gallipolis-oh",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Gallipolis, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "24/7 EMS transports to Rivers Health Center - NewsBreak",
+        "title_full": "24/7 EMS transports to Rivers Health Center - NewsBreak",
+        "published": "2025-07-31T00:46:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/04qO1D_13KEhA6b00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a887d8400ebd21ba409e80fc3e44fd9fe558e682",
+    "url": "https://www.newsbreak.com/news/4146631210234-24-7-ems-transports-to-rivers-health-center",
+    "ord_in_thread": 0,
+    "author": "Luke Hamilton",
+    "published": "2025-07-31T00:46:00.000+03:00",
+    "title": "24/7 EMS transports to Rivers Health Center - NewsBreak",
+    "text": "WSAZ\nwebsite\nMason County, West Virginia\n24/7 EMS transports to Rivers Health Center\nBy Luke Hamilton,\n6 hours agoMASON COUNTY, W.Va. (WSAZ) - Mason County is celebrating on Wednesday with 24/7 EMS service for patients at Rivers Health Regional Health Center in Point Pleasant. County commissioners said this service is something the community has wanted for a long time. Rivers Health and the county’s partnership started by offering...\n2",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Health",
+        "Human Interest"
+    ],
+    "topics": [
+        "Health->health facility",
+        "Health->emergency care",
+        "Health->medical service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Luke Hamilto",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "EMS",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Rivers Health Regional Health Center",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Gallipolis",
+                "Bidwell"
+            ],
+            "state": [
+                "Ohio"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:37:46.739+03:00",
+    "updated": "2025-07-31T07:41:16.000+03:00"
+}

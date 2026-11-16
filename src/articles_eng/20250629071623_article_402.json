@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "43f0da7ec7512fe53113ed26fdf1fae5e8b87fdb",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4074370502341-special-marine-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Special Marine Warning by NWS - NewsBreak",
+        "title_full": "Special Marine Warning by NWS - NewsBreak",
+        "published": "2025-06-26T02:58:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0mSxmd_12AQZfVD00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "43f0da7ec7512fe53113ed26fdf1fae5e8b87fdb",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4074370502341-special-marine-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-06-26T02:58:00.000+03:00",
+    "title": "Special Marine Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here SMWTBW The National Weather Service in Ruskin has issued a * Special Marine Warning for... Coastal waters from Tarpon Springs to Suwannee River FL out 20 NM... Waters from Tarpon Springs to Suwannee River FL out 20 to 60 NM... * Until 1245 AM EDT. * At 1157 PM EDT, strong thunderstorms were located along a line extending from 13 nm southwest of Suwannee River to 31 nm west of Cedar Key, moving west at 20 knots. HAZARD...Wind gusts 34 knots or greater and small hail. SOURCE...Radar. IMPACT...Expect wind gusts in excess of 34 knots, suddenly higher waves, frequent lightning, and heavy downpours. Make sure all on board are wearing life jackets. * Strong thunderstorms will remain over mainly open waters.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.6c0fa330228f3833e2d90516d63aa2a89e27ec09.001.1",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.6c0fa330228f3833e2d90516d63aa2a89e27ec09.001.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Cedar Key",
+                "sentiment": "none"
+            },
+            {
+                "name": "Suwannee",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-26T07:25:53.533+03:00",
+    "updated": "2025-06-26T04:36:17.000+00:00"
+}

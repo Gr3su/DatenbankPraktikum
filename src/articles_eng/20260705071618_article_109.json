@@ -1,0 +1,125 @@
+{
+    "thread": {
+        "uuid": "a006c15cea625e0bb61fdd71a862d9d00e3acc3d",
+        "url": "https://www.newsbreak.com/cbs-news-atlanta-1587854/4744540211044-severe-thunderstorm-warnings-issued-for-north-georgia-metro-atlanta",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/atlanta-ga",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "disaster and accident",
+            "sport",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "human interest",
+            "social issue",
+            "under_construction",
+            "politics"
+        ],
+        "section_title": "Atlanta, GA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warnings issued for North Georgia, metro Atlanta - NewsBreak",
+        "title_full": "Severe Thunderstorm Warnings issued for North Georgia, metro Atlanta - NewsBreak",
+        "published": "2026-07-01T19:45:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2RMEDh_1Cti1d6400",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a006c15cea625e0bb61fdd71a862d9d00e3acc3d",
+    "url": "https://www.newsbreak.com/cbs-news-atlanta-1587854/4744540211044-severe-thunderstorm-warnings-issued-for-north-georgia-metro-atlanta",
+    "ord_in_thread": 0,
+    "author": "Dan Raby",
+    "published": "2026-07-01T19:45:00.000+03:00",
+    "title": "Severe Thunderstorm Warnings issued for North Georgia, metro Atlanta - NewsBreak",
+    "text": "By Dan Raby CBS News Atlanta 11 hours ago 💬 6",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Environment"
+    ],
+    "topics": [
+        "Environment->climate change"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dan Raby",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Atlanta",
+                "sentiment": "none"
+            },
+            {
+                "name": "North Georgia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBS News",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:19:37.729+03:00",
+    "updated": "2026-07-02T07:21:42.000+03:00"
+}

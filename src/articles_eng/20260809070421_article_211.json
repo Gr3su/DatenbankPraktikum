@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "0678c67cd558363839c1240bdbe6943b254befa4",
+        "url": "https://www.newsbreak.com/news/4809605788303-bipartisan-leaders-join-rally-opposing-planned-closures-at-choate-center",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/mound-city-il",
+        "site_categories": [
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "health",
+            "sport",
+            "politics",
+            "social issue",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest"
+        ],
+        "section_title": "Mound City, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Bipartisan Leaders Join Rally Opposing Planned Closures at Choate Center - NewsBreak",
+        "title_full": "Bipartisan Leaders Join Rally Opposing Planned Closures at Choate Center - NewsBreak",
+        "published": "2026-08-05T01:11:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0Rkq8T_1DwGP0bh00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0678c67cd558363839c1240bdbe6943b254befa4",
+    "url": "https://www.newsbreak.com/news/4809605788303-bipartisan-leaders-join-rally-opposing-planned-closures-at-choate-center",
+    "ord_in_thread": 0,
+    "author": "WSIU Public Broadcasting",
+    "published": "2026-08-05T01:11:00.000+03:00",
+    "title": "Bipartisan Leaders Join Rally Opposing Planned Closures at Choate Center - NewsBreak",
+    "text": "By WSIU Public Broadcasting ,\n1 days ago As the president of AFSCME Local 141, Tina Winfield is rallying her fellow employees and supporters of the patients and workers at Choate Mental Health and Developmental Center in Anna. Last month, the Illinois Department of Human Services announced the closure of two units at Choate. In a written response... Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wsiu.org/health/2026-08-04/bipartisan-leaders-join-rally-opposing-planned-closures-at-choate-center",
+        "https://wsiu.org/health/2026-08-04/bipartisan-leaders-join-rally-opposing-planned-closures-at-choate-center"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tina Winfield",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Choate Center",
+                "sentiment": "none"
+            },
+            {
+                "name": "Anna",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WSIU Public Broadcasting",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Illinois Department of Human Services",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Choate Mental Health and Developmental Center",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Mound City"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:12:48.803+03:00",
+    "updated": "2026-08-06T07:13:01.000+03:00"
+}

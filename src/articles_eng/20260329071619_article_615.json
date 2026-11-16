@@ -1,0 +1,120 @@
+{
+    "thread": {
+        "uuid": "42bb1e91c01ad7e4969e0621d7e131278c0a298a",
+        "url": "https://www.newsbreak.com/news/4558790051308-mcminn-central-puts-opengate-to-the-test-clears-515-students-on-day-one",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/benton-tn",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "under_construction",
+            "sport",
+            "human interest"
+        ],
+        "section_title": "Benton, TN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "McMinn Central Puts OpenGate To The Test, Clears 515 Students On Day One - NewsBreak",
+        "title_full": "McMinn Central Puts OpenGate To The Test, Clears 515 Students On Day One - NewsBreak",
+        "published": "2026-03-26T00:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0CWveY_19vXaeIA00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "42bb1e91c01ad7e4969e0621d7e131278c0a298a",
+    "url": "https://www.newsbreak.com/news/4558790051308-mcminn-central-puts-opengate-to-the-test-clears-515-students-on-day-one",
+    "ord_in_thread": 0,
+    "author": "Davey Kim",
+    "published": "2026-03-26T00:08:00.000+02:00",
+    "title": "McMinn Central Puts OpenGate To The Test, Clears 515 Students On Day One - NewsBreak",
+    "text": "By Davey Kim ,\n17 hours ago McMinn Central High School put its new weapons-detection portal into full-time action Wednesday morning, running about 515 students through the CEIA OpenGate system as they arrived for class. Administrators said advance planning kept the lines moving, with only minimal delays, and the district publicly thanked parents and the McMinn Central community for working the new routine into their morning. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Education"
+    ],
+    "topics": [
+        "Education->school"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Davey Kim",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "McMinn Central",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "McMinn Central High School",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "42bb1e91c01ad7e4969e0621d7e131278c0a298a",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Benton"
+            ],
+            "state": [
+                "Tennessee"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-26T07:30:22.787+02:00",
+    "updated": "2026-03-26T17:30:52.820+02:00"
+}

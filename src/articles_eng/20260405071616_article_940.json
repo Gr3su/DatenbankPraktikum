@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "de8e6d789ce9a5753c3053109d24d0d62359bdb1",
+        "url": "https://www.newsbreak.com/newsradio-740-ktrh-1588240/4571277817842-woman-shot-near-duryea-elementary-school",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/newsradio-740-ktrh-1588240",
+        "site_categories": [
+            "sport",
+            "human interest",
+            "under_construction",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "arts, culture and entertainment",
+            "lifestyle and leisure"
+        ],
+        "section_title": "NewsRadio 740 KTRH&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Woman Shot Near Duryea Elementary School - NewsBreak",
+        "title_full": "Woman Shot Near Duryea Elementary School - NewsBreak",
+        "published": "2026-04-01T23:07:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1eZHLF_1A77JJxa00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "de8e6d789ce9a5753c3053109d24d0d62359bdb1",
+    "url": "https://www.newsbreak.com/newsradio-740-ktrh-1588240/4571277817842-woman-shot-near-duryea-elementary-school",
+    "ord_in_thread": 0,
+    "author": "Ethan Buchanan",
+    "published": "2026-04-01T23:07:00.000+03:00",
+    "title": "Woman Shot Near Duryea Elementary School - NewsBreak",
+    "text": "By Ethan Buchanan ,\n8 hours ago According to Harris County Sheriff Ed Gonzalez, a woman has been shot near the 6700 block of Rusty Ridge Lane, not far from Cy-Fair ISD's Duryea Elementary School.\nDetails are limited at this time, but Sheriff Gonzalez says the alleged shooter remained on the scene.\nOur TV partner Channel 2 reports that homicide investigators have been called to the scene.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->shootings"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.click2houston.com/news/local/2026/04/01/homicide-investigators-respond-to-shooting-scene-in-katy/",
+        "https://img.particlenews.com/image.php?url=1eZHLF_1A77JJxa00",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1eZHLF_1A77JJxa00",
+        "https://www.img.particlenews.com/image.php?url=1eZHLF_1A77JJxa00",
+        "https://www.click2houston.com/news/local/2026/04/01/homicide-investigators-respond-to-shooting-scene-in-katy",
+        "https://click2houston.com/news/local/2026/04/01/homicide-investigators-respond-to-shooting-scene-in-katy/",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1eZHLF_1A77JJxa00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ed Gonzalez",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ethan Buchanan",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Harris County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rusty Ridge Lane",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Channel 2",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-02T07:29:52.766+03:00",
+    "updated": "2026-04-02T07:31:28.000+03:00"
+}

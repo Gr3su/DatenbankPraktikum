@@ -1,0 +1,155 @@
+{
+    "thread": {
+        "uuid": "77567a3d5a52c5f3144cc54af81eb1f3d89546b5",
+        "url": "https://www.newsbreak.com/news/4863622053269-nearly-6-months-after-fatal-asheville-apartment-shooting-family-still-seeks-answers",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/asheville-nc",
+        "site_categories": [
+            "sport",
+            "economy, business and finance",
+            "under_construction",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "social issue",
+            "politics",
+            "human interest"
+        ],
+        "section_title": "Asheville, NC Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Nearly 6 months after fatal Asheville apartment shooting, family still seeks answers - NewsBreak",
+        "title_full": "Nearly 6 months after fatal Asheville apartment shooting, family still seeks answers - NewsBreak",
+        "published": "2026-09-03T00:04:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1Ch5Nl_1EnhMSmu00",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "77567a3d5a52c5f3144cc54af81eb1f3d89546b5",
+    "url": "https://www.newsbreak.com/news/4863622053269-nearly-6-months-after-fatal-asheville-apartment-shooting-family-still-seeks-answers",
+    "ord_in_thread": 0,
+    "author": "Gracie Palmer",
+    "published": "2026-09-03T00:04:00.000+03:00",
+    "title": "Nearly 6 months after fatal Asheville apartment shooting, family still seeks answers - NewsBreak",
+    "text": "By Gracie Palmer ,\n7 hours ago ASHEVILLE, N.C. (WLOS) — Nearly six months after 27-year-old Eric Lee Anderson Lordman Jr. was shot and killed at Pisgah View Apartments, his family is still searching for answers as the Asheville Police Department continues investigating the case. Lordman was found dead from multiple gunshot wounds near Granada Street... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://wlos.com/news/local/shooting-asheville-fatal-family-police-pisgah-view-apartments-western-north-carolina-safety-community",
+        "https://www.wlos.com/news/local/shooting-asheville-fatal-family-police-pisgah-view-apartments-western-north-carolina-safety-community"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "G",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Eric Lee",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Anderson Lordman Jr.",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "ASHEVILLE",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pisgah View Apartments",
+                "sentiment": "none"
+            },
+            {
+                "name": "Granada Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Asheville Police Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Asheville"
+            ],
+            "state": [
+                "North Carolina"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:14:25.488+03:00",
+    "updated": "2026-09-03T07:26:23.000+03:00"
+}

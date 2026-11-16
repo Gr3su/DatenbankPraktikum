@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "c69a55d150c2b77592b7b8b41b86b0feaa0d0907",
+        "url": "https://www.newsbreak.com/fox-news-510075/4948310168385-suspected-shooter-killed-inside-oregon-elementary-school-victims-include-children",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/trending/top/shooter",
+        "site_categories": [
+            "crime, law and justice",
+            "economy, business and finance",
+            "sport",
+            "politics",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "under_construction"
+        ],
+        "section_title": "The latest shooter news, videos &amp; comments | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Suspected shooter killed inside Oregon elementary school, victims include children - NewsBreak",
+        "title_full": "Suspected shooter killed inside Oregon elementary school, victims include children - NewsBreak",
+        "published": "2026-10-15T23:58:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/103q4U_1G91NFMO00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T06:59:21.178+03:00"
+        }
+    },
+    "uuid": "c69a55d150c2b77592b7b8b41b86b0feaa0d0907",
+    "url": "https://www.newsbreak.com/fox-news-510075/4948310168385-suspected-shooter-killed-inside-oregon-elementary-school-victims-include-children",
+    "ord_in_thread": 0,
+    "author": "Stepheny Price",
+    "published": "2026-10-15T23:58:00.000+03:00",
+    "title": "Suspected shooter killed inside Oregon elementary school, victims include children - NewsBreak",
+    "text": "By Stepheny Price ,\n7 hours ago Bend police responded to Silver Rail Elementary School after an active shooter report, directing families to a nearby church for reunification. Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident",
+        "Disaster and Accident->accident and emergency incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.foxnews.com/us/active-shooter-report-oregon-elementary-school-draws-large-police-response",
+        "https://foxnews.com/us/active-shooter-report-oregon-elementary-school-draws-large-police-response"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsad.38f2c935.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Stepheny Price",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Oregon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bend",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Silver Rail Elementary School",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T06:59:21.178+03:00",
+    "updated": "2026-10-16T07:00:39.000+03:00",
+    "related_articles": null
+}

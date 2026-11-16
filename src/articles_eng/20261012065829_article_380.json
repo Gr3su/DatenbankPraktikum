@@ -1,0 +1,113 @@
+{
+    "thread": {
+        "uuid": "7dceb36e5b5ba63173ba611c324f4abcc3e737ad",
+        "url": "https://www.ntd.com/ntdplus/uss-lincoln-arrives-in-san-diego-after-321-days_1177814.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://api.ntd.com/feed",
+        "site_categories": [
+            "health",
+            "media",
+            "architects",
+            "politics",
+            "science and technology",
+            "real_estate",
+            "economy, business and finance",
+            "crime, law and justice",
+            "war, conflict and unrest"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "USS Lincoln Arrives in San Diego After 321 Days",
+        "title_full": "USS Lincoln Arrives in San Diego After 321 Days",
+        "published": "2026-10-09T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2026/10/id1177708-GettyImages-2293753808.jpg-600x400.webp",
+        "performance_score": 0,
+        "domain_rank": 66065,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:10:11.484+03:00"
+        }
+    },
+    "uuid": "7dceb36e5b5ba63173ba611c324f4abcc3e737ad",
+    "url": "https://www.ntd.com/ntdplus/uss-lincoln-arrives-in-san-diego-after-321-days_1177814.html",
+    "ord_in_thread": 0,
+    "author": "NTD Newsroom",
+    "published": "2026-10-09T06:59:00.000+03:00",
+    "title": "USS Lincoln Arrives in San Diego After 321 Days",
+    "text": "Trailer10100:00/0:00USS Lincoln Arrives in San Diego After 321 DaysOct-08-2026The USS Abraham Lincoln arrived in San Diego on Thursday after a 321-day deployment. The deployment included 265 uninterrupted days at sea while the ship supported the war with Iran.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->geology"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [
+        "https://i.ntd.com/assets/uploads/2026/05/id1148272-NTD-Evening-Show-avatar-700x700-1.jpg",
+        "https://i.ntd.com/assets/uploads/2026/10/id1177708-GettyImages-2293753808.jpg-900x506.webp"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "San Diego",
+                "sentiment": "none"
+            },
+            {
+                "name": "Iran",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:10:11.484+03:00",
+    "updated": "2026-10-09T07:12:19.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "4936c083558340bc50959df34ff511f75b94aac9",
+        "url": "https://www.newsbreak.com/news/4851091223309-rural-johnson-county-man-charged-with-stealing-over-mistaken-delivery",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/garden-city-mo",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "politics",
+            "sport",
+            "crime, law and justice",
+            "economy, business and finance",
+            "human interest",
+            "science and technology",
+            "social issue",
+            "lifestyle and leisure",
+            "under_construction"
+        ],
+        "section_title": "Garden City, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Rural Johnson County man charged with stealing over mistaken delivery - NewsBreak",
+        "title_full": "Rural Johnson County man charged with stealing over mistaken delivery - NewsBreak",
+        "published": "2026-08-26T19:40:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1fEAD8_1Eb3uZB200",
+        "performance_score": 0,
+        "domain_rank": 3157,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4936c083558340bc50959df34ff511f75b94aac9",
+    "url": "https://www.newsbreak.com/news/4851091223309-rural-johnson-county-man-charged-with-stealing-over-mistaken-delivery",
+    "ord_in_thread": 0,
+    "author": "Taya White",
+    "published": "2026-08-26T19:40:00.000+03:00",
+    "title": "Rural Johnson County man charged with stealing over mistaken delivery - NewsBreak",
+    "text": "By Taya White ,\n11 hours ago JOHNSON COUNTY — A rural Johnson County man is accused of stealing an herbicide delivery from an area farm. David Richard Strobel is charged with one count of stealing $760 or more in Johnson County. A probable cause statement says Strobel Family Farms reported 250 gallons of herbicide valued... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->fraud",
+        "Crime, Law and Justice->robbery and theft"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kmzu.com/news/rural-johnson-county-man-charged-with-stealing-over-mistaken-delivery/article_e61ea435-9a0f-4dec-9a02-2ac7250d056e.html",
+        "https://kmzu.com/news/rural-johnson-county-man-charged-with-stealing-over-mistaken-delivery/article_e61ea435-9a0f-4dec-9a02-2ac7250d056e.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Taya White",
+                "sentiment": "negative"
+            },
+            {
+                "name": "David Richard Strobel",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Johnson County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Strobel Family Farms",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Garden City"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:18:40.896+03:00",
+    "updated": "2026-08-27T07:25:54.000+03:00"
+}

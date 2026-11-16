@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "e529475ecc595ba490918a52d9087a9b25c1fbd8",
+        "url": "https://www.theepochtimes.com/tech/google-responds-to-report-of-sophisticated-gmail-phishing-attack-5846410",
+        "site_full": "www.theepochtimes.com",
+        "site": "theepochtimes.com",
+        "site_section": "https://theepochtimes.com/us",
+        "site_categories": [
+            "media",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "US News: Breaking Headlines and Analysis | The Epoch Times",
+        "site_title": "The Epoch Times | Breaking News, Latest News, World News and Videos",
+        "title": "Google Responds to Report of Sophisticated Gmail Phishing Attack",
+        "title_full": "Google Responds to Report of Sophisticated Gmail Phishing Attack",
+        "published": "2025-04-24T00:24:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.theepochtimes.com/assets/uploads/2022/10/05/GettyImages-1230122728-700x420.jpg",
+        "performance_score": 0,
+        "domain_rank": 1578,
+        "domain_rank_updated": "2025-04-22T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e529475ecc595ba490918a52d9087a9b25c1fbd8",
+    "url": "https://www.theepochtimes.com/tech/google-responds-to-report-of-sophisticated-gmail-phishing-attack-5846410",
+    "ord_in_thread": 0,
+    "author": "Jack Phillips",
+    "published": "2025-04-24T00:24:00.000+03:00",
+    "title": "Google Responds to Report of Sophisticated Gmail Phishing Attack",
+    "text": "Google on April 22 said it is aware of reports of a phishing scam targeting Gmail account holders and has rolled out a fix.\nEarlier this month, a software developer and researcher wrote that he received a security alert email that purported to be from Google that informed him that a “subpoena was served on Google LLC requiring us to produce a copy of your Google Account content,” adding later that the user could look into the details to “submit a protest.”\nwrotein a post on social media platform X.\nThe email was sent from the “[[email protected]](/cdn-cgi/l/email-protection)” address, and Johnson noted that it is a “valid, signed email” that was “really” sent by the Google company account.\n“It passes the DKIM signature check, and GMail displays it without any warnings—it even puts it in the same conversation as other, legitimate security alerts,” he said.\nDKIM is an acronym for DomainKeys Identified Mail, an email authentication protocol that uses digital signatures to verify whether an email is legitimate, according to Google’s website.\nadded, is that the email contained a lot of white space where there shouldn’t have been.\nA spokesperson for Google told The Epoch Times on Tuesday that the company has “rolled out fixes to stop this abuse pathway,” responding to questions about Johnson’s claims.\n“We’ve shut down the mechanism that attackers are using to insert arbitrary length text, which will prevent this method of attack from working,” the company said.\n“We’re aware of this class of targeted attack from this threat actor, and have rolled out protections to shut down this avenue for abuse. In the meantime, we encourage users to adopt two-factor authentication and passkeys, which provide strong protection against these kinds of phishing campaigns,” a separate company spokesperson said in statement.\nGoogle also won’t “ask for any of your account credentials—including your password, one-time passwords, confirm push notifications, etc.—and Google will not call you,” the spokesperson added.\nsayson its website that Gmail users should be wary of emails with “urgent requests” and advised people not to engage with strangers or individuals who seek sensitive information, including bank account details, credit card numbers, or addresses.\npageabout privacy and terms usage says that when the company receives a request from a government entity, it will send an email to the user account before it discloses that information.\n“We won’t give notice when legally prohibited under the terms of the request. We’ll provide notice after a legal prohibition is lifted, such as when a statutory or court-ordered gag period has expired,” the company says, adding it may “not give notice in the case of emergencies, such as threats to a child’s safety or threats to someone’s life, in which case we’ll provide notice if we learn that the emergency has passed.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://x.com/nicksdjohnson/status/1912439023982834120",
+        "https://policies.google.com/terms/information-requests?hl=en-US",
+        "https://blog.google/technology/safety-security/how-to-spot-scams-and-what-to-do-if-you-encounter-one/#spotemailscams",
+        "https://x.com/nicksdjohnson/status/1912439048565645524",
+        "https://policies.google.com/terms/information-requests",
+        "https://www.x.com/nicksdjohnson/status/1912439048565645524",
+        "https://www.x.com/nicksdjohnson/status/1912439023982834120",
+        "https://www.blog.google/technology/safety-security/how-to-spot-scams-and-what-to-do-if-you-encounter-one/#spotemailscams",
+        "https://www.policies.google.com/terms/information-requests?hl=en-US"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Johnson",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Google LLC",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T01:35:53.755+03:00",
+    "updated": "2025-04-24T01:35:53.755+03:00"
+}

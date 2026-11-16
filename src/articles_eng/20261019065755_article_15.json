@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "ece68a6c1bdf9e3a903d88070c3e0a8692a5e177",
+        "url": "https://www.fox9.com/video/fmc-b9nj6wxupr5qtltr",
+        "site_full": "www.fox9.com",
+        "site": "fox9.com",
+        "site_section": "https://www.fox9.com/",
+        "site_categories": [
+            "weather",
+            "economy, business and finance",
+            "social issue",
+            "media",
+            "politics",
+            "disaster and accident",
+            "sport",
+            "crime, law and justice"
+        ],
+        "section_title": "FOX 9 Minneapolis-St. Paul | Local News, Weather, and Live Streams | KMSP-TV",
+        "site_title": "FOX 9 Minneapolis-St. Paul | Local News, Weather, and Live Streams | KMSP-TV",
+        "title": "3 children, 1 teacher killed in Oregon school shooting",
+        "title_full": "3 children, 1 teacher killed in Oregon school shooting",
+        "published": "2026-10-16T00:34:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/q17jt1ot1upd123b/1200/630/j0efjmnfn41zaw4n.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 32255,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T06:58:03.146+03:00"
+        }
+    },
+    "uuid": "ece68a6c1bdf9e3a903d88070c3e0a8692a5e177",
+    "url": "https://www.fox9.com/video/fmc-b9nj6wxupr5qtltr",
+    "ord_in_thread": 0,
+    "author": "no author",
+    "published": "2026-10-16T00:34:00.000+03:00",
+    "title": "3 children, 1 teacher killed in Oregon school shooting",
+    "text": "3 children, 1 teacher killed in Oregon school shooting\nThree children and one teacher were killed in a school shooting in Bend, Oregon.\nPosted\nOctober 15, 2026 9:34pm CDT\nShow more",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident",
+        "Disaster and Accident->accident and emergency incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Bend",
+                "sentiment": "none"
+            },
+            {
+                "name": "Oregon",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Lauderdale",
+                "Nassau",
+                "West St. Paul",
+                "St. Paul Park",
+                "Westport",
+                "South St. Paul",
+                "St. Paul",
+                "Minneapolis",
+                "Minnetrista",
+                "Minnesota City",
+                "North St. Paul",
+                "Lexington",
+                "La Prairie",
+                "Dundee",
+                "Foxhome"
+            ],
+            "state": [
+                "Missouri",
+                "Minnesota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T06:58:03.146+03:00",
+    "updated": "2026-10-16T06:59:56.000+03:00",
+    "related_articles": null
+}

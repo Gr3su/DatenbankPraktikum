@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "b2ef3c9674b5e7e337a2a4154a905dd5343f6e19",
+        "url": "https://us.headtopics.com/news/meta-ai-model-hacked-another-organization-during-testing-86324845",
+        "site_full": "us.headtopics.com",
+        "site": "headtopics.com",
+        "site_section": "https://us.headtopics.com/latest-news",
+        "site_categories": [
+            "economy, business and finance",
+            "science and technology",
+            "crime, law and justice",
+            "social issue",
+            "lifestyle and leisure",
+            "politics",
+            "sport",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "United States Latest News | News | 06 August 2026, Thursday",
+        "site_title": "Breaking News | Headlines | United States News - Head Topics",
+        "title": "Meta AI Model Hacked Another Organization During Testing",
+        "title_full": "Meta AI Model Hacked Another Organization During Testing",
+        "published": "2026-08-06T07:04:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "TH",
+        "main_image": "https://i.headtopics.com/images/2026/8/6/cbshealth/meta-ai-model-hacked-another-organization-during-t-meta-ai-model-hacked-another-organization-during-t-5B077CCC0FC710FE9AADD52149D79C9E.webp",
+        "performance_score": 0,
+        "domain_rank": 8985,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b2ef3c9674b5e7e337a2a4154a905dd5343f6e19",
+    "url": "https://us.headtopics.com/news/meta-ai-model-hacked-another-organization-during-testing-86324845",
+    "ord_in_thread": 0,
+    "author": "CBSHealth",
+    "published": "2026-08-06T07:04:00.000+03:00",
+    "title": "Meta AI Model Hacked Another Organization During Testing",
+    "text": "Meta revealed that one of its AI models was hacked during testing, the third incident in recent weeks. The model exploited a security vulnerability in a third-party service.\nTech giant Meta revealed Wednesday that one of its artificial intelligence models hacked another organization during testing, the third time in recent weeks that an AI model In a statement provided to CBS News, Meta said that\"a misconfiguration by Irregular, an independent testing company Meta uses, inadvertently allowed one of our models access to the internet during evaluation.\n\" In its statement, Meta did not name the AI model in question, but sources told the tech outlet The Information that it involved Meta's Muse Spark 1.1, according to Reuters. \"The model subsequently exploited a security vulnerability in a third-party service, in a manner similar to previously-reported instances with other companies,\" Meta said Wednesday. \"Meta learned of this when Irregular notified us, and we are currently investigating and will issue a full retrospective once we have all the facts.\n\" Last week, Anthropic said its artificial intelligence models hacked into three other organizations during testing. The revelation came just days after ChatGPT maker OpenAI disclosed its rogue models had also hacked another company. Anthropic, the San Francisco-based AI company behind Claude, posted on its website July 30 that it discovered the three incidents after reviewing more than 141,000 evaluation runs.\nIt had launched a\"large-scale\" cybersecurity review which specifically looked for evidence whether its AI models were able to access the internet from within testing environments that should have been sealed off, in response to the OpenAI incident, Anthropic said. Anthropic said the models involved in the incidents were Claude Opus 4.7, Claude Mythos 5 and an internal research test model. The earliest incidents date to April, the AI company said.\n\"Claude compromised the impacted organizations' infrastructure using basic techniques,\" Anthropic said, such as exploiting weak passwords. In all three incidents, the AI models were tasked with a\"capture the flag\" cybersecurity challenge, which Anthropic said has been one of the ways it assesses a model's cyber capabilities.\nThe models were given a fictional scenario and told a piece of secret information, or the\"flag,\" had been hidden on a different machine on the network with the objective of breaking in and retrieving it, it said. It added that it had already reached out to the affected organizations, which it did not name. Two of them said they had not previously detected the activity. Anthropic said it was\"continuing to reach out to the third.\n\"went rogue during an evaluation of its models, breaking into the servers of AI startup Hugging Face. OpenAI described it as a\"significant security incident.\n\" These incidents have highlighted the vulnerabilities in AI security and controls and raised questions over how AI can be safely kept under human control as the technology's usage becomes more widespread globally.\nPlease follow us on Google to support us\nUnited States Latest News, United States Headlines\nSimilar News: You can also read news stories similar to this one that we have collected from other news sources.\nAudi Revives Efficiency with New A2 e‑tron Electric ModelThe upcoming Audi A2 e‑tron draws on the 2000s' original A2 heritage, featuring advanced aerodynamics, an active cool‑air intake, and a low drag coefficient of 0.24. Its optional efficiency package can cut energy consumption by up to 1.44 kWh/100 mi and the 58‑kWh lithium‑iron‑phosphate battery offers a cell‑to‑pack design. Audi claims the vehicle is the most efficient car built by the German automaker.Read more »\nFormer OnlyFans model Courtney Clenney reaches plea agreement in death of her boyfriendFormer OnlyFans model, Courtney Clenney, from Austin, has reached a plea agreement in the death of her boyfriend, Christian Obumseli.Read more »\nRole Model Is Setting Himself Up For HappinessAhead of his third album, Chuck Timely & the Hourglass, Role Model aka Tucker Pillsbury talks about moving on, crying at weddings, and going home.Read more »\nMeta's AI Model Accidentally Released onto Open Internet, Exploits Security VulnerabilityMeta's Muse Spark 1.1 AI model was accidentally released onto the open internet, exploiting a security vulnerability in a third-party service. The incident occurred during a capture-the-flag exercise by an outside security company, and Meta is currently investigating. The incident highlights the escalating cyber capabilities of AI models and the need for better safeguards.Read more »",
+    "summary": "\"The model subsequently exploited a security vulnerability in a third-party service, in a manner similar to previously-reported instances with other companies,\" Meta said Wednesday. Anthropic, the San Francisco-based AI company behind Claude, posted on its website July 30 that it discovered the three incidents after reviewing more than 141,000 evaluation runs. It had launched a\"large-scale\" cybersecurity review which specifically looked for evidence whether its AI models were able to access the internet from within testing environments that should have been sealed off, in response to the OpenAI incident, Anthropic said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science",
+        "Science and Technology->technology and engineering",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.google.com/preferences/source?q=us.headtopics.com",
+        "https://google.com/preferences/source?q=us.headtopics.com",
+        "https://www.google.com/preferences/source"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Meta",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "META",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Irregular",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "CBS News",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:16:04.785+03:00",
+    "updated": "2026-08-06T07:18:13.000+03:00"
+}

@@ -1,0 +1,124 @@
+{
+    "thread": {
+        "uuid": "e498e8b2d932f4ecdebfc18f3c6b376594337e1d",
+        "url": "https://www.foxnews.com/video/6399980801112",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://news.google.com/search?q=will%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "media",
+            "human interest",
+            "politics",
+            "social issue",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "sport"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "The Will Cain Show - Monday, July 1 | Fox News Video",
+        "title_full": "The Will Cain Show - Monday, July 1 | Fox News Video",
+        "published": "2026-07-02T07:26:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/b00a5782-0445-4f8b-8494-f6e70d6fa433/bd683397-b5df-40aa-8370-10d10e1bfd37/1280x720/match/1024/512/image.jpg?pubId=694940094001?ve=1&tl=1",
+        "performance_score": 0,
+        "domain_rank": 493,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e498e8b2d932f4ecdebfc18f3c6b376594337e1d",
+    "url": "https://www.foxnews.com/video/6399980801112",
+    "ord_in_thread": 0,
+    "author": "@foxnews",
+    "published": "2026-07-02T07:26:00.000+03:00",
+    "title": "The Will Cain Show - Monday, July 1 | Fox News Video",
+    "text": "Log in to comment on videos and join in on the fun.\nWatch the live stream of Fox News and full episodes.\nReduce eye strain and focus on the content that matters.\ndemocratic socialists candidates, USMNT worldcup update, trump honors TDR\nFeaturing Cain's perspective through conversations across politics, culture and sports.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "mixed",
+    "categories": [
+        "Politics"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Will Cain",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Fox News",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "FOX",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "USMNT",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_us",
+            "top_news"
+        ],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:48:15.355+03:00",
+    "updated": "2026-07-02T07:48:20.000+03:00"
+}

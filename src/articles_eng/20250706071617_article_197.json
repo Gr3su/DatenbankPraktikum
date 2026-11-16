@@ -1,0 +1,106 @@
+{
+    "thread": {
+        "uuid": "b1f0b669f6a5629e2cdca89b4fad203dfc37f667",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4086776114262-special-marine-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Special Marine Warning by NWS - NewsBreak",
+        "title_full": "Special Marine Warning by NWS - NewsBreak",
+        "published": "2025-07-03T02:11:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0mSxmd_12Mw4n5900",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b1f0b669f6a5629e2cdca89b4fad203dfc37f667",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4086776114262-special-marine-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-07-03T02:11:00.000+03:00",
+    "title": "Special Marine Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here SMWTAE The National Weather Service in Tallahassee has issued a * Special Marine Warning for... Coastal Waters From Ochlockonee River to Apalachicola FL out to 20 Nm... Waters from Suwannee River to Apalachicola FL from 20 to 60 NM... * Until 115 AM EDT. * At 1111 PM EDT, severe thunderstorms capable of producing waterspouts were located along a line extending from near O Tower to 6 nm east of V Tower, moving southeast at 10 knots. HAZARD...Waterspouts and wind gusts 34 knots or greater. SOURCE...Radar indicated. IMPACT...Expect wind gusts in excess of 34 knots...suddenly higher waves...frequent lightning...and heavy downpours. Make sure all on board are wearing life jackets. Waterspouts can quickly form and capsize boats and damage vessels. * Locations impacted include... V Tower.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.7b276df6dde16bb3576558ea0739fe2d1a952d8a.001.1",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.7b276df6dde16bb3576558ea0739fe2d1a952d8a.001.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "AM",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "AM",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Visa",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "V",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-07-03T07:22:29.267+03:00",
+    "updated": "2025-07-03T04:26:52.000+00:00"
+}

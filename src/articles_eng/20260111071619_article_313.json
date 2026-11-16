@@ -1,0 +1,119 @@
+{
+    "thread": {
+        "uuid": "793eb7eb527ca2f254c405a372d4147a0a61eeae",
+        "url": "https://www.newsbreak.com/news/4429389027621-new-signs-of-progress-in-oneida-high-school-renovation-project",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/cleveland-ny?page=2",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Cleveland, NY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "New signs of progress in Oneida High School renovation project - NewsBreak",
+        "title_full": "New signs of progress in Oneida High School renovation project - NewsBreak",
+        "published": "2026-01-07T13:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/05Lhbg_17r9BqgC00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-04T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "793eb7eb527ca2f254c405a372d4147a0a61eeae",
+    "url": "https://www.newsbreak.com/news/4429389027621-new-signs-of-progress-in-oneida-high-school-renovation-project",
+    "ord_in_thread": 0,
+    "author": "Charlie Nichols",
+    "published": "2026-01-07T13:05:00.000+02:00",
+    "title": "New signs of progress in Oneida High School renovation project - NewsBreak",
+    "text": "By Charlie Nichols ,\n18 hours ago ONEIDA N.Y. — The Oneida City School District has completed a major technology milestone over winter break, returning the district’s network from a temporary location at the Mohawk Regional Information Center (MORIC) back to Oneida High School. The move comes after flooding at the high school in June... Read full article\nRead in NewsBreak 1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Education"
+    ],
+    "topics": [
+        "Education->school"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Charlie Nichols",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Oneida High School",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Mohawk Regional Information Center",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Cleveland"
+            ],
+            "state": [
+                "New York"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-08T07:21:34.829+02:00",
+    "updated": "2026-01-08T07:23:50.000+02:00"
+}

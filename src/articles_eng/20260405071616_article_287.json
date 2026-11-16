@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "eb2563a7bbb96a1f62e27d3336b0561c81d62d78",
+        "url": "https://www.newsbreak.com/news/4571514806946-multiple-i-5-ramp-closures-in-douglas-county-thru-april",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/dillard-or",
+        "site_categories": [
+            "sport",
+            "human interest",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "under_construction",
+            "politics"
+        ],
+        "section_title": "Dillard, OR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Multiple I-5 Ramp Closures in Douglas County Thru April - NewsBreak",
+        "title_full": "Multiple I-5 Ramp Closures in Douglas County Thru April - NewsBreak",
+        "published": "2026-04-01T21:33:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/40ZLXT_1A7MM5zO00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "eb2563a7bbb96a1f62e27d3336b0561c81d62d78",
+    "url": "https://www.newsbreak.com/news/4571514806946-multiple-i-5-ramp-closures-in-douglas-county-thru-april",
+    "ord_in_thread": 0,
+    "author": "I-5 Exit Guide",
+    "published": "2026-04-01T21:33:00.000+03:00",
+    "title": "Multiple I-5 Ramp Closures in Douglas County Thru April - NewsBreak",
+    "text": "By I-5 Exit Guide ,\n9 hours ago The Oregon Department of Transportation (ODOT) reports that construction on an I-5 safety project will lead to short nighttime closures of more than 40 off-ramps in Douglas County through the end of April. ODOT contractors have been working since last summer to install signs, pavement markers and other safety features... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Environment"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Douglas County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ODOT",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Oregon Department of Transportation",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Dillard"
+            ],
+            "state": [
+                "Oregon"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-02T07:21:11.100+03:00",
+    "updated": "2026-04-02T07:22:06.000+03:00"
+}

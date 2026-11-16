@@ -1,0 +1,165 @@
+{
+    "thread": {
+        "uuid": "db0107f7c84fda3b550a720a1c4f4c928a46447c",
+        "url": "https://www.newsbreak.com/pennlive-com-512963/4661828833010-after-90-years-a-central-pa-potato-chip-company-has-a-new-owner",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/state-college-pa",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "politics",
+            "economy, business and finance",
+            "human interest",
+            "lifestyle and leisure",
+            "sport",
+            "crime, law and justice"
+        ],
+        "section_title": "State College, PA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "After 90 years, a central Pa. potato chip company has a new owner - NewsBreak",
+        "title_full": "After 90 years, a central Pa. potato chip company has a new owner - NewsBreak",
+        "published": "2026-05-20T16:28:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3xhk74_1BZMVIdf00",
+        "performance_score": 0,
+        "domain_rank": 2964,
+        "domain_rank_updated": "2026-05-18T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "db0107f7c84fda3b550a720a1c4f4c928a46447c",
+    "url": "https://www.newsbreak.com/pennlive-com-512963/4661828833010-after-90-years-a-central-pa-potato-chip-company-has-a-new-owner",
+    "ord_in_thread": 0,
+    "author": "Sue Gleiter",
+    "published": "2026-05-20T16:28:00.000+03:00",
+    "title": "After 90 years, a central Pa. potato chip company has a new owner - NewsBreak",
+    "text": "By Sue Gleiter ,\n14 hours ago Hartley’s Potato Chip Co., a 90-year-old company rooted in central Pennsylvania, has been sold. Owners Dan Hartley and Kellie Johnson confirmed to the Lewistown Sentinel that they sold the family-operated company to Bill French, owner of Wood-Mode LLC in Kreamer, Snyder County. “As we step into this next chapter,... Read full article\nRead in NewsBreak 2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->consumer goods",
+        "Economy, Business and Finance->mergers and acquisitions"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sue Gleiter",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bill French",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dan Hartley",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kellie Johnson",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Pa",
+                "sentiment": "none"
+            },
+            {
+                "name": "ns",
+                "sentiment": "none"
+            },
+            {
+                "name": "Snyder County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kreamer",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Potato Chip Co.",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Wood - Mode LLC",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Lewistown Sentinel",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "State College"
+            ],
+            "state": [
+                "Pennsylvania"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-21T07:23:17.709+03:00",
+    "updated": "2026-05-21T07:24:36.000+03:00"
+}

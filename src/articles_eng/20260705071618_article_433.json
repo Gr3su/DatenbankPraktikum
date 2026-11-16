@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "5a9348802c7c5eb4357e9b83f38576d8280861c6",
+        "url": "https://www.newsbreak.com/news/4744624637565-suv-strikes-semi-after-failing-to-yield-at-merrick-county-intersection",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/central-city-ne",
+        "site_categories": [
+            "under_construction",
+            "sport",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "social issue",
+            "human interest",
+            "disaster and accident",
+            "politics",
+            "arts, culture and entertainment",
+            "crime, law and justice"
+        ],
+        "section_title": "Central City, NE Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "SUV Strikes Semi After Failing to Yield at Merrick County Intersection - NewsBreak",
+        "title_full": "SUV Strikes Semi After Failing to Yield at Merrick County Intersection - NewsBreak",
+        "published": "2026-07-01T19:30:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3dwblO_1CtnOGaa00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5a9348802c7c5eb4357e9b83f38576d8280861c6",
+    "url": "https://www.newsbreak.com/news/4744624637565-suv-strikes-semi-after-failing-to-yield-at-merrick-county-intersection",
+    "ord_in_thread": 0,
+    "author": "Tyler Cavalli",
+    "published": "2026-07-01T19:30:00.000+03:00",
+    "title": "SUV Strikes Semi After Failing to Yield at Merrick County Intersection - NewsBreak",
+    "text": "By Tyler Cavalli ,\n12 hours ago GENORA – Merrick County Deputies were detailed to Highway 30 and Highway 39 to investigate a two vehicle crash Monday afternoon. A preliminary investigation concluded that a Toyota RAV 4 was traveling northbound on Highway 39 when it failed to yield the right of way when entering Highway 30 and struck an eastbound traveling Kenworth semi hauling a utility trailer. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://kgfw.com/2026/07/01/412418/",
+        "https://www.kgfw.com/2026/07/01/412418/",
+        "https://kgfw.com/2026/07/01/412418"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tyler Cavalli",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Merrick County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Central City"
+            ],
+            "state": [
+                "Nebraska"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:32:43.527+03:00",
+    "updated": "2026-07-02T07:35:58.000+03:00"
+}

@@ -1,0 +1,119 @@
+{
+    "thread": {
+        "uuid": "d909cfbd34242db4c9c4853e280f30ef293f2382",
+        "url": "https://www.newsbreak.com/news/4355248295807-missing-teen-sought-in-east-boston",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://newsbreak.com/boston-ma",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Boston, MA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Missing teen sought in East Boston - NewsBreak",
+        "title_full": "Missing teen sought in East Boston - NewsBreak",
+        "published": "2025-11-19T04:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4MQSME_16fRjf5H00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-11-16T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d909cfbd34242db4c9c4853e280f30ef293f2382",
+    "url": "https://www.newsbreak.com/news/4355248295807-missing-teen-sought-in-east-boston",
+    "ord_in_thread": 0,
+    "author": "Daniel Duric",
+    "published": "2025-11-19T04:41:00.000+02:00",
+    "title": "Missing teen sought in East Boston - NewsBreak",
+    "text": "By Daniel Duric ,\n1 days ago BOSTON, MA — Police are searching for a 13-year-old girl last seen Monday morning in East Boston. Kaylee Damasio was last seen at 7 a.m. Nov. 17 in the area of Trenton Street in East Boston, according to the Boston Police Department. She is described as a Hispanic female,... Read full article\nRead in NewsBreak 2",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->investigation (criminal)"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Daniel Duric",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Kaylee Damasio",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Street",
+                "sentiment": "none"
+            },
+            {
+                "name": "East",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Boston Police Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-11-20T07:37:54.810+02:00",
+    "updated": "2025-11-20T07:40:15.000+02:00"
+}

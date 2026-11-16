@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "4b5b42eb8b7ead7a0964323c76f8681953199160",
+        "url": "https://headtopics.com/news/map-protocol-loses-96-after-quadrillion-token-exploit-83599281",
+        "site_full": "headtopics.com",
+        "site": "headtopics.com",
+        "site_section": "https://us.headtopics.com/latest-news",
+        "site_categories": [
+            "sport",
+            "media",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Latest News | News | 21 May 2026, Thursday",
+        "site_title": null,
+        "title": "Map Protocol Loses 96% After Quadrillion Token Exploit",
+        "title_full": "Map Protocol Loses 96% After Quadrillion Token Exploit",
+        "published": "2026-05-21T06:57:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "TH",
+        "main_image": "https://i.headtopics.com/images/2026/5/21/cointelegraph/map-protocol-loses-96-after-quadrillion-token-expl-map-protocol-loses-96-after-quadrillion-token-expl-49CB476A4B2724A5C8FF08BFB61B8AD3.webp",
+        "performance_score": 0,
+        "domain_rank": 15462,
+        "domain_rank_updated": "2026-05-18T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4b5b42eb8b7ead7a0964323c76f8681953199160",
+    "url": "https://headtopics.com/news/map-protocol-loses-96-after-quadrillion-token-exploit-83599281",
+    "ord_in_thread": 0,
+    "author": "Cointelegraph",
+    "published": "2026-05-21T06:57:00.000+03:00",
+    "title": "Map Protocol Loses 96% After Quadrillion Token Exploit",
+    "text": "An attacker minted a quadrillion MAPO tokens via Map Protocol’s cross-chain bridge, crashing the token’s value 96% to $0.0001.\nThe attacker tricked the Butter Network cross-chain bridge into minting millions more tokens than the legitimate supply of MAPO. MAPO, the native token of the Map Protocol, fell 96% on Wednesday after an exploit of the Butter Network cross-chain bridge, which allowed an attacker to mint a quadrillion MAPO tokens.\nThe malicious mint was tens of thousands of times larger than the legitimate supply of tokens, sending the value of MAPO from around $0.003 to $0.0001 in a matter of hours, The attacker used a new externally-owned account to dump around a billion MAPO tokens, draining about 52 ETH, worth about $180,000, from Uniswap liquidity pools while retaining nearly a trillion tokens that continue to threaten other pools and potential exchange listings,the bug was in the Solidity contract layer, and it has paused mainnet and has begun migration while the investigation continues.\nThe Butter Network said it has paused ButterSwap, adding that user funds were not at risk.it would announce a new contract address and select an appropriate time to conduct an asset snapshot.\n“Any remaining tokens held by attacker-controlled addresses will be fully invalidated and will not be included in any future snapshot or conversion process,” it said.first sent a legitimate oracle multisig-signed message before deploying a malicious contract at a specific address. The attacker then resent a modified “retry” message that appeared identical in hash but was actually fake. The cross-chain bridge verified it as valid and executed the massive token mint.\nNo private keys were stolen, and no light clients were broken; it was a classic Solidity vulnerability involving multiple dynamic fields,Map Protocol is an omnichain network for swapping Bitcoin, stablecoins and tokenized assets across blockchains, connecting the Bitcoin mainnet with ecosystems such as Ethereum, BNB Chain, Tron and Solana. There has been a wave of cross-chain bridge exploits over the past few weeks, including the Verus-Ethereum Bridge, Echo Bridge, and Butter Network’s cross-chain bridge.\nThe “security incident” stemmed from missing validation in the sequencer software, which accepted a counterfeit wallet on TON that lacked proper code-hash and minter checks, leading to another unauthorized token mint. Recovery efforts secured about 80% of the affected assets, but the bridge remains paused for an independent audit of the patched sequencer and liquidity restoration, it added. Martin Young\nUnited States Latest News, United States Headlines\nSimilar News:You can also read news stories similar to this one that we have collected from other news sources.\nEcho Protocol Hacked for $76.7M in Admin Key ExploitA hacker minted $76 million in eBTC on Echo Protocol through an admin-key exploit, with 955 eBTC still held and part of the funds sent to Tornado Cash.\nRead more »\nPro-Crypto Lawyer Highlights 96% Bitcoin and XRP Price CorrelationPro-crypto lawyer Bill Morgan has stirred debate following recent crypto market conditions, asserting that there is a strong correlation between XRP and Bitcoin price moves.\nRead more »\nBTS Fans Warned Flash Photography Will Trigger J-Hope’s Assassination ProtocolSTANFORD, CA—Issuing a stern reminder to all concert attendees, event security staff warned BTS fans Tuesday evening that flash photography would trigger J-Hope’s assassination protocol.\nRead more »\nThis 96% RT Crime Thriller Should Be Your Next Binge After Netflix's 'Legends'Legends follows customs agents going undercover, and this Peacock series tells another historically accurate spy thriller.\nRead more »",
+    "summary": "The Butter Network said it has paused ButterSwap, adding that user funds were not at risk.it would announce a new contract address and select an appropriate time to conduct an asset snapshot. No private keys were stolen, and no light clients were broken; it was a classic Solidity vulnerability involving multiple dynamic fields,Map Protocol is an omnichain network for swapping Bitcoin, stablecoins and tokenized assets across blockchains, connecting the Bitcoin mainnet with ecosystems such as Ethereum, BNB Chain, Tron and Solana.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Economy, Business and Finance->market and exchange",
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->cryptocurrency",
+        "Crime, Law and Justice->cyber crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-21T07:18:10.113+03:00",
+    "updated": "2026-05-21T07:27:31.000+03:00"
+}

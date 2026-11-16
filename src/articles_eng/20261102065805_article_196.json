@@ -1,0 +1,148 @@
+{
+    "thread": {
+        "uuid": "122d8b270f38f71a8f15e4199d94d1bb3793cc0c",
+        "url": "https://www.columbiamissourian.com/sports/mizzou_mens_basketball/mizzou-loses-to-unlv-in-exhibtion/article_f420783c-dd9c-47f5-934e-bfa6419c1622.html",
+        "site_full": "www.columbiamissourian.com",
+        "site": "columbiamissourian.com",
+        "site_section": "https://www.columbiamissourian.com/search/?f=rss&t=article&c=sports&l=50&s=start_time&sd=desc",
+        "site_categories": [
+            "human interest",
+            "media",
+            "politics",
+            "education",
+            "graduate_school",
+            "sport",
+            "lifestyle and leisure"
+        ],
+        "section_title": "www.columbiamissourian.com - RSS Results in sports of type article",
+        "site_title": "Columbia Missourian | Serving the community since 1908",
+        "title": "Mizzou loses to UNLV in exhibtion",
+        "title_full": "Mizzou loses to UNLV in exhibtion",
+        "published": "2026-10-30T05:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/columbiamissourian.com/content/tncms/assets/v3/editorial/0/00/000925cc-95db-42fa-ba60-9c3736a8ba41/6ae41c9275499.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 74573,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-30T07:04:39.376+02:00"
+        }
+    },
+    "uuid": "122d8b270f38f71a8f15e4199d94d1bb3793cc0c",
+    "url": "https://www.columbiamissourian.com/sports/mizzou_mens_basketball/mizzou-loses-to-unlv-in-exhibtion/article_f420783c-dd9c-47f5-934e-bfa6419c1622.html",
+    "ord_in_thread": 0,
+    "author": "Aaron Segal, Columbia Missourian",
+    "published": "2026-10-30T05:50:00.000+02:00",
+    "title": "Mizzou loses to UNLV in exhibtion",
+    "text": "Former Missouri guard Sebastian Mack made sure his old team would not leave Las Vegas with a victory.\nMack scored 19 points to lead UNLV past Missouri 90-81 in an exhibition matchup Thursday night at the Thomas & Mack Center. The Rebels used a strong second-half performance to erase a five-point halftime deficit and hand the Tigers a loss in their final exhibition before the regular season.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->basketball"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mizzou",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sebastian Mack",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Missouri",
+                "sentiment": "none"
+            },
+            {
+                "name": "Thomas & Mack Center",
+                "sentiment": "none"
+            },
+            {
+                "name": "Las Vegas",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "UNLV",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Missouri",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Rebels",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Tigers",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Columbia"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-30T07:04:39.376+02:00",
+    "updated": "2026-10-30T07:06:36.000+02:00",
+    "related_articles": null
+}

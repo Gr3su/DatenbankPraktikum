@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "61c9e91c9264e25140d8ea11238141308c1e30c7",
+        "url": "https://calendar.mit.edu/event/colloquium-on-the-brain-and-cognition-with-terry-sejnowski-bidwell-lecture",
+        "site_full": "calendar.mit.edu",
+        "site": "mit.edu",
+        "site_section": "https://calendar.mit.edu",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Events Calendar - Events Calendar",
+        "site_title": null,
+        "title": "Colloquium on the Brain and Cognition with Terry Sejnowski (Bidwell Lecture) - Events Calendar",
+        "title_full": "Colloquium on the Brain and Cognition with Terry Sejnowski (Bidwell Lecture) - Events Calendar",
+        "published": "2025-10-16T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://localist-images.azureedge.net/platform/logo/scaled/183/c235a595153426b723bb1f161f6b2c0c5dc63660.png",
+        "performance_score": 0,
+        "domain_rank": 230,
+        "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "61c9e91c9264e25140d8ea11238141308c1e30c7",
+    "url": "https://calendar.mit.edu/event/colloquium-on-the-brain-and-cognition-with-terry-sejnowski-bidwell-lecture",
+    "ord_in_thread": 0,
+    "author": "@localist",
+    "published": "2025-10-16T03:00:00.000+03:00",
+    "title": "Colloquium on the Brain and Cognition with Terry Sejnowski (Bidwell Lecture) - Events Calendar",
+    "text": "About this Event\n43 VASSAR ST, Cambridge, MA 02139\nTalk Title: NeuroAI\nAbstract: NeuroAI creates synergies between the study of brains and AI based on neural architectures with massively parallel processing units highly connected by weights and trained by learning algorithms. ChatGPT was an overnight success that took 40 years to achieve. Insights from AI may help us better understand cognitive processing in brains.\nBio: Sejnowski is the Francis Crick Chair at the Salk Institute and a Distinguished Professor of Neurobiology at UC San Diego. He is a leader in NeuroAI, the recent convergence between neuroscience and AI. He is a member of the National Academies of Sciences, Engineering, Medicine, and Inventors. He was awarded the Brain Prize in 2024 and was elected a Fellow the Royal Society in 2025.\nhttps://www.hhmi.org/scientists/terrence-j-sejnowski\nFollowed by a reception with food and drink in 3rd floor atrium",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.hhmi.org/scientists/terrence-j-sejnowski",
+        "https://hhmi.org/scientists/terrence-j-sejnowski"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Terry Sejnowski",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "UC",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "VASSAR",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "National Academies of Sciences",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Salk Institute",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Royal Society",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-16T07:32:46.503+03:00",
+    "updated": "2025-10-16T07:32:46.503+03:00"
+}

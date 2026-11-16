@@ -1,0 +1,157 @@
+{
+    "thread": {
+        "uuid": "aee02450d11b87dedcd45bd1b8487b770e1d34ab",
+        "url": "https://www.newsbreak.com/wusa9-524569/4689986345233-mclean-man-sentenced-for-threatening-to-kill-former-kennedy-center-president",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/hyattsville-md",
+        "site_categories": [
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "human interest",
+            "sport",
+            "economy, business and finance",
+            "politics",
+            "arts, culture and entertainment",
+            "under_construction"
+        ],
+        "section_title": "Hyattsville, MD Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "McLean man sentenced for threatening to kill former Kennedy Center president - NewsBreak",
+        "title_full": "McLean man sentenced for threatening to kill former Kennedy Center president - NewsBreak",
+        "published": "2026-06-03T23:55:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3eTAYD_1C0jxAz700",
+        "performance_score": 0,
+        "domain_rank": 2981,
+        "domain_rank_updated": "2026-06-01T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aee02450d11b87dedcd45bd1b8487b770e1d34ab",
+    "url": "https://www.newsbreak.com/wusa9-524569/4689986345233-mclean-man-sentenced-for-threatening-to-kill-former-kennedy-center-president",
+    "ord_in_thread": 0,
+    "author": "WUSA9",
+    "published": "2026-06-03T23:55:00.000+03:00",
+    "title": "McLean man sentenced for threatening to kill former Kennedy Center president - NewsBreak",
+    "text": "7 hours ago WASHINGTON — A McLean man was sentenced to 15 months in prison on Wednesday after pleading guilty in February to sending threatening messages to a federal official. Scott Allen Bolger, 33, was charged with transmitting threats in interstate commerce after he used Google Voice to send a threatening message to a public official, later identified as former Kennedy Center Director Richard Grenell, on Dec. 23, 2025, according to court documents. Google Voice allows users to send text messages while disguising the sender’s phone number. Read full article\nRead in NewsBreak 2",
+    "summary": "7 hours ago WASHINGTON — A McLean man was sentenced to 15 months in prison on Wednesday after pleading guilty in February to sending threatening messages to a federal official. Scott Allen Bolger, 33, was charged with transmitting threats in interstate commerce after he used Google Voice to send a threatening message to a public official, later identified as former Kennedy Center Director Richard Grenell, on Dec. 23, 2025, according to court documents. Google Voice allows users to send text messages while disguising the sender’s phone number. Read full article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->criminal law",
+        "Politics->safety of citizens",
+        "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "McLean",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Richard Grenell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Scott Allen Bolger",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "WASHINGTON",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Kennedy Center",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Google Voice",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Hyattsville"
+            ],
+            "state": [
+                "Maryland"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-04T07:41:23.635+03:00",
+    "updated": "2026-06-04T07:45:53.000+03:00"
+}

@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "d621b528217520e6a1ecd2f625145e9f5af92c3e",
+        "url": "https://www.newsbreak.com/news/4919569293628-lyon-county-approves-44-3-million-budget-for-2027",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/elmdale-ks",
+        "site_categories": [
+            "crime, law and justice",
+            "politics",
+            "economy, business and finance",
+            "under_construction",
+            "human interest",
+            "sport",
+            "arts, culture and entertainment",
+            "science and technology",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Elmdale, KS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Lyon County approves $44.3 million budget for 2027 - NewsBreak",
+        "title_full": "Lyon County approves $44.3 million budget for 2027 - NewsBreak",
+        "published": "2026-10-01T19:34:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0mch7Y_1Fh3uMIA00",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:19:32.762+03:00"
+        }
+    },
+    "uuid": "d621b528217520e6a1ecd2f625145e9f5af92c3e",
+    "url": "https://www.newsbreak.com/news/4919569293628-lyon-county-approves-44-3-million-budget-for-2027",
+    "ord_in_thread": 0,
+    "author": "The Emporia Gazette",
+    "published": "2026-10-01T19:34:00.000+03:00",
+    "title": "Lyon County approves $44.3 million budget for 2027 - NewsBreak",
+    "text": "By The Emporia Gazette ,\n11 hours ago Lyon County commissioners approved a $44.3 million budget for 2027 Thursday, certifying a spending plan expected to collect about $25.1 million in property taxes while remaining at the revenue-neutral rate. The vote followed a public hearing and discussion of the county’s largest expenses, including employee wages and benefits, road maintenance... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->government department",
+        "Politics->government budget",
+        "Economy, Business and Finance->economy",
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->business information"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.emporiagazette.com/free/article_39663032-2b12-4417-845b-03d898c97010.html",
+        "https://emporiagazette.com/free/article_39663032-2b12-4417-845b-03d898c97010.html"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Lyon County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Emporia",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Elmdale"
+            ],
+            "state": [
+                "Kansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:19:32.762+03:00",
+    "updated": "2026-10-02T07:23:01.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "0192cdde15c857a4b823b6e83dc24378fd97bd51",
+        "url": "https://www.ntd.com/ntdplus/numbers-show-ccps-flood-response-is-much-worse-than-nepals_1170362.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://api.ntd.com/feed",
+        "site_categories": [
+            "science and technology",
+            "crime, law and justice",
+            "war, conflict and unrest",
+            "architects",
+            "disaster and accident",
+            "politics",
+            "real_estate",
+            "media",
+            "economy, business and finance",
+            "health"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "Numbers Show CCP's Flood Response Is Much Worse Than Nepal's",
+        "title_full": "Numbers Show CCP's Flood Response Is Much Worse Than Nepal's",
+        "published": "2026-09-03T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2026/09/id1170382-Screen-Shot-2026-09-02-at-22.44.56.png-742x400.webp",
+        "performance_score": 0,
+        "domain_rank": 67735,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0192cdde15c857a4b823b6e83dc24378fd97bd51",
+    "url": "https://www.ntd.com/ntdplus/numbers-show-ccps-flood-response-is-much-worse-than-nepals_1170362.html",
+    "ord_in_thread": 0,
+    "author": "Toya Bayar",
+    "published": "2026-09-03T06:59:00.000+03:00",
+    "title": "Numbers Show CCP's Flood Response Is Much Worse Than Nepal's",
+    "text": "Trailer\nNumbers Show CCP's Flood Response Is Much Worse Than Nepal's\nNumbers show the Chinese Communist Party rescued no survivors and allegedly only retrieved the bodies of seven people who passed away during the deadly Aug. 26 flood on the China-Nepal border.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Environment",
+        "Weather"
+    ],
+    "topics": [
+        "Environment->hazardous materials",
+        "Environment->environmental clean-up",
+        "Weather->weather statistic"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Nepal",
+                "sentiment": "none"
+            },
+            {
+                "name": "China",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CCP",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "ist Party",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:25:58.175+03:00",
+    "updated": "2026-09-03T07:32:06.000+03:00"
+}

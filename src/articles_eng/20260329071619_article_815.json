@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "7d354a684b1de60aa7dbbcc39e95295c816dfd0f",
+        "url": "https://www.newsbreak.com/news/4557091449387-search-continues-for-person-of-interest-after-fatal-independence-county-shooting",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/ash-flat-ar",
+        "site_categories": [
+            "crime, law and justice",
+            "politics",
+            "economy, business and finance",
+            "under_construction",
+            "lifestyle and leisure",
+            "human interest",
+            "arts, culture and entertainment",
+            "sport"
+        ],
+        "section_title": "Ash Flat, AR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Search continues for person of interest after fatal Independence County shooting - NewsBreak",
+        "title_full": "Search continues for person of interest after fatal Independence County shooting - NewsBreak",
+        "published": "2026-03-24T22:34:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3upBBB_19tplW3v00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7d354a684b1de60aa7dbbcc39e95295c816dfd0f",
+    "url": "https://www.newsbreak.com/news/4557091449387-search-continues-for-person-of-interest-after-fatal-independence-county-shooting",
+    "ord_in_thread": 0,
+    "author": "White River Now",
+    "published": "2026-03-24T22:34:00.000+02:00",
+    "title": "Search continues for person of interest after fatal Independence County shooting - NewsBreak",
+    "text": "By White River Now ,\n1 days ago An intensive search ended Tuesday afternoon after a 48-year-old man identified as a person of interest in a fatal shooting in Independence County was found. According to the Independence County Sheriff’s Office, Christopher L. Johnston was found early Tuesday afternoon. Authorities confirmed that Johnston was located near Bethesda and stated there is no longer a threat to the public. Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->investigation (criminal)",
+        "Crime, Law and Justice->shootings"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Christopher L. Johnston",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "White River",
+                "sentiment": "none"
+            },
+            {
+                "name": "Independence County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bethesda",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Independence County Sheriff ’ s Office",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Ash Flat"
+            ],
+            "state": [
+                "Arkansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-26T07:36:22.346+02:00",
+    "updated": "2026-03-26T07:38:45.000+02:00"
+}

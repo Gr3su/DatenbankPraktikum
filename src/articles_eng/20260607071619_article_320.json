@@ -1,0 +1,162 @@
+{
+    "thread": {
+        "uuid": "001b91057c3f208e1fc218bc2fe99833ccf2b44c",
+        "url": "https://www.newsbreak.com/news/4689683313474-brent-vigen-caden-and-taco-dowler-represent-msu-at-2026-big-sky-kickoff-weekend",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/bozeman-mt",
+        "site_categories": [
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "under_construction",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "sport",
+            "human interest",
+            "politics"
+        ],
+        "section_title": "Bozeman, MT Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Brent Vigen, Caden and Taco Dowler Represent MSU at 2026 Big Sky Kickoff Weekend - NewsBreak",
+        "title_full": "Brent Vigen, Caden and Taco Dowler Represent MSU at 2026 Big Sky Kickoff Weekend - NewsBreak",
+        "published": "2026-06-03T17:12:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4beeJ9_1C0QiHKC00",
+        "performance_score": 0,
+        "domain_rank": 2981,
+        "domain_rank_updated": "2026-06-01T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "001b91057c3f208e1fc218bc2fe99833ccf2b44c",
+    "url": "https://www.newsbreak.com/news/4689683313474-brent-vigen-caden-and-taco-dowler-represent-msu-at-2026-big-sky-kickoff-weekend",
+    "ord_in_thread": 0,
+    "author": "MSU Sports Information",
+    "published": "2026-06-03T17:12:00.000+03:00",
+    "title": "Brent Vigen, Caden and Taco Dowler Represent MSU at 2026 Big Sky Kickoff Weekend - NewsBreak",
+    "text": "By MSU Sports Information ,\n14 hours ago BOZEMAN, Mont. (June 3, 2026) – Two-time Big Sky Conference Coach of the Year Brent Vigen and a pair of All-America players represent Montana State at this summer's Big Sky Kickoff Weekend in Spokane, Washington this summer. The annual event, presented by Northern Quest Resort & Casino, begins with... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brent Vigen",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Taco Dowler",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Caden",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "BOZEMAN",
+                "sentiment": "none"
+            },
+            {
+                "name": "Spokane",
+                "sentiment": "none"
+            },
+            {
+                "name": "Washington",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "MSU",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Montana State",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Northern Quest Resort & Casino",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Boneau"
+            ],
+            "state": [
+                "Montana"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-04T07:27:33.692+03:00",
+    "updated": "2026-06-04T07:27:33.692+03:00"
+}

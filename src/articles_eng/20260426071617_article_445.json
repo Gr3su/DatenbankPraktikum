@@ -1,0 +1,140 @@
+{
+    "thread": {
+        "uuid": "10bdb3b75d80a509d9fa2e210c0fcb5ac3fea548",
+        "url": "https://www.newsbreak.com/news/4604863193747-from-the-desk-of-senator-tammy-mulchi-9th-senate-district-va",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/staunton-va",
+        "site_categories": [
+            "human interest",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "sport",
+            "politics",
+            "under_construction"
+        ],
+        "section_title": "Staunton, VA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "From the Desk of Senator Tammy Mulchi 9th Senate District Va. - NewsBreak",
+        "title_full": "From the Desk of Senator Tammy Mulchi 9th Senate District Va. - NewsBreak",
+        "published": "2026-04-21T22:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4fei3h_1AeyJZqQ00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "10bdb3b75d80a509d9fa2e210c0fcb5ac3fea548",
+    "url": "https://www.newsbreak.com/news/4604863193747-from-the-desk-of-senator-tammy-mulchi-9th-senate-district-va",
+    "ord_in_thread": 0,
+    "author": "Senator Tammy Mulchi",
+    "published": "2026-04-21T22:00:00.000+03:00",
+    "title": "From the Desk of Senator Tammy Mulchi 9th Senate District Va. - NewsBreak",
+    "text": "By Senator Tammy Mulchi ,\n1 days ago The General Assembly returns to Richmond this week for the Reconvene Session, commonly known as the Veto Session, and the work continues. Last Monday, Governor Spanberger issued amendments to 164 bills and vetoed seven bipartisan measures. As one Democratic Senate leader recently remarked, “She appears to view the governor’s role in defining policy differently.” I am currently reviewing these amendments, which will be considered during the Reconvene Session on Wednesday, April 22. Read full article\nRead in NewsBreak 4",
+    "summary": "By Senator Tammy Mulchi , 1 days ago The General Assembly returns to Richmond this week for the Reconvene Session, commonly known as the Veto Session, and the work continues. Last Monday, Governor Spanberger issued amendments to 164 bills and vetoed seven bipartisan measures. As one Democratic Senate leader recently remarked, “She appears to view the governor’s role in defining policy differently.” I am currently reviewing these amendments, which will be considered during the Reconvene Session on Wednesday, April 22. Read full article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->legislative body"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tammy Mulchi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Spanberger",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Richmond",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "General Assembly",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "10bdb3b75d80a509d9fa2e210c0fcb5ac3fea548",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Staunton",
+                "Jolivue"
+            ],
+            "state": [
+                "Virginia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-23T07:26:53.386+03:00",
+    "updated": "2026-04-23T07:28:50.000+03:00"
+}

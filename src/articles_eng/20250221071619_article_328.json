@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "311c474d9b6d76e7690d5640ddf444cc5c5336e0",
+        "url": "https://principia-scientific.com/the-death-safety-signals-in-vaers-were-obvious-if-anyone-looked",
+        "site_full": "principia-scientific.com",
+        "site": "principia-scientific.com",
+        "site_section": "https://principia-scientific.org/feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Principia Scientific Intl.",
+        "title": "The DEATH safety signals in VAERS were obvious if anyone looked",
+        "title_full": "The DEATH safety signals in VAERS were obvious if anyone looked",
+        "published": "2025-02-09T15:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7aac8e1c-61d3-44d7-99cb-4f128204faea_967x716.png",
+        "performance_score": 0,
+        "domain_rank": 62281,
+        "domain_rank_updated": "2025-02-03T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "311c474d9b6d76e7690d5640ddf444cc5c5336e0",
+    "url": "https://principia-scientific.com/the-death-safety-signals-in-vaers-were-obvious-if-anyone-looked",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Steve Kirsh",
+    "published": "2025-02-09T15:23:00.000+02:00",
+    "title": "The DEATH safety signals in VAERS were obvious if anyone looked",
+    "text": "We’ve been told by the experts that there are so many deaths in VAERS associated with the COVID vaccine because health care professionals are required by law to report these deaths.\nAnd also, it’s because lots of old people were vaccinated and old people die more. And it’s because of COVID, not the vaccine! That’s a huge relief. I was worried it might be because the COVID vaccines were unsafe!\nHere’s what I did just to make sure the experts are right and my doctor friend is wrong… I ran a query on all deaths in 2021 for those vaccinated from the COVID vaccine for US states in those aged 18 to 50.\nI wanted to see if the profile of what they died from was just the NORMAL profile from other vaccines in VAERS, i.e., it’s just over-reporting of background events from doctors who were required to report.\nIt located 655 cases as shown above.\nDownload the Datafile to see the full list of symptoms of the deaths .\nI also look in 2021 just for comparison. 7 reports, slightly higher than in baseline years of 2018 and 2019 (5 reports a year.\nSo basically 100X higher rate of death reports from the COVID vaccine vs. all other vaccines combined.\nThen I did the same query but for every vaccine other than the COVID vaccine in 2020 to determine whether all the reports were caused by COVID and not the vaccine.\nHere’s what I found. Just 3 death reports:\n“It’s because doctors are required to report deaths associated with the COVID vaccine” Per ChatGPT:\nIn summary, healthcare providers are obligated to report deaths and other serious adverse events that they suspect may be caused by any vaccine to VAERS, not solely those related to COVID-19 vaccines.\nHere’s another datapoint: I know one doctor who said she would have made 2,000 VAERS reports on COVID vaccine injuries, but gave up after making 2 because it took so long. I asked her how many VAERS reports she’s needed to make for vaccines in the past 11 years she’s been practicing? Answer: Zero.\nFinally, can you name one doctor that would tell you that the only reason they are making their VAERS death report is because it is legally required?\nSummary OK, so 655 reports for the COVID vaccines vs. 3 reports for all other vaccines combined in 2020 which had COVID, but not the vaccines.\nSo death reports for COVID vaccines in 2021 happened at 200X more often than in 2020 for all vaccines combined.\nBut that must be safe because the CDC hasn’t raised death as a safety concern. Whew!\nI wonder what the threshold has to exceed to generate a death safety signal at the CDC? Does anyone know?\nSee more here Substack\nPlease Donate Below To Support Our Ongoing Work To Defend The Scientific Method PRINCIPIA SCIENTIFIC INTERNATIONAL, legally registered in the UK as a company incorporated for charitable purposes. Head Office: 27 Old Gloucester Street, London WC1N 3AX.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->health organisation",
+        "Health->medical condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://github.com/skirsch/covid/tree/main/VAERS",
+        "https://kirschsubstack.com/p/the-death-safety-signals-in-vaers?utm_source=substack&publication_id=548354&post_id=156579761&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=true&r=1on4vw&triedRedirect=true",
+        "https://www.github.com/skirsch/covid/tree/main/VAERS",
+        "https://www.kirschsubstack.com/p/the-death-safety-signals-in-vaers?utm_source=substack&publication_id=548354&post_id=156579761&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=true&r=1on4vw&triedRedirect=true",
+        "https://kirschsubstack.com/p/the-death-safety-signals-in-vaers"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "VAERS",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ]
+    },
+    "rating": null,
+    "crawled": "2025-02-09T15:48:11.259+02:00",
+    "updated": "2025-02-09T17:15:14.287+02:00"
+}

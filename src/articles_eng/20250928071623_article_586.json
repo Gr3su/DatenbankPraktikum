@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "216fe5624ee5252a1e83d3d5ec3f002e830a083c",
+        "url": "https://tass.com/defense/2021065",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/defense/1874551",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "New German government should focus on repairing and reactivating Nord Stream 2 — lawmaker -  Military &amp; Defense - TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Kiev pulls artillery, mortars toward Shandrigolovo in DPR - military expert",
+        "title_full": "Kiev pulls artillery, mortars toward Shandrigolovo in DPR - military expert",
+        "published": "2025-09-25T07:23:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 14623,
+        "domain_rank_updated": "2025-09-22T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "216fe5624ee5252a1e83d3d5ec3f002e830a083c",
+    "url": "https://tass.com/defense/2021065",
+    "ord_in_thread": 0,
+    "author": "TASS",
+    "published": "2025-09-25T07:23:00.000+03:00",
+    "title": "Kiev pulls artillery, mortars toward Shandrigolovo in DPR - military expert",
+    "text": "LUGANSK, September 25. /TASS/. Ukraine’s armed forces have pulled NATO artillery and mortars toward two localities near Shandrigolovo in the Donetsk People’s Republic (DPR), military expert Andrey Marochko told TASS.\nOn Tuesday, Marochko told TASS that Ukrainian troops had lost control of Shandrigolovo, with Russian fighters clearing the area in the village and on its outskirts.\n\"The deployment of self-propelled and towed howitzers and mortars of Ukrainian armed formations in areas near Krymki and Aleksandrovka in the DPR has been recorded. Ukrainian militants are actively using those weapons for firing in the Karpovka-Novosyolovka sector. They mostly use NATO-caliber 155mm munitions, and the enemy also uses Soviet calibers of 120mm and 122mm,\" he specified.\nThe enemy most often delivers strikes \"in collaboration with drones\" in the Karpovka-Novosyolovka sector, the military expert noted.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->armed conflict",
+        "Politics->international relations",
+        "Politics->political crisis",
+        "Politics->defence",
+        "Social Issue->mankind",
+        "Social Issue->discrimination",
+        "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Andrey Marochko",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "LUGANSK",
+                "sentiment": "none"
+            },
+            {
+                "name": "Karpovka-Novosyolovka",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shandrigolovo",
+                "sentiment": "none"
+            },
+            {
+                "name": "Krymki",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NATO",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "TASS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TAS",
+                        "exchange": "KLSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-25T07:34:40.726+03:00",
+    "updated": "2025-09-25T07:45:43.000+03:00"
+}

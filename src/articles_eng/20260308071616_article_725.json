@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "9c5c4bb369883e2f1a93da0277ce4b254fd23b11",
+        "url": "https://www.newsbreak.com/247sports-510071/4523311567324-last-four-in-first-four-out-santa-clara",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/mountain-view-ca-sports",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "sport",
+            "politics",
+            "crime, law and justice",
+            "under_construction",
+            "economy, business and finance",
+            "human interest",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Mountain View, CA Sports and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Last Four In First Four Out: Santa Clara - NewsBreak",
+        "title_full": "Last Four In First Four Out: Santa Clara - NewsBreak",
+        "published": "2026-03-04T22:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0kA4w2_19LnPNqk00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9c5c4bb369883e2f1a93da0277ce4b254fd23b11",
+    "url": "https://www.newsbreak.com/247sports-510071/4523311567324-last-four-in-first-four-out-santa-clara",
+    "ord_in_thread": 0,
+    "author": "247Sports",
+    "published": "2026-03-04T22:41:00.000+02:00",
+    "title": "Last Four In First Four Out: Santa Clara - NewsBreak",
+    "text": "9 hours ago Matt Norlander joins Chris Hassel and CBS Sports HQ to talk NCAA tournament bubble teams, including Santa Clara. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Sport->basketball"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Matt Norlander",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Chris Hassel",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Santa Clara",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBS Sports",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "PARA",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-05T07:30:19.779+02:00",
+    "updated": "2026-03-05T07:50:27.892+02:00"
+}

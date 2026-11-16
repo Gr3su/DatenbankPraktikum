@@ -1,0 +1,114 @@
+{
+    "thread": {
+        "uuid": "bc01fd26b5bae522ebd0b0fb96da08125f0a6b29",
+        "url": "https://www.newsbreak.com/news/4402313380235-man-seriously-injured-in-shooting-at-decatur-apartment-complex-police-say",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/lithonia-ga",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Lithonia, GA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Man seriously injured in shooting at Decatur apartment complex, police say - NewsBreak",
+        "title_full": "Man seriously injured in shooting at Decatur apartment complex, police say - NewsBreak",
+        "published": "2025-12-18T04:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0qM7Xd_17PsQc1T00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-12-14T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bc01fd26b5bae522ebd0b0fb96da08125f0a6b29",
+    "url": "https://www.newsbreak.com/news/4402313380235-man-seriously-injured-in-shooting-at-decatur-apartment-complex-police-say",
+    "ord_in_thread": 0,
+    "author": "Atlanta News First staff",
+    "published": "2025-12-18T04:45:00.000+02:00",
+    "title": "Man seriously injured in shooting at Decatur apartment complex, police say - NewsBreak",
+    "text": "By Atlanta News First staff ,\n2 hours ago ATLANTA, Ga. (Atlanta News First) — A man was seriously injured in a shooting at a DeKalb County apartment complex Wednesday night. DeKalb County police said they responded to reports of a person shot in the 2800 block of Misty Waters Drive, at Hidden Valley Apartments in unincorporated Decatur. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Crime, Law and Justice->shootings",
+        "Disaster and Accident->accident and emergency incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Atlanta News First",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Lithonia"
+            ],
+            "state": [
+                "Georgia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-18T07:17:40.289+02:00",
+    "updated": "2025-12-18T07:22:16.000+02:00"
+}

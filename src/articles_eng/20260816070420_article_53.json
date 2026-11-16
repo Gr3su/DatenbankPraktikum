@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "2ac2925f522c6ceebc4df463af14a9391f8c8104",
+        "url": "https://time.news/twitch-lets-users-opt-out-of-amazon-using-stream-data-to-train-ai-models",
+        "site_full": "time.news",
+        "site": "time.news",
+        "site_section": "https://time.news/?doing_wp_cron=1775280806.5303950309753417968750",
+        "site_categories": [],
+        "section_title": "Time News - Breaking news, world events, business, technology, health, sports and entertainment — delivering timely, accurate reporting around the clock.",
+        "site_title": "Time News - Breaking news, world events, business, technology, health, sports and entertainment — delivering timely, accurate reporting around the clock.",
+        "title": "Twitch lets users opt out of Amazon using stream data to train AI models",
+        "title_full": "Twitch lets users opt out of Amazon using stream data to train AI models",
+        "published": "2026-08-13T06:46:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 325625,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2ac2925f522c6ceebc4df463af14a9391f8c8104",
+    "url": "https://time.news/twitch-lets-users-opt-out-of-amazon-using-stream-data-to-train-ai-models",
+    "ord_in_thread": 0,
+    "author": "priyanka.patel tech editor",
+    "published": "2026-08-13T06:46:00.000+03:00",
+    "title": "Twitch lets users opt out of Amazon using stream data to train AI models",
+    "text": "Streaming platform Twitch is now using creators’ content to train Amazon’s generative AI models by default. The change, which sparked swift community backlash, forces users who wish to protect their streams, clips, and chats to manually toggle off a hard-to-find setting in their account controls.\nThe popular livestreaming platform introduced a new account setting that allows users to block Amazon from utilizing their channel data for artificial intelligence development ( Twitch is now allowing users to stop Amazon from training their generative artificial intelligence ). The toggle, located within the security and privacy tab of account settings, governs whether streams, VODs, clips, stream chats, pictures, and text feed future models built by Amazon ( Twitch users can now block their streams, VODs, clips, and chat ). Because the system applies automatically, accounts that never adjust their preferences are, by design, surrendering their content to train Amazon models ( Amazon will train on Twitch streamers’ content by default ).\nThe Default Setting and Community Backlash The quiet rollout caught creators off guard after streaming reporter Zach Bussey posted a screenshot of the newly added option on August 12. The discovery triggered intense criticism across social channels and a flood of negative comments during an official livestream hosted by Twitch executives. Viewers questioned why the data collection was enabled automatically rather than requiring affirmative permission.\nTwitch streamers can now opt out of Amazon’s generative AI training\n“If it’s opt-in, nobody would opt-in. That’s the honest answer.”\nPhoto: arstechnica.com Mike Minton, Chief Product Officer at Twitch, via BBC During the stream, Mike Minton confirmed that Amazon had been utilizing Twitch data for AI training for more than two years. When pressed about whether user content had already been scraped, Minton stated that he did not know what Amazon had utilized in past model training ( adding that he was unsure what Amazon has done in terms of model training ). Mary Kish, head of community at Twitch, acknowledged the widespread frustration but defended the platform’s reliance on certain automated technologies, noting that core safety systems run the service itself, the same way our servers and our code do ( per Twitch’s documentation ).\nApple AirPods Pro 3 Price Drop: Save $59 at Amazon for a Limited Time\nWhat the Opt-Out Covers and What Remains Active The new privacy control is specific in its application. Toggling the switch off prevents future generative AI content models from incorporating a channel’s streams, video-on-demand files, clips, and chat messages into upcoming training cycles. However, the documentation clarifies that the protection does not extend to chat messages posted in other channels that have not opted out.\nPhoto: bbc.co.uk Furthermore, turning off the setting does not stop Amazon and Twitch from using channel content for other operations governed by the privacy notice. Features designed for streamer growth, recommendations, and moderation tools like AutoMod continue to process data because they do not retain information to train generative models ( such as features that process information to deliver a service ). Twitch published examples explaining that audio data might help refine speech-to-text models to improve automated captions across both Twitch and Amazon ecosystems.\nAnker Nano 5-Port Universal Travel Adapter Drops to $20 on Amazon\nAccessing the Controls and Future Uncertainty For creators seeking to disable the feature, Twitch places the toggle under the security and privacy tab within general channel settings rather than the main creator dashboard.\nHow To \"Decline\" Twitch's Use of Your Likeness As A Blueprint for Amazon's New Gen AI Model.",
+    "summary": "The change, which sparked swift community backlash, forces users who wish to protect their streams, clips, and chats to manually toggle off a hard-to-find setting in their account controls. The Default Setting and Community Backlash The quiet rollout caught creators off guard after streaming reporter Zach Bussey posted a screenshot of the newly added option on August 12. The discovery triggered intense criticism across social channels and a flood of negative comments during an official livestream hosted by Twitch executives.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.youtube.com/embed/W0CYNNPJ1mE",
+        "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+        "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+        "https://kotaku.com/twitch-is-now-using-your-content-to-train-amazon-ai-models-and-has-hidden-the-option-to-opt-out-2000723891",
+        "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+        "https://www.unite.ai/twitch-adds-opt-out-that-keeps-streamer-content-out-of-amazon-ai-training/",
+        "https://youtube.com/embed/W0CYNNPJ1mE",
+        "https://www.bbc.co.uk/news/articles/cp30pz8d09jo",
+        "https://www.unite.ai/twitch-adds-opt-out-that-keeps-streamer-content-out-of-amazon-ai-training",
+        "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now",
+        "https://www.kotaku.com/twitch-is-now-using-your-content-to-train-amazon-ai-models-and-has-hidden-the-option-to-opt-out-2000723891",
+        "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out",
+        "https://www.techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+        "https://bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+        "https://unite.ai/twitch-adds-opt-out-that-keeps-streamer-content-out-of-amazon-ai-training/",
+        "https://www.arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Twitch",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Amazon",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "AMZN",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:05:56.385+03:00",
+    "updated": "2026-08-13T07:05:56.385+03:00"
+}

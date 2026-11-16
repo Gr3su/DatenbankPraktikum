@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "4945c3ebd25a7c8bb0a5d55b71ab1a307734887e",
+        "url": "https://newarkreporter.com/detainee-dies-after-medical-emergency-at-newark-facility-ice-confirms",
+        "site_full": "newarkreporter.com",
+        "site": "newarkreporter.com",
+        "site_section": "https://newarkreporter.com/category/business",
+        "site_categories": [],
+        "section_title": "Business Archives - Newark Reporter",
+        "site_title": "Home - Newark Reporter",
+        "title": "Detainee dies after medical emergency at Newark facility, ICE confirms",
+        "title_full": "Detainee dies after medical emergency at Newark facility, ICE confirms",
+        "published": "2026-08-03T21:07:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://s3.amazonaws.com/jnswire/jns-media/64/32/27818402/webp_eyq9g217880jsm2xiyehbfhi3zp3.webp",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4945c3ebd25a7c8bb0a5d55b71ab1a307734887e",
+    "url": "https://newarkreporter.com/detainee-dies-after-medical-emergency-at-newark-facility-ice-confirms",
+    "ord_in_thread": 0,
+    "author": "Newark Reporter",
+    "published": "2026-08-03T21:07:00.000+03:00",
+    "title": "Detainee dies after medical emergency at Newark facility, ICE confirms",
+    "text": "Detainee dies after medical emergency at Newark facility, ICE confirms\nEdwin Lopez-Cornejo, a 41-year-old citizen of El Salvador detained at Delaney Hall Detention Facility, was pronounced deceased by medical personnel at University Hospital in Newark, New Jersey, on Aug. 1.\nAccording to U.S. Immigration and Customs Enforcement (ICE), Lopez-Cornejo experienced a medical emergency while in custody. GEO facility staff and onsite medical professionals responded immediately and called 911 for emergency services. The official cause of death is pending further medical examination.\nLopez-Cornejo was initially arrested by U.S. Border Patrol for entering the United States without inspection around Aug. 13, 2006. He was ordered removed by an immigration judge on August 25, 2006, and deported to El Salvador on October 19, 2006. At an unknown later date he reentered the country illegally before being arrested again by ICE in Plainfield, New Jersey, on June 18, 2026. He had been held at Delaney Hall pending removal under a reinstated prior removal order.\nICE said that while in custody Lopez-Cornejo received proper medical care and was seen by medical professionals throughout his detention.\nConsistent with agency policy, Enforcement and Removal Operations notified the Department of Homeland Security, the ICE Office of Inspector General, and the ICE Office of Professional Responsibility via the Joint Intake Operation Center about Lopez-Cornejo’s death. The Consulate of El Salvador in Elizabeth as well as his next of kin were also informed.\nICE stated that it makes official notifications to Congress, nongovernmental organization stakeholders, and the media following reports of in-custody deaths and posts news releases with relevant details online.",
+    "summary": "Detainee dies after medical emergency at Newark facility, ICE confirms Edwin Lopez-Cornejo, a 41-year-old citizen of El Salvador detained at Delaney Hall Detention Facility, was pronounced deceased by medical personnel at University Hospital in Newark, New Jersey, on Aug. 1. GEO facility staff and onsite medical professionals responded immediately and called 911 for emergency services. At an unknown later date he reentered the country illegally before being arrested again by ICE in Plainfield, New Jersey, on June 18, 2026.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Edwin Lopez - Cornejo",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Newark",
+                "sentiment": "none"
+            },
+            {
+                "name": "Delaney Hall Detention Facility",
+                "sentiment": "none"
+            },
+            {
+                "name": "El Salvador",
+                "sentiment": "none"
+            },
+            {
+                "name": "New Jersey",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ICE",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "GEO",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "GEO",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "U. S. Immigration and Customs Enforcement",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:41:01.040+03:00",
+    "updated": "2026-08-06T07:41:01.040+03:00"
+}

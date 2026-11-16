@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "4cf7f7e72cf4fc82995f0c4e20b320d5b97ca972",
+        "url": "https://www.newsbreak.com/news/4862987384083-ccpd-holding-news-conference-on-automated-license-plate-readers",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/cape-coral-fl",
+        "site_categories": [
+            "sport",
+            "lifestyle and leisure",
+            "social issue",
+            "under_construction",
+            "politics",
+            "human interest",
+            "crime, law and justice",
+            "economy, business and finance",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Cape Coral, FL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "CCPD holding news conference on automated license plate readers - NewsBreak",
+        "title_full": "CCPD holding news conference on automated license plate readers - NewsBreak",
+        "published": "2026-09-02T17:22:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4W6hbh_1En34GCq00",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4cf7f7e72cf4fc82995f0c4e20b320d5b97ca972",
+    "url": "https://www.newsbreak.com/news/4862987384083-ccpd-holding-news-conference-on-automated-license-plate-readers",
+    "ord_in_thread": 0,
+    "author": "Weather Authority",
+    "published": "2026-09-02T17:22:00.000+03:00",
+    "title": "CCPD holding news conference on automated license plate readers - NewsBreak",
+    "text": "By Weather Authority ,\n13 hours ago CAPE CORAL, Fla. (WINK) — The Cape Coral Police Department held a news conference regarding the use of automated license plate readers. RELATED: Cape Coral police pull the plug on license plate readers one day after FDOT orders removal from state roads. On Tuesday, CCPD announced that it was... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->court"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.winknews.com/news/lee/ccpd-to-hold-news-conference-on-automated-license-plate-readers/article_4f5fd251-b82a-4d56-a177-81e9ca0590f3.html",
+        "https://winknews.com/news/lee/ccpd-to-hold-news-conference-on-automated-license-plate-readers/article_4f5fd251-b82a-4d56-a177-81e9ca0590f3.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Cape Coral",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CCPD",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Cape Coral Police Department",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak. By Weather Authority",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "FDOT",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:28:11.001+03:00",
+    "updated": "2026-09-03T07:29:42.000+03:00"
+}

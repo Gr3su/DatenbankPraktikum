@@ -1,0 +1,132 @@
+{
+    "thread": {
+        "uuid": "07ce78cb3f4905e0a790eacf7cebb6958fbe8c06",
+        "url": "https://www.newsbreak.com/news/4689375723026-pride-event-becomes-planned-protest-in-mansfield",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/ava-mo",
+        "site_categories": [
+            "under_construction",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "sport",
+            "crime, law and justice",
+            "human interest",
+            "arts, culture and entertainment",
+            "politics"
+        ],
+        "section_title": "Ava, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Pride event becomes planned protest in Mansfield - NewsBreak",
+        "title_full": "Pride event becomes planned protest in Mansfield - NewsBreak",
+        "published": "2026-06-03T18:02:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4IDVSb_1C07B96800",
+        "performance_score": 0,
+        "domain_rank": 2981,
+        "domain_rank_updated": "2026-06-01T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "07ce78cb3f4905e0a790eacf7cebb6958fbe8c06",
+    "url": "https://www.newsbreak.com/news/4689375723026-pride-event-becomes-planned-protest-in-mansfield",
+    "ord_in_thread": 0,
+    "author": "KSMU",
+    "published": "2026-06-03T18:02:00.000+03:00",
+    "title": "Pride event becomes planned protest in Mansfield - NewsBreak",
+    "text": "By KSMU ,\n13 hours ago The LGBTQ+ community in Southwest, Missouri is rallying around organizers of a pride event in rural Mansfield. Organizers say public pressure, the city’s Board of Aldermen and a suspicious booking dispute caused a Pride festival on the square to be cancelled. They now plan a protest on the square... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Politics"
+    ],
+    "topics": [
+        "Social Issue->communities",
+        "Social Issue->lgbtq",
+        "Politics->civil rights",
+        "Politics->political dissent"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Mansfield",
+                "sentiment": "none"
+            },
+            {
+                "name": "Southwest",
+                "sentiment": "none"
+            },
+            {
+                "name": "Missouri",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "KSMU",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Board of Aldermen",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Ava"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-04T07:42:52.265+03:00",
+    "updated": "2026-06-04T07:46:51.000+03:00"
+}

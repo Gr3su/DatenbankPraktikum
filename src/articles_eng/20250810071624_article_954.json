@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "c005345fdef06a37b528dc7debf1f3b974d772b5",
+        "url": "https://local.newsbreak.com/fox31-denver-1589915/4160700150476-united-airlines-says-technology-issue-that-prompted-national-ground-stop-is-resolved",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/fox31-denver-1589915",
+        "site_categories": [],
+        "section_title": "FOX31 Denver&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "United Airlines says 'technology issue' that prompted national ground stop is resolved - NewsBreak",
+        "title_full": "United Airlines says 'technology issue' that prompted national ground stop is resolved - NewsBreak",
+        "published": "2025-08-07T03:56:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/39CPPD_13YPnLeN00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c005345fdef06a37b528dc7debf1f3b974d772b5",
+    "url": "https://local.newsbreak.com/fox31-denver-1589915/4160700150476-united-airlines-says-technology-issue-that-prompted-national-ground-stop-is-resolved",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-08-07T03:56:00.000+03:00",
+    "title": "United Airlines says 'technology issue' that prompted national ground stop is resolved - NewsBreak",
+    "text": "DENVER (KDVR) — Commercial airline United Airlines was under a ground stop on Wednesday evening, impacting flights at Denver International Airport. According to the ground stop alert posted by the Federal Aviation Administration, the carrier had asked for the ground stop to be issued due to a technology issue, but didn’t say initially what that issue could be. “Due to a technology issue, we are holding United mainline flights at their departure airports. We expect additional flight delays this evening as we work through this issue. Safety is our top priority, and we’ll work with our customers to get them to their destinations,” a United Airlines spokesperson told FOX31 on Wednesday night. The airline provided a second statement about the matter at about 8:15 p.m. “We are working with customers to get them to their destinations after a technology disruption on Wednesday evening,” United Airlines said. “The underlying technology issue has been resolved, and, while we expect residual delays, our team is working to restore our normal operations.” The airline said it is treating the matter as a “controllable delay,” which means the airline paid for customer expenses such as hotels or meals where applicable. Additionally, the airline said the impacted system is called “Unimatic,” and houses information about each flight that is fed to other systems. The information shared includes those that calculate weight, balance and track flight times. The airline also shared that the outage began at 5:12 p.m. MT and was resolved within a few hours, and said the outage was unrelated to concerns about cybersecurity in the airline industry. As of 8:15 p.m. on Wednesday night, the United Airlines ground stop was still active on the FAA’s website. The FAA advisory said the stop would continue until 9 p.m. MT. The FAA also commented on the United Airlines technology issue on X. “We’re aware United experienced a technology issue disrupting their operations. Some delays may continue as they work through the recovery process,” the FAA posted . “We’ve offered full support to help address their flight backlog and remain in close contact with United.” U.S. Department of Transportation Secretary Sean Duffy said on X that he was briefed about the matter by United’s CEO and said the issue was specific to the airline’s operations and is unrelated to the broader air traffic control system. “The team at @FAANews is in close contact with their systems operations team, and we’ve offered our full support to help them clear up the flight backlog,” Duffy posted. According to flight tracking software FlightAware, the airport had 412 delays as of about 7 p.m., and 10 cancelled flights. Of those delays, 176 were attributed to United Airlines. Impacted air traffic controller facilities included Los Angeles, Salt Lake City, Washington, D.C., Denver, and other U.S. facilities, but were also impacting facilities in Canada, according to the FAA ground stop. This is a developing story. As more information is gathered, this report will be updated. For the latest news, weather, sports, and streaming video, head to FOX31 Denver.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->transport",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://kdvr.com",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=39CPPD_13YPnLeN00",
+        "https://img.particlenews.com/image.php?url=39CPPD_13YPnLeN00",
+        "https://x.com/SecDuffy/status/1953278472669040816",
+        "https://x.com/FAANews/status/1953276833757003868",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=39CPPD_13YPnLeN00",
+        "https://www.kdvr.com",
+        "https://www.x.com/SecDuffy/status/1953278472669040816",
+        "https://www.img.particlenews.com/image.php?url=39CPPD_13YPnLeN00",
+        "https://www.x.com/FAANews/status/1953276833757003868"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "International Airport",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "United Airlines",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "UAL",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Federal Aviation Administration",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-07T07:42:37.389+03:00",
+    "updated": "2025-08-07T07:43:55.000+03:00"
+}

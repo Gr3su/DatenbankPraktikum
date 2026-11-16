@@ -1,0 +1,105 @@
+{
+    "thread": {
+        "uuid": "6d3fd8941132544605472c88fd32727aae3eea31",
+        "url": "https://time.news/microsoft-ai-chip-launch-delayed-competitiveness-concerns",
+        "site_full": "time.news",
+        "site": "time.news",
+        "site_section": "https://www.time.news",
+        "site_categories": [],
+        "section_title": "TIme News - time.news",
+        "site_title": "TIme News - time.news",
+        "title": "Microsoft AI Chip Launch Delayed: Competitiveness Concerns",
+        "title_full": "Microsoft AI Chip Launch Delayed: Competitiveness Concerns",
+        "published": "2025-07-03T05:46:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://img2.quasarzone.com/editor/2025/07/03/c45dbdb23d41c1f0db416f54454957f4.png",
+        "performance_score": 0,
+        "domain_rank": 111697,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6d3fd8941132544605472c88fd32727aae3eea31",
+    "url": "https://time.news/microsoft-ai-chip-launch-delayed-competitiveness-concerns",
+    "ord_in_thread": 0,
+    "author": "Priyanka Patel",
+    "published": "2025-07-03T05:46:00.000+03:00",
+    "title": "Microsoft AI Chip Launch Delayed: Competitiveness Concerns",
+    "text": "Microsoft Scales Back AI Chip Ambitions, Shifts Focus to Intermediate Solutions Microsoft is adjusting its strategy for in-house AI chip development, opting for a phased release beginning with intermediate solutions as it navigates challenges in competing with NVIDIA’s dominance.\nMicrosoft has encountered difficulties in its pursuit of developing a fully competitive AI chip and is recalibrating its approach, according to recent reports. Like tech giants Amazon and Google , Microsoft initially aimed to reduce its reliance on the high costs associated with NVIDIA chips by creating its own processors. However, the company’s software-centric structure presented limitations, forcing a reassessment of its timeline and capabilities.\nThe shift comes as Microsoft delays the launch of its first AI chip until 2027, a move widely attributed to the intense competition from NVIDIA. Initial plans called for mass production of the “ Braga ” chip in 2025, later revised to 2026. Braga, announced in April 2024, was slated for fabrication using TSMC’s five-nanometer process.\nHowever, the delay of Braga has now raised concerns about subsequent projects, including “ Braga-R ” and “ Clea ,” potentially pushing back their timelines as well. A senior official stated that these delays stemmed from fears that the chips would lack the necessary competitiveness against NVIDIA’s latest offerings.\nTo address this, Microsoft is now developing a new AI chip, tentatively named “ Maia 280 ,” to launch between Braga and Braga-R in 2027. This new chip is expected to leverage a design that connects two Braga chips to enhance performance. Microsoft is also prioritizing power efficiency – the performance per watt – mirroring Amazon’s strategy, with executives believing the Maia 280 could deliver up to a 30% improvement over NVIDIA’s 2027 chips.\nNVIDIA, currently shipping its “ Blackwell ” GPU since 2025, with the next-generation “ Rubin ” chip on the horizon, remains the dominant force in the AI chip market. Microsoft’s long-term goal is to produce hundreds of thousands of AI chips annually.\nThe broader tech industry is actively seeking alternatives to NVIDIA. Google is reportedly beginning to offer its own AI chips to third-party infrastructure providers. Demand for custom chips is also benefiting companies like Broadcom and Marvel , though Marvel’s stock, which surged 88% by the end of 2024, has since fallen 33% in 2025 due to failing to meet investor expectations in the AI space.\nDespite the efforts of Amazon and Google, NVIDIA continues to hold a commanding market share. NVIDIA CEO Jensen Huang has publicly expressed skepticism about the ability of custom AI chip projects to quickly close the gap with NVIDIA’s technological advancements.\nNVIDIA’s stock, while experiencing a brief dip between May and June, has since rebounded strongly, regaining its position as the market leader in capitalization. This surge reflects growing market confidence in the continued demand for AI and the crucial role GPUs play in expanding global computing infrastructure.\nMicrosoft’s Chip Strategy: A Deeper Dive Following the initial report surrounding Microsoft’s AI chip ambitions, let’s delve deeper into the specifics of their shift in strategy. With the delay of their in-house designed chips, it’s crucial to understand the implications and what’s next for the tech giant. the goal is to move towards more efficient and tailored solutions to meet evolving demand. Microsoft’s focus is now shifting from a singular, all-encompassing AI chip to a multi-pronged approach. This involves the introduction of intermediate solutions like the Maia 280 , and the deployment of the Cobalt CPU , along with specialized AI accelerators, to gain a competitive foothold.\nThis multifaceted strategy aligns with the broader tech landscape, where companies are seeking to reduce reliance on a single vendor, notably NVIDIA . As mentioned earlier, companies like Amazon and Google are also working on their chip designs to have greater versatility and cost control. However, the road to self-sufficiency is paved with challenges, as displayed by Microsoft’s revisions.\nThe initial vision, according to reports, included the development of the “Braga” chip. The announcement of “Braga” in 2024, with an anticipated launch in 2025, was seen as directly challenging NVIDIA’s dominance.\nHowever, this aggressive timeline proved unrealistic. The delay of “Braga” to 2026 – and its subsequent replacement by “Maia 280” to 2027 – signifies more than just a setback; it reflects a calculated adjustment to the complex market dynamics.Microsoft’s leadership likely saw an opportunity to leverage the momentum generated by its early efforts and pivot to a more measured release cycle, allowing for iterative improvements and a more gradual integration of their own silicon into their Azure cloud infrastructure . the Maia 280 is positioned as a bridging solution, offering enhanced performance before the more enterprising designs, such as those utilizing a future “Braga-R” chip, come to market.\nthe strategic shift also emphasizes power efficiency . Microsoft aims to deliver better performance per watt. This approach echoes the strategy of othre cloud providers and could be a significant differentiator.\nKey Players and Their Roles: Microsoft: Design and deployment of Azure AI chips for cloud services. NVIDIA: Dominant provider of high-performance GPUs, constantly innovating. TSMC: Semiconductor manufacturer, crucial for chip fabrication. Amazon and Google: Competitors both developing their own chip solutions. The Impact of the Cobalt CPU In addition to the specialized AI chips, Microsoft also unveiled its Cobalt CPU , an Arm-based processor. The introduction of Cobalt signifies Microsoft’s moves towards a broader silicon strategy designed to address general-purpose computing workloads within its Azure cloud environment. This diversification strengthens Microsoft’s infrastructure and gives them more control over their overall performance.\nWhat’s Next for microsoft’s Chip Development? The goal seems to be gaining a more competitive position in the AI chip market by leveraging a combination of internal chip designs and external partnerships.\nContinued Iteration: Constant improvements to the “Maia” series and other in-house designs. Focus on Software Integration: Optimization of software and cloud services to leverage existing chip capabilities. Strategic Partnerships: Collaboration with external vendors for chip fabrication and other vital elements. Is Microsoft abandoning its AI ambitions? Absolutely not. It’s a strategic recalibration. Microsoft is adjusting its focus to ensure it delivers superior performance and value to its clients. will Microsoft’s chips eventually rival NVIDIA’s? This is the ultimate objective.However, the immediate strategy is to establish a strong presence with intermediate solutions while continuing to research and develop superior chips.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.youtube.com/embed/YZzROmj5Ols",
+        "https://portal.azure.com/?l=ja.jp",
+        "https://youtube.com/embed/YZzROmj5Ols",
+        "https://www.portal.azure.com/?l=ja.jp",
+        "https://portal.azure.com/"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Microsoft",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Google",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "GOOG",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "NVIDIA",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "TSMC",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T07:28:12.455+03:00",
+    "updated": "2025-07-03T07:28:12.455+03:00"
+}

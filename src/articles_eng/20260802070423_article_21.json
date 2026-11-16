@@ -1,0 +1,153 @@
+{
+    "thread": {
+        "uuid": "e3136596cef5ef7db8fd3e63da4dffd66544344d",
+        "url": "https://www.newsbreak.com/news/4798862035564-suspect-charged-in-fatal-sunday-montgomery-shooting",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/montgomery-al",
+        "site_categories": [
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "social issue",
+            "under_construction",
+            "crime, law and justice",
+            "economy, business and finance",
+            "sport",
+            "human interest",
+            "politics",
+            "disaster and accident"
+        ],
+        "section_title": "Montgomery, AL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Suspect charged in fatal Sunday Montgomery shooting - NewsBreak",
+        "title_full": "Suspect charged in fatal Sunday Montgomery shooting - NewsBreak",
+        "published": "2026-07-30T02:48:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4T34Cr_1DlRO4ow00",
+        "performance_score": 0,
+        "domain_rank": 3090,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e3136596cef5ef7db8fd3e63da4dffd66544344d",
+    "url": "https://www.newsbreak.com/news/4798862035564-suspect-charged-in-fatal-sunday-montgomery-shooting",
+    "ord_in_thread": 0,
+    "author": "WSFA 12 News Staff",
+    "published": "2026-07-30T02:48:00.000+03:00",
+    "title": "Suspect charged in fatal Sunday Montgomery shooting - NewsBreak",
+    "text": "By WSFA 12 News Staff ,\n4 hours ago MONTGOMERY, Ala. (WSFA) - A suspect has been arrested in connection with a shooting that killed a Montgomery man Sunday afternoon, according to the Montgomery Police Department. Cedric Nixon, 19, was charged with murder. MPD responded to the 4200 block of Amherst Drive on Sunday at 4:06 p.m. about a... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wsfa.com/2026/07/29/suspect-charged-fatal-sunday-montgomery-shooting/",
+        "https://wsfa.com/2026/07/29/suspect-charged-fatal-sunday-montgomery-shooting/",
+        "https://www.wsfa.com/2026/07/29/suspect-charged-fatal-sunday-montgomery-shooting"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Montgomery",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Cedric Nixon",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Montgomery",
+                "sentiment": "none"
+            },
+            {
+                "name": "Amherst Drive",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WSFA",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "MPD",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Montgomery Police Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:05:11.160+03:00",
+    "updated": "2026-07-30T07:15:59.000+03:00"
+}

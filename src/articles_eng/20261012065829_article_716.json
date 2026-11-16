@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "04af40170f266eaa45fcee2e535efe3b75b08095",
+        "url": "https://www.newsbreak.com/news/4933784889928-police-arrest-3-in-string-of-downtown-austin-robberies-that-injured-army-service-member",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/austin-tx",
+        "site_categories": [
+            "under_construction",
+            "science and technology",
+            "politics",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "sport",
+            "economy, business and finance"
+        ],
+        "section_title": "Austin, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Police arrest 3 in string of downtown Austin robberies that injured Army service member - NewsBreak",
+        "title_full": "Police arrest 3 in string of downtown Austin robberies that injured Army service member - NewsBreak",
+        "published": "2026-10-08T22:56:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1jMDEZ_1FvOJ3Ct00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:23:31.756+03:00"
+        }
+    },
+    "uuid": "04af40170f266eaa45fcee2e535efe3b75b08095",
+    "url": "https://www.newsbreak.com/news/4933784889928-police-arrest-3-in-string-of-downtown-austin-robberies-that-injured-army-service-member",
+    "ord_in_thread": 0,
+    "author": "Erin Slaughter",
+    "published": "2026-10-08T22:56:00.000+03:00",
+    "title": "Police arrest 3 in string of downtown Austin robberies that injured Army service member - NewsBreak",
+    "text": "By Erin Slaughter ,\n8 hours ago Austin, Texas — Three suspects are now in custody after a string of armed robberies in downtown Austin last month that left an Army service member seriously hurt. Police say the robberies happened around 2:25 a.m. on September 13 in the 500 block of East Sixth Street. Officers say a teenager took a gold necklace from a woman walking in the area, then pointed a handgun at her when she tried to get it back. A friend of the teenager threatened to shoot her. Read full article\n1",
+    "summary": "8 hours ago Austin, Texas — Three suspects are now in custody after a string of armed robberies in downtown Austin last month that left an Army service member seriously hurt. Police say the robberies happened around 2:25 a.m. on September 13 in the 500 block of East Sixth Street. Officers say a teenager took a gold necklace from a woman walking in the area, then pointed a handgun at her when she tried to get it back. A friend of the teenager threatened to shoot her. Read full article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->assault",
+        "Crime, Law and Justice->homicide",
+        "Crime, Law and Justice->robbery and theft"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://cbsaustin.com/news/local/police-arrest-3-in-string-of-downtown-austin-robberies-that-injured-army-service-member",
+        "https://www.cbsaustin.com/news/local/police-arrest-3-in-string-of-downtown-austin-robberies-that-injured-army-service-member"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Erin Slaughter",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Texas",
+                "sentiment": "none"
+            },
+            {
+                "name": "Austin",
+                "sentiment": "none"
+            },
+            {
+                "name": "East Sixth Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Army",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:23:31.756+03:00",
+    "updated": "2026-10-09T07:25:20.000+03:00",
+    "related_articles": null
+}

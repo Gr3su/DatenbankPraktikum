@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "ccf333c1dbf100934446cd995f57d749179c0a9d",
+        "url": "https://www.newsbreak.com/news/4498086186957-winter-storm-warning-prompts-school-closures-delays",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/karlstad-mn",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Karlstad, MN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Winter storm warning prompts school closures, delays - NewsBreak",
+        "title_full": "Winter storm warning prompts school closures, delays - NewsBreak",
+        "published": "2026-02-18T02:43:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1QPplf_18xN5pqm00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ccf333c1dbf100934446cd995f57d749179c0a9d",
+    "url": "https://www.newsbreak.com/news/4498086186957-winter-storm-warning-prompts-school-closures-delays",
+    "ord_in_thread": 0,
+    "author": "Jessica Bringe",
+    "published": "2026-02-18T02:43:00.000+02:00",
+    "title": "Winter storm warning prompts school closures, delays - NewsBreak",
+    "text": "By Jessica Bringe ,\n1 days ago GRAND FORKS, N.D. (Valley News Live) - A winter storm warning is prompting the Grand Forks Public School District to transition to remote learning on Wednesday. In a post to families and students, the district said it plans to host a remote learning day and has already scheduled an early release. Read full article\nRead in NewsBreak 2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather",
+        "Education"
+    ],
+    "topics": [
+        "Weather->weather warning",
+        "Education->school"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jessica Bringe",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Grand Forks",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Valley News Live",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Karlstad"
+            ],
+            "state": [
+                "Minnesota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:24:47.323+02:00",
+    "updated": "2026-02-19T07:33:33.000+02:00"
+}

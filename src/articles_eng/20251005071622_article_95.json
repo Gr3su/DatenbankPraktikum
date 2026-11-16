@@ -1,0 +1,126 @@
+{
+    "thread": {
+        "uuid": "5cec5fb3df13221162ea747e86574c3f3377408f",
+        "url": "https://www.fox9.com/news/state-lawmaker-pushing-change-after-white-bear-lake-high-school-scandal",
+        "site_full": "www.fox9.com",
+        "site": "fox9.com",
+        "site_section": "https://fox9.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News | FOX 9 Minneapolis-St. Paul",
+        "site_title": "FOX 9 Minneapolis-St. Paul | Local News, Weather, and Live Streams | KMSP-TV",
+        "title": "State lawmaker pushing for change after White Bear Lake High School scandal | FOX 9 Minneapolis-St. Paul",
+        "title_full": "State lawmaker pushing for change after White Bear Lake High School scandal | FOX 9 Minneapolis-St. Paul",
+        "published": "2025-10-02T05:53:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2025/10/1280/720/tz_b_-white-bear-lake-student_00.00.03.08.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 10264,
+        "domain_rank_updated": "2025-09-29T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5cec5fb3df13221162ea747e86574c3f3377408f",
+    "url": "https://www.fox9.com/news/state-lawmaker-pushing-change-after-white-bear-lake-high-school-scandal",
+    "ord_in_thread": 0,
+    "author": "Babs Santos",
+    "published": "2025-10-02T05:53:00.000+03:00",
+    "title": "State lawmaker pushing for change after White Bear Lake High School scandal | FOX 9 Minneapolis-St. Paul",
+    "text": "The Brief A 22-year-old man used fake documents to enroll at White Bear Lake High School as a 17-year-old. Now, State Rep. Elliott Engen is calling for the superintendent’s resignation and stricter ID verification laws. The suspect has a criminal record, and police are pursuing additional charges. WHITE BEAR LAKE, Minn. (FOX 9) - A Minnesota lawmaker is calling for accountability and legislative reform following revelations that a 22-year-old man used false documents to enroll at White Bear Lake Area High School while posing as a 17-year-old student.\nIn a letter sent this week to White Bear Lake Area Schools Superintendent Wayne Kazmierczak, Rep. Elliott Engen (R-36A) urged the superintendent to resign, citing what he called a \"catastrophic lapse\" in basic enrollment verification that enabled the man to allegedly commit illegal sexual acts against a minor.\nNow, White Bear Lake authorities are investigating criminal charges, including fraud, forgery, and unlawful conduct involving minors.\nThe district says it followed its standard enrollment procedures, which include requiring a birth certificate, driver’s license or utility bill, and immunization records. However, school officials admit the man used fraudulent documents and a false identity to enroll.\nRep. Engen says the situation reflects a breakdown in the district’s enrollment vetting and believes stronger legislation is needed to prevent this from happening again elsewhere. He is advocating for standardized statewide identity verification protocols and the removal of current exemptions for migrant students.\nRep. Engen adds that he has already started discussions with colleagues about potential legislative action.\n\"I know that White Bear Lake has asserted that they did everything by the book, but if it’s done by the book and yet you have a 22-year-old posing as a 17-year-old, something went wrong,\" Rep. Engen said.\nMore details about the suspect The individual, 22-year-old Kelvin Luebke, was known to students for about a month as \"KJ Perry,\" a 17-year-old member of the football team.\nThe backstory:\nHe was previously convicted for sending explicit images to a 15-year-old and was reportedly adopted from Liberia at age five. He had been living in the area with caretakers, who told FOX 9 he may suffer from age dysphoria and possesses two birth certificates.\nForest Lake confirms enrollment Dig deeper:\nFOX 9 has confirmed that Luebke was previously enrolled as a student-athlete at Forest Lake Area High School from January 2022 to January 2023.\nWhite Bear Lake",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Education",
+        "Social Issue",
+        "Politics"
+    ],
+    "topics": [
+        "Education->school",
+        "Education->students",
+        "Education->educational grading",
+        "Social Issue->teenagers",
+        "Social Issue->social problem",
+        "Social Issue->social services",
+        "Politics->political process",
+        "Politics->education policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Wayne Kazmierczak",
+                "sentiment": "none"
+            },
+            {
+                "name": "Elliott Engen",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Area",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "White Bear Lake High School",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Minneapolis",
+                "St. Paul"
+            ],
+            "state": [
+                "Minnesota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-02T07:19:03.113+03:00",
+    "updated": "2025-10-02T07:26:24.000+03:00"
+}

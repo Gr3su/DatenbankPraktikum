@@ -1,0 +1,117 @@
+{
+    "thread": {
+        "uuid": "a6b84e64b21233060a99fc6391e6a6825daa24cd",
+        "url": "https://www.newsbreak.com/news/4412588025880-pritzker-appoints-kristi-jones-to-assistant-director-post-at-idoa",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/springfield-il",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Springfield, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Pritzker Appoints Kristi Jones to Assistant Director Post at IDOA - NewsBreak",
+        "title_full": "Pritzker Appoints Kristi Jones to Assistant Director Post at IDOA - NewsBreak",
+        "published": "2025-12-24T20:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0MNKKE_17aDfT2t00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a6b84e64b21233060a99fc6391e6a6825daa24cd",
+    "url": "https://www.newsbreak.com/news/4412588025880-pritzker-appoints-kristi-jones-to-assistant-director-post-at-idoa",
+    "ord_in_thread": 0,
+    "author": "chicagotimesmagazine.com",
+    "published": "2025-12-24T20:00:00.000+02:00",
+    "title": "Pritzker Appoints Kristi Jones to Assistant Director Post at IDOA - NewsBreak",
+    "text": "11 hours ago On December 23, Kristi Jones was appointed acting Assistant Director of the Illinois Department of Agriculture by Governor JB Pritzker, a move that will require confirmation by the Illinois Senate. The department announced the appointment, noting it comes as 2026 begins recognition of women in agriculture both locally and internationally. Read full article\nRead in NewsBreak 2",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government department",
+        "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kristi Jones",
+                "sentiment": "negative"
+            },
+            {
+                "name": "JB Pritzker",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Illinois Senate",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Springfield"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-25T07:51:53.039+02:00",
+    "updated": "2025-12-25T07:52:33.000+02:00"
+}

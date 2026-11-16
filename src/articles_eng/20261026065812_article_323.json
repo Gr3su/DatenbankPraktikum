@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "2f51efd98f4f964c659301abdc29a7be2137fd50",
+        "url": "https://www.newsbreak.com/news/4961982960685-baltimore-police-arrest-three-after-protest-at-headquarters",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/woodlawn-md",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "under_construction",
+            "politics",
+            "crime, law and justice",
+            "sport"
+        ],
+        "section_title": "Woodlawn, MD Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Baltimore police arrest three after protest at headquarters - NewsBreak",
+        "title_full": "Baltimore police arrest three after protest at headquarters - NewsBreak",
+        "published": "2026-10-23T04:51:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2EXcWn_1GMoK8Nb00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T07:08:28.419+03:00"
+        }
+    },
+    "uuid": "2f51efd98f4f964c659301abdc29a7be2137fd50",
+    "url": "https://www.newsbreak.com/news/4961982960685-baltimore-police-arrest-three-after-protest-at-headquarters",
+    "ord_in_thread": 0,
+    "author": "WBFF STAFF",
+    "published": "2026-10-23T04:51:00.000+03:00",
+    "title": "Baltimore police arrest three after protest at headquarters - NewsBreak",
+    "text": "By WBFF STAFF ,\n2 hours ago BALTIMORE (WBFF) — A protest outside Baltimore Police Headquarters on Thursday evening ended with three arrests after some protestors began beating on the building, Baltimore police said. A BPD spokesperson said officers were aware of the planned protest being held at the headquarters Thursday evening. About 15 to 20... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue"
+    ],
+    "topics": [
+        "Social Issue->social services",
+        "Social Issue->discrimination",
+        "Social Issue->racism"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://foxbaltimore.com/news/local/three-arrested-following-protest-at-baltimore-police-headquarters",
+        "https://www.foxbaltimore.com/news/local/three-arrested-following-protest-at-baltimore-police-headquarters"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Baltimore",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WBFF",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "BPD",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Woodlawn",
+                "Woodland"
+            ],
+            "state": [
+                "Maryland"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:08:28.419+03:00",
+    "updated": "2026-10-23T07:10:44.000+03:00",
+    "related_articles": null
+}

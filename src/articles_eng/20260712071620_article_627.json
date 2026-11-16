@@ -1,0 +1,148 @@
+{
+    "thread": {
+        "uuid": "4255e76350b37f85c8389ed2b3479b7b83af8196",
+        "url": "https://www.newsbreak.com/news/4758511115299-county-mulls-data-center-solar-farm-moratorium",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/liberty-ky",
+        "site_categories": [
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "human interest",
+            "social issue",
+            "under_construction",
+            "lifestyle and leisure",
+            "politics",
+            "disaster and accident",
+            "economy, business and finance",
+            "sport"
+        ],
+        "section_title": "Liberty, KY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "County mulls data center, solar farm moratorium - NewsBreak",
+        "title_full": "County mulls data center, solar farm moratorium - NewsBreak",
+        "published": "2026-07-08T08:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4255e76350b37f85c8389ed2b3479b7b83af8196",
+    "url": "https://www.newsbreak.com/news/4758511115299-county-mulls-data-center-solar-farm-moratorium",
+    "ord_in_thread": 0,
+    "author": "Charlie VanLeuven cvanleuven@caseynews.net",
+    "published": "2026-07-08T08:00:00.000+03:00",
+    "title": "County mulls data center, solar farm moratorium - NewsBreak",
+    "text": "By Charlie VanLeuven cvanleuven@caseynews.net ,\n23 hours ago The Casey County Fiscal Court in a special called meeting June 29 unanimously approved a motion authorizing Judge/Executive Randy Dial and County Attorney Tom Weddle to explore possible orders to prevent the sale of farmland to be used for data centers or solar farms. Dial said that the amount of... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.pmg-ky2.com/casey/news/county-mulls-data-center-solar-farm-moratorium/article_0b28e1fc-454a-5c44-a670-c6b7d9d2f8a9.html",
+        "https://pmg-ky2.com/casey/news/county-mulls-data-center-solar-farm-moratorium/article_0b28e1fc-454a-5c44-a670-c6b7d9d2f8a9.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Charlie VanLeuven",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Tom Weddle",
+                "sentiment": "none"
+            },
+            {
+                "name": "Randy Dial",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Casey County Fiscal Court",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Dial",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Liberty"
+            ],
+            "state": [
+                "Kentucky"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:31:03.961+03:00",
+    "updated": "2026-07-09T07:33:42.000+03:00"
+}

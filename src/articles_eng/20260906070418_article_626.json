@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "bf1f7d395ffd125d82175627c61adbaa7506e2cb",
+        "url": "https://www.ntd.com/ntdplus/former-navy-officer-says-chinese-ships-cranes-tractors-evs-could-contain-spying-devices_1170294.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://api.ntd.com/feed",
+        "site_categories": [
+            "health",
+            "crime, law and justice",
+            "politics",
+            "media",
+            "war, conflict and unrest",
+            "economy, business and finance",
+            "real_estate",
+            "architects",
+            "science and technology",
+            "disaster and accident"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "Former Navy Officer Says Chinese Ships, Cranes, Tractors, EVs Could Contain 'Spying Devices'",
+        "title_full": "Former Navy Officer Says Chinese Ships, Cranes, Tractors, EVs Could Contain 'Spying Devices'",
+        "published": "2026-09-03T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2023/05/id918539-GettyImages-1244241646-1-e1682112258364-690x400.jpg",
+        "performance_score": 0,
+        "domain_rank": 67735,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bf1f7d395ffd125d82175627c61adbaa7506e2cb",
+    "url": "https://www.ntd.com/ntdplus/former-navy-officer-says-chinese-ships-cranes-tractors-evs-could-contain-spying-devices_1170294.html",
+    "ord_in_thread": 0,
+    "author": "Toya Bayar",
+    "published": "2026-09-03T06:59:00.000+03:00",
+    "title": "Former Navy Officer Says Chinese Ships, Cranes, Tractors, EVs Could Contain 'Spying Devices'",
+    "text": "Trailer\nFormer Navy Officer Says Chinese Ships, Cranes, Tractors, EVs Could Contain ‘Spying Devices’\nU.S. officials are accusing China's state-owned shipping giant COSCO of using concealed equipment on commercial ships to collect military communications and intelligence near U.S. coastlines....\nRead More",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->regulatory authority",
+        "Politics->defence",
+        "Politics->espionage and intelligence",
+        "Politics->political crisis",
+        "Politics->international relations",
+        "Politics->non-governmental organisation",
+        "Politics->political dissent",
+        "Politics->national government",
+        "Economy, Business and Finance->business information",
+        "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "U. S.",
+                "sentiment": "none"
+            },
+            {
+                "name": "China",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "COSCO",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:25:46.259+03:00",
+    "updated": "2026-09-03T07:30:30.000+03:00"
+}

@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "c04b7d59443484683d375498e9db213db8d1cca0",
+        "url": "https://www.newsbreak.com/news/4545697356880-meridian-woman-killed-in-saturday-afternoon-car-crash-identified-by-ada-county-coroner",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/boise-id",
+        "site_categories": [
+            "lifestyle and leisure",
+            "human interest",
+            "crime, law and justice",
+            "sport",
+            "under_construction",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "politics"
+        ],
+        "section_title": "Boise, ID Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Meridian woman killed in Saturday afternoon car crash, identified by Ada County Coroner - NewsBreak",
+        "title_full": "Meridian woman killed in Saturday afternoon car crash, identified by Ada County Coroner - NewsBreak",
+        "published": "2026-03-18T00:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3I0mnz_19iLSiSh00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c04b7d59443484683d375498e9db213db8d1cca0",
+    "url": "https://www.newsbreak.com/news/4545697356880-meridian-woman-killed-in-saturday-afternoon-car-crash-identified-by-ada-county-coroner",
+    "ord_in_thread": 0,
+    "author": "Yahoo!",
+    "published": "2026-03-18T00:14:00.000+02:00",
+    "title": "Meridian woman killed in Saturday afternoon car crash, identified by Ada County Coroner - NewsBreak",
+    "text": "1 days ago The woman who died in a car crash on Saturday afternoon has been identified by the Ada County coroner as Shirley Lovett, of Meridian. Read full article\nRead in NewsBreak 2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Shirley Lovett",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Ada County",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Meridian",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Boise"
+            ],
+            "state": [
+                "Idaho"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:17:00.945+02:00",
+    "updated": "2026-03-19T07:17:42.000+02:00"
+}

@@ -1,0 +1,167 @@
+{
+    "thread": {
+        "uuid": "0c919e5d31172e6efbb30fd7e0f8225ed0b9c944",
+        "url": "https://www.newsbreak.com/news/4685933551660-fur-feathers-landscape-winning-photos",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/blacksburg-va",
+        "site_categories": [
+            "under_construction",
+            "human interest",
+            "politics",
+            "lifestyle and leisure",
+            "sport",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "crime, law and justice"
+        ],
+        "section_title": "Blacksburg, VA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Fur, feathers, landscape winning photos - NewsBreak",
+        "title_full": "Fur, feathers, landscape winning photos - NewsBreak",
+        "published": "2026-06-02T15:31:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1wHFyD_1Bxeg2yP00",
+        "performance_score": 0,
+        "domain_rank": 2981,
+        "domain_rank_updated": "2026-06-01T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0c919e5d31172e6efbb30fd7e0f8225ed0b9c944",
+    "url": "https://www.newsbreak.com/news/4685933551660-fur-feathers-landscape-winning-photos",
+    "ord_in_thread": 0,
+    "author": "NRV Citizen",
+    "published": "2026-06-02T15:31:00.000+03:00",
+    "title": "Fur, feathers, landscape winning photos - NewsBreak",
+    "text": "By NRV Citizen ,\n1 days ago A photo by Joseph Pack of Fairlawn of four-horned Jacob sheep in Floyd won The Radford Photo Club’s May animal theme challenge. David Notter of Blacksburg and Joyce Sims of Radford tied for first in the open theme photo contest. Notter’s photo is of Spider Web Arch on Hunt’s Mesa on the Utah-Arizona border. Sims’ photo caught a bluebird outside a cow-face nest feeding a baby. Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Arts, Culture and Entertainment",
+        "Lifestyle and Leisure",
+        "Environment"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->club and association",
+        "Lifestyle and Leisure->hobby",
+        "Environment->animal"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jacob",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Joseph Pack",
+                "sentiment": "negative"
+            },
+            {
+                "name": "David Notter",
+                "sentiment": "none"
+            },
+            {
+                "name": "Joyce Sims",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Hunt",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mesa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Radford",
+                "sentiment": "none"
+            },
+            {
+                "name": "Utah",
+                "sentiment": "none"
+            },
+            {
+                "name": "Arizona",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NRV Citizen",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Radford Photo Club",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Blacksburg"
+            ],
+            "state": [
+                "Virginia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-04T07:21:00.460+03:00",
+    "updated": "2026-06-04T07:29:41.000+03:00"
+}

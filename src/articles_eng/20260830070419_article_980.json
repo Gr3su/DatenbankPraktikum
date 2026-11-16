@@ -1,0 +1,112 @@
+{
+    "thread": {
+        "uuid": "f2beaa37294db84ada7193a047ab68c9d235c77d",
+        "url": "https://techstartups.com/2026/08/27/accuknox-launches-agentz-to-help-enterprises-build-run-and-govern-ai-agents-at-scale/",
+        "site_full": "techstartups.com",
+        "site": "techstartups.com",
+        "site_section": "https://techstartups.com/feed/",
+        "site_categories": [
+            "science and technology",
+            "tech",
+            "media",
+            "economy, business and finance"
+        ],
+        "section_title": "Tech Startups",
+        "site_title": "Tech Startups | Startups &amp; Technology News Today",
+        "title": "AccuKnox Launches AgentZ to Help Enterprises Build, Run, and Govern AI Agents at Scale",
+        "title_full": "AccuKnox Launches AgentZ to Help Enterprises Build, Run, and Govern AI Agents at Scale",
+        "published": "2026-08-27T07:30:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://techstartups.com/wp-content/uploads/2026/08/agentz-768x432_1787631829YqVBJAuyIB.jpeg",
+        "performance_score": 0,
+        "domain_rank": 109464,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f2beaa37294db84ada7193a047ab68c9d235c77d",
+    "url": "https://techstartups.com/2026/08/27/accuknox-launches-agentz-to-help-enterprises-build-run-and-govern-ai-agents-at-scale/",
+    "ord_in_thread": 0,
+    "author": "CyberNewswire",
+    "published": "2026-08-27T07:30:00.000+03:00",
+    "title": "AccuKnox Launches AgentZ to Help Enterprises Build, Run, and Govern AI Agents at Scale",
+    "text": "Menlo Park, California, USA, August 27th, 2026, CyberNewswire\nAccuKnox today announced the launch of AgentZ, a platform for building, running, and governing AI agents across teams and workflows. AgentZ brings the agent, its execution environment, tools, workflows, permissions, and governance into a single platform, so organizations can move agents from experiment to production without assembling and maintaining a stack of disconnected components.\nAgentZ consolidates those pieces. The platform is built on a straightforward model of Organizations, Workspaces, Agents, Workflows, and Sandboxes, with users and roles sitting across that structure to provide centralized administration and access control. A workflow can use an agent for computation, a sandbox for isolation, skills for reusable capabilities, credentials injected at runtime, and triggers that determine when the workflow runs.\nKey Capabilities\nNo model lock-in. AgentZ is model-agnostic, with support for OpenAI, Claude, Grok, and other models. Teams can change the underlying LLM without rebuilding the surrounding agent infrastructure, because agents, workflows, skills, and runtime controls are kept separate from the model. Isolated execution environments. Every agent runs inside its own sandbox with a dedicated computer and filesystem. Teams configure vCPU and RAM, filesystem read and write access, domain whitelisting, package management, environment variables, and network access, creating a defined boundary around where an agent can execute and what it can touch. Availability\nThe platform is hosted and start with a free plan at https://agentzharness.ai and the repository is available at https://github.com/accuknox/agentZ . On-prem and air-gapped deployments are available for organizations with infrastructure or data residency requirements.\nVisibility into what actually happened. An agent’s final response does not show the full execution path. AgentZ provides visual workflow graphs, execution traces, audit logs, workflow steps, agent activity, and tool interactions, so teams can debug and review a run rather than infer it from the output. Structure for multiple teams. Organizations provide centralized administration while workspaces isolate teams and use cases. Users inherit access through roles, shared resources are managed centrally, and enterprise deployments can delegate computation at the workspace level. Deployment on the organization’s terms. AgentZ supports SaaS, on-prem, and air-gapped deployment, alongside bring-your-own-LLM, giving teams control over both where the platform runs and which models power their agents. Agentic AI platform with security built in\nAccuKnox is positioning AgentZ as an AI platform with security built in rather than a security product that happens to use AI. Security is central to the design, through zero-trust controls, tool-level permissions, and sandboxed execution, but it is not the boundary of the product.\nThe same platform supports a security investigation workflow, a sales intelligence workflow, a competitive intelligence workflow, an engineering automation workflow, an HR process, or recurring finance and operations tasks. The launch roadmap spans security, sales, marketing, engineering, HR, finance, healthcare, education, and operations.\nThe core difference is defined around four areas: model-agnostic, deploy anywhere, secure by default, and built for organizations.\n“ An agent that can call tools is not the hard part. The hard part is deciding what it is allowed to touch, containing the blast radius when it gets something wrong, and being able to reconstruct the run afterwards. AgentZ puts sandboxing, tool-level permissions, and runtime credential injection underneath the workflow itself, so every team is not rebuilding those controls from scratch ,” – said Rahul Jadhav, co-founder and CTO, AccuKnox.\n“ Most organizations are past the demo phase and are now asking a harder question, which is whether they can let agents do real work inside the business. That takes structure, not another framework,” said Nat Natraj, co-founder and CEO, AccuKnox. “AgentZ gives teams a place to build agents, run them under controls a security team will actually accept, and manage them across the organization, using their own models and their own infrastructure .” – said Nat Natraj, co-founder and CEO, AccuKnox.\nAbout AccuKnox\nAccuKnox delivers a Zero Trust Security platform for AI, API, Application, Cloud, and Supply Chain Security. Incubated out of R&D innovator, SRI International (Stanford Research Institute), AccuKnox holds seminal Zero Trust security patents and is backed by top-tier investors including National Grid Partners, Dolby Family Ventures, Avanta Ventures, and the 5G Open Innovation Lab. https://accuknox.com\nContact Syed Hadi\nProduct Marketing & Partnerships\nAccuKnox\nsyed.hadi@accuknox.com",
+    "summary": "AccuKnox Launches AgentZ to Help Enterprises Build, Run, and Govern AI Agents at Scale Menlo Park, California, USA, August 27th, 2026, CyberNewswire AccuKnox today announced the launch of AgentZ, a platform for building, running, and governing AI agents across teams and workflows. The platform is built on a straightforward model of Organizations, Workspaces, Agents, Workflows, and Sandboxes, with users and roles sitting across that structure to provide centralized administration and access control. Users inherit access through roles, shared resources are managed centrally, and enterprise deployments can delegate computation at the workspace level.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science",
+        "Science and Technology->scientific research",
+        "Economy, Business and Finance->business service",
+        "Economy, Business and Finance->computing and information technology",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->business information"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://accuknox.com/",
+        "https://agentzharness.ai/",
+        "https://github.com/accuknox/agentZ",
+        "https://accuknox.com/platform/agentz",
+        "https://accuknox.com",
+        "https://www.accuknox.com/platform/agentz",
+        "https://agentzharness.ai",
+        "https://www.github.com/accuknox/agentZ",
+        "https://www.agentzharness.ai/",
+        "https://www.accuknox.com/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:41:38.799+03:00",
+    "updated": "2026-08-27T07:53:35.043+03:00"
+}

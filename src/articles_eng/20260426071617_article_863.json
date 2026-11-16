@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "db97a74b6b9860c637cc826b4ee0d1258ee939a0",
+        "url": "https://www.newsbreak.com/news/4607238845020-update-suspect-in-custody-following-large-police-presence-on-liberty-township-road",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/trout-run-pa",
+        "site_categories": [
+            "human interest",
+            "under_construction",
+            "sport",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "politics",
+            "crime, law and justice",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Trout Run, PA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "UPDATE: Suspect in custody following large police presence on Liberty Township road - NewsBreak",
+        "title_full": "UPDATE: Suspect in custody following large police presence on Liberty Township road - NewsBreak",
+        "published": "2026-04-22T23:22:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3k6FYn_1AhM7OQn00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "db97a74b6b9860c637cc826b4ee0d1258ee939a0",
+    "url": "https://www.newsbreak.com/news/4607238845020-update-suspect-in-custody-following-large-police-presence-on-liberty-township-road",
+    "ord_in_thread": 0,
+    "author": "Zach Mosca, Multimedia Producer,",
+    "published": "2026-04-22T23:22:00.000+03:00",
+    "title": "UPDATE: Suspect in custody following large police presence on Liberty Township road - NewsBreak",
+    "text": "By Zach Mosca, Multimedia Producer, Sarah Robles, Multimedia Producer ,\n8 hours ago LIBERTY - A stretch of a Liberty Township roadway was closed due to a heavy police presence in the area. Liberty Police Chief Ray Buhala tells 21 News that officers were conducting a search warrant with drug task force agents on the 2000 block of Pleasant Valley Road. It was... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sarah Robles",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Zach Mosca",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ray Buhala",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Liberty Township",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pleasant Valley Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Liberty Police",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "21 News",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Rowes Run"
+            ],
+            "state": [
+                "Pennsylvania"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-23T07:34:01.654+03:00",
+    "updated": "2026-04-23T10:11:41.000+03:00"
+}

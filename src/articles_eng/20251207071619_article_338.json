@@ -1,0 +1,151 @@
+{
+    "thread": {
+        "uuid": "836b51af1cee51a932f8a8d1b4a851e8e6757cb1",
+        "url": "https://www.news18.com/business/pan-aadhaar-link-deadline-december-31-is-last-date-to-avoid-inoperative-pan-check-what-to-do-ws-l-9748812.html",
+        "site_full": "www.news18.com",
+        "site": "news18.com",
+        "site_section": "https://www.news18.com/",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "News: Get Latest News Today, Breaking News, Top News Headlines, India and World News | News18",
+        "site_title": "News: Get Latest News Today, Breaking News, Top News Headlines, India and World News | News18",
+        "title": "PAN-Aadhaar Link Deadline: December 31 Is Last Date To Avoid Inoperative PAN; Check What To Do | Business News - News18",
+        "title_full": "PAN-Aadhaar Link Deadline: December 31 Is Last Date To Avoid Inoperative PAN; Check What To Do | Business News - News18",
+        "published": "2025-12-04T07:19:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.news18.com/ibnlive/uploads/2025/11/Untitled-design-2025-11-25T160025.184-2025-11-87f0c6585edf776368233968ae58ee2c-16x9.jpg",
+        "performance_score": 0,
+        "domain_rank": 3556,
+        "domain_rank_updated": "2025-11-30T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "836b51af1cee51a932f8a8d1b4a851e8e6757cb1",
+    "url": "https://www.news18.com/business/pan-aadhaar-link-deadline-december-31-is-last-date-to-avoid-inoperative-pan-check-what-to-do-ws-l-9748812.html",
+    "ord_in_thread": 0,
+    "author": "@cnnnews18",
+    "published": "2025-12-04T07:19:00.000+02:00",
+    "title": "PAN-Aadhaar Link Deadline: December 31 Is Last Date To Avoid Inoperative PAN; Check What To Do | Business News - News18",
+    "text": "PAN-Aadhaar Link Deadline: The deadline to link Permanent Account Number (PAN) and Aadhaar Card is approaching, December 31, 2025. PAN card will become inoperative for those holders who are unable to link it with their Aadhaar card on or before the due date. This will hamper their ability to file Income tax returns and get refunds. Permanent Account Number (PAN) is a ten-digit alphanumeric number, issued by the Income Tax Department. PAN enables the department to link all transactions of the “person\" with the department. These transactions include tax payments, TDS/TCS credits, returns of income, specified transactions, correspondence, and so on. PAN, thus, acts as an identifier for the “person\" with the tax department. The Central Board of Direct Taxes (CBDT) has fixed December 31, 2025, as the last day to link PAN with Aadhaar card for those who receive the cards before October 01, 2025, failing which the services will be discontinued. 1) The person shall not be able to file return using the inoperative PAN 2) Pending returns will not be processed 3) Pending refunds cannot be issued to inoperative PANs 4) Pending proceedings as in the case of defective returns cannot be completed once the PAN is inoperative 5) Tax will be required to be deducted at a higher rate as PAN becomes inoperative Linking Aadhaar with PAN Online (Pre-Login, Without Logging In) This method is suitable for both registered and unregistered users of the Income Tax e-Filing portal. Visit the Income Tax e-Filing Portal: Go to the official Income Tax e-Filing website: www.incometax.gov.in. Visit the Income Tax e-Filing Portal: Go to www.incometax.gov.in. Access the Link Aadhaar Status: On the homepage, under the Quick Links section, click on Link Aadhaar Status. Enter Details: Input your 10-digit PAN number and 12-digit Aadhaar number. Click View Link Aadhaar Status. Linked: You’ll see a message like, “Your PAN is already linked to the given Aadhaar.\" Not Linked: The message will state, “PAN not linked with Aadhaar. Please click on ‘Link Aadhaar’ to link.\" Pending: If the linking request is under process, it will say, “Your Aadhaar-PAN linking request has been sent to UIDAI for validation.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial service",
+        "Economy, Business and Finance->business and market analysis"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Central Board of Direct Taxes",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Income Tax Department",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "CBDT",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "TCS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TCS",
+                        "exchange": "NSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-04T07:23:22.154+02:00",
+    "updated": "2025-12-04T07:28:52.000+02:00"
+}

@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "7db1d1bd687b157fa6cdcd21fb1d633c35debd06",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4113355406941-flash-flood-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Flash Flood Warning by NWS - NewsBreak",
+        "title_full": "Flash Flood Warning by NWS - NewsBreak",
+        "published": "2025-07-17T01:02:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/17g3G2_12niKyrk00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7db1d1bd687b157fa6cdcd21fb1d633c35debd06",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4113355406941-flash-flood-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-07-17T01:02:00.000+03:00",
+    "title": "Flash Flood Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here FFWBOU The National Weather Service in Denver has issued a * Flash Flood Warning for... Northeastern Jefferson County in central Colorado... Southeast Boulder County in northeastern Colorado... Southwestern Broomfield County in northeastern Colorado... * Until midnight MDT tonight. * At 1002 PM MDT, Doppler radar and automated rain gauges indicated thunderstorms producing heavy rain across the warned area. Between 0.5 and 1 inch of rain has fallen. The expected rainfall rate is 0.5 to 1 inch in 30 minutes. Flash flooding is ongoing or expected to begin shortly. HAZARD...Flash flooding caused by thunderstorms. SOURCE...Radar and automated gauges. IMPACT...Flash flooding of small creeks and streams, gulches, roads, and poor drainage and low-lying areas. * Some locations that will experience flash flooding include... Eastern Arvada, Westminster, southwestern Broomfield, Lafayette, Louisville and Superior.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.048d8db1e7a7757851239a5097675cf358d55c87.001.1",
+        "https://alerts.weather.gov/search",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.048d8db1e7a7757851239a5097675cf358d55c87.001.1"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:16:48.047+03:00",
+    "updated": "2025-07-17T04:21:25.000+00:00"
+}

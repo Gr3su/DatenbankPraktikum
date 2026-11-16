@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "7f83332db182ed2d5f36b952ec4e678ec1de7665",
+        "url": "https://www.ntd.com/ntdplus/award-winning-journalist-weighs-in-on-supreme-court-ruling-that-allows-alabama-to-use-gop-friendly-map_1150028.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://api.ntd.com/feed",
+        "site_categories": [
+            "architects",
+            "crime, law and justice",
+            "health",
+            "economy, business and finance",
+            "real_estate",
+            "war, conflict and unrest",
+            "arts, culture and entertainment",
+            "media",
+            "politics"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "site_title": "NTD News - Breaking News, Latest News and Videos | NTD",
+        "title": "Award Winning Journalist Weighs in on Supreme Court Ruling That Allows Alabama to Use Gop-Friendly Map",
+        "title_full": "Award Winning Journalist Weighs in on Supreme Court Ruling That Allows Alabama to Use Gop-Friendly Map",
+        "published": "2026-06-04T06:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2026/04/id1139903-GettyImages-2271849940-Early-Voting-Nears-End-For-Virginias-Redistricting-Referendum.jpg-600x400.webp",
+        "performance_score": 0,
+        "domain_rank": 66311,
+        "domain_rank_updated": "2026-06-01T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7f83332db182ed2d5f36b952ec4e678ec1de7665",
+    "url": "https://www.ntd.com/ntdplus/award-winning-journalist-weighs-in-on-supreme-court-ruling-that-allows-alabama-to-use-gop-friendly-map_1150028.html",
+    "ord_in_thread": 0,
+    "author": "NTD Newsroom",
+    "published": "2026-06-04T06:59:00.000+03:00",
+    "title": "Award Winning Journalist Weighs in on Supreme Court Ruling That Allows Alabama to Use Gop-Friendly Map",
+    "text": "Award Winning Journalist Weighs in on Supreme Court Ruling That Allows Alabama to Use Gop-Friendly Map\nThe U.S. Supreme Court cleared the way for Alabama to use a congressional map that could benefit Republicans in the midterms. NTD discussed this with Matthew Vadum, Epoch Times' legal reporter and awar...\nRead More",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->political process",
+        "Politics->constitution (law)",
+        "Social Issue->demographics",
+        "Social Issue->population and census"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Matthew Vadum",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Alabama",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "U. S. Supreme Court",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Epoch Times",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NTD",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-04T07:36:45.906+03:00",
+    "updated": "2026-06-04T07:42:08.000+03:00"
+}

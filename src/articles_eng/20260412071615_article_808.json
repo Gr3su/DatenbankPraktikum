@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "2f8e033a5acc595c9c6a2aa2c09af8f5f22676be",
+        "url": "https://www.newsbreak.com/news/4582498097823-cbre-arranges-lease-for-rio-grande-s-new-location-in-loveland",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/loveland-co",
+        "site_categories": [
+            "politics",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "sport",
+            "human interest",
+            "under_construction",
+            "lifestyle and leisure",
+            "economy, business and finance"
+        ],
+        "section_title": "Loveland, CO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "CBRE Arranges Lease for Rio Grande's New Location in Loveland - NewsBreak",
+        "title_full": "CBRE Arranges Lease for Rio Grande's New Location in Loveland - NewsBreak",
+        "published": "2026-04-09T01:19:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3pD77o_1AIQa01p00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2f8e033a5acc595c9c6a2aa2c09af8f5f22676be",
+    "url": "https://www.newsbreak.com/news/4582498097823-cbre-arranges-lease-for-rio-grande-s-new-location-in-loveland",
+    "ord_in_thread": 0,
+    "author": "milehighcre",
+    "published": "2026-04-09T01:19:00.000+03:00",
+    "title": "CBRE Arranges Lease for Rio Grande's New Location in Loveland - NewsBreak",
+    "text": "By milehighcre ,\n6 hours ago Rio Grande Mexican Restaurant has signed a 6,720-square-foot lease for a new restaurant in Loveland. This will be the chain’s first location in the city. “Since our first visit to Loveland, everyone has welcomed us with open arms,” said Steve Richter, COO of Rio Grande. “We are very excited to join this friendly, vibrant community. We will work hard to bring the people of Loveland some delicious food and FUN!” Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->leisure venue"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Steve Richter",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Rio Grande",
+                "sentiment": "none"
+            },
+            {
+                "name": "Loveland",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "CBRE",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "CBRE",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Rio Grande Mexican Restaurant",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Loveland"
+            ],
+            "state": [
+                "Colorado"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:44:59.931+03:00",
+    "updated": "2026-04-09T07:48:41.000+03:00"
+}

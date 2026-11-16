@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "e0785508f1414bde6ea4c2b7bb9b10fdf62516fd",
+        "url": "https://www.newsbreak.com/newsweek-500152/4676165345440-white-sox-s-munetaka-murakami-just-did-something-mlb-hasn-t-seen-since-1901",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/newsweek-500152",
+        "site_categories": [
+            "under_construction",
+            "sport",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "politics",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance"
+        ],
+        "section_title": "Newsweek&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "White Sox's Munetaka Murakami Just Did Something MLB Hasn't Seen Since 1901 - NewsBreak",
+        "title_full": "White Sox's Munetaka Murakami Just Did Something MLB Hasn't Seen Since 1901 - NewsBreak",
+        "published": "2026-05-28T07:15:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/20VLJq_1BnoaZh100",
+        "performance_score": 0,
+        "domain_rank": 3021,
+        "domain_rank_updated": "2026-05-25T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e0785508f1414bde6ea4c2b7bb9b10fdf62516fd",
+    "url": "https://www.newsbreak.com/newsweek-500152/4676165345440-white-sox-s-munetaka-murakami-just-did-something-mlb-hasn-t-seen-since-1901",
+    "ord_in_thread": 0,
+    "author": "Megan Armstrong",
+    "published": "2026-05-28T07:15:00.000+03:00",
+    "title": "White Sox's Munetaka Murakami Just Did Something MLB Hasn't Seen Since 1901 - NewsBreak",
+    "text": "By Megan Armstrong ,\n36 minutes ago The Chicago White Sox hit the lottery by signing first baseman Munetaka Murakami from Japan's NPB last December. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sports record",
+        "Sport->baseball"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Munetaka Murakami",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Megan Armstrong",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Japan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Chicago White Sox",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NPB",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-28T07:52:37.703+03:00",
+    "updated": "2026-05-28T07:53:54.000+03:00"
+}

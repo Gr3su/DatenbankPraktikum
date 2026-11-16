@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "fc33a3f8f3dc9e553c88044432bc4980edf7e7be",
+        "url": "https://velocitycurve.substack.com/p/i-cannot-work-anymore-i-ran-out-of",
+        "site_full": "velocitycurve.substack.com",
+        "site": "substack.com",
+        "site_section": "https://hn.algolia.com/latest.atom",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "human interest"
+        ],
+        "section_title": "HN's home page",
+        "site_title": "Substack",
+        "title": "Are we becoming dependent on tokens?",
+        "title_full": "Are we becoming dependent on tokens?",
+        "published": "2026-08-27T06:58:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://substackcdn.com/image/fetch/$s_!OwBH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb26d3704-00e3-4260-8053-41f5cb3752ce_5410x3336.jpeg",
+        "performance_score": 0,
+        "domain_rank": 439,
+        "domain_rank_updated": null,
+        "licensing_agency": [
+            "NLA"
+        ],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fc33a3f8f3dc9e553c88044432bc4980edf7e7be",
+    "url": "https://velocitycurve.substack.com/p/i-cannot-work-anymore-i-ran-out-of",
+    "ord_in_thread": 0,
+    "author": "GertLH",
+    "published": "2026-08-27T06:58:00.000+03:00",
+    "title": "Are we becoming dependent on tokens?",
+    "text": "Recently, during an engineering conversation, I heard a sentence that made me stop:\n“I cannot work anymore. I ran out of tokens.”\nThe AI coding tool had reached its usage limit, and a task had effectively come to a halt.\nThe immediate problem was easy enough to solve. Increase the limit, change the plan, remove the blocker. But I kept thinking about the sentence. Not because using AI is a problem. Quite the opposite. I want engineers to use the best tools available, and AI coding tools have become extraordinarily useful.\nWhat caught my attention was the word cannot.\nA few years ago, losing access to a development tool might have made an engineer slower. Today, for some kinds of work, losing access to the model can stop the workflow entirely.\nThat is a much more interesting engineering leadership problem.\nWhat disappeared when the tokens ran out?\nThe engineer had not forgotten how to type code. What disappeared was the workflow surrounding the code. AI had become the place to begin. It identified the relevant files, explained unfamiliar behaviour and suggested the next step. When an implementation failed, the error went back into the same conversation.\nThere is a lot to like about this workflow. Large codebases contain far more context than one person can hold. Spending hours locating the right module is not a noble engineering practice. Still, something changes when the tool always supplies the first interpretation.\nBefore AI, an engineer would usually begin with a rough theory. They would read, search, run the program and discover that part of the theory was wrong. The system became clearer through that correction. Today, the first theory can arrive before the engineer has looked at the problem. It may be better than the theory they would have formed alone. It may also be confidently wrong. In both cases, it shapes everything that follows.\nThe engineer is no longer starting from uncertainty. They are starting from an answer. This makes work easier to begin. It can also make it harder to notice what the answer has excluded.\nI do not think engineers need to struggle for the sake of struggling. But there is a difference between removing wasted effort and removing the point at which someone starts thinking for themselves.\nThat is the part I worry we are losing.\nThe answer is always somewhere else\nIn 2011, Betsy Sparrow, Jenny Liu and Daniel Wegner published research on how access to online information changes memory. People who expected information to remain available on a computer were less likely to remember the information itself. They were more likely to remember where it could be found.\nThat adaptation makes sense. We have always stored knowledge outside ourselves. Documentation, books and colleagues allow us to operate beyond the limits of individual memory. Generative AI goes further because it does not merely store the answer. It can decide what the answer means.\nAn engineer no longer has to remember an API. That is useful. But they may also stop building a clear model of how the surrounding system behaves, because the model can reconstruct one whenever needed. The difference only becomes visible when the reconstruction is incomplete.\nSoftware contains reasons that are not obvious from the code. An ugly branch may protect an old customer workflow. A duplicated check may exist because the cleaner version failed under load. A service boundary may reflect organisational constraints rather than technical elegance. The model sees what is present in its context. An experienced engineer often knows what is missing.\nThat knowledge is difficult to measure because it rarely appears as output. It appears as the decision not to introduce another abstraction. When someone notices that the obvious fix would break an unrelated workflow. Or during an incident when the documented architecture no longer explains reality.\nAI is very effective at producing plausible next steps. Engineering judgement is often the ability to know when the plausible next step is the wrong one.\nWe can review only what we understand\nThe usual safeguard is code review. AI writes the code. A human checks it. The responsibility remains with the engineer. That works well when the engineer already understands the area being changed.\nA senior engineer can ask AI to generate a routine implementation and immediately notice when it violates a local convention or ignores an operational constraint. The tool saves time without replacing the engineer’s view of the system. The harder case is also the more attractive one.\nAI allows someone to work in a language they barely know or change a service they have never seen before. It finds the code, explains the pattern and produces an implementation that compiles. At that point, the engineer may be checking whether the result looks credible rather than whether the design is right. Those are not the same review. The code may be clean and tests may pass. Even the explanation may sound sensible. None of this proves that the change belongs in the system.\nThe most expensive mistakes are rarely obvious errors. They are reasonable decisions made without enough context. A human approving a pull request does not automatically solve this problem. Review works only when the reviewer has an independent position from which to disagree.\nOtherwise, the human is not supervising the model. They are confirming that the model produced something recognisable.\nWhy it still feels faster\nAI coding tools make many tasks faster. I have seen that directly, and I would not want to return to working without them. But speed is surprisingly difficult to measure in software engineering. The author experiences the task up to the point where the code is written. The organisation experiences everything that comes afterwards.\nReview, integration and maintenance are part of the same work, even when they happen later or are performed by someone else. A generated patch can be quick to create and bit back soon after. The original engineer saves time, while a reviewer has to reconstruct why the change exists. A feature ships sooner, while the codebase gains another way of solving a problem that already had an established approach.\nThis is one reason I found the 2025 METR study interesting.\nExperienced open-source developers expected AI to make them 24 percent faster. After completing the work, they still believed it had made them roughly 20 percent faster. In the measured results, they had taken 19 percent longer.\nThe study was small, used tools available at that time and should not be interpreted as proof that AI makes software development slower. The interesting part was the gap between perception and measurement. AI makes work feel active very quickly. Something appears, and the engineer can react to it. That is a better experience. It may also make time spent correcting, redirecting and reviewing the output less visible.\nThe tool can genuinely help while our estimate of the benefit remains wrong.\nThis is why I am sceptical of adoption metrics presented as productivity metrics. The number of prompts, accepted suggestions or generated lines tells us that the tool is being used. It says little about the amount of engineering effort required to own the result.\nThe meaningful question is whether the whole team reaches a good outcome with less work. That is harder to measure. It is also the only boundary that matters.\nThe part we may stop teaching\nThe effect on experienced engineers is not my main concern. Experienced engineers already have something AI can amplify. They know the system, remember earlier failures and can reject an answer that is technically valid but inappropriate.\nMy concern is how someone becomes that engineer. Engineering judgement is built through work that rarely looks efficient. A junior engineer follows the wrong path through a repository or the abstraction which is rejected in review. A incident is a blessing of a lesson about how the system behaves differently from the diagram.\nThe lesson is the growth.\nAI can improve this process. It can explain unfamiliar ideas without impatience and help someone attempt work beyond their current confidence. But finishing more difficult tasks does not necessarily mean the underlying judgement is developing at the same rate. An engineer can now produce code that suggests a level of understanding they do not yet have. The implementation is real, but the understanding may not be.\nThis gap will be easy to ignore because the work still gets completed.\nSenior engineers may also spend less time teaching because AI handles the questions that once came to them. That appears efficient in the short term. The senior engineer produces more, and the junior engineer is less blocked. What disappears is the conversation around why the obvious solution is not always the right one.\nSeveral years from now, we may discover that we increased the amount of code an organisation can produce without increasing the number of people capable of making difficult decisions about it.\nThe inefficiency we removed may have included the apprenticeship.\nSometimes the tool is not the real problem\nThere is another interpretation of the engineer’s dependence on AI. Perhaps our systems have become unreasonable to understand without it.\nA codebase spread across several repositories, with outdated documentation and unclear ownership, forces engineers to reconstruct context before every meaningful change. AI is extremely useful in that environment. It can trace relationships, summarise services and create a workable explanation from scattered information. But the success of the tool can obscure the failure of the organisation.\nIf every task begins by asking a model to explain the architecture, perhaps the architecture is not legible enough. If the same context has to be rebuilt in every session, perhaps we have not preserved it properly.\nAI makes these problems easier to tolerate. That is useful, but it may also reduce the pressure to fix them. The documentation remains stale because the model can summarise the source. Domain boundaries remain unclear because the model can follow the calls. As a result knowledge remains scattered because it can be reconstructed on demand.\nWe end up paying repeatedly for context the organisation should already own. This is a problem of the architectural complexity.\nWhat I should have asked\nWhen hearing that work stops, because we ran out of tokens, a leader should not turn a tooling issue into an impromptu examination of someone’s professional competence.\nBut the follow-up question matters. What part of the work became impossible? Was it the repetitive implementation? The unfamiliar syntax? The initial search through the repository? Or had the engineer lost the process through which they understood what to do next?\nThe answer would tell far more about the root of the issue. Leaders goal is not to create engineers who can prove they need no assistance. That would be a strange definition of competence. The goal is to create engineers whose judgement improves because the tool removes lower-value work.\nThey may rely on AI every day. Losing it may reduce their output significantly. But beneath the tool there should still be a person who understands the problem, can challenge the answer and knows how to continue when the model reaches the edge of its context.\nWhen the tokens run out\n“I cannot work anymore. I ran out of tokens” still makes me laugh. It also makes me uncomfortable. AI may become one of the most valuable tools our profession has ever adopted. The discomfort comes from how a tool can move from useful to necessary, and from necessary to unquestioned.\nWe will not notice that shift by counting how much code the model generates. We will notice it when the model is unavailable.\nWork should become slower when a powerful tool disappears. It should not become impossible.",
+    "summary": "The answer is always somewhere else In 2011, Betsy Sparrow, Jenny Liu and Daniel Wegner published research on how access to online information changes memory. A senior engineer can ask AI to generate a routine implementation and immediately notice when it violates a local convention or ignores an operational constraint. A codebase spread across several repositories, with outdated documentation and unclear ownership, forces engineers to reconstruct context before every meaningful change.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business information"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:09:34.800+03:00",
+    "updated": "2026-08-27T07:21:09.000+03:00"
+}

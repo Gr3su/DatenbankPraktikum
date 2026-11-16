@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "b56f73e5471b8c441dd288c49d5f45ca089d40f2",
+        "url": "https://www.coindesk.com/tech/2026/04/16/bitcoin-devs-float-quantum-tripwire-that-triggers-coin-freeze-only-if-attack-is-proven",
+        "site_full": "www.coindesk.com",
+        "site": "coindesk.com",
+        "site_section": "https://news.google.com/search?q=a%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "science and technology",
+            "finance",
+            "economy, business and finance"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "title": "Bitcoin devs float 'quantum tripwire' that triggers coin freeze only if attack is proven",
+        "title_full": "Bitcoin devs float 'quantum tripwire' that triggers coin freeze only if attack is proven",
+        "published": "2026-04-16T07:23:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.sanity.io/images/s3y3vcno/production/52a8b7a70b9469666aac378849389e9aabbcfec5-1920x1280.jpg?auto=format&amp;w=960&amp;h=540&amp;crop=focalpoint&amp;fit=clip&amp;q=75&amp;fm=jpg",
+        "performance_score": 0,
+        "domain_rank": 4242,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b56f73e5471b8c441dd288c49d5f45ca089d40f2",
+    "url": "https://www.coindesk.com/tech/2026/04/16/bitcoin-devs-float-quantum-tripwire-that-triggers-coin-freeze-only-if-attack-is-proven",
+    "ord_in_thread": 0,
+    "author": "Sam Reynolds",
+    "published": "2026-04-16T07:23:00.000+03:00",
+    "title": "Bitcoin devs float 'quantum tripwire' that triggers coin freeze only if attack is proven",
+    "text": "Bitcoin devs bet a quantum attacker will play nice with a ‘wait and react’ plan\nBitMEX Research proposes a canary system that pays a bounty to the first quantum attacker and activates a network-wide freeze, offering an alternative to a fixed five-year timeline.\nWhat to know:\n- Bitcoin developers are weighing a BitMEX Research proposal for a \"canary\" system that would only restrict vulnerable older wallets if a quantum-capable attacker proves the threat on-chain.\n- The canary address would hold a bounty that only a quantum attacker could unlock, with any spend both triggering a retroactive freeze on vulnerable coins and publicly signaling that Bitcoin's signature scheme has been broken.\n- Supporters say the approach avoids an \"authoritarian\" pre-scheduled freeze like BIP-361, while critics warn it gambles that the first quantum attacker will claim the bounty rather than quietly steal funds on a massive scale.\nBitcoin developers are debating a radical change to how the network would respond to a future quantum computing threat: don’t freeze vulnerable coins unless someone proves the threat is real. But there's a catch: The proposal assumes the attacker will reveal capability for a bounty instead of maximizing profit through theft.\nA proposal published this week by BitMEX Research outlines a “canary” system that would trigger a network-wide restriction on older bitcoin wallets only if a quantum-capable attacker demonstrates it on-chain, replacing earlier plans to impose a pre-scheduled freeze years in advance. At its core, the proposal is a \"wait and react\" strategy.\nIt works by placing small number of bitcoin into a special address that only a quantum-capable attacker could unlock, with any spend from that address serving as public proof that the threat has arrived and automatically triggering a network-wide freeze of older wallets.\nBitcoin wallets rely on digital signature schemes that are secure against classical computers but could be broken by advances in quantum computing, and a recent Google research paper lowered estimates for the resources required, with some observers now pointing to the end of the decade as a potential risk window.\nThe approach is designed as an alternative to BIP-361, a controversial proposal that would impose the same restrictions on a fixed five-year timeline regardless of whether quantum computers are actually capable of attacking Bitcoin's blockchain. BIP-361 would phase out vulnerable addresses over several years before invalidating the old signature schemes entirely, leaving any unmigrated coins permanently frozen.\nCritics have called that outcome \"authoritarian and confiscatory,\" arguing it undermines Bitcoin's core principle that control rests solely with private key holders.\nLayered atop the of BitMEX's detection mechanism is a financial incentive. Users could contribute bitcoin to the address, creating a bounty that rewards the first entity to demonstrate a quantum attack publicly rather than quietly drain vulnerable wallets. Contributors would not need to give up their funds permanently, as the structure allows withdrawals at any time.\nThe proposal also introduces a “safety window” designed to make stealth attacks harder. Vulnerable coins could still move, but the recipient would be unable to spend them for an extended period, potentially around a year. If the canary is triggered during that window, those coins would be frozen retroactively, increasing the risk to any attacker attempting to quietly extract funds.\nThere's a catch\nThe canary reduces the risk of disrupting users prematurely, but it rests on an uncomfortable bet that the first entity capable of breaking Bitcoin would claim a bounty rather than execute what could be the largest theft in the network's history and walkaway with millions of bitcoin.\nThat bet cuts against the kind of worst-case scenario Bitcoin's design has always tried to prevent, and the network has historically shown little appetite for undoing such events after the fact. Ethereum's response to the 2016 DAO hack, a hard fork that reversed the theft and split the network into Ethereum and Ethereum Classic, is the kind of protocol-level intervention Bitcoin's culture has long resisted.\nIf the bet fails, Bitcoin risks the worst of both worlds — the catastrophe it was trying to prevent, and the realization that a fixed-timeline defense would have stopped it.\nMore For You\nAlso: AI agents & crypto payments, CoW Swap hijack, ZK proofs on XRPL.\nWhat to know:\nWelcome to The Protocol, CoinDesk's weekly wrap of the most important stories in cryptocurrency tech development. I’m Margaux Nijkerk, a reporter at CoinDesk.\nIn this issue:\n- Bitcoin developers are trying to build quantum defenses. Your coins could pay the price.\n- AI agents are set to power crypto payments, but a...",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science",
+        "Economy, Business and Finance->computing and information technology",
+        "Economy, Business and Finance->cryptocurrency"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.bitmex.com/blog/Avoiding-An-Unnecessary-Quantum-Freeze",
+        "https://bitmex.com/blog/Avoiding-An-Unnecessary-Quantum-Freeze"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "b56f73e5471b8c441dd288c49d5f45ca089d40f2",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:29:48.100+03:00",
+    "updated": "2026-04-16T07:49:52.000+03:00"
+}

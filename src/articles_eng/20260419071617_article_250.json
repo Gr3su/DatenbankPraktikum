@@ -1,0 +1,175 @@
+{
+    "thread": {
+        "uuid": "ac15f93eef542eab4ef8c31195f33db776dd4e67",
+        "url": "https://www.newsbreak.com/news/4591792077377-61-year-old-priest-dies-in-motorcycle-crash",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/bloomsdale-mo",
+        "site_categories": [
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "sport",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "politics"
+        ],
+        "section_title": "Bloomsdale, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "61-year-old priest dies in motorcycle crash - NewsBreak",
+        "title_full": "61-year-old priest dies in motorcycle crash - NewsBreak",
+        "published": "2026-04-14T21:06:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/34Z0Wp_1ARnYweo00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ac15f93eef542eab4ef8c31195f33db776dd4e67",
+    "url": "https://www.newsbreak.com/news/4591792077377-61-year-old-priest-dies-in-motorcycle-crash",
+    "ord_in_thread": 0,
+    "author": "First Alert 4 Staff",
+    "published": "2026-04-14T21:06:00.000+03:00",
+    "title": "61-year-old priest dies in motorcycle crash - NewsBreak",
+    "text": "By First Alert 4 Staff Dorothy Sedovic ,\n1 days ago ST. LOUIS, Mo. (KMOV/Gray News) - The priest of a Missouri church died in a motorcycle crash. Father Larry Huber was the priest of Immaculate Conception Church in Park Hills, Missouri. The St. Louis Archdiocese confirmed he died in a crash Thursday. Huber was riding a 2008 Honda VTX1330 northbound... Read full article\nRead in NewsBreak 3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->reckless driving"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dorothy Sedovic",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Larry Huber",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "ST. LOUIS",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mo.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Missouri",
+                "sentiment": "none"
+            },
+            {
+                "name": "Park Hills",
+                "sentiment": "none"
+            },
+            {
+                "name": "Immaculate Conception Church",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "KMOV",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Gray News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "St. Louis Archdiocese",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Bloomsdale"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:22:33.940+03:00",
+    "updated": "2026-04-16T07:25:07.000+03:00"
+}

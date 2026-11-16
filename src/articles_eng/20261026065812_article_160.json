@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "a0ab6f1ca8e40ecf40b2b867738d3fbc6c5a8aef",
+        "url": "https://www.newsbreak.com/news/4961713015467-it-s-scary-story-hill-neighbors-call-for-pedestrian-safety-as-brewers-head-to-world-series",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/milwaukee-wi",
+        "site_categories": [
+            "politics",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "under_construction",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "sport"
+        ],
+        "section_title": "Milwaukee, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "'It's scary': Story Hill neighbors call for pedestrian safety as Brewers head to World Series - NewsBreak",
+        "title_full": "'It's scary': Story Hill neighbors call for pedestrian safety as Brewers head to World Series - NewsBreak",
+        "published": "2026-10-23T01:27:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1mu7gO_1GMXBYys00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T07:02:32.945+03:00"
+        }
+    },
+    "uuid": "a0ab6f1ca8e40ecf40b2b867738d3fbc6c5a8aef",
+    "url": "https://www.newsbreak.com/news/4961713015467-it-s-scary-story-hill-neighbors-call-for-pedestrian-safety-as-brewers-head-to-world-series",
+    "ord_in_thread": 0,
+    "author": "Mia Bearden",
+    "published": "2026-10-23T01:27:00.000+03:00",
+    "title": "'It's scary': Story Hill neighbors call for pedestrian safety as Brewers head to World Series - NewsBreak",
+    "text": "By Mia Bearden ,\n5 hours ago MILWAUKEE (CBS 58) -- As the Milwaukee Brewers head to the World Series for the first time since 1982, Story Hill neighbors are raising concerns about pedestrian safety as more fans travel through the neighborhood on game days. Tim Decker said he and his girlfriend, Patti, nearly were hit by... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->baseball"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cbs58.com/news/it-s-scary-story-hill-neighbors-call-for-pedestrian-safety-as-brewers-head-to-world-series",
+        "https://cbs58.com/news/it-s-scary-story-hill-neighbors-call-for-pedestrian-safety-as-brewers-head-to-world-series"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mia Bearden",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Tim Decker",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Patti",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Story Hill",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Milwaukee Brewers",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "CBS",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "CBS",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "american family field for brewers",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "MIL",
+                        "exchange": "MLB"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:02:32.945+03:00",
+    "updated": "2026-10-23T07:04:16.000+03:00",
+    "related_articles": null
+}

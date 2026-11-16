@@ -1,0 +1,124 @@
+{
+    "thread": {
+        "uuid": "a64217ff7c5a6e6548c0c6aafa0db718ebc7bdd5",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4826089450504-flash-flood-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction",
+            "social issue",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "sport",
+            "health",
+            "economy, business and finance",
+            "human interest",
+            "politics",
+            "science and technology"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Flash Flood Warning by NWS - NewsBreak",
+        "title_full": "Flash Flood Warning by NWS - NewsBreak",
+        "published": "2026-08-13T06:43:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/17g3G2_1EBsnGhS00",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a64217ff7c5a6e6548c0c6aafa0db718ebc7bdd5",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4826089450504-flash-flood-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2026-08-13T06:43:00.000+03:00",
+    "title": "Flash Flood Warning by NWS - NewsBreak",
+    "text": "32 minutes ago Check NWS updates here\nEffective: 2026-08-12 20:40:00 PDT Expires: 2026-08-12 20:50:00 PDT Urgency: Immediate Severity: Severe Certainty: Likely Target Area: Yavapai, AZ The heavy rain has ended. Flooding is no longer expected to pose a threat. Please continue to heed remaining road closures.\nA Flood Watch remains in effect until 1200 AM MST for portions of east central, north central, northeast, and west central Arizona.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->natural disaster",
+        "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=17g3G2_1EBsnGhS00",
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.90c6767039bfe923463612c4db89154cba57aef7.001.1",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=17g3G2_1EBsnGhS00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=17g3G2_1EBsnGhS00",
+        "https://www.img.particlenews.com/image.php?url=17g3G2_1EBsnGhS00",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.90c6767039bfe923463612c4db89154cba57aef7.001.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Yavapai",
+                "sentiment": "none"
+            },
+            {
+                "name": "AZ",
+                "sentiment": "none"
+            },
+            {
+                "name": "Arizona",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:25:56.608+03:00",
+    "updated": "2026-08-13T07:27:37.000+03:00"
+}

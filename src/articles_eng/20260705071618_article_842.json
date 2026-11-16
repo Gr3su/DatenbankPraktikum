@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "9ddf36fc0da1a81a2c3e369f0dc75a8fafef10b4",
+        "url": "https://www.newsbreak.com/news/4744849242553-fond-du-lac-band-breaks-ground-on-25m-health-center-expansion-in-duluth",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/superior-wi",
+        "site_categories": [
+            "economy, business and finance",
+            "politics",
+            "social issue",
+            "disaster and accident",
+            "lifestyle and leisure",
+            "under_construction",
+            "sport",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "human interest"
+        ],
+        "section_title": "Superior, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Fond du Lac Band breaks ground on $25M health center expansion in Duluth - NewsBreak",
+        "title_full": "Fond du Lac Band breaks ground on $25M health center expansion in Duluth - NewsBreak",
+        "published": "2026-07-02T02:40:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2Z7w1a_1Cu0eWP700",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9ddf36fc0da1a81a2c3e369f0dc75a8fafef10b4",
+    "url": "https://www.newsbreak.com/news/4744849242553-fond-du-lac-band-breaks-ground-on-25m-health-center-expansion-in-duluth",
+    "ord_in_thread": 0,
+    "author": "Northern News Now staff",
+    "published": "2026-07-02T02:40:00.000+03:00",
+    "title": "Fond du Lac Band breaks ground on $25M health center expansion in Duluth - NewsBreak",
+    "text": "By Northern News Now staff ,\n5 hours ago DULUTH, Minn. (Northern News Now) - The Fond du Lac Band of Lake Superior Chippewa broke ground Wednesday on a $25 million expansion of the Center for American Indian Resources in Duluth. Band leaders said many reservations are far from economic centers, making it difficult to recruit professionals to provide... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->health organisation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.northernnewsnow.com/2026/07/01/fond-du-lac-band-breaks-ground-25m-health-center-expansion-duluth/?outputType=amp",
+        "https://www.northernnewsnow.com/2026/07/01/fond-du-lac-band-breaks-ground-25m-health-center-expansion-duluth/",
+        "https://northernnewsnow.com/2026/07/01/fond-du-lac-band-breaks-ground-25m-health-center-expansion-duluth/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Duluth",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Fond du Lac Band",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Northern News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Center for American Indian Resources",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Superior"
+            ],
+            "state": [
+                "Wisconsin"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:46:03.462+03:00",
+    "updated": "2026-07-02T07:47:38.000+03:00"
+}

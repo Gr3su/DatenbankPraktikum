@@ -1,0 +1,158 @@
+{
+    "thread": {
+        "uuid": "3a3341282bb6b30dc0754bf1a0a6ea655f09c5dd",
+        "url": "https://www.nhpr.org/environment/2026-09-27/portsmouth-pfas-us-airforce-treatment-wells",
+        "site_full": "www.nhpr.org",
+        "site": "nhpr.org",
+        "site_section": "https://www.nhpr.org/latest-from-nhpr-rss.rss",
+        "site_categories": [
+            "hobbies_and_interests",
+            "media",
+            "economy, business and finance",
+            "science and technology",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "social issue",
+            "politics",
+            "radio"
+        ],
+        "section_title": "Latest from NHPR RSS",
+        "site_title": "Home | NHPR | New Hampshire Public Radio",
+        "title": "Air Force pushed to pay for PFAS cleanup of two Portsmouth wells",
+        "title_full": "Air Force pushed to pay for PFAS cleanup of two Portsmouth wells",
+        "published": "2026-09-27T12:02:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://npr.brightspotcdn.com/dims4/default/047b6c1/2147483647/strip/true/crop/974x511+0+102/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2F33%2Fc66e8196454897732c7bbb71848f%2Fportsmouth-skyline-nhpr-dan-tuohy-photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 51254,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-09-27T12:31:06.365+03:00"
+        }
+    },
+    "uuid": "3a3341282bb6b30dc0754bf1a0a6ea655f09c5dd",
+    "url": "https://www.nhpr.org/environment/2026-09-27/portsmouth-pfas-us-airforce-treatment-wells",
+    "ord_in_thread": 0,
+    "author": "New Hampshire Public Radio; By",
+    "published": "2026-09-27T12:02:00.000+03:00",
+    "title": "Air Force pushed to pay for PFAS cleanup of two Portsmouth wells",
+    "text": "This story was originally produced by the Portsmouth Herald. NHPR is republishing it in partnership with the Granite State News Collaborative.\nNew Hampshire’s congressional delegation has urged the Air Force to provide a firm timeline for when it will pay for a treatment system to remove dangerous PFAS chemicals — known as forever chemicals — from two city water wells.\nThe delegation wrote in a recent letter to the secretary of the Air Force both the city-owned Portsmouth and Collins wells “draw from the same aquifer beneath the former Pease Air Force base that the Air Force has long known is contaminated with PFOA and PFOS.”\nThey noted in the letter to Air Force Secretary Troy Meink that in “June 2025, PFOS in the Portsmouth and Collins wells, and PFOA in the Portsmouth well averaged above the Environmental Protection Agency’s (EPA) 4.0 parts per trillion (ppt) maximum contaminant level (MCL) for these chemicals.”\n“Together, the two wells supply approximately 1.3 million gallons of water a day – nearly a quarter of the community’s drinking water – with no alternative source if either is taken offline,” according to the letter signed by Sens. Jeanne Shaheen and Maggie Hassan and Reps. Chris Pappas and Maggie Goodlander, all Democrats.\nRead more of this story at Seacoastonline.",
+    "summary": "This story was originally produced by the Portsmouth Herald. NHPR is republishing it in partnership with the Granite State News Collaborative. New Hampshire’s congressional delegation has urged the Air Force to provide a firm timeline for when it will pay for a treatment system to remove dangerous PFAS chemicals — known as forever chemicals — from two city water wells.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.collaborativenh.org/",
+        "https://www.seacoastonline.com/story/news/local/2026/09/23/air-force-pfas-cleanup-portsmouth-nh-wells/91885347007/",
+        "https://www.collaborativenh.org",
+        "https://www.seacoastonline.com/story/news/local/2026/09/23/air-force-pfas-cleanup-portsmouth-nh-wells/91885347007",
+        "https://collaborativenh.org/",
+        "https://seacoastonline.com/story/news/local/2026/09/23/air-force-pfas-cleanup-portsmouth-nh-wells/91885347007/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Collins",
+                "sentiment": "none"
+            },
+            {
+                "name": "New Hampshire",
+                "sentiment": "none"
+            },
+            {
+                "name": "Portsmouth",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Portsmouth Herald",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Pease Air Force",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "NHPR",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Granite State News Collaborative",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Concord"
+            ],
+            "state": [
+                "New Hampshire"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-27T12:31:06.365+03:00",
+    "updated": "2026-09-27T12:33:33.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "914b92061c6bc08e01250329d5e2d1f773103b4c",
+        "url": "https://www.newsbreak.com/news/4862888392342-officer-involved-shooting-investigation-in-la-riviera-neighborhood",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sacramento-ca",
+        "site_categories": [
+            "economy, business and finance",
+            "politics",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "sport",
+            "human interest",
+            "under_construction",
+            "social issue",
+            "crime, law and justice"
+        ],
+        "section_title": "Sacramento, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Officer involved shooting investigation in La Riviera neighborhood - NewsBreak",
+        "title_full": "Officer involved shooting investigation in La Riviera neighborhood - NewsBreak",
+        "published": "2026-09-02T16:50:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/32Q930_1EmxnMzM00",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "914b92061c6bc08e01250329d5e2d1f773103b4c",
+    "url": "https://www.newsbreak.com/news/4862888392342-officer-involved-shooting-investigation-in-la-riviera-neighborhood",
+    "ord_in_thread": 0,
+    "author": "Fox40",
+    "published": "2026-09-02T16:50:00.000+03:00",
+    "title": "Officer involved shooting investigation in La Riviera neighborhood - NewsBreak",
+    "text": "14 hours ago Investigations are ongoing for the shooting that occurred on Friday morning. Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->police",
+        "Crime, Law and Justice->homicide",
+        "Crime, Law and Justice->investigation (criminal)",
+        "Crime, Law and Justice->surveillance"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://fox40.com/video/officer-involved-shooting-investigation-in-la-riviera-neighborhood/12026799/",
+        "https://www.fox40.com/video/officer-involved-shooting-investigation-in-la-riviera-neighborhood/12026799/",
+        "https://fox40.com/video/officer-involved-shooting-investigation-in-la-riviera-neighborhood/12026799"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "La Riviera",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Sacramento"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:35:42.406+03:00",
+    "updated": "2026-09-03T07:39:45.000+03:00"
+}

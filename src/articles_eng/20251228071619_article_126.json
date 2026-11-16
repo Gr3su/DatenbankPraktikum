@@ -1,0 +1,116 @@
+{
+    "thread": {
+        "uuid": "823b8a93513df88150b97beb12f0af429bd853b2",
+        "url": "https://www.youtube.com/watch?v=ennNTXWhAIs",
+        "site_full": "www.youtube.com",
+        "site": "youtube.com",
+        "site_section": "https://rss.app/feeds/_02osag5eijhsgyy0.xml",
+        "site_categories": [
+            "television",
+            "",
+            "entertainment"
+        ],
+        "section_title": "News Review - 10.12.24 - 241 Feeds Update",
+        "site_title": "YouTube",
+        "title": "Canada deporting nearly 400 people a week, fastest pace in a decade",
+        "title_full": "Canada deporting nearly 400 people a week, fastest pace in a decade",
+        "published": "2025-12-25T04:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ytimg.com/vi/ennNTXWhAIs/maxresdefault.jpg",
+        "performance_score": 0,
+        "domain_rank": 9,
+        "domain_rank_updated": "2025-12-21T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "823b8a93513df88150b97beb12f0af429bd853b2",
+    "url": "https://www.youtube.com/watch?v=ennNTXWhAIs",
+    "ord_in_thread": 0,
+    "author": "CBC News: The National",
+    "published": "2025-12-25T04:57:00.000+02:00",
+    "title": "Canada deporting nearly 400 people a week, fastest pace in a decade",
+    "text": "Canada deporting nearly 400 people a week, fastest pace in a decadeThe Canada Border Services Agency is removing people, largely refugee claimants, from the country at a rate not seen in over a decade as the Carney government moves to slow population growth. Refugee lawyers express concern deportations may ramp up further if Bill C-12 passes next year. The National is the flagship of CBC News, showcasing award-winning journalism from across Canada and around the world. Led by Chief Correspondent Adrienne Arsenault, our team of trusted reporters helps you make sense of the world, wherever you are. Subscribe to get the latest news daily, and watch live starting at 9 p.m. ET. https://www.youtube.com/user/CBCTheNational?sub_confirmation=1 More from CBC News | https://www.cbc.ca/news",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue"
+    ],
+    "topics": [
+        "Social Issue->emigration",
+        "Social Issue->immigration"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cbc.ca/news",
+        "https://cbc.ca/news"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Adrienne Arsenault",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bill",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Canada Border Services Agency",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-25T07:20:30.815+02:00",
+    "updated": "2025-12-25T07:23:09.000+02:00"
+}

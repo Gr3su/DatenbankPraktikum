@@ -1,0 +1,152 @@
+{
+    "thread": {
+        "uuid": "e84ccaac1f3ede1409ff3f817890c5dcd965cffc",
+        "url": "https://www.newsbreak.com/news/4593027933208-i-75-reopens-after-semitruck-driver-falls-asleep-and-crashes-fhp-says",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/the-villages-fl",
+        "site_categories": [
+            "crime, law and justice",
+            "under_construction",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "sport",
+            "arts, culture and entertainment",
+            "human interest",
+            "politics"
+        ],
+        "section_title": "The Villages, FL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "I-75 reopens after semitruck driver falls asleep and crashes, FHP says - NewsBreak",
+        "title_full": "I-75 reopens after semitruck driver falls asleep and crashes, FHP says - NewsBreak",
+        "published": "2026-04-15T12:50:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0OMFEr_1AT20Qn100",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e84ccaac1f3ede1409ff3f817890c5dcd965cffc",
+    "url": "https://www.newsbreak.com/news/4593027933208-i-75-reopens-after-semitruck-driver-falls-asleep-and-crashes-fhp-says",
+    "ord_in_thread": 0,
+    "author": "Yahoo!",
+    "published": "2026-04-15T12:50:00.000+03:00",
+    "title": "I-75 reopens after semitruck driver falls asleep and crashes, FHP says - NewsBreak",
+    "text": "18 hours ago A major crash impacted traffic Wednesday morning on a stretch of Interstate-75 in Central Florida. A semi truck rolled over early Wednesday in Sumter County, blocking all northbound lanes of I-75. The crash happened around 5 a.m. near mile marker 335, near the Marion County line. The Florida Highway Patrol... Read full article\nRead in NewsBreak 3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Centr",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sumter County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Florida",
+                "sentiment": "none"
+            },
+            {
+                "name": "Marion County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "FHP",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Florida Highway Patrol",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "The Villages"
+            ],
+            "state": [
+                "Florida"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:36:44.413+03:00",
+    "updated": "2026-04-16T07:39:32.000+03:00"
+}

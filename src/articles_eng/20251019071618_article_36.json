@@ -1,0 +1,120 @@
+{
+    "thread": {
+        "uuid": "3997a33312ef246f5105d6c904b2781b2f579901",
+        "url": "https://westlatimes.com/ucla-led-gene-therapy-restores-immune-function-in-children-with-ada-scid/",
+        "site_full": "westlatimes.com",
+        "site": "westlatimes.com",
+        "site_section": "https://westlatimes.com/stories",
+        "site_categories": [],
+        "section_title": "Stories - West LA Times",
+        "site_title": "West La Times",
+        "title": "UCLA-led gene therapy restores immune function in children with ADA-SCID - West LA Times",
+        "title_full": "UCLA-led gene therapy restores immune function in children with ADA-SCID - West LA Times",
+        "published": "2025-10-15T23:10:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://d33ioocfz0fzi4.cloudfront.net/jns-media/97/2f/26777581/webp_qmavwcogthku9xv57t0qt7el8bkd.webp",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3997a33312ef246f5105d6c904b2781b2f579901",
+    "url": "https://westlatimes.com/ucla-led-gene-therapy-restores-immune-function-in-children-with-ada-scid/",
+    "ord_in_thread": 0,
+    "author": "i. m. mccutcheon",
+    "published": "2025-10-15T23:10:00.000+03:00",
+    "title": "UCLA-led gene therapy restores immune function in children with ADA-SCID - West LA Times",
+    "text": "A gene therapy developed by researchers at the University of California, Los Angeles (UCLA), University College London, and Great Ormond Street Hospital has restored immune function in 59 out of 62 children diagnosed with ADA-SCID, a rare and often fatal genetic immune disorder. The results were published in the New England Journal of Medicine and represent the largest and longest follow-up of this type of gene therapy to date, with a total of 474 patient-years of data.\nADA-SCID, or severe combined immunodeficiency due to adenosine deaminase deficiency, is caused by mutations in the ADA gene. The condition severely compromises the immune system, making everyday activities potentially life-threatening for affected children. Without treatment, ADA-SCID is usually fatal within two years. Standard treatments, such as bone marrow transplants from matched donors or lifelong enzyme injections, are associated with risks and significant costs.\nThe new approach involves collecting a child’s blood stem cells and using a modified lentivirus to insert a healthy copy of the ADA gene. These corrected cells are then infused back into the patient, enabling the body to produce healthy immune cells. Immune cell development begins soon after infusion, but it can take six to twelve months for full immune recovery.\nDr. Donald Kohn, senior author and distinguished professor at UCLA, said, “These results are what we hoped for when we first began developing this approach. The durability of immune function, the consistency over time and the continued safety profile are all incredibly encouraging.” He also noted that “what’s most remarkable is that everything has been completely stable beyond the initial three-to-six-month recovery period.” Most side effects were mild or moderate and related to preparatory procedures rather than the gene therapy itself.\nOf the three children who did not respond to the treatment, two received bone marrow transplants, and one was preparing for a transplant while receiving enzyme injections. All were able to return to standard therapies.\nMore than half of the children in the study received frozen, rather than fresh, corrected stem cells. Outcomes were similar for both groups, suggesting that cryopreservation could make the therapy more accessible by allowing stem cells to be collected locally, processed elsewhere, and shipped back for treatment. Dr. Katelyn Masiuk, co-first author and former clinical project lead in the Kohn lab, explained, “The freezing approach allows children with ADA-SCID to have their stem cells collected locally, then processed at a manufacturing facility elsewhere and shipped back to a hospital near them. This removes the need for patients and their families to travel long distances to specialist centers.”\nThe research was supported by several organizations, including the National Institutes of Health, U.S. Department of Health & Human Services, California Institute for Regenerative Medicine, Orchard Therapeutics, and the U.K. National Institute for Health and Care Research Great Ormond Street Hospital Biomedical Research Centre.\nUCLA researchers are now working to complete steps needed for FDA approval, with Rarity PBC licensing the therapy from UCLA Technology Development Group and partnering with manufacturers to produce it under pharmaceutical standards. Dr. Kohn stated, “Our goal is to have this therapy FDA-approved within two to three years. The clinical data strongly supports approval — now we need to demonstrate that we can manufacture the treatment under commercial pharmaceutical standards.”\nThe press release also shared the story of Eliana Nachem, who received the therapy as an infant in 2014. Her mother Caroline described their experience: “The data was absolutely stunning — like a bouquet of flowers over the phone. Almost overnight, we knew we had to do this.” Ten years later, Eliana is living a normal life. Caroline said, “I am eternally grateful to every single scientist, doctor, lab worker, nurse, hospital security guard — all the people who had anything to do with this gene therapy coming into existence and saving her.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Great Ormond Street Hospital",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "University of California",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "UCLA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "ADA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-16T07:17:24.062+03:00",
+    "updated": "2025-10-16T07:17:24.062+03:00"
+}

@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "2f2f74337b314fa77202926b792e57a1beabb8bd",
+        "url": "https://finlandweekly.com/info/t-2607081460.html",
+        "site_full": "finlandweekly.com",
+        "site": "finlandweekly.com",
+        "site_section": "https://finlandweekly.com/l/Fashion/20070709035419070130",
+        "site_categories": [],
+        "section_title": "\r\n\tWomen's Fashion Online-Women's Fashion-Women's Portal",
+        "site_title": "Finland Weekly-A boutique key news website integrating authority, practicality and immediacy",
+        "title": "Apple's Hide My Email flaw reveals your real address 'in five minutes'",
+        "title_full": "Apple's Hide My Email flaw reveals your real address 'in five minutes'",
+        "published": "2026-07-08T08:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "JP",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2f2f74337b314fa77202926b792e57a1beabb8bd",
+    "url": "https://finlandweekly.com/info/t-2607081460.html",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-07-08T08:00:00.000+03:00",
+    "title": "Apple's Hide My Email flaw reveals your real address 'in five minutes'",
+    "text": "Your email isn’t that hidden,apparently (Picture: Getty/Metro) A popular tool on iPhones and other Apple devices that hides emails has a flaw that reveals users’ personal addresses,researchers claim. Hide My Email creates disposable @icloud.com email addresses made from random letters and numbers. The identity tool,available for Cloud+ subscribers,is designed to ‘keep your personal email address private’,according to Apple. But researchers from the digital privacy firm EasyOptOuts found flaws in Hide My Email,which they claim does the exact opposite. The bugs allow people to peel back the Hide My Email address to reveal a user’s real one. One flaw was discovered and reported to Apple in June 2025,with Apple acknowledging it the following month,according to EasyOptOuts. Hide My Email creates a burner address for people to use when signing up to newsletters (Picture: Apple/Metro) The team found another vulnerability in March,which Apple fixed. ‘About a month ago,we realised that the vulnerabilities’ severity and scope are greater than we initially thought,’ EasyOptOuts said this last week. ‘We’re publicly disclosing the existence of the vulnerabilities now because we think Hide My Email users deserve to know that their email addresses may not actually be hidden. ‘We want people to be able to account for this risk when deciding when and how to use Hide My Email.’ While Apple said in June that the issue had been patched out,tests by 404 Media found it was still there last Monday. Journalist Joseph Cox created a fake Apple email and sent it to EasyOptOuts’s co-founder,Tyler Murphy – just five minutes later,Murphy sent Cox his personal address. The hidden email is offered when using an Apple ID to make an account (Picture: Apple/Metro) Murphy said that his team’s ‘limited tests’ showed ‘100%’ of Hide My Email addresses were exploitable. Neither researchers nor the tech outlet revealed the hack,fearing that cyber crooks could exploit it to nab personal emails. Why is this a bad thing? Emails are digital breadcrumbs for companies – and cybercriminals. Your email address is linked to your personal data,tacked on by companies as you browse for clothes or scroll on TikTok. When you sign up for an account on a shoe brand’s website,for example,sneaky advertiser algorithms transform your email into a code. This string of digits and characters,called a token,travels with your email address. It’s why you might see shoe ads while scrolling on other sites. Data brokers – companies that collect and sell information about shoppers,sometimes on the dark web – upload emails to the online equivalent of the Yellow Pages phonebook. By doing so,people can look up your email address and be shown intimate profiles about you containing,among other things: Your phone number. Home address social media profiles. Marital status. If and where you went to university. Your recent purchases. Your interests,like if you play golf,watch cat videos or donate to charities. That’s a lot of info. Aras Nazarovas,a senior information security researcher at Cybernews,told Metro that this is why your personal email is far more interesting to hackers than your mock one. ‘Hackers may cross-reference the leaked emails against data from previous breaches to gather more information about potential victims,or combine them with publicly available information,such as social media profiles,to build detailed victim profiles,’ Nazarovas said. ‘However,it is important to note that the exploit hasn’t been made public yet,so the actual impact is limited. This gives Apple an opportunity to fix the issue before it could be exploited at scale.’ Apple introduced Hide My Email in 2019,with users asked to make burner emails when using a third-party service,like filling out a form or signing up for a web newsletter. Apple says it has fixed the bug (Picture: Bloomberg/Getty Images) Users can do so when signing up using their Apple ID to hide the email address linked to their Apple account. Whenever the website or app tries to contact you,it will email the phoney address and not your real email. Apple will let you know if they do and,if you consider it spam,you can easily delete your account and the email. Apple said in a note in June that it plans to start generating email addresses using the @private.icloud.com domain rather than @icloud.com. Yet Apple users said the change will make it more obvious to third-party companies when someone uses a hidden email to sign up. Apple has been approached for comment. Get in touch with our news team by emailing us at . For more stories like this, check our news page .",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Apple",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "AAPL",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Getty",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Metro",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "EasyOptOuts",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Hide My Email",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Cloud +",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:25:47.920+03:00",
+    "updated": "2026-07-09T07:25:47.920+03:00"
+}

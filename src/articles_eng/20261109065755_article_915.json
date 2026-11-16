@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "9dcfec58a3f0d6d1921b9be9a991c60d49a86dcb",
+        "url": "https://www.foxnews.com/video/6407980062112",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://moxie.foxnews.com/google-publisher/videos.xml",
+        "site_categories": [
+            "crime, law and justice",
+            "sport",
+            "politics",
+            "arts, culture and entertainment",
+            "media",
+            "social issue"
+        ],
+        "section_title": "The Latest &amp; Breaking Videos on Fox News",
+        "site_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "Cannabis use may raise stroke risk in younger adults, heart health expert warns",
+        "title_full": "Cannabis use may raise stroke risk in younger adults, heart health expert warns",
+        "published": "2026-11-06T06:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bdb7ac2-e673-410c-91fa-aa6cf6958945/467a4512-2bf0-49ae-9e34-f6978b666721/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+        "performance_score": 0,
+        "domain_rank": 509,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-11-06T07:24:47.175+02:00"
+        }
+    },
+    "uuid": "9dcfec58a3f0d6d1921b9be9a991c60d49a86dcb",
+    "url": "https://www.foxnews.com/video/6407980062112",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-11-06T06:05:00.000+02:00",
+    "title": "Cannabis use may raise stroke risk in younger adults, heart health expert warns",
+    "text": "Log in to comment on videos and join in on the fun.\nWatch the live stream of Fox News and full episodes.\nReduce eye strain and focus on the content that matters.\nAmerican Heart Association expert Robert Page warns that cannabis use may increase cardiovascular risks, even in younger adults who don't smoke tobacco. He urges patients to discuss cannabis use with their doctors.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->heart disease",
+        "Health->communicable disease"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Robert Page",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Fox News",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": "FOX",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "American Heart Association",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_us",
+            "top_news"
+        ],
+        "bias": "right",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-11-06T07:24:47.175+02:00",
+    "updated": "2026-11-06T07:27:25.000+02:00",
+    "related_articles": null
+}

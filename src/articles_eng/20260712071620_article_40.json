@@ -1,0 +1,154 @@
+{
+    "thread": {
+        "uuid": "864c944a2a9675a6364cb91e6b166a9ecf020c01",
+        "url": "https://www.newsbreak.com/the-carroll-news-1593751/4759375141721-special-weather-statement-issued-july-8-at-6-52pm-edt-by-nws-blacksburg-va",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/the-carroll-news-1593751",
+        "site_categories": [
+            "human interest",
+            "politics",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "sport",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "social issue",
+            "under_construction",
+            "disaster and accident"
+        ],
+        "section_title": "The Carroll News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Special Weather Statement issued July 8 at 6:52PM EDT by NWS Blacksburg VA - NewsBreak",
+        "title_full": "Special Weather Statement issued July 8 at 6:52PM EDT by NWS Blacksburg VA - NewsBreak",
+        "published": "2026-07-08T21:52:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "864c944a2a9675a6364cb91e6b166a9ecf020c01",
+    "url": "https://www.newsbreak.com/the-carroll-news-1593751/4759375141721-special-weather-statement-issued-july-8-at-6-52pm-edt-by-nws-blacksburg-va",
+    "ord_in_thread": 0,
+    "author": "NWS",
+    "published": "2026-07-08T21:52:00.000+03:00",
+    "title": "Special Weather Statement issued July 8 at 6:52PM EDT by NWS Blacksburg VA - NewsBreak",
+    "text": "By NWS ,\n9 hours ago At 652 PM EDT, Doppler radar was tracking a strong thunderstorm near Spring Valley, or near Speedwell, moving northeast at 5 mph. HAZARD...Wind gusts up to 40 mph. SOURCE...Radar indicated. IMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects. Locations impacted include... Fries... Byllesby... Elk Creek... Cripple Creek... Spring Valley... and Woodlawn.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Blacksburg VA",
+                "sentiment": "none"
+            },
+            {
+                "name": "Spring Valley",
+                "sentiment": "none"
+            },
+            {
+                "name": "Byllesby",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fries",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cripple Creek",
+                "sentiment": "none"
+            },
+            {
+                "name": "Elk Creek",
+                "sentiment": "none"
+            },
+            {
+                "name": "Speedwell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Woodlawn",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Doppler",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:17:57.787+03:00",
+    "updated": "2026-07-09T07:20:42.000+03:00"
+}

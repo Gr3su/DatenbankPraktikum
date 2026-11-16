@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "37fe0987f69456e2fbb12f1bebf06c97ee322d55",
+        "url": "https://local.newsbreak.com/bbc-2085458/4812103110697-myanmar-s-min-aung-hlaing-arrives-in-thailand-on-first-trip-as-civilian-leader",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/bbc-2085458",
+        "site_categories": [
+            "politics",
+            "lifestyle and leisure",
+            "sport",
+            "disaster and accident",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "economy, business and finance"
+        ],
+        "section_title": "BBC&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Myanmar's Min Aung Hlaing arrives in Thailand on first trip as civilian leader - NewsBreak",
+        "title_full": "Myanmar's Min Aung Hlaing arrives in Thailand on first trip as civilian leader - NewsBreak",
+        "published": "2026-08-06T07:18:51.894+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2oRmIf_1DymwQYh00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "37fe0987f69456e2fbb12f1bebf06c97ee322d55",
+    "url": "https://local.newsbreak.com/bbc-2085458/4812103110697-myanmar-s-min-aung-hlaing-arrives-in-thailand-on-first-trip-as-civilian-leader",
+    "ord_in_thread": 0,
+    "author": "Jonathan Head",
+    "published": "2026-08-06T07:18:51.894+03:00",
+    "title": "Myanmar's Min Aung Hlaing arrives in Thailand on first trip as civilian leader - NewsBreak",
+    "text": "By Jonathan Head ,\nnow The military leader has been barred from western countries and accused of crimes against humanity. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue",
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "Social Issue->social condition",
+        "Social Issue->racism",
+        "Social Issue->abusive behaviour",
+        "War, Conflict and Unrest->demonstration",
+        "War, Conflict and Unrest->civil unrest"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.bbc.com/news/articles/clye0n55dd6o?xtor=AL-72-%5Bpartner%5D-%5Bnewsbreak.com%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "https://www.bbc.com/news/articles/clye0n55dd6o",
+        "https://bbc.com/news/articles/clye0n55dd6o?xtor=AL-72-%5Bpartner%5D-%5Bnewsbreak.com%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Min Aung Hlaing",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jonathan Head",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Myanmar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Thailand",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:18:51.894+03:00",
+    "updated": "2026-08-06T07:22:09.000+03:00"
+}

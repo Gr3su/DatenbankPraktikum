@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "7baad25798b7f0faf53a597293678b4e6967e7b9",
+        "url": "https://local.newsbreak.com/fox-news-510075/4948829065538-fbi-returns-most-wanted-fraudster-to-us-after-india-arrest-in-alleged-600k-snap-food-stamp-scheme",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/fox-news-510075",
+        "site_categories": [
+            "sport",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "lifestyle and leisure",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Fox News&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "FBI returns 'Most Wanted' fraudster to US after India arrest in alleged $600K SNAP food stamp scheme - NewsBreak",
+        "title_full": "FBI returns 'Most Wanted' fraudster to US after India arrest in alleged $600K SNAP food stamp scheme - NewsBreak",
+        "published": "2026-10-16T06:29:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2xfPFx_1G9YJRs800",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:23:33.518+03:00"
+        }
+    },
+    "uuid": "7baad25798b7f0faf53a597293678b4e6967e7b9",
+    "url": "https://local.newsbreak.com/fox-news-510075/4948829065538-fbi-returns-most-wanted-fraudster-to-us-after-india-arrest-in-alleged-600k-snap-food-stamp-scheme",
+    "ord_in_thread": 0,
+    "author": "Michael Sinkewicz",
+    "published": "2026-10-16T06:29:00.000+03:00",
+    "title": "FBI returns 'Most Wanted' fraudster to US after India arrest in alleged $600K SNAP food stamp scheme - NewsBreak",
+    "text": "By Michael Sinkewicz ,\n54 minutes ago FBI Director Kash Patel announced Manjit Singh Bedi, accused of stealing over $600,000 in SNAP benefits in Tacoma, has been returned from India. Read full article\n10",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->corruption",
+        "Crime, Law and Justice->fraud",
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.foxnews.com/us/fbi-returns-most-wanted-fraudster-us-after-india-arrest-alleged-600k-snap-food-stamp-fraud-scheme",
+        "https://foxnews.com/us/fbi-returns-most-wanted-fraudster-us-after-india-arrest-alleged-600k-snap-food-stamp-fraud-scheme"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://local.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsad.38f2c935.png&w=48&q=75",
+        "https://local.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75",
+        "https://local.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flove.1014aed4.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael Sinkewicz",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Kash Patel",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Manjit Singh Bedi",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "US",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tacoma",
+                "sentiment": "none"
+            },
+            {
+                "name": "India",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FBI",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:23:33.518+03:00",
+    "updated": "2026-10-16T07:26:02.000+03:00",
+    "related_articles": null
+}

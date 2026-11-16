@@ -1,0 +1,152 @@
+{
+    "thread": {
+        "uuid": "7b922c1e7305a12427e93d200cf2382ebfb78e6b",
+        "url": "https://local.newsbreak.com/cnn-510076/4703980655889-trump-calls-graham-platner-outright-pig-after-primary-win",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/headlines",
+        "site_categories": [
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "sport",
+            "politics",
+            "human interest",
+            "crime, law and justice"
+        ],
+        "section_title": "Headlines | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Trump calls Graham Platner 'outright pig' after primary win - NewsBreak",
+        "title_full": "Trump calls Graham Platner 'outright pig' after primary win - NewsBreak",
+        "published": "2026-06-11T06:42:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0dBn27_1CEqIuOI00",
+        "performance_score": 0,
+        "domain_rank": 2951,
+        "domain_rank_updated": "2026-06-08T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7b922c1e7305a12427e93d200cf2382ebfb78e6b",
+    "url": "https://local.newsbreak.com/cnn-510076/4703980655889-trump-calls-graham-platner-outright-pig-after-primary-win",
+    "ord_in_thread": 0,
+    "author": "CNN",
+    "published": "2026-06-11T06:42:00.000+03:00",
+    "title": "Trump calls Graham Platner 'outright pig' after primary win - NewsBreak",
+    "text": "By CNN ,\n45 minutes ago The President called Graham Platner an “outright pig” after his Maine Senate primary win. The NewsNight panel debated the selective outrage when it comes to one party discussing another’s candidate but not holding their own party’s leaders to the same standards. Read full article\n3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->political candidates",
+        "Politics->political campaigns",
+        "Politics->censorship and freedom of speech"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cnn.com/2026/06/10/politics/video/trump-calls-graham-platner-outright-pig-after-primary-win",
+        "https://cnn.com/2026/06/10/politics/video/trump-calls-graham-platner-outright-pig-after-primary-win"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Graham Platner",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "CNN",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "WBD",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Maine Senate",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsNight",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-11T07:29:03.282+03:00",
+    "updated": "2026-06-11T14:04:39.000+03:00"
+}

@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "2c4657811d215246dea3a9b2aa64c1ad02db3695",
+        "url": "https://www.newsbreak.com/news/4499750748020-kansas-disaster-declaration-prepares-state-for-world-cup-visitor-boom",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/quenemo-ks",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Quenemo, KS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Kansas disaster declaration prepares state for World Cup visitor boom - NewsBreak",
+        "title_full": "Kansas disaster declaration prepares state for World Cup visitor boom - NewsBreak",
+        "published": "2026-02-19T00:47:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0JZVBT_18z2lpNx00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-15T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2c4657811d215246dea3a9b2aa64c1ad02db3695",
+    "url": "https://www.newsbreak.com/news/4499750748020-kansas-disaster-declaration-prepares-state-for-world-cup-visitor-boom",
+    "ord_in_thread": 0,
+    "author": "Anna Kaminski, Kansas Reflector",
+    "published": "2026-02-19T00:47:00.000+02:00",
+    "title": "Kansas disaster declaration prepares state for World Cup visitor boom - NewsBreak",
+    "text": "By Anna Kaminski, Kansas Reflector ,\n6 hours ago TOPEKA — The 2026 North American FIFA World Cup prompted Kansas Gov. Laura Kelly to declare a state of disaster emergency in three counties, anticipating effects from four base camps in the Kansas City-area. The influx of an estimated 650,000 visitors to the region is expected to place strain... Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Disaster and Accident",
+        "Politics"
+    ],
+    "topics": [
+        "Disaster and Accident->disaster",
+        "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Anna Kaminski",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Laura Kelly",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kansas City",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Quenemo"
+            ],
+            "state": [
+                "Kansas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-19T07:16:23.119+02:00",
+    "updated": "2026-02-19T07:23:47.000+02:00"
+}

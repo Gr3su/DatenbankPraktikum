@@ -1,0 +1,148 @@
+{
+    "thread": {
+        "uuid": "4c467e3372dd478aadd148460c6f2d396fbe0eea",
+        "url": "https://www.newsbreak.com/news/4511201141592-unfortunately-the-tree-must-be-removed-historic-300-year-old-oak-tree-taken-down-in-chatham-co",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/savannah-ga",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Savannah, GA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "'Unfortunately, the tree must be removed': Historic 300-year-old oak tree taken down in Chatham Co. - NewsBreak",
+        "title_full": "'Unfortunately, the tree must be removed': Historic 300-year-old oak tree taken down in Chatham Co. - NewsBreak",
+        "published": "2026-02-25T16:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1no0js_199adnBs00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-22T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4c467e3372dd478aadd148460c6f2d396fbe0eea",
+    "url": "https://www.newsbreak.com/news/4511201141592-unfortunately-the-tree-must-be-removed-historic-300-year-old-oak-tree-taken-down-in-chatham-co",
+    "ord_in_thread": 0,
+    "author": "Cam McCann",
+    "published": "2026-02-25T16:50:00.000+02:00",
+    "title": "'Unfortunately, the tree must be removed': Historic 300-year-old oak tree taken down in Chatham Co. - NewsBreak",
+    "text": "By Cam McCann Summer Swanson ,\n14 hours ago CHATHAM COUNTY, Ga. (WTOC) - Georgia Power issued an update about a live oak on Little Neck Road that has garnered significant community attention this month. In a quote to WTOC, Georgia Power said while they understand the oak’s significance, the tree must be removed. “We appreciate the important... Read full article\nRead in NewsBreak 2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Environment"
+    ],
+    "topics": [
+        "Environment->nature",
+        "Environment->conservation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Cam McCann",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Ga.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chatham Co",
+                "sentiment": "none"
+            },
+            {
+                "name": "Little Neck Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Georgia Power",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "GPE",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "WTOC",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "4c467e3372dd478aadd148460c6f2d396fbe0eea",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-26T07:16:48.986+02:00",
+    "updated": "2026-02-26T07:19:37.000+02:00"
+}

@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "065f6b9bf20cf12e1f5b1fe0a54aee135a1f2858",
+        "url": "https://www.newsbreak.com/sfgate-1592113/4961715082773-safeway-to-shutter-its-61-year-old-bay-area-factory",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/san-mateo-ca",
+        "site_categories": [
+            "under_construction",
+            "politics",
+            "economy, business and finance",
+            "sport",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "San Mateo, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Safeway to shutter its 61-year-old Bay Area factory - NewsBreak",
+        "title_full": "Safeway to shutter its 61-year-old Bay Area factory - NewsBreak",
+        "published": "2026-10-23T01:35:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2l3tN6_1GMXJpqF00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T07:09:38.579+03:00"
+        }
+    },
+    "uuid": "065f6b9bf20cf12e1f5b1fe0a54aee135a1f2858",
+    "url": "https://www.newsbreak.com/sfgate-1592113/4961715082773-safeway-to-shutter-its-61-year-old-bay-area-factory",
+    "ord_in_thread": 0,
+    "author": "Susana Guerrero",
+    "published": "2026-10-23T01:35:00.000+03:00",
+    "title": "Safeway to shutter its 61-year-old Bay Area factory - NewsBreak",
+    "text": "By Susana Guerrero ,\n5 hours ago The Richmond plant will close by the end of the year. Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Labor"
+    ],
+    "topics": [
+        "Labor->employment",
+        "Labor->labour market"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.sfgate.com/food/article/safeway-bread-plant-richmond-closure-22489621.php",
+        "https://sfgate.com/food/article/safeway-bread-plant-richmond-closure-22489621.php"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Susana Guerrero",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Bay Area",
+                "sentiment": "none"
+            },
+            {
+                "name": "Richmond",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Safeway",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "San Mateo"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:09:38.579+03:00",
+    "updated": "2026-10-23T07:12:20.000+03:00",
+    "related_articles": null
+}

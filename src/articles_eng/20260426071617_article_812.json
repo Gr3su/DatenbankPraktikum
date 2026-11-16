@@ -1,0 +1,154 @@
+{
+    "thread": {
+        "uuid": "9d14dbc7e267a44cfa1f923b634a184b68f66db2",
+        "url": "https://www.hindustantimes.com/india-news/bypolls-live-updates-baramati-voter-turnout-sunetra-pawar-ruhari-umreth-gujarat-bypoll-elections-2026-101776916688530.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/ht-insight/future-tech",
+        "site_categories": [
+            "politics",
+            "war, conflict and unrest",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "economy, business and finance",
+            "media"
+        ],
+        "section_title": "Latest News and Updates on Future Tech | Future Tech HT Insight | Hindustan Times",
+        "site_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+        "title": "Voting underway for Baramati, Rahuri and Umreth bypolls | Latest updates| India News",
+        "title_full": "Voting underway for Baramati, Rahuri and Umreth bypolls | Latest updates| India News",
+        "published": "2026-04-23T07:25:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/04/23/550x309/Sunetra_Pawar_oath_1769860144545_1769860162976_1776917116855.jpeg",
+        "performance_score": 0,
+        "domain_rank": 825,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9d14dbc7e267a44cfa1f923b634a184b68f66db2",
+    "url": "https://www.hindustantimes.com/india-news/bypolls-live-updates-baramati-voter-turnout-sunetra-pawar-ruhari-umreth-gujarat-bypoll-elections-2026-101776916688530.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-04-23T07:25:00.000+03:00",
+    "title": "Voting underway for Baramati, Rahuri and Umreth bypolls | Latest updates| India News",
+    "text": "Latest updates on bypolls:\nBaramati: In Maharashtra, deputy chief minister Sunetra Pawar, who is contesting from Baramati, is riding a sympathy wave and has a higher chance of winning after the death of her husband and deputy chief minister Ajit Pawar earlier this year.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->regional elections",
+        "Politics->political candidates",
+        "Politics->voting"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rahuri",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Umreth",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Baramati",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sunetra Pawar",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ajit Pawar",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "India News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-23T07:32:38.865+03:00",
+    "updated": "2026-04-23T07:43:27.000+03:00"
+}

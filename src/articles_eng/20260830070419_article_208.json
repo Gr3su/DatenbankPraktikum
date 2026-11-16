@@ -1,0 +1,116 @@
+{
+    "thread": {
+        "uuid": "073ad5852f08cb58647b06a2997e08dbd72dd5c7",
+        "url": "https://tass.com/emergencies/2178125",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/politics/1873945",
+        "site_categories": [
+            "science and technology",
+            "media",
+            "economy, business and finance",
+            "war, conflict and unrest",
+            "politics"
+        ],
+        "section_title": "Ukrainian militants trained in special camps since 2005 — former SBU officer -  Russian Politics &amp; Diplomacy - TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Foreign nationals from 28 countries among 579 missing after Nepal floods - police",
+        "title_full": "Foreign nationals from 28 countries among 579 missing after Nepal floods - police",
+        "published": "2026-08-27T06:21:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 13468,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "073ad5852f08cb58647b06a2997e08dbd72dd5c7",
+    "url": "https://tass.com/emergencies/2178125",
+    "ord_in_thread": 0,
+    "author": "TASS",
+    "published": "2026-08-27T06:21:00.000+03:00",
+    "title": "Foreign nationals from 28 countries among 579 missing after Nepal floods - police",
+    "text": "NEW DELHI, August 27. /TASS/. At least 466 foreign nationals are listed as missing following the flooding in Nepal, local police said.\nA total of 579 people are listed as missing, including 466 foreign nationals from 28 countries and 113 Nepalese citizens. The Russian Embassy in Nepal earlier said that at least four Russian nationals had been in the disaster area, and that contact with them had been lost.\nAccording to the latest figures, the bodies of 162 people have been recovered. Rescue operations are continuing.",
+    "summary": "At least 466 foreign nationals are listed as missing following the flooding in Nepal, local police said. A total of 579 people are listed as missing, including 466 foreign nationals from 28 countries and 113 Nepalese citizens. The Russian Embassy in Nepal earlier said that at least four Russian nationals had been in the disaster area, and that contact with them had been lost. According to the latest figures, the bodies of 162 people have been recovered. Rescue operations are continuing.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->emergency response",
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Nepal",
+                "sentiment": "none"
+            },
+            {
+                "name": "NEW DELHI",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Russian Embassy",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:11:07.592+03:00",
+    "updated": "2026-08-27T07:12:41.000+03:00"
+}

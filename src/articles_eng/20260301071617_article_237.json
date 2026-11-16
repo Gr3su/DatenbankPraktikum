@@ -1,0 +1,155 @@
+{
+    "thread": {
+        "uuid": "db85dc321ea71b9c2e6ecc101cfdae943fe79941",
+        "url": "https://www.hindustantimes.com/india-news/after-pm-modi-says-israel-was-created-on-his-birth-date-congress-nehru-reply-101772081881261.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/",
+        "site_categories": [
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "media",
+            "politics",
+            "economy, business and finance",
+            "crime, law and justice"
+        ],
+        "section_title": "Latest News: Today’s News Headlines, Breaking News India, World News and Cricket News | Latest News Today | Hindustan Times",
+        "site_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+        "title": "After PM Modi says Israel was created on his birth date, Congress' 'Nehru' reply| India News",
+        "title_full": "After PM Modi says Israel was created on his birth date, Congress' 'Nehru' reply| India News",
+        "published": "2026-02-26T07:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/02/26/550x309/Modi_Nehru_1772081907911_1772081956046.jpg",
+        "performance_score": 0,
+        "domain_rank": 825,
+        "domain_rank_updated": "2026-02-22T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "db85dc321ea71b9c2e6ecc101cfdae943fe79941",
+    "url": "https://www.hindustantimes.com/india-news/after-pm-modi-says-israel-was-created-on-his-birth-date-congress-nehru-reply-101772081881261.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-02-26T07:13:00.000+02:00",
+    "title": "After PM Modi says Israel was created on his birth date, Congress' 'Nehru' reply| India News",
+    "text": "India-Israel ties over the years\nIndia formally recognised Israel in September 1950, though full diplomatic relations were established only in 1992. Over the decades, India’s ties with Israel have expanded significantly, particularly in defence, agriculture and technology.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->international relations",
+        "Politics->political development"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Modi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Nehru",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Israel",
+                "sentiment": "none"
+            },
+            {
+                "name": "India",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "India News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-26T07:22:35.570+02:00",
+    "updated": "2026-02-26T07:26:50.000+02:00"
+}

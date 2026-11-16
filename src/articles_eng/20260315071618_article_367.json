@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "a7109e42712e234aaf9ea85b4e50b410f74f71a2",
+        "url": "https://www.hindustantimes.com/india-news/two-indian-ships-allowed-to-pass-through-strait-of-hormuz-amid-iran-us-war-101773292129044.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/htcity",
+        "site_categories": [
+            "economy, business and finance",
+            "crime, law and justice",
+            "war, conflict and unrest",
+            "media",
+            "lifestyle and leisure",
+            "politics"
+        ],
+        "section_title": "Htcity Updates on Entertainment Foodies, Showstoppers, Cinema, Junctions Wellness Decor, Tours and Trips | Hindustan Times",
+        "site_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+        "title": "Two Indian ships allowed to pass through Strait of Hormuz amid Iran-US war| India News",
+        "title_full": "Two Indian ships allowed to pass through Strait of Hormuz amid Iran-US war| India News",
+        "published": "2026-03-12T07:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/03/12/550x309/strait_of_hormuz_indian_ships_1773292543394_1773292543537.jpg",
+        "performance_score": 0,
+        "domain_rank": 825,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a7109e42712e234aaf9ea85b4e50b410f74f71a2",
+    "url": "https://www.hindustantimes.com/india-news/two-indian-ships-allowed-to-pass-through-strait-of-hormuz-amid-iran-us-war-101773292129044.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-03-12T07:14:00.000+02:00",
+    "title": "Two Indian ships allowed to pass through Strait of Hormuz amid Iran-US war| India News",
+    "text": "Two Indian-flagged ships are said to have been allowed to pass through Strait of Hormuz amid Iran-US war, even as most vessels remain stranded over fears being caught in the crossfire that started on February 28.Sources said the Indian ships began transiting safely through the Strait between Wednesday night and Thursday morning. This comes after a Liberian flagged tanker hauling Saudi Arabian crude, captained by an Indian, cleared the Strait of Hormuz two days ago and has berthed at the port of Mumbai, becoming the first India-destined vessel to safely transit the waterway, where maritime traffic has all but halted since the US and Israel attacked Iran.",
+    "summary": "Two Indian-flagged ships are said to have been allowed to pass through Strait of Hormuz amid Iran-US war, even as most vessels remain stranded over fears being caught in the crossfire that started on February 28.Sources said the Indian ships began transiting safely through the Strait between Wednesday night and Thursday morning.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->war",
+        "Economy, Business and Finance->market and exchange",
+        "Economy, Business and Finance->foreign exchange market",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Strait of Hormuz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mumbai",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "India News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-12T07:24:17.292+02:00",
+    "updated": "2026-03-12T07:28:09.000+02:00"
+}

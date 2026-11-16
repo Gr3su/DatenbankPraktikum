@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "672e0166feaf04fe43cdc741ebfb048a634e6daf",
+        "url": "https://time.news/cybersecurity-skills-gap-defenders-vs-attackers/",
+        "site_full": "time.news",
+        "site": "time.news",
+        "site_section": "https://time.news/feed/",
+        "site_categories": [],
+        "section_title": "TIme News",
+        "site_title": "TIme News - time.news",
+        "title": "Cybersecurity Skills Gap: Defenders vs. Attackers",
+        "title_full": "Cybersecurity Skills Gap: Defenders vs. Attackers",
+        "published": "2026-01-29T07:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.cybersecurity-insiders.com/wp-content/uploads/Hackers.jpeg",
+        "performance_score": 0,
+        "domain_rank": 416973,
+        "domain_rank_updated": "2026-01-25T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "672e0166feaf04fe43cdc741ebfb048a634e6daf",
+    "url": "https://time.news/cybersecurity-skills-gap-defenders-vs-attackers/",
+    "ord_in_thread": 0,
+    "author": "Priyanka Patel",
+    "published": "2026-01-29T07:17:00.000+02:00",
+    "title": "Cybersecurity Skills Gap: Defenders vs. Attackers",
+    "text": "The cybersecurity landscape is undergoing a seismic shift: threat actors are no longer working in isolation, but forming collaborative “supergroups” that are harder to detect and more damaging than ever before.\nThe Rise of Cybersecurity’s “Boy Bands”\nA new era of collaboration among cybercriminals is reshaping the threat landscape, demanding a fundamental rethink of defensive strategies.\n- For years, cybersecurity professionals viewed threats as coming from distinct groups – ransomware, nation-states, hacktivists – each wiht unique motivations.\n- That model is obsolete.Today’s most sophisticated attackers are pooling resources, sharing intelligence, and coordinating attacks.\n- This collaboration isn’t a formal merger, but a fluid ecosystem where actors align incentives and specialize in different phases of an attack.\n- Defenders are struggling to keep pace due to fragmented intelligence sharing and the sheer speed of modern attacks.\nFor years, cybersecurity professionals modeled cyber threats as seperate actors operating in parallel. Ransomware groups chased profit,nation-state actors focused on espionage,and hacktivists caused disruption.Each had distinct motives, tooling, and targets. That mental model no longer reflects reality.\nToday, manny of the most capable threat actors are collaborating, sharing intelligence, and combining skill sets in adaptive, outcome-driven alliances. It is not a permanent merger or a single unified group. It is indeed closer to a supergroup model. Different players come together, pool their strengths, execute campaigns, and either disband or continue working together when cooperation proves effective. It may sound informal, but this “boy band” effect is becoming one of the most important dynamics in the modern threat landscape.\nFrom Isolated Groups to Coordinated Operations\nThreat actor collaboration isn’t entirely new; criminal forums and marketplaces have existed for years. What has changed is the depth and intent of cooperation.Recent reporting on overlapping activity between groups such as ShinnyHunters, LAPSUS$, and Scattered Spider illustrates how this model plays out in practice. These actors have demonstrated repeated convergence around shared access, tooling, or opportunities, collaborating when incentives align rather than operating as fixed, monolithic organizations. The result is a fluid ecosystem where roles and partnerships evolve based on what works, not rigid group identity.\nWe are now seeing groups coordinate across the full attack lifecycle. One team may specialize in initial access,another focuses on lateral movement or credential abuse,and a third handles data theft,extortion,or resale. Each contribution on its own may look unremarkable. Together, they form a campaign that is faster, more adaptive, and harder to detect. These collaborations don’t need to last long to be effective; a single coordinated operation can create more damage than months of isolated activity.\nThe Implications for Defense\nThe collaborative nature of these attacks presents significant challenges for defenders. Customary security tools and strategies are designed to detect isolated incidents, not coordinated campaigns. By the time an alert reaches the hands of an analyst, the opportunity to stop the attack has passed. This makes trust in untested controls risky. Detection and response capabilities must work as expected without human intervention. Assumptions are no longer sufficient. Defenders need confidence that their controls will detect coordinated, multi-stage attacks the moment they occur.\nWhat Needs to Change\nThe rise of adversary supergroups requires a shift in defensive thinking. First, intelligence sharing must become more operational. Reports alone aren’t enough; insights must be timely, contextual, and usable across environments. Second, organizations must continuously validate their defenses against real attacker behavior. Testing weather controls can stop today’s tactics is the only way to know they will perform tomorrow. security teams must reward curiosity. Many threats are missed not as data is unavailable, but because the signal looks normal enough to ignore. In a collaborative threat landscape, that assumption is costly.\nCyber threats are no longer solo acts. They are coordinated performances built from shared access,shared intelligence,and shared tooling. The “boy band” era of cybersecurity isn’t a metaphor for show; it reflects a structural shift in how attacks are assembled and executed.Defenders who continue to plan for isolated actors will fall behind those who recognise collaboration as the new baseline.Attackers are already working together, and defense strategies must keep up accordingly.",
+    "summary": "The cybersecurity landscape is undergoing a seismic shift: threat actors are no longer working in isolation, but forming collaborative “supergroups” that are harder to detect and more damaging than ever before. The Rise of Cybersecurity’s “Boy Bands” A new era of collaboration among cybercriminals is reshaping the threat landscape, demanding a fundamental rethink of defensive strategies. What has changed is the depth and intent of cooperation.Recent reporting on overlapping activity between groups such as ShinnyHunters, LAPSUS$, and Scattered Spider illustrates how this model plays out in practice.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-29T07:26:56.979+02:00",
+    "updated": "2026-01-29T07:26:56.979+02:00"
+}

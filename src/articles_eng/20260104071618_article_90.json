@@ -1,0 +1,164 @@
+{
+    "thread": {
+        "uuid": "6b0bc46898f3c03e7ffa00b36c1d94ddb82ea7df",
+        "url": "https://www.news18.com/world/us-coast-guard-searches-for-survivors-after-strikes-on-alleged-drug-vessels-ws-d-9803489.html",
+        "site_full": "www.news18.com",
+        "site": "news18.com",
+        "site_section": "https://www.news18.com/livetv/",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news",
+            "arts, culture and entertainment",
+            "human interest",
+            "economy, business and finance",
+            "health",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "CNN News18 Live TV - Watch Breaking News from India &amp; World | Today&#x27;s News Headlines | Live Streaming TV Online",
+        "site_title": "News: Get Latest News Today, Breaking News, Top News Headlines, India and World News | News18",
+        "title": "US Coast Guard Searches For Survivors After Strikes On Alleged Drug Vessels | World News - News18",
+        "title_full": "US Coast Guard Searches For Survivors After Strikes On Alleged Drug Vessels | World News - News18",
+        "published": "2026-01-01T07:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.news18.com/ibnlive/uploads/2026/01/1920-2026-01-5a12e4679bc6a77c474075d693dd17f6-16x9.jpg",
+        "performance_score": 0,
+        "domain_rank": 3556,
+        "domain_rank_updated": "2025-12-28T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6b0bc46898f3c03e7ffa00b36c1d94ddb82ea7df",
+    "url": "https://www.news18.com/world/us-coast-guard-searches-for-survivors-after-strikes-on-alleged-drug-vessels-ws-d-9803489.html",
+    "ord_in_thread": 0,
+    "author": "@cnnnews18",
+    "published": "2026-01-01T07:20:00.000+02:00",
+    "title": "US Coast Guard Searches For Survivors After Strikes On Alleged Drug Vessels | World News - News18",
+    "text": "The United States Coast Guard is conducting a search for survivors following a US military strike on a convoy of suspected drug vessels in the Pacific Ocean, according to US officials on Wednesday. Since September, President Donald Trump’s administration has executed over 30 strikes against suspected drug boats in the Caribbean and Pacific, resulting in at least 110 fatalities. The US military’s Southern Command, in a statement, said the military had carried out a strike against three vessels. “Three narco-terrorists aboard the first vessel were killed in the first engagement. The remaining narco-terrorists abandoned the other two vessels, jumping overboard and distancing themselves before follow-on engagements sank their respective vessels,\" Southern Command wrote on X. A US official, speaking on the condition of anonymity, said eight people had abandoned their vessels, as a result of the strikes on the convoy of vessels. The Coast Guard told Reuters it had deployed a C-130 aircraft to look for survivors and was working with vessels in the area. Earlier, in October, two survivors were repatriated to their home countries after surviving a US military strike. Later that month, Mexican authorities launched a search and rescue effort after another US strike left a survivor. However, the individual was not found. The decision to strike the vessels but not the survivors comes after it was revealed that during a September attack, the US military carried out a follow-on strike against a suspected drug vessel that had two survivors on it. The lethal strikes on drug vessels are part of a broader campaign that the Trump administration says is aimed at cutting off the supply of illegal drugs. Legal experts and Democratic lawmakers have questioned the legality of the strikes. The strikes come amid a pressure campaign against Venezuelan President Nicolas Maduro’s government and a massive US military buildup in the region. (With agency inputs)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice",
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "Crime, Law and Justice->drug related crimes",
+        "War, Conflict and Unrest->armed conflict"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Pacific Ocean",
+                "sentiment": "none"
+            },
+            {
+                "name": "Caribbean",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Southern Command",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Coast Guard",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TRI",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "6b0bc46898f3c03e7ffa00b36c1d94ddb82ea7df",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-01T07:20:56.608+02:00",
+    "updated": "2026-01-02T08:07:10.000+02:00"
+}

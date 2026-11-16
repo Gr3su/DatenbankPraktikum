@@ -1,0 +1,146 @@
+{
+    "thread": {
+        "uuid": "167eccb20433427476cdc4f2c1a2f1815f54dd77",
+        "url": "https://www.newsbreak.com/news/4825752139123-fort-wayne-mother-sounds-alarm-after-claims-of-ebt-fraud",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/fort-wayne-in",
+        "site_categories": [
+            "social issue",
+            "arts, culture and entertainment",
+            "under_construction",
+            "crime, law and justice",
+            "economy, business and finance",
+            "human interest",
+            "politics",
+            "lifestyle and leisure",
+            "health",
+            "sport",
+            "science and technology"
+        ],
+        "section_title": "Fort Wayne, IN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Fort Wayne mother sounds alarm after claims of EBT fraud - NewsBreak",
+        "title_full": "Fort Wayne mother sounds alarm after claims of EBT fraud - NewsBreak",
+        "published": "2026-08-13T01:51:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0eqXP8_1EBXNHCY00",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "167eccb20433427476cdc4f2c1a2f1815f54dd77",
+    "url": "https://www.newsbreak.com/news/4825752139123-fort-wayne-mother-sounds-alarm-after-claims-of-ebt-fraud",
+    "ord_in_thread": 0,
+    "author": "Lyric Powell-Olawumi",
+    "published": "2026-08-13T01:51:00.000+03:00",
+    "title": "Fort Wayne mother sounds alarm after claims of EBT fraud - NewsBreak",
+    "text": "By Lyric Powell-Olawumi ,\n5 hours ago FORT WAYNE, Ind. (WPTA) - A Fort Wayne mother is sounding the alarm after she claims her entire monthly food budget vanished in an instant. The woman says that scammers cloned her EBT card before she could buy a single grocery item. La’torie Frizzle was ready to check grocery and... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue"
+    ],
+    "topics": [
+        "Social Issue->social services",
+        "Social Issue->social problem",
+        "Social Issue->discrimination",
+        "Social Issue->illegal immigration",
+        "Social Issue->family planning",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.21alivenews.com/2026/08/12/fort-wayne-mother-sounds-alarm-after-claims-ebt-fraud/?outputType=amp",
+        "https://21alivenews.com/2026/08/12/fort-wayne-mother-sounds-alarm-after-claims-ebt-fraud/?outputType=amp",
+        "https://www.21alivenews.com/2026/08/12/fort-wayne-mother-sounds-alarm-after-claims-ebt-fraud/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Fort Wayne",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "EBT",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "WPTA",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:30:02.326+03:00",
+    "updated": "2026-08-13T07:31:36.000+03:00"
+}

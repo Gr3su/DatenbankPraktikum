@@ -1,0 +1,124 @@
+{
+    "thread": {
+        "uuid": "2c53936f31f62b86b9870fabded0ba91c04046e6",
+        "url": "https://www.newsbreak.com/reuters-555486/4160915072271-japanese-investors-ditch-foreign-stocks-on-us-economic-concerns-tariff-tensions",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/reuters-555486",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "Reuters&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Japanese investors ditch foreign stocks on US economic concerns, tariff tensions - NewsBreak",
+        "title_full": "Japanese investors ditch foreign stocks on US economic concerns, tariff tensions - NewsBreak",
+        "published": "2025-08-07T07:24:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/40pP19_13YdQslR00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2c53936f31f62b86b9870fabded0ba91c04046e6",
+    "url": "https://www.newsbreak.com/reuters-555486/4160915072271-japanese-investors-ditch-foreign-stocks-on-us-economic-concerns-tariff-tensions",
+    "ord_in_thread": 0,
+    "author": "Reuters",
+    "published": "2025-08-07T07:24:00.000+03:00",
+    "title": "Japanese investors ditch foreign stocks on US economic concerns, tariff tensions - NewsBreak",
+    "text": "(Reuters) -Japanese investors significantly sold foreign stocks in the week to August 2 as major markets retreated on caution over U.S. economic outlook and a new set of trade tariffs. According to data from Japan's Ministry of Finance released on Thursday, domestic investors withdrew a net 752.1 billion yen ($5.10 billion) out of foreign stocks last week, reversing two successive weeks of net purchases. The MSCI World Index lost a sharp 2.54% last week, the most in three months, pressured by a disappointing U.S. jobs report for July, and President Donald Trump's new round of punishing tariffs on dozens of countries. Despite the recent withdrawals, overseas stock markets have still received a massive 3.37 trillion yen worth of Japanese investments so far this year compared with a net 915.8 billion yen sales a year ago. They also sold foreign long-term bonds of 526.3 billion yen for the second successive week on the run. Meanwhile, Japanese stock markets saw approximately 193 billion yen in weekly net investments from overseas, the smallest amount in six weeks. In local bond markets, foreign outflows from long-term bonds cooled to a three-week low of 87.5 billion yen. Short-term bills saw 1.2 trillion yen of net foreign inflows after a net 1.95 trillion yen weekly outflow in the previous week. ($1 = 147.5800 yen) (Reporting by Gaurav Dogra in Bengaluru; Editing by Mrigank Dhaniwala)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Politics->international relations",
+        "Politics->foreign aid",
+        "Politics->economic policy",
+        "Social Issue->welfare",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "TRI",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Ministry of Finance",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "2c53936f31f62b86b9870fabded0ba91c04046e6",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-07T07:35:21.199+03:00",
+    "updated": "2025-08-07T07:41:10.000+03:00"
+}

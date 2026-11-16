@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "0fa5e7df5dee29d1af58c1552501fe201e5178cc",
+        "url": "https://www.newsbreak.com/news/4810799760914-morenci-to-begin-mosquito-control-spraying-in-august",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/archbold-oh",
+        "site_categories": [
+            "sport",
+            "human interest",
+            "health",
+            "politics",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "under_construction",
+            "social issue",
+            "crime, law and justice",
+            "economy, business and finance"
+        ],
+        "section_title": "Archbold, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Morenci to begin mosquito control spraying in August - NewsBreak",
+        "title_full": "Morenci to begin mosquito control spraying in August - NewsBreak",
+        "published": "2026-08-05T16:34:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/03huEc_1DxTC08u00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0fa5e7df5dee29d1af58c1552501fe201e5178cc",
+    "url": "https://www.newsbreak.com/news/4810799760914-morenci-to-begin-mosquito-control-spraying-in-august",
+    "ord_in_thread": 0,
+    "author": "bryanvish",
+    "published": "2026-08-05T16:34:00.000+03:00",
+    "title": "Morenci to begin mosquito control spraying in August - NewsBreak",
+    "text": "By bryanvish ,\n14 hours ago MORENCI — The City of Morenci is reminding residents to eliminate standing water around their homes as the Department of Public Works prepares to begin mosquito-control spraying later this month. City officials say mosquitoes can breed in even small amounts of standing water. Residents are encouraged to empty water... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->government health care",
+        "Health->communicable disease"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wlen.com/2026/08/05/morenci-to-begin-mosquito-control-spraying-in-august/",
+        "https://wlen.com/2026/08/05/morenci-to-begin-mosquito-control-spraying-in-august/",
+        "https://www.wlen.com/2026/08/05/morenci-to-begin-mosquito-control-spraying-in-august"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "City of Morenci",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Department of Public Works",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Archbold"
+            ],
+            "state": [
+                "Ohio"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:42:37.411+03:00",
+    "updated": "2026-08-06T07:45:24.000+03:00"
+}

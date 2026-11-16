@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "9c168268005dd37aa01051855027a068db4f6d93",
+        "url": "https://www.newsbreak.com/news/4545030098879-massive-spring-break-crowd-flees-florida-beach-as-takeover-events-cause-chaos",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/daytona-beach-fl",
+        "site_categories": [
+            "human interest",
+            "under_construction",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "politics",
+            "sport",
+            "economy, business and finance"
+        ],
+        "section_title": "Daytona Beach, FL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Massive spring break crowd flees Florida beach as \"takeover\" events cause chaos - NewsBreak",
+        "title_full": "Massive spring break crowd flees Florida beach as \"takeover\" events cause chaos - NewsBreak",
+        "published": "2026-03-17T21:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3RqEBo_19hg6B2r00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9c168268005dd37aa01051855027a068db4f6d93",
+    "url": "https://www.newsbreak.com/news/4545030098879-massive-spring-break-crowd-flees-florida-beach-as-takeover-events-cause-chaos",
+    "ord_in_thread": 0,
+    "author": "CBS News",
+    "published": "2026-03-17T21:35:00.000+02:00",
+    "title": "Massive spring break crowd flees Florida beach as \"takeover\" events cause chaos - NewsBreak",
+    "text": "By CBS News ,\n1 days ago Spring break “takeovers” have started to overwhelm some Florida cities and local officials. The massive gatherings are organized on social media and pose danger “because they are organized by promoters and the city is not aware of it,” Daytona Beach Commissioner Stacy Cantu said. In Daytona... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Social Issue"
+    ],
+    "topics": [
+        "Disaster and Accident->emergency response",
+        "Disaster and Accident->disaster",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Stacy Cantu",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Florida",
+                "sentiment": "none"
+            },
+            {
+                "name": "Daytona Beach",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "CBS News",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Daytona Beach"
+            ],
+            "state": [
+                "Florida"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:33:07.690+02:00",
+    "updated": "2026-03-19T07:40:54.000+02:00"
+}

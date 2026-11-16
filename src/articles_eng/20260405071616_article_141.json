@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "60a40bbbba3d3f9080ad28572b78c55d16d83b13",
+        "url": "https://www.newsbreak.com/news/4571840754281-man-arrested-after-shots-fired-at-bar-in-west-haven",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/new-haven-ct",
+        "site_categories": [
+            "sport",
+            "human interest",
+            "under_construction",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "arts, culture and entertainment",
+            "lifestyle and leisure"
+        ],
+        "section_title": "New Haven, CT Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Man arrested after shots fired at bar in West Haven - NewsBreak",
+        "title_full": "Man arrested after shots fired at bar in West Haven - NewsBreak",
+        "published": "2026-04-02T05:38:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2J3jKV_1A7h2eGc00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "60a40bbbba3d3f9080ad28572b78c55d16d83b13",
+    "url": "https://www.newsbreak.com/news/4571840754281-man-arrested-after-shots-fired-at-bar-in-west-haven",
+    "ord_in_thread": 0,
+    "author": "Daniel Duric",
+    "published": "2026-04-02T05:38:00.000+03:00",
+    "title": "Man arrested after shots fired at bar in West Haven - NewsBreak",
+    "text": "By Daniel Duric ,\n1 hours ago WEST HAVEN, CT — Police arrested two people after gunshots were fired at a bar early Tuesday morning. The West Haven Police Department received a report of possible gunshots in the area of Campbell Avenue and Captain Thomas Boulevard at approximately 12:21 a.m. on March 31. While officers were... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->shootings",
+        "Crime, Law and Justice->arrest"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Daniel Duric",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "CT",
+                "sentiment": "none"
+            },
+            {
+                "name": "West Haven",
+                "sentiment": "none"
+            },
+            {
+                "name": "Campbell Avenue",
+                "sentiment": "none"
+            },
+            {
+                "name": "Captain Thomas Boulevard",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "West Haven Police Department",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "New Haven"
+            ],
+            "state": [
+                "Connecticut"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-02T07:17:39.785+03:00",
+    "updated": "2026-04-02T07:20:22.000+03:00"
+}

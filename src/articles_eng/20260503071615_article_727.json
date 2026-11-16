@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "f1d2aecc256a1470339fca1b2a0bc3605f70f6c6",
+        "url": "https://www.newsbreak.com/news/4619204544555-central-oregon-to-get-its-first-inpatient-mental-health-center-for-youth",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/fossil-or",
+        "site_categories": [
+            "politics",
+            "sport",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "economy, business and finance"
+        ],
+        "section_title": "Fossil, OR Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Central Oregon to get its first inpatient mental health center for youth - NewsBreak",
+        "title_full": "Central Oregon to get its first inpatient mental health center for youth - NewsBreak",
+        "published": "2026-04-29T05:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3SQ6iD_1AtPiBwR00",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f1d2aecc256a1470339fca1b2a0bc3605f70f6c6",
+    "url": "https://www.newsbreak.com/news/4619204544555-central-oregon-to-get-its-first-inpatient-mental-health-center-for-youth",
+    "ord_in_thread": 0,
+    "author": "Jakob Salao, Reporter",
+    "published": "2026-04-29T05:00:00.000+03:00",
+    "title": "Central Oregon to get its first inpatient mental health center for youth - NewsBreak",
+    "text": "By Jakob Salao, Reporter ,\n1 days ago REDMOND, Ore. — A first-of-its-kind inpatient mental health facility for youth is set to open in Central Oregon, aiming to keep teens with severe conditions closer to home instead of traveling across the Cascades for care. Right now, teens with high acuity or severe mental health conditions must travel... Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Health"
+    ],
+    "topics": [
+        "Health->mental health and disorder",
+        "Health->health facility"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jakob Salao",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Central Oregon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cascades",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Fossil"
+            ],
+            "state": [
+                "Oregon"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:37:03.024+03:00",
+    "updated": "2026-04-30T07:39:20.000+03:00"
+}

@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "15d95822f066a7e93ed8db0ae8daddd811d02f8e",
+        "url": "https://www.newsbreak.com/news/4933343034425-ky-man-facing-federal-charges-linked-to-campaign-seeking-justice-in-fianc-s-death",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/lexington-ky",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "politics",
+            "science and technology",
+            "under_construction",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "sport"
+        ],
+        "section_title": "Lexington, KY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Ky. man facing federal charges linked to campaign seeking justice in fiancé's death - NewsBreak",
+        "title_full": "Ky. man facing federal charges linked to campaign seeking justice in fiancé's death - NewsBreak",
+        "published": "2026-10-08T19:01:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/09I0er_1FuxFyYT00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:11:33.044+03:00"
+        }
+    },
+    "uuid": "15d95822f066a7e93ed8db0ae8daddd811d02f8e",
+    "url": "https://www.newsbreak.com/news/4933343034425-ky-man-facing-federal-charges-linked-to-campaign-seeking-justice-in-fianc-s-death",
+    "ord_in_thread": 0,
+    "author": "WKYT 27",
+    "published": "2026-10-08T19:01:00.000+03:00",
+    "title": "Ky. man facing federal charges linked to campaign seeking justice in fiancé's death - NewsBreak",
+    "text": "12 hours ago LEXINGTON, Ky. (WKYT) - A Kentucky man has been charged with obstruction of justice in connection with his campaign seeking justice in his fiancé’s death, according to court documents. Kaylieb Thompson was arrested by Kentucky State Police in Fayette County on Wednesday. According to an affidavit by a... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wkyt.com/2026/10/08/ky-man-facing-federal-charges-linked-campaign-seeking-justice-fiancs-death/",
+        "https://wkyt.com/2026/10/08/ky-man-facing-federal-charges-linked-campaign-seeking-justice-fiancs-death/",
+        "https://www.wkyt.com/2026/10/08/ky-man-facing-federal-charges-linked-campaign-seeking-justice-fiancs-death"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kaylieb Thompson",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "LEXINGTON",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kentucky",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fayette County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Kentucky State Police",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Lexington"
+            ],
+            "state": [
+                "Kentucky"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:11:33.044+03:00",
+    "updated": "2026-10-09T07:14:27.000+03:00",
+    "related_articles": null
+}

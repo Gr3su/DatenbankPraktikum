@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "fa4aa4d74ae22062559fc1f36e4786d84d4fd451",
+        "url": "https://www.newsbreak.com/news/4920015217000-one-person-taken-to-hospital-after-possible-drowning-off-jefferson-highway",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/baton-rouge-la",
+        "site_categories": [
+            "politics",
+            "under_construction",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "science and technology",
+            "crime, law and justice",
+            "human interest",
+            "sport",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Baton Rouge, LA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "One person taken to hospital after possible drowning off Jefferson Highway - NewsBreak",
+        "title_full": "One person taken to hospital after possible drowning off Jefferson Highway - NewsBreak",
+        "published": "2026-10-01T23:43:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2llajO_1FhWCirw00",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:07:51.724+03:00"
+        }
+    },
+    "uuid": "fa4aa4d74ae22062559fc1f36e4786d84d4fd451",
+    "url": "https://www.newsbreak.com/news/4920015217000-one-person-taken-to-hospital-after-possible-drowning-off-jefferson-highway",
+    "ord_in_thread": 0,
+    "author": "Adam Burruss",
+    "published": "2026-10-01T23:43:00.000+03:00",
+    "title": "One person taken to hospital after possible drowning off Jefferson Highway - NewsBreak",
+    "text": "By Adam Burruss ,\n7 hours ago BATON ROUGE — One person was taken to the hospital after a possible drowning on Jefferson Place Circle, emergency officials told WBRZ. The call came in around 2:52 p.m., and emergency officials said an adult patient was taken to the hospital in unknown condition. The St. George Fire Department... Read full article\n4",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->drowning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wbrz.com/news/officials-working-possible-drowning-off-jefferson-highway",
+        "https://wbrz.com/news/officials-working-possible-drowning-off-jefferson-highway"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsad.38f2c935.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [
+            {
+                "name": "Adam Burruss",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Jefferson Place Circle",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jefferson Highway",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "St. George Fire Department",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "WBRZ",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:07:51.724+03:00",
+    "updated": "2026-10-02T07:09:16.000+03:00",
+    "related_articles": null
+}

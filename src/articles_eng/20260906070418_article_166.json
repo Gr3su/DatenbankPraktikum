@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "e078555d6259f79c5e6703d37dbb04fd261baf56",
+        "url": "https://www.newsbreak.com/news/4863775242376-midwest-musician-jack-grassel-dies-following-medical-episode",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/kenosha-wi",
+        "site_categories": [
+            "economy, business and finance",
+            "human interest",
+            "under_construction",
+            "arts, culture and entertainment",
+            "social issue",
+            "politics",
+            "lifestyle and leisure",
+            "sport",
+            "crime, law and justice"
+        ],
+        "section_title": "Kenosha, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Midwest musician Jack Grassel dies following medical episode - NewsBreak",
+        "title_full": "Midwest musician Jack Grassel dies following medical episode - NewsBreak",
+        "published": "2026-09-03T01:38:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3U2Nxv_1Enr56B100",
+        "performance_score": 0,
+        "domain_rank": 3055,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e078555d6259f79c5e6703d37dbb04fd261baf56",
+    "url": "https://www.newsbreak.com/news/4863775242376-midwest-musician-jack-grassel-dies-following-medical-episode",
+    "ord_in_thread": 0,
+    "author": "FOX6Now.com Milwaukee",
+    "published": "2026-09-03T01:38:00.000+03:00",
+    "title": "Midwest musician Jack Grassel dies following medical episode - NewsBreak",
+    "text": "5 hours ago Midwest musician Jack Grassel died following an Aug. 26 car crash in Caledonia. A celebration of life for Jack Grassel will take place on Oct. 18. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox6now.com/video/fmc-bxu4p6l3a5qgh142.amp",
+        "https://fox6now.com/video/fmc-bxu4p6l3a5qgh142.amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jack Grassel",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Midwest",
+                "sentiment": "none"
+            },
+            {
+                "name": "Caledonia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Kenosha"
+            ],
+            "state": [
+                "Wisconsin"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:08:04.255+03:00",
+    "updated": "2026-09-03T07:09:36.000+03:00"
+}

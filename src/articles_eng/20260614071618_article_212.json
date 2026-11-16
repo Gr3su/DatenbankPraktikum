@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "303fff94bfb8fa72a791834ed90b3cd9fcebed46",
+        "url": "https://www.newsbreak.com/news/4703404284010-update-la-crosse-police-missing-child-found-safe",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/ettrick-wi",
+        "site_categories": [
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "sport",
+            "crime, law and justice",
+            "politics",
+            "human interest",
+            "under_construction",
+            "disaster and accident",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Ettrick, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "UPDATE: La Crosse Police: Missing child found safe - NewsBreak",
+        "title_full": "UPDATE: La Crosse Police: Missing child found safe - NewsBreak",
+        "published": "2026-06-10T23:29:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3LL9Pv_1CEFiqzJ00",
+        "performance_score": 0,
+        "domain_rank": 2951,
+        "domain_rank_updated": "2026-06-08T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "303fff94bfb8fa72a791834ed90b3cd9fcebed46",
+    "url": "https://www.newsbreak.com/news/4703404284010-update-la-crosse-police-missing-child-found-safe",
+    "ord_in_thread": 0,
+    "author": "Kevin Millard",
+    "published": "2026-06-10T23:29:00.000+03:00",
+    "title": "UPDATE: La Crosse Police: Missing child found safe - NewsBreak",
+    "text": "By Kevin Millard ,\n7 hours ago UPDATE: La Crosse Police said at 3:19 p.m. that the missing child was found safe. They thanked the community for assisting in finding her. No other details were provided. La Crosse Police are asking for help finding a missing child. Aura Bubbers, 9 years-old, last seen in the 1100 block... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->arrest"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wizmnews.com/2026/06/10/alert-la-crosse-police-looking-for-missing-child/",
+        "https://wizmnews.com/2026/06/10/alert-la-crosse-police-looking-for-missing-child/",
+        "https://www.wizmnews.com/2026/06/10/alert-la-crosse-police-looking-for-missing-child"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kevin Millard",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Aura Bubbers",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "La Crosse Police",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "303fff94bfb8fa72a791834ed90b3cd9fcebed46",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Ettrick"
+            ],
+            "state": [
+                "Wisconsin"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-11T07:24:35.092+03:00",
+    "updated": "2026-06-11T13:59:43.000+03:00"
+}

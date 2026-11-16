@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "3745b82f424bdd64a83fb00bcce4e6ff449f9e4a",
+        "url": "https://www.newsbreak.com/news/4558391559564-vehicle-fire-impacts-traffic-near-gwinn",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/marquette-mi",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "human interest",
+            "politics",
+            "economy, business and finance",
+            "sport",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "under_construction"
+        ],
+        "section_title": "Marquette, MI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Vehicle fire impacts traffic near Gwinn - NewsBreak",
+        "title_full": "Vehicle fire impacts traffic near Gwinn - NewsBreak",
+        "published": "2026-03-25T20:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4bujWG_19v8HzFO00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3745b82f424bdd64a83fb00bcce4e6ff449f9e4a",
+    "url": "https://www.newsbreak.com/news/4558391559564-vehicle-fire-impacts-traffic-near-gwinn",
+    "ord_in_thread": 0,
+    "author": "TV6 News Team",
+    "published": "2026-03-25T20:59:00.000+02:00",
+    "title": "Vehicle fire impacts traffic near Gwinn - NewsBreak",
+    "text": "By TV6 News Team ,\n10 hours ago GWINN, Mich. (WLUC) - No injuries were reported after a single-vehicle fire caused a portion of Kelly Johnson Memorial Drive near Gwinn to be closed for a short time on Wednesday afternoon. At approximately 1:54 p.m., first responders were dispatched to the scene of the fire and encountered a fully... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->fire"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Mich",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gwinn",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kelly Johnson Memorial Drive",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WLUC",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "TV6 News Team",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Marquette"
+            ],
+            "state": [
+                "Michigan"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-26T07:24:08.798+02:00",
+    "updated": "2026-03-26T07:28:07.000+02:00"
+}

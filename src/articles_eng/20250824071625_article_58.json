@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "91fc2c12f041ff88f71ab5b7b601ae7931ec17da",
+        "url": "https://www.newsbreak.com/brproud-1590545/4186633997333-louisiana-approves-entergy-s-power-projects-amid-concerns",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/brproud-1590545",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "BRProud&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Louisiana approves Entergy's power projects amid concerns - NewsBreak",
+        "title_full": "Louisiana approves Entergy's power projects amid concerns - NewsBreak",
+        "published": "2025-08-21T05:04:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2K8SQF_13yY4EeB00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "91fc2c12f041ff88f71ab5b7b601ae7931ec17da",
+    "url": "https://www.newsbreak.com/brproud-1590545/4186633997333-louisiana-approves-entergy-s-power-projects-amid-concerns",
+    "ord_in_thread": 0,
+    "author": "Michelle Masson",
+    "published": "2025-08-21T05:04:00.000+03:00",
+    "title": "Louisiana approves Entergy's power projects amid concerns - NewsBreak",
+    "text": "PLAQUEMINE, La. (Louisiana First) — The Louisiana Public Service Commission is approving several Entergy projects that are supposed to ramp up power generation in our state. Some of those projects are supposed to help power a massive metadata center being built in Richland Parish. Three state-of-the-art power plants, several substations, and more solar power are the big-ticket items that the Louisiana Public Service Commission approved on Wednesday at its monthly meeting. Foster Campbell, the Public Service Commissioner from the northern part of the state, talked about how these projects are needed to enhance the economy, and especially to help power a big data center that Meta is building in Richland Parish. But not everyone was in favor of the proposals. Some wanted this vote pushed back. “Is there any benefit right now to put all this to the side and kick the can for another month – and let all these documents just sit and fester and not take action today?” asked Public Service Commissioner Jean-Paul Coussan. “Is there any regulatory benefit to Louisiana to delay the action which we have arrived at earlier than expected?” A lawyer hired to review the Entergy contract with Meta replied, “In my opinion, none whatsoever.” People who said it should be delayed said they fear rising electric bills and natural gas costs, as well as potential damage to the environment. Two of the power plants are supposed to come online in 2028 in Richland Parish. The third plant will be built in St. Charles Parish and is supposed to be functional by the end of 2029. Democratic Public Service Commissioner Davante Lewis, who represents a region including EBR and New Orleans, was the only “no” vote. For the latest news, weather, sports, and streaming video, head to Louisiana First News.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->local government and authority",
+        "Politics->government policy",
+        "Economy, Business and Finance->energy and resource",
+        "Economy, Business and Finance->business governance",
+        "Economy, Business and Finance->financial and economic news",
+        "Social Issue->social problem",
+        "Social Issue->communities",
+        "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2K8SQF_13yY4EeB00",
+        "https://www.louisianafirstnews.com",
+        "https://img.particlenews.com/image.php?url=2K8SQF_13yY4EeB00",
+        "https://img.particlenews.com/image.php",
+        "https://louisianafirstnews.com",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2K8SQF_13yY4EeB00",
+        "https://www.img.particlenews.com/image.php?url=2K8SQF_13yY4EeB00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jean-Paul Coussan",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "PLAQUEMINE",
+                "sentiment": "none"
+            },
+            {
+                "name": "Parish",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Entergy",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "ETR",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Louisiana Public Service Commission",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-21T07:17:40.513+03:00",
+    "updated": "2025-08-21T07:21:05.000+03:00"
+}

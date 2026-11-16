@@ -1,0 +1,152 @@
+{
+    "thread": {
+        "uuid": "de02468ef05abbe8190d3a7417f2973e9c562bf4",
+        "url": "https://www.newsbreak.com/reuters-555486/4240998078330-nyt-chief-executive-warns-trump-is-deploying-anti-press-playbook-ft-says",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/reuters-555486",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Reuters&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "NYT chief executive warns Trump is deploying 'anti-press playbook', FT says - NewsBreak",
+        "title_full": "NYT chief executive warns Trump is deploying 'anti-press playbook', FT says - NewsBreak",
+        "published": "2025-09-18T07:17:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2qNSeV_14qK6gzm00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-09-16T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "de02468ef05abbe8190d3a7417f2973e9c562bf4",
+    "url": "https://www.newsbreak.com/reuters-555486/4240998078330-nyt-chief-executive-warns-trump-is-deploying-anti-press-playbook-ft-says",
+    "ord_in_thread": 0,
+    "author": "Reuters",
+    "published": "2025-09-18T07:17:00.000+03:00",
+    "title": "NYT chief executive warns Trump is deploying 'anti-press playbook', FT says - NewsBreak",
+    "text": "By Reuters ,\n12 minutes ago\n(Reuters) -The chief executive officer of the New York Times, Meredith Kopit Levien, said the company would \"not be cowed\" by U.S. President Donald Trump’s $15-billion lawsuit against the newspaper, the Financial Times reported on Wednesday.\nThe suit is the latest in Trump's flurry of legal attacks on media during his second term, including a $10-billion defamation case against the Wall Street Journal in July.\nThe lawsuit was legally baseless, Levien told a Financial Times conference in remarks the paper called her first public utterance on the matter.\n\"The lawsuit has no merit. It lacks any legitimate legal claims. I believe its purpose is to stifle independent journalism, to deter the kind of fact-based reporting that the Times and other institutions are known for.\"\nShe added, \"There is an anti-press playbook at this point  . . . The New York Times will not be cowed by this.\"\nThe White House did not immediately respond to a request for comment.\nIn Monday's suit, Trump accused the paper of maliciously publishing articles and a book filled with \"repugnant distortions and fabrications about President Trump\".\nIn response to a Reuters request for comment on the filing, the paper said on Tuesday the lawsuit had no legitimate legal claims and was a bid to stifle and discourage independent reporting.\n(Reporting by Preetika Parashuraman in Bengaluru; Editing by Clarence Fernandez)\n1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government",
+        "Politics->freedom of the press",
+        "Politics->political dissent"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2qNSeV_14qK6gzm00",
+        "https://img.particlenews.com/image.php?url=2qNSeV_14qK6gzm00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?url=2qNSeV_14qK6gzm00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2qNSeV_14qK6gzm00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Meredith K",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Levien",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "TRI",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "New York Times",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "NYT",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Wall Street Journal",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Financial Times",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "de02468ef05abbe8190d3a7417f2973e9c562bf4",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-18T07:30:09.893+03:00",
+    "updated": "2025-09-18T07:45:19.000+03:00"
+}

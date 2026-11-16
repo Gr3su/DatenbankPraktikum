@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "ef045dcf3e0e90f0be78524fc4cf8571d7119193",
+        "url": "https://www.newsbreak.com/bbc-2085458/4559116689047-what-wales-must-do-to-keep-world-cup-dream-alive",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/bbc-2085458",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "politics",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "human interest",
+            "sport"
+        ],
+        "section_title": "BBC&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "What Wales must do to keep World Cup dream alive - NewsBreak",
+        "title_full": "What Wales must do to keep World Cup dream alive - NewsBreak",
+        "published": "2026-03-26T06:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4EgPCN_19vsJxXB00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ef045dcf3e0e90f0be78524fc4cf8571d7119193",
+    "url": "https://www.newsbreak.com/bbc-2085458/4559116689047-what-wales-must-do-to-keep-world-cup-dream-alive",
+    "ord_in_thread": 0,
+    "author": "Dafydd Pritchard",
+    "published": "2026-03-26T06:33:00.000+02:00",
+    "title": "What Wales must do to keep World Cup dream alive - NewsBreak",
+    "text": "By Dafydd Pritchard ,\n46 minutes ago As Wales host Bosnia-Herzegovina in a World Cup play-off semi-final, head coach Craig Bellamy explains what his side must do to win. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sports coaching",
+        "Sport->sport event",
+        "Sport->soccer"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dafydd Pritchard",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Craig Bellamy",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Bosnia - Herzegovina",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wales",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-26T07:20:38.865+02:00",
+    "updated": "2026-03-26T07:29:57.000+02:00"
+}

@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "a14b485f5dfe342be8da7994c53548f48ac6cc91",
+        "url": "https://www.newsbreak.com/crime/los-angeles-ca/20274_1765430692_btrmxipy-possible-overdose-reported-near-wilshire-blvd-and-burnside-ave",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/crime/los-angeles-ca",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Los Angeles, CA Crime Map &amp; Safety Statistics | CrimeRadar",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Possible overdose reported near wilshire blvd and burnside ave, Los Angeles CA | CrimeRadar",
+        "title_full": "Possible overdose reported near wilshire blvd and burnside ave, Los Angeles CA | CrimeRadar",
+        "published": "2025-12-10T23:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://ui.prt.news/34.06241,-118.34938.jpeg",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-12-07T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a14b485f5dfe342be8da7994c53548f48ac6cc91",
+    "url": "https://www.newsbreak.com/crime/los-angeles-ca/20274_1765430692_btrmxipy-possible-overdose-reported-near-wilshire-blvd-and-burnside-ave",
+    "ord_in_thread": 0,
+    "author": "CrimeRadar",
+    "published": "2025-12-10T23:24:00.000+02:00",
+    "title": "Possible overdose reported near wilshire blvd and burnside ave, Los Angeles CA | CrimeRadar",
+    "text": "Medical Emergency\nReported: 12/10/2025 09:24 PM\nWilshire Blvd & Burnside Ave, Los Angeles, CA 90036 Units are responding to a possible overdose near Wilshire Boulevard and Burnside Avenue in Los Angeles.\nAudio |\nSource: LAPD Dispatch - Pacific Division\n00:7 Transcript:\n00:00 Hi, Wilshire, I'm on the Overdose, Burnside, and Wilshire on the northwest corner. 00:04 It's code Tune-10-4532 or D-7-35. Disclaimer:\nThis transcript was automatically generated and may contain inaccuracies. Please verify the information independently.\nLocation mentioned:\nWilshire Blvd & Burnside Ave, Los Angeles, CA 90036 This shows a Google Street View of the area near the location, which might not be the exact address.\nCorrect\nIncorrect Share This Information",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Health->poisoning",
+        "Health->emergency care",
+        "Crime, Law and Justice->drug related crimes",
+        "Crime, Law and Justice->law enforcement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Wilshire Boulevard",
+                "sentiment": "none"
+            },
+            {
+                "name": "Burnside Avenue",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Wilshire Blvd & Burnside Ave",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-12-11T07:35:54.521+02:00",
+    "updated": "2025-12-11T07:39:40.000+02:00"
+}

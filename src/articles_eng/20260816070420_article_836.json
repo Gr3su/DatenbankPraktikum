@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "e310a86b18747aab0fd05d6f005fb1ae48c8ea98",
+        "url": "https://www.newsbreak.com/news/4824037438016-ottawa-and-utica-mosquitoes-test-positive-for-west-nile-virus",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/toluca-il",
+        "site_categories": [
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "under_construction",
+            "human interest",
+            "social issue",
+            "health",
+            "sport",
+            "politics",
+            "science and technology",
+            "crime, law and justice"
+        ],
+        "section_title": "Toluca, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Ottawa And Utica Mosquitoes Test Positive For West Nile Virus - NewsBreak",
+        "title_full": "Ottawa And Utica Mosquitoes Test Positive For West Nile Virus - NewsBreak",
+        "published": "2026-08-12T07:30:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0GwhLo_1E9oWlkf00",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e310a86b18747aab0fd05d6f005fb1ae48c8ea98",
+    "url": "https://www.newsbreak.com/news/4824037438016-ottawa-and-utica-mosquitoes-test-positive-for-west-nile-virus",
+    "ord_in_thread": 0,
+    "author": "starvedrock.media",
+    "published": "2026-08-12T07:30:00.000+03:00",
+    "title": "Ottawa And Utica Mosquitoes Test Positive For West Nile Virus - NewsBreak",
+    "text": "1 days ago Mosquitoes are biting, and some of the pests are carrying a virus. Batches of the mosquitoes collected in Ottawa and Utica on Tuesday by the La Salle County Health Department tested positive for the West Nile Virus. This is the first documented case of West Nile Virus this year in Utica and second case in Ottawa. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Health"
+    ],
+    "topics": [
+        "Disaster and Accident->disaster",
+        "Disaster and Accident->natural disaster",
+        "Health->communicable disease",
+        "Health->medical condition",
+        "Health->injury"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.starvedrock.media/wlpo/ottawa-and-utica-mosquitoes-test-positive-for-west-nile-virus/article_cb2fbc17-bdd2-4560-beb9-6447e1056734.html",
+        "https://starvedrock.media/wlpo/ottawa-and-utica-mosquitoes-test-positive-for-west-nile-virus/article_cb2fbc17-bdd2-4560-beb9-6447e1056734.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "West Nile",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ottawa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Utica",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "La Salle County Health Department",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Toluca"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:40:26.728+03:00",
+    "updated": "2026-08-13T07:43:40.000+03:00"
+}

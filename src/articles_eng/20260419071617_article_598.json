@@ -1,0 +1,158 @@
+{
+    "thread": {
+        "uuid": "0bf1c38cdb3bd968f57c206b18b30de0c0eb5928",
+        "url": "https://www.newsbreak.com/news/4594229483901-commenting-underway-for-huber-permit",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/kingsland-tx",
+        "site_categories": [
+            "sport",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "politics",
+            "human interest",
+            "under_construction",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Kingsland, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Commenting underway for Huber permit - NewsBreak",
+        "title_full": "Commenting underway for Huber permit - NewsBreak",
+        "published": "2026-04-14T13:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3hoAcd_1AUFHjeF00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0bf1c38cdb3bd968f57c206b18b30de0c0eb5928",
+    "url": "https://www.newsbreak.com/news/4594229483901-commenting-underway-for-huber-permit",
+    "ord_in_thread": 0,
+    "author": "Connie Swinney Managing Editor",
+    "published": "2026-04-14T13:00:00.000+03:00",
+    "title": "Commenting underway for Huber permit - NewsBreak",
+    "text": "By Connie Swinney Managing Editor ,\n1 days ago The deadline is looming for public commenting on a proposed mining permit for a Marble Falls aggregate operation. Along with gathering public comments, the Texas Commission on Environmental Quality (TCEQ) will hold a public meeting on Huber Carbonates, LLC’S proposed amendment to its air quality permit. Two Huber mines,... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Environment"
+    ],
+    "topics": [
+        "Environment->land resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Huber",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Connie Swinney",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Marble Falls",
+                "sentiment": "none"
+            },
+            {
+                "name": "Huber",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Texas Commission on Environmental Quality",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Huber Carbonates, LLC",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "TCEQ",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Kingsland"
+            ],
+            "state": [
+                "Texas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-16T07:34:30.640+03:00",
+    "updated": "2026-04-16T07:37:29.000+03:00"
+}

@@ -1,0 +1,151 @@
+{
+    "thread": {
+        "uuid": "191d811eba36a13133f0e99d677858c72439f84c",
+        "url": "https://www.newsbreak.com/trending-story/ntsb-investigates-deadly-dc-midair-collision-688ae11dd36e2877ec4079ce",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/victoria-ks",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Victoria, KS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "NTSB Investigates Deadly DC Midair Collision",
+        "title_full": "NTSB Investigates Deadly DC Midair Collision",
+        "published": "2025-07-31T06:21:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.newsbreak.com/static/share-logo.png",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "191d811eba36a13133f0e99d677858c72439f84c",
+    "url": "https://www.newsbreak.com/trending-story/ntsb-investigates-deadly-dc-midair-collision-688ae11dd36e2877ec4079ce",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-07-31T06:21:00.000+03:00",
+    "title": "NTSB Investigates Deadly DC Midair Collision",
+    "text": "Trending Story\nUpdated 03:21 AM UTC, Thu July 31, 2025\nNTSB Investigates Deadly DC Midair Collision\nThe National Transportation Safety Board is holding hearings in Washington, D.C., this week to try to figure out what caused the deadly crash between the American Airlines plane and the Black Hawk helicopter over Ronald Reagan National Airport.\nScott Rosengren\n\"The fact that we have less than 500 foot separation is a concern for me.\"\nTim Lilley\n\"These 64 victims, they’re not casualties of war. They’re casualties of a culture that decided near misses were okay, because there was many, many near misses that led to this thing.\"\nSean Duffy\n\"Of course I am concerned. The FAA is concerned. The American people are concerned.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->regulation of industry",
+        "Politics->safety of citizens",
+        "Politics->government",
+        "Social Issue->social problem",
+        "Social Issue->social condition",
+        "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Rosengren",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tim Lilley",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sean Duffy",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NTSB",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "National Transportation Safety Board",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "American Airlines",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "AAL",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "FAA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:22:47.558+03:00",
+    "updated": "2025-07-31T07:26:37.000+03:00"
+}

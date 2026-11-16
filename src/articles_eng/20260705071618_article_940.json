@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "5d4ba3e66a81bfb11fa3ad8a3468e98d233662d9",
+        "url": "https://www.newsbreak.com/news/4744640129171-i-70-reopens-after-20-mile-wrong-way-pursuit-and-crash-csp-says",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/commerce-city-co",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "sport",
+            "economy, business and finance",
+            "social issue",
+            "politics",
+            "disaster and accident",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "under_construction",
+            "human interest"
+        ],
+        "section_title": "Commerce City, CO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "I-70 reopens after 20-mile wrong-way pursuit and crash, CSP says - NewsBreak",
+        "title_full": "I-70 reopens after 20-mile wrong-way pursuit and crash, CSP says - NewsBreak",
+        "published": "2026-06-30T13:49:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4gKldP_1CtoNDk500",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5d4ba3e66a81bfb11fa3ad8a3468e98d233662d9",
+    "url": "https://www.newsbreak.com/news/4744640129171-i-70-reopens-after-20-mile-wrong-way-pursuit-and-crash-csp-says",
+    "ord_in_thread": 0,
+    "author": "Yahoo!",
+    "published": "2026-06-30T13:49:00.000+03:00",
+    "title": "I-70 reopens after 20-mile wrong-way pursuit and crash, CSP says - NewsBreak",
+    "text": "1 days ago A pursuit and crash involving a stolen vehicle led to the closure of eastbound lanes on Interstate 70 near the Eisenhower Tunnel in Colorado. The eastbound lanes of Interstate 70 have reopened following a pursuit and crash Tuesday morning at the Eisenhower Tunnel in the mountains west of Denver. Colorado... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.yahoo.com/news/us/articles/eastbound-70-closed-eisenhower-tunnel-104905005.html",
+        "https://yahoo.com/news/us/articles/eastbound-70-closed-eisenhower-tunnel-104905005.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Colorado",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eisenhower Tunnel",
+                "sentiment": "none"
+            },
+            {
+                "name": "Denver",
+                "sentiment": "none"
+            },
+            {
+                "name": "Interstate",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CSP",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Commerce City"
+            ],
+            "state": [
+                "Colorado"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:51:32.484+03:00",
+    "updated": "2026-07-02T07:54:09.000+03:00"
+}

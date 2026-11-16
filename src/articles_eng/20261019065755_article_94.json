@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "4380b43ad68bad2333e22af030c1aee6d4a96206",
+        "url": "https://www.newsbreak.com/news/4948622902597-vehicle-leaves-road-lands-on-its-side-in-la-plata",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/king-george-va",
+        "site_categories": [
+            "economy, business and finance",
+            "sport",
+            "crime, law and justice",
+            "under_construction",
+            "politics",
+            "lifestyle and leisure",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "King George, VA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Vehicle Leaves Road, Lands On Its Side In La Plata - NewsBreak",
+        "title_full": "Vehicle Leaves Road, Lands On Its Side In La Plata - NewsBreak",
+        "published": "2026-10-16T03:21:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2rxkuE_1G9LDxZV00",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:01:51.474+03:00"
+        }
+    },
+    "uuid": "4380b43ad68bad2333e22af030c1aee6d4a96206",
+    "url": "https://www.newsbreak.com/news/4948622902597-vehicle-leaves-road-lands-on-its-side-in-la-plata",
+    "ord_in_thread": 0,
+    "author": "Breaking News Reporter",
+    "published": "2026-10-16T03:21:00.000+03:00",
+    "title": "Vehicle Leaves Road, Lands On Its Side In La Plata - NewsBreak",
+    "text": "By Breaking News Reporter ,\n3 hours ago LA PLATA, Md. — Emergency crews responded to a single-vehicle crash Thursday evening, Oct. 15, 2026, after a Ford left the roadway and came to rest on its side near Olivers Shop Road and Tawny Acres Place in La Plata. The incident was reported at approximately 6:19 p.m. after... Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://thebaynet.com/vehicle-leaves-road-lands-on-its-side-in-la-plata/",
+        "https://thebaynet.com/vehicle-leaves-road-lands-on-its-side-in-la-plata",
+        "https://www.thebaynet.com/vehicle-leaves-road-lands-on-its-side-in-la-plata/"
+    ],
+    "external_images": [],
+    "internal_images": [
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwow.fc40898b.png&w=48&q=75",
+        "https://www.newsbreak.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flike.ec95c2fe.png&w=48&q=75"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "La Plata",
+                "sentiment": "none"
+            },
+            {
+                "name": "Olivers Shop Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tawny Acres Place",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Ford",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "F",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Breaking News Reporter",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "King George"
+            ],
+            "state": [
+                "Virginia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:01:51.474+03:00",
+    "updated": "2026-10-16T07:03:12.000+03:00",
+    "related_articles": null
+}

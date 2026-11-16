@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "1722ef6f1874ee4f96a3b5f40dd68b92ff226f90",
+        "url": "https://www.newsbreak.com/news/4546830446970-dr-candice-matthews-confronts-alleged-stalker-after-pasadena-city-council-meeting",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/pasadena-tx",
+        "site_categories": [
+            "sport",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "human interest",
+            "politics",
+            "under_construction"
+        ],
+        "section_title": "Pasadena, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Dr. Candice Matthews confronts alleged stalker after Pasadena City Council meeting - NewsBreak",
+        "title_full": "Dr. Candice Matthews confronts alleged stalker after Pasadena City Council meeting - NewsBreak",
+        "published": "2026-03-18T03:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3FvgxW_19jUODUg00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1722ef6f1874ee4f96a3b5f40dd68b92ff226f90",
+    "url": "https://www.newsbreak.com/news/4546830446970-dr-candice-matthews-confronts-alleged-stalker-after-pasadena-city-council-meeting",
+    "ord_in_thread": 0,
+    "author": "houstonstringer.com",
+    "published": "2026-03-18T03:57:00.000+02:00",
+    "title": "Dr. Candice Matthews confronts alleged stalker after Pasadena City Council meeting - NewsBreak",
+    "text": "1 days ago PASADENA, TX – Dr. Candice Matthews confronted Eric Sanchez outside Pasadena City Hall following a city council meeting, then held a press briefing addressing the encounter and concerns raised by community members. Sanchez had spoken during the meeting and, before leaving, requested that officers escort him to his vehicle,... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->assault"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Can",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Eric Sanchez",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Pasadena City Hall",
+                "sentiment": "none"
+            },
+            {
+                "name": "TX",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Pasadena City Council",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "1722ef6f1874ee4f96a3b5f40dd68b92ff226f90",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Pasadena"
+            ],
+            "state": [
+                "Texas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:20:53.810+02:00",
+    "updated": "2026-03-19T07:22:18.000+02:00"
+}

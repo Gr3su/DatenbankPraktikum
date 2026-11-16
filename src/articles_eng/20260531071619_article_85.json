@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "ce49d0b30f1e2964e004a5b1c3d7e9d06da73b22",
+        "url": "https://www.newsbreak.com/news/4675748835212-missing-pauma-man-s-remains-found",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/murrieta-ca",
+        "site_categories": [
+            "under_construction",
+            "human interest",
+            "sport",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "politics",
+            "crime, law and justice"
+        ],
+        "section_title": "Murrieta, CA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Missing Pauma man's remains found - NewsBreak",
+        "title_full": "Missing Pauma man's remains found - NewsBreak",
+        "published": "2026-05-28T01:45:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/40GJI8_1BnO8qqZ00",
+        "performance_score": 0,
+        "domain_rank": 3021,
+        "domain_rank_updated": "2026-05-25T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ce49d0b30f1e2964e004a5b1c3d7e9d06da73b22",
+    "url": "https://www.newsbreak.com/news/4675748835212-missing-pauma-man-s-remains-found",
+    "ord_in_thread": 0,
+    "author": "newsdesk",
+    "published": "2026-05-28T01:45:00.000+03:00",
+    "title": "Missing Pauma man's remains found - NewsBreak",
+    "text": "By newsdesk ,\n5 hours ago On Saturday, May 23, remains believed to be connected to the disappearance of Pauma resident Frank “Paco” Torres, 61, were found near Warner Springs. The remains were found about 11:30 a.m. near Hwy 79, easy of Hwy 371. Investigators from the Riverside County Sheriff’s Central Homicide Unit and... Read full article\nRead in NewsBreak 2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->investigation (criminal)"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Pauma",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Frank “ Paco ” Torres",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Warner Springs",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Central Homicide Unit",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Pauma",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Murrieta"
+            ],
+            "state": [
+                "California"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-28T07:20:24.478+03:00",
+    "updated": "2026-05-28T07:23:10.000+03:00"
+}

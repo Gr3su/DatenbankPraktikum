@@ -1,0 +1,155 @@
+{
+    "thread": {
+        "uuid": "e1b31b3f86f2cd37a2ec1548913b6d670a318e78",
+        "url": "https://www.newsbreak.com/news/4785773362125-amazon-to-begin-work-on-98m-terrell-distribution-center",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/quinlan-tx",
+        "site_categories": [
+            "lifestyle and leisure",
+            "politics",
+            "crime, law and justice",
+            "disaster and accident",
+            "under_construction",
+            "arts, culture and entertainment",
+            "social issue",
+            "economy, business and finance",
+            "human interest",
+            "sport"
+        ],
+        "section_title": "Quinlan, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Amazon to Begin Work on $98M Terrell Distribution Center - NewsBreak",
+        "title_full": "Amazon to Begin Work on $98M Terrell Distribution Center - NewsBreak",
+        "published": "2026-07-22T21:23:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://local.newsbreak.com/api/share-og-image/0QIoL3_1DYFWE4g00.jpg",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e1b31b3f86f2cd37a2ec1548913b6d670a318e78",
+    "url": "https://www.newsbreak.com/news/4785773362125-amazon-to-begin-work-on-98m-terrell-distribution-center",
+    "ord_in_thread": 0,
+    "author": "Mike Boyd",
+    "published": "2026-07-22T21:23:00.000+03:00",
+    "title": "Amazon to Begin Work on $98M Terrell Distribution Center - NewsBreak",
+    "text": "By Mike Boyd ,\n10 hours ago Amazon is constructing a new $98 million, 1.2 million-square-foot regional distribution center in Terrell, Texas. The Dallas Morning News reports construction could begin as early as August 2026, with completion slated for next year. Amazon bought the 120-acre development site last year from Hunt Realty Investments. Located at 3201 Airport... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business and market analysis"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.connectcre.com/stories/amazon-to-begin-work-on-98m-terrell-distribution-center/",
+        "https://www.connectcre.com/stories/amazon-to-begin-work-on-98m-terrell-distribution-center",
+        "https://connectcre.com/stories/amazon-to-begin-work-on-98m-terrell-distribution-center/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mike Boyd",
+                "sentiment": "positive"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Terrell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Texas",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Amazon",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "AMZN",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Terrell Distribution Center",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Dallas Morning News",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Hunt Realty Investments",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Quinlan"
+            ],
+            "state": [
+                "Texas"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-23T07:50:41.596+03:00",
+    "updated": "2026-07-23T11:24:19.000+03:00"
+}

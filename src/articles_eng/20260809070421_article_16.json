@@ -1,0 +1,142 @@
+{
+    "thread": {
+        "uuid": "52fa9b300711c7ffd81238df9b8de69050fc5551",
+        "url": "https://www.newsbreak.com/news/4811558164548-crews-knock-down-fire-at-ne-austin-home",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/austin-tx",
+        "site_categories": [
+            "sport",
+            "health",
+            "economy, business and finance",
+            "crime, law and justice",
+            "human interest",
+            "lifestyle and leisure",
+            "under_construction",
+            "politics",
+            "social issue",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Austin, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Crews knock down fire at NE Austin home - NewsBreak",
+        "title_full": "Crews knock down fire at NE Austin home - NewsBreak",
+        "published": "2026-08-05T23:29:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1XA4jA_1DyEL2wp00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "52fa9b300711c7ffd81238df9b8de69050fc5551",
+    "url": "https://www.newsbreak.com/news/4811558164548-crews-knock-down-fire-at-ne-austin-home",
+    "ord_in_thread": 0,
+    "author": "Isabella Bass",
+    "published": "2026-08-05T23:29:00.000+03:00",
+    "title": "Crews knock down fire at NE Austin home - NewsBreak",
+    "text": "By Isabella Bass ,\n7 hours ago AUSTIN, Texas — The Austin Fire Department responded to a house fire at 7213 Bennett Ave. Wednesday afternoon. Officials stated at around 2:45 p. m. that the fire was first reported as defensive and that it had since been knocked down. Crews then transitioned into offensive mode after knocking... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->fire"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://cbsaustin.com/news/local/crews-knock-down-fire-at-ne-austin-home",
+        "https://www.cbsaustin.com/news/local/crews-knock-down-fire-at-ne-austin-home"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Isabella Bass",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Texas",
+                "sentiment": "none"
+            },
+            {
+                "name": "Austin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bennett Ave",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Austin Fire Department",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:04:58.252+03:00",
+    "updated": "2026-08-06T07:07:35.000+03:00"
+}

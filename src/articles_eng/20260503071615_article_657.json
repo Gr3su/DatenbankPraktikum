@@ -1,0 +1,154 @@
+{
+    "thread": {
+        "uuid": "b6963ceb9f578bd9ae74a2fab5b226a0b2e43073",
+        "url": "https://www.newsbreak.com/news/4617155208996-george-fox-stunt-team-wins-back-to-back-division-iii-national-championships",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nashville-tn-sports",
+        "site_categories": [
+            "politics",
+            "human interest",
+            "arts, culture and entertainment",
+            "sport",
+            "crime, law and justice",
+            "under_construction",
+            "lifestyle and leisure",
+            "economy, business and finance"
+        ],
+        "section_title": "Nashville, TN Sports and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "George Fox STUNT Team Wins Back-to-Back Division III National Championships - NewsBreak",
+        "title_full": "George Fox STUNT Team Wins Back-to-Back Division III National Championships - NewsBreak",
+        "published": "2026-04-28T02:10:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1ekhGg_1ArLcORa00",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b6963ceb9f578bd9ae74a2fab5b226a0b2e43073",
+    "url": "https://www.newsbreak.com/news/4617155208996-george-fox-stunt-team-wins-back-to-back-division-iii-national-championships",
+    "ord_in_thread": 0,
+    "author": "Branden Andersen",
+    "published": "2026-04-28T02:10:00.000+03:00",
+    "title": "George Fox STUNT Team Wins Back-to-Back Division III National Championships - NewsBreak",
+    "text": "By Branden Andersen ,\n2 days ago NASHVILLE, Tenn. — The George Fox University STUNT team claimed its second consecutive Division III national championship Sunday, defeating top-ranked Muskingum University 25-20 in the title game at Lipscomb University in Nashville, Tennessee. The Bruins entered the final day of competition from the losers’ bracket after a 26-21 loss... Read full article\nRead in NewsBreak 1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sport achievement",
+        "Sport->cheerleading"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Branden Andersen",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Nashville",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tennessee",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "George Fox University STUNT",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Bruins",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Muskingum University",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Lipscomb University",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:34:53.893+03:00",
+    "updated": "2026-04-30T07:36:46.000+03:00"
+}

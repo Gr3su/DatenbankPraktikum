@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "7cfd30bcfec39f0149197550609530161e9eb42a",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4294585323628-special-marine-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Special Marine Warning by NWS - NewsBreak",
+        "title_full": "Special Marine Warning by NWS - NewsBreak",
+        "published": "2025-10-16T06:46:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0mSxmd_15hJqNWz00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7cfd30bcfec39f0149197550609530161e9eb42a",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4294585323628-special-marine-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2025-10-16T06:46:00.000+03:00",
+    "title": "Special Marine Warning by NWS - NewsBreak",
+    "text": "46 minutes ago Check NWS updates here\nEffective: 2025-10-15 23:44:00 EDT Expires: 2025-10-16 00:30:00 EDT Urgency: Immediate Severity: Severe Certainty: Likely Instruction: Move to safe harbor immediately as gusty winds and high waves are expected. Seek safe shelter, mariners can expect gusty winds and increasing waves. Thunderstorms can produce sudden waterspouts. Waterspouts can easily overturn boats and create locally hazardous seas. Seek safe harbor immediately. Frequent lightning is occurring with these storms. If caught on the open water stay below deck if possible, keep away from ungrounded metal objects. Report severe weather to the Coast Guard or the National Weather Service. Target Area: Atlantic Waters of Puerto Rico AND USVI from 10 NM to 19.5N SMWSJU\nThe National Weather Service in San Juan has issued a\n* Special Marine Warning for... Atlantic Waters of Puerto Rico AND USVI from 10 NM to 19.5N...\n* Until 1230 AM AST.\n* At 1144 PM AST, severe thunderstorms capable of producing waterspouts were clustered over the northwestern portions of the offshore Atlantic waters, moving southeast at 15 knots.\nHAZARD...Waterspouts and wind gusts 34 knots or greater.\nSOURCE...Radar.\nIMPACT...Waterspouts can easily overturn boats and create locally hazardous seas. Small craft could be damaged in briefly higher winds and suddenly higher waves.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.4792f2c2aa16acd3475b06ecdb05d456ef680cd8.001.1",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0mSxmd_15hJqNWz00",
+        "https://img.particlenews.com/image.php?url=0mSxmd_15hJqNWz00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0mSxmd_15hJqNWz00",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.4792f2c2aa16acd3475b06ecdb05d456ef680cd8.001.1",
+        "https://alerts.weather.gov/search",
+        "https://www.img.particlenews.com/image.php?url=0mSxmd_15hJqNWz00"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Atlantic",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Coast Guard",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-16T07:33:17.353+03:00",
+    "updated": "2025-10-16T07:33:17.353+03:00"
+}

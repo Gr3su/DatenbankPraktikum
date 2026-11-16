@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "3a687d8ebed9f26160d323429b26de56e815ee4a",
+        "url": "https://www.newsbreak.com/news/4798750595244-greenfield-opens-27m-friends-of-the-homeless-campus",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/brattleboro-vt",
+        "site_categories": [
+            "under_construction",
+            "social issue",
+            "crime, law and justice",
+            "human interest",
+            "sport",
+            "politics",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "disaster and accident",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Brattleboro, VT Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Greenfield opens $27M Friends of the Homeless Campus - NewsBreak",
+        "title_full": "Greenfield opens $27M Friends of the Homeless Campus - NewsBreak",
+        "published": "2026-07-30T01:25:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4LRW35_1DlKJP7y00",
+        "performance_score": 0,
+        "domain_rank": 3090,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3a687d8ebed9f26160d323429b26de56e815ee4a",
+    "url": "https://www.newsbreak.com/news/4798750595244-greenfield-opens-27m-friends-of-the-homeless-campus",
+    "ord_in_thread": 0,
+    "author": "Claire Overton",
+    "published": "2026-07-30T01:25:00.000+03:00",
+    "title": "Greenfield opens $27M Friends of the Homeless Campus - NewsBreak",
+    "text": "By Claire Overton ,\n5 hours ago GREENFIELD, Mass. (WWLP) – The Greenfield community held a ribbon-cutting ceremony Wednesday for a new $27 million campus designed to serve residents experiencing homelessness throughout Franklin County. Operated by Clinical and Support Options, the facility replaces an outdated shelter with a comprehensive resource center and housing complex. The Clinical... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Social Issue"
+    ],
+    "topics": [
+        "Human Interest->ceremony",
+        "Human Interest->human mishap",
+        "Social Issue->homelessness",
+        "Social Issue->social condition",
+        "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wwlp.com/news/greenfield-opens-27m-friends-of-the-homeless-campus/amp/",
+        "https://wwlp.com/news/greenfield-opens-27m-friends-of-the-homeless-campus/amp/",
+        "https://www.wwlp.com/news/greenfield-opens-27m-friends-of-the-homeless-campus/amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Claire Overton",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Mass.",
+                "sentiment": "none"
+            },
+            {
+                "name": "GREENFIELD",
+                "sentiment": "none"
+            },
+            {
+                "name": "Franklin County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Greenfield",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Clinical and Support Options",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "West Brattleboro"
+            ],
+            "state": [
+                "Vermont"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:13:05.680+03:00",
+    "updated": "2026-07-30T07:16:03.000+03:00"
+}

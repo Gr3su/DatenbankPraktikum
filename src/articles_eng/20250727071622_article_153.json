@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "9e958351d13be3d79bfeef20046a15a4c2b689ed",
+        "url": "http://www.chinadaily.com.cn/a/202507/24/WS6881a30fa310ad07b5d91be2.html",
+        "site_full": "www.chinadaily.com.cn",
+        "site": "chinadaily.com.cn",
+        "site_section": "http://www.chinadaily.com.cn/china/59b8d010a3108c54ed7dfc27",
+        "site_categories": [
+            "media",
+            "travel",
+            "japan"
+        ],
+        "section_title": "Health - Chinadaily.com.cn",
+        "site_title": "China Daily Website - Connecting China Connecting the World",
+        "title": "Xi meets European Council president, European Commission president in Beijing - Chinadaily.com.cn",
+        "title_full": "Xi meets European Council president, European Commission president in Beijing - Chinadaily.com.cn",
+        "published": "2025-07-24T06:05:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "http://img2.chinadaily.com.cn/images/202507/24/6881ac75a310ad07ab7dee60.jpeg",
+        "performance_score": 0,
+        "domain_rank": 657,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9e958351d13be3d79bfeef20046a15a4c2b689ed",
+    "url": "http://www.chinadaily.com.cn/a/202507/24/WS6881a30fa310ad07b5d91be2.html",
+    "ord_in_thread": 0,
+    "author": "global.chinadaily.com.cn",
+    "published": "2025-07-24T06:05:00.000+03:00",
+    "title": "Xi meets European Council president, European Commission president in Beijing - Chinadaily.com.cn",
+    "text": "BEIJING -- President Xi Jinping met with President of the European Council Antonio Costa and President of the European Commission Ursula von der Leyen in Beijing on Thursday.\n50 years of China-EU ties yield fruitful cooperation outcomes, benefit world: Xi\nXi calls on China, EU to provide more stability, certainty for world through steady, sound bilateral relations\nChinese, EU leaders should make right strategic choices that will meet people's expectations: Xi\nChina, EU are both constructive forces for multilateralism, openness and cooperation: Xi",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "Politics",
+        "Social Issue"
+    ],
+    "topics": [
+        "Politics->international relations",
+        "Politics->diplomacy",
+        "Politics->diplomacy",
+        "Politics->international relations",
+        "Social Issue->social condition",
+        "Social Issue->communities",
+        "Social Issue->diversity, equity and inclusion"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Xi Jinping",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "European Council",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "European Commission",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "european commission",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "european council",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:19:49.954+03:00",
+    "updated": "2025-07-24T07:30:59.000+03:00"
+}

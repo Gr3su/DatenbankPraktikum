@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "f2a5da088654fc34998456da9f9e12180519f1e0",
+        "url": "https://www.homernews.com/news/voter-registration-deadline-is-sunday/",
+        "site_full": "www.homernews.com",
+        "site": "homernews.com",
+        "site_section": "https://www.homernews.com/feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Homer News",
+        "site_title": "Homer News",
+        "title": "Voter registration deadline is Sunday",
+        "title_full": "Voter registration deadline is Sunday",
+        "published": "2025-09-03T08:30:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.homernews.com/wp-content/uploads/2025/09/40293014_web1_KPC_093022_AVO-voter_2-1024x683.jpg",
+        "performance_score": 0,
+        "domain_rank": 84756,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f2a5da088654fc34998456da9f9e12180519f1e0",
+    "url": "https://www.homernews.com/news/voter-registration-deadline-is-sunday/",
+    "ord_in_thread": 0,
+    "author": "Jacob Dye",
+    "published": "2025-09-03T08:30:00.000+03:00",
+    "title": "Voter registration deadline is Sunday",
+    "text": "The deadline to register to vote in the Oct. 7 municipal and city elections is Sunday, Sept. 7.\nAcross city councils in Kenai, Soldotna, Homer and Seward, the borough assembly and the Kenai Peninsula Borough School District’s Board of Education, there are 19 seats up for grabs this fall. Borough voters this year will also decide whether the borough should hand count ballots, whether to increase a residential property tax exemption, whether to adjust the borough sales tax cap for inflation and whether the borough should change its election day to align with state elections.\nNinilchik voters will decide whether to levy property taxes to create a recreation service area and Soldotna voters will decide whether the city should annex 2.63 square miles of territory.\nElection day is Tuesday, Oct. 7. Absentee in-person voting starters on Sept. 22. Sept. 30 is the deadline to apply for an absentee ballot by mail.\nAlaskans can register to vote online or download a paper registration form at voterregistration.alaska.gov. Voters can check their voter status information online at myvoterinformation.alaska.gov.\nReach reporter Jake Dye at jacob.dye@peninsulaclarion.com.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->local elections",
+        "Politics->political process",
+        "Politics->voting",
+        "Social Issue->social services",
+        "Social Issue->demographics",
+        "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Ninilchik",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "f2a5da088654fc34998456da9f9e12180519f1e0",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Homer",
+                "Fritz Creek"
+            ],
+            "state": [
+                "Alaska",
+                "Nebraska"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-04T07:22:26.859+03:00",
+    "updated": "2025-09-04T07:26:21.000+03:00"
+}

@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "c5d1e3dc28df0404e612d583bb1897d2e6dbef2b",
+        "url": "https://www.newsbreak.com/news/4851442077522-dirt-bike-crashes-into-tree-in-providence",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/providence-ri",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "politics",
+            "social issue",
+            "under_construction",
+            "science and technology",
+            "human interest",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "sport",
+            "crime, law and justice"
+        ],
+        "section_title": "Providence, RI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Dirt bike crashes into tree in Providence - NewsBreak",
+        "title_full": "Dirt bike crashes into tree in Providence - NewsBreak",
+        "published": "2026-08-27T02:50:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/06zwBi_1EbQAipX00",
+        "performance_score": 0,
+        "domain_rank": 3157,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c5d1e3dc28df0404e612d583bb1897d2e6dbef2b",
+    "url": "https://www.newsbreak.com/news/4851442077522-dirt-bike-crashes-into-tree-in-providence",
+    "ord_in_thread": 0,
+    "author": "AMANDA BANG, NBC 10 NEWS",
+    "published": "2026-08-27T02:50:00.000+03:00",
+    "title": "Dirt bike crashes into tree in Providence - NewsBreak",
+    "text": "By AMANDA BANG, NBC 10 NEWS ,\n4 hours ago (WJAR) — Providence police said a man was injured after a dirt bike crash on Wednesday. According to police, officers responded to Broad Street near Parkis Street for a report of a crash. The dirt bike driver, a 22-year-old man, lost control and struck a tree, officials said. Police... Read full article\n3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://turnto10.com/news/local/dirt-bike-crashes-into-tree-in-providence-lost-control-man-injured-hospital-investigation-august-26-2026",
+        "https://www.turnto10.com/news/local/dirt-bike-crashes-into-tree-in-providence-lost-control-man-injured-hospital-investigation-august-26-2026"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Providence",
+                "sentiment": "none"
+            },
+            {
+                "name": "Broad Street",
+                "sentiment": "none"
+            },
+            {
+                "name": "Parkis Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NBC",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "NBC",
+                        "exchange": "FRA"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Providence"
+            ],
+            "state": [
+                "Rhode Island"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:05:23.836+03:00",
+    "updated": "2026-08-27T07:19:31.000+03:00"
+}

@@ -1,0 +1,158 @@
+{
+    "thread": {
+        "uuid": "82f90378c02050076c93545a98c249edb18eb4f7",
+        "url": "https://www.newsbreak.com/news/4772466822089-police-id-man-killed-in-oceana-drive-crash",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/muskegon-mi",
+        "site_categories": [
+            "under_construction",
+            "crime, law and justice",
+            "economy, business and finance",
+            "politics",
+            "social issue",
+            "disaster and accident",
+            "arts, culture and entertainment",
+            "human interest",
+            "lifestyle and leisure",
+            "sport"
+        ],
+        "section_title": "Muskegon, MI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Police ID man killed in Oceana Drive crash - NewsBreak",
+        "title_full": "Police ID man killed in Oceana Drive crash - NewsBreak",
+        "published": "2026-07-15T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4YQHx4_1DKqp4HT00",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "82f90378c02050076c93545a98c249edb18eb4f7",
+    "url": "https://www.newsbreak.com/news/4772466822089-police-id-man-killed-in-oceana-drive-crash",
+    "ord_in_thread": 0,
+    "author": "oceanacountypress.com",
+    "published": "2026-07-15T07:00:00.000+03:00",
+    "title": "Police ID man killed in Oceana Drive crash - NewsBreak",
+    "text": "1 days ago SHELBY TOWNSHIP — The 22-year-old man who died following a single-vehicle crash, July 8, has been identified by the Michigan State Police as Frank Baxcajay of Shelby. The passenger who was seriously injured in the crash is Jorge Garcia, 40, of Miami, Fla., according to MSP. Troopers from the... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->reckless driving",
+        "Crime, Law and Justice->police"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://oceanacountypress.com/2026/07/15/police-id-man-killed-in-oceana-drive-crash/",
+        "https://www.oceanacountypress.com/2026/07/15/police-id-man-killed-in-oceana-drive-crash/",
+        "https://oceanacountypress.com/2026/07/15/police-id-man-killed-in-oceana-drive-crash"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jorge Garcia",
+                "sentiment": "none"
+            },
+            {
+                "name": "Frank Baxcajay",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Oceana Drive",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shelby",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fla",
+                "sentiment": "none"
+            },
+            {
+                "name": "Miami",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Michigan State Police",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Muskegon"
+            ],
+            "state": [
+                "Michigan"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:16:25.792+03:00",
+    "updated": "2026-07-16T07:18:59.000+03:00"
+}

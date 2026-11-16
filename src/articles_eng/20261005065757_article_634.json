@@ -1,0 +1,158 @@
+{
+    "thread": {
+        "uuid": "6afcef2de1acce085210d3affcc2cac80769cee4",
+        "url": "https://www.newsbreak.com/news/4919860191263-sumrall-s-florida-poised-to-flatten-mizzou",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/headlines",
+        "site_categories": [
+            "lifestyle and leisure",
+            "sport",
+            "under_construction",
+            "science and technology",
+            "crime, law and justice",
+            "politics",
+            "arts, culture and entertainment",
+            "human interest",
+            "economy, business and finance"
+        ],
+        "section_title": "Headlines | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Sumrall's Florida poised to flatten Mizzou - NewsBreak",
+        "title_full": "Sumrall's Florida poised to flatten Mizzou - NewsBreak",
+        "published": "2026-10-01T19:39:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0K80pr_1FhMMjix00",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:22:29.926+03:00"
+        }
+    },
+    "uuid": "6afcef2de1acce085210d3affcc2cac80769cee4",
+    "url": "https://www.newsbreak.com/news/4919860191263-sumrall-s-florida-poised-to-flatten-mizzou",
+    "ord_in_thread": 0,
+    "author": "NBC Sports",
+    "published": "2026-10-01T19:39:00.000+03:00",
+    "title": "Sumrall's Florida poised to flatten Mizzou - NewsBreak",
+    "text": "19 hours ago Nicole Auerbach and Joshua Perry preview Florida's matchup against a Mizzou team that's not \"in the same class\" as the Gators under their \"revelation\" at HC in Jon Sumrall. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->american football"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nbcsports.com/watch/college-football/rushing-the-field/florida-poised-to-flatten-missouri-in-week-5-under-revelation-jon-sumrall",
+        "https://nbcsports.com/watch/college-football/rushing-the-field/florida-poised-to-flatten-missouri-in-week-5-under-revelation-jon-sumrall"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jon Sumrall",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Joshua Perry",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Nicole Auerbach",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Sumrall",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Mizzou",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Gators",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "HC",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:22:29.926+03:00",
+    "updated": "2026-10-02T15:35:56.165+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "f9b95f9817c83b5c84772d95c4ae10614a5dfe65",
+        "url": "https://www.newsbreak.com/news/4534342283207-industrial-site-cleanup-set-to-begin-on-whitehead-road",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/princeton-nj",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "sport",
+            "politics",
+            "human interest",
+            "crime, law and justice",
+            "under_construction",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Princeton, NJ Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Industrial Site Cleanup Set to Begin on Whitehead Road - NewsBreak",
+        "title_full": "Industrial Site Cleanup Set to Begin on Whitehead Road - NewsBreak",
+        "published": "2026-03-11T14:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2d2b5H_19Wudxl200",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f9b95f9817c83b5c84772d95c4ae10614a5dfe65",
+    "url": "https://www.newsbreak.com/news/4534342283207-industrial-site-cleanup-set-to-begin-on-whitehead-road",
+    "ord_in_thread": 0,
+    "author": "Community News",
+    "published": "2026-03-11T14:20:00.000+02:00",
+    "title": "Industrial Site Cleanup Set to Begin on Whitehead Road - NewsBreak",
+    "text": "16 hours ago Hamilton Township officials say a long-delayed cleanup of a fire-damaged industrial property on Whitehead Road is expected to begin within weeks, a step that could clear the way for future economic activity at the site while addressing lingering environmental concerns. The cleanup will take place at 533 Whitehead Road, where... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Environment"
+    ],
+    "topics": [
+        "Environment->environmental pollution",
+        "Environment->hazardous materials",
+        "Environment->environmental clean-up"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Hamilton Township",
+                "sentiment": "none"
+            },
+            {
+                "name": "Whitehead Road",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Princeton Junction",
+                "Princeton"
+            ],
+            "state": [
+                "New Jersey"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-12T07:22:04.062+02:00",
+    "updated": "2026-03-12T07:25:50.000+02:00"
+}

@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "80fb0b178f79c519f9f3dca8a68ae38e49d8fe98",
+        "url": "https://local.newsbreak.com/bbc-2085458/4582838004375-caernarfon-town-eyeing-welsh-cup-history",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/bbc-2085458",
+        "site_categories": [
+            "politics",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "sport",
+            "economy, business and finance"
+        ],
+        "section_title": "BBC&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Caernarfon Town eyeing Welsh Cup history - NewsBreak",
+        "title_full": "Caernarfon Town eyeing Welsh Cup history - NewsBreak",
+        "published": "2026-04-09T07:23:54.072+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2d1ciX_1AIm9NNv00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "80fb0b178f79c519f9f3dca8a68ae38e49d8fe98",
+    "url": "https://local.newsbreak.com/bbc-2085458/4582838004375-caernarfon-town-eyeing-welsh-cup-history",
+    "ord_in_thread": 0,
+    "author": "Aled Williams",
+    "published": "2026-04-09T07:23:54.072+03:00",
+    "title": "Caernarfon Town eyeing Welsh Cup history - NewsBreak",
+    "text": "By Aled Williams ,\nnow Manager Richard Davies is looking to create more Caernarfon Town history in Sunday's JD Welsh Cup final at Newport's Rodney Parade. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Sport->soccer"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Richard Davies",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Aled Williams",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Newport",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rodney Parade",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Caernarfon Town",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "JD",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "JD",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-09T07:23:54.072+03:00",
+    "updated": "2026-04-09T07:27:01.000+03:00"
+}

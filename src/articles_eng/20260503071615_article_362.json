@@ -1,0 +1,151 @@
+{
+    "thread": {
+        "uuid": "6e7b549e08f4ef3fad8fdf6eac32c7ce4aaff97f",
+        "url": "https://www.newsbreak.com/news/4620462840357-four-tornadoes-confirmed-from-recent-storms",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/shepherdsville-ky",
+        "site_categories": [
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "economy, business and finance",
+            "sport",
+            "human interest",
+            "politics",
+            "under_construction"
+        ],
+        "section_title": "Shepherdsville, KY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Four tornadoes confirmed from recent storms - NewsBreak",
+        "title_full": "Four tornadoes confirmed from recent storms - NewsBreak",
+        "published": "2026-04-29T19:25:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3ckLrl_1AugaQsg00",
+        "performance_score": 0,
+        "domain_rank": 2927,
+        "domain_rank_updated": "2026-04-27T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6e7b549e08f4ef3fad8fdf6eac32c7ce4aaff97f",
+    "url": "https://www.newsbreak.com/news/4620462840357-four-tornadoes-confirmed-from-recent-storms",
+    "ord_in_thread": 0,
+    "author": "TOM LATEK, Kentucky Today",
+    "published": "2026-04-29T19:25:00.000+03:00",
+    "title": "Four tornadoes confirmed from recent storms - NewsBreak",
+    "text": "By TOM LATEK, Kentucky Today ,\n12 hours ago FRANKFORT, Ky. (KT) – Four tornadoes have been confirmed to have struck Kentucky on Monday night and Tuesday morning, according to the National Weather Service (NWS) offices in Paducah and Louisville. NWS Paducah says the first occurred in Hopkins County, outside Jewel City, shortly before midnight (CT), Monday night.... Read full article\nRead in NewsBreak 5",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Weather",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Kentucky",
+                "sentiment": "none"
+            },
+            {
+                "name": "FRANKFORT",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hopkins County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jewel City",
+                "sentiment": "none"
+            },
+            {
+                "name": "Paducah",
+                "sentiment": "none"
+            },
+            {
+                "name": "Louisville",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NWS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Shepherdsville"
+            ],
+            "state": [
+                "Kentucky"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-30T07:26:00.881+03:00",
+    "updated": "2026-05-01T10:38:09.000+03:00"
+}

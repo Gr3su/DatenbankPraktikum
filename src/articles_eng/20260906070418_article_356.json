@@ -1,0 +1,152 @@
+{
+    "thread": {
+        "uuid": "51d4dd71c1dc39b727fa902e59a83c1ed58e4e53",
+        "url": "https://tass.com/economy/2181597",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/rss/v2.xml",
+        "site_categories": [
+            "science and technology",
+            "economy, business and finance",
+            "war, conflict and unrest",
+            "media",
+            "politics"
+        ],
+        "section_title": "TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "Kremlin adviser compares Ukrainian government to unstable person with grenade",
+        "title_full": "Kremlin adviser compares Ukrainian government to unstable person with grenade",
+        "published": "2026-09-03T06:40:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 13728,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "51d4dd71c1dc39b727fa902e59a83c1ed58e4e53",
+    "url": "https://tass.com/economy/2181597",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-09-03T06:40:00.000+03:00",
+    "title": "Kremlin adviser compares Ukrainian government to unstable person with grenade",
+    "text": "VLADIVOSTOK, September 3. /TASS/. The Ukrainian government is acting like an unstable person with a grenade, said Anton Kobyakov, an adviser to the Russian president and executive secretary of the Eastern Economic Forum (EEF)’s organizing committee.\nCommenting on Vladimir Zelensky’s 'warning' to air carriers that flying over Russia was unsafe, he told TASS on the sidelines of the forum that Russia had taken extensive measures to guarantee the safety of its airspace.\n\"The fact that neo-Nazi drug addicts came to power in Ukraine following a bloody coup is, of course, sad. They hold nothing sacred. One should understand <…> that an erratic individual with a grenade is a clear danger. We understand the threat that these people present. These people are unhinged,\" Kobyakov said.",
+    "summary": "The Ukrainian government is acting like an unstable person with a grenade, said Anton Kobyakov, an adviser to the Russian president and executive secretary of the Eastern Economic Forum (EEF)’s organizing committee. Commenting on Vladimir Zelensky’s 'warning' to air carriers that flying over Russia was unsafe, he told TASS on the sidelines of the forum that Russia had taken extensive measures to guarantee the safety of its airspace. \"The fact that neo-Nazi drug addicts came to power in Ukraine following a bloody coup is, of course, sad.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->civil unrest"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Anton Kobyakov",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vladimir Zelensky",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kremlin",
+                "sentiment": "none"
+            },
+            {
+                "name": "VLADIVOSTOK",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ukraine",
+                "sentiment": "none"
+            },
+            {
+                "name": "Russia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "EEF",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "TASS",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "TAS",
+                        "exchange": "KLSE"
+                    }
+                ]
+            },
+            {
+                "name": "Eastern Economic Forum",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:15:06.247+03:00",
+    "updated": "2026-09-03T07:17:19.000+03:00"
+}

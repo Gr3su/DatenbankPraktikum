@@ -1,0 +1,132 @@
+{
+    "thread": {
+        "uuid": "7259c1e259bf17f3868ec358413ad185d6c84a03",
+        "url": "https://www.newsbreak.com/news/4545153549186-bryan-firefighters-quickly-extinguish-early-morning-structure-fire-on-texas-avenue",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/college-station-tx",
+        "site_categories": [
+            "crime, law and justice",
+            "under_construction",
+            "sport",
+            "politics",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "human interest",
+            "economy, business and finance"
+        ],
+        "section_title": "College Station, TX Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Bryan firefighters quickly extinguish early morning structure fire on Texas Avenue - NewsBreak",
+        "title_full": "Bryan firefighters quickly extinguish early morning structure fire on Texas Avenue - NewsBreak",
+        "published": "2026-03-17T23:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2904DK_19hnwtgX00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7259c1e259bf17f3868ec358413ad185d6c84a03",
+    "url": "https://www.newsbreak.com/news/4545153549186-bryan-firefighters-quickly-extinguish-early-morning-structure-fire-on-texas-avenue",
+    "ord_in_thread": 0,
+    "author": "Mikah Giles",
+    "published": "2026-03-17T23:09:00.000+02:00",
+    "title": "Bryan firefighters quickly extinguish early morning structure fire on Texas Avenue - NewsBreak",
+    "text": "By Mikah Giles ,\n1 days ago BRYAN, Texas (KBTX) — Early Tuesday morning, the Bryan Fire Department responded to a structure fire on the corner of Texas Avenue and East 23rd Street. Bryan firefighters and police were called about 4:30 a.m. At the time of the fire, no one was inside. “Crews were able to... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->fire"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mikah Giles",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Texas Avenue",
+                "sentiment": "none"
+            },
+            {
+                "name": "BRYAN",
+                "sentiment": "none"
+            },
+            {
+                "name": "East 23rd Street",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bryan Fire Department",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:18:56.674+02:00",
+    "updated": "2026-03-19T07:22:10.000+02:00"
+}

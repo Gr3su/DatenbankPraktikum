@@ -1,0 +1,174 @@
+{
+    "thread": {
+        "uuid": "4e3325496b1207cbef33ae23994e7b6c79a32084",
+        "url": "https://tass.com/world/2154219",
+        "site_full": "tass.com",
+        "site": "tass.com",
+        "site_section": "https://tass.com/world/1873845",
+        "site_categories": [
+            "science and technology",
+            "politics",
+            "war, conflict and unrest",
+            "economy, business and finance",
+            "media"
+        ],
+        "section_title": "Rising stakes and escalation: Reaction to US decision on strikes inside Russia -  World - TASS",
+        "site_title": "TASS Russian News Agency",
+        "title": "US Air Force B-52 Stratofortress bombers leave Royal Air Force base in UK - TWZ",
+        "title_full": "US Air Force B-52 Stratofortress bombers leave Royal Air Force base in UK - TWZ",
+        "published": "2026-07-02T07:22:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "performance_score": 0,
+        "domain_rank": 13887,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4e3325496b1207cbef33ae23994e7b6c79a32084",
+    "url": "https://tass.com/world/2154219",
+    "ord_in_thread": 0,
+    "author": "TASS",
+    "published": "2026-07-02T07:22:00.000+03:00",
+    "title": "US Air Force B-52 Stratofortress bombers leave Royal Air Force base in UK - TWZ",
+    "text": "NEW YORK, July 2. /TASS/. US Air Force B-52 Stratofortress bombers left the Royal Air Force base in the UK, marking the end of the deployment to support the war against Iran, The War Zone (TWZ) daily reported.\nAccording to TWZ, six bombers in two groups of three aircraft left the Fairford Air Base on July 1. These planes were used to deliver strikes on the territory of the Islamic Republic, the daily notes.\n\"The departure of the B-52s won’t preclude [US President Donald] Trump from ordering a new round of strategic aviation attacks,\" the TWZ noted. \"Aside from the remaining B-1s, the Air Force can launch B-52s, as well as B-2 and B-1 bombers from the US to strike Iran as it did during Epic Fury.\"\n\"However, having the B-52s stationed at a base like Fairford much closer to the action helps to cut down on flight times, wear and tear on the aircraft and crews, and increases the generation of sorties,\" the daily added.\nOn February 28, the United States and Israel launched a war against Iran. Major Iranian cities, including Tehran, came under attack. The Islamic Revolutionary Guard Corps (an elite branch of the Iranian armed forces) announced a large-scale retaliatory operation, launching attacks against Israel. US military facilities in Bahrain, Jordan, Iraq, Qatar, Kuwait, the UAE, and Saudi Arabia were also targeted.\nIn mid-June, Washington and Tehran signed a memorandum of understanding calling for an immediate cessation of hostilities on all fronts, including in Lebanon. On June 21-22, talks between the US and Iran regarding the implementation of the memorandum took place at the Swiss resort of Burgenstock, mediated by Doha and Islamabad.\nAs noted in a joint statement by Pakistan and Qatar following the first round of negotiations, the meeting attended by representatives from Iran and the US was held in a positive and constructive atmosphere; encouraging progress was achieved, including the establishment of a foundation for further technical consultations.",
+    "summary": "\"The departure of the B-52s won’t preclude [US President Donald] Trump from ordering a new round of strategic aviation attacks,\" the TWZ noted. \"However, having the B-52s stationed at a base like Fairford much closer to the action helps to cut down on flight times, wear and tear on the aircraft and crews, and increases the generation of sorties,\" the daily added. The Islamic Revolutionary Guard Corps (an elite branch of the Iranian armed forces) announced a large-scale retaliatory operation, launching attacks against Israel.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->armed conflict"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.twz.com/",
+        "https://twz.com/",
+        "https://www.twz.com"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "NEW YORK",
+                "sentiment": "none"
+            },
+            {
+                "name": "UK",
+                "sentiment": "none"
+            },
+            {
+                "name": "Iran",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fairford Air Base",
+                "sentiment": "none"
+            },
+            {
+                "name": "Islamic Republic",
+                "sentiment": "none"
+            },
+            {
+                "name": "US",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "US Air Force",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Royal Air Force",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "The War Zone",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "TWZ",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:28:42.755+03:00",
+    "updated": "2026-07-02T07:30:35.000+03:00"
+}

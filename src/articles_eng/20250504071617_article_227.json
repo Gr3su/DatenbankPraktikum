@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "7da1cb375a91fc5cc4be19962af5d0e1f5d8f7e7",
+        "url": "https://southohionews.com/stories/670643255-how-many-professional-licenses-are-issued-in-scioto-county-in-week-ending-feb-1",
+        "site_full": "southohionews.com",
+        "site": "southohionews.com",
+        "site_section": "https://world.einnews.com/ajax/headlines",
+        "site_categories": [],
+        "section_title": "",
+        "site_title": "South Ohio News",
+        "title": "How many professional licenses are issued in Scioto County in week ending Feb. 1?",
+        "title_full": "How many professional licenses are issued in Scioto County in week ending Feb. 1?",
+        "published": "2025-04-03T00:10:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://s3.amazonaws.com/jnswire/jns-media/fc/fb/518707/webp_genbusiness006.webp",
+        "performance_score": 0,
+        "domain_rank": null,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7da1cb375a91fc5cc4be19962af5d0e1f5d8f7e7",
+    "url": "https://southohionews.com/stories/670643255-how-many-professional-licenses-are-issued-in-scioto-county-in-week-ending-feb-1",
+    "ord_in_thread": 0,
+    "author": "South Ohio News",
+    "published": "2025-04-03T00:10:00.000+03:00",
+    "title": "How many professional licenses are issued in Scioto County in week ending Feb. 1?",
+    "text": "eLicense Ohio Professional Licensure System.\nThis is a 50% decrease from the previous week ending Jan. 25, 2025.\nStarting and managing a small business in Ohio is not an easy task. Nearly $172 billion is paid to employee salaries and more than 72,924 businesses declare bankruptcy every year.\nA Congressional Research Service study found small firms accounted for about 63 percent or two-thirds of new private-sector jobs in the U.S.\nIssued in week ending Feb. 1, 2025 | Issued in week ending Jan. 25, 2025 | Percentage change (%) |\n---|---|---|\n2 | 4 | -50% |",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+        "https://elicense.ohio.gov/OH_HomePage",
+        "https://sgp.fas.org/crs/misc/R41523.pdf",
+        "https://www.usgrants.org/ohio/small-business-grants",
+        "https://www.sgp.fas.org/crs/misc/R41523.pdf",
+        "https://www.elicense.ohio.gov/OH_HomePage",
+        "https://usgrants.org/ohio/small-business-grants"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "U.S.",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ohio",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "A Congressional Research Service",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "eLicense Ohio Professional Licensure System",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T00:54:52.229+03:00",
+    "updated": "2025-04-03T00:54:52.229+03:00"
+}

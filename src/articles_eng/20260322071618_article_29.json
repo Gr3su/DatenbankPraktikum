@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "26dbc5593c20c8ec3a62492d065f6e445f8d8558",
+        "url": "https://www.newsbreak.com/news/4547248192652-teen-dies-after-being-pulled-from-pond-at-freedom-park-in-star",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/boise-id",
+        "site_categories": [
+            "politics",
+            "human interest",
+            "sport",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "under_construction",
+            "economy, business and finance"
+        ],
+        "section_title": "Boise, ID Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Teen dies after being pulled from pond at Freedom Park in Star - NewsBreak",
+        "title_full": "Teen dies after being pulled from pond at Freedom Park in Star - NewsBreak",
+        "published": "2026-03-19T02:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0gik9g_19juutcW00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "26dbc5593c20c8ec3a62492d065f6e445f8d8558",
+    "url": "https://www.newsbreak.com/news/4547248192652-teen-dies-after-being-pulled-from-pond-at-freedom-park-in-star",
+    "ord_in_thread": 0,
+    "author": "CBS2 News Staff",
+    "published": "2026-03-19T02:20:00.000+02:00",
+    "title": "Teen dies after being pulled from pond at Freedom Park in Star - NewsBreak",
+    "text": "By CBS2 News Staff ,\n4 hours ago STAR, Idaho (CBS2) — A teenage boy died Wednesday afternoon after being pulled from a pond at Freedom Park in Star, authorities said. Star Police deputies were dispatched at about 3:30 p.m. on March 18 to a reported water rescue and drowning at the park. Boise Fire later recovered the teenager from the pond. Read full article\nRead in NewsBreak 9",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Human Interest"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide",
+        "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Freedom Park",
+                "sentiment": "none"
+            },
+            {
+                "name": "Idaho",
+                "sentiment": "none"
+            },
+            {
+                "name": "Star",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBS2",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "CBS",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Star Police",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Boise"
+            ],
+            "state": [
+                "Idaho"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-19T07:17:01.600+02:00",
+    "updated": "2026-03-19T07:26:46.000+02:00"
+}

@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "80a00ce1df8478afa9a834d6126c778cce44ece9",
+        "url": "https://www.newsbreak.com/news/4919708265094-two-injured-in-rollover-crash-in-wayne-county",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/mount-vernon-il",
+        "site_categories": [
+            "sport",
+            "science and technology",
+            "human interest",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "under_construction",
+            "politics",
+            "arts, culture and entertainment",
+            "economy, business and finance"
+        ],
+        "section_title": "Mount Vernon, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "TWO INJURED IN ROLLOVER CRASH IN WAYNE COUNTY - NewsBreak",
+        "title_full": "TWO INJURED IN ROLLOVER CRASH IN WAYNE COUNTY - NewsBreak",
+        "published": "2026-10-01T20:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0L5E1C_1FhCj8WS00",
+        "performance_score": 0,
+        "domain_rank": 3095,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-02T07:16:37.169+03:00"
+        }
+    },
+    "uuid": "80a00ce1df8478afa9a834d6126c778cce44ece9",
+    "url": "https://www.newsbreak.com/news/4919708265094-two-injured-in-rollover-crash-in-wayne-county",
+    "ord_in_thread": 0,
+    "author": "Mark Wells",
+    "published": "2026-10-01T20:00:00.000+03:00",
+    "title": "TWO INJURED IN ROLLOVER CRASH IN WAYNE COUNTY - NewsBreak",
+    "text": "By Mark Wells ,\n11 hours ago Two people were injured Wednesday morning in a single-vehicle rollover crash in Wayne County. The Wayne County Sheriff’s Department investigated the crash, which occurred at approximately 11:30 a.m. on County Road 925 North near County Road 2035 East in Grover Township. According to the crash report, a 16-year-old male... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->reckless driving"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wfiwradio.com/2026/10/01/two-injured-in-rollover-crash-in-wayne-county/",
+        "https://www.wfiwradio.com/2026/10/01/two-injured-in-rollover-crash-in-wayne-county",
+        "https://wfiwradio.com/2026/10/01/two-injured-in-rollover-crash-in-wayne-county/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mark Wells",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Grover Township",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wayne County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Wayne County Sheriff ’ s Department",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Mount Vernon"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-02T07:16:37.169+03:00",
+    "updated": "2026-10-02T07:19:49.000+03:00",
+    "related_articles": null
+}

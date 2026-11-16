@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "4b90108283b32c6bcf505feef8d48234eda937aa",
+        "url": "https://guardian.ng/news/meta-rolls-out-paid-subscriptions-across-instagram-facebook-whatsapp/",
+        "site_full": "guardian.ng",
+        "site": "guardian.ng",
+        "site_section": "https://news.google.com/search?q=out%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "media",
+            "social issue",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+        "title": "Meta rolls out paid subscriptions across Instagram, Facebook, WhatsApp",
+        "title_full": "Meta rolls out paid subscriptions across Instagram, Facebook, WhatsApp",
+        "published": "2026-05-28T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "https://cdn.guardian.ng/wp-content/uploads/2026/05/Mark-Zuckerberg.jpg",
+        "performance_score": 0,
+        "domain_rank": 17479,
+        "domain_rank_updated": "2026-05-25T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4b90108283b32c6bcf505feef8d48234eda937aa",
+    "url": "https://guardian.ng/news/meta-rolls-out-paid-subscriptions-across-instagram-facebook-whatsapp/",
+    "ord_in_thread": 0,
+    "author": "Guardian Nigeria",
+    "published": "2026-05-28T07:00:00.000+03:00",
+    "title": "Meta rolls out paid subscriptions across Instagram, Facebook, WhatsApp",
+    "text": "Meta has officially launched a global rollout of its new subscription services for Instagram, Facebook and WhatsApp, marking one of the company’s biggest efforts yet to transform its social media platforms beyond an ad-driven business model.\nThe tech giant announced that users across its flagship apps will now be able to subscribe to premium plans offering additional features, deeper personalization options and advanced engagement tools tailored to creators, businesses and heavy users.\nUnder the new structure, Instagram Plus and Facebook Plus will each cost $3.99 monthly, while WhatsApp Plus will launch at $2.99.\nSubscribers on Instagram and Facebook will gain access to features such as profile customization, enhanced reactions, expanded story controls and advanced audience insights aimed at improving user engagement and visibility.\nMeta says more premium features will continue to be added over time as the company expands its subscription ecosystem.\nThe firm is also introducing a broader subscription umbrella known as “Meta One,” which will serve as the central hub for future creator, business and artificial intelligence-based services.\nThe new subscription push is part of its long-term strategy to diversify revenue streams and reduce dependence on digital advertising, especially as growth across its core social platforms begins to slow after years of global expansion.\nUnlike Meta Verified — the company’s existing identity verification service — the new “Plus” subscriptions are focused more on user experience, customization and audience-building tools rather than verification or account protection.\nInstagram Plus, in particular, introduces several creator-focused tools designed to help users grow and manage their audience more effectively.\nSubscribers will be able to view how many people replay their Stories, create unlimited custom audience lists beyond the Close Friends feature, extend Story visibility beyond the standard 24-hour window and preview Stories anonymously without appearing on viewers’ lists.\nThe platform will also allow users to spotlight one Story weekly for additional reach, search through Story viewers more easily and publish posts directly to their profile highlights without pushing them to followers’ feeds.\nAdditional customization options include animated “Super Heart” reactions for Stories, exclusive profile fonts, custom app icons and expanded profile pin features.\nFacebook Plus is expected to offer similar engagement and personalization tools tailored to social interaction and content visibility.",
+    "summary": "Meta has officially launched a global rollout of its new subscription services for Instagram, Facebook and WhatsApp, marking one of the company’s biggest efforts yet to transform its social media platforms beyond an ad-driven business model. Subscribers on Instagram and Facebook will gain access to features such as profile customization, enhanced reactions, expanded story controls and advanced audience insights aimed at improving user engagement and visibility. The firm is also introducing a broader subscription umbrella known as “Meta One,” which will serve as the central hub for future creator, business and artificial intelligence-based services.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Economy, Business and Finance->computing and information technology",
+        "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Meta",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "META",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Instagram Plus",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Facebook Plus",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "WhatsApp Plus",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-28T07:48:33.414+03:00",
+    "updated": "2026-05-28T07:51:30.000+03:00"
+}

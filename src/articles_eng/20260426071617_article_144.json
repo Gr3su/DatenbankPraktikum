@@ -1,0 +1,161 @@
+{
+    "thread": {
+        "uuid": "f7919470b969c715a6e36f6e5c78851fadd7d730",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4607801741255-special-weather-statement-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/nws-alerts-1671083",
+        "site_categories": [
+            "sport",
+            "politics",
+            "under_construction",
+            "economy, business and finance",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "human interest"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Special Weather Statement by NWS - NewsBreak",
+        "title_full": "Special Weather Statement by NWS - NewsBreak",
+        "published": "2026-04-23T06:43:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1Dx5HM_1AhvrYcf00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f7919470b969c715a6e36f6e5c78851fadd7d730",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4607801741255-special-weather-statement-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2026-04-23T06:43:00.000+03:00",
+    "title": "Special Weather Statement by NWS - NewsBreak",
+    "text": "36 minutes ago Check NWS updates here\nEffective: 2026-04-22 22:41:00 CDT Expires: 2026-04-22 23:45:00 CDT Urgency: Expected Severity: Moderate Certainty: Observed Instruction: If outdoors, consider seeking shelter inside a building. These storms may intensify, so be certain to monitor local radio stations and available television stations for additional information and possible warnings from the National Weather Service. Target Area: Kittson; Roseau; Cavalier; Pembina; Ramsey; Eastern Walsh County; Nelson; Western Walsh County At 1041 PM CDT, Doppler radar was tracking gusty showers along a line extending from near Southam to near Gardar to Leo. Movement was northeast at 30 mph.\nHAZARD...Wind gusts of 50 to 55 mph.\nSOURCE...Radar indicated.\nIMPACT...Gusty winds could knock down tree limbs and blow around unsecured objects.\nLocations impacted include... Langdon, Park River, Cavalier, Walhalla, Hallock, Drayton, and Karlstad.",
+    "summary": "36 minutes ago Check NWS updates here Effective: 2026-04-22 22:41:00 CDT Expires: 2026-04-22 23:45:00 CDT Urgency: Expected Severity: Moderate Certainty: Observed Instruction: If outdoors, consider seeking shelter inside a building. These storms may intensify, so be certain to monitor local radio stations and available television stations for additional information and possible warnings from the National Weather Service. Target Area: Kittson; Roseau; Cavalier; Pembina; Ramsey; Eastern Walsh County; Nelson; Western Walsh County At 1041 PM CDT, Doppler radar was tracking gusty showers along a line extending from near Southam to near Gardar to Leo.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1Dx5HM_1AhvrYcf00",
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.8ced8a0b3683ed4235ae862d0d346de95c1b5702.001.1",
+        "https://img.particlenews.com/image.php?url=1Dx5HM_1AhvrYcf00",
+        "https://alerts.weather.gov/search",
+        "https://www.img.particlenews.com/image.php?url=1Dx5HM_1AhvrYcf00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1Dx5HM_1AhvrYcf00",
+        "https://img.particlenews.com/image.php",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.8ced8a0b3683ed4235ae862d0d346de95c1b5702.001.1"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Nelson",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cavalier",
+                "sentiment": "none"
+            },
+            {
+                "name": "Western Walsh County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eastern Walsh County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pembina",
+                "sentiment": "none"
+            },
+            {
+                "name": "Roseau",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kittson",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ramsey",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Doppler",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-23T07:20:58.970+03:00",
+    "updated": "2026-04-23T07:33:10.000+03:00"
+}

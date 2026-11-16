@@ -1,0 +1,151 @@
+{
+    "thread": {
+        "uuid": "e3bd088cf5ec389dcd1fd3853ea4bea80005763a",
+        "url": "https://www.fox9.com/video/fmc-1b3qjg9vybg0d1xy",
+        "site_full": "www.fox9.com",
+        "site": "fox9.com",
+        "site_section": "https://news.google.com/search?q=over%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "sport",
+            "weather",
+            "health",
+            "lifestyle and leisure",
+            "disaster and accident",
+            "crime, law and justice",
+            "media",
+            "social issue",
+            "politics"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "FOX 9 Minneapolis-St. Paul | Local News, Weather, and Live Streams | KMSP-TV",
+        "title": "Eagan facing lawsuit over data center moratorium",
+        "title_full": "Eagan facing lawsuit over data center moratorium",
+        "published": "2026-07-09T01:58:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/1wiqglrs3qcylmw0/1200/630/44gl9us0zojb9mse.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 30562,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e3bd088cf5ec389dcd1fd3853ea4bea80005763a",
+    "url": "https://www.fox9.com/video/fmc-1b3qjg9vybg0d1xy",
+    "ord_in_thread": 0,
+    "author": "no author",
+    "published": "2026-07-09T01:58:00.000+03:00",
+    "title": "Eagan facing lawsuit over data center moratorium",
+    "text": "Eagan facing lawsuit over data center moratorium\nThe City of Eagan is facing a lawsuit over its data center moratorium. FOX 9's Mike Manzoni has more.\nTop Videos\nEagan facing lawsuit over data center moratorium\nNew task force investigates non-fatal shootings\n'Dine & Demonstrate' rally near Alex Pretti Memorial\nMinnesotans read Declaration of Independence\nU.S. strikes Iran as Trump declares cease fire over\nVenezuela earthquakes: 3,685 dead, thousands still missing\nMinneapolis drone debate: Residents raise privacy concerns\nFederal job training program off to slow start in MN\nSuspected tornado causes damage, injuries in Becker Co.\nMN weather: Storms in northern Minnesota\nFloyd Lake tornado: Drone video captures storm damage\nSevere storm cleanup in northern Minnesota\nFOX 9 Town Ball Tour: Brownton Bruins talk hosting State Tournament\nLake Ann death latest\nTown Ball: Brownton Bruins raise money for boy with Leukemia\nFOX 9 Town Ball Tour: Meet the Brownton Bruins\nUS launches retaliatory strikes at Iran\nLawsuit filed over veterans’ access to campsite\nFOX 9 Town Ball Tour: Brownton Bruins burgers and hot dogs\nConcerns over Somali gangs in Twin Cities\nFOX 9 Town Ball Tour: Brownton pays tribute to Weston Paszkiewicz\nTwin Cities Marathon moves to a new fall date in 2027\nMinnesota bison farming on the rise\nFOX 9 Town Ball Tour: Ian Leonard plays yard games in Brownton\nHot rotisserie chicken could become SNAP eligible",
+    "summary": "Eagan facing lawsuit over data center moratorium The City of Eagan is facing a lawsuit over its data center moratorium. FOX 9's Mike Manzoni has more.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mike Manzoni",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "U. S.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Venezuela",
+                "sentiment": "none"
+            },
+            {
+                "name": "Iran",
+                "sentiment": "none"
+            },
+            {
+                "name": "Minneapolis",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Eagan",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "FOX 9",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Minneapolis",
+                "St. Paul"
+            ],
+            "state": [
+                "Minnesota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:34:36.231+03:00",
+    "updated": "2026-07-09T07:35:24.000+03:00"
+}

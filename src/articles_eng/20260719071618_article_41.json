@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "0bdc094067a2f7d84edbebf9021abaf0e5e2380a",
+        "url": "https://www.newsbreak.com/news/4772941252231-motorcyclist-critically-injured-in-south-wichita-crash",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/wichita-ks",
+        "site_categories": [
+            "under_construction",
+            "lifestyle and leisure",
+            "social issue",
+            "economy, business and finance",
+            "human interest",
+            "disaster and accident",
+            "politics",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "sport"
+        ],
+        "section_title": "Wichita, KS Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Motorcyclist critically injured in south Wichita crash - NewsBreak",
+        "title_full": "Motorcyclist critically injured in south Wichita crash - NewsBreak",
+        "published": "2026-07-16T05:05:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.newsbreak.com/api/share-og-image/09ZEdF_1DLJwRCe00.jpg",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0bdc094067a2f7d84edbebf9021abaf0e5e2380a",
+    "url": "https://www.newsbreak.com/news/4772941252231-motorcyclist-critically-injured-in-south-wichita-crash",
+    "ord_in_thread": 0,
+    "author": "Angela Smith",
+    "published": "2026-07-16T05:05:00.000+03:00",
+    "title": "Motorcyclist critically injured in south Wichita crash - NewsBreak",
+    "text": "By Angela Smith ,\n2 hours ago WICHITA, Kan. — A motorcyclist was taken to the hospital in critical condition Wednesday evening after being struck by another vehicle near MacArthur and Broadway. Wichita police said the crash happened around 7:30 p.m. in the 4200 block of S. Broadway. A car exited a private drive and did not see the woman on the motorcycle. Read full article\n3",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kwch.com/2026/07/16/motorcyclist-critically-injured-south-wichita-crash/",
+        "https://kwch.com/2026/07/16/motorcyclist-critically-injured-south-wichita-crash/",
+        "https://www.kwch.com/2026/07/16/motorcyclist-critically-injured-south-wichita-crash"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Angela Smith",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Wichita",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kan",
+                "sentiment": "none"
+            },
+            {
+                "name": "S. Broadway",
+                "sentiment": "none"
+            },
+            {
+                "name": "MacArthur",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:17:49.350+03:00",
+    "updated": "2026-07-16T07:18:29.000+03:00"
+}

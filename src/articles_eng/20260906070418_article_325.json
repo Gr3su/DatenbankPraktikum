@@ -1,0 +1,118 @@
+{
+    "thread": {
+        "uuid": "2ab31faa966330872e8a9a15242225c45fb24cbd",
+        "url": "https://news.mit.edu/2026/new-qubit-architecture-enables-faster-more-accurate-operations-0903",
+        "site_full": "news.mit.edu",
+        "site": "mit.edu",
+        "site_section": "https://news.google.com/search?q=other%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+        "site_categories": [
+            "education",
+            "graduate_school",
+            "science and technology"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "MIT News | Massachusetts Institute of Technology",
+        "title": "New qubit architecture enables faster, more accurate operations | MIT News | Massachusetts Institute of Technology",
+        "title_full": "New qubit architecture enables faster, more accurate operations | MIT News | Massachusetts Institute of Technology",
+        "published": "2026-09-03T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://news.mit.edu/sites/default/files/images/202609/MIT-ArmQubit-01-press.jpg",
+        "performance_score": 0,
+        "domain_rank": 217,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2ab31faa966330872e8a9a15242225c45fb24cbd",
+    "url": "https://news.mit.edu/2026/new-qubit-architecture-enables-faster-more-accurate-operations-0903",
+    "ord_in_thread": 0,
+    "author": "Adam Zewe | MIT News",
+    "published": "2026-09-03T03:00:00.000+03:00",
+    "title": "New qubit architecture enables faster, more accurate operations | MIT News | Massachusetts Institute of Technology",
+    "text": "Researchers from MIT have designed a new qubit architecture that enables qubits to interact with each other much more quickly while remaining very stable. This advance could someday help scientists build practical quantum computers that can run long, complex algorithms with high accuracy.\nQubits, which are the building blocks of a quantum computer, usually only store data and rely on other electronics to perform operations and communicate. But qubits are so fragile and error-prone that it is difficult for scientists to connect enough qubits before they lose their information and need to be reset.\nThe MIT team designed a dual-purpose qubit with two separate parts: one component that stores data and one component that interacts with other qubits and electronics. This design improves the reliability of the qubit and enables it to operate with a reduced error rate, so it can perform more computations in the same time span.\nTheir simulations indicate that this new qubit architecture could allow significantly faster and higher-fidelity operations than existing designs.\nWhile this research is still in its early days, it holds the potential to help scientists build large-scale, useful quantum computers that can solve real problems which are too difficult for traditional supercomputers to handle.\n“This work feels like a big step. It is a new architecture that shows how much these systems can be engineered. We have taken two ideas and put them together in a way that can help us accomplish this qubit codesign that we are looking for, creating a pretty rare combination of the things we need to do quantum error correction,” says Alec Yen, who earned his electrical engineering and computer science (EECS) PhD this spring and is co-author of a paper describing the new architecture.\nHe is joined on the paper by lead author Jeremy Kline, an EECS graduate student; Stanley Chen, an MIT undergraduate; and senior author Kevin O’Brien, an associate professor in EECS and principal investigator in the Research Laboratory of Electronics (RLE). The work appears in Physical Review Applied.\nA dual-purpose qubit\nJust like the bits in a classical computer, quantum bits store information. But unlike classical bits, quantum bits have very short lifespans and can break down quickly when scientists connect them to make a quantum computer.\nThis degradation, known as decoherence, introduces errors in computations that rapidly build up, derailing long calculations before they are complete.\n“The goal for doing all this is to build a fault-tolerant quantum computer where you can correct these errors as they happen, so then you can do long computations and actually do useful things with a quantum computer,” O’Brien explains.\nTo make qubits more reliable, the MIT researchers developed a new design that includes two separate but connected components: one which stores data and one which interacts with every other part of the quantum circuit.\nThis interaction component is like an arm that reaches out to other parts of the system, so the researchers call their design the “arm qubit.”\n“It is engineered for these two, dual purposes — accomplished together by the data mode and arm mode — and these two goals really matter when you try to do quantum error correction,” Yen says.\nEssentially, their design combines two different types of qubits. To make the data mode, they use one popular qubit design which has been known to have a very long lifespan, or coherence.\nThe arm mode utilizes a different design that exhibits very strong interactions with other components such as a resonator, which is an electronic component that allows for readout of quantum computations. Readout is the process of measuring a quantum system’s state and translating it into a classical value.\nThe key to this new architecture is a special coupling unit the researchers previously developed, which they used to connect the data mode and the arm mode.\nStronger coupling\nNormally, coupling the modes together could cause unwanted interactions between them that would build up as more qubits are linked to the system.\nOne way to avoid this mixing is to use a technique called nonlinear coupling, which occurs when two components are linked in such a way that changing the state of one causes the other to change in response. Nonlinear coupling is essential for running most quantum algorithms.\nThe special device the researchers used, known as a quarton coupler, enables very strong nonlinear coupling between the data mode and arm mode, which significantly reduces unwanted mixing. This coupling allows the qubit to perform operations faster before it decoheres.\n“By dedicating the ‘arm’ component to coupling, we were able make a design that is scalable, robust to manufacturing errors, and still uses a quarton coupler to achieve strong nonlinear coupling,” Kline says.\nWhen they tested the design in simulations, the arm qubit outperformed other superconducting qubit architectures by yielding state-of-the-art coherence time as well as faster operations and readout.\nThe speed and reliability of this new architecture may accelerate quantum error correction, which is an important step in making quantum computers practical.\nFrom here, the researchers plan to work toward fabricating the arm qubit so they can further study its properties and capabilities and integrate it into real quantum systems.\n“This work leaves me with a lot of suspense because our simulations are very promising. Next, we’ll need to see if we can make it, and determine whether we missed anything in the modeling or design. If we can fabricate this qubit, it could be a building block for future error-correcting quantum computers,” O’Brien says.\nThis work is funded, in part, by the Army Research Office, the Air Force Office of Scientific Research, a Doc Bedard Fellowship from the MIT Center for Quantum Engineering and the Laboratory for Physical Sciences.",
+    "summary": "This design improves the reliability of the qubit and enables it to operate with a reduced error rate, so it can perform more computations in the same time span. While this research is still in its early days, it holds the potential to help scientists build large-scale, useful quantum computers that can solve real problems which are too difficult for traditional supercomputers to handle.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->physics",
+        "Science and Technology->scientific research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://journals.aps.org/prapplied/abstract/10.1103/3l3b-7jsm",
+        "https://www.journals.aps.org/prapplied/abstract/10.1103/3l3b-7jsm"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "MIT News",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Massachusetts Institute of Technology",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:14:07.122+03:00",
+    "updated": "2026-09-03T07:22:25.000+03:00"
+}

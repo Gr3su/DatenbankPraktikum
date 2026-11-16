@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "72bdae7e8123907f6dbd18a25034fa2e2934fe4e",
+        "url": "https://taekim.substack.com/p/an-interview-with-nvidia-cfo-colette",
+        "site_full": "taekim.substack.com",
+        "site": "substack.com",
+        "site_section": "https://sources.werd.io/",
+        "site_categories": [
+            "science and technology"
+        ],
+        "section_title": "\n      Ben Werdmuller: Sources\n    ",
+        "site_title": "Tae Kim | Substack",
+        "title": "An Interview with NVIDIA CFO Colette Kress: $1 Trillion Shareholder Return Is on the 'Horizon'",
+        "title_full": "An Interview with NVIDIA CFO Colette Kress: $1 Trillion Shareholder Return Is on the 'Horizon'",
+        "published": "2026-05-21T05:59:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://substackcdn.com/image/fetch/$s_!jix7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26d3b678-94d7-4477-be85-c0a735957837_1920x1920.jpeg",
+        "performance_score": 0,
+        "domain_rank": 510,
+        "domain_rank_updated": "2026-05-18T00:00:00.000+03:00",
+        "licensing_agency": [
+            "NLA"
+        ],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "72bdae7e8123907f6dbd18a25034fa2e2934fe4e",
+    "url": "https://taekim.substack.com/p/an-interview-with-nvidia-cfo-colette",
+    "ord_in_thread": 0,
+    "author": "Tae Kim",
+    "published": "2026-05-21T05:59:00.000+03:00",
+    "title": "An Interview with NVIDIA CFO Colette Kress: $1 Trillion Shareholder Return Is on the 'Horizon'",
+    "text": "An Interview with NVIDIA CFO Colette Kress: $1 Trillion Shareholder Return Is on the 'Horizon'\nNVIDIA's CFO pushes back at skeptics who say the company's growth is unsustainable.\nColette Kress. Source: NVIDIA\nNVIDIA is firing on all cylinders.\nThe chipmaker just reported its third consecutive quarter of accelerating revenue growth, which is unprecedented at its revenue scale.\nFor its April quarter, NVIDIA posted adjusted earnings per share of $1.87, compared to Wall Street’s consensus estimate of $1.75. Revenue was $81.6 billion, up 85% year over year, ahead of analysts’ expectations of $78.9 billion. Data center revenue grew even faster, up 92% versus the prior year.\nOur favorite signal for latent GPU demand, networking products revenue, was up 199% from the prior year. NVIDIA’s networking products often lead data center buildouts by months, making this an important bullish sign for the future.\nThe outlook was also strong. For the current quarter, NVIDIA provided a revenue forecast range with a midpoint of $91 billion, significantly higher than the consensus of $87.2 billion.\n“The buildout of AI factories — the largest infrastructure expansion in human history — is accelerating at extraordinary speed,” NVIDIA CEO Jensen Huang said in the earnings release. “Agentic AI has arrived, doing productive work, generating real value and scaling rapidly across companies and industries.”\nNVIDIA also announced that its Board of Directors approved an additional $80 billion for the company’s stock buyback authorization and increased its quarterly dividend from 1 cent per share to 25 cents per share.\nOn the earnings call, management said they are growing market share in inference right now, the company’s new standalone Vera CPU business has $20 billion in revenue visibility this year, and NVIDIA should grow faster than hyperscaler capex in the future. For context, Morgan Stanley estimates hyperscaler capex will grow 38% in 2027 to $1 trillion, after growing 78% to $737 billion this year.\nSource: Morgan Stanley\nKey Context spoke with NVIDIA CFO Colette Kress late Wednesday after the earnings conference call to discuss the supply chain, memory chip pricing, Vera Rubin, and shareholder returns.\nHere are edited highlights from our conversation with Kress:\nKey Context: How has NVIDIA been able to manage the supply chain to support these large growth numbers over the past year? The sheer scope and scale of $81.6 billion in revenue, up 85% year over year, is an incredible feat. AI servers are physical atoms, not software packets.\nKress: It’s not like we get a PO [purchase order] coming in and now we’re going to supply it. We have to make an [early] assessment on what is going to be needed. We have a belief that this [AI] wave is going to continue.\nWe already have a significant ecosystem of suppliers. If we show up, they’re like, how can I help you? We know you well enough. We’ve worked with you for 30 years.\nIt’s not adversarial. We have to start thinking about capacity and we need to put that together. That is our skill set. People like working with us. Once we have more and more resiliency and redundancy of our supply chain, it all comes together.\nMany of the companies, for example, are sitting here going, oh my gosh, the memory price went up.\nWe knew that was going to happen. That was something everybody should have, at least we did, ordered a long time ago. On the most significant memory, we’re actually working with them on what to build. It’s not, hey, what do you have on the shelf? We’re saying in our next configuration, we’re thinking this. And they said, okay, let’s work on that.\nThey’re designing it with us. And then they go, now how much supply do we need? And we’re not just doing it with one. We’re doing it with all three memory suppliers. We say, here’s what we’re building. And then we’ve got to get them all in line and working with us. I don’t see another company doing that.\nWhen you’re ordering memory well ahead of time, are you securing pricing too?\nYou are. You get a little bit of, we’ll help you and you help us. It’s not, I bargained with you, and those are going to be a dollar a piece. It’s not that way.\nIt’s more let’s try about this range. Once we get closer and we have a good understanding of which exact number of each one you need, because we have multiple different types of memory, and it comes together.\nOthers will say, well, I did that too. And I go, I agree that you did it too, but you didn’t believe. And you ordered, not enough. You didn’t believe. That has been very helpful for what we’ve done.\nThe reason NVIDIA shares have a low forward P/E multiple, even lower than the S&P 500, is that some in the market believe NVIDIA’s growth will decelerate and that the company is near its peak growth rate. How would you push back against this narrative, and will NVIDIA be able to keep growing at a solid rate over the next few years?\nI’ve heard some folks that say, is this growth sustainable? Is it possible that this will continue? And the answer is yes.\nOnce you move to agentic, you knew that the tokens generated is enormous. But more importantly, you’re making revenue immediately because you’re getting work done and everyone says I’ll pay for that. You got agentic. You’re doing work. That is something we’re going to pay for. That’s why you’re seeing the shoot up in revenue from Anthropic and OpenAI.\nWe see a roadmap, where already we have POs not just for this year, but the planning for next year. [There is] more and more focus on long-term planning. Where is everyone feverishly going right now? They are going: land/power/shell and ordering everything that they need from us and saying, let’s say the next [future] quarter I will need one gigawatt of this and I need one gigawatt of that.\nThat’s how they’re talking now. I got to fill out this data center. I got to fill out that one. And we’re talking about gigawatts.\nI just don’t believe the [slowing growth NVIDIA] narrative because, we’re sitting here staring at tons and tons of demand [from customers] asking us for, “Hold on, I didn’t even order enough for this year. Do you have a little bit more?” And then number two, we’re working feverishly on the next year and beyond.\nThere are rumblings about thermal design challenge delays with Vera Rubin. Can you put the speculation to rest and confirm that Vera Rubin is on track as expected?\nWe’re on track. It’s false news.\nWe are on time. We have indicated the second half and today we announced that it will be there in Q3. And we will start the ramp.\nNVIDIA has said it plans to return 50% of its free cash flow in the coming year after prepaid supply commitments and strategic investments. Is this the permanent plan going forward (after this year)?\nYes.\nIf NVIDIA keeps growing, the math points to hundreds of billions in stock buybacks and dividends. Do you agree with that?\nYes. Yes. Yes. Do the math going forward, when will we meet a trillion dollars returned to shareholders? That’s what we’re pretty much saying. It’s on the horizon.\nThanks for your time, Colette.",
+    "summary": "NVIDIA’s networking products often lead data center buildouts by months, making this an important bullish sign for the future. “The buildout of AI factories — the largest infrastructure expansion in human history — is accelerating at extraordinary speed,” NVIDIA CEO Jensen Huang said in the earnings release. Key Context spoke with NVIDIA CFO Colette Kress late Wednesday after the earnings conference call to discuss the supply chain, memory chip pricing, Vera Rubin, and shareholder returns.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Economy, Business and Finance->financial and economic news",
+        "Economy, Business and Finance->investment and opinion pieces",
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-21T07:27:19.278+03:00",
+    "updated": "2026-05-21T07:30:20.000+03:00"
+}

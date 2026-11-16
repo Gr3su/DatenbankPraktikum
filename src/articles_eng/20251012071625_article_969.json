@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "bb20abce95d4e1a1bcf8687934893f36f22642f5",
+        "url": "https://www.republicworld.com/world-news/united-nations-to-cut-25-of-its-global-peacekeeping-force-in-response-to-us-funding-strains",
+        "site_full": "www.republicworld.com",
+        "site": "republicworld.com",
+        "site_section": "https://news.google.com/search?q=its%20when%3A1h&hl=en-US&gl=US&ceid=US%3Aen",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "Latest News, News Today, Breaking News, India News and Current News  | Republic World",
+        "title": "United Nations to Cut 25% of its Global Peacekeeping Force in Response to US Funding Strains",
+        "title_full": "United Nations to Cut 25% of its Global Peacekeeping Force in Response to US Funding Strains",
+        "published": "2025-10-09T07:13:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://img.republicworld.com/all_images/un-slashes-25-of-global-peacekeeping-force-due-to-us-funding-cuts-1759983205731-16_9.webp",
+        "performance_score": 0,
+        "domain_rank": 15718,
+        "domain_rank_updated": "2025-10-06T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bb20abce95d4e1a1bcf8687934893f36f22642f5",
+    "url": "https://www.republicworld.com/world-news/united-nations-to-cut-25-of-its-global-peacekeeping-force-in-response-to-us-funding-strains",
+    "ord_in_thread": 0,
+    "author": "Associated Press Television News",
+    "published": "2025-10-09T07:13:00.000+03:00",
+    "title": "United Nations to Cut 25% of its Global Peacekeeping Force in Response to US Funding Strains",
+    "text": "• The United Nations will reduce its peacekeeping force by 25%, equating to approximately 13,000-14,000 troops.\n• This decision is a response to funding cuts from the United States, the largest donor to the U.N.\n• The U.N. plans to cut its peacekeeping budget by approximately 15% for the current year.\n• The reduction will affect over 50,000 peacekeepers deployed across nine global missions.\n• Countries with U.N. peacekeeping missions include Congo, Central African Republic, South Sudan, Lebanon, Cyprus, and Kosovo.\n• U.N. Secretary General Antonio Guterres emphasized that U.N. peacekeeping is a cost-effective tool for international peace and security.\n• The decision followed a meeting between Guterres and representatives from major donor countries, including U.S. ambassador Mike Waltz.\n• Waltz stated that the U.S. aims to reassess the effectiveness of U.N. agencies and programs before making further contributions.\n• U.N. peacekeeping operations have increased from 11,000 personnel at the end of the Cold War to around 52,000 currently.\n• The U.S. will commit $680 million to nine peacekeeping efforts, down from $1 billion the previous year.\n• Contributions from the U.S. and China account for half of the U.N.'s peacekeeping budget.\n• China has indicated it will fulfill its full contribution by the end of the year.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Politics->international organisation",
+        "Politics->government budget",
+        "Social Issue->social condition",
+        "Economy, Business and Finance->corporate news and profiles"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": true,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Antonio Guterres",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mike Waltz",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "United Nations",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Global Peacekeeping Force",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "U.N.",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-09T07:41:57.232+03:00",
+    "updated": "2025-10-09T07:49:54.000+03:00"
+}

@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "a7412b632d8a8a6d796a573f44c24f64c706deb1",
+        "url": "http://stevens.house.gov/media/in-the-news/house-dem-impeach-hhs-secy-rfk-jr",
+        "site_full": "stevens.house.gov",
+        "site": "house.gov",
+        "site_section": "http://stevens.house.gov",
+        "site_categories": [],
+        "section_title": "Congresswoman Haley Stevens |",
+        "site_title": null,
+        "title": "House Dem to Impeach HHS Secy RFK Jr. | Congresswoman Haley Stevens",
+        "title_full": "House Dem to Impeach HHS Secy RFK Jr. | Congresswoman Haley Stevens",
+        "published": "2025-09-27T06:50:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2134,
+        "domain_rank_updated": "2025-10-06T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a7412b632d8a8a6d796a573f44c24f64c706deb1",
+    "url": "http://stevens.house.gov/media/in-the-news/house-dem-impeach-hhs-secy-rfk-jr",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-09-27T06:50:00.000+03:00",
+    "title": "House Dem to Impeach HHS Secy RFK Jr. | Congresswoman Haley Stevens",
+    "text": "House Dem to Impeach HHS Secy RFK Jr.\nSeptember 26, 2025\nJust in to the news room, House Democratic Congresswoman Haley Stevens is set to announce that she'll be introducing articles of impeachment against Health and Human Services Secretary RFK Jr., due to “healthcare chaos” under his leadership.\nShe and other Democrats called for Kennedy's removal.\nThis comes as Kennedy is under scrutiny on his federal health policies.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Politics->government",
+        "Politics->impeachment",
+        "Crime, Law and Justice->court",
+        "Crime, Law and Justice->law"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Haley Stevens",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Kennedy",
+                "sentiment": "none"
+            },
+            {
+                "name": "RFK Jr.",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Health and Human Services",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "gov_news",
+            "city": [
+                "Washington"
+            ],
+            "state": [
+                "DC"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": "Federal - Legislative",
+            "agency": "The Legislative Branch",
+            "organization_name": "US House of Representatives"
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-09T07:21:06.617+03:00",
+    "updated": "2025-10-09T07:29:41.000+03:00"
+}

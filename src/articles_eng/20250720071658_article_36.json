@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "f701cb09ae1324be32160d4cd5c723b98519401c",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4113363098124-flash-flood-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/nws-alerts-1671083",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Flash Flood Warning by NWS - NewsBreak",
+        "title_full": "Flash Flood Warning by NWS - NewsBreak",
+        "published": "2025-07-17T02:04:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/17g3G2_12nipjg000",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f701cb09ae1324be32160d4cd5c723b98519401c",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4113363098124-flash-flood-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2025-07-17T02:04:00.000+03:00",
+    "title": "Flash Flood Warning by NWS - NewsBreak",
+    "text": "Check NWS updates here FFWOHX The National Weather Service in Nashville has issued a * Flash Flood Warning for... Southwestern Cumberland County in middle Tennessee... Northern Van Buren County in middle Tennessee... Southeastern White County in middle Tennessee... * Until 215 AM CDT. * At 1104 PM CDT, Doppler radar indicated thunderstorms producing heavy rain across the warned area. Between 2 and 3.5 inches of rain have fallen. Additional rainfall amounts of 1 to 2 inches are possible in the warned area. Flash flooding is ongoing or expected to begin shortly. HAZARD...Flash flooding caused by thunderstorms. SOURCE...Radar. IMPACT...Flash flooding of small creeks and streams, urban areas, highways, streets and underpasses as well as other poor drainage and low-lying areas. * Some locations that will experience flash flooding include... Spencer, Doyle, Virgin Falls State Natural Area and Lake Tansi.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.d81b1e8e95560a277e9347bb201706d22d67ddd1.001.1",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.d81b1e8e95560a277e9347bb201706d22d67ddd1.001.1",
+        "https://alerts.weather.gov/search"
+    ],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "State Natural Area",
+                "sentiment": "none"
+            },
+            {
+                "name": "Virgin",
+                "sentiment": "none"
+            },
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:16:43.272+03:00",
+    "updated": "2025-07-17T07:16:43.272+03:00"
+}

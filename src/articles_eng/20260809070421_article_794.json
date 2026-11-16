@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "f828b3914d8ea4d284fbc507d46576c2ab388c3a",
+        "url": "https://www.newsbreak.com/news/4811665914163-investigation-underway-in-geauga-county-after-long-time-employee-accused-of-stealing-money-from-hambden-fire-department",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/cleveland-heights-oh",
+        "site_categories": [
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "health",
+            "sport",
+            "politics",
+            "social issue",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "under_construction",
+            "human interest"
+        ],
+        "section_title": "Cleveland Heights, OH Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Investigation underway in Geauga County after 'long-time employee' accused of stealing money from Hambden Fire Department - NewsBreak",
+        "title_full": "Investigation underway in Geauga County after 'long-time employee' accused of stealing money from Hambden Fire Department - NewsBreak",
+        "published": "2026-08-06T00:47:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0jIOZJ_1DyLAykA00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f828b3914d8ea4d284fbc507d46576c2ab388c3a",
+    "url": "https://www.newsbreak.com/news/4811665914163-investigation-underway-in-geauga-county-after-long-time-employee-accused-of-stealing-money-from-hambden-fire-department",
+    "ord_in_thread": 0,
+    "author": "WKYC",
+    "published": "2026-08-06T00:47:00.000+03:00",
+    "title": "Investigation underway in Geauga County after 'long-time employee' accused of stealing money from Hambden Fire Department - NewsBreak",
+    "text": "6 hours ago GEAUGA COUNTY, Ohio — An investigation is underway in Geauga County after the Hambden Volunteer Fire Department says some of its funds were \"taken by a long-time employee without authorization.\" Per a press release from the department, Chief Scott Hildenbrand — who also serves as Geauga County Sheriff —... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->fraud",
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wkyc.com/article/news/local/geauga-county/geauga-county-employee-accused-stealing-money-hambden-fire-department/95-b87f441d-f737-4e22-9486-129065131e91",
+        "https://wkyc.com/article/news/local/geauga-county/geauga-county-employee-accused-stealing-money-hambden-fire-department/95-b87f441d-f737-4e22-9486-129065131e91"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Hildenbrand",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Geauga County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ohio",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hambden Fire Department",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Cleveland Heights"
+            ],
+            "state": [
+                "Ohio"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:36:36.900+03:00",
+    "updated": "2026-08-06T07:40:20.000+03:00"
+}

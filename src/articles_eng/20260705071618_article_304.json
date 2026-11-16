@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "e39a68afd685a192b1dde3bb11471be3ed4c27fe",
+        "url": "https://www.newsbreak.com/news/4744978352248-dte-ceo-on-rate-hikes-data-centers-the-grid",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/southgate-mi",
+        "site_categories": [
+            "sport",
+            "under_construction",
+            "crime, law and justice",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "politics",
+            "disaster and accident",
+            "social issue",
+            "human interest",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Southgate, MI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "DTE CEO on rate hikes, data centers & the grid - NewsBreak",
+        "title_full": "DTE CEO on rate hikes, data centers & the grid - NewsBreak",
+        "published": "2026-07-02T04:18:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4av2iu_1Cu8qrwM00",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e39a68afd685a192b1dde3bb11471be3ed4c27fe",
+    "url": "https://www.newsbreak.com/news/4744978352248-dte-ceo-on-rate-hikes-data-centers-the-grid",
+    "ord_in_thread": 0,
+    "author": "fox2detroit.com",
+    "published": "2026-07-02T04:18:00.000+03:00",
+    "title": "DTE CEO on rate hikes, data centers & the grid - NewsBreak",
+    "text": "3 hours ago DTE Energy CEO Joi Harris sits down with The Pulse Anchor Roop Raj to discuss a number of issues, including rate hikes, data centers and the grid. She also answered questions from viewers. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox2detroit.com/video/fmc-3mvlbr6jpe4kvtr6.amp",
+        "https://fox2detroit.com/video/fmc-3mvlbr6jpe4kvtr6.amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joi Harris",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "DTE Energy",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "DTE",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "The Pulse Anchor",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Southgate"
+            ],
+            "state": [
+                "Michigan"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:27:49.501+03:00",
+    "updated": "2026-07-02T07:29:41.000+03:00"
+}

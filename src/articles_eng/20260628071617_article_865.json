@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "395e67b0c69dc595bc3508d96106f71282ceb87b",
+        "url": "https://www.zerohedge.com/markets/bofa-desk-warns-nasdaq-crossing-bubble-threshold-recommends-trade-hedge-unwind",
+        "site_full": "www.zerohedge.com",
+        "site": "zerohedge.com",
+        "site_section": "https://www.zerohedge.com/",
+        "site_categories": [
+            "politics",
+            "economy, business and finance",
+            "financial_news",
+            "war, conflict and unrest",
+            "science and technology",
+            "finance",
+            "media",
+            "law_government_and_politics"
+        ],
+        "section_title": "ZeroHedge",
+        "site_title": "ZeroHedge",
+        "title": "BofA Desk Warns Nasdaq Crossing \"Bubble Threshold\", Recommends Trade To Hedge Unwind",
+        "title_full": "BofA Desk Warns Nasdaq Crossing \"Bubble Threshold\", Recommends Trade To Hedge Unwind",
+        "published": "2026-06-25T05:20:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 7764,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "395e67b0c69dc595bc3508d96106f71282ceb87b",
+    "url": "https://www.zerohedge.com/markets/bofa-desk-warns-nasdaq-crossing-bubble-threshold-recommends-trade-hedge-unwind",
+    "ord_in_thread": 0,
+    "author": "Tyler Durden",
+    "published": "2026-06-25T05:20:00.000+03:00",
+    "title": "BofA Desk Warns Nasdaq Crossing \"Bubble Threshold\", Recommends Trade To Hedge Unwind",
+    "text": "As Bank of America's derivatives team writes in its latest weekly note , while last week’s hawkish FOMC meeting triggered a re-pricing of Fed policy and pushed front-end rates higher, the Nasdaq continued its broad trend higher, and \" the AI bubble continues to expand\" as BofA puts it, despite macro headwinds and geopolitical uncertainty (which, as the bank says, is \"typical of bubbles building\" ).\nThe breakneck rally has also pushed the Nasdaq’s Bubble Risk Indicator closer to the top quintile, beyond which we typically see rising near-term risks in both tails.",
+    "summary": "As Bank of America's derivatives team writes in its latest weekly note , while last week’s hawkish FOMC meeting triggered a re-pricing of Fed policy and pushed front-end rates higher, the Nasdaq continued its broad trend higher, and \" the AI bubble continues to expand\" as BofA puts it, despite macro headwinds and geopolitical uncertainty (which, as the bank says, is \"typical of bubbles building\" ). The breakneck rally has also pushed the Nasdaq’s Bubble Risk Indicator closer to the top quintile, beyond which we typically see rising near-term risks in both tails.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->macro economics",
+        "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://marketdesk.ai/library/browse/jeXkzvIoAET",
+        "https://www.marketdesk.ai/library/browse/jeXkzvIoAET"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Bank of America",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "BAC",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "OMC",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "OMC",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Fed",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "BofA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "BAC",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:44:56.580+03:00",
+    "updated": "2026-06-25T07:49:41.000+03:00"
+}

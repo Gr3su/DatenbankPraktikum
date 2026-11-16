@@ -1,0 +1,113 @@
+{
+    "thread": {
+        "uuid": "3646a480d75b02b8089566028d8faa59a182a48c",
+        "url": "https://www.medicaldaily.com/slamf6-cancer-immunotherapy-discovery-nature-2026-475575",
+        "site_full": "www.medicaldaily.com",
+        "site": "medicaldaily.com",
+        "site_section": "https://www.medicaldaily.com/rss",
+        "site_categories": [
+            "health",
+            "science and technology"
+        ],
+        "section_title": "Medical Daily",
+        "site_title": "Medical Daily",
+        "title": "SLAMF6 Cancer Discovery 2026: Scientists Identify Hidden T Cell Brake That Explains Why Immunotherapy Fails",
+        "title_full": "SLAMF6 Cancer Discovery 2026: Scientists Identify Hidden T Cell Brake That Explains Why Immunotherapy Fails",
+        "published": "2026-06-11T05:04:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://d.medicaldaily.com/en/full/482643/cancer-discovery.jpg",
+        "performance_score": 0,
+        "domain_rank": 23021,
+        "domain_rank_updated": "2026-06-08T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3646a480d75b02b8089566028d8faa59a182a48c",
+    "url": "https://www.medicaldaily.com/slamf6-cancer-immunotherapy-discovery-nature-2026-475575",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-06-11T05:04:00.000+03:00",
+    "title": "SLAMF6 Cancer Discovery 2026: Scientists Identify Hidden T Cell Brake That Explains Why Immunotherapy Fails",
+    "text": "SLAMF6 Cancer Discovery 2026: Scientists Identify Hidden T Cell Brake That Explains Why Immunotherapy Fails\nFor years, oncologists have confronted an incomplete victory in immunotherapy: drugs like pembrolizumab (Keytruda) and nivolumab (Opdivo) that unleash the immune system's T cells against cancer have transformed treatment for melanoma, lung cancer, and others — but a significant proportion of patients either never respond or stop responding after initial success. The reason has remained frustratingly unclear, pointing to some unknown internal mechanism that allows cancers to evade even a stimulated immune system.\nA landmark study published in Nature on June 9, 2026 by Dr. André Veillette and colleagues at the Université de Montréal and the Montreal Clinical Research Institute may have found it. The researchers identified SLAMF6 — Signaling Lymphocytic Activation Molecule 6 — as a previously undercharacterized molecular receptor on the surface of T cells that functions as an internal, self-activating brake on the immune system's cancer-killing activity.\nHow SLAMF6 Works — and Why It Matters\nMost immune checkpoint inhibitors work by blocking signals that cancer cells or the tumor microenvironment send to T cells, telling them to stand down. PD-L1 expressed on tumor cells binds to PD-1 on T cells; antibodies like pembrolizumab block that interaction, releasing the brake. CTLA-4 works similarly.\nSLAMF6 is fundamentally different. The molecule activates itself through direct homotypic interactions on the T cell surface — it binds to copies of itself on the same cell or neighboring T cells — without requiring any signal from the tumor. This means it suppresses T cell activity regardless of whether the tumor expresses the corresponding ligand, which is precisely the situation in many tumors that fail to respond to PD-1 or CTLA-4 inhibitors.\nSLAMF6 is preferentially expressed on progenitor or stem-like exhausted T cells — the population that retains the capacity for functional restoration after immune checkpoint blockade. By suppressing this specific population through a tumor-independent mechanism, SLAMF6 limits the immune response not just in the tumor environment but before T cells even fully engage with the tumor.\nTo overcome SLAMF6's inhibitory effects, Veillette's team developed custom monoclonal antibodies designed to block SLAMF6 from binding to itself. In mouse tumor models, these antibodies produced significantly better tumor-killing results than any existing approach targeting SLAMF6, and showed promising synergy when combined with PD-1 inhibitors.\n\"By identifying an internal brake that had until now gone unrecognized and by developing antibodies capable of neutralizing it, our researchers are offering an innovative solution to the limitations of current treatments,\" said Dr. Jean-François Côté, IRCM president and scientific director.\nThe Road to Clinical Translation\nThe SLAMF6 antibodies are currently in preclinical development. Clinical trials in humans would typically begin 3 to 5 years after promising mouse results, subject to Phase I safety studies. The discovery's significance extends beyond a single tumor type: because SLAMF6 acts autonomously within T cells rather than relying on tumor-specific expression, it may be applicable across a far wider range of cancer types than current checkpoint inhibitors — potentially including the approximately 40 to 50 percent of solid tumors that respond poorly to PD-1 and CTLA-4 blockade.\nFrequently Asked Questions\nQ: What is SLAMF6?\nA: SLAMF6 (Signaling Lymphocytic Activation Molecule 6) is a receptor on T cell surfaces that, when activated by binding to copies of itself, sends a stop signal that suppresses the T cell's cancer-fighting activity. It acts independently of any signal from tumor cells.\nQ: Why is this different from existing immunotherapy targets like PD-1?\nA: PD-1 and CTLA-4 inhibitors work by blocking tumor signals to T cells. SLAMF6 self-activates on T cells without needing a tumor signal — meaning it suppresses immunity in cancers that evade checkpoint inhibitors entirely.\nQ: Are SLAMF6-targeting drugs available?\nA: Not yet. The research is in preclinical mouse studies as of June 2026. Human clinical trials are likely 3–5 years away pending further development.\nQ: Which cancers might benefit?\nA: The discovery's tumor-independent mechanism suggests potential applicability across a wide range of solid tumors, particularly those that fail to respond to existing checkpoint inhibitors. Specific tumor types are under investigation.\nPublished by Medicaldaily.com",
+    "summary": "A landmark study published in Nature on June 9, 2026 by Dr. André Veillette and colleagues at the Université de Montréal and the Montreal Clinical Research Institute may have found it. SLAMF6 is preferentially expressed on progenitor or stem-like exhausted T cells — the population that retains the capacity for functional restoration after immune checkpoint blockade. In mouse tumor models, these antibodies produced significantly better tumor-killing results than any existing approach targeting SLAMF6, and showed promising synergy when combined with PD-1 inhibitors.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Science and Technology"
+    ],
+    "topics": [
+        "Health->medical condition",
+        "Health->cancer",
+        "Health->health treatment and procedure",
+        "Science and Technology->biomedical science",
+        "Science and Technology->scientific research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.sciencedaily.com/releases/2026/06/260608040021.htm",
+        "https://www.nature.com/articles/s41586-026-10106-5",
+        "https://sciencedaily.com/releases/2026/06/260608040021.htm",
+        "https://nature.com/articles/s41586-026-10106-5"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Keytruda",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "MRK",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "3646a480d75b02b8089566028d8faa59a182a48c",
+        "first_syndicated": true
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-11T07:40:34.608+03:00",
+    "updated": "2026-06-11T16:36:40.000+03:00"
+}

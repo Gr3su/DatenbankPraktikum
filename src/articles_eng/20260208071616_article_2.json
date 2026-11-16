@@ -1,0 +1,154 @@
+{
+    "thread": {
+        "uuid": "612f832b5304167969ca9266be580fff0b8b5d01",
+        "url": "https://www.newsbreak.com/williamson-source-500145/4476929735666-buffalo-ny-weather-alert-1-2-inches-of-lake-effect-snow-along-i-90-route-219-through-thursday-morning",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/buffalo-ny",
+        "site_categories": [
+            "politics",
+            "human interest",
+            "arts, culture and entertainment",
+            "sport",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "economy, business and finance",
+            "under_construction"
+        ],
+        "section_title": "Buffalo, NY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Buffalo, NY Weather Alert: 1-2 Inches Of Lake Effect Snow Along I-90, Route 219 Through Thursday Morning - NewsBreak",
+        "title_full": "Buffalo, NY Weather Alert: 1-2 Inches Of Lake Effect Snow Along I-90, Route 219 Through Thursday Morning - NewsBreak",
+        "published": "2026-02-04T20:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1iDKgn_18c34wEc00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-02-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "612f832b5304167969ca9266be580fff0b8b5d01",
+    "url": "https://www.newsbreak.com/williamson-source-500145/4476929735666-buffalo-ny-weather-alert-1-2-inches-of-lake-effect-snow-along-i-90-route-219-through-thursday-morning",
+    "ord_in_thread": 0,
+    "author": "County Herald Weather Center",
+    "published": "2026-02-04T20:30:00.000+02:00",
+    "title": "Buffalo, NY Weather Alert: 1-2 Inches Of Lake Effect Snow Along I-90, Route 219 Through Thursday Morning - NewsBreak",
+    "text": "By County Herald Weather Center ,\n10 hours ago Country Herald is Local News, Independent Pulse. Covering breaking local news, sports, lifestyle and events. Buffalo, New York – Drivers across Western New York should remain alert through Thursday morning as bands of lake effect snow continue to impact areas south of Lake Ontario, bringing light accumulations and periodic reductions in visibility along major travel routes including I-90 and I-190. According to the National Weather Service in Buffalo, periods of […] This content first appeared on CountryHerald.com and is protected by copyright law. Unauthorized reproduction, redistribution, or republication of this content, in whole or in part, without expressed written permission from Country Herald is strictly prohibited. Violators may be subject to legal action. Read full article\nRead in NewsBreak 2",
+    "summary": "By County Herald Weather Center , 10 hours ago Country Herald is Local News, Independent Pulse. Covering breaking local news, sports, lifestyle and events. Buffalo, New York – Drivers across Western New York should remain alert through Thursday morning as bands of lake effect snow continue to impact areas south of Lake Ontario, bringing light accumulations and periodic reductions in visibility along major travel routes including I-90 and I-190. According to the National Weather Service in Buffalo, periods of […] This content first appeared on CountryHerald.com and is protected by copyright law.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Weather"
+    ],
+    "topics": [
+        "Weather->weather phenomena",
+        "Weather->weather statistic",
+        "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "NY",
+                "sentiment": "none"
+            },
+            {
+                "name": "Buffalo",
+                "sentiment": "none"
+            },
+            {
+                "name": "New York",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lake Ontario",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "County Herald Weather Center",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "National Weather Service",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "CountryHerald. com",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Buffalo"
+            ],
+            "state": [
+                "New York"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-02-05T07:16:13.680+02:00",
+    "updated": "2026-02-05T07:21:33.000+02:00"
+}

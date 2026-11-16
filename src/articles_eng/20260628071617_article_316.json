@@ -1,0 +1,144 @@
+{
+    "thread": {
+        "uuid": "2bb80fecf8a73426519f8952ceb07f308e5dd048",
+        "url": "https://www.newsbreak.com/news/4730624582130-la-crosse-brothers-injured-in-moped-crash",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/ettrick-wi",
+        "site_categories": [
+            "economy, business and finance",
+            "sport",
+            "disaster and accident",
+            "human interest",
+            "social issue",
+            "politics",
+            "under_construction",
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Ettrick, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "La Crosse brothers injured in moped crash - NewsBreak",
+        "title_full": "La Crosse brothers injured in moped crash - NewsBreak",
+        "published": "2026-06-25T00:38:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1oFhgq_1CfgfZlR00",
+        "performance_score": 0,
+        "domain_rank": 3030,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2bb80fecf8a73426519f8952ceb07f308e5dd048",
+    "url": "https://www.newsbreak.com/news/4730624582130-la-crosse-brothers-injured-in-moped-crash",
+    "ord_in_thread": 0,
+    "author": "Tim Kowols",
+    "published": "2026-06-25T00:38:00.000+03:00",
+    "title": "La Crosse brothers injured in moped crash - NewsBreak",
+    "text": "By Tim Kowols ,\n6 hours ago A pair of 20-year-old brothers from La Crosse were injured in a moped crash in the town of Liberty Grove. The accident occurred Monday shortly after 2 p.m. on State Highway 42 near Europe Bay. One of the brothers lost his hat while riding behind the other and attempted to retrieve it from the roadway before crashing his moped. The lead brother also crashed his moped while looking back at his brother after he went down. Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->accident and emergency incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://doorcountydailynews.com/news/921729/la-crosse-brothers-injured-in-moped-crash",
+        "https://www.doorcountydailynews.com/news/921729/la-crosse-brothers-injured-in-moped-crash"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tim Kowols",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe Bay",
+                "sentiment": "none"
+            },
+            {
+                "name": "Liberty Grove",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "La Crosse",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Ettrick"
+            ],
+            "state": [
+                "Wisconsin"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:26:12.037+03:00",
+    "updated": "2026-06-25T07:29:32.000+03:00"
+}

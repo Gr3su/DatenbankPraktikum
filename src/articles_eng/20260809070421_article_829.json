@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "a80b55dd90f50d1a13c2fbb807d01672adab64f9",
+        "url": "https://www.newsbreak.com/news/4811415369408-camden-charter-school-seeks-help-after-flooding-forces-move",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/darby-pa",
+        "site_categories": [
+            "social issue",
+            "health",
+            "economy, business and finance",
+            "human interest",
+            "politics",
+            "sport",
+            "under_construction",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Darby, PA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Camden charter school seeks help after flooding forces move - NewsBreak",
+        "title_full": "Camden charter school seeks help after flooding forces move - NewsBreak",
+        "published": "2026-08-05T22:12:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2YitKP_1Dy5GzKI00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a80b55dd90f50d1a13c2fbb807d01672adab64f9",
+    "url": "https://www.newsbreak.com/news/4811415369408-camden-charter-school-seeks-help-after-flooding-forces-move",
+    "ord_in_thread": 0,
+    "author": "Brian Sheehan",
+    "published": "2026-08-05T22:12:00.000+03:00",
+    "title": "Camden charter school seeks help after flooding forces move - NewsBreak",
+    "text": "By Brian Sheehan ,\n9 hours ago Hope Community Charter School in Camden, New Jersey, is asking for the public's help after flash flooding severely damaged its building, forcing the school to relocate just weeks before the start of the school year. School leaders say the unexpected move has already delayed the start of classes by more... Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->natural disaster",
+        "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nbcphiladelphia.com/news/local/camden-charter-school-seeks-help-after-flooding-forces-move/4443848/?amp=1",
+        "https://www.nbcphiladelphia.com/news/local/camden-charter-school-seeks-help-after-flooding-forces-move/4443848/",
+        "https://nbcphiladelphia.com/news/local/camden-charter-school-seeks-help-after-flooding-forces-move/4443848/?amp=1"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brian Sheehan",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Camden",
+                "sentiment": "none"
+            },
+            {
+                "name": "New Jersey",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hope Community Charter School",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Darby"
+            ],
+            "state": [
+                "Pennsylvania"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:37:40.307+03:00",
+    "updated": "2026-08-06T07:40:15.000+03:00"
+}

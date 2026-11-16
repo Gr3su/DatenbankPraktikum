@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "4bf1f79aa4e12ab00e1d89340ce868f76a41b1cc",
+        "url": "https://www.newsbreak.com/news/4292359420169-risd-student-injured-in-reported-assault-robbery",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://newsbreak.com/providence-ri",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Providence, RI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "RISD student injured in reported assault, robbery - NewsBreak",
+        "title_full": "RISD student injured in reported assault, robbery - NewsBreak",
+        "published": "2025-10-15T04:25:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3AtGgc_15f4XRI200",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2025-10-13T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4bf1f79aa4e12ab00e1d89340ce868f76a41b1cc",
+    "url": "https://www.newsbreak.com/news/4292359420169-risd-student-injured-in-reported-assault-robbery",
+    "ord_in_thread": 0,
+    "author": "NBC 10 NEWS",
+    "published": "2025-10-15T04:25:00.000+03:00",
+    "title": "RISD student injured in reported assault, robbery - NewsBreak",
+    "text": "By NBC 10 NEWS ,\n1 days ago A Rhode Island School of Design Student said he was assaulted and robbed by two men in Providence on Monday. Police said they responded to the area of Congdon Street for a report of a person assaulted. Officers said the student had injuries to his face. He was transported to... Read full article\nRead in NewsBreak 3",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": null,
+    "categories": null,
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "RISD",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Rhode Island School of Design Student",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NBC",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "NBC",
+                        "exchange": "FRA"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-16T07:37:31.543+03:00",
+    "updated": "2025-10-16T07:37:31.543+03:00"
+}

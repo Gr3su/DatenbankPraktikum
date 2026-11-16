@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "fd20f134136c2d7f4b4550e0abcdd501c18bd75b",
+        "url": "https://www.newsbreak.com/news/4825796161784-more-local-ihop-workers-raise-issues-with-getting-paid-on-time",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/independence-mo",
+        "site_categories": [
+            "human interest",
+            "politics",
+            "science and technology",
+            "sport",
+            "social issue",
+            "lifestyle and leisure",
+            "health",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "under_construction",
+            "crime, law and justice"
+        ],
+        "section_title": "Independence, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "More local IHOP workers raise issues with getting paid on time - NewsBreak",
+        "title_full": "More local IHOP workers raise issues with getting paid on time - NewsBreak",
+        "published": "2026-08-13T02:19:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/42jR1Y_1EBaAKpx00",
+        "performance_score": 0,
+        "domain_rank": 3058,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fd20f134136c2d7f4b4550e0abcdd501c18bd75b",
+    "url": "https://www.newsbreak.com/news/4825796161784-more-local-ihop-workers-raise-issues-with-getting-paid-on-time",
+    "ord_in_thread": 0,
+    "author": "Hannah King",
+    "published": "2026-08-13T02:19:00.000+03:00",
+    "title": "More local IHOP workers raise issues with getting paid on time - NewsBreak",
+    "text": "By Hannah King ,\n5 hours ago INDEPENDENCE, Mo. — Some metro IHOP workers came to FOX4 again, to share they aren’t getting paid on time. We brought you a series of these stories, highlighting workers across the Kansas City metro with similar struggles of payroll issues, last summer. This month, Lindsey Ramires Martin said... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Labor"
+    ],
+    "topics": [
+        "Labor->wages and benefits",
+        "Labor->employment"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://fox4kc.com/business/more-local-ihop-workers-raise-issues-with-getting-paid-on-time/amp/",
+        "https://fox4kc.com/business/more-local-ihop-workers-raise-issues-with-getting-paid-on-time/amp",
+        "https://www.fox4kc.com/business/more-local-ihop-workers-raise-issues-with-getting-paid-on-time/amp/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hannah King",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Lindsey Ramires Martin",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Mo",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kansas City",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IHOP",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "IHOP",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Independence"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-13T07:31:28.250+03:00",
+    "updated": "2026-08-13T07:33:33.000+03:00"
+}

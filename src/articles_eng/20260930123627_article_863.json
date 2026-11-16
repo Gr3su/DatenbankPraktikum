@@ -1,0 +1,147 @@
+{
+    "thread": {
+        "uuid": "b3c1cf04c4a2cd1242d9c6ed61d79bffc5852ac8",
+        "url": "https://www.newsbreak.com/engadget-384829691/4909533660389-sleep-mode-vs-shutdown-which-is-better-to-use-daily-for-your-macbook",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sitemap-news-87.xml",
+        "site_categories": [
+            "crime, law and justice",
+            "economy, business and finance",
+            "politics",
+            "sport",
+            "under_construction",
+            "human interest",
+            "lifestyle and leisure",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Sleep Mode Vs. Shutdown: Which Is Better To Use Daily For Your MacBook? - NewsBreak",
+        "title_full": "Sleep Mode Vs. Shutdown: Which Is Better To Use Daily For Your MacBook? - NewsBreak",
+        "published": "2026-09-26T15:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4G0Bgz_1FWxqN4T00",
+        "performance_score": 0,
+        "domain_rank": 3126,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-09-27T12:48:54.276+03:00"
+        }
+    },
+    "uuid": "b3c1cf04c4a2cd1242d9c6ed61d79bffc5852ac8",
+    "url": "https://www.newsbreak.com/engadget-384829691/4909533660389-sleep-mode-vs-shutdown-which-is-better-to-use-daily-for-your-macbook",
+    "ord_in_thread": 0,
+    "author": "Ben Stegner",
+    "published": "2026-09-26T15:00:00.000+03:00",
+    "title": "Sleep Mode Vs. Shutdown: Which Is Better To Use Daily For Your MacBook? - NewsBreak",
+    "text": "By Ben Stegner ,\n21 hours ago\nmacOS offers two main options when you're done using your Mac or MacBook: sleep and shutdown. At a high level, these are self-explanatory, but you might wonder when to use each mode and what exactly is going on during both of them.\nAs with most computing matters, the right option to use depends on the circumstances. Using the \"wrong\" mode will almost never cause a problem, but it's best to be as efficient as you can.\nRead more: How to get wired internet without running ethernet cables\nUnderstanding a full shutdown Shutting down your Mac is like turning off any other computer. During the process, every app closes, the operating system is shut down and RAM is cleared. To ensure a proper shutdown on your MacBook, don't close the lid until the screen is off. Apple's guidance states that closing the lid during the shutdown process can cause it to start more slowly next time. Once it's fully shut down, the system is not drawing any power. You must open the lid or press the power button to turn the machine back on.\nWhen you do a normal shutdown by clicking Shut Down from the Apple menu at the top-left, a one-minute countdown runs to allow you to cancel the action if you change your mind. Also on this window is a Reopen windows when logging back in box; check this, and when you reboot, macOS will relaunch the same apps you had open before shutting down. If you're sure you want to shut down, hold the Option key when you click Shut Down to bypass the countdown. This will try to shut down apps gracefully, but you won't get a prompt asking you to save changes if an app's automatic save has trouble.\nIf needed, you can also Restart from the Apple menu. Restarting is good when an app or the entire system is acting up, but that process doesn't fully power off the machine's components. Thus, if you need to completely cut power to troubleshoot accessories or similar, a full shutdown is better. This is unlike Windows, where the Fast Startup option means shutting down isn't a full power cycle by default and restarting is more thorough .\nOn your MacBook, the Touch ID button at the top-right (or Power button on older models ) will lock your computer if you press it quickly while the computer is on. Let it sit locked for a while on battery, and it will go to sleep. Pressing and holding it for several seconds will force a shutdown, which you should only do if the entire system is unresponsive. You'll lose any unsaved work.\nPutting your Mac to sleep The easiest way to put your MacBook to sleep is by closing the lid, though you can also select Sleep from the Apple menu. While your Mac is sleeping, your session is kept in memory, so you'll pick up right where you left off once you open the screen and authenticate your credentials. Thanks to a feature (sometimes) called Power Nap, your Mac can continue to run some tasks, such as grabbing emails, syncing Calendar data and responding to Find My pings. If your computer is plugged in, it can run more intensive activities like Time Machine backups and search indexing.\nYour Mac should use very little battery while asleep (less than one percent per hour), especially modern Apple silicon models that are more power-efficient. When the battery gets critically low in sleep mode, macOS \"hibernates\" by saving your session to the disk and then shutting down so you don't lose work. If you see high battery drain during sleep, unplug accessories like external drives and hubs. Also close apps that are constantly active, like Slack, cloud storage tools or a browser tab with a page that keeps refreshing.\nTo save power, your MacBook will automatically go to sleep if you don't use it for a while. Adjust these timings by opening the Apple menu and clicking System Settings , then choosing Lock Screen from the left sidebar. Next to Turn display off on battery when inactive , select a period of time. Shortly after your Mac turns off its display, it will go to sleep if you don't take any action. The Turn display off on power adapter when inactive option offers a separate control for when your laptop is plugged in.\nUnder System Settings > Battery > Options , you have other options. With Prevent automatic sleeping on power adapter when the display is off , the screen will turn off at your chosen time, but the system will stay running. Meanwhile, Wake for network access controls the Power Nap features mentioned earlier. Choose Only on Power Adapter or Never to prevent your Mac from working while asleep on battery.\nWhen to use each option Putting your Mac to sleep is most sensible when you'll use it again soon. When you're stepping away from your desk for lunch, done with work for the day or otherwise think you'll use your MacBook in the next few days, sleep mode is fine. It enables quick resuming, keeps data syncing (if you've enabled this) and doesn't use much power. Ideally, plug your MacBook in to charge so it's ready for future travels, but you shouldn't lose much battery if you forget.\nConversely, you should shut down your MacBook when you don't plan to use it for a few days or even weeks. If you're going on vacation and leaving your laptop at home, shut it down first. Modern Macs still start up quickly enough that you won't be disrupted upon return. The other important time to shut down is when packing up your laptop, especially if you have Power Nap enabled while on battery. If your laptop doesn't sleep properly, the heat it generates while working is dangerous in a trapped space like a bag.\nOtherwise, outside of software updates, you don't really need to shut your Mac down on any kind of schedule. A shutdown or restart once a week is a good idea, but it's not necessary unless you run into problems. You don't need to shut down your Mac every day.\nFound this useful? Sign up for Engadget's free newsletter for more tech news and guides delivered straight to your inbox. You can also follow us or add Engadget as a preferred search source on Google.\nRead the original article on Engadget .",
+    "summary": "Read more: How to get wired internet without running ethernet cables Understanding a full shutdown Shutting down your Mac is like turning off any other computer. When you do a normal shutdown by clicking Shut Down from the Apple menu at the top-left, a one-minute countdown runs to allow you to cancel the action if you change your mind. This is unlike Windows, where the Fast Startup option means shutting down isn't a full power cycle by default and restarting is more thorough .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://support.apple.com/en-kz/guide/mac-help/mchlp2522/mac",
+        "https://www.engadget.com/2182061/how-to-get-wired-internet-without-ethernet-cable-in-walls/?zsource=newsbreak",
+        "https://profile.google.com/@engadget",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=4G0Bgz_1FWxqN4T00",
+        "https://www.engadget.com/2248819/how-to-use-time-machine-backup-macbook-dont-pay-for-cloud-storage/",
+        "https://subscribe.engadget.com/newsletter-syndicated?utm_source=newsbreak&utm_medium=engadget-NL-feed",
+        "https://www.engadget.com/2255893/older-macbook-still-worth-buying-2026/",
+        "https://www.engadget.com/2265432/sleep-mode-vs-shutdown-macbook-which-is-better-daily/?zsource=newsbreak",
+        "https://www.google.com/preferences/source?q=engadget.com",
+        "https://img.particlenews.com/image.php?url=4G0Bgz_1FWxqN4T00",
+        "https://www.engadget.com/2251124/benefits-restarting-pc-more-often/",
+        "https://www.profile.google.com/@engadget",
+        "https://engadget.com/2248819/how-to-use-time-machine-backup-macbook-dont-pay-for-cloud-storage/",
+        "https://www.subscribe.engadget.com/newsletter-syndicated?utm_source=newsbreak&utm_medium=engadget-NL-feed",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=4G0Bgz_1FWxqN4T00",
+        "https://engadget.com/2265432/sleep-mode-vs-shutdown-macbook-which-is-better-daily/?zsource=newsbreak",
+        "https://google.com/preferences/source?q=engadget.com",
+        "https://www.img.particlenews.com/image.php?url=4G0Bgz_1FWxqN4T00",
+        "https://www.engadget.com/2251124/benefits-restarting-pc-more-often",
+        "https://www.engadget.com/2182061/how-to-get-wired-internet-without-ethernet-cable-in-walls/",
+        "https://www.engadget.com/2255893/older-macbook-still-worth-buying-2026",
+        "https://www.google.com/preferences/source",
+        "https://www.support.apple.com/en-kz/guide/mac-help/mchlp2522/mac",
+        "https://img.particlenews.com/image.php",
+        "https://engadget.com/2251124/benefits-restarting-pc-more-often/",
+        "https://www.engadget.com/2265432/sleep-mode-vs-shutdown-macbook-which-is-better-daily/",
+        "https://engadget.com/2182061/how-to-get-wired-internet-without-ethernet-cable-in-walls/?zsource=newsbreak",
+        "https://www.engadget.com/2248819/how-to-use-time-machine-backup-macbook-dont-pay-for-cloud-storage",
+        "https://engadget.com/2255893/older-macbook-still-worth-buying-2026/",
+        "https://subscribe.engadget.com/newsletter-syndicated"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ben Stegner",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-27T12:48:54.276+03:00",
+    "updated": "2026-09-27T12:54:11.000+03:00",
+    "related_articles": null
+}

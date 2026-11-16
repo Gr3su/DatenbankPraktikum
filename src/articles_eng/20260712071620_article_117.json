@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "761cf71c2c102248e23fcaa20260841e4f290d22",
+        "url": "https://www.newsbreak.com/news/4759574550993-heavy-law-enforcement-presence-in-port-wentworth-community",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/savannah-ga",
+        "site_categories": [
+            "crime, law and justice",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "human interest",
+            "under_construction",
+            "disaster and accident",
+            "lifestyle and leisure",
+            "social issue",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Savannah, GA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Heavy law enforcement presence in Port Wentworth community - NewsBreak",
+        "title_full": "Heavy law enforcement presence in Port Wentworth community - NewsBreak",
+        "published": "2026-07-09T04:38:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3rMJ4M_1D7rPgdj00",
+        "performance_score": 0,
+        "domain_rank": 2995,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "761cf71c2c102248e23fcaa20260841e4f290d22",
+    "url": "https://www.newsbreak.com/news/4759574550993-heavy-law-enforcement-presence-in-port-wentworth-community",
+    "ord_in_thread": 0,
+    "author": "Shelby Coates",
+    "published": "2026-07-09T04:38:00.000+03:00",
+    "title": "Heavy law enforcement presence in Port Wentworth community - NewsBreak",
+    "text": "By Shelby Coates ,\n2 hours ago PORT WENTWORTH, Ga. (WTOC) - There is currently a heavy law enforcement presence in the area of Goose Neck Rod and Old Mill Road in Port Wentworth. Savannah Police, Chatham County Police and Port Wentworth Police are all on scene of an incident within this residential community. Chatham County Police... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->law enforcement",
+        "Crime, Law and Justice->arrest",
+        "Crime, Law and Justice->investigation (criminal)"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wtoc.com/2026/07/09/heavy-law-enforcement-presence-port-wentworth-community/?outputType=amp",
+        "https://www.wtoc.com/2026/07/09/heavy-law-enforcement-presence-port-wentworth-community/",
+        "https://wtoc.com/2026/07/09/heavy-law-enforcement-presence-port-wentworth-community/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Shelby Coates",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Port Wentworth",
+                "sentiment": "none"
+            },
+            {
+                "name": "Old Mill Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Goose Neck Rod",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Port Wentworth Police",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "Savannah Police",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Chatham County Police",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-09T07:20:27.577+03:00",
+    "updated": "2026-07-09T07:27:51.000+03:00"
+}

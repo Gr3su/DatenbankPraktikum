@@ -1,0 +1,160 @@
+{
+    "thread": {
+        "uuid": "d0d1519cb9ff3ae9ef8cbae77c509a90ed8cb2b8",
+        "url": "https://www.newsbreak.com/news/4890508728799-tennessee-tech-s-unbeaten-start-turns-new-stadium-into-an-economic-engine",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/livingston-tn",
+        "site_categories": [
+            "sport",
+            "under_construction",
+            "lifestyle and leisure",
+            "human interest",
+            "economy, business and finance",
+            "social issue",
+            "politics",
+            "arts, culture and entertainment",
+            "crime, law and justice"
+        ],
+        "section_title": "Livingston, TN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Tennessee Tech's Unbeaten Start Turns New Stadium Into an Economic Engine - NewsBreak",
+        "title_full": "Tennessee Tech's Unbeaten Start Turns New Stadium Into an Economic Engine - NewsBreak",
+        "published": "2026-09-16T19:32:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2LZeLy_1FDn7xTM00",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d0d1519cb9ff3ae9ef8cbae77c509a90ed8cb2b8",
+    "url": "https://www.newsbreak.com/news/4890508728799-tennessee-tech-s-unbeaten-start-turns-new-stadium-into-an-economic-engine",
+    "ord_in_thread": 0,
+    "author": "ucbjournal.com",
+    "published": "2026-09-16T19:32:00.000+03:00",
+    "title": "Tennessee Tech's Unbeaten Start Turns New Stadium Into an Economic Engine - NewsBreak",
+    "text": "12 hours ago (UCBJ) – Tennessee Tech football is undefeated, nationally ranked and playing in a transformed Tucker Stadium, creating momentum that is reaching well beyond the scoreboard. The Golden Eagles have opened the 2026 season 3-0, building on the championship success established under Head Coach Bobby Wilder, while Tennessee Tech leadership continues to position athletics as a broader economic and community asset for Cookeville and the Upper Cumberland. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Sport->american football",
+        "Economy, Business and Finance->economy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.ucbjournal.com/tennessee-techs-unbeaten-start-turns-new-stadium-into-an-economic-engine/",
+        "https://ucbjournal.com/tennessee-techs-unbeaten-start-turns-new-stadium-into-an-economic-engine/",
+        "https://www.ucbjournal.com/tennessee-techs-unbeaten-start-turns-new-stadium-into-an-economic-engine"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bobby Wilder",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Upper Cumberland",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tucker Stadium",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cookeville",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Tennessee Tech",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Golden Eagles",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Livingston"
+            ],
+            "state": [
+                "Tennessee"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:04:11.992+03:00",
+    "updated": "2026-09-17T08:13:19.000+03:00"
+}

@@ -1,0 +1,139 @@
+{
+    "thread": {
+        "uuid": "913ce1d69b04bce4110ba3b20542c80e12e34703",
+        "url": "https://www.newsbreak.com/nws-alerts-1671083/4731076386527-severe-thunderstorm-warning-by-nws",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/m/nws-alerts-1671083",
+        "site_categories": [
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "lifestyle and leisure",
+            "arts, culture and entertainment",
+            "disaster and accident",
+            "under_construction",
+            "sport",
+            "human interest",
+            "social issue"
+        ],
+        "section_title": "NWS Alerts&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "title_full": "Severe Thunderstorm Warning by NWS - NewsBreak",
+        "published": "2026-06-25T07:05:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/423Kfr_1Cg8LS3o00",
+        "performance_score": 0,
+        "domain_rank": 3030,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "913ce1d69b04bce4110ba3b20542c80e12e34703",
+    "url": "https://www.newsbreak.com/nws-alerts-1671083/4731076386527-severe-thunderstorm-warning-by-nws",
+    "ord_in_thread": 0,
+    "author": "NWS Alerts",
+    "published": "2026-06-25T07:05:00.000+03:00",
+    "title": "Severe Thunderstorm Warning by NWS - NewsBreak",
+    "text": "39 minutes ago Check NWS updates here\nEffective: 2026-06-24 22:03:00 MDT Expires: 2026-06-24 22:45:00 MDT Urgency: Immediate Severity: Severe Certainty: Observed Instruction: Seek shelter inside a well-built structure and stay away from windows. These storms are capable of producing damaging winds and large hail. A Tornado Watch remains in effect until 1100 PM MDT Wednesday for portions of east central and northeast Colorado. Target Area: Lincoln, CO; Washington, CO SVRBOU\nThe National Weather Service in Denver has issued a\n* Severe Thunderstorm Warning for... Northeastern Lincoln County in east central Colorado... Southern Washington County in northeastern Colorado...\n* Until 1045 PM MDT.\n* At 1003 PM MDT, severe thunderstorms were located along a line from 11 miles southeast of Otis to 5 miles south of Last Chance, or along a line from 22 miles southeast of Akron to 28 miles north of Limon, moving southeast at 25 mph.\nHAZARD...60 mph wind gusts and quarter size hail.\nSOURCE...Radar indicated.\nIMPACT...Hail damage to vehicles is expected. Expect wind damage to roofs, siding, and trees.\n* Locations impacted include... Anton, Thurman, Arickaree School, Lindon, Cope and Last Chance.",
+    "summary": "39 minutes ago Check NWS updates here Effective: 2026-06-24 22:03:00 MDT Expires: 2026-06-24 22:45:00 MDT Urgency: Immediate Severity: Severe Certainty: Observed Instruction: Seek shelter inside a well-built structure and stay away from windows. A Tornado Watch remains in effect until 1100 PM MDT Wednesday for portions of east central and northeast Colorado. Target Area: Lincoln, CO; Washington, CO SVRBOU The National Weather Service in Denver has issued a * Severe Thunderstorm Warning for... Northeastern Lincoln County in east central Colorado... Southern Washington County in northeastern Colorado... * Until 1045 PM MDT. HAZARD...60 mph wind gusts and quarter size hail.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Environment",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Environment->climate change",
+        "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=423Kfr_1Cg8LS3o00",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=423Kfr_1Cg8LS3o00",
+        "https://alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.dddc94971203aaa69f77f19d19e931d0766a6feb.001.1",
+        "https://www.img.particlenews.com/image.php?url=423Kfr_1Cg8LS3o00",
+        "https://img.particlenews.com/image.php",
+        "https://alerts.weather.gov/search",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=423Kfr_1Cg8LS3o00",
+        "https://www.alerts.weather.gov/search?id=urn:oid:2.49.0.1.840.0.dddc94971203aaa69f77f19d19e931d0766a6feb.001.1"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Colorado",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lincoln County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Denver",
+                "sentiment": "none"
+            },
+            {
+                "name": "Washington",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Weather Service",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-06-25T07:44:29.765+03:00",
+    "updated": "2026-06-25T07:49:43.000+03:00"
+}

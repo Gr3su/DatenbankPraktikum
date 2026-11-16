@@ -1,0 +1,158 @@
+{
+    "thread": {
+        "uuid": "df4d52311edfb813c90bd0306e4cc9d47f6b8be5",
+        "url": "https://www.newsbreak.com/news/4890536040606-hatfield-mccoy-trail-to-expand-in-kanawha-county",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/charleston-wv",
+        "site_categories": [
+            "human interest",
+            "under_construction",
+            "economy, business and finance",
+            "lifestyle and leisure",
+            "politics",
+            "sport",
+            "social issue",
+            "arts, culture and entertainment",
+            "crime, law and justice"
+        ],
+        "section_title": "Charleston, WV Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Hatfield-McCoy Trail to expand in Kanawha County - NewsBreak",
+        "title_full": "Hatfield-McCoy Trail to expand in Kanawha County - NewsBreak",
+        "published": "2026-09-17T02:10:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3DieJ7_1FDosAl600",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "df4d52311edfb813c90bd0306e4cc9d47f6b8be5",
+    "url": "https://www.newsbreak.com/news/4890536040606-hatfield-mccoy-trail-to-expand-in-kanawha-county",
+    "ord_in_thread": 0,
+    "author": "Ryan Epling",
+    "published": "2026-09-17T02:10:00.000+03:00",
+    "title": "Hatfield-McCoy Trail to expand in Kanawha County - NewsBreak",
+    "text": "By Ryan Epling ,\n6 hours ago KANAWHA COUNTY, W.Va. (WSAZ) - The Hatfield-McCoy trail through Kanawha County will soon be expanded. The Kanawha Parks and Recreation Board on Wednesday voted to expand the single track trail through the Tornado area of the county. The new expansion will take the trail from 35 to 40 miles in... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Lifestyle and Leisure",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Lifestyle and Leisure->outdoor recreational activities",
+        "Lifestyle and Leisure->lifestyle",
+        "Lifestyle and Leisure->travel and tourism",
+        "Economy, Business and Finance->economy",
+        "Economy, Business and Finance->business information"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wsaz.com/2026/09/16/hatfield-mccoy-trail-expand-kanawha-county/?outputType=amp",
+        "https://www.wsaz.com/2026/09/16/hatfield-mccoy-trail-expand-kanawha-county/",
+        "https://wsaz.com/2026/09/16/hatfield-mccoy-trail-expand-kanawha-county/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ryan Epling",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "W. Va.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kanawha County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tornado",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WSAZ",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Kanawha Parks and Recreation Board",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Kanawha"
+            ],
+            "state": [
+                "West Virginia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:20:58.779+03:00",
+    "updated": "2026-09-17T08:31:54.000+03:00"
+}

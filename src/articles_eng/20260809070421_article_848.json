@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "89913b880765ab9a1da7af398af9af443ee8cc78",
+        "url": "https://www.newsbreak.com/news/4811450871811-sandwich-lovers-will-have-another-option-after-nixon-s-deli-closes-its-bearden-location-if-they-eat-at-a-chain",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/maryville-tn",
+        "site_categories": [
+            "social issue",
+            "health",
+            "human interest",
+            "sport",
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "politics",
+            "under_construction"
+        ],
+        "section_title": "Maryville, TN Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Sandwich lovers will have another option after Nixon's Deli closes its Bearden location- if they eat at a chain - NewsBreak",
+        "title_full": "Sandwich lovers will have another option after Nixon's Deli closes its Bearden location- if they eat at a chain - NewsBreak",
+        "published": "2026-08-05T22:22:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3hU3F4_1Dy7WyFV00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "89913b880765ab9a1da7af398af9af443ee8cc78",
+    "url": "https://www.newsbreak.com/news/4811450871811-sandwich-lovers-will-have-another-option-after-nixon-s-deli-closes-its-bearden-location-if-they-eat-at-a-chain",
+    "ord_in_thread": 0,
+    "author": "Camruinn Morgan-Rumsey",
+    "published": "2026-08-05T22:22:00.000+03:00",
+    "title": "Sandwich lovers will have another option after Nixon's Deli closes its Bearden location- if they eat at a chain - NewsBreak",
+    "text": "By Camruinn Morgan-Rumsey ,\n9 hours ago KNOXVILLE, Tenn. (WVLT) - Sandwich lovers in need of a spot to grab a bite in the Bearden area of Knoxville will soon have another option after Nixon’s Deli closes its Kingston Pike location, as long as they’re happy to eat at a national chain. A Jimmy John’s... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->products and services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wvlt.tv/2026/08/05/sandwich-lovers-will-have-another-option-after-nixons-deli-closes-its-bearden-location-if-they-eat-chain/",
+        "https://www.wvlt.tv/2026/08/05/sandwich-lovers-will-have-another-option-after-nixons-deli-closes-its-bearden-location-if-they-eat-chain",
+        "https://wvlt.tv/2026/08/05/sandwich-lovers-will-have-another-option-after-nixons-deli-closes-its-bearden-location-if-they-eat-chain/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nixon",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jimmy John",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Bearden",
+                "sentiment": "none"
+            },
+            {
+                "name": "Knoxville",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kingston Pike",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Deli",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Maryville"
+            ],
+            "state": [
+                "Tennessee"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:38:00.122+03:00",
+    "updated": "2026-08-06T07:39:30.000+03:00"
+}

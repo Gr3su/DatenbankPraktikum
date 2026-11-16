@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "c60d08c3d8529a12c17d0f14871b9cbbce6fca6a",
+        "url": "https://www.newsbreak.com/news/4772129465573-chambersburg-police-look-for-help-id-ing-man-using-fake-credit-debit-cards",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/gettysburg-pa",
+        "site_categories": [
+            "crime, law and justice",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "under_construction",
+            "human interest",
+            "sport",
+            "politics",
+            "social issue",
+            "economy, business and finance",
+            "disaster and accident"
+        ],
+        "section_title": "Gettysburg, PA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Chambersburg police look for help ID'ing man using fake credit/debit cards - NewsBreak",
+        "title_full": "Chambersburg police look for help ID'ing man using fake credit/debit cards - NewsBreak",
+        "published": "2026-07-15T19:14:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0YfucV_1DKVOuQ800",
+        "performance_score": 0,
+        "domain_rank": 2997,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c60d08c3d8529a12c17d0f14871b9cbbce6fca6a",
+    "url": "https://www.newsbreak.com/news/4772129465573-chambersburg-police-look-for-help-id-ing-man-using-fake-credit-debit-cards",
+    "ord_in_thread": 0,
+    "author": "Anthony Panasiewicz",
+    "published": "2026-07-15T19:14:00.000+03:00",
+    "title": "Chambersburg police look for help ID'ing man using fake credit/debit cards - NewsBreak",
+    "text": "By Anthony Panasiewicz ,\n12 hours ago CHAMBERSBURG- Police in the Borough of Chambersburg are looking for the public’s help identifying a person they say used fraudulent bank cards and stole money from a local retailer and banks. On Sunday, July 12th at 10:12 am, CPD took a report of an access device fraud. The reporting... Read full article\n8",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->fraud",
+        "Crime, Law and Justice->crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.tristatealert.com/chambersburg-police-look-for-help-iding-man-using-fake-credit-debit-cards",
+        "https://tristatealert.com/chambersburg-police-look-for-help-iding-man-using-fake-credit-debit-cards"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Anthony Panasiewicz",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Borough of Chambersburg",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "CPD",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Hunterstown",
+                "Gettysburg",
+                "Heidlersburg"
+            ],
+            "state": [
+                "Pennsylvania"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-16T07:20:38.770+03:00",
+    "updated": "2026-07-16T07:30:02.000+03:00"
+}

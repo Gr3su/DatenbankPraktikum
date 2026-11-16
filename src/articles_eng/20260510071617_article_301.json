@@ -1,0 +1,125 @@
+{
+    "thread": {
+        "uuid": "b3ecd0381a7e68e9a11eabc138eace2a2c03c93a",
+        "url": "https://www.newsbreak.com/news/4635318636227-dawson-county-unemployment-reaches-historic-19-8",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/farnam-ne",
+        "site_categories": [
+            "sport",
+            "under_construction",
+            "economy, business and finance",
+            "human interest",
+            "politics",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Farnam, NE Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Dawson County unemployment reaches historic 19.8% - NewsBreak",
+        "title_full": "Dawson County unemployment reaches historic 19.8% - NewsBreak",
+        "published": "2026-05-06T20:21:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2lLUrA_1B8edRlK00",
+        "performance_score": 0,
+        "domain_rank": 2952,
+        "domain_rank_updated": "2026-05-04T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b3ecd0381a7e68e9a11eabc138eace2a2c03c93a",
+    "url": "https://www.newsbreak.com/news/4635318636227-dawson-county-unemployment-reaches-historic-19-8",
+    "ord_in_thread": 0,
+    "author": "KSNB Local4",
+    "published": "2026-05-06T20:21:00.000+03:00",
+    "title": "Dawson County unemployment reaches historic 19.8% - NewsBreak",
+    "text": "11 hours ago A release from the Nebraska Department of Labor shows the unemployment rate in Nebraska fell from 3.5% in February to 3.0% in March, but that isn’t true everywhere. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->economy",
+        "Economy, Business and Finance->business and market analysis"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Dawson County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nebraska",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Nebraska Department of Labor",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Farnam"
+            ],
+            "state": [
+                "Nebraska"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-07T07:26:13.082+03:00",
+    "updated": "2026-05-07T07:31:25.000+03:00"
+}

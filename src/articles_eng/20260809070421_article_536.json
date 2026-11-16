@@ -1,0 +1,149 @@
+{
+    "thread": {
+        "uuid": "14ad2322872f52ee0e6d614228c23053db05f988",
+        "url": "https://www.newsbreak.com/syracuse-com-512969/4811017372917-medical-emergency-interrupts-trump-supporter-at-nypd-community-event",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/new-york-city-ny",
+        "site_categories": [
+            "under_construction",
+            "lifestyle and leisure",
+            "health",
+            "sport",
+            "economy, business and finance",
+            "arts, culture and entertainment",
+            "politics",
+            "crime, law and justice",
+            "human interest",
+            "social issue"
+        ],
+        "section_title": "New York City, NY Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Medical emergency interrupts Trump supporter at NYPD community event - NewsBreak",
+        "title_full": "Medical emergency interrupts Trump supporter at NYPD community event - NewsBreak",
+        "published": "2026-08-05T18:37:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/4D2wLk_1Dxh0I3g00",
+        "performance_score": 0,
+        "domain_rank": 3035,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "14ad2322872f52ee0e6d614228c23053db05f988",
+    "url": "https://www.newsbreak.com/syracuse-com-512969/4811017372917-medical-emergency-interrupts-trump-supporter-at-nypd-community-event",
+    "ord_in_thread": 0,
+    "author": "Chris Pugh, cleveland.com",
+    "published": "2026-08-05T18:37:00.000+03:00",
+    "title": "Medical emergency interrupts Trump supporter at NYPD community event - NewsBreak",
+    "text": "By Chris Pugh, cleveland.com ,\n12 hours ago A prominent Staten Island artist and activist suffered a medical emergency Tuesday evening during the NYPD’s National Night Out Against Crime event at Midland Beach, prompting a rapid response from emergency personnel who performed life-saving measures before transporting him to a hospital, silive.com reported. Scott LoBaido experienced the emergency... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Health->healthcare clinic",
+        "Disaster and Accident->accident and emergency incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.syracuse.com/us-news/2026/08/medical-emergency-interrupts-trump-supporter-at-nypd-community-event.html?outputType=amp",
+        "https://www.syracuse.com/us-news/2026/08/medical-emergency-interrupts-trump-supporter-at-nypd-community-event.html",
+        "https://syracuse.com/us-news/2026/08/medical-emergency-interrupts-trump-supporter-at-nypd-community-event.html?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Chris Pugh",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Scott LoBaido",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Staten Island",
+                "sentiment": "none"
+            },
+            {
+                "name": "Midland Beach",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NYPD",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-06T07:25:45.272+03:00",
+    "updated": "2026-08-06T07:31:04.000+03:00"
+}

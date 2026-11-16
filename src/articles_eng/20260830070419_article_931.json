@@ -1,0 +1,157 @@
+{
+    "thread": {
+        "uuid": "0bd1ca196eebbcef329923ff191f353e60cef814",
+        "url": "https://www.newsbreak.com/news/4851487792038-manhunt-ends-carroll-county-double-homicide-suspect-found-dead-in-illinois",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/malta-bend-mo",
+        "site_categories": [
+            "science and technology",
+            "crime, law and justice",
+            "social issue",
+            "politics",
+            "under_construction",
+            "economy, business and finance",
+            "human interest",
+            "arts, culture and entertainment",
+            "lifestyle and leisure",
+            "sport"
+        ],
+        "section_title": "Malta Bend, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Manhunt ends: Carroll County double-homicide suspect found dead in Illinois - NewsBreak",
+        "title_full": "Manhunt ends: Carroll County double-homicide suspect found dead in Illinois - NewsBreak",
+        "published": "2026-08-26T19:34:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/44JVi0_1EbT4Xim00",
+        "performance_score": 0,
+        "domain_rank": 3157,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0bd1ca196eebbcef329923ff191f353e60cef814",
+    "url": "https://www.newsbreak.com/news/4851487792038-manhunt-ends-carroll-county-double-homicide-suspect-found-dead-in-illinois",
+    "ord_in_thread": 0,
+    "author": "Natalie Dattilio",
+    "published": "2026-08-26T19:34:00.000+03:00",
+    "title": "Manhunt ends: Carroll County double-homicide suspect found dead in Illinois - NewsBreak",
+    "text": "By Natalie Dattilio ,\n11 hours ago CARROLLTON, Mo. (KCTV) - A manhunt has ended after a Carrol County double-murder suspect was found dead in Illinois on Wednesday afternoon, according to the Missouri State Highway Patrol. Ryan A. Munson, 48, was found deceased from an apparent self-inflicted gunshot wound inside a RV in Decatur, Illinois. Authorities found... Read full article\n1",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kctv5.com/2026/08/26/manhunt-ends-carroll-county-double-homicide-suspect-found-dead-illinois/?outputType=amp",
+        "https://www.kctv5.com/2026/08/26/manhunt-ends-carroll-county-double-homicide-suspect-found-dead-illinois/",
+        "https://kctv5.com/2026/08/26/manhunt-ends-carroll-county-double-homicide-suspect-found-dead-illinois/?outputType=amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Natalie Dattilio",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Ryan A. Munson",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Carroll County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Illinois",
+                "sentiment": "none"
+            },
+            {
+                "name": "CARROLLTON",
+                "sentiment": "none"
+            },
+            {
+                "name": "Decatur",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "KCTV",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Missouri State Highway Patrol",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Malta Bend"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-08-27T07:39:56.159+03:00",
+    "updated": "2026-08-27T07:50:39.000+03:00"
+}

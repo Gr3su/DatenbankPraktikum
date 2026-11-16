@@ -1,0 +1,181 @@
+{
+    "thread": {
+        "uuid": "83392c599467e0b7e1e766c2d18d06d1f64f462b",
+        "url": "https://www.newsbreak.com/nerdy-digest-325136183/4909554640495-your-phone-has-more-computing-power-than-the-machines-that-landed-apollo-11",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/sitemap-news-87.xml",
+        "site_categories": [
+            "under_construction",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "sport",
+            "crime, law and justice",
+            "politics",
+            "arts, culture and entertainment",
+            "human interest"
+        ],
+        "section_title": "",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Your Phone Has More Computing Power Than The Machines That Landed Apollo 11 - NewsBreak",
+        "title_full": "Your Phone Has More Computing Power Than The Machines That Landed Apollo 11 - NewsBreak",
+        "published": "2026-09-26T15:10:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1OareG_1FWzAH4100",
+        "performance_score": 0,
+        "domain_rank": 3126,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-09-27T12:48:14.068+03:00"
+        }
+    },
+    "uuid": "83392c599467e0b7e1e766c2d18d06d1f64f462b",
+    "url": "https://www.newsbreak.com/nerdy-digest-325136183/4909554640495-your-phone-has-more-computing-power-than-the-machines-that-landed-apollo-11",
+    "ord_in_thread": 0,
+    "author": "Matthias Binder",
+    "published": "2026-09-26T15:10:00.000+03:00",
+    "title": "Your Phone Has More Computing Power Than The Machines That Landed Apollo 11 - NewsBreak",
+    "text": "By Matthias Binder ,\n21 hours ago\nMost of us barely think twice about the device sitting in our pocket. It streams video, translates languages, runs AI models, and navigates us turn by turn through an unfamiliar city. What rarely crosses our minds is just how staggeringly powerful it is compared to the machines that accomplished one of humanity’s greatest engineering feats. In July 1969, a custom-built computer guided three men to the Moon and back. That machine, the Apollo Guidance Computer, was the cutting edge of its era. Today, by almost every measurable standard, your phone would leave it in the dust by a margin that is genuinely hard to put into words. The Apollo Guidance Computer: What It Actually Was The Apollo Guidance Computer: What It Actually Was (Image Credits: Unsplash) The Apollo Guidance Computer was developed by the MIT Instrumentation Laboratory, now known as the Charles Stark Draper Laboratory, under the leadership of Charles Stark Draper. It was purpose-built from the ground up for one job: navigating spacecraft through the void of space and landing safely on the lunar surface.\nThe AGC ran at a frequency of 2.048 MHz, weighed 70 pounds, and had dimensions of 24 inches by 12.5 inches by 6.5 inches, consuming 55 watts of power. For the 1960s, it was a marvel. By any modern yardstick, it is almost incomprehensibly modest.\nThe Numbers: Memory Then vs. Memory Now The Numbers: Memory Then vs. Memory Now (Image Credits: Unsplash) The Block II AGC used in crewed missions had 2,048 words of erasable magnetic-core memory and 36,864 words of read-only core rope memory. Translating that into today’s terms, the working RAM amounted to roughly 4 kilobytes.\nThe iPhone 17 Pro carries 12 gigabytes of RAM, which is approximately 2.93 million times more than the Apollo computer. That is not a rounding error. That gap is real, and it sits comfortably in your shirt pocket.\nThe entire Apollo software would fit in less than one ten-thousandth of a modern smartphone’s storage. The scale of that comparison takes a moment to fully sink in.\nClock Speed: From MHz to Billions of Operations Per Second Clock Speed: From MHz to Billions of Operations Per Second (Image Credits: Pixabay) The AGC was built around a custom 16-bit word-size integrated circuit architecture, with a clock speed of 2.048 MHz but an effective instruction throughput of about 0.043 MHz. That gap between raw clock and actual throughput tells you something important: the architecture was constrained in ways that raw frequency numbers alone do not capture.\nApple’s A18 Pro, which powers the iPhone 16 Pro series, uses a hexa-core design with two Everest performance cores running up to 4.05 GHz and four Sawtooth efficiency cores running up to 2.42 GHz. The leap from 0.043 MHz to over 4,000 MHz in performance cores represents a scale of improvement that has no real historical parallel in any other field of technology.\nProcessing Speed: Roughly 120 Million Times Faster Processing Speed: Roughly 120 Million Times Faster (Image Credits: Unsplash) Modern smartphones are approximately 120 million times faster than the Apollo 11 guidance system. That figure comes from comparing raw instruction-per-second throughput, and even accounting for different architectures, the gap remains enormous.\nThe iPhone 6 alone, a device already considered outdated today, had a clock speed 32,600 times faster than the best Apollo-era computers and could perform instructions 120,000,000 times faster. Current flagship chips have advanced well beyond that already aging benchmark.\nSize and Weight: From 70 Pounds to 6 Ounces Size and Weight: From 70 Pounds to 6 Ounces (Image Credits: Pixabay) The Apollo Guidance Computer weighed a hefty 70 pounds and took up approximately 1 cubic foot of space inside the Apollo spacecraft. That bulk mattered enormously, because every extra pound on a spacecraft translated directly into additional fuel costs and mission complexity.\nIn contrast, a modern iPhone weighs about 6 ounces and has dimensions that allow it to comfortably fit into your pocket. The computing power-to-weight ratio has shifted so dramatically that the comparison starts to feel almost unfair. Today’s smartphones are roughly 160 times lighter than the AGC, with exponentially more capability.\nHow the AGC’s ROM Was Literally Hand-Woven How the AGC’s ROM Was Literally Hand-Woven (Image Credits: Pixabay) The AGC’s fixed memory stored the software, and that ROM was literally woven by hand: the programs were encoded in copper wires threaded through or around tiny magnetic cores, where a wire passing through a core represented a binary 1 and a wire bypassing a core represented a binary 0. Teams of workers, mostly women, spent months weaving the software physically into the hardware.\nThis woven memory was extremely reliable with no moving parts and no volatile storage, but it could not be modified after manufacture, meaning every change to the software required weaving an entirely new memory module, and bugs discovered after that point could not be fixed. The pressure on the engineering team was immense. There was no patch, no update, no second chance.\nMargaret Hamilton and the Birth of Software Engineering Margaret Hamilton and the Birth of Software Engineering (By NASA, Public domain ) The AGC’s software was developed by a team at MIT led by Margaret Hamilton, who coined the term “software engineering” to describe the discipline her team was creating. Before this project, writing code for mission-critical systems was not considered an engineering discipline in the formal sense.\nDuring the first Apollo missions, critical safety and propulsion mechanisms in spacecraft were controlled by software for the first time, and these developments formed the basis for modern computing. In a very real way, the software running on your phone today traces a direct lineage back to that hand-woven rope memory from 1969.\nThe 1202 Alarm: When the AGC Hit Its Limits Mid-Landing The 1202 Alarm: When the AGC Hit Its Limits Mid-Landing (By NASA / Harrison H. Schmitt, Public domain ) During Apollo 11’s descent to the lunar surface, the AGC began issuing program alarms, specifically alarms 1201 and 1202, just 12 minutes from touchdown, occurring five times over two minutes. These alarms signified “executive overflow,” indicating that the computer’s job queue was exceeding its capacity, triggered by a rendezvous radar switch mistakenly left in the wrong position.\nThe AGC’s clock speed was 1.024 MHz, a groundbreaking speed for the era, and during the Apollo 11 mission the AGC managed to continue the mission despite these alarms, underlining its reliability. A modern smartphone processor would have resolved that entire workload without the slightest hiccup. The AGC’s ability to self-prioritize and keep flying regardless was genuinely remarkable engineering.\nEven Your USB Charger Outperforms Apollo’s Computer Even Your USB Charger Outperforms Apollo’s Computer (Image Credits: Unsplash) The Apollo Guidance Computer had roughly 4 kilobytes of erasable working memory and ran from a clock around 1 megahertz, while some of the digital controllers built into modern USB-C chargers operate at tens of megahertz. The computer that took humans to the Moon is, by raw specification, comparable to a chip that manages the power delivery in a wall adapter.\nA phone has more memory and processing machinery than the Apollo designers could have plausibly put aboard a spacecraft. That is not meant as a slight against the Apollo engineers. It simply reflects how aggressively the semiconductor industry has pushed forward in the decades since.\nWhat This Gap Really Means for the Apollo Achievement What This Gap Really Means for the Apollo Achievement (csixty4, Flickr, CC BY 2.0 ) The AGC was developed by MIT for extreme reliability in space, and despite its modest capabilities by today’s standards, it performed critical real-time calculations flawlessly. The engineers who built it worked within almost unimaginable constraints and still landed human beings on another world.\nThe Apollo Guidance Computer stands as one of humanity’s most remarkable technological achievements, not for its raw power by today’s standards, but for what it accomplished with such limited resources. That distinction matters. The story here is not that the AGC was weak. The story is that the people who built it were extraordinarily good at their jobs.\nThe Takeaway The Takeaway (Image Credits: Unsplash) It is tempting to look at these numbers and simply feel amazed. The gap is real and the data is clear: a 2025 smartphone is roughly 100 to 300 million times more powerful than the computer that guided humans to the Moon. That is a figure that deserves a moment of quiet reflection.\nWhat makes the comparison genuinely useful, though, is not the size of the gap. It is what the gap reveals about human ingenuity at both ends of it. The Apollo engineers built something reliable and precise enough to navigate 356,000 kilometers of space with a machine roughly as powerful as a modern charger brick. The engineers who built today’s chips have pushed transistors to the nanometer scale and packed billions of them into a sliver of silicon thin enough to bend.\nBoth achievements, separated by more than half a century, are expressions of the same fundamental drive: to build something that works, under constraints, for a purpose that matters. The Moon landings remind us what careful engineering can do with very little. Your phone reminds us how far the tools have come since.\nAI Disclaimer: This article was created with the assistance of AI tools and reviewed by a human editor.",
+    "summary": "During the first Apollo missions, critical safety and propulsion mechanisms in spacecraft were controlled by software for the first time, and these developments formed the basis for modern computing. These alarms signified “executive overflow,” indicating that the computer’s job queue was exceeding its capacity, triggered by a rendezvous radar switch mistakenly left in the wrong position. The Apollo Guidance Computer stands as one of humanity’s most remarkable technological achievements, not for its raw power by today’s standards, but for what it accomplished with such limited resources.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Education"
+    ],
+    "topics": [
+        "Science and Technology->aerospace engineering",
+        "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=01lOVm_1FWzAH4100",
+        "https://img.particlenews.com/image.php?url=0uCg8m_1FWzAH4100",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=47eyw1_1FWzAH4100",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2ueL6t_1FWzAH4100",
+        "https://img.particlenews.com/image.php?url=2rBug7_1FWzAH4100",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=01lOVm_1FWzAH4100",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2rBug7_1FWzAH4100",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=4DEcWV_1FWzAH4100",
+        "https://img.particlenews.com/image.php?url=47eyw1_1FWzAH4100",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0rT2Di_1FWzAH4100",
+        "https://img.particlenews.com/image.php?url=1OareG_1FWzAH4100",
+        "https://creativecommons.org/licenses/by/2.0/",
+        "https://img.particlenews.com/image.php?url=4DEcWV_1FWzAH4100",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2RnMsy_1FWzAH4100",
+        "https://img.particlenews.com/image.php?url=2KBsor_1FWzAH4100",
+        "https://commons.wikimedia.org/w/index.php?curid=37255847",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1OareG_1FWzAH4100",
+        "https://img.particlenews.com/image.php?url=0BRSHC_1FWzAH4100",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2KBsor_1FWzAH4100",
+        "https://img.particlenews.com/image.php?url=2RnMsy_1FWzAH4100",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0uCg8m_1FWzAH4100",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0BRSHC_1FWzAH4100",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=4diNLi_1FWzAH4100",
+        "https://img.particlenews.com/image.php?url=4diNLi_1FWzAH4100",
+        "https://img.particlenews.com/image.php?url=2ueL6t_1FWzAH4100",
+        "https://commons.wikimedia.org/w/index.php?curid=12872",
+        "https://img.particlenews.com/image.php?url=0rT2Di_1FWzAH4100",
+        "https://creativecommons.org/licenses/by/2.0",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0rT2Di_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?url=01lOVm_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=4DEcWV_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2rBug7_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?url=4diNLi_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=4diNLi_1FWzAH4100",
+        "https://img.particlenews.com/image.php",
+        "https://www.commons.wikimedia.org/w/index.php?curid=12872",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2ueL6t_1FWzAH4100",
+        "https://www.creativecommons.org/licenses/by/2.0/",
+        "https://www.img.particlenews.com/image.php?url=2rBug7_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?url=0rT2Di_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?url=2RnMsy_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?url=0BRSHC_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0BRSHC_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?url=2KBsor_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?url=2ueL6t_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0uCg8m_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?url=1OareG_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?url=47eyw1_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?url=4DEcWV_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1OareG_1FWzAH4100",
+        "https://commons.wikimedia.org/w/index.php",
+        "https://www.img.particlenews.com/image.php?url=0uCg8m_1FWzAH4100",
+        "https://www.commons.wikimedia.org/w/index.php?curid=37255847",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=47eyw1_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=01lOVm_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2KBsor_1FWzAH4100",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2RnMsy_1FWzAH4100"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Matthias Binder",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Moon",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-27T12:48:14.068+03:00",
+    "updated": "2026-09-27T12:55:33.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,165 @@
+{
+    "thread": {
+        "uuid": "05e489e98f48ed159e4f3a72e0d3ca85b22f3174",
+        "url": "https://www.wvnews.com/rivercities/pomeroy/sports/meigs-carson-davis-signs-with-cornell/article_72a30f96-e555-4a26-96c4-47997633dc88.html",
+        "site_full": "www.wvnews.com",
+        "site": "wvnews.com",
+        "site_section": "https://www.wvnews.com/tncms/sitemap/news.xml",
+        "site_categories": [
+            "sport",
+            "politics",
+            "media",
+            "lifestyle and leisure",
+            "human interest",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "education"
+        ],
+        "section_title": "",
+        "site_title": "WV News Home | WVNEWS, West Virginia's News, INDEPENDENT, TRUSTWORTHY, NEWS, SPORTS, EVENTS",
+        "title": "Meigs' Carson Davis signs with Cornell | Pomeroy and Meigs County Sports | wvnews.com",
+        "title_full": "Meigs' Carson Davis signs with Cornell | Pomeroy and Meigs County Sports | wvnews.com",
+        "published": "2026-05-07T04:13:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/3/a7/3a787dfa-9e92-4a71-88d3-c314f7688d9d/69fbed56ec3e1.image.jpg?crop=1762%2C925%2C0%2C176&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 76229,
+        "domain_rank_updated": "2026-05-04T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "05e489e98f48ed159e4f3a72e0d3ca85b22f3174",
+    "url": "https://www.wvnews.com/rivercities/pomeroy/sports/meigs-carson-davis-signs-with-cornell/article_72a30f96-e555-4a26-96c4-47997633dc88.html",
+    "ord_in_thread": 0,
+    "author": "Dave Harris for River Cities News",
+    "published": "2026-05-07T04:13:00.000+03:00",
+    "title": "Meigs' Carson Davis signs with Cornell | Pomeroy and Meigs County Sports | wvnews.com",
+    "text": "ROCK SPRINGS, Ohio - The road from Meigs High School to Cornell University, is approximately 500 miles, but for Meigs senior Carson Davis, the road to Ithaca started years ago as a gym rat in Chesapeake.\nDavis' dad Ryan coached the Panthers before the elder Davis, his wife Renee and family moved to Meigs County to take the boys basketball head coaching job two years ago.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Education",
+        "Sport"
+    ],
+    "topics": [
+        "Education->students",
+        "Education->school",
+        "Education->college and university",
+        "Sport->sports transaction",
+        "Sport->sport achievement"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Carson Davis",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ryan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Renee",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Ohio",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chesapeake",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ithaca",
+                "sentiment": "none"
+            },
+            {
+                "name": "Meigs County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Meigs High School",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Cornell University",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Panthers",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "West Virginia"
+            ],
+            "state": [
+                "West Virginia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-07T07:21:10.530+03:00",
+    "updated": "2026-05-07T07:26:52.000+03:00"
+}

@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "329812e0d5060033d1a8fa85f304c8aeac4ac0f3",
+        "url": "https://www.washingtoninformer.com/author/leah-bogan",
+        "site_full": "www.washingtoninformer.com",
+        "site": "washingtoninformer.com",
+        "site_section": "https://www.washingtoninformer.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "The Washington Informer",
+        "site_title": "The Washington Informer",
+        "title": "Leah Bogan, Author at The Washington Informer",
+        "title_full": "Leah Bogan, Author at The Washington Informer",
+        "published": "2025-08-13T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 38428,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "329812e0d5060033d1a8fa85f304c8aeac4ac0f3",
+    "url": "https://www.washingtoninformer.com/author/leah-bogan",
+    "ord_in_thread": 0,
+    "author": "Wp-Block-Co-Authors-Plus-Coauthors Is-Layout-Flow",
+    "published": "2025-08-13T03:00:00.000+03:00",
+    "title": "Leah Bogan, Author at The Washington Informer",
+    "text": "Donald Trump and U.S. Attorney for the District of Columbia Jeanine Pirro’s decision to federalize policing in Washington, D.C. is a regressive move that prioritizes surveillance and control over the deeper work of community safety, and true public safety requires addressing the structural conditions that drive harm, such as poverty, housing insecurity, and lack of opportunity.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Politics->political candidates",
+        "Politics->political campaigns",
+        "Social Issue->social condition",
+        "Social Issue->social services",
+        "Crime, Law and Justice->corruption",
+        "Crime, Law and Justice->law enforcement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jeanine Pirro",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Leah Bogan",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "D.C.",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Washington"
+            ],
+            "state": [
+                "District of Columbia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T07:34:15.049+03:00",
+    "updated": "2025-08-14T07:37:31.000+03:00"
+}

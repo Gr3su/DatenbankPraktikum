@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "4cc8ed1a4c6db327121217bcc0f47b537a2a4923",
+        "url": "https://www.newsbreak.com/news/4933936608627-temple-high-student-and-man-face-charges",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/fairburn-ga",
+        "site_categories": [
+            "economy, business and finance",
+            "politics",
+            "crime, law and justice",
+            "science and technology",
+            "lifestyle and leisure",
+            "sport",
+            "under_construction",
+            "arts, culture and entertainment"
+        ],
+        "section_title": "Fairburn, GA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Temple High student and man face charges - NewsBreak",
+        "title_full": "Temple High student and man face charges - NewsBreak",
+        "published": "2026-10-09T00:30:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1Qe0t7_1FvXwp8C00",
+        "performance_score": 0,
+        "domain_rank": 3132,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T07:18:53.051+03:00"
+        }
+    },
+    "uuid": "4cc8ed1a4c6db327121217bcc0f47b537a2a4923",
+    "url": "https://www.newsbreak.com/news/4933936608627-temple-high-student-and-man-face-charges",
+    "ord_in_thread": 0,
+    "author": "fox5atlanta.com",
+    "published": "2026-10-09T00:30:00.000+03:00",
+    "title": "Temple High student and man face charges - NewsBreak",
+    "text": "6 hours ago A 28-year-old Fayetteville man and a 15-year-old Temple High School student face criminal charges after authorities say explicit videos were distributed on campus. Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->assault"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox5atlanta.com/video/fmc-717eeybiqjei6ptq.amp",
+        "https://fox5atlanta.com/video/fmc-717eeybiqjei6ptq.amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Fayetteville",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Temple High School",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Fairburn"
+            ],
+            "state": [
+                "Georgia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:18:53.051+03:00",
+    "updated": "2026-10-09T07:21:35.000+03:00",
+    "related_articles": null
+}

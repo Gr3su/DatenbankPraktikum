@@ -1,0 +1,157 @@
+{
+    "thread": {
+        "uuid": "1c63d5f83d4e2bbd17033a7c33497aff89ec0314",
+        "url": "http://business.times-online.com/times-online/article/abnewswire-2026-7-30-the-race-to-power-americas-ai-boom-is-being-won-at-187",
+        "site_full": "business.times-online.com",
+        "site": "times-online.com",
+        "site_section": "http://business.times-online.com/times-online/markets/news",
+        "site_categories": [
+            "lifestyle and leisure",
+            "finance",
+            "economy, business and finance",
+            "health",
+            "science and technology",
+            "financial_news"
+        ],
+        "section_title": "User | times-online.com - Stock Market News | NSDQ, NYSE, and AMEX Stock Market News, Market News Categories, Market Indicators",
+        "site_title": "User | times-online.com - Stock Market Summary for Today  |  NSDQ, NYSE and AMEX  Stock Market Summaries",
+        "title": "The Race to Power America's AI Boom Is Being Won at 187",
+        "title_full": "The Race to Power America's AI Boom Is Being Won at 187",
+        "published": "2026-07-30T07:02:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 124061,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1c63d5f83d4e2bbd17033a7c33497aff89ec0314",
+    "url": "http://business.times-online.com/times-online/article/abnewswire-2026-7-30-the-race-to-power-americas-ai-boom-is-being-won-at-187",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-07-30T07:02:00.000+03:00",
+    "title": "The Race to Power America's AI Boom Is Being Won at 187",
+    "text": "Feet How the artificial intelligence revolution turned transmission towers into the most important real estate in America and why the crews climbing them are rethinking how they get there.\nThere is a version of the artificial intelligence story that gets told in San Francisco boardrooms and on earnings calls: the chips, the models, the billion-dollar training runs. Then there is the version being told in the field along transmission corridors in Texas, outside substations in Virginia, on windswept rights-of-way in the Midwest where the AI boom looks less like software and more like steel.\nBecause here is the uncomfortable truth the technology industry has spent the last two years learning: you cannot download electricity.\nEvery large language model, every inference query, every hyperscale campus breaking ground from Phoenix to Columbus depends on a physical grid that was, for the most part, designed and built generations ago. Data center electricity consumption in the United States has roughly doubled in five years, and federal researchers project it could account for as much as twelve percent of the nation’s total electricity use by 2028 — up from under five percent just a few years ago. In Virginia, the densest data center market on Earth, these facilities already consume roughly a quarter of the state’s electricity, a share analysts expect to climb dramatically by the end of the decade.\nThe capital is certainly there. American investor-owned utilities have penciled in well over a trillion dollars in infrastructure spending through 2030, and hyperscalers are outspending the entire utility sector on energy-adjacent infrastructure. Washington has taken notice too: in April, the federal government invoked the Defense Production Act to designate large-scale grid infrastructure as essential to national defense.\nBut money does not string conductor. People do. And that is where this story stops being about algorithms and starts being about altitude.\nThe Grid Is the Bottleneck and the Tower Is the Job Site\nThe math of the buildout is brutal in its simplicity. A hyperscale data center can be constructed in twelve to eighteen months. Connecting it to the grid can take five to seven years. Transformer lead times have stretched past three years. And the United States, which needs thousands of miles of new high-voltage transmission annually to keep pace, completed fewer than nine hundred miles in a recent year.\nEvery mile of that gap has to be closed by crews working at height — on lattice towers and monopoles that routinely rise 100, 150, even 200 feet above the ground. Stringing conductor, replacing insulators, upgrading hardware, energizing new circuits: this is precision work performed around live infrastructure, in weather, on deadlines that now carry national economic weight.\nFor decades, the industry’s default answers to the access problem were cranes with suspended man-baskets, helicopters, or climbing — each with real limitations in speed, cost, or risk. As utilities compress schedules to meet AI-driven demand, those tradeoffs have become harder to accept.\nEnter a category of equipment that most Americans have never heard of, but which enterprise energy companies increasingly cannot work without: the truck-mounted high-reach aerial work platform.\nThe Company Performance on Height\nBlade Platforms , a North American specialist in truck-mounted aerial work platforms, has quietly become one of the more interesting companies in the grid buildout. Its fleet — with working heights from 93 feet to an industry-leading 336 feet and horizontal outreach exceeding 130 feet — occupies a niche that suddenly matters enormously: getting linemen, tools, and materials to the exact point of work on a transmission structure, quickly and stably, and getting them down the same way.\nThe company’s platforms are engineered for the conditions that define utility work rather than adapted from general construction equipment. Rated for operation in sustained winds — up to roughly 29 miles per hour on standard models and 43 on select units — with cage capacities north of 1,100 pounds, the machines allow multiple workers to ascend together with their equipment. Some models carry hydraulic tool circuits, so crews can run tooling directly from the platform rather than staging separate power at height. Setup measures in minutes rather than the hours a crane rig can demand, and the entire system drives to the next structure on its own chassis.\nEarlier this year, Blade introduced a machine aimed squarely at the transmission sector: the Blade 187, built by German manufacturer Ruthmann, with 187 feet of working height, 133 feet of outreach, a 1,300-pound platform capacity, and — notably — 39 feet of below-grade reach for work on slopes and embankments where transmission structures so often stand.\nThe company operates deployment hubs in New York, Illinois, Texas, and California, offers both operated and bare rentals, and runs IPAF-certified training — a detail that matters more than it sounds, because the constraint on grid work is not just equipment. It is qualified people, and anything that lets a utility’s existing workforce do more work per shift, more safely, is effectively a labor multiplier.\n“The Grid Is the Product Now”: A Conversation with Petr Bartusek\nTo understand how the AI boom looks from inside the access equipment business, I sat down with Petr Bartusek, Blade Platforms’ Commercial Vice President, who has watched utility demand reshape his order book in real time.\nYou sell lift equipment. Why are you suddenly talking about artificial intelligence?\n“Because our customers are. Two years ago, the conversation with a utility was about maintenance cycles and storm hardening. Today it’s about interconnection deadlines for data center campuses measured in gigawatts. When a hyperscaler commits billions to a site, the utility’s transmission upgrade becomes the critical path for the entire project. The grid is the product now. Everything upstream of the server rack depends on crews finishing tower work on schedule.”\nWhat does that pressure actually change in the field?\n“Tempo, mostly. A crew that used to touch four structures a week is being asked to touch eight. You cannot get there by asking people to climb faster — that’s how you get hurt. You get there by changing how they access the work. A truck-mounted platform sets up in minutes, puts two or three workers and their tools at the exact point of work, holds them stable in wind, and then drives to the next structure. Compare that to rigging a crane and basket at every tower, or mobilizing a helicopter. Over a fifty-tower job, the schedule difference is measured in weeks.”\nSafety is the industry’s stated priority, but schedules are tight. Do those goals conflict?\n“They only conflict with the wrong equipment. Safety drives every decision we make, and what we’ve found is that purpose-built access is where safety and speed stop being a trade-off. A stable, rated platform means the operator is thinking about the conductor in front of him, not the basket under him. Fewer climbs means fewer fall exposures. Bringing tools up in one lift instead of five means fewer suspended loads. The safest way to do this work also happens to be the fastest, and utilities have figured that out.”\nWhere do you see this heading over the next few years?\n“The demand curve isn’t slowing. The projections say data centers could double their share of national electricity consumption before the decade is out, and every one of those megawatts crosses a tower somewhere. We think the companies that win this era are the ones that treat access as infrastructure — not an afterthought you rent at the last minute, but a planned part of the program, with trained operators and machines engineered for exactly this work. That’s the company we’ve built.”\nThe View from the Top\nStand at the base of a 180-foot lattice tower and the AI economy becomes very concrete. Somewhere at the far end of the line under construction, a building full of processors is waiting. Between here and there is nothing but physics, permitting, and labor. The chips will keep getting faster. The models will keep getting larger. But the pace of American AI will ultimately be set by how quickly the country can build and energize the wires — and that pace is set, tower by tower, by the crews at height and the machines that carry them there.\nWhich is why, in an economy obsessed with the cloud, some of the smartest money in energy is being spent on something far more grounded: a truck, a boom, and a stable platform 187 feet in the air.\nFor fleet specifications, rental availability, and operator training, visit Bladeplatforms.com .\nMedia Contact\nCompany Name: Blade Platforms\nEmail: Send Email\nAddress: 1901 E Hwy 80\nCity: Abilene\nState: TX 79601\nCountry: United States\nWebsite: Bladeplatforms.com",
+    "summary": "Every large language model, every inference query, every hyperscale campus breaking ground from Phoenix to Columbus depends on a physical grid that was, for the most part, designed and built generations ago. In Virginia, the densest data center market on Earth, these facilities already consume roughly a quarter of the state’s electricity, a share analysts expect to climb dramatically by the end of the decade. Stringing conductor, replacing insulators, upgrading hardware, energizing new circuits: this is precision work performed around live infrastructure, in weather, on deadlines that now carry national economic weight.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.abnewswire.com/press_stat.php?pr=the-race-to-power-americas-ai-boom-is-being-won-at-187",
+        "http://Bladeplatforms.com",
+        "https://www.abnewswire.com/companyname/Bladeplatforms.com_192855.html",
+        "https://tracking.newsrpm.com/pixel?slug=abnewswire-2026-7-30-the-race-to-power-americas-ai-boom-is-being-won-at-187",
+        "https://www.bladeplatforms.com/",
+        "https://www.bladeplatforms.com/truck-mounts/",
+        "https://www.abnewswire.com/email_contact_us.php?pr=the-race-to-power-americas-ai-boom-is-being-won-at-187",
+        "https://bladeplatforms.com/",
+        "https://abnewswire.com/press_stat.php?pr=the-race-to-power-americas-ai-boom-is-being-won-at-187",
+        "https://www.bladeplatforms.com",
+        "http://www.Bladeplatforms.com",
+        "https://www.bladeplatforms.com/truck-mounts",
+        "https://tracking.newsrpm.com/pixel",
+        "https://bladeplatforms.com/truck-mounts/",
+        "https://www.abnewswire.com/email_contact_us.php",
+        "https://www.tracking.newsrpm.com/pixel?slug=abnewswire-2026-7-30-the-race-to-power-americas-ai-boom-is-being-won-at-187",
+        "https://abnewswire.com/companyname/Bladeplatforms.com_192855.html",
+        "https://www.abnewswire.com/press_stat.php",
+        "https://abnewswire.com/email_contact_us.php?pr=the-race-to-power-americas-ai-boom-is-being-won-at-187"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "America",
+                "sentiment": "none"
+            },
+            {
+                "name": "San Francisco",
+                "sentiment": "none"
+            },
+            {
+                "name": "Midwest",
+                "sentiment": "none"
+            },
+            {
+                "name": "Texas",
+                "sentiment": "none"
+            },
+            {
+                "name": "Virginia",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Beca",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": null,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Apple Valley",
+                "Valley City",
+                "Pick City"
+            ],
+            "state": [
+                "Illinois",
+                "North Dakota"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-30T07:22:42.671+03:00",
+    "updated": "2026-07-30T07:25:41.000+03:00"
+}

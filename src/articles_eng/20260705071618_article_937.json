@@ -1,0 +1,127 @@
+{
+    "thread": {
+        "uuid": "aba54b1376a06dec745140c4c11c4373f1481a6d",
+        "url": "https://www.newsbreak.com/amest-tribune-1590672/4744064878813-fire-guts-beloved-starbuck-s-drive-in-shaking-nevada-s-heart",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/ames-ia",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "crime, law and justice",
+            "disaster and accident",
+            "sport",
+            "politics",
+            "social issue",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "under_construction",
+            "human interest"
+        ],
+        "section_title": "Ames, IA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Fire guts beloved Starbuck's Drive-In, shaking Nevada's heart - NewsBreak",
+        "title_full": "Fire guts beloved Starbuck's Drive-In, shaking Nevada's heart - NewsBreak",
+        "published": "2026-07-01T19:24:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0XYeuT_1CtDreu100",
+        "performance_score": 0,
+        "domain_rank": 2983,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aba54b1376a06dec745140c4c11c4373f1481a6d",
+    "url": "https://www.newsbreak.com/amest-tribune-1590672/4744064878813-fire-guts-beloved-starbuck-s-drive-in-shaking-nevada-s-heart",
+    "ord_in_thread": 0,
+    "author": "Ronna Faaborg",
+    "published": "2026-07-01T19:24:00.000+03:00",
+    "title": "Fire guts beloved Starbuck's Drive-In, shaking Nevada's heart - NewsBreak",
+    "text": "By Ronna Faaborg Amest Tribune 12 hours ago 💬 0",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->fire"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ronna Faaborg",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Nevada",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Starbuck",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Amest Tribune",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Ames"
+            ],
+            "state": [
+                "Iowa"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-02T07:51:22.566+03:00",
+    "updated": "2026-07-02T07:53:24.000+03:00"
+}

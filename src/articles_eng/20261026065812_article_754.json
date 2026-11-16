@@ -1,0 +1,137 @@
+{
+    "thread": {
+        "uuid": "140530496cb4b6712027f755c3dc1b2d7eff8f62",
+        "url": "https://www.hindustantimes.com/world-news/us-news/elon-musk-invests-1-billion-in-cnn-owner-skydance-report-101792719164400.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/sitemap/news.xml",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "politics",
+            "crime, law and justice",
+            "media",
+            "social issue",
+            "lifestyle and leisure",
+            "economy, business and finance"
+        ],
+        "section_title": "",
+        "site_title": "Hindustan Times: Breaking News, Latest News, India News, World News & Cricket Today's Headlines | Hindustan Times",
+        "title": "Elon Musk invests $1 billion in CNN-owner Skydance: Report | Hindustan Times",
+        "title_full": "Elon Musk invests $1 billion in CNN-owner Skydance: Report | Hindustan Times",
+        "published": "2026-10-23T07:21:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2026/10/23/1600x900/logo/SPACEX-TESLA-M-A-1_1792719152920_Znu2_1792719159554_vQkU_b43ee072-f73b-48cb-be9e-45f5c274a5ed_jOwq.JPG",
+        "performance_score": 0,
+        "domain_rank": 2738,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T04:43:58.000+00:00"
+        }
+    },
+    "uuid": "140530496cb4b6712027f755c3dc1b2d7eff8f62",
+    "url": "https://www.hindustantimes.com/world-news/us-news/elon-musk-invests-1-billion-in-cnn-owner-skydance-report-101792719164400.html",
+    "ord_in_thread": 0,
+    "author": "@httweets",
+    "published": "2026-10-23T07:21:00.000+03:00",
+    "title": "Elon Musk invests $1 billion in CNN-owner Skydance: Report | Hindustan Times",
+    "text": "Musk, Ellison ties fuel partnership speculation\nMusk has publicly praised Skydance chief executive David Ellison and Oracle co-founder Larry Ellison. This led to speculation that the investment could pave the way for broader collaboration between Skydance and Musk’s companies.",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Elon Musk",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Larry Ellison",
+                "sentiment": "positive"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Oracle",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": "ORCL",
+                        "exchange": "NYSE"
+                    }
+                ]
+            },
+            {
+                "name": "Skydance",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "Hindustan Times",
+                "sentiment": "positive",
+                "tickers": []
+            },
+            {
+                "name": "Musk",
+                "sentiment": "positive",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_in",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:24:38.375+03:00",
+    "updated": "2026-10-23T07:43:58.000+03:00",
+    "related_articles": null
+}

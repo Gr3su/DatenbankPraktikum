@@ -1,0 +1,135 @@
+{
+    "thread": {
+        "uuid": "229a53505e2c7d2d80eec7b73ea5864a446b3a9c",
+        "url": "http://global.chinadaily.com.cn/a/202510/23/WS68f98e81a310f735438b67e3.html",
+        "site_full": "global.chinadaily.com.cn",
+        "site": "chinadaily.com.cn",
+        "site_section": "http://global.chinadaily.com.cn/world",
+        "site_categories": [
+            "travel"
+        ],
+        "section_title": "World - Chinadaily.com.cn",
+        "site_title": "China Daily Website - Connecting China Connecting the World",
+        "title": "UN says delivering aid to northern Gaza remains challenging - Chinadaily.com.cn",
+        "title_full": "UN says delivering aid to northern Gaza remains challenging - Chinadaily.com.cn",
+        "published": "2025-10-23T05:09:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "http://img2.chinadaily.com.cn/images/202510/23/68f98e81a310f735017f4fe3.png",
+        "performance_score": 0,
+        "domain_rank": 2555,
+        "domain_rank_updated": "2025-10-20T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "229a53505e2c7d2d80eec7b73ea5864a446b3a9c",
+    "url": "http://global.chinadaily.com.cn/a/202510/23/WS68f98e81a310f735438b67e3.html",
+    "ord_in_thread": 0,
+    "author": "global.chinadaily.com.cn",
+    "published": "2025-10-23T05:09:00.000+03:00",
+    "title": "UN says delivering aid to northern Gaza remains challenging - Chinadaily.com.cn",
+    "text": "People are seen on a street with destroyed buildings in Gaza City, on Oct 19, 2025. [Photo/Xinhua] UNITED NATIONS - UN humanitarians said Wednesday that delivering vital support to northern Gaza remains challenging, even though the ceasefire took effect more than 10 days ago.\nThe UN Office for the Coordination of Humanitarian Affairs (OCHA) said that since the ceasefire took effect on Oct 10, the world body and its partners have made progress in scaling up response efforts, especially in central and southern areas of the Gaza Strip.\nHowever, the continued closure of the Zikim and Erez border crossings, which provide direct access to the north, makes it extremely challenging for humanitarian aid to reach the area, OCHA said.\nAt the same time, UN partners monitoring population flows across Gaza have reported more than 425,000 movements from southern to northern parts of the strip since Oct 10.\nUN Population Fund Deputy Executive Director Andrew Saberton, who just returned from Gaza, told reporters that the agency was able to bring in some assistance last week through the Kerem Shalom/Karem Abu Salem crossing.\n\"We have been distributing medical supplies and equipment, including incubators, delivery beds and fetal monitoring machines, that were prepositioned inside Gaza, to hospitals,\" he said. \"But the trickle of aid being allowed to enter Gaza after the ceasefire is nowhere near enough.\"\nInside Gaza on Tuesday, out of 10 humanitarian missions coordinated with the Israeli authorities, six were facilitated, including the collection of water tanks, hygiene kits and fuel from the crossings into Gaza, OCHA said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Social Issue",
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "War, Conflict and Unrest->war",
+        "Social Issue->social condition",
+        "Disaster and Accident->emergency response",
+        "Disaster and Accident->disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Andrew Saberton",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Gaza City",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gaza Strip",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "UN",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NITED NATIONS",
+                "sentiment": "none",
+                "tickers": []
+            },
+            {
+                "name": "OCHA",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-23T07:18:16.215+03:00",
+    "updated": "2025-10-23T07:30:26.000+03:00"
+}

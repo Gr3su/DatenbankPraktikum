@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "aea96e93c5c90ad03ede0086adc229c6d65a44ac",
+        "url": "https://local.newsbreak.com/newsweek-500152/4523892572304-rival-coach-makes-major-darius-acuff-claim-after-arkansas-texas",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/m/newsweek-500152",
+        "site_categories": [
+            "politics",
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "crime, law and justice",
+            "lifestyle and leisure",
+            "sport"
+        ],
+        "section_title": "Newsweek&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Rival Coach Makes Major Darius Acuff Claim After Arkansas-Texas - NewsBreak",
+        "title_full": "Rival Coach Makes Major Darius Acuff Claim After Arkansas-Texas - NewsBreak",
+        "published": "2026-03-05T01:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1ovstA_19MNHya000",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-01T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aea96e93c5c90ad03ede0086adc229c6d65a44ac",
+    "url": "https://local.newsbreak.com/newsweek-500152/4523892572304-rival-coach-makes-major-darius-acuff-claim-after-arkansas-texas",
+    "ord_in_thread": 0,
+    "author": "Justin Grasso",
+    "published": "2026-03-05T01:14:00.000+02:00",
+    "title": "Rival Coach Makes Major Darius Acuff Claim After Arkansas-Texas - NewsBreak",
+    "text": "By Justin Grasso ,\n6 hours ago The Arkansas Razorbacks guard Darius Acuff landed major praise from the Texas Basketball head coach on Wednesday night. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Sport"
+    ],
+    "topics": [
+        "Sport->basketball",
+        "Sport->sport event",
+        "Sport->sports coaching"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Darius Acuff",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Justin Grasso",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Arkansas Razorbacks",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Texas Basketball",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-03-05T07:20:48.164+02:00",
+    "updated": "2026-03-05T07:22:35.000+02:00"
+}

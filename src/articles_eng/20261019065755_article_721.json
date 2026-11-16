@@ -1,0 +1,138 @@
+{
+    "thread": {
+        "uuid": "8b7d06c809d1071610079d6769ed8fe2e0ed73ba",
+        "url": "https://www.newsbreak.com/news/4947715623883-jackson-county-crash-on-us-50-leaves-one-driver-injured",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/independence-mo",
+        "site_categories": [
+            "crime, law and justice",
+            "economy, business and finance",
+            "under_construction",
+            "politics",
+            "arts, culture and entertainment",
+            "sport",
+            "lifestyle and leisure"
+        ],
+        "section_title": "Independence, MO Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Jackson County Crash on US-50 Leaves One Driver Injured - NewsBreak",
+        "title_full": "Jackson County Crash on US-50 Leaves One Driver Injured - NewsBreak",
+        "published": "2026-10-14T15:38:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/03CixB_1G8QdWJ400",
+        "performance_score": 0,
+        "domain_rank": 3115,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-16T07:22:22.002+03:00"
+        }
+    },
+    "uuid": "8b7d06c809d1071610079d6769ed8fe2e0ed73ba",
+    "url": "https://www.newsbreak.com/news/4947715623883-jackson-county-crash-on-us-50-leaves-one-driver-injured",
+    "ord_in_thread": 0,
+    "author": "nationwidereport.com",
+    "published": "2026-10-14T15:38:00.000+03:00",
+    "title": "Jackson County Crash on US-50 Leaves One Driver Injured - NewsBreak",
+    "text": "1 days ago A two-vehicle crash on US-50 at Alley Jackson Road in Jackson County left one driver with minor injuries on the morning of Oct. 14, 2026, according to the Missouri State Highway Patrol. The patrol's preliminary crash report says the collision occurred at approximately 7:38 a.m. and involved a 2019 Toyota... Read full article",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Disaster and Accident"
+    ],
+    "topics": [
+        "Disaster and Accident->transportation accident and incident"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nationwidereport.com/jackson-county-crash-on-us-50-leaves-one-driver-injured-14e03f",
+        "https://nationwidereport.com/jackson-county-crash-on-us-50-leaves-one-driver-injured-14e03f"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Alley Jackson Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jackson County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Missouri State Highway Patrol",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Toyota",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "TM",
+                        "exchange": "NYSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Independence"
+            ],
+            "state": [
+                "Missouri"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-16T07:22:22.002+03:00",
+    "updated": "2026-10-16T07:24:58.000+03:00",
+    "related_articles": null
+}

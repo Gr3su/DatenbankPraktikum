@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "0b53c2519edb36d10e41b85024837ebd3c4a42f6",
+        "url": "https://www.newsbreak.com/news/4606427705583-john-brown-was-and-still-is-right",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/staunton-va",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "politics",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "sport",
+            "crime, law and justice",
+            "under_construction",
+            "human interest"
+        ],
+        "section_title": "Staunton, VA Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "John Brown was, and still is, right - NewsBreak",
+        "title_full": "John Brown was, and still is, right - NewsBreak",
+        "published": "2026-04-22T07:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1HpQ6S_1AgXdRid00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-03-08T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0b53c2519edb36d10e41b85024837ebd3c4a42f6",
+    "url": "https://www.newsbreak.com/news/4606427705583-john-brown-was-and-still-is-right",
+    "ord_in_thread": 0,
+    "author": "Preston Thomas '28",
+    "published": "2026-04-22T07:00:00.000+03:00",
+    "title": "John Brown was, and still is, right - NewsBreak",
+    "text": "By Preston Thomas ’28 ,\n1 days ago On Nov. 2, 1859, abolitionist John Brown was on trial for murder and treason against the Commonwealth of Virginia and an attempt to incite a slave insurrection. When asked if there was any reason the sentence should not be imposed, Brown rose and gave a short, yet profound, speech that still holds much relevance today. Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Politics->political process",
+        "Politics->civil rights",
+        "Crime, Law and Justice->law",
+        "Crime, Law and Justice->court"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "John Brown",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Preston Thomas ’",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Staunton",
+                "Jolivue"
+            ],
+            "state": [
+                "Virginia"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-04-23T07:26:44.192+03:00",
+    "updated": "2026-04-23T07:29:56.000+03:00"
+}

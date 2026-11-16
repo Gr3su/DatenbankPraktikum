@@ -1,0 +1,164 @@
+{
+    "thread": {
+        "uuid": "c5ac2183dd601f73cb437941d0b208d5ca51e456",
+        "url": "https://www.thenationalnews.com/news/mena/2026/10/23/iran-war-live-saudi-arabia-houthis/",
+        "site_full": "www.thenationalnews.com",
+        "site": "thenationalnews.com",
+        "site_section": "https://news.google.com/search?q=other%20when%3a1h&hl=en-us&gl=us&ceid=us%3aen",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "business",
+            "tech",
+            "sport",
+            "web_design_html",
+            "politics",
+            "economy, business and finance",
+            "science and technology",
+            "marketing",
+            "war, conflict and unrest"
+        ],
+        "section_title": "Google News - Search",
+        "site_title": "The National - Latest world news, sport &amp; opinion",
+        "title": "Middle East latest: Saudi-led coalition intercepts wave of overnight attacks",
+        "title_full": "Middle East latest: Saudi-led coalition intercepts wave of overnight attacks",
+        "published": "2026-10-23T06:55:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AE",
+        "main_image": "https://www.thenationalnews.com/resizer/v2/7SKOHTTBVRHRZFITKZ2WXIEYBM?auth=f4e4c61f57a55b8df3cb6d8f789ff0ce11d77a423b39ee6ea4334bc87e8f5ea5&amp;smart=true&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 6805,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-23T04:39:12.000+00:00"
+        }
+    },
+    "uuid": "c5ac2183dd601f73cb437941d0b208d5ca51e456",
+    "url": "https://www.thenationalnews.com/news/mena/2026/10/23/iran-war-live-saudi-arabia-houthis/",
+    "ord_in_thread": 0,
+    "author": "The National",
+    "published": "2026-10-23T06:55:00.000+03:00",
+    "title": "Middle East latest: Saudi-led coalition intercepts wave of overnight attacks",
+    "text": "- Death toll from attack on Saudi Arabia's Dammam airport rises to two\n- Houthis also admit to launching attacks on Saudi Defence Ministry and Aramco site\n- Trump accuses Iran of driving up oil prices before US midterm elections\n- Saudi Arabia postpones UN global data forum to 2027\n- Centcom marks 100 days since 'steel wall naval blockade' against Iran\n- State Department issues departure order for non-emergency US workers and families in Saudi Arabia\nUpdated: October 23, 2026, 4:18 AM",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->diplomacy",
+        "Politics->international relations",
+        "Politics->political crisis"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Middle East",
+                "sentiment": "none"
+            },
+            {
+                "name": "Saudi Arabia",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dammam",
+                "sentiment": "none"
+            },
+            {
+                "name": "Iran",
+                "sentiment": "none"
+            },
+            {
+                "name": "US",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Saudi Defence Ministry",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Aramco",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": "2222.SR",
+                        "exchange": "Tadawul"
+                    }
+                ]
+            },
+            {
+                "name": "UN",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Centcom",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "State Department",
+                "sentiment": "negative",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_ae",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-23T07:21:20.021+03:00",
+    "updated": "2026-10-23T07:39:12.000+03:00",
+    "related_articles": null
+}

@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "5a61161503b35557e8b2862d2732e45388e6f2e1",
+        "url": "https://www.newdelhitimes.com/the-studio-is-the-defining-portrait-of-modern-hollywood",
+        "site_full": "www.newdelhitimes.com",
+        "site": "newdelhitimes.com",
+        "site_section": "https://www.newdelhitimes.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "New Delhi Times - New Delhi Times",
+        "site_title": "New Delhi Times - New Delhi Times",
+        "title": "Overview of 'The Studio' Series",
+        "title_full": "Overview of 'The Studio' Series",
+        "published": "2025-03-27T01:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://i0.wp.com/www.newdelhitimes.com/wp-content/uploads/2025/03/download-2-41.webp?fit=1440%2C1084&quality=80&ssl=1",
+        "performance_score": 0,
+        "domain_rank": 174627,
+        "domain_rank_updated": "2025-03-24T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5a61161503b35557e8b2862d2732e45388e6f2e1",
+    "url": "https://www.newdelhitimes.com/the-studio-is-the-defining-portrait-of-modern-hollywood",
+    "ord_in_thread": 0,
+    "author": "NDT Bureau",
+    "published": "2025-03-27T01:00:00.000+02:00",
+    "title": "Overview of 'The Studio' Series",
+    "text": "• Seth Rogen stars as Matt Remick, the head of the fictional Continental Studios.\n• The series 'The Studio' is a 10-episode show debuting on Apple TV+.\n• Rogen's character faces challenges in the film industry, including pressure to produce commercially viable content.\n• The show reflects contemporary Hollywood, contrasting with earlier films that depicted the industry in a more glamorous light.\n• Rogen and his collaborator, Goldberg, emphasize that the show is not a postmortem of Hollywood but rather a perspective of optimism amidst challenges.\n• The film industry is experiencing a decline in ticket sales, with a reported 6.9% decrease from the previous year and 38.6% from 2019, according to Comscore.\n• The industry is increasingly focused on intellectual property (IP) and franchises due to audience distractions from streaming and video games.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+        "Arts, Culture and Entertainment->series",
+        "Arts, Culture and Entertainment->culture",
+        "Arts, Culture and Entertainment->cinema"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": true,
+    "external_links": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Seth Rogen",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Matt Remick",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Goldberg",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Hollywood",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Comscore",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "Continental Studios",
+                "sentiment": "neutral",
+                "tickers": []
+            },
+            {
+                "name": "Apple",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "AAPL",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "IP",
+                "sentiment": "neutral",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ]
+    },
+    "rating": null,
+    "crawled": "2025-03-27T01:04:52.254+02:00",
+    "updated": "2025-03-27T01:04:52.254+02:00"
+}

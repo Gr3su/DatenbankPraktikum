@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "ef54a9f5892307e26165b27b3cf55b67ec34939a",
+        "url": "https://www.newsbreak.com/news/4635459834807-prescott-valley-to-review-tentative-town-budget",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/dewey-az",
+        "site_categories": [
+            "arts, culture and entertainment",
+            "economy, business and finance",
+            "politics",
+            "sport",
+            "lifestyle and leisure",
+            "crime, law and justice",
+            "human interest",
+            "under_construction"
+        ],
+        "section_title": "Dewey Humboldt, AZ Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Prescott Valley to Review Tentative Town Budget - NewsBreak",
+        "title_full": "Prescott Valley to Review Tentative Town Budget - NewsBreak",
+        "published": "2026-05-06T21:29:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/2JFPtJ_1B8nb86d00",
+        "performance_score": 0,
+        "domain_rank": 2952,
+        "domain_rank_updated": "2026-05-04T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ef54a9f5892307e26165b27b3cf55b67ec34939a",
+    "url": "https://www.newsbreak.com/news/4635459834807-prescott-valley-to-review-tentative-town-budget",
+    "ord_in_thread": 0,
+    "author": "Staff",
+    "published": "2026-05-06T21:29:00.000+03:00",
+    "title": "Prescott Valley to Review Tentative Town Budget - NewsBreak",
+    "text": "By Staff ,\n10 hours ago The Prescott Valley Town Council will hold a Study Session on Thursday, May 7, at 3pm in the Library Auditorium, located at 7401 E. Skoog Blvd. This session offers the community its first opportunity to hear a presentation by Town staff regarding the tentative budget for Fiscal Year 2026-27. In... Read full article\nRead in NewsBreak",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics"
+    ],
+    "topics": [
+        "Politics->local government and authority"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Prescott Valley",
+                "sentiment": "none"
+            },
+            {
+                "name": "Library Auditorium",
+                "sentiment": "none"
+            },
+            {
+                "name": "E. Skoog Blv",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Prescott Valley Town Council",
+                "sentiment": "negative",
+                "tickers": []
+            },
+            {
+                "name": "NewsBreak",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Dewey-Humboldt"
+            ],
+            "state": [
+                "Arizona"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-05-07T07:43:34.541+03:00",
+    "updated": "2026-05-07T07:45:44.000+03:00"
+}

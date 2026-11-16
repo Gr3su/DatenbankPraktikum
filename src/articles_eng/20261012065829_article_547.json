@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "1e012ab8390f590a2b26ef787533211d74d84aa2",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261008102704.htm",
+        "site_full": "www.sciencedaily.com",
+        "site": "sciencedaily.com",
+        "site_section": "http://www.sciencedaily.com/",
+        "site_categories": [
+            "space_astronomy",
+            "health",
+            "science",
+            "media",
+            "science and technology",
+            "education",
+            "cold_and_flu"
+        ],
+        "section_title": "ScienceDaily: Your source for the latest research news",
+        "site_title": "ScienceDaily: Your source for the latest research news",
+        "title": "October's night sky is full of cosmic tricks and treats | ScienceDaily",
+        "title_full": "October's night sky is full of cosmic tricks and treats | ScienceDaily",
+        "published": "2026-10-08T03:00:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.sciencedaily.com/images/1920/full-moon-behind-pecan-tree.webp",
+        "performance_score": 0,
+        "domain_rank": 1970,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "shares": 0,
+                "likes": 0,
+                "comments": 0
+            },
+            "vk": {
+                "shares": 0
+            },
+            "updated": "2026-10-09T04:17:50.000+00:00"
+        }
+    },
+    "uuid": "1e012ab8390f590a2b26ef787533211d74d84aa2",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261008102704.htm",
+    "ord_in_thread": 0,
+    "author": null,
+    "published": "2026-10-08T03:00:00.000+03:00",
+    "title": "October's night sky is full of cosmic tricks and treats | ScienceDaily",
+    "text": "October’s skies are packed with celestial surprises, from Jupiter disappearing behind the Moon to two meteor showers lighting up the darkness. NASA highlights four must-see events, including shooting stars from Halley’s Comet and a glowing Hunter’s Moon just before Halloween.",
+    "summary": "October is bringing a spectacular lineup of celestial events, including a disappearing planet, two meteor showers, and a bright full Moon just in time for Halloween. NASA has highlighted four events worth watching this month, ranging from Jupiter briefly vanishing behind the Moon to shooting stars created by debris from Halley's Comet. Jupiter, the largest planet in our solar system, slipped behind the Moon's slender crescent and remained hidden for approximately an hour before coming back into view.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology"
+    ],
+    "topics": [
+        "Science and Technology->aerospace engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Jupiter",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NASA",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "ScienceDaily",
+                "sentiment": "positive",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicated_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [
+            "top_news_iq",
+            "top_news"
+        ],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-10-09T07:17:41.422+03:00",
+    "updated": "2026-10-09T18:14:46.773+03:00",
+    "related_articles": null
+}

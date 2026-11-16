@@ -1,0 +1,125 @@
+{
+    "thread": {
+        "uuid": "d2ed701e64da33e5dc92ddbf1c3078f69567fe5c",
+        "url": "https://www.newsbreak.com/5-on-your-side-524539/4200846064749-cardinals-fall-to-pirates-2-1-despite-gray-s-strong-start",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://newsbreak.com/m/5-on-your-side-524539",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "5 On Your Side&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Cardinals fall to Pirates 2-1 despite Gray's strong start - NewsBreak",
+        "title_full": "Cardinals fall to Pirates 2-1 despite Gray's strong start - NewsBreak",
+        "published": "2025-08-28T07:16:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/1RmuZG_14BsFpRs00",
+        "performance_score": 0,
+        "domain_rank": 3213,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d2ed701e64da33e5dc92ddbf1c3078f69567fe5c",
+    "url": "https://www.newsbreak.com/5-on-your-side-524539/4200846064749-cardinals-fall-to-pirates-2-1-despite-gray-s-strong-start",
+    "ord_in_thread": 0,
+    "author": "5 On Your Side",
+    "published": "2025-08-28T07:16:00.000+03:00",
+    "title": "Cardinals fall to Pirates 2-1 despite Gray's strong start - NewsBreak",
+    "text": "13 minutes ago Tommy Pham hit a two-run single in the sixth inning to lead the Pittsburgh Pirates to a 2-1 victory over the St. Louis Cardinals on Wednesday night. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Sport",
+        "Human Interest",
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Sport->sport event",
+        "Sport->baseball",
+        "Sport->sports record"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gray",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Tommy Pham",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Pirates",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "St. Louis Cardinals",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-08-28T07:29:17.055+03:00",
+    "updated": "2025-08-28T07:33:18.000+03:00"
+}

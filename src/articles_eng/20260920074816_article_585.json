@@ -1,0 +1,152 @@
+{
+    "thread": {
+        "uuid": "c49b3aa0302b5da34327961e35f793177e1e6e70",
+        "url": "https://www.newsbreak.com/news/4890272339157-onalaska-man-accused-of-multiple-arsons-found-not-competent-committed-to-state-facility",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/ettrick-wi",
+        "site_categories": [
+            "sport",
+            "under_construction",
+            "lifestyle and leisure",
+            "human interest",
+            "economy, business and finance",
+            "social issue",
+            "politics",
+            "arts, culture and entertainment",
+            "crime, law and justice"
+        ],
+        "section_title": "Ettrick, WI Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Onalaska man accused of multiple arsons found not competent, committed to state facility - NewsBreak",
+        "title_full": "Onalaska man accused of multiple arsons found not competent, committed to state facility - NewsBreak",
+        "published": "2026-09-16T23:02:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/3ObOwB_1FDY7ZTp00",
+        "performance_score": 0,
+        "domain_rank": 3031,
+        "domain_rank_updated": null,
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c49b3aa0302b5da34327961e35f793177e1e6e70",
+    "url": "https://www.newsbreak.com/news/4890272339157-onalaska-man-accused-of-multiple-arsons-found-not-competent-committed-to-state-facility",
+    "ord_in_thread": 0,
+    "author": "Sam Shilts",
+    "published": "2026-09-16T23:02:00.000+03:00",
+    "title": "Onalaska man accused of multiple arsons found not competent, committed to state facility - NewsBreak",
+    "text": "By Sam Shilts ,\n9 hours ago LA CROSSE, Wis. (WKBT) — A judge has found an Onalaska man accused of setting multiple fires in July not competent to stand trial and ordered him committed. David Sheldon, 37, appeared Wednesday for a competency hearing in La Crosse County court. Judge Mark Huesmann found Sheldon incompetent and committed him to the Department of Health Services. The court ordered a review in 90 days. Read full article\n2",
+    "summary": null,
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice"
+    ],
+    "topics": [
+        "Crime, Law and Justice->crime",
+        "Crime, Law and Justice->arson"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.news8000.com/news/crime/onalaska-man-accused-of-multiple-arsons-found-not-competent-committed-to-state-facility/article_61a92d8a-ac7d-4b0a-bb0d-1a0d0539c74f.html",
+        "https://news8000.com/news/crime/onalaska-man-accused-of-multiple-arsons-found-not-competent-committed-to-state-facility/article_61a92d8a-ac7d-4b0a-bb0d-1a0d0539c74f.html"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sam Shilts",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "David Sheldon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mark Huesmann",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Onalaska",
+                "sentiment": "none"
+            },
+            {
+                "name": "La Crosse County",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Department of Health Services",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Ettrick"
+            ],
+            "state": [
+                "Wisconsin"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-17T08:12:46.824+03:00",
+    "updated": "2026-09-17T08:14:54.000+03:00"
+}

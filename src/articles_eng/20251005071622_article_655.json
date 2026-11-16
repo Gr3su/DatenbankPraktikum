@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "67d0d2841c710c4bd13247ace0f6f314d023fe05",
+        "url": "https://local.newsbreak.com/newsweek-500152/4268386176998-adl-issues-new-statement-after-kash-patel-cuts-ties",
+        "site_full": "local.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://local.newsbreak.com/newsweek-500152",
+        "site_categories": [],
+        "section_title": "Newsweek&#x27;s Home Page | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "ADL Issues New Statement After Kash Patel Cuts Ties - NewsBreak",
+        "title_full": "ADL Issues New Statement After Kash Patel Cuts Ties - NewsBreak",
+        "published": "2025-10-02T02:14:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/12Qqpa_15GviUYf00",
+        "performance_score": 0,
+        "domain_rank": 3714,
+        "domain_rank_updated": "2025-09-29T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "67d0d2841c710c4bd13247ace0f6f314d023fe05",
+    "url": "https://local.newsbreak.com/newsweek-500152/4268386176998-adl-issues-new-statement-after-kash-patel-cuts-ties",
+    "ord_in_thread": 0,
+    "author": "Robert Birsel",
+    "published": "2025-10-02T02:14:00.000+03:00",
+    "title": "ADL Issues New Statement After Kash Patel Cuts Ties - NewsBreak",
+    "text": "By Robert Birsel ,\n5 hours ago The ADL said it would be more committed than ever to its core purpose. Read full article\nRead in NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "topics": [
+        "Politics->political parties and movements",
+        "Social Issue->discrimination",
+        "Social Issue->social problem",
+        "Social Issue->diversity, equity and inclusion"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Robert Birsel",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "ADL",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-02T07:33:54.853+03:00",
+    "updated": "2025-10-02T07:37:45.000+03:00"
+}

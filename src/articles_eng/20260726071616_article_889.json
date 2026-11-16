@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "4787582721083db88b3f97ee1ed57ed064f97e50",
+        "url": "https://rethinkingsoftware.substack.com/p/how-agile-are-you-really",
+        "site_full": "rethinkingsoftware.substack.com",
+        "site": "substack.com",
+        "site_section": "https://hn.algolia.com/latest.atom",
+        "site_categories": [
+            "crime, law and justice"
+        ],
+        "section_title": "HN's home page",
+        "site_title": "Substack - A new economic engine for culture",
+        "title": "How Agile Are You Really?",
+        "title_full": "How Agile Are You Really?",
+        "published": "2026-07-23T07:39:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://substackcdn.com/image/fetch/$s_!JJSd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb093ee40-d05c-4761-abac-cddb2a86599f_1280x640.png",
+        "performance_score": 0,
+        "domain_rank": 459,
+        "domain_rank_updated": null,
+        "licensing_agency": [
+            "NLA"
+        ],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4787582721083db88b3f97ee1ed57ed064f97e50",
+    "url": "https://rethinkingsoftware.substack.com/p/how-agile-are-you-really",
+    "ord_in_thread": 0,
+    "author": "aard",
+    "published": "2026-07-23T07:39:00.000+03:00",
+    "title": "How Agile Are You Really?",
+    "text": "How Agile Are You Really?\nThree Helpful Criteria\nAgile is everywhere, especially in the world of software development. Unfortunately, the term ‘agile’ has become so overused that it risks losing all meaning. In an industry where everyone claims to be agile, how can we evaluate the quality of specific processes? What criteria can we use to measure agility?\nThe best place to start is with the founding documents: the Agile Manifesto and the Principles Behind the Agile Manifesto. These form the core of true agility and should guide any assessment. However, organizations have interpreted these documents in many conflicting ways. So, I thought some additional criteria could be useful.\nBelow are three overriding core practices of agile. If your organization doesn’t engage in these behaviors, then it is likely NOT agile. You can rate an organization’s agility by assigning a score from 1 to 5 for each practice. I have included both explanations and examples to help you determine the right score.\nOne more thing before you get started: it’s important that individual contributors, not management, do the evaluating. Since management is responsible for choosing and enforcing company processes, they’re likely to be biased in their favor. To get a more accurate rating, feedback should come from those at the ground level.\nGive it a try and see how your company is doing.\n1. Distributed Decision Making\nAgile should wrest control from the corporate hierarchy. It should push decision-making outward and downward to the software developers. We’ve entered an era of knowledge work where managers are often the least qualified to make technical decisions, simply because they’re furthest from day-to-day operations.\nWhen a group of developers met in Snowbird, Utah, in 2001 and agreed on values like “Individuals and interactions over processes and tools” and “Responding to change over following a plan,” they were championing distributed decision-making. Yet, today, managers are still enforcing processes, tools, and plans. Software is far too complex for anyone but individual contributor level developers to be making technical decisions. Agile was designed to put an end to the chain-of-command bottleneck.\nIs management still valuable? Absolutely. But its role must shift—from directive to supportive. Better yet, management duties can be distributed among team members, allowing managers to return to individual contributor roles. The fact that agile seems to be universally adopted might actually be a bad sign—power doesn’t give up that easily. Clearly, organizations are co-opting agile while leaving too much power in the hierarchy, and then cheerfully declaring their compliance to agile principles.\nSome forward-thinking companies, however, are embracing this shift. At Google, for instance, it’s not uncommon for managers to have 30 direct reports, making micromanagement impossible. With that many reports, managers simply don’t have the time or energy to interfere with distributed decision-making.\nAnother example is Morning Star, which has taken a more radical approach by eliminating managers altogether. Responsibilities like hiring, purchasing, setting salaries, strategy, and even firing are distributed among all workers. This and other manager-less experiments deserve the attention of the agile community. They’re showing us how to live up to the very principles agile was built on.\nHere are some concrete process examples along with their ratings:\nLevel 5\nEngineers choose and modify their own processes on a team-by-team basis.\nEngineers decide what to work on and who they work with.\nEngineers select their computer’s OS and have admin rights to their machines.\nThere are no titles. Each engineer has full authority over their own responsibilities. There is a notable absence of non-coding review and design teams/committees/roles.\nThere is a notable lack of company wide standardization. Even though teams tend to naturally converge on a handful of useful practices, they are allowed to experiment in many areas (i.e. languages, operating systems, deployment strategies, continuous integration strategies, code review requirements, libraries).\nLevel 3\nA standardized process is mandated for all engineers, but they can modify certain aspects of how they practice it.\nEngineers can provide input on what they work on and with whom, but management makes the final decision.\nEngineers are assigned an OS but have admin permissions.\nTitles are used for decision-making authority, though management takes engineering opinions into consideration. There are a minimal number of non-coding review and design teams/committees/roles.\nMany aspects of engineering are standardized across the whole organization (i.e. languages, operating systems, deployment strategies, continuous integration strategies, code review requirements, libraries).\nLevel 1\nA standardized process is mandated for all engineers, and they have no power to change it.\nEngineers are assigned work items and teams.\nEngineers must use a specific OS and do not have admin rights.\nTitles are heavily used to determine who makes technical decisions. Advancement mostly involves moving into non-coding review and design teams/committees/roles.\nMost aspects of engineering work are standardized (i.e. languages, operating systems, deployment strategies, continuous integration strategies, code review requirements, libraries).\n2. Close to the Customer\nYou’ve probably heard the saying: “the business decides what to build, and engineers decide how to build it.” But this is the opposite of how it should be. Agile pulls developers closer to customers and much deeper into the business side of things.\nThe practice of assigning a customer representative to engineering teams (often called a Product Owner) is problematic. Most product owners act as a barrier between developers and customers rather than as facilitators. This eliminates a direct line of communication, leading to less effective outcomes.\nCollaborating directly with customers can be uncomfortable for some developers, but this needs to change. Developers shouldn’t passively allow the product organization to take on this responsibility. In an agile organization, customer collaboration is central to a developer’s role.\nValve’s employee manual offers a prime example of a structure that embraces customer collaboration:\n…when you’re an entertainment company that’s spent the last decade going out of its way to recruit the most intelligent, innovative, talented people on Earth, telling them to sit at a desk and do what they’re told obliterates 99 percent of their value. We want innovators, and that means maintaining an environment where they’ll flourish.\n… This company is yours to steer — toward opportunities and away from risks. You have the power to green-light projects. You have the power to ship products.\nA flat structure removes every organizational barrier between your work and the customer enjoying that work. Every company will tell you that “the customer is boss,” but here that statement has weight. There’s no red tape stopping you from figuring out for yourself what our customers want, and then giving it to them.\nHere are some concrete process examples along with their ratings:\nLevel 5\nEngineers meet regularly with customers, asking questions and observing how they interact with the product. Engineers use these insights to direct their work.\nEngineers gain additional insights from Product Management, but they make the final product decisions themselves.\nLevel 3\nEngineers are occasionally involved in customer meetings.\nEngineers contribute some product direction but primarily work from a backlog defined by Product Management.\nLevel 1\nEngineers never meet with customers.\nEngineers take direction solely from customer proxies, like Scrum Product Owners.\n3. Release Early and Often\nTo respond quickly to change, you can’t afford to spend too much time on the wrong path. The agile way to avoid this pitfall is to present intermediate results to customers early and often, adjusting your direction accordingly.\nSeveral of the Principles behind the Agile Manifesto support this approach:\nOur highest priority is to satisfy the customer through early and continuous delivery of valuable software.\nWelcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.\nDeliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\nWorking software is the primary measure of progress.\nSimplicity — the art of maximizing the amount of work not done — is essential.\nDevelopers should meet with customers regularly to present their progress. However, the practice of sprints or iterations distorts this principle. The distinction is subtle but crucial.\nSprints or iterations—which are used in almost every agile implementation I’ve encountered—miss the point in practice. Software should be released frequently to evaluate progress, not to impose artificial deadlines or apply scientific management techniques to optimize developer output.\nTo “deliver software frequently” simply means demonstrating progress every “couple of weeks to a couple of months.” It doesn’t imply a fixed delivery cadence or target scope, as sprints do. Sprints are an attempt to reintroduce the unhealthy planning and estimation practices that the agile movement originally condemned. The many ceremonies tied to sprints—such as burn-down/up charts, cycle time calculations, story points, estimations, and velocity—are agile anti-patterns.\nThe most compelling example of releasing early and often comes from the Open Source software movement, one of the most impressive distributed volunteer enterprises in history. Thousands of developers release software improvements daily, gather feedback, and even solicit help from users—this is the epitome of customer collaboration. The sheer volume and quality of free, open-source software in use today is remarkable.\nHere are some concrete process examples along with their ratings:\nLevel 5\nEngineers demo their work frequently.\nEngineers decide when to demo based on the progress of their work. There is no artificially imposed release cadence. Engineers might demo every day for a week, then take a week before the next demo.\nEngineers determine how much polish is necessary for a demo. Some demos may be “rough sketches” or prototypes to gather feedback before investing too much time in implementation, while others are finished products.\nProcess metrics are used only within the team and are not reported to management.\nLevel 3\nEngineers demo their work at a regularly scheduled demo meeting aligned with a fixed, repeating sprint duration, which is mandated by management.\nDemoed software must always be polished and meet a pre-defined “definition of done.”\nThere are a handful of process metrics reported to management about each team.\nLevel 1\nEngineers demo their work infrequently, at intervals longer than a couple of months.\nProcess metrics are reported to management and used aggressively to drive productivity.\nHow did your organization score?\nI hope it ranked high, and if so, you’re in a fortunate position. But don’t be discouraged if the score was on the lower end. Unfortunately, most companies today fall short in terms of true agility, despite what they might claim. The key is to focus on levels of agility, rather than on whether an organization merely professes to be agile. By doing so, we can push for improvements that will make working conditions better for all of us.",
+    "summary": "We’ve entered an era of knowledge work where managers are often the least qualified to make technical decisions, simply because they’re furthest from day-to-day operations. When a group of developers met in Snowbird, Utah, in 2001 and agreed on values like “Individuals and interactions over processes and tools” and “Responding to change over following a plan,” they were championing distributed decision-making.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business reporting and performance",
+        "Economy, Business and Finance->business information",
+        "Economy, Business and Finance->business strategy and marketing"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://agilemanifesto.org/principles.html",
+        "https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf",
+        "https://hbr.org/2011/12/first-lets-fire-all-the-managers",
+        "https://agilemanifesto.org/",
+        "https://www.corporate-rebels.com/bucketlist",
+        "https://hbr.org/2013/12/how-google-sold-its-engineers-on-management",
+        "https://www.hbr.org/2011/12/first-lets-fire-all-the-managers",
+        "https://www.agilemanifesto.org/principles.html",
+        "https://www.hbr.org/2013/12/how-google-sold-its-engineers-on-management",
+        "https://www.agilemanifesto.org/",
+        "https://www.steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf",
+        "https://corporate-rebels.com/bucketlist",
+        "https://agilemanifesto.org"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-07-23T07:49:41.875+03:00",
+    "updated": "2026-07-23T11:26:59.000+03:00"
+}

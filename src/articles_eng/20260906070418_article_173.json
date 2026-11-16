@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "3ce2be243791e99f4f2eac86370521f2bfa57761",
+        "url": "https://howtosystemdesigneverything.substack.com/p/top-question-asked-by-google-microsoft-bea",
+        "site_full": "howtosystemdesigneverything.substack.com",
+        "site": "substack.com",
+        "site_section": "https://howtosystemdesigneverything.substack.com/feed",
+        "site_categories": [
+            "science and technology"
+        ],
+        "section_title": "How to System Design ( with System Design Case Studies)",
+        "site_title": "Substack",
+        "title": "[Top Question - Asked by Google, Microsoft, Amazon #48] Design an Ad Ranking / Click Prediction System at Scale - How It Actually Works",
+        "title_full": "[Top Question - Asked by Google, Microsoft, Amazon #48] Design an Ad Ranking / Click Prediction System at Scale - How It Actually Works",
+        "published": "2026-09-03T05:30:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://substackcdn.com/image/fetch/$s_!1R-S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9975b254-9069-4352-9155-eed4a3419ca9_1024x559.png",
+        "performance_score": 0,
+        "domain_rank": 439,
+        "domain_rank_updated": null,
+        "licensing_agency": [
+            "NLA"
+        ],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3ce2be243791e99f4f2eac86370521f2bfa57761",
+    "url": "https://howtosystemdesigneverything.substack.com/p/top-question-asked-by-google-microsoft-bea",
+    "ord_in_thread": 0,
+    "author": "Naina Chaturvedi",
+    "published": "2026-09-03T05:30:00.000+03:00",
+    "title": "[Top Question - Asked by Google, Microsoft, Amazon #48] Design an Ad Ranking / Click Prediction System at Scale - How It Actually Works",
+    "text": "Google Shows You an Ad in 8 Milliseconds — And It Just Beat 10,000 Other Ads to Get There\nThis is deep dive on how such systems are built and how it actually works —\nEvery ad you see on a search results page, a social feed, or a video pre-roll just won a real-time auction against thousands of competitors — decided, scored, and rendered in single-digit milliseconds. Underneath that one ad slot sits a multi-stage machine learning pipeline: candidate retrieval, click-probability prediction, bid scoring, an auction mechanism, and a feedback loop that retrains itself on the outcome of every impression. Get the click-probability estimate wrong by a few percentage points at scale, and you either bankrupt advertisers with wasted spend or leave billions of dollars of ad revenue on the table.\nIn this post wee design that system the way you’d actually be asked to in a senior/staff ML system-design interview or a real production planning doc: requirements first, then ML framing, then architecture, then every component torn open, then trade-offs, then “what breaks and how do we survive it.”\nTable of Contents\n1. Clarifying Requirements\nFunctional Requirements\nNon-Functional Requirements\n2. Frame the Problem as an ML Task\nDefining the ML objective\nSpecifying the system’s input and output\nTraffic estimation and data calculation\nChoosing the right ML category\n3. High-Level Architecture\n4. Detailed Components Design\n4.1 Data Preparation\n4.2 Model Development\n4.3 Evaluation\n4.4 Serving\n5. Trade-off Discussion\n6. Failure Scenario Discussion\nEnd Thought\nRead and Access all the Top and Most Asked System Design Case Study Posts :\nIs Your Phone Listening? How Meta Targets Ads in Real Time — How It Actually Works\nMassive Billions of Personalized Recommendations in Real-Time: How Instagram Scaling Actually Works\n 100+ Million Requests per Minute: Amazon Shopping Cart System — How It Actually Works\nTrillions of Edges: How Facebook’s EdgeRank Computes Friendships Instantly — How It Actually Works\nMillions of Listings: How Airbnb’s Semantic Search Understands What You Want — How It Actually Works\n Trillions of Queries: How Google’s Search & PageRank Scales Exponentially — How It Actually Works\nStart System Design ( With all the case Studies) : Start here\nSupport my work and Patreon : Link\n1. Clarifying Requirements\nBefore drawing a single box, we pin down what “good” means. An ad ranking system without explicit latency, revenue, and fairness targets is not a system — it’s a demo that will bankrupt someone’s ad budget on day one.\nFunctional Requirements\nAd request handling — given a user, a page/app context (search query, feed position, video), and a pool of eligible ads, return a ranked set of ads (typically 1–4 slots) to render, within the page-load critical path.\nClick-through-rate (CTR) prediction — for every candidate ad in context, estimate the probability the user will click it (pCTR), which feeds directly into the auction.\nConversion-rate prediction (pCVR) — for advertisers bidding on conversions (purchases, sign-ups) rather than clicks, estimate probability of downstream conversion given a click, since the two are optimized differently and the second is far sparser data.",
+    "summary": "Underneath that one ad slot sits a multi-stage machine learning pipeline: candidate retrieval, click-probability prediction, bid scoring, an auction mechanism, and a feedback loop that retrains itself on the outcome of every impression. Get the click-probability estimate wrong by a few percentage points at scale, and you either bankrupt advertisers with wasted spend or leave billions of dollars of ad revenue on the table.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "neutral",
+    "categories": [
+        "Economy, Business and Finance"
+    ],
+    "topics": [
+        "Economy, Business and Finance->business strategy and marketing"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+        "https://patreon.com/HowtoSystemDesign?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+        "https://medium.com/coders-mojo/complete-system-design-series-part-1-45bf9c8654bc",
+        "https://www.patreon.com/HowtoSystemDesign?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+        "https://www.medium.com/coders-mojo/complete-system-design-series-part-1-45bf9c8654bc",
+        "https://patreon.com/HowtoSystemDesign"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Amazon",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "AMZN",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Google",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "GOOG",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "Microsoft",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": "MSFT",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "left",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-09-03T07:08:45.295+03:00",
+    "updated": "2026-09-03T07:10:47.000+03:00"
+}

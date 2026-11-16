@@ -1,0 +1,140 @@
+{
+    "thread": {
+        "uuid": "4120d6ed62f60be1139ea99913a35137521d6ed4",
+        "url": "https://www.world-today-news.com/openais-massive-deals-nvidia-amd-and-more-to-come/",
+        "site_full": "www.world-today-news.com",
+        "site": "world-today-news.com",
+        "site_section": "https://world-today-news.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World Today News - www.world-today-news.com",
+        "site_title": "World Today News - www.world-today-news.com/",
+        "title": "OpenAI's Massive Deals: Nvidia, AMD, and More to Come",
+        "title_full": "OpenAI's Massive Deals: Nvidia, AMD, and More to Come",
+        "published": "2025-10-09T04:40:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+        "performance_score": 0,
+        "domain_rank": 127314,
+        "domain_rank_updated": "2025-10-06T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4120d6ed62f60be1139ea99913a35137521d6ed4",
+    "url": "https://www.world-today-news.com/openais-massive-deals-nvidia-amd-and-more-to-come/",
+    "ord_in_thread": 0,
+    "author": "Rachel Kim - Technology Editor",
+    "published": "2025-10-09T04:40:00.000+03:00",
+    "title": "OpenAI's Massive Deals: Nvidia, AMD, and More to Come",
+    "text": "OpenAI Signals further Expansion with More Major Infrastructure Deals on teh Horizon SAN FRANCISCO, CA – OpenAI is poised ​too announce additional large-scale infrastructure partnerships in the coming ​months, according to CEO Sam Altman,​ following recent agreements with Nvidia , AMD , and cloud⁣ providers ⁣like Oracle and Stargate. These deals, already‌ totaling an estimated $1 trillion, ⁣are fueling‍ a massive⁣ AI boom but are⁣ also drawing scrutiny for thier unconventional financing‌ structures.\nThe recent Nvidia deal,similar to one ⁤struck with AMD,has been described as “circular” by critics,who ⁢point out that Nvidia is effectively financing OpenAI’s hardware purchases​ in exchange⁤ for equity in the AI startup. Bloomberg reported on these concerns, highlighting that nvidia is underwriting OpenAI’s acquisitions and receiving OpenAI stock as a result.\nAltman addressed ⁣these‌ deals‌ during a⁢ recent interview with Andreessen Horowitz’s (a16z) podcast, where ⁣a16z co-founder ‌Ben ⁤Horowitz praised the “deal structure improvement.” Horowitz’s firm is an‌ investor in OpenAI. Altman stated, “You should ⁣expect much more from us in the coming months.”\nHe explained‌ that OpenAI is making an “aggressive infrastructure bet” based on the anticipated capabilities of its future models and⁤ products, which are expected⁢ to drive notable demand. While OpenAI’s ⁤current revenue-reportedly $4.5 billion in the ⁢first half of 2025, according to Reuters-doesn’t yet match the‌ scale of these investments, Altman ⁣expressed confidence in the future economic value of its research roadmap.\n“I’ve never been more confident in the ⁣research road map in front of us and also the economic value that will come from using those [future] models,” Altman said. He emphasized the need for broad industry‍ support ‌to realize this vision, stating, “To ​make the bet at this scale, we kind of need the whole industry, or big chunk of the industry, to support it…So we’re going to partner with a lot of people.”\nOpenAI’s‍ continued pursuit of these partnerships signals an ongoing strategy of leveraging external resources to accelerate its AI development and deployment. The company⁤ is actively seeking collaborations across the entire technology stack, “from the level of electrons ⁣to⁢ model distribution and all the ‍stuff‍ in between.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "topics": [
+        "Science and Technology->scientific innovation",
+        "Science and Technology->information technology and computer science",
+        "Economy, Business and Finance->business financing",
+        "Economy, Business and Finance->business and market analysis",
+        "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Andreessen Horowitz",
+                "sentiment": "none"
+            },
+            {
+                "name": "‌Ben ⁤Horowitz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sam Altman",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "Bloomberg",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Nvidia",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "NVDA",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            },
+            {
+                "name": "AMD",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": "AMD",
+                        "exchange": "NASDAQ"
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": null,
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-10-09T07:21:50.728+03:00",
+    "updated": "2025-10-09T07:32:08.000+03:00"
+}

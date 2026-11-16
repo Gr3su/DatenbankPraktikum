@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "f9db433706024f725f6b0baaa6b12198b1c32d7f",
+        "url": "https://guardian.ng/politics/2027-cpc-bloc-to-form-nationwide-movement-for-tinubu/",
+        "site_full": "guardian.ng",
+        "site": "guardian.ng",
+        "site_section": "https://www.latestnigeriannews.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Latest Nigerian News - Nigerian Newspapers - Online Nigeria News",
+        "site_title": "Homepage | The Guardian Nigeria News - Nigeria and World News",
+        "title": "2027: CPC bloc to form nationwide movement for Tinubu",
+        "title_full": "2027: CPC bloc to form nationwide movement for Tinubu",
+        "published": "2025-09-04T03:58:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "https://cdn.guardian.ng/wp-content/uploads/2024/08/Tajudeen-Abbas-1.jpg",
+        "performance_score": 0,
+        "domain_rank": 4824,
+        "domain_rank_updated": "2025-06-03T00:00:00.000+03:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f9db433706024f725f6b0baaa6b12198b1c32d7f",
+    "url": "https://guardian.ng/politics/2027-cpc-bloc-to-form-nationwide-movement-for-tinubu/",
+    "ord_in_thread": 0,
+    "author": "Amos",
+    "published": "2025-09-04T03:58:00.000+03:00",
+    "title": "2027: CPC bloc to form nationwide movement for Tinubu",
+    "text": "Speaker of the House of Representatives, Tajudeen Abbas, has declared that members of the defunct Congress for Progressive Change (CPC) within the All Progressives Congress (APC) would raise a nationwide movement to ensure President Bola Tinubu’s re-election in 2027.\nAbbas, who spoke after a meeting with the President at the Presidential Villa, Abuja, yesterday, assured the Nigerian leader of the “unconditional support” of former CPC members, dismissing claims that the bloc was divided or indifferent to the current administration.\nHe disclosed that the group will launch ‘Former CPC Members for Asiwaju’ across the federation to mobilise support at state, local government, ward, and polling unit levels ahead of the next general elections.\nThe Speaker, who entered the House in 2011 on the CPC platform, said all erstwhile CPC members, who joined hands with other legacy political parties to form the APC in 2013, will continue to support the Tinubu administration.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tajudeen Abbas",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Bola Tinubu",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [],
+        "organizations": [
+            {
+                "name": "CPC",
+                "sentiment": "negative",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "House of Representatives",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "APC",
+                "sentiment": "none",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": null,
+            "city": null,
+            "state": null,
+            "country": null,
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2025-09-04T07:36:39.835+03:00",
+    "updated": "2025-09-04T07:37:17.000+03:00"
+}

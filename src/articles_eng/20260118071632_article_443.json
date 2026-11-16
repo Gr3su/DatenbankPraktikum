@@ -1,0 +1,132 @@
+{
+    "thread": {
+        "uuid": "047697dc406bafe57ba2ac4b4231361628e85b05",
+        "url": "https://www.newsbreak.com/news/4440708626214-millstadt-residents-asked-to-cut-back-on-water-use-after-fire",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/evansville-il",
+        "site_categories": [
+            "under_construction",
+            "arts, culture and entertainment",
+            "human interest",
+            "lifestyle and leisure",
+            "economy, business and finance",
+            "crime, law and justice",
+            "politics",
+            "sport"
+        ],
+        "section_title": "Evansville, IL Local News and More | NewsBreak",
+        "site_title": "NewsBreak: Local News &amp; Alerts",
+        "title": "Millstadt residents asked to cut back on water use after fire - NewsBreak",
+        "title_full": "Millstadt residents asked to cut back on water use after fire - NewsBreak",
+        "published": "2026-01-14T00:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.particlenews.com/img/id/0ZwHxJ_181YljLL00",
+        "performance_score": 0,
+        "domain_rank": 2819,
+        "domain_rank_updated": "2026-01-11T23:00:00.000+02:00",
+        "licensing_agency": [],
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "047697dc406bafe57ba2ac4b4231361628e85b05",
+    "url": "https://www.newsbreak.com/news/4440708626214-millstadt-residents-asked-to-cut-back-on-water-use-after-fire",
+    "ord_in_thread": 0,
+    "author": "First Alert 4 Staff",
+    "published": "2026-01-14T00:38:00.000+02:00",
+    "title": "Millstadt residents asked to cut back on water use after fire - NewsBreak",
+    "text": "By First Alert 4 Staff ,\n1 days ago MILLSTADT, Ill. (First Alert 4) - A water treatment plant caught fire in Millstadt on Tuesday afternoon. According to the Millstadt Ambulance Service, the fire broke out at the Village of Millstadt Wastewater Treatment Facility on E. Laurel before 4:30 p.m. Residents were asked to stay clear of the area while first responders work to put out the flames. Read full article\nRead in NewsBreak 3",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Disaster and Accident",
+        "Environment"
+    ],
+    "topics": [
+        "Disaster and Accident->fire",
+        "Disaster and Accident->emergency response",
+        "Environment->water",
+        "Environment->sustainability"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+        "persons": [],
+        "locations": [
+            {
+                "name": "Village of Millstadt Wastewater Treatment Facility",
+                "sentiment": "none"
+            },
+            {
+                "name": "E. Laurel",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NewsBreak",
+                "sentiment": "neutral",
+                "tickers": [
+                    {
+                        "ticker": null,
+                        "exchange": null
+                    }
+                ]
+            },
+            {
+                "name": "Millstadt Ambulance Service",
+                "sentiment": "none",
+                "tickers": []
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "trust": {
+        "categories": [
+            "fake_news"
+        ],
+        "top_news": [],
+        "bias": "center",
+        "source": {
+            "type": "local_news",
+            "city": [
+                "Evansville"
+            ],
+            "state": [
+                "Illinois"
+            ],
+            "country": [
+                "US"
+            ],
+            "domain_type": null,
+            "agency": null,
+            "organization_name": null
+        }
+    },
+    "rating": null,
+    "crawled": "2026-01-15T07:27:16.197+02:00",
+    "updated": "2026-01-15T07:31:25.000+02:00"
+}
