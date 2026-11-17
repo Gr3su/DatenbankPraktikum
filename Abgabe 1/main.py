@@ -6,7 +6,8 @@ def create_table():
     with psycopg.connect("user=postgres password=postgres host=localhost") as conn:
         with conn.cursor() as cur:
             cur.execute("CREATE TABLE IF NOT EXISTS articles(" \
-                        "article jsonb NOT NULL)")
+                        "article jsonb NOT NULL,"
+                        "isEnglishArticle boolean)")
             conn.commit()
 
 def import_spiegel_articles():

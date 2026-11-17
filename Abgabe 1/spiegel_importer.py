@@ -12,7 +12,7 @@ def import_articles():
                 with open(path, encoding="utf-8") as f:
                     d = json.load(f)
                 print("Inserting Article with id: " + d["id"])
-                cur.execute("INSERT INTO articles (article) VALUES (%s)", [Jsonb(d)])
+                cur.execute("INSERT INTO articles (article, isEnglishArticle) VALUES (%s, false)", [Jsonb(d)])
 
             conn.commit()
 

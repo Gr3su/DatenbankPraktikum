@@ -11,9 +11,8 @@ def import_articles():
             for path in Path("../src/articles_eng").glob("*.json"):
                 with open(path, encoding="utf-8") as f:
                     d = json.load(f)
-                print("Inserting JSON with id: " + d["id"])
-                raise NotImplementedError()
-                cur.execute("INSERT INTO articles (article) VALUES (%s)", [Jsonb(d)])
+                print("Inserting JSON with id: " + d["uuid"])
+                cur.execute("INSERT INTO articles (article, isEnglishArticle) VALUES (%s, true)", [Jsonb(d)])
 
             conn.commit()
 
