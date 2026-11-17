@@ -8,11 +8,13 @@ from psycopg.types.json import Jsonb
 def import_articles():
     with psycopg.connect("host=localhost dbname=postgres user=postgres password=postgres") as conn:
         with conn.cursor() as cur:
+            rows = []
             for path in Path("../src/articles").glob("*.json"):
                 with open(path, encoding="utf-8") as f:
-                    d = json.load(f)
-                print("Inserting Article with id: " + d["id"])
-                cur.execute("INSERT INTO articles (article, isEnglishArticle) VALUES (%s, false)", [Jsonb(d)])
+                    rows.append((Jsonb(json.load(f)),))
+            
+            print(f"{len(rows)} Artikel geladen. Starte Datenbank-Import...")
+            cur.executemany("INSERT INTO articles (article, isEnglishArticle) VALUES (%s, false)", rows)
 
             conn.commit()
 
