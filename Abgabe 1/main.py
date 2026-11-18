@@ -21,7 +21,7 @@ while True:
     print("[0] Beenden")
     print("[1] Tabelle für Artikel erstellen")
     print("[2] Spiegel-Artikel importieren")
-    print("[4] Englische-Artikel importieren")
+    print("[3] Englische-Artikel importieren")
 
     choice = input("Bitte wähle eine Option: ")
 
@@ -34,6 +34,6 @@ while True:
     elif choice == "2":
         import_spiegel_articles()
         print("Spiegel-Artikel wurden importiert.")
-    elif choice == "4":
+    elif choice == "3":
         import_english_articles()
         print("Englische-Artikel wurden importiert.")
