@@ -5,7 +5,12 @@
     1. Auf selber Ebene von Ordner **Abgabe 1** Ordner **src** erstellen
     2. In **src** Ordner **articles** erstellen und Spiegel Artikel hinein kopieren
     3. In **src** Ordner **articles_eng** erstellen und Englische Artikel mit den folgenden Schritten importieren
-        1. TODO: Ruben Datei Import
+        1. https://github.com/Webhose/fake-news-dataset auschecken
+        2. Alle Dateien entzippen
+        3. Da die Dateien innerhalb der verschiedenen Ordner gleich benannt sind ("article_1" etc.), müssen sie umbenannt werden, um später im selben Kontext verwendet werden zu können. Hier bietet sich die Konkatination mit dem Namen des darüberliegenden Ordners an, in dem eine Datei liegt, da dieser eindeutig ist.
+        4. Alle Dateien in einen Ordner verschieben
+        5. Da der Datensatz eine Vielzahl von Dateien in anderen Sprachen als Englisch enthält, müssen die englischsprachigen Artikel herausgefiltert werden. Das wurde mit einem Filter über das JSON-tag "language": "english" erreicht.
+        6. Datensatz in **articles_eng** kopieren
 2. **python main.py** ausführen
 3. Mittels Dialogfenster:
     1. Tabellen erstellen
