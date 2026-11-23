@@ -163,3 +163,56 @@ SELECT
     END AS mehrheit
 FROM monthly_counts
 ORDER BY datum DESC;
+
+
+
+-- grouping articles by publication date at different granularities (hour, day, week, ...)
+-- Gruppiert nach exaktem match.
+SELECT COUNT(*) as Anzahl, a.article -> 'date_published'
+FROM articles a
+WHERE isenglisharticle = false
+GROUP BY a.article -> 'date_published'
+ORDER BY Anzahl DESC;
+-- ORDER BY a.article -> 'date_published' DESC;
+
+-- Gruppiert nach Tag.
+SELECT COUNT(*) as Anzahl, date(a.article ->> 'date_published')
+FROM articles a
+WHERE isenglisharticle = false
+GROUP BY date(a.article ->> 'date_published')
+--ORDER BY date(a.article ->> 'date_published');
+ORDER BY Anzahl DESC;
+
+-- Gruppiert nach Monat.
+SELECT COUNT(*)                                                          as Anzahl,
+       date_trunc('month', (a.article ->> 'date_published')::timestamptz) AS zeitraum
+FROM articles a
+WHERE isenglisharticle = false
+GROUP BY zeitraum
+ORDER BY Zeitraum;
+
+-- Gruppiert nach woche.
+SELECT COUNT(*)                                                          as Anzahl,
+       date_trunc('week', (a.article ->> 'date_published')::timestamptz) AS zeitraum
+FROM articles a
+WHERE isenglisharticle = false
+GROUP BY zeitraum
+ORDER BY Zeitraum;
+
+-- Gruppiert nach Tag.
+SELECT COUNT(*)                                                          as Anzahl,
+       date_trunc('day', (a.article ->> 'date_published')::timestamptz) AS zeitraum
+FROM articles a
+WHERE isenglisharticle = false
+GROUP BY zeitraum
+--ORDER BY Zeitraum;
+ORDER BY Anzahl DESC;
+
+-- Gruppiert nach hour.
+SELECT COUNT(*)                                                          as Anzahl,
+       date_trunc('hour', (a.article ->> 'date_published')::timestamptz) AS zeitraum
+FROM articles a
+WHERE isenglisharticle = false
+GROUP BY zeitraum
+--ORDER BY Zeitraum;
+ORDER BY Anzahl DESC;
