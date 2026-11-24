@@ -11,8 +11,9 @@
         4. Alle Dateien in einen Ordner verschieben
         5. Da der Datensatz eine Vielzahl von Dateien in anderen Sprachen als Englisch enthält, müssen die englischsprachigen Artikel herausgefiltert werden. Das wurde mit einem Filter über das JSON-tag "language": "english" erreicht.
         6. Datensatz in **articles_eng** kopieren
-2. **python main.py** ausführen
-3. Mittels Dialogfenster:
+2. Falls der Docker Container mit der Datenbank nicht "docker-db-1" heißt muss die Variable **DOCKER_CONTAINER_NAME** in **main.py** entsprechend umbenannt werden
+3. **python main.py** ausführen
+4. Mittels Dialogfenster:
     1. Tabellen erstellen
     2. Daten importieren
     
