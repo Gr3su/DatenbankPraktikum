@@ -72,7 +72,6 @@ def start_pgbench_dialog():
         print("\n#####\npgbench Dialog\n#####\n")
         print("[0] Beenden")
         print("[1] Benchmarks auflisten und ausführen")
-        print("[2] pgbench ausführen")
 
         choice = input("Bitte wähle eine Option: ")
 
