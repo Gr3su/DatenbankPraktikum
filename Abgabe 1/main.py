@@ -67,11 +67,66 @@ def execute_pgbench(benchmark_file, clients: int = 10, jobs: int = 4, duration: 
         print("Fehler beim Ausführen von pgbench:")
         print(e.stderr)
 
+def explain_benchmark(benchmark_file):
+    sql_content = benchmark_file.read_text(encoding="utf-8").strip().rstrip(";")
+    try:
+        with psycopg.connect("user=postgres password=postgres host=localhost") as conn:
+            with conn.cursor() as cur:
+                cur.execute(f"EXPLAIN (ANALYZE, BUFFERS) {sql_content}")
+                for row in cur.fetchall():
+                    print(row[0])
+            conn.rollback()
+    except psycopg.Error as e:
+        print("Fehler beim Ausführen von EXPLAIN:")
+        print(e)
+
+def apply_optimizations():
+    BASE_DIR = Path(__file__).resolve().parent
+    folder = BASE_DIR / "optimizations"
+
+    scripts = sorted(f for f in folder.glob("*.sql") if f.is_file()) if folder.is_dir() else []
+    if not scripts:
+        print("Keine Optimierungsskripte im Ordner 'optimizations' gefunden.")
+        return
+
+    print("Verfügbare Optimierungsskripte:")
+    for i, f in enumerate(scripts):
+        print(f"[{i}] {f.name}")
+    print("[a] Alle ausführen")
+
+    choice = input("Bitte wähle ein Skript aus: ").strip().lower()
+    if choice == "a":
+        selected = scripts
+    else:
+        try:
+            selected = [scripts[int(choice)]]
+        except (ValueError, IndexError):
+            print("Ungültige Auswahl.")
+            return
+
+    # autocommit, damit z.B. CREATE INDEX CONCURRENTLY funktioniert
+    try:
+        with psycopg.connect("user=postgres password=postgres host=localhost", autocommit=True) as conn:
+            for script in selected:
+                print(f"Führe {script.name} aus...")
+                try:
+                    conn.execute(script.read_text(encoding="utf-8"))
+                    print(f"{script.name} erfolgreich ausgeführt.")
+                except psycopg.Error as e:
+                    print(f"Fehler in {script.name}:")
+                    print(e)
+                    break
+    except psycopg.Error as e:
+        print("Fehler bei der Datenbankverbindung:")
+        print(e)
+
 def start_pgbench_dialog():
     while True:
         print("\n#####\npgbench Dialog\n#####\n")
         print("[0] Beenden")
         print("[1] Benchmarks auflisten und ausführen")
+        print("[2] Benchmark mit EXPLAIN ANALYZE analysieren")
+        print("[3] Optimierungen ausführen")
 
         choice = input("Bitte wähle eine Option: ")
 
@@ -82,6 +137,12 @@ def start_pgbench_dialog():
             benchmark = read_benchmarks()
             print(f"Führe Benchmark {benchmark.name} aus...")
             execute_pgbench(benchmark)
+        elif choice == "2":
+            benchmark = read_benchmarks()
+            print(f"Führe EXPLAIN ANALYZE für {benchmark.name} aus...")
+            explain_benchmark(benchmark)
+        elif choice == "3":
+            apply_optimizations()
         else:
             print("Ungültige Option. Bitte wähle erneut.")
 
