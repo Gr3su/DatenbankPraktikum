@@ -26,7 +26,7 @@ def read_benchmarks():
     benchmarks = BASE_DIR / "benchmarks"
     
     benchmark_files = [file for file in benchmarks.iterdir() if file.is_file()]
-    print("Verfügbare Benchmark-Dateien:")
+    print("\nVerfügbare Benchmark-Dateien:")
     for i, f in enumerate(benchmark_files):
         print(f"[{i}] {f.name}")
 
@@ -86,10 +86,10 @@ def apply_optimizations():
 
     scripts = sorted(f for f in folder.glob("*.sql") if f.is_file()) if folder.is_dir() else []
     if not scripts:
-        print("Keine Optimierungsskripte im Ordner 'optimizations' gefunden.")
+        print("\nKeine Optimierungsskripte im Ordner 'optimizations' gefunden.")
         return
 
-    print("Verfügbare Optimierungsskripte:")
+    print("\nVerfügbare Optimierungsskripte:")
     for i, f in enumerate(scripts):
         print(f"[{i}] {f.name}")
     print("[a] Alle ausführen")
@@ -122,7 +122,7 @@ def apply_optimizations():
 
 def start_pgbench_dialog():
     while True:
-        print("\n#####\npgbench Dialog\n#####\n")
+        print("\n#####\npgbench Dialog\n#####")
         print("[0] Beenden")
         print("[1] Benchmarks auflisten und ausführen")
         print("[2] Benchmark mit EXPLAIN ANALYZE analysieren")
@@ -147,7 +147,7 @@ def start_pgbench_dialog():
             print("Ungültige Option. Bitte wähle erneut.")
 
 while True:
-    print("\n#####\nHauptmenü\n#####\n")
+    print("\n#####\nHauptmenü\n#####")
     print("[0] Beenden")
     print("[1] Tabelle für Artikel erstellen")
     print("[2] Spiegel-Artikel importieren")
