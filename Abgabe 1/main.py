@@ -120,6 +120,21 @@ def apply_optimizations():
         print("Fehler bei der Datenbankverbindung:")
         print(e)
 
+def read_pgbench_parameters():
+    try:
+        skip = input("Möchtest du die Standardwerte für Clients (10), Jobs (4) und Dauer (30) verwenden? (j/n): ").strip().lower()
+        if skip == "j" or skip == "":
+            clients, jobs, duration = 10, 4, 30
+        else:
+            clients = int(input("Anzahl der Clients (Standard: 10): "))
+            jobs = int(input("Anzahl der Jobs (Standard: 4): "))
+            duration = int(input("Dauer in Sekunden (Standard: 30): "))
+    except ValueError:
+        print("Ungültige Eingabe. Verwende Standardwerte.")
+        clients, jobs, duration = 10, 4, 30
+
+    return clients, jobs, duration
+
 def start_pgbench_dialog():
     while True:
         print("\n#####\npgbench Dialog\n#####")
@@ -135,8 +150,9 @@ def start_pgbench_dialog():
             break
         elif choice == "1":
             benchmark = read_benchmarks()
+            clients, jobs, duration = read_pgbench_parameters()
             print(f"Führe Benchmark {benchmark.name} aus...")
-            execute_pgbench(benchmark)
+            execute_pgbench(benchmark, clients=clients, jobs=jobs, duration=duration)
         elif choice == "2":
             benchmark = read_benchmarks()
             print(f"Führe EXPLAIN ANALYZE für {benchmark.name} aus...")
