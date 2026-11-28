@@ -16,11 +16,15 @@
 4. Mittels Dialogfenster:
     1. Tabellen erstellen
     2. Daten importieren
+    3. Benchmarks laufen lassen, Optimierungen durchführen
+5. Queries liegen in queries.sql und müssen mit z.B. DataGrip oder pgAdmin ausgeführt werden
     
 ## Arbeitsaufteilung
 + Leonard und Yannick: Schreiben Skript für das Erstellen der Datenbank und das Parsen der Deutschen Artikel
 + Ruben: Sucht nach passenden Englischen Artikeln -> https://github.com/Webhose/fake-news-dataset/tree/master sämmtliche Artikel importiert. Nur Artikel mit dem tag `"language": "english"` wurden in das Set für diese Aufgabe übernommen. 
 + Queries wurden gemeinsam in der Gruppe erarbeitet, zum Teil aufgeteilt und dann zusammen besprochen
++ Jeder hat sich mindestens eine Query raus gesucht, einen Benchmark dafür geschrieben und versucht diesen mit Indexen zu optimieren
 
 ## Auffälligkeiten
 + Datei mit dem Namen "6814f4f4-117a-4ca1-98ec-53ee598f283f.json" beinhaltet den gleichen JSON Inhalt hintereinander. Zweiter Inhalt wurde gelöscht damit import fehlerfrei läuft.
++ Query Planer nutzt keine Indexe für Queries die sowieso jede Zeile betrachten müssen
